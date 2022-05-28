@@ -1,14 +1,20 @@
 {
   "num": "1538",
   "name": {
-    "KO": "하츠네 미쿠 심포니 5th Anniversary Ver."
+    "KO": "하츠네 미쿠 심포니 5th Anniversary Ver.",
+	"JA": "ねんどろいど 初音ミクシンフォニー 5th Anniversary Ver.",
+    "EN": "Nendoroid Hatsune Miku: Symphony 5th Anniversary Ver."
   },
   "series": {
-    "KO": "하츠네미쿠"
+    "KO": "하츠네미쿠",
+	"JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "EN": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 10561,
-  "price": -1,
-  "release_date": [],
+  "price": 7800,
+  "release_date": [
+    "2021/08"
+  ],
   "image": "https://images.goodsmile.info/cgm/images/product/20201215/10561/78770/large/3bee22bd70c6ce9caf9510d909e71158.jpg",
   "gender": "여"
 }
