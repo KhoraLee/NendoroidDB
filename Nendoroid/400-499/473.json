@@ -1,0 +1,22 @@
+{
+  "num": "473",
+  "name": {
+    "KO": "마리오",
+    "JA": "ねんどろいど マリオ (ねんどろいど まりお)",
+    "EN": "Nendoroid Mario"
+  },
+  "series": {
+    "KO": "슈퍼 마리오",
+    "JA": "スーパーマリオ",
+    "EN": "Super Mario"
+  },
+  "gsc_productNum": 4720,
+  "price": 4584,
+  "release_date": [
+    "2015/06",
+    "2018/8",
+    "2020/4"
+  ],
+  "image": "https://images.goodsmile.info/cgm/images/product/20141107/4720/31289/large/e97968f66e265af7f84e25be1b5e7ccd.jpg",
+  "gender": "남"
+}

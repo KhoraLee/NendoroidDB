@@ -1,0 +1,20 @@
+{
+  "num": "123",
+  "name": {
+    "KO": "나카토 유키 소실 Ver.",
+    "JA": "ねんどろいど 長門有希 消失Ver. (ねんどろいど ながとゆき しょうしつver.)",
+    "EN": "Nendoroid Yuki Nagato: Disappearance ver. (ねんどろいど ながとゆき しょうしつver.)"
+  },
+  "series": {
+    "KO": "스즈미야 하루히의 소실",
+    "JA": "涼宮ハルヒの消失",
+    "EN": "The Disappearance of Haruhi Suzumiya"
+  },
+  "gsc_productNum": 2909,
+  "price": 3667,
+  "release_date": [
+    "2010/11"
+  ],
+  "image": "https://images.goodsmile.info/cgm/images/product/20100715/2909/10711/large/9a7f3ccd7d94151c2ecabf8e54cc50f9.jpg",
+  "gender": "여"
+}

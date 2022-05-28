@@ -1,0 +1,20 @@
+{
+  "num": "1023",
+  "name": {
+    "KO": "타카오",
+    "JA": "ねんどろいど 高雄 (ねんどろいど たかお)",
+    "EN": "Nendoroid Takao"
+  },
+  "series": {
+    "KO": "함대 컬렉션",
+    "JA": "艦隊これくしょん ‐艦これ‐",
+    "EN": "Kantai Collection -KanColle-"
+  },
+  "gsc_productNum": 7745,
+  "price": 7028,
+  "release_date": [
+    "2019/05"
+  ],
+  "image": "https://images.goodsmile.info/cgm/images/product/20181026/7745/55519/large/40e872d5d653fcaa506e788ee7ec0d78.jpg",
+  "gender": "여"
+}

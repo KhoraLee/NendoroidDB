@@ -1,0 +1,22 @@
+{
+  "num": "375",
+  "name": {
+    "KO": "앨런 예거",
+    "JA": "ねんどろいど エレン・イェーガー (ねんどろいど えれん・いぇーがー)",
+    "EN": "Nendoroid Eren Yeager"
+  },
+  "series": {
+    "KO": "진격의 거인",
+    "JA": "進撃の巨人",
+    "EN": "Attack on Titan"
+  },
+  "gsc_productNum": 4095,
+  "price": 5500,
+  "release_date": [
+    "2014/4",
+    "2019/9",
+    "2022/8"
+  ],
+  "image": "https://images.goodsmile.info/cgm/images/product/20131018/4095/60040/large/57ef8e5ac75f6127a7873e4adf2743c8.jpg",
+  "gender": "남"
+}

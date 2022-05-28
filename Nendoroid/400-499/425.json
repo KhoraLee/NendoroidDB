@@ -1,0 +1,21 @@
+{
+  "num": "425",
+  "name": {
+    "KO": "레드",
+    "JA": "ねんどろいど レッド (ねんどろいど れっど)",
+    "EN": "Nendoroid Red (ねんどろいど れっど)"
+  },
+  "series": {
+    "KO": "포켓몬스터",
+    "JA": "ポケットモンスター",
+    "EN": "Pokémon"
+  },
+  "gsc_productNum": 4413,
+  "price": 4950,
+  "release_date": [
+    "2014/9",
+    "2017/6"
+  ],
+  "image": "https://images.goodsmile.info/cgm/images/product/20140508/4413/28903/large/52552b615291d45288499b0b785d3dc7.jpg",
+  "gender": "남"
+}

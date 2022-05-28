@@ -1,0 +1,20 @@
+{
+  "num": "1002a",
+  "name": {
+    "KO": "새러토가 Mk.2",
+    "JA": "ねんどろいど Saratoga（サラトガ） Mk.II (ねんどろいど さらとが まーくつー)",
+    "EN": "Nendoroid Saratoga Mk.II"
+  },
+  "series": {
+    "KO": "함대 컬렉션",
+    "JA": "艦隊これくしょん ‐艦これ‐",
+    "EN": "Kantai Collection -KanColle-"
+  },
+  "gsc_productNum": 7666,
+  "price": 7231,
+  "release_date": [
+    "2019/04"
+  ],
+  "image": "https://images.goodsmile.info/cgm/images/product/20181004/7666/54991/large/3456f16403c7af4819a31c026d491f3f.jpg",
+  "gender": "여"
+}

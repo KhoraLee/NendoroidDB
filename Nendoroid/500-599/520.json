@@ -1,0 +1,20 @@
+{
+  "num": "520",
+  "name": {
+    "KO": "야마토",
+    "JA": "ねんどろいど 大和 (ねんどろいど やまと)",
+    "EN": "Nendoroid Yamato (ねんどろいど やまと)"
+  },
+  "series": {
+    "KO": "함대 컬렉션",
+    "JA": "艦隊これくしょん ‐艦これ‐",
+    "EN": "Kantai Collection -KanColle-"
+  },
+  "gsc_productNum": 5000,
+  "price": 7944,
+  "release_date": [
+    "2015/09"
+  ],
+  "image": "https://images.goodsmile.info/cgm/images/product/20150511/5000/33460/large/8bd5d695a9a3b89fb4b7c23fa4555b4b.jpg",
+  "gender": "여"
+}
