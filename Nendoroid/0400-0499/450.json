@@ -1,14 +1,14 @@
 {
   "num": "450",
   "name": {
-    "KO": "코사카 호노카",
-    "JA": "ねんどろいど 高坂穂乃果 (ねんどろいど こうさかほのか)",
-    "EN": "Nendoroid Honoka Kosaka (ねんどろいど こうさかほのか)"
+    "ko": "코사카 호노카",
+    "ja": "ねんどろいど 高坂穂乃果 (ねんどろいど こうさかほのか)",
+    "en": "Nendoroid Honoka Kosaka (ねんどろいど こうさかほのか)"
   },
   "series": {
-    "KO": "러브라이브!",
-    "JA": "ラブライブ！",
-    "EN": "LoveLive!"
+    "ko": "러브라이브!",
+    "ja": "ラブライブ！",
+    "en": "LoveLive!"
   },
   "gsc_productNum": 4534,
   "price": 3565,

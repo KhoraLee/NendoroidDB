@@ -1,14 +1,14 @@
 {
   "num": "1080",
   "name": {
-    "KO": "군막소",
-    "JA": "ねんどろいど 君莫笑 (ねんどろいど じゅんもーしやお)",
-    "EN": "Nendoroid Lord Grim"
+    "ko": "군막소",
+    "ja": "ねんどろいど 君莫笑 (ねんどろいど じゅんもーしやお)",
+    "en": "Nendoroid Lord Grim"
   },
   "series": {
-    "KO": "전직고수",
-    "JA": "マスターオブスキル（全職高手）",
-    "EN": "The King\u0027s Avatar"
+    "ko": "전직고수",
+    "ja": "マスターオブスキル（全職高手）",
+    "en": "The King\u0027s Avatar"
   },
   "gsc_productNum": 8307,
   "price": 5907,

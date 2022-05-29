@@ -1,14 +1,14 @@
 {
   "num": "837",
   "name": {
-    "KO": "사쿠라",
-    "JA": "ねんどろいど サクラ (ねんどろいど さくら)",
-    "EN": "Nendoroid Sakura"
+    "ko": "사쿠라",
+    "ja": "ねんどろいど サクラ (ねんどろいど さくら)",
+    "en": "Nendoroid Sakura"
   },
   "series": {
-    "KO": "파이어 엠블렘",
-    "JA": "ファイアーエムブレムif",
-    "EN": "Fire Emblem Fates"
+    "ko": "파이어 엠블렘",
+    "ja": "ファイアーエムブレムif",
+    "en": "Fire Emblem Fates"
   },
   "gsc_productNum": 6777,
   "price": 4888,

@@ -1,14 +1,14 @@
 {
   "num": "046",
   "name": {
-    "KO": "카츠라기 야코",
-    "JA": "ねんどろいど 桂木弥子 (かつらぎ やこ ねんどろいど)",
-    "EN": "Nendoroid Yako Katsuragi (かつらぎ やこ ねんどろいど)"
+    "ko": "카츠라기 야코",
+    "ja": "ねんどろいど 桂木弥子 (かつらぎ やこ ねんどろいど)",
+    "en": "Nendoroid Yako Katsuragi (かつらぎ やこ ねんどろいど)"
   },
   "series": {
-    "KO": "마인탐정 네우로",
-    "JA": "魔人探偵脳噛ネウロ",
-    "EN": "Demon Detective Neuro Nougami"
+    "ko": "마인탐정 네우로",
+    "ja": "魔人探偵脳噛ネウロ",
+    "en": "Demon Detective Neuro Nougami"
   },
   "gsc_productNum": 266,
   "price": 3667,

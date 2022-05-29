@@ -1,14 +1,14 @@
 {
   "num": "1415",
   "name": {
-    "KO": "나카하라 츄야 에어포트 Ver.",
-    "JA": "ねんどろいど 中原中也 ヱアポートVer. (ねんどろいど はかはらちゅうや えあぽーとVer.)",
-    "EN": "Nendoroid Chuya Nakahara: Airport Ver."
+    "ko": "나카하라 츄야 에어포트 Ver.",
+    "ja": "ねんどろいど 中原中也 ヱアポートVer. (ねんどろいど はかはらちゅうや えあぽーとVer.)",
+    "en": "Nendoroid Chuya Nakahara: Airport Ver."
   },
   "series": {
-    "KO": "문호 스트레이 독스",
-    "JA": "文豪ストレイドッグス",
-    "EN": "Bungo Stray Dogs"
+    "ko": "문호 스트레이 독스",
+    "ja": "文豪ストレイドッグス",
+    "en": "Bungo Stray Dogs"
   },
   "gsc_productNum": 9772,
   "price": 4600,

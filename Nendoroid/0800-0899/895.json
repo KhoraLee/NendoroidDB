@@ -1,14 +1,14 @@
 {
   "num": "895",
   "name": {
-    "KO": "가디언",
-    "JA": "ねんどろいど ガーディアン (ねんどろいど がーでぃあん)",
-    "EN": "Nendoroid Guardian"
+    "ko": "가디언",
+    "ja": "ねんどろいど ガーディアン (ねんどろいど がーでぃあん)",
+    "en": "Nendoroid Guardian"
   },
   "series": {
-    "KO": "젤다의 전설",
-    "JA": "ゼルダの伝説　ブレス オブ ザ ワイルド",
-    "EN": "The Legend of Zelda: Breath of the Wild"
+    "ko": "젤다의 전설",
+    "ja": "ゼルダの伝説　ブレス オブ ザ ワイルド",
+    "en": "The Legend of Zelda: Breath of the Wild"
   },
   "gsc_productNum": 7087,
   "price": 5907,

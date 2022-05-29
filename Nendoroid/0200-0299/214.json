@@ -1,14 +1,14 @@
 {
   "num": "214",
   "name": {
-    "KO": "소닉 더 헤지혹",
-    "JA": "ねんどろいど ソニック・ザ・ヘッジホッグ (ねんどろいど そにっく・ざ・へっじほっぐ)",
-    "EN": "Nendoroid Sonic the Hedgehog"
+    "ko": "소닉 더 헤지혹",
+    "ja": "ねんどろいど ソニック・ザ・ヘッジホッグ (ねんどろいど そにっく・ざ・へっじほっぐ)",
+    "en": "Nendoroid Sonic the Hedgehog"
   },
   "series": {
-    "KO": "소닉 더 헤지혹 시리즈",
-    "JA": "ソニック・ザ・ヘッジホッグ",
-    "EN": "Sonic the Hedgehog"
+    "ko": "소닉 더 헤지혹 시리즈",
+    "ja": "ソニック・ザ・ヘッジホッグ",
+    "en": "Sonic the Hedgehog"
   },
   "gsc_productNum": 3397,
   "price": 3900,

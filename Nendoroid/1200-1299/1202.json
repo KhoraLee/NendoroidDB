@@ -1,14 +1,14 @@
 {
   "num": "1202",
   "name": {
-    "KO": "시키나미 아스카 랑그레이",
-    "JA": "ねんどろいど 式波・アスカ・ラングレー (ねんどろいど しきなみ・あすか・らんぐれー)",
-    "EN": "Nendoroid Asuka Shikinami Langley"
+    "ko": "시키나미 아스카 랑그레이",
+    "ja": "ねんどろいど 式波・アスカ・ラングレー (ねんどろいど しきなみ・あすか・らんぐれー)",
+    "en": "Nendoroid Asuka Shikinami Langley"
   },
   "series": {
-    "KO": "에반게리온",
-    "JA": "ヱヴァンゲリヲン新劇場版",
-    "EN": "Rebuild of Evangelion"
+    "ko": "에반게리온",
+    "ja": "ヱヴァンゲリヲン新劇場版",
+    "en": "Rebuild of Evangelion"
   },
   "gsc_productNum": 8773,
   "price": 5100,

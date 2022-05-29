@@ -1,14 +1,14 @@
 {
   "num": "1016",
   "name": {
-    "KO": "랜서/에레쉬키갈",
-    "JA": "ねんどろいど ランサー/エレシュキガル (ねんどろいど らんさー/えれしゅきがる)",
-    "EN": "Nendoroid Lancer/Ereshkigal"
+    "ko": "랜서/에레쉬키갈",
+    "ja": "ねんどろいど ランサー/エレシュキガル (ねんどろいど らんさー/えれしゅきがる)",
+    "en": "Nendoroid Lancer/Ereshkigal"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 7697,
   "price": 5907,

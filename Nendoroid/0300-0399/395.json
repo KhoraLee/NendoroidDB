@@ -1,14 +1,14 @@
 {
   "num": "395",
   "name": {
-    "KO": "요시노",
-    "JA": "ねんどろいど 四糸乃 (ねんどろいど よしの)",
-    "EN": "Nendoroid Yoshino (ねんどろいど よしの)"
+    "ko": "요시노",
+    "ja": "ねんどろいど 四糸乃 (ねんどろいど よしの)",
+    "en": "Nendoroid Yoshino (ねんどろいど よしの)"
   },
   "series": {
-    "KO": "데이트 어 라이브",
-    "JA": "デート・ア・ライブ",
-    "EN": "Date A Live"
+    "ko": "데이트 어 라이브",
+    "ja": "デート・ア・ライブ",
+    "en": "Date A Live"
   },
   "gsc_productNum": 4205,
   "price": 4888,

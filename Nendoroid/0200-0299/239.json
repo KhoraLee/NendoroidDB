@@ -1,14 +1,14 @@
 {
   "num": "239",
   "name": {
-    "KO": "레이싱 미쿠 2012 Ver.",
-    "JA": "ねんどろいど レーシングミク 2012 Ver. (ねんどろいど れーしんぐみく 2012 Ver.)",
-    "EN": "Nendoroid Racing Miku 2012 Ver. (ねんどろいど れーしんぐみく 2012 Ver.)"
+    "ko": "레이싱 미쿠 2012 Ver.",
+    "ja": "ねんどろいど レーシングミク 2012 Ver. (ねんどろいど れーしんぐみく 2012 Ver.)",
+    "en": "Nendoroid Racing Miku 2012 Ver. (ねんどろいど れーしんぐみく 2012 Ver.)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "初音ミク GTプロジェクト",
-    "EN": "Racing Miku 2012 ver."
+    "ko": "하츠네미쿠",
+    "ja": "初音ミク GTプロジェクト",
+    "en": "Racing Miku 2012 ver."
   },
   "gsc_productNum": 3503,
   "price": -1,

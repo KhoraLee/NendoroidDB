@@ -1,14 +1,14 @@
 {
   "num": "109b",
   "name": {
-    "KO": "레이싱 미쿠",
-    "JA": "ねんどろいど レーシングミク 2010 Ver. リターンズ (ねんどろいど れーしんぐみく 2010 Ver. りたーんず)",
-    "EN": "Nendoroid Racing Miku 2010 Ver. Returns (ねんどろいど れーしんぐみく2010 Ver. りたーんず)"
+    "ko": "레이싱 미쿠",
+    "ja": "ねんどろいど レーシングミク 2010 Ver. リターンズ (ねんどろいど れーしんぐみく 2010 Ver. りたーんず)",
+    "en": "Nendoroid Racing Miku 2010 Ver. Returns (ねんどろいど れーしんぐみく2010 Ver. りたーんず)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "初音ミクGTプロジェクト",
-    "EN": "Hatsune Miku: Racing Ver."
+    "ko": "하츠네미쿠",
+    "ja": "初音ミクGTプロジェクト",
+    "en": "Hatsune Miku: Racing Ver."
   },
   "gsc_productNum": 3677,
   "price": -1,

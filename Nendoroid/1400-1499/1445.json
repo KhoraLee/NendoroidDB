@@ -1,14 +1,14 @@
 {
   "num": "1445",
   "name": {
-    "KO": "이카리 신지 플러그 슈트 Ver.",
-    "JA": "ねんどろいど 碇シンジ プラグスーツVer. (ねんどろいど いかりしんじ ぷらぐすーつVer.)",
-    "EN": "Nendoroid Shinji Ikari: Plugsuit Ver."
+    "ko": "이카리 신지 플러그 슈트 Ver.",
+    "ja": "ねんどろいど 碇シンジ プラグスーツVer. (ねんどろいど いかりしんじ ぷらぐすーつVer.)",
+    "en": "Nendoroid Shinji Ikari: Plugsuit Ver."
   },
   "series": {
-    "KO": "에반게리온",
-    "JA": "ヱヴァンゲリヲン新劇場版",
-    "EN": "Rebuild of Evangelion"
+    "ko": "에반게리온",
+    "ja": "ヱヴァンゲリヲン新劇場版",
+    "en": "Rebuild of Evangelion"
   },
   "gsc_productNum": 9967,
   "price": 5800,

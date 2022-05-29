@@ -1,14 +1,14 @@
 {
   "num": "1365",
   "name": {
-    "KO": "아마테라스",
-    "JA": "ねんどろいど アマテラス (ねんどろいど あまてらす)",
-    "EN": "Nendoroid Amaterasu"
+    "ko": "아마테라스",
+    "ja": "ねんどろいど アマテラス (ねんどろいど あまてらす)",
+    "en": "Nendoroid Amaterasu"
   },
   "series": {
-    "KO": "오오카미",
-    "JA": "大神",
-    "EN": "Okami"
+    "ko": "오오카미",
+    "ja": "大神",
+    "en": "Okami"
   },
   "gsc_productNum": 9429,
   "price": 5500,

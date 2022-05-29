@@ -1,14 +1,14 @@
 {
   "num": "105",
   "name": {
-    "KO": "이자요이 사쿠야",
-    "JA": "ねんどろいど 十六夜咲夜 (ねんどろいど いざよいさくや)",
-    "EN": "Nendoroid Sakuya Izayoi (ねんどろいど いざよいさくや)"
+    "ko": "이자요이 사쿠야",
+    "ja": "ねんどろいど 十六夜咲夜 (ねんどろいど いざよいさくや)",
+    "en": "Nendoroid Sakuya Izayoi (ねんどろいど いざよいさくや)"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 2797,
   "price": 3143,

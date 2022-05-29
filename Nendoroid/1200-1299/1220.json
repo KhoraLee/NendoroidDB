@@ -1,14 +1,14 @@
 {
   "num": "1220",
   "name": {
-    "KO": "아처/길가메시 제3 재림 Ver.",
-    "JA": "ねんどろいど アーチャー/ギルガメッシュ 第三再臨Ver. (ねんどろいど あーちゃー/ぎるがめっしゅ だいさんさいりんVer.)",
-    "EN": "Nendoroid Archer/Gilgamesh: Third Ascension Ver."
+    "ko": "아처/길가메시 제3 재림 Ver.",
+    "ja": "ねんどろいど アーチャー/ギルガメッシュ 第三再臨Ver. (ねんどろいど あーちゃー/ぎるがめっしゅ だいさんさいりんVer.)",
+    "en": "Nendoroid Archer/Gilgamesh: Third Ascension Ver."
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 8871,
   "price": 4800,

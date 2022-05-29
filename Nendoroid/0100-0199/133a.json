@@ -1,14 +1,14 @@
 {
   "num": "133a",
   "name": {
-    "KO": "카트레아",
-    "JA": "ねんどろいど カトレア (ねんどろいど かとれあ)",
-    "EN": "Nendoroid Cattleya (ねんどろいど かとれあ)"
+    "ko": "카트레아",
+    "ja": "ねんどろいど カトレア (ねんどろいど かとれあ)",
+    "en": "Nendoroid Cattleya (ねんどろいど かとれあ)"
   },
   "series": {
-    "KO": "퀸즈 블레이드",
-    "JA": "クイーンズブレイド",
-    "EN": "Queen\u0027s Blade"
+    "ko": "퀸즈 블레이드",
+    "ja": "クイーンズブレイド",
+    "en": "Queen\u0027s Blade"
   },
   "gsc_productNum": 2960,
   "price": 4190,

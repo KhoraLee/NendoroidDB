@@ -1,14 +1,14 @@
 {
   "num": "1252",
   "name": {
-    "KO": "마토 사쿠라",
-    "JA": "ねんどろいど 間桐桜 (ねんどろいど まとうさくら)",
-    "EN": "Nendoroid Sakura Matou"
+    "ko": "마토 사쿠라",
+    "ja": "ねんどろいど 間桐桜 (ねんどろいど まとうさくら)",
+    "en": "Nendoroid Sakura Matou"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "劇場版「Fate/stay night [Heaven\u0027s Feel]」",
-    "EN": "Fate/stay night: Heaven\u0027s Feel"
+    "ko": "페이트 시리즈",
+    "ja": "劇場版「Fate/stay night [Heaven\u0027s Feel]」",
+    "en": "Fate/stay night: Heaven\u0027s Feel"
   },
   "gsc_productNum": 9690,
   "price": 5000,

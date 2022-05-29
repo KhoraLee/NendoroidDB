@@ -1,14 +1,14 @@
 {
   "num": "376",
   "name": {
-    "KO": "헌터♀ 울크 에디션",
-    "JA": "ねんどろいど ハンター♀ ウルク・エディション (ねんどろいど はんたー♀ うるく・えでぃしょん)",
-    "EN": "Nendoroid Hunter: Female - Lagombi Edition (ねんどろいど はんたー♀ うるく・えでぃしょん)"
+    "ko": "헌터♀ 울크 에디션",
+    "ja": "ねんどろいど ハンター♀ ウルク・エディション (ねんどろいど はんたー♀ うるく・えでぃしょん)",
+    "en": "Nendoroid Hunter: Female - Lagombi Edition (ねんどろいど はんたー♀ うるく・えでぃしょん)"
   },
   "series": {
-    "KO": "몬스터 헌터",
-    "JA": "モンスターハンター4",
-    "EN": "Monster Hunter 4"
+    "ko": "몬스터 헌터",
+    "ja": "モンスターハンター4",
+    "en": "Monster Hunter 4"
   },
   "gsc_productNum": 4105,
   "price": 6076,

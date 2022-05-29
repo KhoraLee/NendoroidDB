@@ -1,14 +1,14 @@
 {
   "num": "335",
   "name": {
-    "KO": "센조가하라 히타기",
-    "JA": "ねんどろいど 戦場ヶ原ひたぎ (ねんどろいど せんじょうがはらひたぎ)",
-    "EN": "Nendoroid Hitagi Senjyogahara (ねんどろいど せんじょうがはらひたぎ)"
+    "ko": "센조가하라 히타기",
+    "ja": "ねんどろいど 戦場ヶ原ひたぎ (ねんどろいど せんじょうがはらひたぎ)",
+    "en": "Nendoroid Hitagi Senjyogahara (ねんどろいど せんじょうがはらひたぎ)"
   },
   "series": {
-    "KO": "모노가타리 시리즈",
-    "JA": "化物語",
-    "EN": "Bakemonogatari"
+    "ko": "모노가타리 시리즈",
+    "ja": "化物語",
+    "en": "Bakemonogatari"
   },
   "gsc_productNum": 3908,
   "price": 6270,

@@ -1,14 +1,14 @@
 {
   "num": "1154-DX",
   "name": {
-    "KO": "캡틴 마블 히어로 에디션 DX",
-    "JA": "ねんどろいど キャプテン・マーベル ヒーローズ・エディション DX Ver. (ねんどろいど きゃぷてん・まーべる ひーろーず・えでぃしょん DX Ver.)",
-    "EN": "Nendoroid Captain Marvel: Hero\u0027s Edition DX Ver."
+    "ko": "캡틴 마블 히어로 에디션 DX",
+    "ja": "ねんどろいど キャプテン・マーベル ヒーローズ・エディション DX Ver. (ねんどろいど きゃぷてん・まーべる ひーろーず・えでぃしょん DX Ver.)",
+    "en": "Nendoroid Captain Marvel: Hero\u0027s Edition DX Ver."
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "キャプテン・マーベル",
-    "EN": "Captain Marvel"
+    "ko": "어벤져스",
+    "ja": "キャプテン・マーベル",
+    "en": "Captain Marvel"
   },
   "gsc_productNum": 8446,
   "price": 8000,

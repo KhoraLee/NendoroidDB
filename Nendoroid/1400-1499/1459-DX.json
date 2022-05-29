@@ -1,14 +1,14 @@
 {
   "num": "1459-DX",
   "name": {
-    "KO": "나타 DX",
-    "JA": "ねんどろいど 哪吒 DX Ver. (ねんどろいど なた DX Ver.)",
-    "EN": "Nendoroid Ne Zha DX Ver."
+    "ko": "나타 DX",
+    "ja": "ねんどろいど 哪吒 DX Ver. (ねんどろいど なた DX Ver.)",
+    "en": "Nendoroid Ne Zha DX Ver."
   },
   "series": {
-    "KO": "나타지마동강세",
-    "JA": "哪吒之魔童降世",
-    "EN": "Ne Zha"
+    "ko": "나타지마동강세",
+    "ja": "哪吒之魔童降世",
+    "en": "Ne Zha"
   },
   "gsc_productNum": 10686,
   "price": 6800,

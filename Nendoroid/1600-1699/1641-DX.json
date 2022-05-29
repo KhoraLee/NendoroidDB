@@ -1,14 +1,14 @@
 {
   "num": "1641-DX",
   "name": {
-    "KO": "오사 DX",
-    "JA": "ねんどろいど 呉邪 DX (ねんどろいど ごじゃ DX)",
-    "EN": "Nendoroid Wu Xie DX"
+    "ko": "오사 DX",
+    "ja": "ねんどろいど 呉邪 DX (ねんどろいど ごじゃ DX)",
+    "en": "Nendoroid Wu Xie DX"
   },
   "series": {
-    "KO": "도묘필기",
-    "JA": "盗墓筆記",
-    "EN": "TIME RAIDERS"
+    "ko": "도묘필기",
+    "ja": "盗墓筆記",
+    "en": "TIME RAIDERS"
   },
   "gsc_productNum": 11286,
   "price": 7800,

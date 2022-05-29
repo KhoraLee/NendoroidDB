@@ -1,14 +1,14 @@
 {
   "num": "1075",
   "name": {
-    "KO": "미키",
-    "JA": "ねんどろいど 王様（ミッキーマウス） (ねんどろいど おうさま（みっきーまうす）)",
-    "EN": "Nendoroid KING MICKEY"
+    "ko": "미키",
+    "ja": "ねんどろいど 王様（ミッキーマウス） (ねんどろいど おうさま（みっきーまうす）)",
+    "en": "Nendoroid KING MICKEY"
   },
   "series": {
-    "KO": "킹덤 하츠 시리즈",
-    "JA": "キングダム ハーツⅡ",
-    "EN": "Kingdom Hearts II"
+    "ko": "킹덤 하츠 시리즈",
+    "ja": "キングダム ハーツⅡ",
+    "en": "Kingdom Hearts II"
   },
   "gsc_productNum": 8000,
   "price": 5093,

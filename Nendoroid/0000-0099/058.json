@@ -1,14 +1,14 @@
 {
   "num": "058",
   "name": {
-    "KO": "KAITO",
-    "JA": "ねんどろいど KAITO (ねんどろいど かいと)",
-    "EN": "Nendoroid KAITO (ねんどろいど かいと)"
+    "ko": "KAITO",
+    "ja": "ねんどろいど KAITO (ねんどろいど かいと)",
+    "en": "Nendoroid KAITO (ねんどろいど かいと)"
   },
   "series": {
-    "KO": "보컬로이드(VOCALOID)",
-    "JA": "KAITO",
-    "EN": "KAITO"
+    "ko": "보컬로이드(VOCALOID)",
+    "ja": "KAITO",
+    "en": "KAITO"
   },
   "gsc_productNum": 2165,
   "price": 3143,

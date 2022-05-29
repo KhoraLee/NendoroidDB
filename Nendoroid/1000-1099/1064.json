@@ -1,14 +1,14 @@
 {
   "num": "1064",
   "name": {
-    "KO": "코이와이 요츠바",
-    "JA": "ねんどろいど 小岩井よつば (ねんどろいど こいわいよつば)",
-    "EN": "Nendoroid Yotsuba Koiwai"
+    "ko": "코이와이 요츠바",
+    "ja": "ねんどろいど 小岩井よつば (ねんどろいど こいわいよつば)",
+    "en": "Nendoroid Yotsuba Koiwai"
   },
   "series": {
-    "KO": "요츠바랑!",
-    "JA": "よつばと！",
-    "EN": "YOTSUBA\u0026!"
+    "ko": "요츠바랑!",
+    "ja": "よつばと！",
+    "en": "YOTSUBA\u0026!"
   },
   "gsc_productNum": 7973,
   "price": 5093,

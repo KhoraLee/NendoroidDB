@@ -1,14 +1,14 @@
 {
   "num": "1109-DX",
   "name": {
-    "KO": "남망기 DX Ver.",
-    "JA": "ねんどろいど 藍忘機 DX (ねんどろいど らんぼうき DX)",
-    "EN": "Nendoroid Lan Wangji DX"
+    "ko": "남망기 DX Ver.",
+    "ja": "ねんどろいど 藍忘機 DX (ねんどろいど らんぼうき DX)",
+    "en": "Nendoroid Lan Wangji DX"
   },
   "series": {
-    "KO": "마도조사",
-    "JA": "アニメ「魔道祖師」",
-    "EN": "The Master of Diabolism"
+    "ko": "마도조사",
+    "ja": "アニメ「魔道祖師」",
+    "en": "The Master of Diabolism"
   },
   "gsc_productNum": 11632,
   "price": 8400,

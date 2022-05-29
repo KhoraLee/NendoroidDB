@@ -1,14 +1,14 @@
 {
   "num": "1050",
   "name": {
-    "KO": "그리드맨",
-    "JA": "ねんどろいど グリッドマン SSSS.Ver. (ねんどろいど ぐりっどまん SSSS.Ver.)",
-    "EN": "Nendoroid Gridman: SSSS. Ver."
+    "ko": "그리드맨",
+    "ja": "ねんどろいど グリッドマン SSSS.Ver. (ねんどろいど ぐりっどまん SSSS.Ver.)",
+    "en": "Nendoroid Gridman: SSSS. Ver."
   },
   "series": {
-    "KO": "SSSS.GRIDMAN",
-    "JA": "SSSS.GRIDMAN",
-    "EN": "SSSS.GRIDMAN"
+    "ko": "SSSS.GRIDMAN",
+    "ja": "SSSS.GRIDMAN",
+    "en": "SSSS.GRIDMAN"
   },
   "gsc_productNum": 7877,
   "price": 5093,

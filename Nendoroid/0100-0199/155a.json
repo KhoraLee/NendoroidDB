@@ -1,14 +1,14 @@
 {
   "num": "155a",
   "name": {
-    "KO": "알드라",
-    "JA": "ねんどろいど アルドラ (ねんどろいど あるどら)",
-    "EN": "Nendoroid Aldora (ねんどろいど あるどら)"
+    "ko": "알드라",
+    "ja": "ねんどろいど アルドラ (ねんどろいど あるどら)",
+    "en": "Nendoroid Aldora (ねんどろいど あるどら)"
   },
   "series": {
-    "KO": "퀸즈 블레이드",
-    "JA": "クイーンズブレイド",
-    "EN": "Queen\u0027s Blade"
+    "ko": "퀸즈 블레이드",
+    "ja": "クイーンズブレイド",
+    "en": "Queen\u0027s Blade"
   },
   "gsc_productNum": 3084,
   "price": 3667,

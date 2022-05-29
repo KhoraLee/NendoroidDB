@@ -1,14 +1,14 @@
 {
   "num": "1589",
   "name": {
-    "KO": "어쌔신/우미인",
-    "JA": "ねんどろいど アサシン/虞美人 (ねんどろいど あさしん/ぐびじん)",
-    "EN": "Nendoroid Assassin/Yu Mei-ren"
+    "ko": "어쌔신/우미인",
+    "ja": "ねんどろいど アサシン/虞美人 (ねんどろいど あさしん/ぐびじん)",
+    "en": "Nendoroid Assassin/Yu Mei-ren"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 10909,
   "price": 5800,

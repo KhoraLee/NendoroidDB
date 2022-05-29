@@ -1,14 +1,14 @@
 {
   "num": "1694",
   "name": {
-    "KO": "배트맨 1989 ver.",
-    "JA": "ねんどろいど バットマン 1989 Ver. (ねんどろいど ばっとまん 1989 Ver.)",
-    "EN": "Nendoroid Batman: 1989 Ver."
+    "ko": "배트맨 1989 ver.",
+    "ja": "ねんどろいど バットマン 1989 Ver. (ねんどろいど ばっとまん 1989 Ver.)",
+    "en": "Nendoroid Batman: 1989 Ver."
   },
   "series": {
-    "KO": "배트맨",
-    "JA": "バットマン",
-    "EN": "Batman"
+    "ko": "배트맨",
+    "ja": "バットマン",
+    "en": "Batman"
   },
   "gsc_productNum": 11465,
   "price": 8000,

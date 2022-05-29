@@ -1,14 +1,14 @@
 {
   "num": "475",
   "name": {
-    "KO": "엘사",
-    "JA": "ねんどろいど エルサ (ねんどろいど えるさ)",
-    "EN": "Nendoroid Elsa"
+    "ko": "엘사",
+    "ja": "ねんどろいど エルサ (ねんどろいど えるさ)",
+    "en": "Nendoroid Elsa"
   },
   "series": {
-    "KO": "겨울왕국",
-    "JA": "アナと雪の女王",
-    "EN": "Frozen"
+    "ko": "겨울왕국",
+    "ja": "アナと雪の女王",
+    "en": "Frozen"
   },
   "gsc_productNum": 4738,
   "price": 5000,

@@ -1,14 +1,14 @@
 {
   "num": "1141",
   "name": {
-    "KO": "D.Va 아카데미 스킨 에디션",
-    "JA": "ねんどろいど D.Va アカデミースキン・エディション (ねんどろいど でぃーば あかでみーすきん・えでぃしょん)",
-    "EN": "Nendoroid D.Va: Academy Skin Edition"
+    "ko": "D.Va 아카데미 스킨 에디션",
+    "ja": "ねんどろいど D.Va アカデミースキン・エディション (ねんどろいど でぃーば あかでみーすきん・えでぃしょん)",
+    "en": "Nendoroid D.Va: Academy Skin Edition"
   },
   "series": {
-    "KO": "오버워치",
-    "JA": "オーバーウォッチ",
-    "EN": "Overwatch®"
+    "ko": "오버워치",
+    "ja": "オーバーウォッチ",
+    "en": "Overwatch®"
   },
   "gsc_productNum": 8361,
   "price": 4800,

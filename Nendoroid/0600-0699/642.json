@@ -1,14 +1,14 @@
 {
   "num": "642",
   "name": {
-    "KO": "알베도",
-    "JA": "ねんどろいど アルベド (ねんどろいど あるべど)",
-    "EN": "Nendoroid Albedo"
+    "ko": "알베도",
+    "ja": "ねんどろいど アルベド (ねんどろいど あるべど)",
+    "en": "Nendoroid Albedo"
   },
   "series": {
-    "KO": "오버로드",
-    "JA": "オーバーロード",
-    "EN": "OVERLORD"
+    "ko": "오버로드",
+    "ja": "オーバーロード",
+    "en": "OVERLORD"
   },
   "gsc_productNum": 5751,
   "price": 5093,

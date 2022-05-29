@@ -1,14 +1,14 @@
 {
   "num": "1120-DX",
   "name": {
-    "KO": "닥터 스트레인지 어벤져스 인피니티 워 에디션 DX Ver.",
-    "JA": "ねんどろいど ドクター・ストレンジ インフィニティ・エディション DX Ver. (ねんどろいど どくたー・すとれんじ いんふぃにてぃ・えでぃしょん DX Ver.)",
-    "EN": "Nendoroid Doctor Strange: Infinity Edition DX Ver."
+    "ko": "닥터 스트레인지 어벤져스 인피니티 워 에디션 DX Ver.",
+    "ja": "ねんどろいど ドクター・ストレンジ インフィニティ・エディション DX Ver. (ねんどろいど どくたー・すとれんじ いんふぃにてぃ・えでぃしょん DX Ver.)",
+    "en": "Nendoroid Doctor Strange: Infinity Edition DX Ver."
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "アベンジャーズ／インフィニティ・ウォー",
-    "EN": "Avengers: Infinity War"
+    "ko": "어벤져스",
+    "ja": "アベンジャーズ／インフィニティ・ウォー",
+    "en": "Avengers: Infinity War"
   },
   "gsc_productNum": 8243,
   "price": 8047,

@@ -1,14 +1,14 @@
 {
   "num": "457",
   "name": {
-    "KO": "오노데라 코사키",
-    "JA": "ねんどろいど 小野寺小咲 (ねんどろいど おのでらこさき)",
-    "EN": "Nendoroid Kosaki Onodera (ねんどろいど おのでらこさき)"
+    "ko": "오노데라 코사키",
+    "ja": "ねんどろいど 小野寺小咲 (ねんどろいど おのでらこさき)",
+    "en": "Nendoroid Kosaki Onodera (ねんどろいど おのでらこさき)"
   },
   "series": {
-    "KO": "니세코이",
-    "JA": "ニセコイ",
-    "EN": "Nisekoi"
+    "ko": "니세코이",
+    "ja": "ニセコイ",
+    "en": "Nisekoi"
   },
   "gsc_productNum": 4698,
   "price": 4074,

@@ -1,14 +1,14 @@
 {
   "num": "990",
   "name": {
-    "KO": "캐스터/길가메시",
-    "JA": "ねんどろいど キャスター/ギルガメッシュ (ねんどろいど きゃすたー/ぎるがめっしゅ)",
-    "EN": "Nendoroid Caster/Gilgamesh"
+    "ko": "캐스터/길가메시",
+    "ja": "ねんどろいど キャスター/ギルガメッシュ (ねんどろいど きゃすたー/ぎるがめっしゅ)",
+    "en": "Nendoroid Caster/Gilgamesh"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 7592,
   "price": 4584,

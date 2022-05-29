@@ -1,14 +1,14 @@
 {
   "num": "416",
   "name": {
-    "KO": "몬덴 사쿠라",
-    "JA": "ねんどろいど 門田さくら (ねんどろいど もんでんさくら)",
-    "EN": "Nendoroid Sakura Monden (ねんどろいど もんでんさくら)"
+    "ko": "몬덴 사쿠라",
+    "ja": "ねんどろいど 門田さくら (ねんどろいど もんでんさくら)",
+    "en": "Nendoroid Sakura Monden (ねんどろいど もんでんさくら)"
   },
   "series": {
-    "KO": "철도무스메",
-    "JA": "鉄道むすめ",
-    "EN": "Tetsudou Musume"
+    "ko": "철도무스메",
+    "ja": "鉄道むすめ",
+    "en": "Tetsudou Musume"
   },
   "gsc_productNum": 4367,
   "price": 4620,

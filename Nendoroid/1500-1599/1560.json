@@ -1,14 +1,14 @@
 {
   "num": "1560",
   "name": {
-    "KO": "덴지",
-    "JA": "ねんどろいど デンジ (ねんどろいど でんじ)",
-    "EN": "Nendoroid Denji"
+    "ko": "덴지",
+    "ja": "ねんどろいど デンジ (ねんどろいど でんじ)",
+    "en": "Nendoroid Denji"
   },
   "series": {
-    "KO": "체인소맨",
-    "JA": "チェンソーマン",
-    "EN": "Chainsaw Man"
+    "ko": "체인소맨",
+    "ja": "チェンソーマン",
+    "en": "Chainsaw Man"
   },
   "gsc_productNum": 10715,
   "price": 6100,

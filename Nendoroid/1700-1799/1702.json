@@ -1,14 +1,14 @@
 {
   "num": "1702",
   "name": {
-    "KO": "백설공주",
-    "JA": "ねんどろいど 白雪姫 (ねんどろいど しらゆきひめ)",
-    "EN": "Nendoroid Snow White"
+    "ko": "백설공주",
+    "ja": "ねんどろいど 白雪姫 (ねんどろいど しらゆきひめ)",
+    "en": "Nendoroid Snow White"
   },
   "series": {
-    "KO": "백설공주와 일곱 난쟁이",
-    "JA": "白雪姫",
-    "EN": "Snow White and the Seven Dwarfs"
+    "ko": "백설공주와 일곱 난쟁이",
+    "ja": "白雪姫",
+    "en": "Snow White and the Seven Dwarfs"
   },
   "gsc_productNum": 11672,
   "price": 6400,

@@ -1,14 +1,14 @@
 {
   "num": "255",
   "name": {
-    "KO": "카토 마리카",
-    "JA": "ねんどろいど 加藤茉莉香 (ねんどろいど かとうまりか)",
-    "EN": "Nendoroid Marika Kato (ねんどろいど かとうまりか)"
+    "ko": "카토 마리카",
+    "ja": "ねんどろいど 加藤茉莉香 (ねんどろいど かとうまりか)",
+    "en": "Nendoroid Marika Kato (ねんどろいど かとうまりか)"
   },
   "series": {
-    "KO": "미니스커트 우주해적",
-    "JA": "モーレツ宇宙海賊（パイレーツ）",
-    "EN": "Bodacious Space Pirates"
+    "ko": "미니스커트 우주해적",
+    "ja": "モーレツ宇宙海賊（パイレーツ）",
+    "en": "Bodacious Space Pirates"
   },
   "gsc_productNum": 3580,
   "price": 3981,

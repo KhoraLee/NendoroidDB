@@ -1,14 +1,14 @@
 {
   "num": "1643",
   "name": {
-    "KO": "나츠이로 마츠리",
-    "JA": "ねんどろいど 夏色まつり (ねんどろいど なついろまつり)",
-    "EN": "Nendoroid Natsuiro Matsuri"
+    "ko": "나츠이로 마츠리",
+    "ja": "ねんどろいど 夏色まつり (ねんどろいど なついろまつり)",
+    "en": "Nendoroid Natsuiro Matsuri"
   },
   "series": {
-    "KO": "버추얼 유튜버 (홀로라이브)",
-    "JA": "hololive production",
-    "EN": "hololive production"
+    "ko": "버추얼 유튜버 (홀로라이브)",
+    "ja": "hololive production",
+    "en": "hololive production"
   },
   "gsc_productNum": 11264,
   "price": 6600,

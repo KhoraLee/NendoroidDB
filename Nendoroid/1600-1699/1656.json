@@ -1,14 +1,14 @@
 {
   "num": "1656",
   "name": {
-    "KO": "A2",
-    "JA": "ねんどろいど NieR:Automata A2（ヨルハA型二号） (ねんどろいど にーあ:おーとまた えーとぅ（よるはえーがたにごう）)",
-    "EN": "Nendoroid NieR:Automata A2 (YoRHa Type A No. 2)"
+    "ko": "A2",
+    "ja": "ねんどろいど NieR:Automata A2（ヨルハA型二号） (ねんどろいど にーあ:おーとまた えーとぅ（よるはえーがたにごう）)",
+    "en": "Nendoroid NieR:Automata A2 (YoRHa Type A No. 2)"
   },
   "series": {
-    "KO": "니어 오토마타",
-    "JA": "NieR:Automata",
-    "EN": "NieR:Automata"
+    "ko": "니어 오토마타",
+    "ja": "NieR:Automata",
+    "en": "NieR:Automata"
   },
   "gsc_productNum": 11553,
   "price": 6600,

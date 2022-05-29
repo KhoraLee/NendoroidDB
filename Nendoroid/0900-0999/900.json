@@ -1,14 +1,14 @@
 {
   "num": "900",
   "name": {
-    "KO": "노리마키 아라레(아리)",
-    "JA": "ねんどろいど 則巻アラレ (ねんどろいど のりまきあられ)",
-    "EN": "Nendoroid Arale Norimaki"
+    "ko": "노리마키 아라레(아리)",
+    "ja": "ねんどろいど 則巻アラレ (ねんどろいど のりまきあられ)",
+    "en": "Nendoroid Arale Norimaki"
   },
   "series": {
-    "KO": "닥터 슬럼프",
-    "JA": "Dr.スランプ アラレちゃん",
-    "EN": "Dr.SLUMP ARALE CHAN"
+    "ko": "닥터 슬럼프",
+    "ja": "Dr.スランプ アラレちゃん",
+    "en": "Dr.SLUMP ARALE CHAN"
   },
   "gsc_productNum": 7051,
   "price": 5093,

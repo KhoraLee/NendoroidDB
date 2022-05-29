@@ -1,14 +1,14 @@
 {
   "num": "1048",
   "name": {
-    "KO": "지니",
-    "JA": "ねんどろいど ジーニー (ねんどろいど じーにー)",
-    "EN": "Nendoroid Genie"
+    "ko": "지니",
+    "ja": "ねんどろいど ジーニー (ねんどろいど じーにー)",
+    "en": "Nendoroid Genie"
   },
   "series": {
-    "KO": "알라딘",
-    "JA": "アラジン",
-    "EN": "Aladdin"
+    "ko": "알라딘",
+    "ja": "アラジン",
+    "en": "Aladdin"
   },
   "gsc_productNum": 7884,
   "price": 7334,

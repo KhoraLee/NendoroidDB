@@ -1,14 +1,14 @@
 {
   "num": "561",
   "name": {
-    "KO": "에이라 일마타르 유틸라이넨",
-    "JA": "ねんどろいど エイラ・イルマタル・ユーティライネン (ねんどろいど えいら・いるまたる・ゆーてぃらいねん)",
-    "EN": "Nendoroid Eila Ilmatar Juutilainen"
+    "ko": "에이라 일마타르 유틸라이넨",
+    "ja": "ねんどろいど エイラ・イルマタル・ユーティライネン (ねんどろいど えいら・いるまたる・ゆーてぃらいねん)",
+    "en": "Nendoroid Eila Ilmatar Juutilainen"
   },
   "series": {
-    "KO": "스트라이크 위치스",
-    "JA": "ストライクウィッチーズ2",
-    "EN": "Strike Witches 2"
+    "ko": "스트라이크 위치스",
+    "ja": "ストライクウィッチーズ2",
+    "en": "Strike Witches 2"
   },
   "gsc_productNum": 5221,
   "price": 4620,

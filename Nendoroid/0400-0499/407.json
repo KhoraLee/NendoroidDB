@@ -1,14 +1,14 @@
 {
   "num": "407",
   "name": {
-    "KO": "마토이 류코",
-    "JA": "ねんどろいど 纏流子 (ねんどろいど まといりゅうこ)",
-    "EN": "Nendoroid Ryuko Matoi (ねんどろいど まといりゅうこ)"
+    "ko": "마토이 류코",
+    "ja": "ねんどろいど 纏流子 (ねんどろいど まといりゅうこ)",
+    "en": "Nendoroid Ryuko Matoi (ねんどろいど まといりゅうこ)"
   },
   "series": {
-    "KO": "킬라킬",
-    "JA": "キルラキル",
-    "EN": "KILL la KILL"
+    "ko": "킬라킬",
+    "ja": "キルラキル",
+    "en": "KILL la KILL"
   },
   "gsc_productNum": 4261,
   "price": 3972,

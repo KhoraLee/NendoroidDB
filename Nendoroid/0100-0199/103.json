@@ -1,14 +1,14 @@
 {
   "num": "103",
   "name": {
-    "KO": "코치야 사나에",
-    "JA": "ねんどろいど 東風谷早苗 (ねんどろいど こちやさなえ )",
-    "EN": "Nendoroid Sanae Kochiya (ねんどろいど こちやさなえ)"
+    "ko": "코치야 사나에",
+    "ja": "ねんどろいど 東風谷早苗 (ねんどろいど こちやさなえ )",
+    "en": "Nendoroid Sanae Kochiya (ねんどろいど こちやさなえ)"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 2767,
   "price": 3143,

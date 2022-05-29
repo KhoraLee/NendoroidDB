@@ -1,14 +1,14 @@
 {
   "num": "993-DX",
   "name": {
-    "KO": "헌터♀ 레우스 에디션 DX Ver.",
-    "JA": "ねんどろいど ハンター♀ レウス・エディション DX Ver. (ねんどろいど はんたー♀ れうす・えでぃしょん DX Ver.)",
-    "EN": "Nendoroid Hunter: Female Rathalos Armor Edition - DX Ver."
+    "ko": "헌터♀ 레우스 에디션 DX Ver.",
+    "ja": "ねんどろいど ハンター♀ レウス・エディション DX Ver. (ねんどろいど はんたー♀ れうす・えでぃしょん DX Ver.)",
+    "en": "Nendoroid Hunter: Female Rathalos Armor Edition - DX Ver."
   },
   "series": {
-    "KO": "몬스터 헌터",
-    "JA": "モンスターハンター：ワールド",
-    "EN": "MONSTER HUNTER: WORLD"
+    "ko": "몬스터 헌터",
+    "ja": "モンスターハンター：ワールド",
+    "en": "MONSTER HUNTER: WORLD"
   },
   "gsc_productNum": 7589,
   "price": 7638,

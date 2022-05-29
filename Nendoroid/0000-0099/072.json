@@ -1,14 +1,14 @@
 {
   "num": "072",
   "name": {
-    "KO": "아사쿠라 오토메",
-    "JA": "ねんどろいど 朝倉音姫 (ねんどろいど あさくらおとめ)",
-    "EN": "Nendoroid Otome Asakura (ねんどろいど あさくらおとめ)"
+    "ko": "아사쿠라 오토메",
+    "ja": "ねんどろいど 朝倉音姫 (ねんどろいど あさくらおとめ)",
+    "en": "Nendoroid Otome Asakura (ねんどろいど あさくらおとめ)"
   },
   "series": {
-    "KO": "다카포",
-    "JA": "D.C.II To You ～ダ・カーポII～トゥーユー",
-    "EN": "Da Capo II To You"
+    "ko": "다카포",
+    "ja": "D.C.II To You ～ダ・カーポII～トゥーユー",
+    "en": "Da Capo II To You"
   },
   "gsc_productNum": 3373,
   "price": 9777,

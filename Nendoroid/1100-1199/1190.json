@@ -1,14 +1,14 @@
 {
   "num": "1190",
   "name": {
-    "KO": "아쿠아맨 히어로즈 에디션",
-    "JA": "ねんどろいど アクアマン ヒーローズ・エディション (ねんどろいど あくあまん ひーろーず・えでぃしょん)",
-    "EN": "Nendoroid Aquaman: Hero\u0027s Edition"
+    "ko": "아쿠아맨 히어로즈 에디션",
+    "ja": "ねんどろいど アクアマン ヒーローズ・エディション (ねんどろいど あくあまん ひーろーず・えでぃしょん)",
+    "en": "Nendoroid Aquaman: Hero\u0027s Edition"
   },
   "series": {
-    "KO": "아쿠아맨",
-    "JA": "アクアマン",
-    "EN": "Aquaman"
+    "ko": "아쿠아맨",
+    "ja": "アクアマン",
+    "en": "Aquaman"
   },
   "gsc_productNum": 8656,
   "price": 5500,

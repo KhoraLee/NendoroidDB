@@ -1,14 +1,14 @@
 {
   "num": "330",
   "name": {
-    "KO": "셰릴 놈",
-    "JA": "ねんどろいど シェリル・ノーム (ねんどろいど しぇりる・のーむ)",
-    "EN": "Nendoroid Sheryl Nome (ねんどろいど しぇりる・のーむ)"
+    "ko": "셰릴 놈",
+    "ja": "ねんどろいど シェリル・ノーム (ねんどろいど しぇりる・のーむ)",
+    "en": "Nendoroid Sheryl Nome (ねんどろいど しぇりる・のーむ)"
   },
   "series": {
-    "KO": "마크로스 프론티어",
-    "JA": "マクロスF（フロンティア）",
-    "EN": "Macross F (Frontier)"
+    "ko": "마크로스 프론티어",
+    "ja": "マクロスF（フロンティア）",
+    "en": "Macross F (Frontier)"
   },
   "gsc_productNum": 3900,
   "price": 3667,

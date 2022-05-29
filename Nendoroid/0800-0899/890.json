@@ -1,14 +1,14 @@
 {
   "num": "890",
   "name": {
-    "KO": "키노 \u0026 에르메스",
-    "JA": "ねんどろいど キノ＆エルメス (ねんどろいど きの＆えるめす)",
-    "EN": "Nendoroid Kino \u0026 Hermes"
+    "ko": "키노 \u0026 에르메스",
+    "ja": "ねんどろいど キノ＆エルメス (ねんどろいど きの＆えるめす)",
+    "en": "Nendoroid Kino \u0026 Hermes"
   },
   "series": {
-    "KO": "키노의 여행",
-    "JA": "キノの旅",
-    "EN": "Kino\u0027s Journey"
+    "ko": "키노의 여행",
+    "ja": "キノの旅",
+    "en": "Kino\u0027s Journey"
   },
   "gsc_productNum": 7038,
   "price": 5602,

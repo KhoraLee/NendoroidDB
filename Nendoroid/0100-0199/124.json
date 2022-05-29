@@ -1,14 +1,14 @@
 {
   "num": "124",
   "name": {
-    "KO": "스즈미야 하루히 소실Ver.",
-    "JA": "ねんどろいど 涼宮ハルヒ 消失Ver. (ねんどろいど すずみやはるひ しょうしつVer.)",
-    "EN": "Nendoroid Haruhi Suzumiya: Disappearance ver. (ねんどろいど すずみやはるひ しょうしつVer.)"
+    "ko": "스즈미야 하루히 소실Ver.",
+    "ja": "ねんどろいど 涼宮ハルヒ 消失Ver. (ねんどろいど すずみやはるひ しょうしつVer.)",
+    "en": "Nendoroid Haruhi Suzumiya: Disappearance ver. (ねんどろいど すずみやはるひ しょうしつVer.)"
   },
   "series": {
-    "KO": "스즈미야 하루히의 소실",
-    "JA": "涼宮ハルヒの消失",
-    "EN": "The Disappearance of Haruhi Suzumiya"
+    "ko": "스즈미야 하루히의 소실",
+    "ja": "涼宮ハルヒの消失",
+    "en": "The Disappearance of Haruhi Suzumiya"
   },
   "gsc_productNum": 2937,
   "price": 3667,

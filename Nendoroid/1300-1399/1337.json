@@ -1,14 +1,14 @@
 {
   "num": "1337",
   "name": {
-    "KO": "라이덴 메이 뇌전여왕의 귀신갑주 Ver.",
-    "JA": "ねんどろいど 雷電芽衣 雷電女王の鬼鎧Ver. (ねんどろいど らいでんめい らいでんじょうおうのおによろいVer.)",
-    "EN": "Nendoroid Raiden Mei: Lightning Empress Ver."
+    "ko": "라이덴 메이 뇌전여왕의 귀신갑주 Ver.",
+    "ja": "ねんどろいど 雷電芽衣 雷電女王の鬼鎧Ver. (ねんどろいど らいでんめい らいでんじょうおうのおによろいVer.)",
+    "en": "Nendoroid Raiden Mei: Lightning Empress Ver."
   },
   "series": {
-    "KO": "붕괴 3rd",
-    "JA": "崩壊3rd",
-    "EN": "Honkai Impact 3rd"
+    "ko": "붕괴 3rd",
+    "ja": "崩壊3rd",
+    "en": "Honkai Impact 3rd"
   },
   "gsc_productNum": 9500,
   "price": 5000,

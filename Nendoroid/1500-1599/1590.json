@@ -1,14 +1,14 @@
 {
   "num": "1590",
   "name": {
-    "KO": "양 샤오롱",
-    "JA": "ねんどろいど ヤン・シャオロン",
-    "EN": "Nendoroid Yang Xiao Long"
+    "ko": "양 샤오롱",
+    "ja": "ねんどろいど ヤン・シャオロン",
+    "en": "Nendoroid Yang Xiao Long"
   },
   "series": {
-    "KO": "RWBY",
-    "JA": "RWBY(ルビー)",
-    "EN": "RWBY"
+    "ko": "RWBY",
+    "ja": "RWBY(ルビー)",
+    "en": "RWBY"
   },
   "gsc_productNum": 10919,
   "price": 5700,

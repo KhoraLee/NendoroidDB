@@ -1,14 +1,14 @@
 {
   "num": "1235",
   "name": {
-    "KO": "신라 쿠사카베",
-    "JA": "ねんどろいど 森羅日下部 (ねんどろいど しんらくさかべ)",
-    "EN": "Nendoroid Shinra Kusakabe"
+    "ko": "신라 쿠사카베",
+    "ja": "ねんどろいど 森羅日下部 (ねんどろいど しんらくさかべ)",
+    "en": "Nendoroid Shinra Kusakabe"
   },
   "series": {
-    "KO": "불꽃소방대",
-    "JA": "炎炎ノ消防隊",
-    "EN": "Fire Force"
+    "ko": "불꽃소방대",
+    "ja": "炎炎ノ消防隊",
+    "en": "Fire Force"
   },
   "gsc_productNum": 8992,
   "price": 5200,

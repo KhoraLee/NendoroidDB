@@ -1,14 +1,14 @@
 {
   "num": "637",
   "name": {
-    "KO": "마츠노 쵸로마츠",
-    "JA": "ねんどろいど 松野チョロ松 (ねんどろいど まつのちょろまつ)",
-    "EN": "Nendoroid Choromatsu Matsuno"
+    "ko": "마츠노 쵸로마츠",
+    "ja": "ねんどろいど 松野チョロ松 (ねんどろいど まつのちょろまつ)",
+    "en": "Nendoroid Choromatsu Matsuno"
   },
   "series": {
-    "KO": "오소마츠 상",
-    "JA": "おそ松さん",
-    "EN": "Osomatsu-san"
+    "ko": "오소마츠 상",
+    "ja": "おそ松さん",
+    "en": "Osomatsu-san"
   },
   "gsc_productNum": 5703,
   "price": 3565,

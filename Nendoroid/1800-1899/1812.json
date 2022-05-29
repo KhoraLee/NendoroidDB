@@ -1,14 +1,14 @@
 {
   "num": "1812",
   "name": {
-    "KO": "나나미 켄토",
-    "JA": "ねんどろいど 七海建人 (ねんどろいど ななみけんと)",
-    "EN": "Nendoroid Kento Nanami"
+    "ko": "나나미 켄토",
+    "ja": "ねんどろいど 七海建人 (ねんどろいど ななみけんと)",
+    "en": "Nendoroid Kento Nanami"
   },
   "series": {
-    "KO": "주술회전",
-    "JA": "呪術廻戦",
-    "EN": "Jujutsu Kaisen"
+    "ko": "주술회전",
+    "ja": "呪術廻戦",
+    "en": "Jujutsu Kaisen"
   },
   "gsc_productNum": 12289,
   "price": 5500,

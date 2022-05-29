@@ -1,14 +1,14 @@
 {
   "num": "901",
   "name": {
-    "KO": "리나 인버스",
-    "JA": "ねんどろいど リナ\u003dインバース (ねんどろいど りな\u003dいんばーす)",
-    "EN": "Nendoroid Lina\u003dInverse"
+    "ko": "리나 인버스",
+    "ja": "ねんどろいど リナ\u003dインバース (ねんどろいど りな\u003dいんばーす)",
+    "en": "Nendoroid Lina\u003dInverse"
   },
   "series": {
-    "KO": "슬레이어즈",
-    "JA": "スレイヤーズ",
-    "EN": "Slayers"
+    "ko": "슬레이어즈",
+    "ja": "スレイヤーズ",
+    "en": "Slayers"
   },
   "gsc_productNum": 7124,
   "price": 6009,

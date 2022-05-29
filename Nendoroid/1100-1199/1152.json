@@ -1,14 +1,14 @@
 {
   "num": "1152",
   "name": {
-    "KO": "갈로 티모스",
-    "JA": "ねんどろいど ガロ・ティモス (ねんどろいど がろ・てぃもす)",
-    "EN": "Nendoroid Galo Thymos"
+    "ko": "갈로 티모스",
+    "ja": "ねんどろいど ガロ・ティモス (ねんどろいど がろ・てぃもす)",
+    "en": "Nendoroid Galo Thymos"
   },
   "series": {
-    "KO": "프로메어",
-    "JA": "プロメア",
-    "EN": "PROMARE"
+    "ko": "프로메어",
+    "ja": "プロメア",
+    "en": "PROMARE"
   },
   "gsc_productNum": 8453,
   "price": 5500,

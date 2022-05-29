@@ -1,14 +1,14 @@
 {
   "num": "443",
   "name": {
-    "KO": "히에이",
-    "JA": "ねんどろいど 比叡 (ねんどろいど ひえい)",
-    "EN": "Nendoroid Hiei (ねんどろいど ひえい)"
+    "ko": "히에이",
+    "ja": "ねんどろいど 比叡 (ねんどろいど ひえい)",
+    "en": "Nendoroid Hiei (ねんどろいど ひえい)"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 4545,
   "price": 4888,

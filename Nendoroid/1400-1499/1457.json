@@ -1,14 +1,14 @@
 {
   "num": "1457",
   "name": {
-    "KO": "나이브 수베다르",
-    "JA": "ねんどろいど 傭兵 (ねんどろいど ようへい)",
-    "EN": "Nendoroid Mercenary"
+    "ko": "나이브 수베다르",
+    "ja": "ねんどろいど 傭兵 (ねんどろいど ようへい)",
+    "en": "Nendoroid Mercenary"
   },
   "series": {
-    "KO": "제5인격",
-    "JA": "identityV 第五人格",
-    "EN": "Identity V"
+    "ko": "제5인격",
+    "ja": "identityV 第五人格",
+    "en": "Identity V"
   },
   "gsc_productNum": 10300,
   "price": 6200,

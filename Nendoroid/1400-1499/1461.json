@@ -1,14 +1,14 @@
 {
   "num": "1461",
   "name": {
-    "KO": "에키드나",
-    "JA": "ねんどろいど エキドナ (ねんどろいど えきどな)",
-    "EN": "Nendoroid Echidna"
+    "ko": "에키드나",
+    "ja": "ねんどろいど エキドナ (ねんどろいど えきどな)",
+    "en": "Nendoroid Echidna"
   },
   "series": {
-    "KO": "Re: 제로부터 시작하는 이세계 생활",
-    "JA": "Re:ゼロから始める異世界生活",
-    "EN": "Re:ZERO -Starting Life in Another World-"
+    "ko": "Re: 제로부터 시작하는 이세계 생활",
+    "ja": "Re:ゼロから始める異世界生活",
+    "en": "Re:ZERO -Starting Life in Another World-"
   },
   "gsc_productNum": 10059,
   "price": 5500,

@@ -1,14 +1,14 @@
 {
   "num": "1184",
   "name": {
-    "KO": "키르아 조르딕",
-    "JA": "ねんどろいど キルア\u003dゾルディック (ねんどろいど きるあ\u003dぞるでぃっく)",
-    "EN": "Nendoroid Killua Zoldyck"
+    "ko": "키르아 조르딕",
+    "ja": "ねんどろいど キルア\u003dゾルディック (ねんどろいど きるあ\u003dぞるでぃっく)",
+    "en": "Nendoroid Killua Zoldyck"
   },
   "series": {
-    "KO": "헌터X헌터",
-    "JA": "HUNTER×HUNTER",
-    "EN": "HUNTER x HUNTER"
+    "ko": "헌터X헌터",
+    "ja": "HUNTER×HUNTER",
+    "en": "HUNTER x HUNTER"
   },
   "gsc_productNum": 8658,
   "price": 5280,

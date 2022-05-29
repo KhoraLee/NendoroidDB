@@ -1,14 +1,14 @@
 {
   "num": "1359",
   "name": {
-    "KO": "니키",
-    "JA": "ねんどろいど ニキ (ねんどろいど にき)",
-    "EN": "Nendoroid Nikki"
+    "ko": "니키",
+    "ja": "ねんどろいど ニキ (ねんどろいど にき)",
+    "en": "Nendoroid Nikki"
   },
   "series": {
-    "KO": "샤이닝니키",
-    "JA": "シャイニングニキ（閃耀暖暖）",
-    "EN": "Shining Nikki"
+    "ko": "샤이닝니키",
+    "ja": "シャイニングニキ（閃耀暖暖）",
+    "en": "Shining Nikki"
   },
   "gsc_productNum": 9843,
   "price": 5000,

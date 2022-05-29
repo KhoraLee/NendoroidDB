@@ -1,14 +1,14 @@
 {
   "num": "535",
   "name": {
-    "KO": "시렌 슈퍼 무버블 에디션",
-    "JA": "ねんどろいど シレン スーパームーバブル・エディション (ねんどろいど しれん すーぱーむーばぶる・えでぃしょん)",
-    "EN": "Nendoroid Shiren: Super Movable Edition (ねんどろいど しれん すーぱーむーばぶる・えでぃしょん)"
+    "ko": "시렌 슈퍼 무버블 에디션",
+    "ja": "ねんどろいど シレン スーパームーバブル・エディション (ねんどろいど しれん すーぱーむーばぶる・えでぃしょん)",
+    "en": "Nendoroid Shiren: Super Movable Edition (ねんどろいど しれん すーぱーむーばぶる・えでぃしょん)"
   },
   "series": {
-    "KO": "이상한 던전 풍래의 시렌",
-    "JA": "風来のシレン5+ フォーチュンタワーと運命のダイス",
-    "EN": "Shiren the Wanderer 5+ Fortune Tower to Unmei no Dice"
+    "ko": "이상한 던전 풍래의 시렌",
+    "ja": "風来のシレン5+ フォーチュンタワーと運命のダイス",
+    "en": "Shiren the Wanderer 5+ Fortune Tower to Unmei no Dice"
   },
   "gsc_productNum": 5089,
   "price": 5093,

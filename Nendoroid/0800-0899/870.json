@@ -1,14 +1,14 @@
 {
   "num": "870",
   "name": {
-    "KO": "크라우스 V. 라인헤르츠",
-    "JA": "ねんどろいど クラウス・V・ラインヘルツ (ねんどろいど くらうす・V・らいんへるつ)",
-    "EN": "Nendoroid Klaus V Reinherz"
+    "ko": "크라우스 V. 라인헤르츠",
+    "ja": "ねんどろいど クラウス・V・ラインヘルツ (ねんどろいど くらうす・V・らいんへるつ)",
+    "en": "Nendoroid Klaus V Reinherz"
   },
   "series": {
-    "KO": "혈계전선",
-    "JA": "血界戦線 ＆ BEYOND",
-    "EN": "Blood Blockade Battlefront \u0026 Beyond"
+    "ko": "혈계전선",
+    "ja": "血界戦線 ＆ BEYOND",
+    "en": "Blood Blockade Battlefront \u0026 Beyond"
   },
   "gsc_productNum": 6973,
   "price": 4888,

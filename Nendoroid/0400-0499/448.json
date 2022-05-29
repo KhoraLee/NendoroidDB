@@ -1,14 +1,14 @@
 {
   "num": "448",
   "name": {
-    "KO": "하츠네 미쿠 할로윈 Ver.",
-    "JA": "ねんどろいど 初音ミク ハロウィンVer. (ねんどろいど はつねみく はろうぃんVer.)",
-    "EN": "Nendoroid Hatsune Miku: Halloween Ver. (ねんどろいど はつねみく はろうぃんVer.)"
+    "ko": "하츠네 미쿠 할로윈 Ver.",
+    "ja": "ねんどろいど 初音ミク ハロウィンVer. (ねんどろいど はつねみく はろうぃんVer.)",
+    "en": "Nendoroid Hatsune Miku: Halloween Ver. (ねんどろいど はつねみく はろうぃんVer.)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 4582,
   "price": 4278,

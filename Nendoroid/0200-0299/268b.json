@@ -1,14 +1,14 @@
 {
   "num": "268b",
   "name": {
-    "KO": "아카자 아카리 \\앗카린/ Ver.",
-    "JA": "ねんどろいど 赤座あかり ＼アッカリ～ン／Ver. (ねんどろいど あかざあかり ＼あっかり～ん／Ver.)",
-    "EN": "Nendoroid Akari Akaza: Akariiin Ver. (ねんどろいど あかざあかり ＼あっかり～ん／Ver.)"
+    "ko": "아카자 아카리 \\앗카린/ Ver.",
+    "ja": "ねんどろいど 赤座あかり ＼アッカリ～ン／Ver. (ねんどろいど あかざあかり ＼あっかり～ん／Ver.)",
+    "en": "Nendoroid Akari Akaza: Akariiin Ver. (ねんどろいど あかざあかり ＼あっかり～ん／Ver.)"
   },
   "series": {
-    "KO": "유루유리",
-    "JA": "ゆるゆり",
-    "EN": "YuruYuri"
+    "ko": "유루유리",
+    "ja": "ゆるゆり",
+    "en": "YuruYuri"
   },
   "gsc_productNum": 3862,
   "price": 7150,

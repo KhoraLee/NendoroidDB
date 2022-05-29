@@ -1,14 +1,14 @@
 {
   "num": "970",
   "name": {
-    "KO": "캐스터/멀린",
-    "JA": "ねんどろいど キャスター/マーリン (ねんどろいど きゃすたー/まーりん)",
-    "EN": "Nendoroid Caster/Merlin"
+    "ko": "캐스터/멀린",
+    "ja": "ねんどろいど キャスター/マーリン (ねんどろいど きゃすたー/まーりん)",
+    "en": "Nendoroid Caster/Merlin"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 7480,
   "price": 4584,

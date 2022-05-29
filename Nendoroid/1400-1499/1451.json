@@ -1,14 +1,14 @@
 {
   "num": "1451",
   "name": {
-    "KO": "시마 린 투어링 Ver.",
-    "JA": "ねんどろいど 志摩リン ツーリングVer. (ねんどろいど しまりん つーりんぐVer.)",
-    "EN": "Nendoroid Rin Shima: Touring Ver."
+    "ko": "시마 린 투어링 Ver.",
+    "ja": "ねんどろいど 志摩リン ツーリングVer. (ねんどろいど しまりん つーりんぐVer.)",
+    "en": "Nendoroid Rin Shima: Touring Ver."
   },
   "series": {
-    "KO": "유루캠△",
-    "JA": "ゆるキャン△",
-    "EN": "Laid-Back Camp"
+    "ko": "유루캠△",
+    "ja": "ゆるキャン△",
+    "en": "Laid-Back Camp"
   },
   "gsc_productNum": 10011,
   "price": 8000,

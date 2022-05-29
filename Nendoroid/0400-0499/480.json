@@ -1,14 +1,14 @@
 {
   "num": "480",
   "name": {
-    "KO": "하츠네 미쿠 천본앵 Ver.",
-    "JA": "ねんどろいど 初音ミク 千本桜Ver. (ねんどろいど はつねみく せんぼんざくらVer.)",
-    "EN": "Nendoroid Hatsune Miku: Senbonzakura Ver. (ねんどろいど はつねみく せんぼんざくらVer.)"
+    "ko": "하츠네 미쿠 천본앵 Ver.",
+    "ja": "ねんどろいど 初音ミク 千本桜Ver. (ねんどろいど はつねみく せんぼんざくらVer.)",
+    "en": "Nendoroid Hatsune Miku: Senbonzakura Ver. (ねんどろいど はつねみく せんぼんざくらVer.)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "千本桜 feat. 初音ミク",
-    "EN": "Senbonzakura feat. Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "千本桜 feat. 初音ミク",
+    "en": "Senbonzakura feat. Hatsune Miku"
   },
   "gsc_productNum": 4750,
   "price": 4278,

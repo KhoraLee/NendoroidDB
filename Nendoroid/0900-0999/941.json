@@ -1,14 +1,14 @@
 {
   "num": "941",
   "name": {
-    "KO": "실더/마슈 키리에라인트 캐주얼 Ver.",
-    "JA": "ねんどろいど シールダー/マシュ・キリエライト 私服Ver. (ねんどろいど しーるだー/ましゅ・きりえらいと しふくVer.)",
-    "EN": "Nendoroid Shielder/Mash Kyrielight: Casual ver."
+    "ko": "실더/마슈 키리에라인트 캐주얼 Ver.",
+    "ja": "ねんどろいど シールダー/マシュ・キリエライト 私服Ver. (ねんどろいど しーるだー/ましゅ・きりえらいと しふくVer.)",
+    "en": "Nendoroid Shielder/Mash Kyrielight: Casual ver."
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 7283,
   "price": 4584,

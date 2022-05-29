@@ -1,14 +1,14 @@
 {
   "num": "1682",
   "name": {
-    "KO": "웨펀마스터",
-    "JA": "ねんどろいど 真：ウェポンマスター (ねんどろいど しん：うぇぽんますたー)",
-    "EN": "Nendoroid Neo: Blade Master"
+    "ko": "웨펀마스터",
+    "ja": "ねんどろいど 真：ウェポンマスター (ねんどろいど しん：うぇぽんますたー)",
+    "en": "Nendoroid Neo: Blade Master"
   },
   "series": {
-    "KO": "던전 앤 파이터",
-    "JA": "アラド戦記",
-    "EN": "Dungeon Fighter Online"
+    "ko": "던전 앤 파이터",
+    "ja": "アラド戦記",
+    "en": "Dungeon Fighter Online"
   },
   "gsc_productNum": 11504,
   "price": 7200,

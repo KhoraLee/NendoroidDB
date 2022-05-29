@@ -1,14 +1,14 @@
 {
   "num": "842",
   "name": {
-    "KO": "세이버/아서 펜드래건[프로토타입]",
-    "JA": "ねんどろいど セイバー/アーサー・ペンドラゴン〔プロトタイプ〕 (ねんどろいど せいばー/あーさー・ぺんどらごん〔ぷろとたいぷ〕)",
-    "EN": "Nendoroid Saber/Arthur Pendragon (Prototype)"
+    "ko": "세이버/아서 펜드래건[프로토타입]",
+    "ja": "ねんどろいど セイバー/アーサー・ペンドラゴン〔プロトタイプ〕 (ねんどろいど せいばー/あーさー・ぺんどらごん〔ぷろとたいぷ〕)",
+    "en": "Nendoroid Saber/Arthur Pendragon (Prototype)"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 6843,
   "price": 4600,

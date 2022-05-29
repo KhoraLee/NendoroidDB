@@ -1,14 +1,14 @@
 {
   "num": "1437",
   "name": {
-    "KO": "네뷸라 엔드게임 Ver.",
-    "JA": "ねんどろいど ネビュラ エンドゲーム Ver. (ねんどろいど ねびゅら えんどげーむ Ver. )",
-    "EN": "Nendoroid Nebula: Endgame Ver."
+    "ko": "네뷸라 엔드게임 Ver.",
+    "ja": "ねんどろいど ネビュラ エンドゲーム Ver. (ねんどろいど ねびゅら えんどげーむ Ver. )",
+    "en": "Nendoroid Nebula: Endgame Ver."
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "アベンジャーズ／エンドゲーム",
-    "EN": "Avengers: Endgame"
+    "ko": "어벤져스",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "en": "Avengers: Endgame"
   },
   "gsc_productNum": 9899,
   "price": 5000,

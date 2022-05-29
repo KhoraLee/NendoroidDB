@@ -1,14 +1,14 @@
 {
   "num": "1335",
   "name": {
-    "KO": "존스턴",
-    "JA": "ねんどろいど Johnston（ジョンストン） (ねんどろいど じょんすとん)",
-    "EN": "Nendoroid Johnston"
+    "ko": "존스턴",
+    "ja": "ねんどろいど Johnston（ジョンストン） (ねんどろいど じょんすとん)",
+    "en": "Nendoroid Johnston"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 9476,
   "price": 7500,

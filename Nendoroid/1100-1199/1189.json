@@ -1,14 +1,14 @@
 {
   "num": "1189",
   "name": {
-    "KO": "아케치 고로 괴도복 Ver.",
-    "JA": "ねんどろいど 明智吾郎 怪盗服Ver. (ねんどろいど あけちごろう かいとうふくVer.)",
-    "EN": "Nendoroid Goro Akechi: Phantom Thief Ver."
+    "ko": "아케치 고로 괴도복 Ver.",
+    "ja": "ねんどろいど 明智吾郎 怪盗服Ver. (ねんどろいど あけちごろう かいとうふくVer.)",
+    "en": "Nendoroid Goro Akechi: Phantom Thief Ver."
   },
   "series": {
-    "KO": "페르소나5",
-    "JA": "PERSONA5 the Animation",
-    "EN": "PERSONA5 the Animation"
+    "ko": "페르소나5",
+    "ja": "PERSONA5 the Animation",
+    "en": "PERSONA5 the Animation"
   },
   "gsc_productNum": 8657,
   "price": 5400,

@@ -1,14 +1,14 @@
 {
   "num": "917",
   "name": {
-    "KO": "플래시",
-    "JA": "ねんどろいど フラッシュ ジャスティス・リーグ・エディション (ねんどろいど ふらっしゅ じゃすてぃす・りーぐ・えでぃしょん)",
-    "EN": "Nendoroid Flash: Justice League Edition"
+    "ko": "플래시",
+    "ja": "ねんどろいど フラッシュ ジャスティス・リーグ・エディション (ねんどろいど ふらっしゅ じゃすてぃす・りーぐ・えでぃしょん)",
+    "en": "Nendoroid Flash: Justice League Edition"
   },
   "series": {
-    "KO": "저스티스 리그",
-    "JA": "ジャスティス・リーグ",
-    "EN": "Justice League"
+    "ko": "저스티스 리그",
+    "ja": "ジャスティス・リーグ",
+    "en": "Justice League"
   },
   "gsc_productNum": 7199,
   "price": 4991,

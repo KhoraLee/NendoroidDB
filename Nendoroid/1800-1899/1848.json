@@ -1,14 +1,14 @@
 {
   "num": "1848",
   "name": {
-    "KO": "카나에",
-    "JA": "ねんどろいど 叶 (ねんどろいど かなえ)",
-    "EN": "Nendoroid Kanae"
+    "ko": "카나에",
+    "ja": "ねんどろいど 叶 (ねんどろいど かなえ)",
+    "en": "Nendoroid Kanae"
   },
   "series": {
-    "KO": "니지산지",
-    "JA": "にじさんじ",
-    "EN": "NIJISANJI"
+    "ko": "니지산지",
+    "ja": "にじさんじ",
+    "en": "NIJISANJI"
   },
   "gsc_productNum": 12461,
   "price": 6300,

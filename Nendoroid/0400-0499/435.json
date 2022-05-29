@@ -1,14 +1,14 @@
 {
   "num": "435",
   "name": {
-    "KO": "아르민 알레르토",
-    "JA": "ねんどろいど アルミン・アルレルト (ねんどろいど あるみん・あるれると)",
-    "EN": "Nendoroid Armin Arlert"
+    "ko": "아르민 알레르토",
+    "ja": "ねんどろいど アルミン・アルレルト (ねんどろいど あるみん・あるれると)",
+    "en": "Nendoroid Armin Arlert"
   },
   "series": {
-    "KO": "진격의 거인",
-    "JA": "進撃の巨人",
-    "EN": "Attack on Titan"
+    "ko": "진격의 거인",
+    "ja": "進撃の巨人",
+    "en": "Attack on Titan"
   },
   "gsc_productNum": 4474,
   "price": 5500,

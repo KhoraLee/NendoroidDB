@@ -1,14 +1,14 @@
 {
   "num": "170",
   "name": {
-    "KO": "하츠네 미쿠 응원 Ver.",
-    "JA": "ねんどろいど 初音ミク 応援Ver. (ねんどろいど はつねみく おうえんver.)",
-    "EN": "Nendoroid Hatsune Miku: Cheerful Ver. (2011 Edition) (ねんどろいど はつねみく おうえんver.)"
+    "ko": "하츠네 미쿠 응원 Ver.",
+    "ja": "ねんどろいど 初音ミク 応援Ver. (ねんどろいど はつねみく おうえんver.)",
+    "en": "Nendoroid Hatsune Miku: Cheerful Ver. (2011 Edition) (ねんどろいど はつねみく おうえんver.)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 3115,
   "price": 3143,

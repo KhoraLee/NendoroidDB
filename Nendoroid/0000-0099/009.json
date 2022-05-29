@@ -1,14 +1,14 @@
 {
   "num": "009",
   "name": {
-    "KO": "스즈미야 하루히",
-    "JA": "ねんどろいど 涼宮ハルヒ (すずみやはるひ ねんどろいど)",
-    "EN": "Nendoroid Haruhi Suzumiya (すずみやはるひ ねんどろいど)"
+    "ko": "스즈미야 하루히",
+    "ja": "ねんどろいど 涼宮ハルヒ (すずみやはるひ ねんどろいど)",
+    "en": "Nendoroid Haruhi Suzumiya (すずみやはるひ ねんどろいど)"
   },
   "series": {
-    "KO": "스즈미야 하루히의 우울",
-    "JA": "涼宮ハルヒの憂鬱",
-    "EN": "The Melancholy of Haruhi Suzumiya"
+    "ko": "스즈미야 하루히의 우울",
+    "ja": "涼宮ハルヒの憂鬱",
+    "en": "The Melancholy of Haruhi Suzumiya"
   },
   "gsc_productNum": 390,
   "price": 3143,

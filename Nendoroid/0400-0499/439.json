@@ -1,14 +1,14 @@
 {
   "num": "439",
   "name": {
-    "KO": "G급 접수원",
-    "JA": "ねんどろいど Ｇ級受付嬢 (ねんどろいど じーきゅううけつけじょう)",
-    "EN": "Nendoroid G-rank Receptionist (ねんどろいど じーきゅううけつけじょう)"
+    "ko": "G급 접수원",
+    "ja": "ねんどろいど Ｇ級受付嬢 (ねんどろいど じーきゅううけつけじょう)",
+    "en": "Nendoroid G-rank Receptionist (ねんどろいど じーきゅううけつけじょう)"
   },
   "series": {
-    "KO": "몬스터 헌터",
-    "JA": "モンスターハンター フロンティアG",
-    "EN": "Monster Hunter Frontier G"
+    "ko": "몬스터 헌터",
+    "ja": "モンスターハンター フロンティアG",
+    "en": "Monster Hunter Frontier G"
   },
   "gsc_productNum": 4491,
   "price": 10780,

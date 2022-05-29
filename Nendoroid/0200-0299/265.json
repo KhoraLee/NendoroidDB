@@ -1,14 +1,14 @@
 {
   "num": "265",
   "name": {
-    "KO": "쿄우노 마도카",
-    "JA": "ねんどろいど 京乃まどか (ねんどろいど きょうのまどか)",
-    "EN": "Nendoroid Madoka Kyouno (ねんどろいど きょうのまどか)"
+    "ko": "쿄우노 마도카",
+    "ja": "ねんどろいど 京乃まどか (ねんどろいど きょうのまどか)",
+    "en": "Nendoroid Madoka Kyouno (ねんどろいど きょうのまどか)"
   },
   "series": {
-    "KO": "윤희의 라그랑제",
-    "JA": "輪廻のラグランジェ",
-    "EN": "Rinne no Lagrange (Lagrange: The Flower of Rin-ne)"
+    "ko": "윤희의 라그랑제",
+    "ja": "輪廻のラグランジェ",
+    "en": "Rinne no Lagrange (Lagrange: The Flower of Rin-ne)"
   },
   "gsc_productNum": 3611,
   "price": 3667,

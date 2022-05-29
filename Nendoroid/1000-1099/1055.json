@@ -1,14 +1,14 @@
 {
   "num": "1055",
   "name": {
-    "KO": "빔 커비",
-    "JA": "ねんどろいど ビームカービィ (ねんどろいど びーむかーびぃ)",
-    "EN": "Nendoroid Beam Kirby"
+    "ko": "빔 커비",
+    "ja": "ねんどろいど ビームカービィ (ねんどろいど びーむかーびぃ)",
+    "en": "Nendoroid Beam Kirby"
   },
   "series": {
-    "KO": "별의 커비",
-    "JA": "星のカービィ",
-    "EN": "Kirby"
+    "ko": "별의 커비",
+    "ja": "星のカービィ",
+    "en": "Kirby"
   },
   "gsc_productNum": 7916,
   "price": 4888,

@@ -1,14 +1,14 @@
 {
   "num": "1234",
   "name": {
-    "KO": "올마이트",
-    "JA": "ねんどろいど オールマイト (ねんどろいど おーるまいと)",
-    "EN": "Nendoroid All Might"
+    "ko": "올마이트",
+    "ja": "ねんどろいど オールマイト (ねんどろいど おーるまいと)",
+    "en": "Nendoroid All Might"
   },
   "series": {
-    "KO": "나의 히어로 아카데미아",
-    "JA": "僕のヒーローアカデミア",
-    "EN": "My Hero Academia"
+    "ko": "나의 히어로 아카데미아",
+    "ja": "僕のヒーローアカデミア",
+    "en": "My Hero Academia"
   },
   "gsc_productNum": 8972,
   "price": 5500,

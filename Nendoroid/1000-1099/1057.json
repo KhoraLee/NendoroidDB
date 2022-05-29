@@ -1,14 +1,14 @@
 {
   "num": "1057",
   "name": {
-    "KO": "테레사 마법소녀 TeRiRi Ver.",
-    "JA": "ねんどろいど テレサ 魔法少女TeRiRi Ver. (ねんどろいど てれさ まほうしょうじょTeRiRi Ver.)",
-    "EN": "Nendoroid Theresa: Magical Girl TeRiRi Ver."
+    "ko": "테레사 마법소녀 TeRiRi Ver.",
+    "ja": "ねんどろいど テレサ 魔法少女TeRiRi Ver. (ねんどろいど てれさ まほうしょうじょTeRiRi Ver.)",
+    "en": "Nendoroid Theresa: Magical Girl TeRiRi Ver."
   },
   "series": {
-    "KO": "붕괴 3rd",
-    "JA": "崩壊3rd",
-    "EN": "Honkai Impact 3rd"
+    "ko": "붕괴 3rd",
+    "ja": "崩壊3rd",
+    "en": "Honkai Impact 3rd"
   },
   "gsc_productNum": 7944,
   "price": 5907,

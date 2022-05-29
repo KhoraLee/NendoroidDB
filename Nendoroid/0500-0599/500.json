@@ -1,14 +1,14 @@
 {
   "num": "500",
   "name": {
-    "KO": "사쿠라 미쿠 Bloomed in Japan",
-    "JA": "ねんどろいど 桜ミク Bloomed in Japan (ねんどろいど さくらみく ぶるーむど いん じゃぱん)",
-    "EN": "Nendoroid Sakura Miku: Bloomed in Japan (ねんどろいど さくらみく ぶるーむど いん じゃぱん)"
+    "ko": "사쿠라 미쿠 Bloomed in Japan",
+    "ja": "ねんどろいど 桜ミク Bloomed in Japan (ねんどろいど さくらみく ぶるーむど いん じゃぱん)",
+    "en": "Nendoroid Sakura Miku: Bloomed in Japan (ねんどろいど さくらみく ぶるーむど いん じゃぱん)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 4757,
   "price": 4584,

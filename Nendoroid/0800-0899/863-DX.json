@@ -1,14 +1,14 @@
 {
   "num": "863-DX",
   "name": {
-    "KO": "토르 라그나로크 에디션 DX Ver.",
-    "JA": "ねんどろいど ソー DX Ver. (ねんどろいど そー DX Ver.)",
-    "EN": "Nendoroid Thor: DX Ver."
+    "ko": "토르 라그나로크 에디션 DX Ver.",
+    "ja": "ねんどろいど ソー DX Ver. (ねんどろいど そー DX Ver.)",
+    "en": "Nendoroid Thor: DX Ver."
   },
   "series": {
-    "KO": "토르 라그나로크",
-    "JA": "マイティ・ソー バトルロイヤル",
-    "EN": "Thor: Ragnarok"
+    "ko": "토르 라그나로크",
+    "ja": "マイティ・ソー バトルロイヤル",
+    "en": "Thor: Ragnarok"
   },
   "gsc_productNum": 7849,
   "price": 8862,

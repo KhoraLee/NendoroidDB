@@ -1,14 +1,14 @@
 {
   "num": "023",
   "name": {
-    "KO": "타치코마 실버",
-    "JA": "ねんどろいど タチコマンズ・シルバー (ねんどろいど たちこまんず・しるばー)",
-    "EN": "Nendoroid Tachikomans - Silver version (ねんどろいど たちこまんず・しるばー)"
+    "ko": "타치코마 실버",
+    "ja": "ねんどろいど タチコマンズ・シルバー (ねんどろいど たちこまんず・しるばー)",
+    "en": "Nendoroid Tachikomans - Silver version (ねんどろいど たちこまんず・しるばー)"
   },
   "series": {
-    "KO": "공각기동대",
-    "JA": "攻殻機動隊S.A.C.",
-    "EN": "Ghost in The Shell S.A.C"
+    "ko": "공각기동대",
+    "ja": "攻殻機動隊S.A.C.",
+    "en": "Ghost in The Shell S.A.C"
   },
   "gsc_productNum": 635,
   "price": 4190,

@@ -1,14 +1,14 @@
 {
   "num": "1324",
   "name": {
-    "KO": "얼터 에고/멜트릴리스",
-    "JA": "ねんどろいど アルターエゴ/メルトリリス (ねんどろいど あるたーえご/めるとりりす)",
-    "EN": "Nendoroid Alter Ego/Meltryllis"
+    "ko": "얼터 에고/멜트릴리스",
+    "ja": "ねんどろいど アルターエゴ/メルトリリス (ねんどろいど あるたーえご/めるとりりす)",
+    "en": "Nendoroid Alter Ego/Meltryllis"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 9437,
   "price": 5800,

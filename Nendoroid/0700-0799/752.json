@@ -1,14 +1,14 @@
 {
   "num": "752",
   "name": {
-    "KO": "서벌",
-    "JA": "ねんどろいど サーバル (ねんどろいど さーばる)",
-    "EN": "Nendoroid Serval"
+    "ko": "서벌",
+    "ja": "ねんどろいど サーバル (ねんどろいど さーばる)",
+    "en": "Nendoroid Serval"
   },
   "series": {
-    "KO": "케모노 프렌즈",
-    "JA": "けものフレンズ",
-    "EN": "Kemono Friends"
+    "ko": "케모노 프렌즈",
+    "ja": "けものフレンズ",
+    "en": "Kemono Friends"
   },
   "gsc_productNum": 6339,
   "price": 4584,

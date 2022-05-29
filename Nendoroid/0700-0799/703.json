@@ -1,14 +1,14 @@
 {
   "num": "703",
   "name": {
-    "KO": "구다코",
-    "JA": "ねんどろいど ぐだ子 (ねんどろいど ぐだこ)",
-    "EN": "Nendoroid Gudako"
+    "ko": "구다코",
+    "ja": "ねんどろいど ぐだ子 (ねんどろいど ぐだこ)",
+    "en": "Nendoroid Gudako"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 6112,
   "price": 4584,

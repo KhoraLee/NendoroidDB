@@ -1,14 +1,14 @@
 {
   "num": "685",
   "name": {
-    "KO": "엑스 풀아머",
-    "JA": "ねんどろいど エックス フルアーマー (ねんどろいど えっくす ふるあーまー)",
-    "EN": "Nendoroid Mega Man X: Full Armor"
+    "ko": "엑스 풀아머",
+    "ja": "ねんどろいど エックス フルアーマー (ねんどろいど えっくす ふるあーまー)",
+    "en": "Nendoroid Mega Man X: Full Armor"
   },
   "series": {
-    "KO": "록맨 시리즈",
-    "JA": "ロックマンX",
-    "EN": "Mega Man X"
+    "ko": "록맨 시리즈",
+    "ja": "ロックマンX",
+    "en": "Mega Man X"
   },
   "gsc_productNum": 6010,
   "price": 4888,

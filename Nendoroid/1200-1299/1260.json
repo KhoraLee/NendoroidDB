@@ -1,14 +1,14 @@
 {
   "num": "1260",
   "name": {
-    "KO": "이카리 신지",
-    "JA": "ねんどろいど 碇シンジ (ねんどろいど いかりしんじ)",
-    "EN": "Nendoroid Shinji Ikari"
+    "ko": "이카리 신지",
+    "ja": "ねんどろいど 碇シンジ (ねんどろいど いかりしんじ)",
+    "en": "Nendoroid Shinji Ikari"
   },
   "series": {
-    "KO": "에반게리온",
-    "JA": "ヱヴァンゲリヲン新劇場版",
-    "EN": "Rebuild of Evangelion"
+    "ko": "에반게리온",
+    "ja": "ヱヴァンゲリヲン新劇場版",
+    "en": "Rebuild of Evangelion"
   },
   "gsc_productNum": 9092,
   "price": 5100,

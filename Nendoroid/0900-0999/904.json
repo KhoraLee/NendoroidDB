@@ -1,14 +1,14 @@
 {
   "num": "904",
   "name": {
-    "KO": "아처/이슈타르",
-    "JA": "ねんどろいど アーチャー/イシュタル (ねんどろいど あーちゃー/いしゅたる)",
-    "EN": "Nendoroid Archer/Ishtar"
+    "ko": "아처/이슈타르",
+    "ja": "ねんどろいど アーチャー/イシュタル (ねんどろいど あーちゃー/いしゅたる)",
+    "en": "Nendoroid Archer/Ishtar"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 7145,
   "price": 6926,

@@ -1,14 +1,14 @@
 {
   "num": "778",
   "name": {
-    "KO": "무츠키 改二",
-    "JA": "ねんどろいど 睦月改二 (ねんどろいど むつきかいに)",
-    "EN": "Nendoroid Mutsuki Kai-II"
+    "ko": "무츠키 改二",
+    "ja": "ねんどろいど 睦月改二 (ねんどろいど むつきかいに)",
+    "en": "Nendoroid Mutsuki Kai-II"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 6471,
   "price": 5602,

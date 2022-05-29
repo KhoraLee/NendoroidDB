@@ -1,14 +1,14 @@
 {
   "num": "1314-DX",
   "name": {
-    "KO": "리어 포티아 완전연소 Ver.",
-    "JA": "ねんどろいど リオ・フォーティア 完全燃焼Ver. (ねんどろいど りお・ふぉーてぃあ かんぜんねんしょうVer.)",
-    "EN": "Nendoroid Lio Fotia: Complete Combustion Ver."
+    "ko": "리어 포티아 완전연소 Ver.",
+    "ja": "ねんどろいど リオ・フォーティア 完全燃焼Ver. (ねんどろいど りお・ふぉーてぃあ かんぜんねんしょうVer.)",
+    "en": "Nendoroid Lio Fotia: Complete Combustion Ver."
   },
   "series": {
-    "KO": "프로메어",
-    "JA": "プロメア",
-    "EN": "PROMARE"
+    "ko": "프로메어",
+    "ja": "プロメア",
+    "en": "PROMARE"
   },
   "gsc_productNum": 9366,
   "price": 5800,

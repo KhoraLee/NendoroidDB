@@ -1,14 +1,14 @@
 {
   "num": "181",
   "name": {
-    "KO": "님프",
-    "JA": "ねんどろいど ニンフ (ねんどろいど にんふ)",
-    "EN": "Nendoroid Nymph (ねんどろいど にんふ)"
+    "ko": "님프",
+    "ja": "ねんどろいど ニンフ (ねんどろいど にんふ)",
+    "en": "Nendoroid Nymph (ねんどろいど にんふ)"
   },
   "series": {
-    "KO": "하늘의 유실물",
-    "JA": "そらのおとしものf（フォルテ）",
-    "EN": "Sora no Otoshimono Forte"
+    "ko": "하늘의 유실물",
+    "ja": "そらのおとしものf（フォルテ）",
+    "en": "Sora no Otoshimono Forte"
   },
   "gsc_productNum": 3204,
   "price": 3667,

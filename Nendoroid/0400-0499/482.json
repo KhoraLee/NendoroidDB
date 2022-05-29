@@ -1,14 +1,14 @@
 {
   "num": "482",
   "name": {
-    "KO": "스즈야",
-    "JA": "ねんどろいど 鈴谷 (ねんどろいど すずや)",
-    "EN": "Nendoroid Suzuya (ねんどろいど すずや)"
+    "ko": "스즈야",
+    "ja": "ねんどろいど 鈴谷 (ねんどろいど すずや)",
+    "en": "Nendoroid Suzuya (ねんどろいど すずや)"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 4744,
   "price": 4584,

@@ -1,14 +1,14 @@
 {
   "num": "672",
   "name": {
-    "KO": "할리퀸 수어사이드 에디션",
-    "JA": "ねんどろいど ハーレイ・クイン スーサイド・エディション (ねんどろいど はーれい・くいん すーさいど・えでぃしょん)",
-    "EN": "Nendoroid Harley Quinn: Suicide Edition"
+    "ko": "할리퀸 수어사이드 에디션",
+    "ja": "ねんどろいど ハーレイ・クイン スーサイド・エディション (ねんどろいど はーれい・くいん すーさいど・えでぃしょん)",
+    "en": "Nendoroid Harley Quinn: Suicide Edition"
   },
   "series": {
-    "KO": "수어사이드 스쿼드",
-    "JA": "スーサイド・スクワッド",
-    "EN": "Suicide Squad"
+    "ko": "수어사이드 스쿼드",
+    "ja": "スーサイド・スクワッド",
+    "en": "Suicide Squad"
   },
   "gsc_productNum": 5911,
   "price": 4584,

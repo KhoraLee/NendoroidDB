@@ -1,14 +1,14 @@
 {
   "num": "838",
   "name": {
-    "KO": "겐지",
-    "JA": "ねんどろいど ゲンジ クラシックスキン・エディション (ねんどろいど げんじ くらしっくすきん・えでぃしょん)",
-    "EN": "Nendoroid Genji: Classic Skin Edition"
+    "ko": "겐지",
+    "ja": "ねんどろいど ゲンジ クラシックスキン・エディション (ねんどろいど げんじ くらしっくすきん・えでぃしょん)",
+    "en": "Nendoroid Genji: Classic Skin Edition"
   },
   "series": {
-    "KO": "오버워치",
-    "JA": "オーバーウォッチ",
-    "EN": "Overwatch"
+    "ko": "오버워치",
+    "ja": "オーバーウォッチ",
+    "en": "Overwatch"
   },
   "gsc_productNum": 6606,
   "price": 4991,

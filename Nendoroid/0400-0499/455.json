@@ -1,14 +1,14 @@
 {
   "num": "455",
   "name": {
-    "KO": "코우미 하루카",
-    "JA": "ねんどろいど 小海はるか (ねんどろいど こうみはるか)",
-    "EN": "Nendoroid Haruka Koumi (ねんどろいど こうみはるか)"
+    "ko": "코우미 하루카",
+    "ja": "ねんどろいど 小海はるか (ねんどろいど こうみはるか)",
+    "en": "Nendoroid Haruka Koumi (ねんどろいど こうみはるか)"
   },
   "series": {
-    "KO": "레일워즈",
-    "JA": "RAIL WARS!",
-    "EN": "RAIL WARS!"
+    "ko": "레일워즈",
+    "ja": "RAIL WARS!",
+    "en": "RAIL WARS!"
   },
   "gsc_productNum": 4585,
   "price": 4400,

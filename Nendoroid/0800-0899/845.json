@@ -1,14 +1,14 @@
 {
   "num": "845",
   "name": {
-    "KO": "콩고 改二",
-    "JA": "ねんどろいど 金剛改二 (ねんどろいど こんごうかいに)",
-    "EN": "Nendoroid Kongo Kai-II"
+    "ko": "콩고 改二",
+    "ja": "ねんどろいど 金剛改二 (ねんどろいど こんごうかいに)",
+    "en": "Nendoroid Kongo Kai-II"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 6856,
   "price": 6722,

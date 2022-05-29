@@ -1,14 +1,14 @@
 {
   "num": "921",
   "name": {
-    "KO": "마이크 와조스키 \u0026 부",
-    "JA": "ねんどろいど マイク＆ブーセット スタンダードVer. (ねんどろいど まいく＆ぶーせっと すたんだーどVer.)",
-    "EN": "Nendoroid Mike \u0026 Boo Set: Standard Ver."
+    "ko": "마이크 와조스키 \u0026 부",
+    "ja": "ねんどろいど マイク＆ブーセット スタンダードVer. (ねんどろいど まいく＆ぶーせっと すたんだーどVer.)",
+    "en": "Nendoroid Mike \u0026 Boo Set: Standard Ver."
   },
   "series": {
-    "KO": "몬스터 주식회사",
-    "JA": "モンスターズ・インク",
-    "EN": "Monsters, Inc."
+    "ko": "몬스터 주식회사",
+    "ja": "モンスターズ・インク",
+    "en": "Monsters, Inc."
   },
   "gsc_productNum": 7274,
   "price": 4888,

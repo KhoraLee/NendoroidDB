@@ -1,14 +1,14 @@
 {
   "num": "1360",
   "name": {
-    "KO": "아마미야 사쿠라",
-    "JA": "ねんどろいど 天宮さくら (ねんどろいど あまみやさくら)",
-    "EN": "Nendoroid Sakura Amamiya"
+    "ko": "아마미야 사쿠라",
+    "ja": "ねんどろいど 天宮さくら (ねんどろいど あまみやさくら)",
+    "en": "Nendoroid Sakura Amamiya"
   },
   "series": {
-    "KO": "신 사쿠라 대전",
-    "JA": "新サクラ大戦",
-    "EN": "Sakura Wars"
+    "ko": "신 사쿠라 대전",
+    "ja": "新サクラ大戦",
+    "en": "Sakura Wars"
   },
   "gsc_productNum": 9618,
   "price": 5200,

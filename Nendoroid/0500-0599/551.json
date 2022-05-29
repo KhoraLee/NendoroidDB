@@ -1,14 +1,14 @@
 {
   "num": "551",
   "name": {
-    "KO": "오요도",
-    "JA": "ねんどろいど 大淀 (ねんどろいど おおよど)",
-    "EN": "Nendoroid Oyodo (ねんどろいど おおよど)"
+    "ko": "오요도",
+    "ja": "ねんどろいど 大淀 (ねんどろいど おおよど)",
+    "en": "Nendoroid Oyodo (ねんどろいど おおよど)"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 5182,
   "price": 5093,

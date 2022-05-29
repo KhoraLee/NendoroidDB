@@ -1,14 +1,14 @@
 {
   "num": "1520-DX",
   "name": {
-    "KO": "블랙위도우 Black Widow DX Ver.",
-    "JA": "ねんどろいど ブラックウィドウ Black Widow Ver. DX (ねんどろいど ぶらっくうぃどう ぶらっくうぃどう Ver. DX)",
-    "EN": "Nendoroid Black Widow: Black Widow Ver. DX"
+    "ko": "블랙위도우 Black Widow DX Ver.",
+    "ja": "ねんどろいど ブラックウィドウ Black Widow Ver. DX (ねんどろいど ぶらっくうぃどう ぶらっくうぃどう Ver. DX)",
+    "en": "Nendoroid Black Widow: Black Widow Ver. DX"
   },
   "series": {
-    "KO": "블랙 위도우",
-    "JA": "ブラックウィドウ",
-    "EN": "Black Widow"
+    "ko": "블랙 위도우",
+    "ja": "ブラックウィドウ",
+    "en": "Black Widow"
   },
   "gsc_productNum": 10237,
   "price": 9000,

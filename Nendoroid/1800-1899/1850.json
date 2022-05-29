@@ -1,14 +1,14 @@
 {
   "num": "1850",
   "name": {
-    "KO": "에일로이",
-    "JA": "ねんどろいど アーロイ (ねんどろいど あーろい)",
-    "EN": "Nendoroid Aloy"
+    "ko": "에일로이",
+    "ja": "ねんどろいど アーロイ (ねんどろいど あーろい)",
+    "en": "Nendoroid Aloy"
   },
   "series": {
-    "KO": "호라이즌 포비든 웨스트",
-    "JA": "Horizon Forbidden West",
-    "EN": "Horizon Forbidden West"
+    "ko": "호라이즌 포비든 웨스트",
+    "ja": "Horizon Forbidden West",
+    "en": "Horizon Forbidden West"
   },
   "gsc_productNum": 12520,
   "price": 6500,

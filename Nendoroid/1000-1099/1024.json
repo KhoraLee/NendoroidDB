@@ -1,14 +1,14 @@
 {
   "num": "1024",
   "name": {
-    "KO": "네코미야 히나타",
-    "JA": "ねんどろいど 猫宮ひなた (ねんどろいど ねこみやひなた)",
-    "EN": "Nendoroid Nekomiya Hinata"
+    "ko": "네코미야 히나타",
+    "ja": "ねんどろいど 猫宮ひなた (ねんどろいど ねこみやひなた)",
+    "en": "Nendoroid Nekomiya Hinata"
   },
   "series": {
-    "KO": "버추얼 유튜버",
-    "JA": "ひなたチャンネル",
-    "EN": "Hinata Channel"
+    "ko": "버추얼 유튜버",
+    "ja": "ひなたチャンネル",
+    "en": "Hinata Channel"
   },
   "gsc_productNum": 7777,
   "price": 5093,

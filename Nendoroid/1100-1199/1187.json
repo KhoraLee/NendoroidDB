@@ -1,14 +1,14 @@
 {
   "num": "1187",
   "name": {
-    "KO": "세베루스 스네이프",
-    "JA": "ねんどろいど セブルス・スネイプ (ねんどろいど せぶるす・すねいぷ)",
-    "EN": "Nendoroid Severus Snape"
+    "ko": "세베루스 스네이프",
+    "ja": "ねんどろいど セブルス・スネイプ (ねんどろいど せぶるす・すねいぷ)",
+    "en": "Nendoroid Severus Snape"
   },
   "series": {
-    "KO": "해리포터 시리즈",
-    "JA": "ハリー・ポッター",
-    "EN": "Harry Potter"
+    "ko": "해리포터 시리즈",
+    "ja": "ハリー・ポッター",
+    "en": "Harry Potter"
   },
   "gsc_productNum": 8691,
   "price": 5000,

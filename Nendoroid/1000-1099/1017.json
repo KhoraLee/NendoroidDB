@@ -1,14 +1,14 @@
 {
   "num": "1017",
   "name": {
-    "KO": "토르비욘",
-    "JA": "ねんどろいど トールビョーン クラシックスキン・エディション (ねんどろいど とーるびょーん くらしっくすきん・えでぃしょん)",
-    "EN": "Nendoroid Torbjörn: Classic Skin Edition"
+    "ko": "토르비욘",
+    "ja": "ねんどろいど トールビョーン クラシックスキン・エディション (ねんどろいど とーるびょーん くらしっくすきん・えでぃしょん)",
+    "en": "Nendoroid Torbjörn: Classic Skin Edition"
   },
   "series": {
-    "KO": "오버워치",
-    "JA": "オーバーウォッチ",
-    "EN": "Overwatch"
+    "ko": "오버워치",
+    "ja": "オーバーウォッチ",
+    "en": "Overwatch"
   },
   "gsc_productNum": 7693,
   "price": 6009,

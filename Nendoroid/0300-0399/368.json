@@ -1,14 +1,14 @@
 {
   "num": "368",
   "name": {
-    "KO": "하치쿠지 마요이",
-    "JA": "ねんどろいど 八九寺真宵 (ねんどろいど はちくじまよい)",
-    "EN": "Nendoroid Mayoi Hachikuji (ねんどろいど はちくじまよい)"
+    "ko": "하치쿠지 마요이",
+    "ja": "ねんどろいど 八九寺真宵 (ねんどろいど はちくじまよい)",
+    "en": "Nendoroid Mayoi Hachikuji (ねんどろいど はちくじまよい)"
   },
   "series": {
-    "KO": "모노가타리 시리즈",
-    "JA": "化物語",
-    "EN": "Bakemonogatari"
+    "ko": "모노가타리 시리즈",
+    "ja": "化物語",
+    "en": "Bakemonogatari"
   },
   "gsc_productNum": 4091,
   "price": 3981,

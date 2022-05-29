@@ -1,14 +1,14 @@
 {
   "num": "1836",
   "name": {
-    "KO": "코즈메 켄마 세컨드 유니폼 Ver.",
-    "JA": "ねんどろいど 孤爪研磨 セカンドユニフォームVer. (ねんどろいど こづめけんま せかんどゆにふぉーむVer.)",
-    "EN": "Nendoroid Kenma Kozume: Second Uniform Ver."
+    "ko": "코즈메 켄마 세컨드 유니폼 Ver.",
+    "ja": "ねんどろいど 孤爪研磨 セカンドユニフォームVer. (ねんどろいど こづめけんま せかんどゆにふぉーむVer.)",
+    "en": "Nendoroid Kenma Kozume: Second Uniform Ver."
   },
   "series": {
-    "KO": "하이큐!!",
-    "JA": "ハイキュー!!",
-    "EN": "Haikyu!!"
+    "ko": "하이큐!!",
+    "ja": "ハイキュー!!",
+    "en": "Haikyu!!"
   },
   "gsc_productNum": 12389,
   "price": 4800,

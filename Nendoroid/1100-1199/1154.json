@@ -1,14 +1,14 @@
 {
   "num": "1154",
   "name": {
-    "KO": "캡틴 마블 히어로 에디션",
-    "JA": "ねんどろいど キャプテン・マーベル ヒーローズ・エディション スタンダードVer. (ねんどろいど きゃぷてん・まーべる ひーろーず・えでぃしょん すたんだーどVer.)",
-    "EN": "Nendoroid Captain Marvel: Hero\u0027s Edition Standard Ver."
+    "ko": "캡틴 마블 히어로 에디션",
+    "ja": "ねんどろいど キャプテン・マーベル ヒーローズ・エディション スタンダードVer. (ねんどろいど きゃぷてん・まーべる ひーろーず・えでぃしょん すたんだーどVer.)",
+    "en": "Nendoroid Captain Marvel: Hero\u0027s Edition Standard Ver."
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "キャプテン・マーベル",
-    "EN": "Captain Marvel"
+    "ko": "어벤져스",
+    "ja": "キャプテン・マーベル",
+    "en": "Captain Marvel"
   },
   "gsc_productNum": 8447,
   "price": 5000,

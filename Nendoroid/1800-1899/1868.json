@@ -1,14 +1,14 @@
 {
   "num": "1868",
   "name": {
-    "KO": "Fate/Grand Order 랜서 / 알트리아 펜드래곤 얼터",
-    "JA": "ねんどろいど ランサー/アルトリア・ペンドラゴン〔オルタ〕 (ねんどろいど らんさー/あるとりあ・ぺんどらごん〔おるた〕)",
-    "EN": "Nendoroid Lancer/Altria Pendragon (Alter)"
+    "ko": "Fate/Grand Order 랜서 / 알트리아 펜드래곤 얼터",
+    "ja": "ねんどろいど ランサー/アルトリア・ペンドラゴン〔オルタ〕 (ねんどろいど らんさー/あるとりあ・ぺんどらごん〔おるた〕)",
+    "en": "Nendoroid Lancer/Altria Pendragon (Alter)"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 12568,
   "price": 9500,

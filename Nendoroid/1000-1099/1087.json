@@ -1,14 +1,14 @@
 {
   "num": "1087",
   "name": {
-    "KO": "스프링필드",
-    "JA": "ねんどろいど スプリングフィールド (ねんどろいど すぷりんぐふぃーるど)",
-    "EN": "Nendoroid Springfield"
+    "ko": "스프링필드",
+    "ja": "ねんどろいど スプリングフィールド (ねんどろいど すぷりんぐふぃーるど)",
+    "en": "Nendoroid Springfield"
   },
   "series": {
-    "KO": "소녀전선",
-    "JA": "ドールズフロントライン",
-    "EN": "Girls\u0027 Frontline"
+    "ko": "소녀전선",
+    "ja": "ドールズフロントライン",
+    "en": "Girls\u0027 Frontline"
   },
   "gsc_productNum": 8068,
   "price": 5602,

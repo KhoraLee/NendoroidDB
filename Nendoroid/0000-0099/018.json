@@ -1,14 +1,14 @@
 {
   "num": "018",
   "name": {
-    "KO": "아마네 미사",
-    "JA": "ねんどろいど 弥 海砂 (Misa Amane Nendoroid)",
-    "EN": "Nendoroid Misa Amane (Misa Amane Nendoroid)"
+    "ko": "아마네 미사",
+    "ja": "ねんどろいど 弥 海砂 (Misa Amane Nendoroid)",
+    "en": "Nendoroid Misa Amane (Misa Amane Nendoroid)"
   },
   "series": {
-    "KO": "데스노트",
-    "JA": "DEATH NOTE",
-    "EN": "DEATH NOTE"
+    "ko": "데스노트",
+    "ja": "DEATH NOTE",
+    "en": "DEATH NOTE"
   },
   "gsc_productNum": 620,
   "price": 3143,

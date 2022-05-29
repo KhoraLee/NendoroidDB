@@ -1,14 +1,14 @@
 {
   "num": "1128",
   "name": {
-    "KO": "이세 改二",
-    "JA": "ねんどろいど 伊勢改二 (ねんどろいど いせかいに)",
-    "EN": "Nendoroid Ise Kai-II"
+    "ko": "이세 改二",
+    "ja": "ねんどろいど 伊勢改二 (ねんどろいど いせかいに)",
+    "en": "Nendoroid Ise Kai-II"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 8274,
   "price": 8500,

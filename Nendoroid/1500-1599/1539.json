@@ -1,14 +1,14 @@
 {
   "num": "1539",
   "name": {
-    "KO": "유키 미쿠 Glowing Snow Ver.",
-    "JA": "ねんどろいど 雪ミク Glowing Snow Ver. (ねんどろいど ゆきみく ぐろうぃんぐ すのう Ver.)",
-    "EN": "Nendoroid Snow Miku: Glowing Snow Ver."
+    "ko": "유키 미쿠 Glowing Snow Ver.",
+    "ja": "ねんどろいど 雪ミク Glowing Snow Ver. (ねんどろいど ゆきみく ぐろうぃんぐ すのう Ver.)",
+    "en": "Nendoroid Snow Miku: Glowing Snow Ver."
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 10690,
   "price": 5800,

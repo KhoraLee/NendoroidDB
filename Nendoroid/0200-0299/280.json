@@ -1,14 +1,14 @@
 {
   "num": "280",
   "name": {
-    "KO": "하츠네 미쿠 산타 Ver.",
-    "JA": "ねんどろいど 初音ミク サンタVer. (ねんどろいど はつねみく さんたVer.)",
-    "EN": "Nendoroid Hatsune Miku: Santa Ver. (ねんどろいど はつねみく さんたVer.)"
+    "ko": "하츠네 미쿠 산타 Ver.",
+    "ja": "ねんどろいど 初音ミク サンタVer. (ねんどろいど はつねみく さんたVer.)",
+    "en": "Nendoroid Hatsune Miku: Santa Ver. (ねんどろいど はつねみく さんたVer.)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 3743,
   "price": 0,

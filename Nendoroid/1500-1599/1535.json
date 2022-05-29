@@ -1,14 +1,14 @@
 {
   "num": "1535",
   "name": {
-    "KO": "징크스",
-    "JA": "ねんどろいど ジンクス (ねんどろいど じんくす)",
-    "EN": "Nendoroid Jinx"
+    "ko": "징크스",
+    "ja": "ねんどろいど ジンクス (ねんどろいど じんくす)",
+    "en": "Nendoroid Jinx"
   },
   "series": {
-    "KO": "리그 오브 레전드",
-    "JA": "リーグ・オブ・レジェンド",
-    "EN": "League of Legends"
+    "ko": "리그 오브 레전드",
+    "ja": "リーグ・オブ・レジェンド",
+    "en": "League of Legends"
   },
   "gsc_productNum": 10632,
   "price": 6400,

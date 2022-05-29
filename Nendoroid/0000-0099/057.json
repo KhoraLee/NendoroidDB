@@ -1,14 +1,14 @@
 {
   "num": "057",
   "name": {
-    "KO": "미야후지 요시카",
-    "JA": "ねんどろいど　宮藤芳佳 (みやふじよしか　ねんどろいど)",
-    "EN": "Nendoroid Yoshika Miyafuji (みやふじよしか　ねんどろいど)"
+    "ko": "미야후지 요시카",
+    "ja": "ねんどろいど　宮藤芳佳 (みやふじよしか　ねんどろいど)",
+    "en": "Nendoroid Yoshika Miyafuji (みやふじよしか　ねんどろいど)"
   },
   "series": {
-    "KO": "스트라이크 위치스",
-    "JA": "ストライクウィッチーズ",
-    "EN": "Strike Witches"
+    "ko": "스트라이크 위치스",
+    "ja": "ストライクウィッチーズ",
+    "en": "Strike Witches"
   },
   "gsc_productNum": 2160,
   "price": 4190,

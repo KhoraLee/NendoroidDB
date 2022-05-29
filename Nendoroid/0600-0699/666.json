@@ -1,14 +1,14 @@
 {
   "num": "666",
   "name": {
-    "KO": "엘리어스 에인즈워스",
-    "JA": "ねんどろいど エリアス・エインズワース (ねんどろいど えりあす・えいんずわーす)",
-    "EN": "Nendoroid Elias Ainsworth"
+    "ko": "엘리어스 에인즈워스",
+    "ja": "ねんどろいど エリアス・エインズワース (ねんどろいど えりあす・えいんずわーす)",
+    "en": "Nendoroid Elias Ainsworth"
   },
   "series": {
-    "KO": "마법사의 신부",
-    "JA": "魔法使いの嫁",
-    "EN": "The Ancient Magus\u0027 Bride"
+    "ko": "마법사의 신부",
+    "ja": "魔法使いの嫁",
+    "en": "The Ancient Magus\u0027 Bride"
   },
   "gsc_productNum": 5862,
   "price": 4888,

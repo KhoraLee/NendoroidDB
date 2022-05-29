@@ -1,14 +1,14 @@
 {
   "num": "350",
   "name": {
-    "KO": "란카 리",
-    "JA": "ねんどろいど ランカ・リー (ねんどろいど らんか・りー)",
-    "EN": "Nendoroid Ranka Lee (ねんどろいど らんか・りー)"
+    "ko": "란카 리",
+    "ja": "ねんどろいど ランカ・リー (ねんどろいど らんか・りー)",
+    "en": "Nendoroid Ranka Lee (ねんどろいど らんか・りー)"
   },
   "series": {
-    "KO": "마크로스 프런티어",
-    "JA": "マクロスF（フロンティア）",
-    "EN": "Macross Frontier"
+    "ko": "마크로스 프런티어",
+    "ja": "マクロスF（フロンティア）",
+    "en": "Macross Frontier"
   },
   "gsc_productNum": 3989,
   "price": 3667,

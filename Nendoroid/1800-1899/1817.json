@@ -1,14 +1,14 @@
 {
   "num": "1817",
   "name": {
-    "KO": "모니카",
-    "JA": "ねんどろいど モニカ (ねんどろいど もにか)",
-    "EN": "Nendoroid Monika"
+    "ko": "모니카",
+    "ja": "ねんどろいど モニカ (ねんどろいど もにか)",
+    "en": "Nendoroid Monika"
   },
   "series": {
-    "KO": "두근두근 문예부!",
-    "JA": "ドキドキ文芸部!",
-    "EN": "Doki Doki Literature Club!"
+    "ko": "두근두근 문예부!",
+    "ja": "ドキドキ文芸部!",
+    "en": "Doki Doki Literature Club!"
   },
   "gsc_productNum": 12307,
   "price": 6900,

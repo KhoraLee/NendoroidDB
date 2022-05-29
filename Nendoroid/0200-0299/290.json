@@ -1,14 +1,14 @@
 {
   "num": "290",
   "name": {
-    "KO": "센도 아이치",
-    "JA": "ねんどろいど 先導アイチ (ねんどろいど せんどうあいち)",
-    "EN": "Nendoroid Aichi Sendou (ねんどろん)"
+    "ko": "센도 아이치",
+    "ja": "ねんどろいど 先導アイチ (ねんどろいど せんどうあいち)",
+    "en": "Nendoroid Aichi Sendou (ねんどろん)"
   },
   "series": {
-    "KO": "카드파이트!! 뱅가드",
-    "JA": "カードファイト!!ヴァンガード",
-    "EN": "Cardfight!! Vanguard"
+    "ko": "카드파이트!! 뱅가드",
+    "ja": "カードファイト!!ヴァンガード",
+    "en": "Cardfight!! Vanguard"
   },
   "gsc_productNum": 3749,
   "price": 3667,

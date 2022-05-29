@@ -1,14 +1,14 @@
 {
   "num": "1348",
   "name": {
-    "KO": "키리사메 마리사 2.0",
-    "JA": "ねんどろいど 霧雨魔理沙2.0 (ねんどろいど きりさめまりさ2.0)",
-    "EN": "Nendoroid Marisa Kirisame 2.0"
+    "ko": "키리사메 마리사 2.0",
+    "ja": "ねんどろいど 霧雨魔理沙2.0 (ねんどろいど きりさめまりさ2.0)",
+    "en": "Nendoroid Marisa Kirisame 2.0"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 9506,
   "price": 5500,

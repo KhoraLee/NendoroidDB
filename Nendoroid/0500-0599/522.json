@@ -1,14 +1,14 @@
 {
   "num": "522",
   "name": {
-    "KO": "시마무라 우즈키",
-    "JA": "ねんどろいど 島村卯月 (ねんどろいど しまむらうづき)",
-    "EN": "Nendoroid Uzuki Shimamura (ねんどろいど しまむらうづき)"
+    "ko": "시마무라 우즈키",
+    "ja": "ねんどろいど 島村卯月 (ねんどろいど しまむらうづき)",
+    "en": "Nendoroid Uzuki Shimamura (ねんどろいど しまむらうづき)"
   },
   "series": {
-    "KO": "아이돌 마스터 신데렐라 걸즈",
-    "JA": "アイドルマスター シンデレラガールズ",
-    "EN": "THE IDOLM@STER CINDERELLA GIRLS"
+    "ko": "아이돌 마스터 신데렐라 걸즈",
+    "ja": "アイドルマスター シンデレラガールズ",
+    "en": "THE IDOLM@STER CINDERELLA GIRLS"
   },
   "gsc_productNum": 5006,
   "price": 3972,

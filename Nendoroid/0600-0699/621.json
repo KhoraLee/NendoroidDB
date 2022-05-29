@@ -1,14 +1,14 @@
 {
   "num": "621",
   "name": {
-    "KO": "쇼카쿠",
-    "JA": "ねんどろいど 翔鶴 (ねんどろいど しょうかく)",
-    "EN": "Nendoroid Shokaku"
+    "ko": "쇼카쿠",
+    "ja": "ねんどろいど 翔鶴 (ねんどろいど しょうかく)",
+    "en": "Nendoroid Shokaku"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 5612,
   "price": 6112,

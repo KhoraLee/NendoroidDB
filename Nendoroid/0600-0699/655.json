@@ -1,14 +1,14 @@
 {
   "num": "655",
   "name": {
-    "KO": "아키즈키",
-    "JA": "ねんどろいど 秋月 (ねんどろいど あきづき)",
-    "EN": "Nendoroid Akizuki"
+    "ko": "아키즈키",
+    "ja": "ねんどろいど 秋月 (ねんどろいど あきづき)",
+    "en": "Nendoroid Akizuki"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 5789,
   "price": 5297,

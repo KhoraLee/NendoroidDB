@@ -1,14 +1,14 @@
 {
   "num": "899",
   "name": {
-    "KO": "키즈나 아이",
-    "JA": "ねんどろいど キズナアイ (ねんどろいど きずなあい)",
-    "EN": "Nendoroid Kizuna AI"
+    "ko": "키즈나 아이",
+    "ja": "ねんどろいど キズナアイ (ねんどろいど きずなあい)",
+    "en": "Nendoroid Kizuna AI"
   },
   "series": {
-    "KO": "버추얼 유튜버",
-    "JA": "キズナアイ",
-    "EN": "Kizuna AI"
+    "ko": "버추얼 유튜버",
+    "ja": "キズナアイ",
+    "en": "Kizuna AI"
   },
   "gsc_productNum": 7108,
   "price": 4888,

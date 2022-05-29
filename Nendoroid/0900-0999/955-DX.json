@@ -1,14 +1,14 @@
 {
   "num": "955-DX",
   "name": {
-    "KO": "블랙팬서 어벤져스 인피니티 워 에디션 DX",
-    "JA": "ねんどろいど ブラックパンサー インフィニティ・エディション DX Ver. (ねんどろいど ぶらっくぱんさー いんふぃにてぃ・えでぃしょん DX Ver.)",
-    "EN": "Nendoroid Black Panther: Infinity Edition DX Ver."
+    "ko": "블랙팬서 어벤져스 인피니티 워 에디션 DX",
+    "ja": "ねんどろいど ブラックパンサー インフィニティ・エディション DX Ver. (ねんどろいど ぶらっくぱんさー いんふぃにてぃ・えでぃしょん DX Ver.)",
+    "en": "Nendoroid Black Panther: Infinity Edition DX Ver."
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "アベンジャーズ／インフィニティ・ウォー",
-    "EN": "Avengers: Infinity War"
+    "ko": "어벤져스",
+    "ja": "アベンジャーズ／インフィニティ・ウォー",
+    "en": "Avengers: Infinity War"
   },
   "gsc_productNum": 8141,
   "price": 7231,

@@ -1,14 +1,14 @@
 {
   "num": "656",
   "name": {
-    "KO": "카시마",
-    "JA": "ねんどろいど 鹿島 (ねんどろいど かしま)",
-    "EN": "Nendoroid Kashima"
+    "ko": "카시마",
+    "ja": "ねんどろいど 鹿島 (ねんどろいど かしま)",
+    "en": "Nendoroid Kashima"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 5802,
   "price": 5297,

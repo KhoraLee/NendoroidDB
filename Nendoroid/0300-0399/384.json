@@ -1,14 +1,14 @@
 {
   "num": "384",
   "name": {
-    "KO": "칸바루 스루가",
-    "JA": "ねんどろいど 神原駿河 (ねんどろいど かんばるするが)",
-    "EN": "Nendoroid Suruga Kanbaru (ねんどろいど かんばるするが)"
+    "ko": "칸바루 스루가",
+    "ja": "ねんどろいど 神原駿河 (ねんどろいど かんばるするが)",
+    "en": "Nendoroid Suruga Kanbaru (ねんどろいど かんばるするが)"
   },
   "series": {
-    "KO": "모노가타리 시리즈",
-    "JA": "化物語",
-    "EN": "Bakemonogatari"
+    "ko": "모노가타리 시리즈",
+    "ja": "化物語",
+    "en": "Bakemonogatari"
   },
   "gsc_productNum": 4123,
   "price": 3871,

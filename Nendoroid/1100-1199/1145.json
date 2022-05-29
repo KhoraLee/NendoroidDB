@@ -1,14 +1,14 @@
 {
   "num": "1145",
   "name": {
-    "KO": "아미야",
-    "JA": "ねんどろいど アーミヤ (ねんどろいど あーみや)",
-    "EN": "Nendoroid Amiya"
+    "ko": "아미야",
+    "ja": "ねんどろいど アーミヤ (ねんどろいど あーみや)",
+    "en": "Nendoroid Amiya"
   },
   "series": {
-    "KO": "명일방주",
-    "JA": "アークナイツ",
-    "EN": "Arknights"
+    "ko": "명일방주",
+    "ja": "アークナイツ",
+    "en": "Arknights"
   },
   "gsc_productNum": 8407,
   "price": 5900,

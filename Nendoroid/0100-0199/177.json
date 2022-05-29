@@ -1,14 +1,14 @@
 {
   "num": "177",
   "name": {
-    "KO": "왕자",
-    "JA": "ねんどろいど 王子 (ねんどろいど おうじ)",
-    "EN": "Nendoroid Prince (ねんどろいど おうじ)"
+    "ko": "왕자",
+    "ja": "ねんどろいど 王子 (ねんどろいど おうじ)",
+    "en": "Nendoroid Prince (ねんどろいど おうじ)"
   },
   "series": {
-    "KO": "레벨E",
-    "JA": "レベルE",
-    "EN": "Level E"
+    "ko": "레벨E",
+    "ja": "レベルE",
+    "en": "Level E"
   },
   "gsc_productNum": 3177,
   "price": 3667,

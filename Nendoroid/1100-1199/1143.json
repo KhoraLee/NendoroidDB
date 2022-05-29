@@ -1,14 +1,14 @@
 {
   "num": "1143",
   "name": {
-    "KO": "타카마키 안 괴도복 Ver.",
-    "JA": "ねんどろいど 高巻杏 怪盗服Ver. (ねんどろいど たかまきあん かいとうふくVer.)",
-    "EN": "Nendoroid Ann Takamaki: Phantom Thief Ver."
+    "ko": "타카마키 안 괴도복 Ver.",
+    "ja": "ねんどろいど 高巻杏 怪盗服Ver. (ねんどろいど たかまきあん かいとうふくVer.)",
+    "en": "Nendoroid Ann Takamaki: Phantom Thief Ver."
   },
   "series": {
-    "KO": "페르소나5",
-    "JA": "PERSONA5 the Animation",
-    "EN": "PERSONA5 the Animation"
+    "ko": "페르소나5",
+    "ja": "PERSONA5 the Animation",
+    "en": "PERSONA5 the Animation"
   },
   "gsc_productNum": 8384,
   "price": 5400,

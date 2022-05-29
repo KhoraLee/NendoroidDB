@@ -1,14 +1,14 @@
 {
   "num": "176a",
   "name": {
-    "KO": "아레인",
-    "JA": "ねんどろいど アレイン (ねんどろいど あれいん)",
-    "EN": "Nendoroid Alleyne (ねんどろいど あれいん)"
+    "ko": "아레인",
+    "ja": "ねんどろいど アレイン (ねんどろいど あれいん)",
+    "en": "Nendoroid Alleyne (ねんどろいど あれいん)"
   },
   "series": {
-    "KO": "퀸즈 블레이드",
-    "JA": "クイーンズブレイド",
-    "EN": "Queen\u0027s Blade"
+    "ko": "퀸즈 블레이드",
+    "ja": "クイーンズブレイド",
+    "en": "Queen\u0027s Blade"
   },
   "gsc_productNum": 3165,
   "price": 3667,

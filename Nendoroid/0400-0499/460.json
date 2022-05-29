@@ -1,14 +1,14 @@
 {
   "num": "460",
   "name": {
-    "KO": "아오바 냐루코",
-    "JA": "ねんどろいど 青葉鳴子 (ねんどろいど あおばなるこ)",
-    "EN": "Nendoroid Naruko Aoba (ねんどろいど あおばなるこ)"
+    "ko": "아오바 냐루코",
+    "ja": "ねんどろいど 青葉鳴子 (ねんどろいど あおばなるこ)",
+    "en": "Nendoroid Naruko Aoba (ねんどろいど あおばなるこ)"
   },
   "series": {
-    "KO": "마법소녀대전",
-    "JA": "魔法少女大戦",
-    "EN": "Magica Wars"
+    "ko": "마법소녀대전",
+    "ja": "魔法少女大戦",
+    "en": "Magica Wars"
   },
   "gsc_productNum": 4639,
   "price": 4584,

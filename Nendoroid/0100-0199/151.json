@@ -1,14 +1,14 @@
 {
   "num": "151",
   "name": {
-    "KO": "마시로 모리타카",
-    "JA": "ねんどろいど 真城最高 (ねんどろいど ましろもりたか)",
-    "EN": "Nendoroid Moritaka Mashiro (ねんどろいど ましろもりたか)"
+    "ko": "마시로 모리타카",
+    "ja": "ねんどろいど 真城最高 (ねんどろいど ましろもりたか)",
+    "en": "Nendoroid Moritaka Mashiro (ねんどろいど ましろもりたか)"
   },
   "series": {
-    "KO": "바쿠만",
-    "JA": "バクマン。",
-    "EN": "Bakuman"
+    "ko": "바쿠만",
+    "ja": "バクマン。",
+    "en": "Bakuman"
   },
   "gsc_productNum": 3058,
   "price": 3981,

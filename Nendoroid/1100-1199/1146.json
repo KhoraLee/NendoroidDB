@@ -1,14 +1,14 @@
 {
   "num": "1146",
   "name": {
-    "KO": "HK416",
-    "JA": "ねんどろいど 416 (ねんどろいど よんいちろく)",
-    "EN": "Nendoroid 416"
+    "ko": "HK416",
+    "ja": "ねんどろいど 416 (ねんどろいど よんいちろく)",
+    "en": "Nendoroid 416"
   },
   "series": {
-    "KO": "소녀전선",
-    "JA": "ドールズフロントライン",
-    "EN": "Girls\u0027 Frontline"
+    "ko": "소녀전선",
+    "ja": "ドールズフロントライン",
+    "en": "Girls\u0027 Frontline"
   },
   "gsc_productNum": 8393,
   "price": 5907,

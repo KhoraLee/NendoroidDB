@@ -1,14 +1,14 @@
 {
   "num": "276",
   "name": {
-    "KO": "GUMI",
-    "JA": "ねんどろいど GUMI (ねんどろいど ぐみ)",
-    "EN": "Nendoroid GUMI (ねんどろいど ぐみ)"
+    "ko": "GUMI",
+    "ja": "ねんどろいど GUMI (ねんどろいど ぐみ)",
+    "en": "Nendoroid GUMI (ねんどろいど ぐみ)"
   },
   "series": {
-    "KO": "보컬로이드(VOCALOID)",
-    "JA": "バーチャルボーカリスト Megpoid",
-    "EN": "Virtual Vocalist Megpoid"
+    "ko": "보컬로이드(VOCALOID)",
+    "ja": "バーチャルボーカリスト Megpoid",
+    "en": "Virtual Vocalist Megpoid"
   },
   "gsc_productNum": 3689,
   "price": 3667,

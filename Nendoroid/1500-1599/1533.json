@@ -1,14 +1,14 @@
 {
   "num": "1533",
   "name": {
-    "KO": "키노모토 사쿠라 Always Together\r\n~ Pinky Promise ~",
-    "JA": "ねんどろいど 木之本桜 Always Together ～ Pinky Promise ～ (ねんどろいど きのもとさくら おーるうぇいず とぅぎゃざー ～ ぴんきー ぷろみす ～)",
-    "EN": "Nendoroid Sakura Kinomoto: Always Together ~Pinky Promise~"
+    "ko": "키노모토 사쿠라 Always Together\r\n~ Pinky Promise ~",
+    "ja": "ねんどろいど 木之本桜 Always Together ～ Pinky Promise ～ (ねんどろいど きのもとさくら おーるうぇいず とぅぎゃざー ～ ぴんきー ぷろみす ～)",
+    "en": "Nendoroid Sakura Kinomoto: Always Together ~Pinky Promise~"
   },
   "series": {
-    "KO": "카드캡터 사쿠라",
-    "JA": "カードキャプターさくら",
-    "EN": "Cardcaptor Sakura"
+    "ko": "카드캡터 사쿠라",
+    "ja": "カードキャプターさくら",
+    "en": "Cardcaptor Sakura"
   },
   "gsc_productNum": 10498,
   "price": 6500,

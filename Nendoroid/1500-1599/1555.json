@@ -1,14 +1,14 @@
 {
   "num": "1555",
   "name": {
-    "KO": "리쿠 III Ver.",
-    "JA": "ねんどろいど リク キングダム ハーツⅢVer. (ねんどろいど りく きんぐだむ はーつⅢVer.)",
-    "EN": "Nendoroid Riku: Kingdom Hearts III Ver."
+    "ko": "리쿠 III Ver.",
+    "ja": "ねんどろいど リク キングダム ハーツⅢVer. (ねんどろいど りく きんぐだむ はーつⅢVer.)",
+    "en": "Nendoroid Riku: Kingdom Hearts III Ver."
   },
   "series": {
-    "KO": "킹덤 하츠",
-    "JA": "キングダム ハーツⅢ",
-    "EN": "Kingdom Hearts III"
+    "ko": "킹덤 하츠",
+    "ja": "キングダム ハーツⅢ",
+    "en": "Kingdom Hearts III"
   },
   "gsc_productNum": 10684,
   "price": 6200,

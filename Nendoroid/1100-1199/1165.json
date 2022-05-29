@@ -1,14 +1,14 @@
 {
   "num": "1165",
   "name": {
-    "KO": "어쌔신/오카다 이조",
-    "JA": "ねんどろいど アサシン/岡田以蔵 (ねんどろいど あさしん/おかだいぞう)",
-    "EN": "Nendoroid Assassin/Okada Izo"
+    "ko": "어쌔신/오카다 이조",
+    "ja": "ねんどろいど アサシン/岡田以蔵 (ねんどろいど あさしん/おかだいぞう)",
+    "en": "Nendoroid Assassin/Okada Izo"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 8526,
   "price": 4600,

@@ -1,14 +1,14 @@
 {
   "num": "542",
   "name": {
-    "KO": "북방서희",
-    "JA": "ねんどろいど 北方棲姫 (ねんどろいど ほくほうせいき)",
-    "EN": "Nendoroid Northern Princess (ねんどろいど ほくほうせいき)"
+    "ko": "북방서희",
+    "ja": "ねんどろいど 北方棲姫 (ねんどろいど ほくほうせいき)",
+    "en": "Nendoroid Northern Princess (ねんどろいど ほくほうせいき)"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 5145,
   "price": 5602,

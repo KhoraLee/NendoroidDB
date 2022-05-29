@@ -1,14 +1,14 @@
 {
   "num": "1579",
   "name": {
-    "KO": "백혈구(1196)",
-    "JA": "ねんどろいど 白血球（1196） (ねんどろいど はっけっきゅう（1196）)",
-    "EN": "Nendoroid White Blood Cell（Neutrophil）（1196）"
+    "ko": "백혈구(1196)",
+    "ja": "ねんどろいど 白血球（1196） (ねんどろいど はっけっきゅう（1196）)",
+    "en": "Nendoroid White Blood Cell（Neutrophil）（1196）"
   },
   "series": {
-    "KO": "일하는 세포 BLACK",
-    "JA": "はたらく細胞BLACK",
-    "EN": "Cells at Work! Code Black"
+    "ko": "일하는 세포 BLACK",
+    "ja": "はたらく細胞BLACK",
+    "en": "Cells at Work! Code Black"
   },
   "gsc_productNum": 10847,
   "price": 5700,

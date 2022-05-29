@@ -1,14 +1,14 @@
 {
   "num": "033",
   "name": {
-    "KO": "하츠네 미쿠",
-    "JA": "ねんどろいど 初音ミク (ねんどろいど はつねみく)",
-    "EN": "Nendoroid Hatsune Miku (ねんどろいど はつねみく)"
+    "ko": "하츠네 미쿠",
+    "ja": "ねんどろいど 初音ミク (ねんどろいど はつねみく)",
+    "en": "Nendoroid Hatsune Miku (ねんどろいど はつねみく)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 258,
   "price": 3143,

@@ -1,14 +1,14 @@
 {
   "num": "264",
   "name": {
-    "KO": "렌",
-    "JA": "ねんどろいど レン (ねんどろいど れん)",
-    "EN": "Nendoroid Renne (ねんどろいど れん)"
+    "ko": "렌",
+    "ja": "ねんどろいど レン (ねんどろいど れん)",
+    "en": "Nendoroid Renne (ねんどろいど れん)"
   },
   "series": {
-    "KO": "영웅전설 하늘의 궤적 SC",
-    "JA": "英雄伝説 空の軌跡SC",
-    "EN": "The Legend of Heroes: Trails in the Sky - Second Chapter"
+    "ko": "영웅전설 하늘의 궤적 SC",
+    "ja": "英雄伝説 空の軌跡SC",
+    "en": "The Legend of Heroes: Trails in the Sky - Second Chapter"
   },
   "gsc_productNum": 3620,
   "price": 3667,

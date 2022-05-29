@@ -1,14 +1,14 @@
 {
   "num": "1532-DX",
   "name": {
-    "KO": "랜서/아르토리아 펜드래건 \u0026 던 스탈리온",
-    "JA": "ねんどろいど ランサー/アルトリア・ペンドラゴン＆ドゥン・スタリオン (ねんどろいど らんさー/あるとりあ・ぺんどらごん＆どぅん・すたりおん)",
-    "EN": "Nendoroid Lancer/Altria Pendragon \u0026 Dun Stallion"
+    "ko": "랜서/아르토리아 펜드래건 \u0026 던 스탈리온",
+    "ja": "ねんどろいど ランサー/アルトリア・ペンドラゴン＆ドゥン・スタリオン (ねんどろいど らんさー/あるとりあ・ぺんどらごん＆どぅん・すたりおん)",
+    "en": "Nendoroid Lancer/Altria Pendragon \u0026 Dun Stallion"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 10515,
   "price": 7500,

@@ -1,14 +1,14 @@
 {
   "num": "1721",
   "name": {
-    "KO": "후지와라노 사이",
-    "JA": "ねんどろいど 藤原佐為 (ねんどろいど ふじわらのさい)",
-    "EN": "Nendoroid Fujiwara-no-Sai"
+    "ko": "후지와라노 사이",
+    "ja": "ねんどろいど 藤原佐為 (ねんどろいど ふじわらのさい)",
+    "en": "Nendoroid Fujiwara-no-Sai"
   },
   "series": {
-    "KO": "고스트 바둑왕",
-    "JA": "ヒカルの碁",
-    "EN": "Hikaru no Go"
+    "ko": "고스트 바둑왕",
+    "ja": "ヒカルの碁",
+    "en": "Hikaru no Go"
   },
   "gsc_productNum": 11849,
   "price": 5800,

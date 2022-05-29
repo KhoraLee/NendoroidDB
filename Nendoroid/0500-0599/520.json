@@ -1,14 +1,14 @@
 {
   "num": "520",
   "name": {
-    "KO": "야마토",
-    "JA": "ねんどろいど 大和 (ねんどろいど やまと)",
-    "EN": "Nendoroid Yamato (ねんどろいど やまと)"
+    "ko": "야마토",
+    "ja": "ねんどろいど 大和 (ねんどろいど やまと)",
+    "en": "Nendoroid Yamato (ねんどろいど やまと)"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 5000,
   "price": 7944,

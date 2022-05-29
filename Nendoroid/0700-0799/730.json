@@ -1,14 +1,14 @@
 {
   "num": "730",
   "name": {
-    "KO": "트레이서",
-    "JA": "ねんどろいど トレーサー クラシックスキン・エディション (ねんどろいど とれーさー くらしっくすきん・えでぃしょん)",
-    "EN": "Nendoroid Tracer: Classic Skin Edition"
+    "ko": "트레이서",
+    "ja": "ねんどろいど トレーサー クラシックスキン・エディション (ねんどろいど とれーさー くらしっくすきん・えでぃしょん)",
+    "en": "Nendoroid Tracer: Classic Skin Edition"
   },
   "series": {
-    "KO": "오버워치",
-    "JA": "オーバーウォッチ",
-    "EN": "Overwatch"
+    "ko": "오버워치",
+    "ja": "オーバーウォッチ",
+    "en": "Overwatch"
   },
   "gsc_productNum": 6214,
   "price": 4991,

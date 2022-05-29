@@ -1,14 +1,14 @@
 {
   "num": "743",
   "name": {
-    "KO": "랜서/스카자하",
-    "JA": "ねんどろいど ランサー/スカサハ (ねんどろいど らんさー/すかさは)",
-    "EN": "Nendoroid Lancer/Scáthach"
+    "ko": "랜서/스카자하",
+    "ja": "ねんどろいど ランサー/スカサハ (ねんどろいど らんさー/すかさは)",
+    "en": "Nendoroid Lancer/Scáthach"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 6280,
   "price": 4888,

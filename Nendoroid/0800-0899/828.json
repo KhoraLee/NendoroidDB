@@ -1,14 +1,14 @@
 {
   "num": "828",
   "name": {
-    "KO": "에르네스티 에체바르리아",
-    "JA": "ねんどろいど エルネスティ・エチェバルリア (ねんどろいど えるねすてぃ・えちぇばるりあ)",
-    "EN": "Nendoroid Ernesti Echevalier"
+    "ko": "에르네스티 에체바르리아",
+    "ja": "ねんどろいど エルネスティ・エチェバルリア (ねんどろいど えるねすてぃ・えちぇばるりあ)",
+    "en": "Nendoroid Ernesti Echevalier"
   },
   "series": {
-    "KO": "나이츠 \u0026 매직",
-    "JA": "ナイツ＆マジック",
-    "EN": "Knight\u0027s \u0026 Magic"
+    "ko": "나이츠 \u0026 매직",
+    "ja": "ナイツ＆マジック",
+    "en": "Knight\u0027s \u0026 Magic"
   },
   "gsc_productNum": 6735,
   "price": 4888,

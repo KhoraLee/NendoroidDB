@@ -1,14 +1,14 @@
 {
   "num": "223",
   "name": {
-    "KO": "아즈키 미호",
-    "JA": "ねんどろいど 亜豆美保 (ねんどろいど あずきみほ)",
-    "EN": "Nendoroid Miho Azuki (ねんどろいど あずきみほ)"
+    "ko": "아즈키 미호",
+    "ja": "ねんどろいど 亜豆美保 (ねんどろいど あずきみほ)",
+    "en": "Nendoroid Miho Azuki (ねんどろいど あずきみほ)"
   },
   "series": {
-    "KO": "바쿠만",
-    "JA": "バクマン。",
-    "EN": "Bakuman"
+    "ko": "바쿠만",
+    "ja": "バクマン。",
+    "en": "Bakuman"
   },
   "gsc_productNum": 3441,
   "price": 3667,

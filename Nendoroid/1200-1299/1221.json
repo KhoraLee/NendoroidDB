@@ -1,14 +1,14 @@
 {
   "num": "1221",
   "name": {
-    "KO": "우라메시 유스케",
-    "JA": "ねんどろいど 浦飯幽助 (ねんどろいど うらめしゆうすけ)",
-    "EN": "Nendoroid Yusuke Urameshi"
+    "ko": "우라메시 유스케",
+    "ja": "ねんどろいど 浦飯幽助 (ねんどろいど うらめしゆうすけ)",
+    "en": "Nendoroid Yusuke Urameshi"
   },
   "series": {
-    "KO": "유유백서",
-    "JA": "幽☆遊☆白書",
-    "EN": "Yu Yu Hakusho"
+    "ko": "유유백서",
+    "ja": "幽☆遊☆白書",
+    "en": "Yu Yu Hakusho"
   },
   "gsc_productNum": 8901,
   "price": 5200,

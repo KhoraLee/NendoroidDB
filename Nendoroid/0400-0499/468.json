@@ -1,14 +1,14 @@
 {
   "num": "468",
   "name": {
-    "KO": "시키나미 아스카 랑그레이 에반게리온 레이싱 Ver.",
-    "JA": "ねんどろいど 式波・アスカ・ラングレー エヴァンゲリオンレーシングVer. (ねんどろいど しきなみ・あすか・らんぐれー えゔぁんげりおんれーしんぐVer.)",
-    "EN": "Nendoroid Shikinami Asuka Langley: EVANGELION RACING Ver. (ねんどろいど しきなみ・あすか・らんぐれー えゔぁんげりおんれーしんぐVer.)"
+    "ko": "시키나미 아스카 랑그레이 에반게리온 레이싱 Ver.",
+    "ja": "ねんどろいど 式波・アスカ・ラングレー エヴァンゲリオンレーシングVer. (ねんどろいど しきなみ・あすか・らんぐれー えゔぁんげりおんれーしんぐVer.)",
+    "en": "Nendoroid Shikinami Asuka Langley: EVANGELION RACING Ver. (ねんどろいど しきなみ・あすか・らんぐれー えゔぁんげりおんれーしんぐVer.)"
   },
   "series": {
-    "KO": "에반게리온",
-    "JA": "エヴァンゲリオンレーシング",
-    "EN": "EVANGELION RACING"
+    "ko": "에반게리온",
+    "ja": "エヴァンゲリオンレーシング",
+    "en": "EVANGELION RACING"
   },
   "gsc_productNum": 4691,
   "price": 4888,

@@ -1,14 +1,14 @@
 {
   "num": "1603",
   "name": {
-    "KO": "모스티마",
-    "JA": "ねんどろいど モスティマ (ねんどろいど もすてぃま)",
-    "EN": "Nendoroid Mostima"
+    "ko": "모스티마",
+    "ja": "ねんどろいど モスティマ (ねんどろいど もすてぃま)",
+    "en": "Nendoroid Mostima"
   },
   "series": {
-    "KO": "명일방주",
-    "JA": "アークナイツ",
-    "EN": "Arknights"
+    "ko": "명일방주",
+    "ja": "アークナイツ",
+    "en": "Arknights"
   },
   "gsc_productNum": 11243,
   "price": 6300,

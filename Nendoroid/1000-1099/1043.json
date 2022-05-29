@@ -1,14 +1,14 @@
 {
   "num": "1043",
   "name": {
-    "KO": "랜서/카르나",
-    "JA": "ねんどろいど ランサー/カルナ (ねんどろいど らんさー/かるな)",
-    "EN": "Nendoroid Lancer/Karna"
+    "ko": "랜서/카르나",
+    "ja": "ねんどろいど ランサー/カルナ (ねんどろいど らんさー/かるな)",
+    "en": "Nendoroid Lancer/Karna"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 7861,
   "price": 5602,

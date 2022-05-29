@@ -1,14 +1,14 @@
 {
   "num": "447",
   "name": {
-    "KO": "솔리드 스네이크",
-    "JA": "ねんどろいど ソリッド・スネーク (ねんどろいど そりっど・すねーく)",
-    "EN": "Nendoroid Solid Snake (ねんどろいど そりっど・すねーく)"
+    "ko": "솔리드 스네이크",
+    "ja": "ねんどろいど ソリッド・スネーク (ねんどろいど そりっど・すねーく)",
+    "en": "Nendoroid Solid Snake (ねんどろいど そりっど・すねーく)"
   },
   "series": {
-    "KO": "메탈기어 솔리드",
-    "JA": "メタルギア ソリッド",
-    "EN": "METAL GEAR SOLID"
+    "ko": "메탈기어 솔리드",
+    "ja": "メタルギア ソリッド",
+    "en": "METAL GEAR SOLID"
   },
   "gsc_productNum": 4530,
   "price": 4584,

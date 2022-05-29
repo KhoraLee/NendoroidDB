@@ -1,14 +1,14 @@
 {
   "num": "145",
   "name": {
-    "KO": "블랙 골드 소",
-    "JA": "ねんどろいど ブラックゴールドソー (ねんどろいど ぶらっくごーるどそー)",
-    "EN": "Nendoroid Black Gold Saw (ねんどろいど ぶらっくごーるどそー)"
+    "ko": "블랙 골드 소",
+    "ja": "ねんどろいど ブラックゴールドソー (ねんどろいど ぶらっくごーるどそー)",
+    "en": "Nendoroid Black Gold Saw (ねんどろいど ぶらっくごーるどそー)"
   },
   "series": {
-    "KO": "BLACK★ROCK SHOOTER",
-    "JA": "ブラック★ロックシューター",
-    "EN": "Black Rock Shooter"
+    "ko": "BLACK★ROCK SHOOTER",
+    "ja": "ブラック★ロックシューター",
+    "en": "Black Rock Shooter"
   },
   "gsc_productNum": 3024,
   "price": 3667,

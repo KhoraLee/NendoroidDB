@@ -1,14 +1,14 @@
 {
   "num": "1719",
   "name": {
-    "KO": "멀린 프로토타입",
-    "JA": "ねんどろいど キャスター/マーリン〔プロトタイプ〕 (ねんどろいど きゃすたー/まーりん〔ぷろとたいぷ〕)",
-    "EN": "Nendoroid Caster/Merlin (Prototype)"
+    "ko": "멀린 프로토타입",
+    "ja": "ねんどろいど キャスター/マーリン〔プロトタイプ〕 (ねんどろいど きゃすたー/まーりん〔ぷろとたいぷ〕)",
+    "en": "Nendoroid Caster/Merlin (Prototype)"
   },
   "series": {
-    "KO": "Fate/Grand Order Arcade",
-    "JA": "Fate/Grand Order Arcade",
-    "EN": "Fate/Grand Order Arcade"
+    "ko": "Fate/Grand Order Arcade",
+    "ja": "Fate/Grand Order Arcade",
+    "en": "Fate/Grand Order Arcade"
   },
   "gsc_productNum": 11832,
   "price": 6500,

@@ -1,14 +1,14 @@
 {
   "num": "1038",
   "name": {
-    "KO": "킹",
-    "JA": "ねんどろいど 金 (ねんどろいど きん)",
-    "EN": "Nendoroid Jin"
+    "ko": "킹",
+    "ja": "ねんどろいど 金 (ねんどろいど きん)",
+    "en": "Nendoroid Jin"
   },
   "series": {
-    "KO": "요철세계",
-    "JA": "凹凸世界",
-    "EN": "AOTU World"
+    "ko": "요철세계",
+    "ja": "凹凸世界",
+    "en": "AOTU World"
   },
   "gsc_productNum": 7837,
   "price": 5093,

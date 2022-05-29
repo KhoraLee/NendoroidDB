@@ -1,14 +1,14 @@
 {
   "num": "1013",
   "name": {
-    "KO": "엔비",
-    "JA": "ねんどろいど エンヴィー (ねんどろいど えんゔぃー)",
-    "EN": "Nendoroid Envy"
+    "ko": "엔비",
+    "ja": "ねんどろいど エンヴィー (ねんどろいど えんゔぃー)",
+    "en": "Nendoroid Envy"
   },
   "series": {
-    "KO": "강철의 연금술사",
-    "JA": "鋼の錬金術師 FULLMETAL ALCHEMIST",
-    "EN": "Fullmetal Alchemist: Brotherhood"
+    "ko": "강철의 연금술사",
+    "ja": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "en": "Fullmetal Alchemist: Brotherhood"
   },
   "gsc_productNum": 7665,
   "price": 4888,

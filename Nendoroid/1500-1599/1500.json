@@ -1,14 +1,14 @@
 {
   "num": "1500",
   "name": {
-    "KO": "마루코",
-    "JA": "ねんどろいど ちびまる子ちゃん (ねんどろいど ちびまるこちゃん)",
-    "EN": "Nendoroid Chibi Maruko Chan"
+    "ko": "마루코",
+    "ja": "ねんどろいど ちびまる子ちゃん (ねんどろいど ちびまるこちゃん)",
+    "en": "Nendoroid Chibi Maruko Chan"
   },
   "series": {
-    "KO": "마루코는 아홉살",
-    "JA": "ちびまる子ちゃん",
-    "EN": "Chibi Maruko Chan"
+    "ko": "마루코는 아홉살",
+    "ja": "ちびまる子ちゃん",
+    "en": "Chibi Maruko Chan"
   },
   "gsc_productNum": 10239,
   "price": 4800,

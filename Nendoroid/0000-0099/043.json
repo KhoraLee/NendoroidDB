@@ -1,14 +1,14 @@
 {
   "num": "043",
   "name": {
-    "KO": "가챠핀 1호",
-    "JA": "ねんどろいど ガッチャピン１号 (がっちゃぴんいちごう ねんどろいど)",
-    "EN": "Nendoroid Gatchapin Mk. 1 (がっちゃぴんいちごう ねんどろいど)"
+    "ko": "가챠핀 1호",
+    "ja": "ねんどろいど ガッチャピン１号 (がっちゃぴんいちごう ねんどろいど)",
+    "en": "Nendoroid Gatchapin Mk. 1 (がっちゃぴんいちごう ねんどろいど)"
   },
   "series": {
-    "KO": "과학닌자대 갓챠핑",
-    "JA": "科学忍者隊ガッチャピン",
-    "EN": "Scientific Ninja Team Gatchapin"
+    "ko": "과학닌자대 갓챠핑",
+    "ja": "科学忍者隊ガッチャピン",
+    "en": "Scientific Ninja Team Gatchapin"
   },
   "gsc_productNum": 347,
   "price": 3143,

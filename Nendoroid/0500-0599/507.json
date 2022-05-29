@@ -1,14 +1,14 @@
 {
   "num": "507",
   "name": {
-    "KO": "난천",
-    "JA": "ねんどろいど シロナ (ねんどろいど しろな)",
-    "EN": "Nendoroid Cynthia (ねんどろいど しろな)"
+    "ko": "난천",
+    "ja": "ねんどろいど シロナ (ねんどろいど しろな)",
+    "en": "Nendoroid Cynthia (ねんどろいど しろな)"
   },
   "series": {
-    "KO": "포켓몬스터",
-    "JA": "ポケットモンスター",
-    "EN": "Pokémon"
+    "ko": "포켓몬스터",
+    "ja": "ポケットモンスター",
+    "en": "Pokémon"
   },
   "gsc_productNum": 4870,
   "price": 5500,

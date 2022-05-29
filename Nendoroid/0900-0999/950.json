@@ -1,14 +1,14 @@
 {
   "num": "950",
   "name": {
-    "KO": "랜서/엘리자베트 바토리",
-    "JA": "ねんどろいど ランサー/エリザベート・バートリー (ねんどろいど らんさー/えりざべーと・ばーとりー)",
-    "EN": "Nendoroid Lancer/Elizabeth Bathory"
+    "ko": "랜서/엘리자베트 바토리",
+    "ja": "ねんどろいど ランサー/エリザベート・バートリー (ねんどろいど らんさー/えりざべーと・ばーとりー)",
+    "en": "Nendoroid Lancer/Elizabeth Bathory"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 7321,
   "price": 5297,

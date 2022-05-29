@@ -1,14 +1,14 @@
 {
   "num": "1458",
   "name": {
-    "KO": "럭스",
-    "JA": "ねんどろいど ラックス (ねんどろいど らっくす)",
-    "EN": "Nendoroid Lux"
+    "ko": "럭스",
+    "ja": "ねんどろいど ラックス (ねんどろいど らっくす)",
+    "en": "Nendoroid Lux"
   },
   "series": {
-    "KO": "리그 오브 레전드",
-    "JA": "リーグ・オブ・レジェンド",
-    "EN": "League of Legends"
+    "ko": "리그 오브 레전드",
+    "ja": "リーグ・オブ・レジェンド",
+    "en": "League of Legends"
   },
   "gsc_productNum": 10087,
   "price": 5300,

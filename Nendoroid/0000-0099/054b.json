@@ -1,14 +1,14 @@
 {
   "num": "054b",
   "name": {
-    "KO": "히이라기 츠카사 통상 Ver.",
-    "JA": "ねんどろいど　柊つかさ　通常Ver. (ひいらぎつかさ つうじょうばーじょん　ねんどろいど)",
-    "EN": "Nendoroid Tsukasa Hiiragi Normal Ver. (ひいらぎつかさ つうじょうばーじょん　ねんどろいど)"
+    "ko": "히이라기 츠카사 통상 Ver.",
+    "ja": "ねんどろいど　柊つかさ　通常Ver. (ひいらぎつかさ つうじょうばーじょん　ねんどろいど)",
+    "en": "Nendoroid Tsukasa Hiiragi Normal Ver. (ひいらぎつかさ つうじょうばーじょん　ねんどろいど)"
   },
   "series": {
-    "KO": "럭키스타",
-    "JA": "TVアニメ らき☆すた",
-    "EN": "Lucky Star"
+    "ko": "럭키스타",
+    "ja": "TVアニメ らき☆すた",
+    "en": "Lucky Star"
   },
   "gsc_productNum": 2206,
   "price": 3667,

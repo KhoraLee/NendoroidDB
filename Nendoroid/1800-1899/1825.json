@@ -1,14 +1,14 @@
 {
   "num": "1825",
   "name": {
-    "KO": "해리 갤러해드 하트",
-    "JA": "ねんどろいど ハリー・“ガラハッド”・ハート (ねんどろいど はりー・“がらはっど”・はーと)",
-    "EN": "Nendoroid Harry \"Galahad\" Hart"
+    "ko": "해리 갤러해드 하트",
+    "ja": "ねんどろいど ハリー・“ガラハッド”・ハート (ねんどろいど はりー・“がらはっど”・はーと)",
+    "en": "Nendoroid Harry \"Galahad\" Hart"
   },
   "series": {
-    "KO": "킹스맨:골든 서클",
-    "JA": "キングスマン：ゴールデン・サークル",
-    "EN": "Kingsman: The Golden Circle"
+    "ko": "킹스맨:골든 서클",
+    "ja": "キングスマン：ゴールデン・サークル",
+    "en": "Kingsman: The Golden Circle"
   },
   "gsc_productNum": 12368,
   "price": 6800,

@@ -1,14 +1,14 @@
 {
   "num": "042",
   "name": {
-    "KO": "하츠네 미쿠 하츄네 Ver.",
-    "JA": "ねんどろいど 初音ミク はちゅねフェイスVer. (ねんどろいど はつねみく はちゅねふぇいすVer.)",
-    "EN": "Nendoroid Miku Hatsune: Hachune Face Ver. (ねんどろいど はつねみく はちゅねふぇいすVer.)"
+    "ko": "하츠네 미쿠 하츄네 Ver.",
+    "ja": "ねんどろいど 初音ミク はちゅねフェイスVer. (ねんどろいど はつねみく はちゅねふぇいすVer.)",
+    "en": "Nendoroid Miku Hatsune: Hachune Face Ver. (ねんどろいど はつねみく はちゅねふぇいすVer.)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Miku Hatsune"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Miku Hatsune"
   },
   "gsc_productNum": 3615,
   "price": 3143,

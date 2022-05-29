@@ -1,14 +1,14 @@
 {
   "num": "1497-DX",
   "name": {
-    "KO": "스파이더맨 엔드게임 DX Ver.",
-    "JA": "ねんどろいど アイアン・スパイダー エンドゲーム Ver. DX (ねんどろいど あいあん・すぱいだー えんどげーむ Ver. DX)",
-    "EN": "Nendoroid Iron Spider: Endgame Ver. DX"
+    "ko": "스파이더맨 엔드게임 DX Ver.",
+    "ja": "ねんどろいど アイアン・スパイダー エンドゲーム Ver. DX (ねんどろいど あいあん・すぱいだー えんどげーむ Ver. DX)",
+    "en": "Nendoroid Iron Spider: Endgame Ver. DX"
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "アベンジャーズ／エンドゲーム",
-    "EN": "Avengers:Endgame"
+    "ko": "어벤져스",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "en": "Avengers:Endgame"
   },
   "gsc_productNum": 10235,
   "price": 8500,

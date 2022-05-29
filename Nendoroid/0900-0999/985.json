@@ -1,14 +1,14 @@
 {
   "num": "985",
   "name": {
-    "KO": "쿠죠 죠타로",
-    "JA": "ねんどろいど 空条承太郎 (ねんどろいど くうじょうじょうたろう)",
-    "EN": "Nendoroid Jotaro Kujo"
+    "ko": "쿠죠 죠타로",
+    "ja": "ねんどろいど 空条承太郎 (ねんどろいど くうじょうじょうたろう)",
+    "en": "Nendoroid Jotaro Kujo"
   },
   "series": {
-    "KO": "죠죠의 기묘한 모험",
-    "JA": "TVアニメ『ジョジョの奇妙な冒険 スターダストクルセイダース』",
-    "EN": "JoJo\u0027s Bizarre Adventure: Stardust Crusaders"
+    "ko": "죠죠의 기묘한 모험",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険 スターダストクルセイダース』",
+    "en": "JoJo\u0027s Bizarre Adventure: Stardust Crusaders"
   },
   "gsc_productNum": 7539,
   "price": 5478,

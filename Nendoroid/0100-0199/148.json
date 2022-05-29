@@ -1,14 +1,14 @@
 {
   "num": "148",
   "name": {
-    "KO": "사이쿄우지 유유코",
-    "JA": "ねんどろいど 西行寺幽々子 (ねんどろいど　さいぎょうじゆゆこ)",
-    "EN": "Nendoroid Yuyuko Saigyouji (ねんどろいど　さいぎょうじゆゆこ)"
+    "ko": "사이쿄우지 유유코",
+    "ja": "ねんどろいど 西行寺幽々子 (ねんどろいど　さいぎょうじゆゆこ)",
+    "en": "Nendoroid Yuyuko Saigyouji (ねんどろいど　さいぎょうじゆゆこ)"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 3051,
   "price": 3143,

@@ -1,14 +1,14 @@
 {
   "num": "1004",
   "name": {
-    "KO": "쿠로세 리쿠",
-    "JA": "ねんどろいど 黒瀬陸 (ねんどろいど くろせりく)",
-    "EN": "Nendoroid Kurose Riku"
+    "ko": "쿠로세 리쿠",
+    "ja": "ねんどろいど 黒瀬陸 (ねんどろいど くろせりく)",
+    "en": "Nendoroid Kurose Riku"
   },
   "series": {
-    "KO": "텐카운트",
-    "JA": "テンカウント",
-    "EN": "TEN COUNT"
+    "ko": "텐카운트",
+    "ja": "テンカウント",
+    "en": "TEN COUNT"
   },
   "gsc_productNum": 7643,
   "price": 4888,

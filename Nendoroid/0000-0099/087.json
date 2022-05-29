@@ -1,14 +1,14 @@
 {
   "num": "087",
   "name": {
-    "KO": "카난",
-    "JA": "ねんどろいど カナン (かなん ねんどろいど)",
-    "EN": "Nendoroid Canaan (かなん ねんどろいど)"
+    "ko": "카난",
+    "ja": "ねんどろいど カナン (かなん ねんどろいど)",
+    "en": "Nendoroid Canaan (かなん ねんどろいど)"
   },
   "series": {
-    "KO": "카난",
-    "JA": "CANAAN",
-    "EN": "CANAAN"
+    "ko": "카난",
+    "ja": "CANAAN",
+    "en": "CANAAN"
   },
   "gsc_productNum": 2623,
   "price": 3667,

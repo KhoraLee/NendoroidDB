@@ -1,14 +1,14 @@
 {
   "num": "1659",
   "name": {
-    "KO": "메이플",
-    "JA": "ねんどろいど メイプル (ねんどろいど めいぷる)",
-    "EN": "Nendoroid Maple"
+    "ko": "메이플",
+    "ja": "ねんどろいど メイプル (ねんどろいど めいぷる)",
+    "en": "Nendoroid Maple"
   },
   "series": {
-    "KO": "아픈 건 싫으니까 방어력에 올인하려고 합니다",
-    "JA": "痛いのは嫌なので防御力に極振りしたいと思います。",
-    "EN": "BOFURI: I Don\u0027t Want to Get Hurt, so I\u0027ll Max Out My Defense."
+    "ko": "아픈 건 싫으니까 방어력에 올인하려고 합니다",
+    "ja": "痛いのは嫌なので防御力に極振りしたいと思います。",
+    "en": "BOFURI: I Don\u0027t Want to Get Hurt, so I\u0027ll Max Out My Defense."
   },
   "gsc_productNum": 11308,
   "price": 6600,

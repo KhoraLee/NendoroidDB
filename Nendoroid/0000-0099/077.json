@@ -1,14 +1,14 @@
 {
   "num": "077",
   "name": {
-    "KO": "세이버 릴리",
-    "JA": "ねんどろいど セイバー・リリィ (ねんどろいど せいばー・りりぃ)",
-    "EN": "Nendoroid Saber Lily (ねんどろいど せいばー・りりぃ)"
+    "ko": "세이버 릴리",
+    "ja": "ねんどろいど セイバー・リリィ (ねんどろいど せいばー・りりぃ)",
+    "en": "Nendoroid Saber Lily (ねんどろいど せいばー・りりぃ)"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/stay night",
-    "EN": "Fate/stay night"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/stay night",
+    "en": "Fate/stay night"
   },
   "gsc_productNum": 2499,
   "price": 3667,

@@ -1,14 +1,14 @@
 {
   "num": "1867",
   "name": {
-    "KO": "아앙",
-    "JA": "ねんどろいど アン (ねんどろいど あん)",
-    "EN": "Nendoroid Aang"
+    "ko": "아앙",
+    "ja": "ねんどろいど アン (ねんどろいど あん)",
+    "en": "Nendoroid Aang"
   },
   "series": {
-    "KO": "아앙의 전설",
-    "JA": "アバター 伝説の少年アン",
-    "EN": "Avatar: The Last Airbender"
+    "ko": "아앙의 전설",
+    "ja": "アバター 伝説の少年アン",
+    "en": "Avatar: The Last Airbender"
   },
   "gsc_productNum": 12581,
   "price": 6600,

@@ -1,14 +1,14 @@
 {
   "num": "093",
   "name": {
-    "KO": "메구리네 루카",
-    "JA": "ねんどろいど 巡音ルカ (ねんどろいど めぐりねるか)",
-    "EN": "Nendoroid Megurine Luka (ねんどろいど めぐりねるか)"
+    "ko": "메구리네 루카",
+    "ja": "ねんどろいど 巡音ルカ (ねんどろいど めぐりねるか)",
+    "en": "Nendoroid Megurine Luka (ねんどろいど めぐりねるか)"
   },
   "series": {
-    "KO": "보컬로이드(VOCALOID)",
-    "JA": "キャラクター・ボーカル・シリーズ03 巡音ルカ",
-    "EN": "Character Vocal Series 03: Megurine Luka"
+    "ko": "보컬로이드(VOCALOID)",
+    "ja": "キャラクター・ボーカル・シリーズ03 巡音ルカ",
+    "en": "Character Vocal Series 03: Megurine Luka"
   },
   "gsc_productNum": 2711,
   "price": 3667,

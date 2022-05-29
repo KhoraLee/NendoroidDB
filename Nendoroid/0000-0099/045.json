@@ -1,14 +1,14 @@
 {
   "num": "045",
   "name": {
-    "KO": "노우가미 네우로",
-    "JA": "ねんどろいど 脳噛ネウロ (ねうろねんどろいど)",
-    "EN": "Nendoroid Neuro Nougami (ねうろねんどろいど)"
+    "ko": "노우가미 네우로",
+    "ja": "ねんどろいど 脳噛ネウロ (ねうろねんどろいど)",
+    "en": "Nendoroid Neuro Nougami (ねうろねんどろいど)"
   },
   "series": {
-    "KO": "마인탐정 네우로",
-    "JA": "魔人探偵脳噛ネウロ",
-    "EN": "Demon Detective Neuro Nougami"
+    "ko": "마인탐정 네우로",
+    "ja": "魔人探偵脳噛ネウロ",
+    "en": "Demon Detective Neuro Nougami"
   },
   "gsc_productNum": 264,
   "price": 3667,

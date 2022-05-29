@@ -1,14 +1,14 @@
 {
   "num": "147",
   "name": {
-    "KO": "키노시타 히데요시",
-    "JA": "ねんどろいど 木下秀吉 (ねんどろいど きのしたひでよし)",
-    "EN": "Nendoroid Hideyoshi Kinoshita (ねんどろいど きのしたひでよし)"
+    "ko": "키노시타 히데요시",
+    "ja": "ねんどろいど 木下秀吉 (ねんどろいど きのしたひでよし)",
+    "en": "Nendoroid Hideyoshi Kinoshita (ねんどろいど きのしたひでよし)"
   },
   "series": {
-    "KO": "바보와 시험과 소환수(바시소)",
-    "JA": "バカとテストと召喚獣",
-    "EN": "Baka to Test to Shoukanjuu"
+    "ko": "바보와 시험과 소환수(바시소)",
+    "ja": "バカとテストと召喚獣",
+    "en": "Baka to Test to Shoukanjuu"
   },
   "gsc_productNum": 3032,
   "price": 3667,

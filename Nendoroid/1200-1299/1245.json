@@ -1,14 +1,14 @@
 {
   "num": "1245",
   "name": {
-    "KO": "나츠메 타카시\u0026야옹 선생",
-    "JA": "ねんどろいど 夏目貴志＆ニャンコ先生 (ねんどろいど なつめたかし＆にゃんこせんせい)",
-    "EN": "Nendoroid Takashi Natsume \u0026 Nyanko Sensei"
+    "ko": "나츠메 타카시\u0026야옹 선생",
+    "ja": "ねんどろいど 夏目貴志＆ニャンコ先生 (ねんどろいど なつめたかし＆にゃんこせんせい)",
+    "en": "Nendoroid Takashi Natsume \u0026 Nyanko Sensei"
   },
   "series": {
-    "KO": "나츠메 우인장",
-    "JA": "夏目友人帳",
-    "EN": "Natsume Yujin-cho"
+    "ko": "나츠메 우인장",
+    "ja": "夏目友人帳",
+    "en": "Natsume Yujin-cho"
   },
   "gsc_productNum": 9009,
   "price": 5000,

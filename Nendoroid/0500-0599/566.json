@@ -1,14 +1,14 @@
 {
   "num": "566",
   "name": {
-    "KO": "조커 빌런 에디션",
-    "JA": "ねんどろいど ジョーカー ヴィランズ・エディション (ねんどろいど じょーかー ゔぃらんず・えでぃしょん)",
-    "EN": "Nendoroid The Joker: Villain\u0027s Edition (ねんどろいど じょーかー ゔぃらんず・えでぃしょん)"
+    "ko": "조커 빌런 에디션",
+    "ja": "ねんどろいど ジョーカー ヴィランズ・エディション (ねんどろいど じょーかー ゔぃらんず・えでぃしょん)",
+    "en": "Nendoroid The Joker: Villain\u0027s Edition (ねんどろいど じょーかー ゔぃらんず・えでぃしょん)"
   },
   "series": {
-    "KO": "다크 나이트",
-    "JA": "ダークナイト",
-    "EN": "The Dark Knight"
+    "ko": "다크 나이트",
+    "ja": "ダークナイト",
+    "en": "The Dark Knight"
   },
   "gsc_productNum": 5258,
   "price": 3972,

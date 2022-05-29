@@ -1,14 +1,14 @@
 {
   "num": "1701",
   "name": {
-    "KO": "하츠네 미쿠 NT Ver.",
-    "JA": "ねんどろいど 初音ミク NT (ねんどろいど はつねみく にゅーたいぷ)",
-    "EN": "Nendoroid Hatsune Miku NT"
+    "ko": "하츠네 미쿠 NT Ver.",
+    "ja": "ねんどろいど 初音ミク NT (ねんどろいど はつねみく にゅーたいぷ)",
+    "en": "Nendoroid Hatsune Miku NT"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "ピアプロキャラクターズ",
-    "EN": "Piapro Characters"
+    "ko": "하츠네미쿠",
+    "ja": "ピアプロキャラクターズ",
+    "en": "Piapro Characters"
   },
   "gsc_productNum": 11712,
   "price": 6200,

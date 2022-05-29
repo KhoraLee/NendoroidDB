@@ -1,14 +1,14 @@
 {
   "num": "633",
   "name": {
-    "KO": "아사부키 코가네+오른손짱 세트",
-    "JA": "ねんどろいど 朝吹黄金+右手ちゃんセット (ねんどろいど あさぶきこがね+みぎてちゃんせっと)",
-    "EN": "Nendoroid Kogane Asabuki + Migite-chan Set"
+    "ko": "아사부키 코가네+오른손짱 세트",
+    "ja": "ねんどろいど 朝吹黄金+右手ちゃんセット (ねんどろいど あさぶきこがね+みぎてちゃんせっと)",
+    "en": "Nendoroid Kogane Asabuki + Migite-chan Set"
   },
   "series": {
-    "KO": "부부키 부란키",
-    "JA": "ブブキ・ブランキ",
-    "EN": "BBK/BRNK"
+    "ko": "부부키 부란키",
+    "ja": "ブブキ・ブランキ",
+    "en": "BBK/BRNK"
   },
   "gsc_productNum": 5693,
   "price": 5602,

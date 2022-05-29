@@ -1,14 +1,14 @@
 {
   "num": "1425",
   "name": {
-    "KO": "닥터 스트레인지 엔드게임 Ver.",
-    "JA": "ねんどろいど ドクター・ストレンジ エンドゲーム Ver. (ねんどろいど どくたー・すとれんじ えんどげーむ Ver.)",
-    "EN": "Nendoroid Doctor Strange: Endgame Ver."
+    "ko": "닥터 스트레인지 엔드게임 Ver.",
+    "ja": "ねんどろいど ドクター・ストレンジ エンドゲーム Ver. (ねんどろいど どくたー・すとれんじ えんどげーむ Ver.)",
+    "en": "Nendoroid Doctor Strange: Endgame Ver."
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "アベンジャーズ／エンドゲーム",
-    "EN": "Avengers: Endgame"
+    "ko": "어벤져스",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "en": "Avengers: Endgame"
   },
   "gsc_productNum": 9829,
   "price": 5000,

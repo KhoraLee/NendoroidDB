@@ -1,14 +1,14 @@
 {
   "num": "720",
   "name": {
-    "KO": "하츠즈키",
-    "JA": "ねんどろいど 初月 (ねんどろいど はつづき)",
-    "EN": "Nendoroid Hatsuzuki"
+    "ko": "하츠즈키",
+    "ja": "ねんどろいど 初月 (ねんどろいど はつづき)",
+    "en": "Nendoroid Hatsuzuki"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 6166,
   "price": 5093,

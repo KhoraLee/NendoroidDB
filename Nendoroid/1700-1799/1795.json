@@ -1,14 +1,14 @@
 {
   "num": "1795",
   "name": {
-    "KO": "벤티",
-    "JA": "ねんどろいど ウェンティ (ねんどろいど うぇんてぃ)",
-    "EN": "Nendoroid Venti"
+    "ko": "벤티",
+    "ja": "ねんどろいど ウェンティ (ねんどろいど うぇんてぃ)",
+    "en": "Nendoroid Venti"
   },
   "series": {
-    "KO": "원신",
-    "JA": "原神",
-    "EN": "Genshin Impact"
+    "ko": "원신",
+    "ja": "原神",
+    "en": "Genshin Impact"
   },
   "gsc_productNum": 12387,
   "price": 6005,

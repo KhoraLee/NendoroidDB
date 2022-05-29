@@ -1,14 +1,14 @@
 {
   "num": "1623",
   "name": {
-    "KO": "카가미하라 나데시코 솔로캠프 Ver.",
-    "JA": "ねんどろいど 各務原なでしこ ソロキャンVer. (ねんどろいど かがみはらなでしこ そろきゃんVer.)",
-    "EN": "Nendoroid Nadeshiko Kagamihara: Solo Camp Ver."
+    "ko": "카가미하라 나데시코 솔로캠프 Ver.",
+    "ja": "ねんどろいど 各務原なでしこ ソロキャンVer. (ねんどろいど かがみはらなでしこ そろきゃんVer.)",
+    "en": "Nendoroid Nadeshiko Kagamihara: Solo Camp Ver."
   },
   "series": {
-    "KO": "유루캠△",
-    "JA": "ゆるキャン△",
-    "EN": "Laid-Back Camp"
+    "ko": "유루캠△",
+    "ja": "ゆるキャン△",
+    "en": "Laid-Back Camp"
   },
   "gsc_productNum": 11142,
   "price": 6100,

@@ -1,14 +1,14 @@
 {
   "num": "1156",
   "name": {
-    "KO": "서펜트의 나가",
-    "JA": "ねんどろいど 白蛇のナーガ (ねんどろいど さーぺんとのなーが)",
-    "EN": "Nendoroid Naga the Serpent"
+    "ko": "서펜트의 나가",
+    "ja": "ねんどろいど 白蛇のナーガ (ねんどろいど さーぺんとのなーが)",
+    "en": "Nendoroid Naga the Serpent"
   },
   "series": {
-    "KO": "슬레이어즈",
-    "JA": "スレイヤーズ",
-    "EN": "Slayers"
+    "ko": "슬레이어즈",
+    "ja": "スレイヤーズ",
+    "en": "Slayers"
   },
   "gsc_productNum": 8483,
   "price": 6200,

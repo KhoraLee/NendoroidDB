@@ -1,14 +1,14 @@
 {
   "num": "137",
   "name": {
-    "KO": "다테 마사무네",
-    "JA": "ねんどろいど 伊達政宗 (ねんどろいど だてまさむね)",
-    "EN": "Nendoroid Masamune Date (ねんどろいど だてまさむね)"
+    "ko": "다테 마사무네",
+    "ja": "ねんどろいど 伊達政宗 (ねんどろいど だてまさむね)",
+    "en": "Nendoroid Masamune Date (ねんどろいど だてまさむね)"
   },
   "series": {
-    "KO": "전국 바사라",
-    "JA": "戦国BASARA",
-    "EN": "Sengoku Basara"
+    "ko": "전국 바사라",
+    "ja": "戦国BASARA",
+    "en": "Sengoku Basara"
   },
   "gsc_productNum": 2983,
   "price": 3667,

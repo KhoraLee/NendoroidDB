@@ -1,14 +1,14 @@
 {
   "num": "447b",
   "name": {
-    "KO": "솔리드 스네이크 스텔스 Ver.",
-    "JA": "ねんどろいど ソリッド・スネーク ステルス迷彩Ver. (ねんどろいど そりっど・すねーく すてるすめいさいVer.)",
-    "EN": "Nendoroid Solid Snake: Stealth Camouflage Ver."
+    "ko": "솔리드 스네이크 스텔스 Ver.",
+    "ja": "ねんどろいど ソリッド・スネーク ステルス迷彩Ver. (ねんどろいど そりっど・すねーく すてるすめいさいVer.)",
+    "en": "Nendoroid Solid Snake: Stealth Camouflage Ver."
   },
   "series": {
-    "KO": "메탈기어 솔리드",
-    "JA": "メタルギア ソリッド",
-    "EN": "METAL GEAR SOLID"
+    "ko": "메탈기어 솔리드",
+    "ja": "メタルギア ソリッド",
+    "en": "METAL GEAR SOLID"
   },
   "gsc_productNum": 5692,
   "price": 4584,

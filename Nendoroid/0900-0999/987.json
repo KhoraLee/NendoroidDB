@@ -1,14 +1,14 @@
 {
   "num": "987",
   "name": {
-    "KO": "이치고",
-    "JA": "ねんどろいど イチゴ (ねんどろいど いちご)",
-    "EN": "Nendoroid Ichigo"
+    "ko": "이치고",
+    "ja": "ねんどろいど イチゴ (ねんどろいど いちご)",
+    "en": "Nendoroid Ichigo"
   },
   "series": {
-    "KO": "달링 인 더 프랑키스",
-    "JA": "ダーリン・イン・ザ・フランキス",
-    "EN": "DARLING in the FRANXX"
+    "ko": "달링 인 더 프랑키스",
+    "ja": "ダーリン・イン・ザ・フランキス",
+    "en": "DARLING in the FRANXX"
   },
   "gsc_productNum": 7558,
   "price": 5093,

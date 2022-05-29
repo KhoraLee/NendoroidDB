@@ -1,14 +1,14 @@
 {
   "num": "068",
   "name": {
-    "KO": "세바스찬 미카 엘리스",
-    "JA": "ねんどろいど セバスチャン・ミカエリス (ねんどろいど　せばすちゃん・みかえりす)",
-    "EN": "Nendoroid Sebastian Michaelis (せばすちゃん・みかえりす ねんどろいど)"
+    "ko": "세바스찬 미카 엘리스",
+    "ja": "ねんどろいど セバスチャン・ミカエリス (ねんどろいど　せばすちゃん・みかえりす)",
+    "en": "Nendoroid Sebastian Michaelis (せばすちゃん・みかえりす ねんどろいど)"
   },
   "series": {
-    "KO": "흑집사",
-    "JA": "黒執事",
-    "EN": "Black Butler"
+    "ko": "흑집사",
+    "ja": "黒執事",
+    "en": "Black Butler"
   },
   "gsc_productNum": 2377,
   "price": 3667,

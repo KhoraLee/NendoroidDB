@@ -1,14 +1,14 @@
 {
   "num": "066",
   "name": {
-    "KO": "프리시아",
-    "JA": "ねんどろいど プリーシア (ぷりーしあ ねんどろいど)",
-    "EN": "Nendoroid Priecia (ぷりーしあ ねんどろいど)"
+    "ko": "프리시아",
+    "ja": "ねんどろいど プリーシア (ぷりーしあ ねんどろいど)",
+    "en": "Nendoroid Priecia (ぷりーしあ ねんどろいど)"
   },
   "series": {
-    "KO": "프리즘 아크",
-    "JA": "プリズム・アーク",
-    "EN": "Prisim Ark"
+    "ko": "프리즘 아크",
+    "ja": "プリズム・アーク",
+    "en": "Prisim Ark"
   },
   "gsc_productNum": 2373,
   "price": 4190,

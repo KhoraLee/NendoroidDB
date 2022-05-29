@@ -1,14 +1,14 @@
 {
   "num": "007",
   "name": {
-    "KO": "사슴벌레 츠마미\u0026죠시쨩",
-    "JA": "ねんどろいど　くわがたツマミ＆じょしちゃん (くわがたつまみ＆じょしちゃん ねんどろいど)",
-    "EN": "Nendoroid Kuwagata Tsumami \u0026 Joshi-chan (くわがたつまみ＆じょしちゃん ねんどろいど)"
+    "ko": "사슴벌레 츠마미\u0026죠시쨩",
+    "ja": "ねんどろいど　くわがたツマミ＆じょしちゃん (くわがたつまみ＆じょしちゃん ねんどろいど)",
+    "en": "Nendoroid Kuwagata Tsumami \u0026 Joshi-chan (くわがたつまみ＆じょしちゃん ねんどろいど)"
   },
   "series": {
-    "KO": "사슴벌레 츠마미",
-    "JA": "くわがたツマミ",
-    "EN": "Kuwagata Tsumami"
+    "ko": "사슴벌레 츠마미",
+    "ja": "くわがたツマミ",
+    "en": "Kuwagata Tsumami"
   },
   "gsc_productNum": 609,
   "price": 3143,

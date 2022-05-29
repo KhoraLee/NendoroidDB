@@ -1,14 +1,14 @@
 {
   "num": "1660",
   "name": {
-    "KO": "사리",
-    "JA": "ねんどろいど サリー (ねんどろいど さりー)",
-    "EN": "Nendoroid Sally"
+    "ko": "사리",
+    "ja": "ねんどろいど サリー (ねんどろいど さりー)",
+    "en": "Nendoroid Sally"
   },
   "series": {
-    "KO": "아픈 건 싫으니까 방어력에 올인하려고 합니다",
-    "JA": "痛いのは嫌なので防御力に極振りしたいと思います。",
-    "EN": "BOFURI: I Don\u0027t Want to Get Hurt, so I\u0027ll Max Out My Defense."
+    "ko": "아픈 건 싫으니까 방어력에 올인하려고 합니다",
+    "ja": "痛いのは嫌なので防御力に極振りしたいと思います。",
+    "en": "BOFURI: I Don\u0027t Want to Get Hurt, so I\u0027ll Max Out My Defense."
   },
   "gsc_productNum": 11310,
   "price": 6600,

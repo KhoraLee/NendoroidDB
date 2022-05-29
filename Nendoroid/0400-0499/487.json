@@ -1,14 +1,14 @@
 {
   "num": "487",
   "name": {
-    "KO": "노이즈",
-    "JA": "ねんどろいど ノイズ (ねんどろいど のいず)",
-    "EN": "Nendoroid Noiz (ねんどろいど のいず)"
+    "ko": "노이즈",
+    "ja": "ねんどろいど ノイズ (ねんどろいど のいず)",
+    "en": "Nendoroid Noiz (ねんどろいど のいず)"
   },
   "series": {
-    "KO": "드라마티컬 머더",
-    "JA": "DRAMAtical Murder",
-    "EN": "DRAMAtical Murder"
+    "ko": "드라마티컬 머더",
+    "ja": "DRAMAtical Murder",
+    "en": "DRAMAtical Murder"
   },
   "gsc_productNum": 4773,
   "price": 4888,

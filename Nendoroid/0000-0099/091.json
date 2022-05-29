@@ -1,14 +1,14 @@
 {
   "num": "091",
   "name": {
-    "KO": "아인",
-    "JA": "ねんどろいど アイン (ねんどろいど あいん)",
-    "EN": "Nendoroid Ein (ねんどろいど あいん)"
+    "ko": "아인",
+    "ja": "ねんどろいど アイン (ねんどろいど あいん)",
+    "en": "Nendoroid Ein (ねんどろいど あいん)"
   },
   "series": {
-    "KO": "팬텀 오브 인페르노",
-    "JA": "Phantom　～Requiem for the Phantom～",
-    "EN": "Phantom　～Requiem for the Phantom～"
+    "ko": "팬텀 오브 인페르노",
+    "ja": "Phantom　～Requiem for the Phantom～",
+    "en": "Phantom　～Requiem for the Phantom～"
   },
   "gsc_productNum": 2671,
   "price": 3667,

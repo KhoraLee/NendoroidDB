@@ -1,14 +1,14 @@
 {
   "num": "1826",
   "name": {
-    "KO": "샌즈",
-    "JA": "ねんどろいど サンズ (ねんどろいど さんず)",
-    "EN": "Nendoroid sans"
+    "ko": "샌즈",
+    "ja": "ねんどろいど サンズ (ねんどろいど さんず)",
+    "en": "Nendoroid sans"
   },
   "series": {
-    "KO": "언더테일",
-    "JA": "UNDERTALE",
-    "EN": "UNDERTALE"
+    "ko": "언더테일",
+    "ja": "UNDERTALE",
+    "en": "UNDERTALE"
   },
   "gsc_productNum": 12411,
   "price": 5500,

@@ -1,14 +1,14 @@
 {
   "num": "1120",
   "name": {
-    "KO": "닥터 스트레인지 어벤져스 인피니티 워 에디션 스탠다드 Ver.",
-    "JA": "ねんどろいど ドクター・ストレンジ インフィニティ・エディション スタンダードVer. (ねんどろいど どくたー・すとれんじ いんふぃにてぃ・えでぃしょん すたんだーどVer.)",
-    "EN": "Nendoroid Doctor Strange: Infinity Edition Standard Ver."
+    "ko": "닥터 스트레인지 어벤져스 인피니티 워 에디션 스탠다드 Ver.",
+    "ja": "ねんどろいど ドクター・ストレンジ インフィニティ・エディション スタンダードVer. (ねんどろいど どくたー・すとれんじ いんふぃにてぃ・えでぃしょん すたんだーどVer.)",
+    "en": "Nendoroid Doctor Strange: Infinity Edition Standard Ver."
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "アベンジャーズ／インフィニティ・ウォー",
-    "EN": "Avengers: Infinity War"
+    "ko": "어벤져스",
+    "ja": "アベンジャーズ／インフィニティ・ウォー",
+    "en": "Avengers: Infinity War"
   },
   "gsc_productNum": 8244,
   "price": 4991,

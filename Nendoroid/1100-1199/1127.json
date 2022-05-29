@@ -1,14 +1,14 @@
 {
   "num": "1127",
   "name": {
-    "KO": "윈터솔져 어벤져스 인피니티워 에디션 스탠다드 Ver.",
-    "JA": "ねんどろいど ウィンター・ソルジャー インフィニティ・エディション スタンダードVer. (ねんどろいど うぃんたー・そるじゃー いんふぃにてぃ・えでぃしょん すたんだーどVer.)",
-    "EN": "Nendoroid Winter Soldier: Infinity Edition Standard Ver."
+    "ko": "윈터솔져 어벤져스 인피니티워 에디션 스탠다드 Ver.",
+    "ja": "ねんどろいど ウィンター・ソルジャー インフィニティ・エディション スタンダードVer. (ねんどろいど うぃんたー・そるじゃー いんふぃにてぃ・えでぃしょん すたんだーどVer.)",
+    "en": "Nendoroid Winter Soldier: Infinity Edition Standard Ver."
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "アベンジャーズ／インフィニティ・ウォー",
-    "EN": "Avengers: Infinity War"
+    "ko": "어벤져스",
+    "ja": "アベンジャーズ／インフィニティ・ウォー",
+    "en": "Avengers: Infinity War"
   },
   "gsc_productNum": 8441,
   "price": 5000,

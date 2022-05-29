@@ -1,14 +1,14 @@
 {
   "num": "1654",
   "name": {
-    "KO": "선지자",
-    "JA": "ねんどろいど 占い師 (ねんどろいど うらないし)",
-    "EN": "Nendoroid Seer"
+    "ko": "선지자",
+    "ja": "ねんどろいど 占い師 (ねんどろいど うらないし)",
+    "en": "Nendoroid Seer"
   },
   "series": {
-    "KO": "제5인격",
-    "JA": "identityV 第五人格",
-    "EN": "Identity V"
+    "ko": "제5인격",
+    "ja": "identityV 第五人格",
+    "en": "Identity V"
   },
   "gsc_productNum": 11332,
   "price": 7300,

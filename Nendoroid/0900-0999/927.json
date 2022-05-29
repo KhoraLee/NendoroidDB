@@ -1,14 +1,14 @@
 {
   "num": "927",
   "name": {
-    "KO": "가브릴",
-    "JA": "ねんどろいど ガヴリール (ねんどろいど がゔりーる)",
-    "EN": "Nendoroid Gabriel"
+    "ko": "가브릴",
+    "ja": "ねんどろいど ガヴリール (ねんどろいど がゔりーる)",
+    "en": "Nendoroid Gabriel"
   },
   "series": {
-    "KO": "가브릴 드롭아웃",
-    "JA": "ガヴリールドロップアウト",
-    "EN": "Gabriel Dropout"
+    "ko": "가브릴 드롭아웃",
+    "ja": "ガヴリールドロップアウト",
+    "en": "Gabriel Dropout"
   },
   "gsc_productNum": 7256,
   "price": 5398,

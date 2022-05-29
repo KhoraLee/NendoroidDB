@@ -1,14 +1,14 @@
 {
   "num": "1505",
   "name": {
-    "KO": "노먼",
-    "JA": "ねんどろいど ノーマン (ねんどろいど のーまん)",
-    "EN": "Nendoroid Norman"
+    "ko": "노먼",
+    "ja": "ねんどろいど ノーマン (ねんどろいど のーまん)",
+    "en": "Nendoroid Norman"
   },
   "series": {
-    "KO": "약속의 네버랜드",
-    "JA": "約束のネバーランド",
-    "EN": "The Promised Neverland"
+    "ko": "약속의 네버랜드",
+    "ja": "約束のネバーランド",
+    "en": "The Promised Neverland"
   },
   "gsc_productNum": 10405,
   "price": 4800,

@@ -1,14 +1,14 @@
 {
   "num": "1838",
   "name": {
-    "KO": "스타스크림",
-    "JA": "ねんどろいど スタースクリーム (ねんどろいど すたーすくりーむ)",
-    "EN": "Nendoroid Starscream"
+    "ko": "스타스크림",
+    "ja": "ねんどろいど スタースクリーム (ねんどろいど すたーすくりーむ)",
+    "en": "Nendoroid Starscream"
   },
   "series": {
-    "KO": "트랜스포머",
-    "JA": "トランスフォーマー",
-    "EN": "Transformers"
+    "ko": "트랜스포머",
+    "ja": "トランスフォーマー",
+    "en": "Transformers"
   },
   "gsc_productNum": 12421,
   "price": 5500,

@@ -1,14 +1,14 @@
 {
   "num": "1798",
   "name": {
-    "KO": "오오조라 스바루",
-    "JA": "ねんどろいど 大空スバル (ねんどろいど おおぞらすばる)",
-    "EN": "Nendoroid Oozora Subaru"
+    "ko": "오오조라 스바루",
+    "ja": "ねんどろいど 大空スバル (ねんどろいど おおぞらすばる)",
+    "en": "Nendoroid Oozora Subaru"
   },
   "series": {
-    "KO": "버추얼 유튜버 (홀로라이브)",
-    "JA": "ホロライブプロダクション",
-    "EN": "hololive production"
+    "ko": "버추얼 유튜버 (홀로라이브)",
+    "ja": "ホロライブプロダクション",
+    "en": "hololive production"
   },
   "gsc_productNum": 12258,
   "price": 6500,

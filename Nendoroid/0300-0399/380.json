@@ -1,14 +1,14 @@
 {
   "num": "380",
   "name": {
-    "KO": "유키미쿠 Magical Snow Ver.",
-    "JA": "ねんどろいど 雪ミク Magical Snow Ver. (ねんどろいど ゆきみく まじかる すのー Ver.)",
-    "EN": "Nendoroid Snow Miku: Magical Snow Ver. (ねんどろいど ゆきみく まじかる すのー Ver.)"
+    "ko": "유키미쿠 Magical Snow Ver.",
+    "ja": "ねんどろいど 雪ミク Magical Snow Ver. (ねんどろいど ゆきみく まじかる すのー Ver.)",
+    "en": "Nendoroid Snow Miku: Magical Snow Ver. (ねんどろいど ゆきみく まじかる すのー Ver.)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 4133,
   "price": 4714,

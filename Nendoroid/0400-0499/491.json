@@ -1,14 +1,14 @@
 {
   "num": "491",
   "name": {
-    "KO": "키리시마",
-    "JA": "ねんどろいど 霧島 (ねんどろいど きりしま)",
-    "EN": "Nendoroid Kirishima"
+    "ko": "키리시마",
+    "ja": "ねんどろいど 霧島 (ねんどろいど きりしま)",
+    "en": "Nendoroid Kirishima"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 4798,
   "price": 5093,

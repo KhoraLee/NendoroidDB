@@ -1,14 +1,14 @@
 {
   "num": "681",
   "name": {
-    "KO": "크리스 레드필드",
-    "JA": "ねんどろいど クリス・レッドフィールド (ねんどろいど くりす・れっどふぃーるど)",
-    "EN": "Nendoroid Chris Redfield"
+    "ko": "크리스 레드필드",
+    "ja": "ねんどろいど クリス・レッドフィールド (ねんどろいど くりす・れっどふぃーるど)",
+    "en": "Nendoroid Chris Redfield"
   },
   "series": {
-    "KO": "바이오 하자드",
-    "JA": "バイオハザード",
-    "EN": "Resident Evil"
+    "ko": "바이오 하자드",
+    "ja": "バイオハザード",
+    "en": "Resident Evil"
   },
   "gsc_productNum": 5989,
   "price": 5093,

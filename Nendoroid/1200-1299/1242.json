@@ -1,14 +1,14 @@
 {
   "num": "1242",
   "name": {
-    "KO": "리퍼",
-    "JA": "ねんどろいど リーパー クラシックスキン・エディション (ねんどろいど りーぱー くらしっくすきん・えでぃしょん)",
-    "EN": "Nendoroid Reaper: Classic Skin Edition"
+    "ko": "리퍼",
+    "ja": "ねんどろいど リーパー クラシックスキン・エディション (ねんどろいど りーぱー くらしっくすきん・えでぃしょん)",
+    "en": "Nendoroid Reaper: Classic Skin Edition"
   },
   "series": {
-    "KO": "오버워치",
-    "JA": "オーバーウォッチ",
-    "EN": "Overwatch"
+    "ko": "오버워치",
+    "ja": "オーバーウォッチ",
+    "en": "Overwatch"
   },
   "gsc_productNum": 8995,
   "price": 5200,

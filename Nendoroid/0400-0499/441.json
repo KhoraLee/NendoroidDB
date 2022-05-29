@@ -1,14 +1,14 @@
 {
   "num": "441",
   "name": {
-    "KO": "마린짱",
-    "JA": "ねんどろいど マリンちゃん (ねんどろいど まりんちゃん)",
-    "EN": "Nendoroid Marine-chan (ねんどろいど まりんちゃん)"
+    "ko": "마린짱",
+    "ja": "ねんどろいど マリンちゃん (ねんどろいど まりんちゃん)",
+    "en": "Nendoroid Marine-chan (ねんどろいど まりんちゃん)"
   },
   "series": {
-    "KO": "바다이야기",
-    "JA": "海物語",
-    "EN": "Sea Story"
+    "ko": "바다이야기",
+    "ja": "海物語",
+    "en": "Sea Story"
   },
   "gsc_productNum": 4537,
   "price": 4278,

@@ -1,14 +1,14 @@
 {
   "num": "1182",
   "name": {
-    "KO": "로드 엘멜로이 2세",
-    "JA": "ねんどろいど ロード・エルメロイⅡ世 (ねんどろいど ろーど・えるめろいⅡせい)",
-    "EN": "Nendoroid Lord El-Melloi II"
+    "ko": "로드 엘멜로이 2세",
+    "ja": "ねんどろいど ロード・エルメロイⅡ世 (ねんどろいど ろーど・えるめろいⅡせい)",
+    "en": "Nendoroid Lord El-Melloi II"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "ロード・エルメロイⅡ世の事件簿",
-    "EN": "Lord El-Melloi II\u0027s Case Files"
+    "ko": "페이트 시리즈",
+    "ja": "ロード・エルメロイⅡ世の事件簿",
+    "en": "Lord El-Melloi II\u0027s Case Files"
   },
   "gsc_productNum": 8649,
   "price": 4800,

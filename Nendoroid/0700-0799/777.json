@@ -1,14 +1,14 @@
 {
   "num": "777",
   "name": {
-    "KO": "레이싱 미쿠 2017 Ver.",
-    "JA": "ねんどろいど レーシングミク 2017 Ver. (ねんどろいど れーしんぐみく 2017 Ver.)",
-    "EN": "Nendoroid Racing Miku 2017 Ver."
+    "ko": "레이싱 미쿠 2017 Ver.",
+    "ja": "ねんどろいど レーシングミク 2017 Ver. (ねんどろいど れーしんぐみく 2017 Ver.)",
+    "en": "Nendoroid Racing Miku 2017 Ver."
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "初音ミク GTプロジェクト",
-    "EN": "Racing Miku 2017 Ver."
+    "ko": "하츠네미쿠",
+    "ja": "初音ミク GTプロジェクト",
+    "en": "Racing Miku 2017 Ver."
   },
   "gsc_productNum": 6420,
   "price": -1,

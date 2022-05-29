@@ -1,14 +1,14 @@
 {
   "num": "1611",
   "name": {
-    "KO": "신데렐라",
-    "JA": "ねんどろいど シンデレラ (ねんどろいど しんでれら)",
-    "EN": "Nendoroid Cinderella"
+    "ko": "신데렐라",
+    "ja": "ねんどろいど シンデレラ (ねんどろいど しんでれら)",
+    "en": "Nendoroid Cinderella"
   },
   "series": {
-    "KO": "디즈니 프린세스",
-    "JA": "シンデレラ",
-    "EN": "Cinderella"
+    "ko": "디즈니 프린세스",
+    "ja": "シンデレラ",
+    "en": "Cinderella"
   },
   "gsc_productNum": 11010,
   "price": 5900,

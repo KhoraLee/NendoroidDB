@@ -1,14 +1,14 @@
 {
   "num": "1463",
   "name": {
-    "KO": "루비 로즈",
-    "JA": "ねんどろいど ルビー・ローズ (ねんどろいど るびー・ろーず)",
-    "EN": "Nendoroid Ruby Rose"
+    "ko": "루비 로즈",
+    "ja": "ねんどろいど ルビー・ローズ (ねんどろいど るびー・ろーず)",
+    "en": "Nendoroid Ruby Rose"
   },
   "series": {
-    "KO": "RWBY",
-    "JA": "RWBY(ルビー)",
-    "EN": "RWBY"
+    "ko": "RWBY",
+    "ja": "RWBY(ルビー)",
+    "en": "RWBY"
   },
   "gsc_productNum": 10061,
   "price": 5200,

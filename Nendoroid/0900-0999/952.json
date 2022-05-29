@@ -1,14 +1,14 @@
 {
   "num": "952",
   "name": {
-    "KO": "제로투",
-    "JA": "ねんどろいど ゼロツー (ねんどろいど ぜろつー)",
-    "EN": "Nendoroid Zero Two"
+    "ko": "제로투",
+    "ja": "ねんどろいど ゼロツー (ねんどろいど ぜろつー)",
+    "en": "Nendoroid Zero Two"
   },
   "series": {
-    "KO": "달링 인 더 프랑키스",
-    "JA": "ダーリン・イン・ザ・フランキス",
-    "EN": "DARLING in the FRANXX"
+    "ko": "달링 인 더 프랑키스",
+    "ja": "ダーリン・イン・ザ・フランキス",
+    "en": "DARLING in the FRANXX"
   },
   "gsc_productNum": 7380,
   "price": 5300,

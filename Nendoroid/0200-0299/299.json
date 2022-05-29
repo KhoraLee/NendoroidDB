@@ -1,14 +1,14 @@
 {
   "num": "299",
   "name": {
-    "KO": "미쿠다요",
-    "JA": "ねんどろいど ミクダヨー (ねんどろいど みくだよー)",
-    "EN": "Nendoroid Mikudayo- (ねんどろいど みくだよー)"
+    "ko": "미쿠다요",
+    "ja": "ねんどろいど ミクダヨー (ねんどろいど みくだよー)",
+    "en": "Nendoroid Mikudayo- (ねんどろいど みくだよー)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 3734,
   "price": 3143,

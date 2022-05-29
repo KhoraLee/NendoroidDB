@@ -1,14 +1,14 @@
 {
   "num": "286",
   "name": {
-    "KO": "Lily from anim.o.v.e",
-    "JA": "ねんどろいど Lily from anim.o.v.e (ねんどろいど りりぃ from anim.o.v.e)",
-    "EN": "Nendoroid Lily from anim.o.v.e (ねんどろいど りりぃ from anim.o.v.e)"
+    "ko": "Lily from anim.o.v.e",
+    "ja": "ねんどろいど Lily from anim.o.v.e (ねんどろいど りりぃ from anim.o.v.e)",
+    "en": "Nendoroid Lily from anim.o.v.e (ねんどろいど りりぃ from anim.o.v.e)"
   },
   "series": {
-    "KO": "보컬로이드(VOCALOID)",
-    "JA": "バーチャルボーカリスト Lily from anim.o.v.e",
-    "EN": "Virtual Vocalist Lily from anim.o.v.e"
+    "ko": "보컬로이드(VOCALOID)",
+    "ja": "バーチャルボーカリスト Lily from anim.o.v.e",
+    "en": "Virtual Vocalist Lily from anim.o.v.e"
   },
   "gsc_productNum": 3724,
   "price": 3667,

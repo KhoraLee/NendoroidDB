@@ -1,14 +1,14 @@
 {
   "num": "159",
   "name": {
-    "KO": "토투리아 헬몰트",
-    "JA": "ねんどろいど トトリ (ねんどろいど ととり)",
-    "EN": "Nendoroid Totori (ねんどろいど ととり)"
+    "ko": "토투리아 헬몰트",
+    "ja": "ねんどろいど トトリ (ねんどろいど ととり)",
+    "en": "Nendoroid Totori (ねんどろいど ととり)"
   },
   "series": {
-    "KO": "토토리의 아틀리에",
-    "JA": "トトリのアトリエ －アーランドの錬金術士2－",
-    "EN": "Atelier Totori: Alchemist of Arland 2"
+    "ko": "토토리의 아틀리에",
+    "ja": "トトリのアトリエ －アーランドの錬金術士2－",
+    "en": "Atelier Totori: Alchemist of Arland 2"
   },
   "gsc_productNum": 3100,
   "price": 3667,

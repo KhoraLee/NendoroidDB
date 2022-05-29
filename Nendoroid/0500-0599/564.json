@@ -1,14 +1,14 @@
 {
   "num": "564",
   "name": {
-    "KO": "카토리",
-    "JA": "ねんどろいど 香取 (ねんどろいど かとり)",
-    "EN": "Nendoroid Katori (ねんどろいど かとり)"
+    "ko": "카토리",
+    "ja": "ねんどろいど 香取 (ねんどろいど かとり)",
+    "en": "Nendoroid Katori (ねんどろいど かとり)"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 5239,
   "price": 4584,

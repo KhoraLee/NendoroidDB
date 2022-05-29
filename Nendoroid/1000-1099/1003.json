@@ -1,14 +1,14 @@
 {
   "num": "1003",
   "name": {
-    "KO": "레이싱 미쿠 2013 세팡 Ver.",
-    "JA": "ねんどろいど レーシングミク 2013 セパンVer. (ねんどろいど れーしんぐみく 2013 せぱんVer.)",
-    "EN": "Nendoroid Racing Miku: 2013 Sepang Ver."
+    "ko": "레이싱 미쿠 2013 세팡 Ver.",
+    "ja": "ねんどろいど レーシングミク 2013 セパンVer. (ねんどろいど れーしんぐみく 2013 せぱんVer.)",
+    "en": "Nendoroid Racing Miku: 2013 Sepang Ver."
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "初音ミク GTプロジェクト",
-    "EN": "Hatsune Miku GT Project"
+    "ko": "하츠네미쿠",
+    "ja": "初音ミク GTプロジェクト",
+    "en": "Hatsune Miku GT Project"
   },
   "gsc_productNum": 7599,
   "price": 5602,

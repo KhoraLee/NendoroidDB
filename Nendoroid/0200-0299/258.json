@@ -1,14 +1,14 @@
 {
   "num": "258",
   "name": {
-    "KO": "세이버 Zero Ver.",
-    "JA": "ねんどろいど セイバー Zero Ver. (ねんどろいど せいばー Zero Ver.)",
-    "EN": "Nendoroid Saber : Zero Ver. (ねんどろいど せいばー Zero Ver.)"
+    "ko": "세이버 Zero Ver.",
+    "ja": "ねんどろいど セイバー Zero Ver. (ねんどろいど せいばー Zero Ver.)",
+    "en": "Nendoroid Saber : Zero Ver. (ねんどろいど せいばー Zero Ver.)"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Zero",
-    "EN": "Fate/Zero"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Zero",
+    "en": "Fate/Zero"
   },
   "gsc_productNum": 3592,
   "price": 4190,

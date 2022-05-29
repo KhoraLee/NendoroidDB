@@ -1,14 +1,14 @@
 {
   "num": "1580",
   "name": {
-    "KO": "파워",
-    "JA": "ねんどろいど パワー (ねんどろいど ぱわー)",
-    "EN": "Nendoroid Power"
+    "ko": "파워",
+    "ja": "ねんどろいど パワー (ねんどろいど ぱわー)",
+    "en": "Nendoroid Power"
   },
   "series": {
-    "KO": "체인소맨",
-    "JA": "チェンソーマン",
-    "EN": "Chainsaw Man"
+    "ko": "체인소맨",
+    "ja": "チェンソーマン",
+    "en": "Chainsaw Man"
   },
   "gsc_productNum": 10834,
   "price": 5500,

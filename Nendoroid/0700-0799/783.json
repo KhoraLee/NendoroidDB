@@ -1,14 +1,14 @@
 {
   "num": "783",
   "name": {
-    "KO": "워스파이트",
-    "JA": "ねんどろいど Warspite（ウォースパイト） (ねんどろいど うぉーすぱいと)",
-    "EN": "Nendoroid Warspite"
+    "ko": "워스파이트",
+    "ja": "ねんどろいど Warspite（ウォースパイト） (ねんどろいど うぉーすぱいと)",
+    "en": "Nendoroid Warspite"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 6499,
   "price": 7231,

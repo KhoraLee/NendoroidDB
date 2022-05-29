@@ -1,14 +1,14 @@
 {
   "num": "1319",
   "name": {
-    "KO": "유키 미쿠2.0",
-    "JA": "ねんどろいど 雪ミク 2.0 (ねんどろいど　ゆきみく2.0)",
-    "EN": "Nendoroid Snow Miku 2.0"
+    "ko": "유키 미쿠2.0",
+    "ja": "ねんどろいど 雪ミク 2.0 (ねんどろいど　ゆきみく2.0)",
+    "en": "Nendoroid Snow Miku 2.0"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 9387,
   "price": 5000,

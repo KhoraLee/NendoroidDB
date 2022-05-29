@@ -1,14 +1,14 @@
 {
   "num": "1558",
   "name": {
-    "KO": "데드풀 Uncanny X-Force Ver.",
-    "JA": "ねんどろいど デッドプール Uncanny X-Force Ver. (ねんどろいど でっどぷーる Uncanny X Force Ver.)",
-    "EN": "Nendoroid Deadpool: Uncanny X-Force Ver."
+    "ko": "데드풀 Uncanny X-Force Ver.",
+    "ja": "ねんどろいど デッドプール Uncanny X-Force Ver. (ねんどろいど でっどぷーる Uncanny X Force Ver.)",
+    "en": "Nendoroid Deadpool: Uncanny X-Force Ver."
   },
   "series": {
-    "KO": "데드풀",
-    "JA": "デッドプール",
-    "EN": "Deadpool"
+    "ko": "데드풀",
+    "ja": "デッドプール",
+    "en": "Deadpool"
   },
   "gsc_productNum": 10740,
   "price": 5000,

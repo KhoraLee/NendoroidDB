@@ -1,14 +1,14 @@
 {
   "num": "1810",
   "name": {
-    "KO": "사리아",
-    "JA": "ねんどろいど サリア (ねんどろいど さりあ)",
-    "EN": "Nendoroid Saria"
+    "ko": "사리아",
+    "ja": "ねんどろいど サリア (ねんどろいど さりあ)",
+    "en": "Nendoroid Saria"
   },
   "series": {
-    "KO": "명일방주",
-    "JA": "アークナイツ",
-    "EN": "Arknights"
+    "ko": "명일방주",
+    "ja": "アークナイツ",
+    "en": "Arknights"
   },
   "gsc_productNum": 12353,
   "price": 6800,

@@ -1,14 +1,14 @@
 {
   "num": "423",
   "name": {
-    "KO": "공모 오급",
-    "JA": "ねんどろいど 空母ヲ級 (ねんどろいど くうぼをきゅう)",
-    "EN": "Nendoroid Aircraft Carrier Wo-Class (ねんどろいど をきゅう)"
+    "ko": "공모 오급",
+    "ja": "ねんどろいど 空母ヲ級 (ねんどろいど くうぼをきゅう)",
+    "en": "Nendoroid Aircraft Carrier Wo-Class (ねんどろいど をきゅう)"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 4437,
   "price": 4888,

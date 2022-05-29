@@ -1,14 +1,14 @@
 {
   "num": "1330",
   "name": {
-    "KO": "루나 러브굿",
-    "JA": "ねんどろいど ルーナ・ラブグッド (ねんどろいど るーな・らぶぐっど)",
-    "EN": "Nendoroid Luna Lovegood"
+    "ko": "루나 러브굿",
+    "ja": "ねんどろいど ルーナ・ラブグッド (ねんどろいど るーな・らぶぐっど)",
+    "en": "Nendoroid Luna Lovegood"
   },
   "series": {
-    "KO": "해리포터 시리즈",
-    "JA": "ハリー・ポッター",
-    "EN": "Harry Potter"
+    "ko": "해리포터 시리즈",
+    "ja": "ハリー・ポッター",
+    "en": "Harry Potter"
   },
   "gsc_productNum": 9679,
   "price": 4500,

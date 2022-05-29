@@ -1,14 +1,14 @@
 {
   "num": "812",
   "name": {
-    "KO": "팅커벨",
-    "JA": "ねんどろいど ティンカー・ベル (ねんどろいど てぃんかー・べる)",
-    "EN": "Nendoroid Tinker Bell"
+    "ko": "팅커벨",
+    "ja": "ねんどろいど ティンカー・ベル (ねんどろいど てぃんかー・べる)",
+    "en": "Nendoroid Tinker Bell"
   },
   "series": {
-    "KO": "디즈니",
-    "JA": "ピーター・パン",
-    "EN": "Peter Pan"
+    "ko": "디즈니",
+    "ja": "ピーター・パン",
+    "en": "Peter Pan"
   },
   "gsc_productNum": 6674,
   "price": 5600,

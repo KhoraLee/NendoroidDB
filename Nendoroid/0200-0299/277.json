@@ -1,14 +1,14 @@
 {
   "num": "277",
   "name": {
-    "KO": "아오자키 아오코",
-    "JA": "ねんどろいど 蒼崎青子 (ねんどろいど あおざきあおこ)",
-    "EN": "Nendoroid Aoko Aozaki (ねんどろいど あおざきあおこ)"
+    "ko": "아오자키 아오코",
+    "ja": "ねんどろいど 蒼崎青子 (ねんどろいど あおざきあおこ)",
+    "en": "Nendoroid Aoko Aozaki (ねんどろいど あおざきあおこ)"
   },
   "series": {
-    "KO": "마법사의 밤",
-    "JA": "魔法使いの夜",
-    "EN": "Mahou Tsukai no Yoru"
+    "ko": "마법사의 밤",
+    "ja": "魔法使いの夜",
+    "en": "Mahou Tsukai no Yoru"
   },
   "gsc_productNum": 3673,
   "price": 3667,

@@ -1,14 +1,14 @@
 {
   "num": "015",
   "name": {
-    "KO": "타치코마",
-    "JA": "ねんどろいど タチコマ (ねんどろいど たちこま)",
-    "EN": "Nendoroid Tachikoma (ねんどろいど たちこま)"
+    "ko": "타치코마",
+    "ja": "ねんどろいど タチコマ (ねんどろいど たちこま)",
+    "en": "Nendoroid Tachikoma (ねんどろいど たちこま)"
   },
   "series": {
-    "KO": "공각기동대",
-    "JA": "攻殻機動隊S.A.C.",
-    "EN": "Ghost in the Shell S.A.C"
+    "ko": "공각기동대",
+    "ja": "攻殻機動隊S.A.C.",
+    "en": "Ghost in the Shell S.A.C"
   },
   "gsc_productNum": 618,
   "price": 4190,

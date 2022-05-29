@@ -1,14 +1,14 @@
 {
   "num": "1642-DX",
   "name": {
-    "KO": "장기령 DX",
-    "JA": "ねんどろいど 張起霊 DX (ねんどろいど ちょうきれい DX)",
-    "EN": "Nendoroid Zhang Qiling DX"
+    "ko": "장기령 DX",
+    "ja": "ねんどろいど 張起霊 DX (ねんどろいど ちょうきれい DX)",
+    "en": "Nendoroid Zhang Qiling DX"
   },
   "series": {
-    "KO": "도묘필기",
-    "JA": "盗墓筆記",
-    "EN": "TIME RAIDERS"
+    "ko": "도묘필기",
+    "ja": "盗墓筆記",
+    "en": "TIME RAIDERS"
   },
   "gsc_productNum": 11284,
   "price": 7800,

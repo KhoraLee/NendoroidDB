@@ -1,14 +1,14 @@
 {
   "num": "459",
   "name": {
-    "KO": "아마츠카제",
-    "JA": "ねんどろいど 天津風 (ねんどろいど あまつかぜ)",
-    "EN": "Nendoroid Amatsukaze (ねんどろいど あまつかぜ)"
+    "ko": "아마츠카제",
+    "ja": "ねんどろいど 天津風 (ねんどろいど あまつかぜ)",
+    "en": "Nendoroid Amatsukaze (ねんどろいど あまつかぜ)"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 4640,
   "price": 4888,

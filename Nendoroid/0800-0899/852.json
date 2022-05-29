@@ -1,14 +1,14 @@
 {
   "num": "852",
   "name": {
-    "KO": "수련",
-    "JA": "ねんどろいど スイレン (ねんどろいど すいれん)",
-    "EN": "Nendoroid Lana"
+    "ko": "수련",
+    "ja": "ねんどろいど スイレン (ねんどろいど すいれん)",
+    "en": "Nendoroid Lana"
   },
   "series": {
-    "KO": "포켓몬스터",
-    "JA": "ポケットモンスター",
-    "EN": "Pokémon"
+    "ko": "포켓몬스터",
+    "ja": "ポケットモンスター",
+    "en": "Pokémon"
   },
   "gsc_productNum": 6851,
   "price": 4888,

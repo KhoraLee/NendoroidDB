@@ -1,14 +1,14 @@
 {
   "num": "323",
   "name": {
-    "KO": "모노미",
-    "JA": "ねんどろいど モノミ (ねんどろいど ものみ)",
-    "EN": "Nendoroid Monomi (ねんどろいど ものみ)"
+    "ko": "모노미",
+    "ja": "ねんどろいど モノミ (ねんどろいど ものみ)",
+    "en": "Nendoroid Monomi (ねんどろいど ものみ)"
   },
   "series": {
-    "KO": "단간론파",
-    "JA": "スーパーダンガンロンパ２ さよなら絶望学園",
-    "EN": "Super Danganronpa 2: Sayonara Zetsubou Gakuen"
+    "ko": "단간론파",
+    "ja": "スーパーダンガンロンパ２ さよなら絶望学園",
+    "en": "Super Danganronpa 2: Sayonara Zetsubou Gakuen"
   },
   "gsc_productNum": 3890,
   "price": 3143,

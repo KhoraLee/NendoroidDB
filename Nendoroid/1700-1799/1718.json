@@ -1,14 +1,14 @@
 {
   "num": "1718",
   "name": {
-    "KO": "루미네",
-    "JA": "ねんどろいど 旅人（蛍） (ねんどろいど たびびと（ほたる）)",
-    "EN": "Nendoroid Traveler (Lumine)"
+    "ko": "루미네",
+    "ja": "ねんどろいど 旅人（蛍） (ねんどろいど たびびと（ほたる）)",
+    "en": "Nendoroid Traveler (Lumine)"
   },
   "series": {
-    "KO": "원신",
-    "JA": "原神",
-    "EN": "Genshin Impact"
+    "ko": "원신",
+    "ja": "原神",
+    "en": "Genshin Impact"
   },
   "gsc_productNum": 11782,
   "price": 5800,

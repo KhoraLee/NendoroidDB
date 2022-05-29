@@ -1,14 +1,14 @@
 {
   "num": "585",
   "name": {
-    "KO": "후부키 애니메이션 Ver.",
-    "JA": "ねんどろいど 吹雪 Animation Ver. (ねんどろいど ふぶき あにめーしょん Ver.)",
-    "EN": "Nendoroid Fubuki: Animation Ver."
+    "ko": "후부키 애니메이션 Ver.",
+    "ja": "ねんどろいど 吹雪 Animation Ver. (ねんどろいど ふぶき あにめーしょん Ver.)",
+    "en": "Nendoroid Fubuki: Animation Ver."
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 5341,
   "price": 4888,

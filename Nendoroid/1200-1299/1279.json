@@ -1,14 +1,14 @@
 {
   "num": "1279",
   "name": {
-    "KO": "주인공 사냥꾼",
-    "JA": "ねんどろいど 狩人 (ねんどろいど はんたー)",
-    "EN": "Nendoroid Hunter"
+    "ko": "주인공 사냥꾼",
+    "ja": "ねんどろいど 狩人 (ねんどろいど はんたー)",
+    "en": "Nendoroid Hunter"
   },
   "series": {
-    "KO": "블러드본",
-    "JA": "Bloodborne",
-    "EN": "Bloodborne"
+    "ko": "블러드본",
+    "ja": "Bloodborne",
+    "en": "Bloodborne"
   },
   "gsc_productNum": 9276,
   "price": 5200,

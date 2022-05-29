@@ -1,14 +1,14 @@
 {
   "num": "017",
   "name": {
-    "KO": "L",
-    "JA": "ねんどろいど L",
-    "EN": "Nendoroid L"
+    "ko": "L",
+    "ja": "ねんどろいど L",
+    "en": "Nendoroid L"
   },
   "series": {
-    "KO": "데스노트",
-    "JA": "DEATH NOTE",
-    "EN": "DEATH NOTE"
+    "ko": "데스노트",
+    "ja": "DEATH NOTE",
+    "en": "DEATH NOTE"
   },
   "gsc_productNum": 623,
   "price": 3143,

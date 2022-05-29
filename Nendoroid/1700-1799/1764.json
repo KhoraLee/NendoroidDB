@@ -1,14 +1,14 @@
 {
   "num": "1764",
   "name": {
-    "KO": "로켓",
-    "JA": "ねんどろいど ロケット (ねんどろいど ろけっと)",
-    "EN": "Nendoroid Rocket Raccoon"
+    "ko": "로켓",
+    "ja": "ねんどろいど ロケット (ねんどろいど ろけっと)",
+    "en": "Nendoroid Rocket Raccoon"
   },
   "series": {
-    "KO": "가디언즈 오브 갤럭시",
-    "JA": "ガーディアンズ・オブ・ギャラクシー：リミックス",
-    "EN": "Guardians of the Galaxy Vol. 2"
+    "ko": "가디언즈 오브 갤럭시",
+    "ja": "ガーディアンズ・オブ・ギャラクシー：リミックス",
+    "en": "Guardians of the Galaxy Vol. 2"
   },
   "gsc_productNum": 12034,
   "price": 8000,

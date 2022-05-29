@@ -1,14 +1,14 @@
 {
   "num": "875",
   "name": {
-    "KO": "비주기 \u0026 뮤츠",
-    "JA": "ねんどろいど サカキ\u0026ミュウツー (ねんどろいど さかき\u0026みゅうつー)",
-    "EN": "Nendoroid Giovanni \u0026 Mewtwo"
+    "ko": "비주기 \u0026 뮤츠",
+    "ja": "ねんどろいど サカキ\u0026ミュウツー (ねんどろいど さかき\u0026みゅうつー)",
+    "en": "Nendoroid Giovanni \u0026 Mewtwo"
   },
   "series": {
-    "KO": "포켓몬스터",
-    "JA": "ポケットモンスター",
-    "EN": "Pokémon"
+    "ko": "포켓몬스터",
+    "ja": "ポケットモンスター",
+    "en": "Pokémon"
   },
   "gsc_productNum": 6965,
   "price": 5500,

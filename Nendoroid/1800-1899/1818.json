@@ -1,14 +1,14 @@
 {
   "num": "1818",
   "name": {
-    "KO": "시로모",
-    "JA": "ねんどろいど シロモ (ねんどろいど しろも)",
-    "EN": "Nendoroid Shiromo"
+    "ko": "시로모",
+    "ja": "ねんどろいど シロモ (ねんどろいど しろも)",
+    "en": "Nendoroid Shiromo"
   },
   "series": {
-    "KO": "푸이푸이 모루카",
-    "JA": "PUI PUI モルカー",
-    "EN": "Pui Pui Molcar"
+    "ko": "푸이푸이 모루카",
+    "ja": "PUI PUI モルカー",
+    "en": "Pui Pui Molcar"
   },
   "gsc_productNum": 12333,
   "price": 4200,

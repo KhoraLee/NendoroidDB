@@ -1,14 +1,14 @@
 {
   "num": "1873",
   "name": {
-    "KO": "가위손 에드워드 시저핸드",
-    "JA": "ねんどろいど エドワード・シザーハンズ (ねんどろいど えどわーど・しざーはんず)",
-    "EN": "Nendoroid Edward Scissorhands"
+    "ko": "가위손 에드워드 시저핸드",
+    "ja": "ねんどろいど エドワード・シザーハンズ (ねんどろいど えどわーど・しざーはんず)",
+    "en": "Nendoroid Edward Scissorhands"
   },
   "series": {
-    "KO": "가위손",
-    "JA": "シザーハンズ",
-    "EN": "Edward Scissorhands"
+    "ko": "가위손",
+    "ja": "シザーハンズ",
+    "en": "Edward Scissorhands"
   },
   "gsc_productNum": 12630,
   "price": 9000,

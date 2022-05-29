@@ -1,14 +1,14 @@
 {
   "num": "221",
   "name": {
-    "KO": "나나사키 아이",
-    "JA": "ねんどろいど 七咲逢 (ねんどろいど ななさきあい)",
-    "EN": "Nendoroid Ai Nanasaki (ねんどろいど ななさきあい)"
+    "ko": "나나사키 아이",
+    "ja": "ねんどろいど 七咲逢 (ねんどろいど ななさきあい)",
+    "en": "Nendoroid Ai Nanasaki (ねんどろいど ななさきあい)"
   },
   "series": {
-    "KO": "아마가미 SS",
-    "JA": "アマガミSS",
-    "EN": "Amagami SS"
+    "ko": "아마가미 SS",
+    "ja": "アマガミSS",
+    "en": "Amagami SS"
   },
   "gsc_productNum": 3430,
   "price": 3667,

@@ -1,14 +1,14 @@
 {
   "num": "1233",
   "name": {
-    "KO": "단테 DMC5 Ver.",
-    "JA": "ねんどろいど ダンテ DMC5 Ver. (ねんどろいど だんて DMC5 Ver.)",
-    "EN": "Nendoroid Dante: DMC5 Ver."
+    "ko": "단테 DMC5 Ver.",
+    "ja": "ねんどろいど ダンテ DMC5 Ver. (ねんどろいど だんて DMC5 Ver.)",
+    "en": "Nendoroid Dante: DMC5 Ver."
   },
   "series": {
-    "KO": "데빌 메이 크라이",
-    "JA": "DEVIL MAY CRY 5（デビル メイ クライ 5）",
-    "EN": "Devil May Cry 5"
+    "ko": "데빌 메이 크라이",
+    "ja": "DEVIL MAY CRY 5（デビル メイ クライ 5）",
+    "en": "Devil May Cry 5"
   },
   "gsc_productNum": 8973,
   "price": 6500,

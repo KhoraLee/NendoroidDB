@@ -1,14 +1,14 @@
 {
   "num": "866-DX",
   "name": {
-    "KO": "로키 라그나로크 에디션 DX Ver.",
-    "JA": "ねんどろいど ロキ DX Ver. (ねんどろいど ろき DX Ver.)",
-    "EN": "Nendoroid Loki: DX Ver."
+    "ko": "로키 라그나로크 에디션 DX Ver.",
+    "ja": "ねんどろいど ロキ DX Ver. (ねんどろいど ろき DX Ver.)",
+    "en": "Nendoroid Loki: DX Ver."
   },
   "series": {
-    "KO": "토르 라그나로크",
-    "JA": "マイティ・ソー バトルロイヤル",
-    "EN": "Thor: Ragnarok"
+    "ko": "토르 라그나로크",
+    "ja": "マイティ・ソー バトルロイヤル",
+    "en": "Thor: Ragnarok"
   },
   "gsc_productNum": 7850,
   "price": 8862,

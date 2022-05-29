@@ -1,14 +1,14 @@
 {
   "num": "1206a",
   "name": {
-    "KO": "Special set 빨간두건과 뱀파이어",
-    "JA": "ねんどろいど 純情ロマンチカ Special set 赤ずきんとヴァンパイア (ねんどろいど じゅんじょうろまんちか すぺしゃる せっと あかずきんとゔぁんぱいあ)",
-    "EN": "Nendoroid Junjo Romantica Special Set: Little Red Riding Hood and Vampire"
+    "ko": "Special set 빨간두건과 뱀파이어",
+    "ja": "ねんどろいど 純情ロマンチカ Special set 赤ずきんとヴァンパイア (ねんどろいど じゅんじょうろまんちか すぺしゃる せっと あかずきんとゔぁんぱいあ)",
+    "en": "Nendoroid Junjo Romantica Special Set: Little Red Riding Hood and Vampire"
   },
   "series": {
-    "KO": "순정 로맨티카",
-    "JA": "純情ロマンチカ",
-    "EN": "Junjo Romantica"
+    "ko": "순정 로맨티카",
+    "ja": "純情ロマンチカ",
+    "en": "Junjo Romantica"
   },
   "gsc_productNum": 8803,
   "price": 13200,

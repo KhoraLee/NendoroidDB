@@ -1,14 +1,14 @@
 {
   "num": "1716",
   "name": {
-    "KO": "스파이더맨",
-    "JA": "ねんどろいど スパイダーマン (東映バージョン) (ねんどろいど すぱいだーまん (とうえいばーじょん))",
-    "EN": "Nendoroid Spider-Man (Toei Version)"
+    "ko": "스파이더맨",
+    "ja": "ねんどろいど スパイダーマン (東映バージョン) (ねんどろいど すぱいだーまん (とうえいばーじょん))",
+    "en": "Nendoroid Spider-Man (Toei Version)"
   },
   "series": {
-    "KO": "특촬 스파이더맨",
-    "JA": "『スパイダーマン』東映TVシリーズ",
-    "EN": "Toei TV Series \"Spider-Man\""
+    "ko": "특촬 스파이더맨",
+    "ja": "『スパイダーマン』東映TVシリーズ",
+    "en": "Toei TV Series \"Spider-Man\""
   },
   "gsc_productNum": 11791,
   "price": 8000,

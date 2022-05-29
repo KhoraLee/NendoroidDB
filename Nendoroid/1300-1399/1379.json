@@ -1,14 +1,14 @@
 {
   "num": "1379",
   "name": {
-    "KO": "블랙 위도우 엔드게임 Ver.",
-    "JA": "ねんどろいど ブラックウィドウ エンドゲーム Ver. (ねんどろいど ぶらっくうぃどう えんどげーむ Ver.)",
-    "EN": "Nendoroid Black Widow: Endgame Ver."
+    "ko": "블랙 위도우 엔드게임 Ver.",
+    "ja": "ねんどろいど ブラックウィドウ エンドゲーム Ver. (ねんどろいど ぶらっくうぃどう えんどげーむ Ver.)",
+    "en": "Nendoroid Black Widow: Endgame Ver."
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "アベンジャーズ／エンドゲーム",
-    "EN": "Avengers: Endgame"
+    "ko": "어벤져스",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "en": "Avengers: Endgame"
   },
   "gsc_productNum": 9705,
   "price": 5000,

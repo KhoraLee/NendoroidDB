@@ -1,14 +1,14 @@
 {
   "num": "1053",
   "name": {
-    "KO": "레그",
-    "JA": "ねんどろいど レグ (ねんどろいど れぐ)",
-    "EN": "Nendoroid Reg"
+    "ko": "레그",
+    "ja": "ねんどろいど レグ (ねんどろいど れぐ)",
+    "en": "Nendoroid Reg"
   },
   "series": {
-    "KO": "메이드 인 어비스",
-    "JA": "メイドインアビス",
-    "EN": "Made in Abyss"
+    "ko": "메이드 인 어비스",
+    "ja": "メイドインアビス",
+    "en": "Made in Abyss"
   },
   "gsc_productNum": 7903,
   "price": 6009,

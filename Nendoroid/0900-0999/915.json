@@ -1,14 +1,14 @@
 {
   "num": "915",
   "name": {
-    "KO": "아틀라스",
-    "JA": "ねんどろいど Atlas (ねんどろいど あとらす)",
-    "EN": "Nendoroid Atlas"
+    "ko": "아틀라스",
+    "ja": "ねんどろいど Atlas (ねんどろいど あとらす)",
+    "en": "Nendoroid Atlas"
   },
   "series": {
-    "KO": "포탈",
-    "JA": "Portal2",
-    "EN": "Portal 2"
+    "ko": "포탈",
+    "ja": "Portal2",
+    "en": "Portal 2"
   },
   "gsc_productNum": 7200,
   "price": 5907,

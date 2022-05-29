@@ -1,14 +1,14 @@
 {
   "num": "1239",
   "name": {
-    "KO": "위엔쩌우",
-    "JA": "ねんどろいど 喩文州 (ねんどろいど ゆうぇんしゅう)",
-    "EN": "Nendoroid Yu Wenzhou"
+    "ko": "위엔쩌우",
+    "ja": "ねんどろいど 喩文州 (ねんどろいど ゆうぇんしゅう)",
+    "en": "Nendoroid Yu Wenzhou"
   },
   "series": {
-    "KO": "전직고수",
-    "JA": "マスターオブスキル（全職高手）",
-    "EN": "The King\u0027s Avatar"
+    "ko": "전직고수",
+    "ja": "マスターオブスキル（全職高手）",
+    "en": "The King\u0027s Avatar"
   },
   "gsc_productNum": 9011,
   "price": 4800,

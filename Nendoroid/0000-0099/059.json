@@ -1,14 +1,14 @@
 {
   "num": "059",
   "name": {
-    "KO": "이토시키 노조무",
-    "JA": "ねんどろいど　糸色 望 (いとしきのぞむ ねんどろいど)",
-    "EN": "Nendoroid Nozomu Itoshiki (いとしきのぞむ ねんどろいど)"
+    "ko": "이토시키 노조무",
+    "ja": "ねんどろいど　糸色 望 (いとしきのぞむ ねんどろいど)",
+    "en": "Nendoroid Nozomu Itoshiki (いとしきのぞむ ねんどろいど)"
   },
   "series": {
-    "KO": "안녕 절망선생",
-    "JA": "【俗・】さよなら絶望先生",
-    "EN": "(Zoku) Sayonara, Zetsubou Sensei"
+    "ko": "안녕 절망선생",
+    "ja": "【俗・】さよなら絶望先生",
+    "en": "(Zoku) Sayonara, Zetsubou Sensei"
   },
   "gsc_productNum": 2229,
   "price": 3667,

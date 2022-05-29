@@ -1,14 +1,14 @@
 {
   "num": "1249",
   "name": {
-    "KO": "포옹팀 리더",
-    "JA": "ねんどろいど ピンクのクマちゃん (ねんどろいど ぴんくのくまちゃん)",
-    "EN": "Nendoroid Cuddle Team Leader"
+    "ko": "포옹팀 리더",
+    "ja": "ねんどろいど ピンクのクマちゃん (ねんどろいど ぴんくのくまちゃん)",
+    "en": "Nendoroid Cuddle Team Leader"
   },
   "series": {
-    "KO": "포트나이트",
-    "JA": "フォートナイト",
-    "EN": "Fortnite"
+    "ko": "포트나이트",
+    "ja": "フォートナイト",
+    "en": "Fortnite"
   },
   "gsc_productNum": 9041,
   "price": 5200,

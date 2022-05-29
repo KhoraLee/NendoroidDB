@@ -1,14 +1,14 @@
 {
   "num": "624",
   "name": {
-    "KO": "마차노 카라마츠",
-    "JA": "ねんどろいど 松野カラ松 (ねんどろいど まつのからまつ)",
-    "EN": "Nendoroid Karamatsu Matsuno"
+    "ko": "마차노 카라마츠",
+    "ja": "ねんどろいど 松野カラ松 (ねんどろいど まつのからまつ)",
+    "en": "Nendoroid Karamatsu Matsuno"
   },
   "series": {
-    "KO": "오소마츠 상",
-    "JA": "おそ松さん",
-    "EN": "Osomatsu-san"
+    "ko": "오소마츠 상",
+    "ja": "おそ松さん",
+    "en": "Osomatsu-san"
   },
   "gsc_productNum": 5625,
   "price": 3565,

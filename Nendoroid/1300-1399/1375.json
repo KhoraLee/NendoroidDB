@@ -1,14 +1,14 @@
 {
   "num": "1375",
   "name": {
-    "KO": "W",
-    "JA": "ねんどろいど W (ねんどろいど だぶりゅー)",
-    "EN": "Nendoroid W"
+    "ko": "W",
+    "ja": "ねんどろいど W (ねんどろいど だぶりゅー)",
+    "en": "Nendoroid W"
   },
   "series": {
-    "KO": "명일방주",
-    "JA": "アークナイツ",
-    "EN": "Arknights"
+    "ko": "명일방주",
+    "ja": "アークナイツ",
+    "en": "Arknights"
   },
   "gsc_productNum": 9678,
   "price": 6400,

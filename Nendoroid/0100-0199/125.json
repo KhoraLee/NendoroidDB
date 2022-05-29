@@ -1,14 +1,14 @@
 {
   "num": "125",
   "name": {
-    "KO": "카츠라 히나기쿠",
-    "JA": "ねんどろいど 桂ヒナギク (ねんどろいど かつらひなぎく)",
-    "EN": "Nendoroid Hinagiku Katsura (ねんどろいど かつらひなぎく)"
+    "ko": "카츠라 히나기쿠",
+    "ja": "ねんどろいど 桂ヒナギク (ねんどろいど かつらひなぎく)",
+    "en": "Nendoroid Hinagiku Katsura (ねんどろいど かつらひなぎく)"
   },
   "series": {
-    "KO": "하야테처럼!",
-    "JA": "ハヤテのごとく!!",
-    "EN": "Hayate the Combat Butler"
+    "ko": "하야테처럼!",
+    "ja": "ハヤテのごとく!!",
+    "en": "Hayate the Combat Butler"
   },
   "gsc_productNum": 2918,
   "price": 3981,

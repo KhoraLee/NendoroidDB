@@ -1,14 +1,14 @@
 {
   "num": "247",
   "name": {
-    "KO": "카무이 가쿠포",
-    "JA": "ねんどろいど 神威がくぽ (ねんどろいど かむいがくぽ)",
-    "EN": "Nendoroid Gackpo Kamui (ねんどろいど かむいがくぽ)"
+    "ko": "카무이 가쿠포",
+    "ja": "ねんどろいど 神威がくぽ (ねんどろいど かむいがくぽ)",
+    "en": "Nendoroid Gackpo Kamui (ねんどろいど かむいがくぽ)"
   },
   "series": {
-    "KO": "보컬로이드(VOCALOID)",
-    "JA": "バーチャルボーカリスト がくっぽいど",
-    "EN": "Virtual Vocalist Gackpoid"
+    "ko": "보컬로이드(VOCALOID)",
+    "ja": "バーチャルボーカリスト がくっぽいど",
+    "en": "Virtual Vocalist Gackpoid"
   },
   "gsc_productNum": 3546,
   "price": 3667,

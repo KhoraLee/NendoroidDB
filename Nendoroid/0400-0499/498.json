@@ -1,14 +1,14 @@
 {
   "num": "498",
   "name": {
-    "KO": "노엘",
-    "JA": "ねんどろいど ノエル (ねんどろいど のえる)",
-    "EN": "Nendoroid Noel (Sora no Method)"
+    "ko": "노엘",
+    "ja": "ねんどろいど ノエル (ねんどろいど のえる)",
+    "en": "Nendoroid Noel (Sora no Method)"
   },
   "series": {
-    "KO": "천체의 메소드",
-    "JA": "天体のメソッド",
-    "EN": "Celestial Method"
+    "ko": "천체의 메소드",
+    "ja": "天体のメソッド",
+    "en": "Celestial Method"
   },
   "gsc_productNum": 4828,
   "price": 5093,

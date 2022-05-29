@@ -1,14 +1,14 @@
 {
   "num": "1010a",
   "name": {
-    "KO": "미키 마우스 1928 Ver.(흑백)",
-    "JA": "ねんどろいど ミッキーマウス 1928 Ver.（シロクロ） (ねんどろいど みっきーまうす 1928 Ver.（しろくろ）)",
-    "EN": "Nendoroid Mickey Mouse: 1928 Ver. (Black \u0026 White)"
+    "ko": "미키 마우스 1928 Ver.(흑백)",
+    "ja": "ねんどろいど ミッキーマウス 1928 Ver.（シロクロ） (ねんどろいど みっきーまうす 1928 Ver.（しろくろ）)",
+    "en": "Nendoroid Mickey Mouse: 1928 Ver. (Black \u0026 White)"
   },
   "series": {
-    "KO": "증기선 윌리",
-    "JA": "蒸気船ウィリー",
-    "EN": "Steamboat Willie"
+    "ko": "증기선 윌리",
+    "ja": "蒸気船ウィリー",
+    "en": "Steamboat Willie"
   },
   "gsc_productNum": 7653,
   "price": 5297,

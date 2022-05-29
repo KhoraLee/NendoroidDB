@@ -1,14 +1,14 @@
 {
   "num": "1508",
   "name": {
-    "KO": "무겐",
-    "JA": "ねんどろいど ムゲン (ねんどろいど むげん)",
-    "EN": "Nendoroid Wuxian"
+    "ko": "무겐",
+    "ja": "ねんどろいど ムゲン (ねんどろいど むげん)",
+    "en": "Nendoroid Wuxian"
   },
   "series": {
-    "KO": "나소흑전기",
-    "JA": "羅小黒戦記",
-    "EN": "The Legend of Hei"
+    "ko": "나소흑전기",
+    "ja": "羅小黒戦記",
+    "en": "The Legend of Hei"
   },
   "gsc_productNum": 10406,
   "price": 5000,

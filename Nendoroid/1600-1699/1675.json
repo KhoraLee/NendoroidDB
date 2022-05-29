@@ -1,14 +1,14 @@
 {
   "num": "1675",
   "name": {
-    "KO": "태스크마스터 블랙위도우 Ver.",
-    "JA": "ねんどろいど タスクマスター Black Widow Ver. (ねんどろいど たすくますたー ぶらっく うぃどう Ver.)",
-    "EN": "Nendoroid Taskmaster: Black Widow Ver."
+    "ko": "태스크마스터 블랙위도우 Ver.",
+    "ja": "ねんどろいど タスクマスター Black Widow Ver. (ねんどろいど たすくますたー ぶらっく うぃどう Ver.)",
+    "en": "Nendoroid Taskmaster: Black Widow Ver."
   },
   "series": {
-    "KO": "블랙위도우",
-    "JA": "ブラックウィドウ",
-    "EN": "Black Widow"
+    "ko": "블랙위도우",
+    "ja": "ブラックウィドウ",
+    "en": "Black Widow"
   },
   "gsc_productNum": 11457,
   "price": 6500,

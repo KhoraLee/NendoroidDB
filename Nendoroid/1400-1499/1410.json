@@ -1,14 +1,14 @@
 {
   "num": "1410",
   "name": {
-    "KO": "범블비",
-    "JA": "ねんどろいど バンブルビー (ねんどろいど ばんぶるびー)",
-    "EN": "Nendoroid Bumblebee"
+    "ko": "범블비",
+    "ja": "ねんどろいど バンブルビー (ねんどろいど ばんぶるびー)",
+    "en": "Nendoroid Bumblebee"
   },
   "series": {
-    "KO": "트랜스포머",
-    "JA": "バンブルビー",
-    "EN": "Bumblebee"
+    "ko": "트랜스포머",
+    "ja": "バンブルビー",
+    "en": "Bumblebee"
   },
   "gsc_productNum": 9775,
   "price": 5500,

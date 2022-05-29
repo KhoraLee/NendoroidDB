@@ -1,14 +1,14 @@
 {
   "num": "063",
   "name": {
-    "KO": "쿠레하",
-    "JA": "ねんどろいど クレハ (くれは ねんどろいど)",
-    "EN": "Nendoroid Kureha (くれは ねんどろいど)"
+    "ko": "쿠레하",
+    "ja": "ねんどろいど クレハ (くれは ねんどろいど)",
+    "en": "Nendoroid Kureha (くれは ねんどろいど)"
   },
   "series": {
-    "KO": "샤이닝 윈드",
-    "JA": "シャイニング・ウィンド",
-    "EN": "Shining Wind"
+    "ko": "샤이닝 윈드",
+    "ja": "シャイニング・ウィンド",
+    "en": "Shining Wind"
   },
   "gsc_productNum": 2315,
   "price": 3667,

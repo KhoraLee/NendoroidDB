@@ -1,14 +1,14 @@
 {
   "num": "1070",
   "name": {
-    "KO": "버서커/폴 버니언",
-    "JA": "ねんどろいど バーサーカー/ポール・バニヤン (ねんどろいど ばーさーかー/ぽーる・ばにやん)",
-    "EN": "Nendoroid Berserker/Paul Bunyan"
+    "ko": "버서커/폴 버니언",
+    "ja": "ねんどろいど バーサーカー/ポール・バニヤン (ねんどろいど ばーさーかー/ぽーる・ばにやん)",
+    "en": "Nendoroid Berserker/Paul Bunyan"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 7983,
   "price": 5093,

@@ -1,14 +1,14 @@
 {
   "num": "1404",
   "name": {
-    "KO": "오펜",
-    "JA": "ねんどろいど オーフェン (ねんどろいど おーふぇん)",
-    "EN": "Nendoroid Orphen"
+    "ko": "오펜",
+    "ja": "ねんどろいど オーフェン (ねんどろいど おーふぇん)",
+    "en": "Nendoroid Orphen"
   },
   "series": {
-    "KO": "마술사 오펜",
-    "JA": "魔術士オーフェンはぐれ旅",
-    "EN": "Sorcerous Stabber Orphen"
+    "ko": "마술사 오펜",
+    "ja": "魔術士オーフェンはぐれ旅",
+    "en": "Sorcerous Stabber Orphen"
   },
   "gsc_productNum": 9735,
   "price": 5200,

@@ -1,14 +1,14 @@
 {
   "num": "710",
   "name": {
-    "KO": "캐스터",
-    "JA": "ねんどろいど キャスター (ねんどろいど きゃすたー)",
-    "EN": "Nendoroid Caster"
+    "ko": "캐스터",
+    "ja": "ねんどろいど キャスター (ねんどろいど きゃすたー)",
+    "en": "Nendoroid Caster"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/EXTRA",
-    "EN": "Fate/EXTRA"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/EXTRA",
+    "en": "Fate/EXTRA"
   },
   "gsc_productNum": 6123,
   "price": 5297,

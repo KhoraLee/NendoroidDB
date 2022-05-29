@@ -1,14 +1,14 @@
 {
   "num": "1005",
   "name": {
-    "KO": "시로타니 타다오미",
-    "JA": "ねんどろいど 城谷忠臣 (ねんどろいど しろたにただおみ)",
-    "EN": "Nendoroid Shirotani Tadaomi"
+    "ko": "시로타니 타다오미",
+    "ja": "ねんどろいど 城谷忠臣 (ねんどろいど しろたにただおみ)",
+    "en": "Nendoroid Shirotani Tadaomi"
   },
   "series": {
-    "KO": "텐카운트",
-    "JA": "テンカウント",
-    "EN": "TEN COUNT"
+    "ko": "텐카운트",
+    "ja": "テンカウント",
+    "en": "TEN COUNT"
   },
   "gsc_productNum": 7746,
   "price": 4888,

@@ -1,14 +1,14 @@
 {
   "num": "055b",
   "name": {
-    "KO": "타카라 미유키 통상 Ver.",
-    "JA": "ねんどろいど　高良みゆき 通常Ver. (たからみゆき つうじょうばーじょん ねんどろいど)",
-    "EN": "Nendoroid Miyuki Takara Normal Ver. (たからみゆき つうじょうばーじょん ねんどろいど)"
+    "ko": "타카라 미유키 통상 Ver.",
+    "ja": "ねんどろいど　高良みゆき 通常Ver. (たからみゆき つうじょうばーじょん ねんどろいど)",
+    "en": "Nendoroid Miyuki Takara Normal Ver. (たからみゆき つうじょうばーじょん ねんどろいど)"
   },
   "series": {
-    "KO": "럭키스타",
-    "JA": "TVアニメ らき☆すた",
-    "EN": "Lucky Star"
+    "ko": "럭키스타",
+    "ja": "TVアニメ らき☆すた",
+    "en": "Lucky Star"
   },
   "gsc_productNum": 2207,
   "price": 3667,

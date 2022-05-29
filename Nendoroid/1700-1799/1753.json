@@ -1,14 +1,14 @@
 {
   "num": "1753",
   "name": {
-    "KO": "유우키",
-    "JA": "ねんどろいど ユウキ (ねんどろいど ゆうき)",
-    "EN": "Nendoroid Yuuki"
+    "ko": "유우키",
+    "ja": "ねんどろいど ユウキ (ねんどろいど ゆうき)",
+    "en": "Nendoroid Yuuki"
   },
   "series": {
-    "KO": "소드 아트 온라인",
-    "JA": "ソードアート・オンライン",
-    "EN": "Sword Art Online"
+    "ko": "소드 아트 온라인",
+    "ja": "ソードアート・オンライン",
+    "en": "Sword Art Online"
   },
   "gsc_productNum": 11995,
   "price": 5600,

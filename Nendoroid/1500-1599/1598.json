@@ -1,14 +1,14 @@
 {
   "num": "1598",
   "name": {
-    "KO": "라플란드",
-    "JA": "ねんどろいど ラップランド (ねんどろいど らっぷらんど)",
-    "EN": "Nendoroid Lappland"
+    "ko": "라플란드",
+    "ja": "ねんどろいど ラップランド (ねんどろいど らっぷらんど)",
+    "en": "Nendoroid Lappland"
   },
   "series": {
-    "KO": "명일방주",
-    "JA": "アークナイツ",
-    "EN": "Arknights"
+    "ko": "명일방주",
+    "ja": "アークナイツ",
+    "en": "Arknights"
   },
   "gsc_productNum": 11031,
   "price": 6300,

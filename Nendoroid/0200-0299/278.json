@@ -1,14 +1,14 @@
 {
   "num": "278",
   "name": {
-    "KO": "카자나리 츠바사",
-    "JA": "ねんどろいど 風鳴翼 (ねんどろいど かざなりつばさ)",
-    "EN": "Nendoroid Tsubasa Kazanari (ねんどろいど かざなりつばさ)"
+    "ko": "카자나리 츠바사",
+    "ja": "ねんどろいど 風鳴翼 (ねんどろいど かざなりつばさ)",
+    "en": "Nendoroid Tsubasa Kazanari (ねんどろいど かざなりつばさ)"
   },
   "series": {
-    "KO": "전희절창 심포기어 시리즈",
-    "JA": "戦姫絶唱シンフォギア",
-    "EN": "Senki Zesshou Symphogear"
+    "ko": "전희절창 심포기어 시리즈",
+    "ja": "戦姫絶唱シンフォギア",
+    "en": "Senki Zesshou Symphogear"
   },
   "gsc_productNum": 3694,
   "price": 3981,

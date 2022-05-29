@@ -1,14 +1,14 @@
 {
   "num": "569",
   "name": {
-    "KO": "카사네 테토",
-    "JA": "ねんどろいど 重音テト (ねんどろいど かさねてと)",
-    "EN": "Nendoroid Kasane Teto (ねんどろいど かさねてと)"
+    "ko": "카사네 테토",
+    "ja": "ねんどろいど 重音テト (ねんどろいど かさねてと)",
+    "en": "Nendoroid Kasane Teto (ねんどろいど かさねてと)"
   },
   "series": {
-    "KO": "VIPPALOID",
-    "JA": "UTAU",
-    "EN": "UTAU"
+    "ko": "VIPPALOID",
+    "ja": "UTAU",
+    "en": "UTAU"
   },
   "gsc_productNum": 5261,
   "price": 3972,

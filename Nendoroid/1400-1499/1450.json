@@ -1,14 +1,14 @@
 {
   "num": "1450",
   "name": {
-    "KO": "토마토 헤드",
-    "JA": "ねんどろいど トマトヘッド (ねんどろいど とまとへっど)",
-    "EN": "Nendoroid Tomato Head"
+    "ko": "토마토 헤드",
+    "ja": "ねんどろいど トマトヘッド (ねんどろいど とまとへっど)",
+    "en": "Nendoroid Tomato Head"
   },
   "series": {
-    "KO": "포트나이트",
-    "JA": "フォートナイト",
-    "EN": "Fortnite"
+    "ko": "포트나이트",
+    "ja": "フォートナイト",
+    "en": "Fortnite"
   },
   "gsc_productNum": 10031,
   "price": 6200,

@@ -1,14 +1,14 @@
 {
   "num": "839",
   "name": {
-    "KO": "한조",
-    "JA": "ねんどろいど ハンゾー クラシックスキン・エディション (ねんどろいど はんぞー くらしっくすきん・えでぃしょん)",
-    "EN": "Nendoroid Hanzo: Classic Skin Edition"
+    "ko": "한조",
+    "ja": "ねんどろいど ハンゾー クラシックスキン・エディション (ねんどろいど はんぞー くらしっくすきん・えでぃしょん)",
+    "en": "Nendoroid Hanzo: Classic Skin Edition"
   },
   "series": {
-    "KO": "오버워치",
-    "JA": "オーバーウォッチ",
-    "EN": "Overwatch"
+    "ko": "오버워치",
+    "ja": "オーバーウォッチ",
+    "en": "Overwatch"
   },
   "gsc_productNum": 6781,
   "price": 4991,

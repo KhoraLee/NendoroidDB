@@ -1,14 +1,14 @@
 {
   "num": "1751",
   "name": {
-    "KO": "시에스타",
-    "JA": "ねんどろいど シエスタ (ねんどろいど しえすた)",
-    "EN": "Nendoroid Siesta"
+    "ko": "시에스타",
+    "ja": "ねんどろいど シエスタ (ねんどろいど しえすた)",
+    "en": "Nendoroid Siesta"
   },
   "series": {
-    "KO": "탐정은 이미 죽었다",
-    "JA": "探偵はもう、死んでいる。",
-    "EN": "The Detective is Already Dead"
+    "ko": "탐정은 이미 죽었다",
+    "ja": "探偵はもう、死んでいる。",
+    "en": "The Detective is Already Dead"
   },
   "gsc_productNum": 12016,
   "price": 5700,

@@ -1,14 +1,14 @@
 {
   "num": "085",
   "name": {
-    "KO": "카가미 쿠로",
-    "JA": "ねんどろいど 鏡黒 (かがみくろ ねんどろいど)",
-    "EN": "Nendoroid Kuro Kagami (かがみくろ ねんどろいど)"
+    "ko": "카가미 쿠로",
+    "ja": "ねんどろいど 鏡黒 (かがみくろ ねんどろいど)",
+    "en": "Nendoroid Kuro Kagami (かがみくろ ねんどろいど)"
   },
   "series": {
-    "KO": "아이들의 시간",
-    "JA": "こどものじかん",
-    "EN": "Kodomo no Jikan"
+    "ko": "아이들의 시간",
+    "ja": "こどものじかん",
+    "en": "Kodomo no Jikan"
   },
   "gsc_productNum": 2602,
   "price": 3667,

@@ -1,14 +1,14 @@
 {
   "num": "1247",
   "name": {
-    "KO": "타노스 엔드게임 Ver.",
-    "JA": "ねんどろいど サノス エンドゲームVer. (ねんどろいど さのす えんどげーむVer.)",
-    "EN": "Nendoroid Thanos: Endgame Ver."
+    "ko": "타노스 엔드게임 Ver.",
+    "ja": "ねんどろいど サノス エンドゲームVer. (ねんどろいど さのす えんどげーむVer.)",
+    "en": "Nendoroid Thanos: Endgame Ver."
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "アベンジャーズ／エンドゲーム",
-    "EN": "Avengers: Endgame"
+    "ko": "어벤져스",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "en": "Avengers: Endgame"
   },
   "gsc_productNum": 9048,
   "price": 8000,

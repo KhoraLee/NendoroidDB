@@ -1,14 +1,14 @@
 {
   "num": "456",
   "name": {
-    "KO": "악마 호무라",
-    "JA": "ねんどろいど 悪魔ほむら (ねんどろいど あくまほむら)",
-    "EN": "Nendoroid Devil Homura (ねんどろいど あくまほむら)"
+    "ko": "악마 호무라",
+    "ja": "ねんどろいど 悪魔ほむら (ねんどろいど あくまほむら)",
+    "en": "Nendoroid Devil Homura (ねんどろいど あくまほむら)"
   },
   "series": {
-    "KO": "마법소녀 마도카 마기카",
-    "JA": "劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語",
-    "EN": "Puella Magi Madoka Magica The Movie -Rebellion-"
+    "ko": "마법소녀 마도카 마기카",
+    "ja": "劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語",
+    "en": "Puella Magi Madoka Magica The Movie -Rebellion-"
   },
   "gsc_productNum": 4624,
   "price": 4584,

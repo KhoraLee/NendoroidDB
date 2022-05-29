@@ -1,14 +1,14 @@
 {
   "num": "216",
   "name": {
-    "KO": "유즈리자키 네로",
-    "JA": "ねんどろいど 譲崎ネロ (ねんどろいど ゆずりざきねろ)",
-    "EN": "Nendoroid Nero Yuzurizaki (ねんどろいど ゆずりざきねろ)"
+    "ko": "유즈리자키 네로",
+    "ja": "ねんどろいど 譲崎ネロ (ねんどろいど ゆずりざきねろ)",
+    "en": "Nendoroid Nero Yuzurizaki (ねんどろいど ゆずりざきねろ)"
   },
   "series": {
-    "KO": "탐정 오페라 밀키 홈즈",
-    "JA": "探偵オペラ ミルキィホームズ",
-    "EN": "Tantei Opera Milky Holmes"
+    "ko": "탐정 오페라 밀키 홈즈",
+    "ja": "探偵オペラ ミルキィホームズ",
+    "en": "Tantei Opera Milky Holmes"
   },
   "gsc_productNum": 3411,
   "price": 3667,

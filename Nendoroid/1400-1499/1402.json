@@ -1,14 +1,14 @@
 {
   "num": "1402",
   "name": {
-    "KO": "코너",
-    "JA": "ねんどろいど コナー (ねんどろいど こなー)",
-    "EN": "Nendoroid Connor"
+    "ko": "코너",
+    "ja": "ねんどろいど コナー (ねんどろいど こなー)",
+    "en": "Nendoroid Connor"
   },
   "series": {
-    "KO": "디트로이트 비컴 휴먼",
-    "JA": "Detroit: Become Human",
-    "EN": "Detroit: Become Human"
+    "ko": "디트로이트 비컴 휴먼",
+    "ja": "Detroit: Become Human",
+    "en": "Detroit: Become Human"
   },
   "gsc_productNum": 9689,
   "price": 5000,

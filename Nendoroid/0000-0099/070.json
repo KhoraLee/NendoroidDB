@@ -1,14 +1,14 @@
 {
   "num": "070",
   "name": {
-    "KO": "키구루미on쨩",
-    "JA": "ねんどろいど 着ぐるみonちゃん (きぐるみonちゃん ねんどろいど)",
-    "EN": "Nendoroid on-chan (きぐるみonちゃん ねんどろいど)"
+    "ko": "키구루미on쨩",
+    "ja": "ねんどろいど 着ぐるみonちゃん (きぐるみonちゃん ねんどろいど)",
+    "en": "Nendoroid on-chan (きぐるみonちゃん ねんどろいど)"
   },
   "series": {
-    "KO": "HTB마스코트 캐릭터",
-    "JA": "HTBマスコットキャラクター",
-    "EN": "HTB Mascot Character"
+    "ko": "HTB마스코트 캐릭터",
+    "ja": "HTBマスコットキャラクター",
+    "en": "HTB Mascot Character"
   },
   "gsc_productNum": 2408,
   "price": 3143,

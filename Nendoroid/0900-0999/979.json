@@ -1,14 +1,14 @@
 {
   "num": "979",
   "name": {
-    "KO": "백혈구",
-    "JA": "ねんどろいど 白血球（好中球） (ねんどろいど はっけっきゅう（こうちゅうきゅう）)",
-    "EN": "Nendoroid White blood cell（Neutrophil）"
+    "ko": "백혈구",
+    "ja": "ねんどろいど 白血球（好中球） (ねんどろいど はっけっきゅう（こうちゅうきゅう）)",
+    "en": "Nendoroid White blood cell（Neutrophil）"
   },
   "series": {
-    "KO": "일하는 세포",
-    "JA": "はたらく細胞",
-    "EN": "Cells at Work!"
+    "ko": "일하는 세포",
+    "ja": "はたらく細胞",
+    "en": "Cells at Work!"
   },
   "gsc_productNum": 7504,
   "price": 4584,

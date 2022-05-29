@@ -1,12 +1,12 @@
 {
   "num": "051",
   "name": {
-    "KO": "유이 DVD Ver.",
-    "JA": "ねんどろいど ゆい DVDVer. (ねんどろいど ゆい DVDVer.)"
+    "ko": "유이 DVD Ver.",
+    "ja": "ねんどろいど ゆい DVDVer. (ねんどろいど ゆい DVDVer.)"
   },
   "series": {
-    "KO": "코하루비요리",
-    "JA": "こはるびより"
+    "ko": "코하루비요리",
+    "ja": "こはるびより"
   },
   "gsc_productNum": 3369,
   "price": 3667,

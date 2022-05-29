@@ -1,14 +1,14 @@
 {
   "num": "719",
   "name": {
-    "KO": "보쿠토 코타로",
-    "JA": "ねんどろいど 木兎光太郎 (ねんどろいど ぼくとこうたろう)",
-    "EN": "Nendoroid Kotaro Bokuto"
+    "ko": "보쿠토 코타로",
+    "ja": "ねんどろいど 木兎光太郎 (ねんどろいど ぼくとこうたろう)",
+    "en": "Nendoroid Kotaro Bokuto"
   },
   "series": {
-    "KO": "하이큐!!",
-    "JA": "ハイキュー!!",
-    "EN": "Haikyu!!"
+    "ko": "하이큐!!",
+    "ja": "ハイキュー!!",
+    "en": "Haikyu!!"
   },
   "gsc_productNum": 6162,
   "price": 4685,

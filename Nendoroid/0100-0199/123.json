@@ -1,14 +1,14 @@
 {
   "num": "123",
   "name": {
-    "KO": "나카토 유키 소실 Ver.",
-    "JA": "ねんどろいど 長門有希 消失Ver. (ねんどろいど ながとゆき しょうしつver.)",
-    "EN": "Nendoroid Yuki Nagato: Disappearance ver. (ねんどろいど ながとゆき しょうしつver.)"
+    "ko": "나카토 유키 소실 Ver.",
+    "ja": "ねんどろいど 長門有希 消失Ver. (ねんどろいど ながとゆき しょうしつver.)",
+    "en": "Nendoroid Yuki Nagato: Disappearance ver. (ねんどろいど ながとゆき しょうしつver.)"
   },
   "series": {
-    "KO": "스즈미야 하루히의 소실",
-    "JA": "涼宮ハルヒの消失",
-    "EN": "The Disappearance of Haruhi Suzumiya"
+    "ko": "스즈미야 하루히의 소실",
+    "ja": "涼宮ハルヒの消失",
+    "en": "The Disappearance of Haruhi Suzumiya"
   },
   "gsc_productNum": 2909,
   "price": 3667,

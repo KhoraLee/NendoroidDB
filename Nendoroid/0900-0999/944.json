@@ -1,14 +1,14 @@
 {
   "num": "944",
   "name": {
-    "KO": "솜브라",
-    "JA": "ねんどろいど ソンブラ クラシックスキン・エディション (ねんどろいど そんぶら くらしっくすきん・えでぃしょん)",
-    "EN": "Nendoroid Sombra: Classic Skin Edition"
+    "ko": "솜브라",
+    "ja": "ねんどろいど ソンブラ クラシックスキン・エディション (ねんどろいど そんぶら くらしっくすきん・えでぃしょん)",
+    "en": "Nendoroid Sombra: Classic Skin Edition"
   },
   "series": {
-    "KO": "오버워치",
-    "JA": "オーバーウォッチ",
-    "EN": "Overwatch"
+    "ko": "오버워치",
+    "ja": "オーバーウォッチ",
+    "en": "Overwatch"
   },
   "gsc_productNum": 7288,
   "price": 4991,

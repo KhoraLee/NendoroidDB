@@ -1,14 +1,14 @@
 {
   "num": "1531-DX",
   "name": {
-    "KO": "V 여성 DX Ver.",
-    "JA": "ねんどろいど V 女性Ver. DX (ねんどろいど V じょせいVer. DX)",
-    "EN": "Nendoroid V: Female Ver. DX"
+    "ko": "V 여성 DX Ver.",
+    "ja": "ねんどろいど V 女性Ver. DX (ねんどろいど V じょせいVer. DX)",
+    "en": "Nendoroid V: Female Ver. DX"
   },
   "series": {
-    "KO": "사이버펑크 2077",
-    "JA": "サイバーパンク2077",
-    "EN": "Cyberpunk 2077"
+    "ko": "사이버펑크 2077",
+    "ja": "サイバーパンク2077",
+    "en": "Cyberpunk 2077"
   },
   "gsc_productNum": 10510,
   "price": 8000,

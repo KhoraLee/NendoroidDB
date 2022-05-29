@@ -1,14 +1,14 @@
 {
   "num": "735",
   "name": {
-    "KO": "카자미 유카",
-    "JA": "ねんどろいど 風見幽香 (ねんどろいど かざみゆうか)",
-    "EN": "Nendoroid Yuuka Kazami"
+    "ko": "카자미 유카",
+    "ja": "ねんどろいど 風見幽香 (ねんどろいど かざみゆうか)",
+    "en": "Nendoroid Yuuka Kazami"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 6229,
   "price": 4888,

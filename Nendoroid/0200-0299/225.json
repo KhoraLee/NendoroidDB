@@ -1,14 +1,14 @@
 {
   "num": "225",
   "name": {
-    "KO": "세이버 넨도로이드 컴플리트 파일 에디션",
-    "JA": "ねんどろいど セイバー ねんどろいどコンプリートファイル・エディション (ねんどろいど せいばー ねんどろいどこんぷりーとふぁいる・えでぃしょん)",
-    "EN": "Nendoroid Saber : Nendoroid Complete File Edition (ねんどろいど せいばー ねんどろいどこんぷりーとふぁいる・えでぃしょん)"
+    "ko": "세이버 넨도로이드 컴플리트 파일 에디션",
+    "ja": "ねんどろいど セイバー ねんどろいどコンプリートファイル・エディション (ねんどろいど せいばー ねんどろいどこんぷりーとふぁいる・えでぃしょん)",
+    "en": "Nendoroid Saber : Nendoroid Complete File Edition (ねんどろいど せいばー ねんどろいどこんぷりーとふぁいる・えでぃしょん)"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/stay night",
-    "EN": "Fate/stay night"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/stay night",
+    "en": "Fate/stay night"
   },
   "gsc_productNum": 3494,
   "price": 5238,

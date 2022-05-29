@@ -1,14 +1,14 @@
 {
   "num": "242",
   "name": {
-    "KO": "시노노메 나노",
-    "JA": "ねんどろいど 東雲なの (ねんどろいど しののめなの)",
-    "EN": "Nendoroid Nano Shinonome (ねんどろいど しののめなの)"
+    "ko": "시노노메 나노",
+    "ja": "ねんどろいど 東雲なの (ねんどろいど しののめなの)",
+    "en": "Nendoroid Nano Shinonome (ねんどろいど しののめなの)"
   },
   "series": {
-    "KO": "일상",
-    "JA": "日常",
-    "EN": "Nichijou"
+    "ko": "일상",
+    "ja": "日常",
+    "en": "Nichijou"
   },
   "gsc_productNum": 3520,
   "price": 3667,

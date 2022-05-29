@@ -1,14 +1,14 @@
 {
   "num": "1328",
   "name": {
-    "KO": "레토르트",
-    "JA": "ねんどろいど レトルト (ねんどろいど れとると)",
-    "EN": "Nendoroid Retort"
+    "ko": "레토르트",
+    "ja": "ねんどろいど レトルト (ねんどろいど れとると)",
+    "en": "Nendoroid Retort"
   },
   "series": {
-    "KO": "게임 실황 플레이어",
-    "JA": "レトルト",
-    "EN": "Retort"
+    "ko": "게임 실황 플레이어",
+    "ja": "レトルト",
+    "en": "Retort"
   },
   "gsc_productNum": 9438,
   "price": 5300,

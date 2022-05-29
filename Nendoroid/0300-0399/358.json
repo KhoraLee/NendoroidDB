@@ -1,14 +1,14 @@
 {
   "num": "358",
   "name": {
-    "KO": "세이버(Fate/EXTRA)/주인공",
-    "JA": "ねんどろいど セイバーエクストラ (ねんどろいど せいばーえくすとら)",
-    "EN": "Nendoroid Saber Extra"
+    "ko": "세이버(Fate/EXTRA)/주인공",
+    "ja": "ねんどろいど セイバーエクストラ (ねんどろいど せいばーえくすとら)",
+    "en": "Nendoroid Saber Extra"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/EXTRA",
-    "EN": "Fate/EXTRA"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/EXTRA",
+    "en": "Fate/EXTRA"
   },
   "gsc_productNum": 4006,
   "price": 4278,

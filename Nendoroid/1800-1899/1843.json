@@ -1,14 +1,14 @@
 {
   "num": "1843",
   "name": {
-    "KO": "쿄우카",
-    "JA": "ねんどろいど キョウカ (ねんどろいど きょうか)",
-    "EN": "Nendoroid Kyoka"
+    "ko": "쿄우카",
+    "ja": "ねんどろいど キョウカ (ねんどろいど きょうか)",
+    "en": "Nendoroid Kyoka"
   },
   "series": {
-    "KO": "프린세스 커넥트! Re:Dive",
-    "JA": "プリンセスコネクト！Re:Dive",
-    "EN": "Princess Connect! Re: Dive"
+    "ko": "프린세스 커넥트! Re:Dive",
+    "ja": "プリンセスコネクト！Re:Dive",
+    "en": "Princess Connect! Re: Dive"
   },
   "gsc_productNum": 12434,
   "price": 6500,

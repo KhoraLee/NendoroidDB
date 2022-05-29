@@ -1,14 +1,14 @@
 {
   "num": "240",
   "name": {
-    "KO": "유즈리하 이노리",
-    "JA": "ねんどろいど 楪いのり (ねんどろいど ゆずりはいのり)",
-    "EN": "Nendoroid Inori Yuzuriha (ねんどろいど ゆずりはいのり)"
+    "ko": "유즈리하 이노리",
+    "ja": "ねんどろいど 楪いのり (ねんどろいど ゆずりはいのり)",
+    "en": "Nendoroid Inori Yuzuriha (ねんどろいど ゆずりはいのり)"
   },
   "series": {
-    "KO": "길티크라운",
-    "JA": "ギルティクラウン",
-    "EN": "Guilty Crown"
+    "ko": "길티크라운",
+    "ja": "ギルティクラウン",
+    "en": "Guilty Crown"
   },
   "gsc_productNum": 3522,
   "price": 3981,

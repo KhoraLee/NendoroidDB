@@ -1,14 +1,14 @@
 {
   "num": "1278",
   "name": {
-    "KO": "사쿠라 히비키",
-    "JA": "ねんどろいど 紗倉ひびき (ねんどろいど さくらひびき)",
-    "EN": "Nendoroid Hibiki Sakura"
+    "ko": "사쿠라 히비키",
+    "ja": "ねんどろいど 紗倉ひびき (ねんどろいど さくらひびき)",
+    "en": "Nendoroid Hibiki Sakura"
   },
   "series": {
-    "KO": "덤벨 몇 킬로까지 들 수 있어?",
-    "JA": "ダンベル何キロ持てる？",
-    "EN": "How Heavy Are the Dumbbells You Lift?"
+    "ko": "덤벨 몇 킬로까지 들 수 있어?",
+    "ja": "ダンベル何キロ持てる？",
+    "en": "How Heavy Are the Dumbbells You Lift?"
   },
   "gsc_productNum": 9206,
   "price": 5800,

@@ -1,14 +1,14 @@
 {
   "num": "436",
   "name": {
-    "KO": "슈퍼 소니코 워킹 Ver.",
-    "JA": "ねんどろいど すーぱーそに子 お仕事セット (ねんどろいど すーぱーそにこ おしごとせっと)",
-    "EN": "Nendoroid Super Sonico: Working Set (ねんどろいど すーぱーそにこ おしごとせっと)"
+    "ko": "슈퍼 소니코 워킹 Ver.",
+    "ja": "ねんどろいど すーぱーそに子 お仕事セット (ねんどろいど すーぱーそにこ おしごとせっと)",
+    "en": "Nendoroid Super Sonico: Working Set (ねんどろいど すーぱーそにこ おしごとせっと)"
   },
   "series": {
-    "KO": "슈퍼 소니코",
-    "JA": "そにアニ",
-    "EN": "SoniAni"
+    "ko": "슈퍼 소니코",
+    "ja": "そにアニ",
+    "en": "SoniAni"
   },
   "gsc_productNum": 4486,
   "price": 3769,

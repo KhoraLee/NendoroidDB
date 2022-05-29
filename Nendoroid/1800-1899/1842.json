@@ -1,14 +1,14 @@
 {
   "num": "1842",
   "name": {
-    "KO": "오로라",
-    "JA": "ねんどろいど オーロラ姫 (ねんどろいど おーろらひめ)",
-    "EN": "Nendoroid Aurora"
+    "ko": "오로라",
+    "ja": "ねんどろいど オーロラ姫 (ねんどろいど おーろらひめ)",
+    "en": "Nendoroid Aurora"
   },
   "series": {
-    "KO": "잠자는 숲 속의 공주",
-    "JA": "眠れる森の美女",
-    "EN": "Sleeping Beauty"
+    "ko": "잠자는 숲 속의 공주",
+    "ja": "眠れる森の美女",
+    "en": "Sleeping Beauty"
   },
   "gsc_productNum": 12430,
   "price": 6400,

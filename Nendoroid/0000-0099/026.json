@@ -1,14 +1,14 @@
 {
   "num": "026",
   "name": {
-    "KO": "레 미이",
-    "JA": "ねんどろいど レ・ミィ (れ・みぃ ねんどろいど)",
-    "EN": "Nendoroid Rei Mii (れ・みぃ ねんどろいど)"
+    "ko": "레 미이",
+    "ja": "ねんどろいど レ・ミィ (れ・みぃ ねんどろいど)",
+    "en": "Nendoroid Rei Mii (れ・みぃ ねんどろいど)"
   },
   "series": {
-    "KO": "조이드 제네시스",
-    "JA": "ゾイドジェネシス",
-    "EN": "Zoids Genesis"
+    "ko": "조이드 제네시스",
+    "ja": "ゾイドジェネシス",
+    "en": "Zoids Genesis"
   },
   "gsc_productNum": 402,
   "price": 4190,

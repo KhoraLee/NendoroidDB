@@ -1,14 +1,14 @@
 {
   "num": "362",
   "name": {
-    "KO": "샤메이마루 아야",
-    "JA": "ねんどろいど 射命丸文 (ねんどろいど しゃめいまるあや)",
-    "EN": "Nendoroid Aya Shameimaru (ねんどろいど しゃめいまるあや)"
+    "ko": "샤메이마루 아야",
+    "ja": "ねんどろいど 射命丸文 (ねんどろいど しゃめいまるあや)",
+    "en": "Nendoroid Aya Shameimaru (ねんどろいど しゃめいまるあや)"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 4028,
   "price": 3667,

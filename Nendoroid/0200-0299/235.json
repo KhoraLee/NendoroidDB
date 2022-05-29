@@ -1,14 +1,14 @@
 {
   "num": "235",
   "name": {
-    "KO": "신구지 사쿠라\u0026광무 세트",
-    "JA": "ねんどろいど 真宮寺さくら\u0026光武セット (ねんどろいど しんぐうじさくら＆こうぶせっと)",
-    "EN": "Nendoroid Sakura Shinguji \u0026 Koubu Set (ねんどろいど しんぐうじさくら＆こうぶせっと)"
+    "ko": "신구지 사쿠라\u0026광무 세트",
+    "ja": "ねんどろいど 真宮寺さくら\u0026光武セット (ねんどろいど しんぐうじさくら＆こうぶせっと)",
+    "en": "Nendoroid Sakura Shinguji \u0026 Koubu Set (ねんどろいど しんぐうじさくら＆こうぶせっと)"
   },
   "series": {
-    "KO": "사쿠라 대전",
-    "JA": "サクラ大戦",
-    "EN": "Sakura Wars"
+    "ko": "사쿠라 대전",
+    "ja": "サクラ大戦",
+    "en": "Sakura Wars"
   },
   "gsc_productNum": 3487,
   "price": 4714,

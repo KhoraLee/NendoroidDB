@@ -1,14 +1,14 @@
 {
   "num": "100",
   "name": {
-    "KO": "미키 마우스",
-    "JA": "ねんどろいど ミッキーマウス (ねんどろいど　みっきーまうす)",
-    "EN": "Nendoroid Mickey Mouse (ねんどろいど　みっきーまうす)"
+    "ko": "미키 마우스",
+    "ja": "ねんどろいど ミッキーマウス (ねんどろいど　みっきーまうす)",
+    "en": "Nendoroid Mickey Mouse (ねんどろいど　みっきーまうす)"
   },
   "series": {
-    "KO": "디즈니",
-    "JA": "MICKEY　MOUSE",
-    "EN": "MICKEY MOUSE"
+    "ko": "디즈니",
+    "ja": "MICKEY　MOUSE",
+    "en": "MICKEY MOUSE"
   },
   "gsc_productNum": 2880,
   "price": 5907,

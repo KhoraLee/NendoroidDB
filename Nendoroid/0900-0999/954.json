@@ -1,14 +1,14 @@
 {
   "num": "954",
   "name": {
-    "KO": "한 솔로",
-    "JA": "ねんどろいど ハン・ソロ (ねんどろいど はん・そろ)",
-    "EN": "Nendoroid Han Solo"
+    "ko": "한 솔로",
+    "ja": "ねんどろいど ハン・ソロ (ねんどろいど はん・そろ)",
+    "en": "Nendoroid Han Solo"
   },
   "series": {
-    "KO": "스타워즈",
-    "JA": "スター・ウォーズ エピソード４／新たなる希望",
-    "EN": "Star Wars Episode 4: A New Hope"
+    "ko": "스타워즈",
+    "ja": "スター・ウォーズ エピソード４／新たなる希望",
+    "en": "Star Wars Episode 4: A New Hope"
   },
   "gsc_productNum": 7363,
   "price": 4888,

@@ -1,14 +1,14 @@
 {
   "num": "860",
   "name": {
-    "KO": "제로",
-    "JA": "ねんどろいど ゼロ",
-    "EN": "Nendoroid Zero"
+    "ko": "제로",
+    "ja": "ねんどろいど ゼロ",
+    "en": "Nendoroid Zero"
   },
   "series": {
-    "KO": "록맨 시리즈",
-    "JA": "ロックマンX シリーズ",
-    "EN": "Mega Man X Series"
+    "ko": "록맨 시리즈",
+    "ja": "ロックマンX シリーズ",
+    "en": "Mega Man X Series"
   },
   "gsc_productNum": 6928,
   "price": 4888,

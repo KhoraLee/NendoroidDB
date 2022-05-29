@@ -1,14 +1,14 @@
 {
   "num": "885",
   "name": {
-    "KO": "적의 세이버",
-    "JA": "ねんどろいど “赤”のセイバー (ねんどろいど “あか”のせいばー)",
-    "EN": "Nendoroid Saber of \"Red\""
+    "ko": "적의 세이버",
+    "ja": "ねんどろいど “赤”のセイバー (ねんどろいど “あか”のせいばー)",
+    "en": "Nendoroid Saber of \"Red\""
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Apocrypha",
-    "EN": "Fate/Apocrypha"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Apocrypha",
+    "en": "Fate/Apocrypha"
   },
   "gsc_productNum": 7052,
   "price": 5602,

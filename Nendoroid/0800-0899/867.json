@@ -1,14 +1,14 @@
 {
   "num": "867",
   "name": {
-    "KO": "아부쿠마 改二",
-    "JA": "ねんどろいど 阿武隈改二 (ねんどろいど あぶくまかいに)",
-    "EN": "Nendoroid Abukuma Kai-II"
+    "ko": "아부쿠마 改二",
+    "ja": "ねんどろいど 阿武隈改二 (ねんどろいど あぶくまかいに)",
+    "en": "Nendoroid Abukuma Kai-II"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 6957,
   "price": 5907,

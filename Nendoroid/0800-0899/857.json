@@ -1,14 +1,14 @@
 {
   "num": "857",
   "name": {
-    "KO": "따오기",
-    "JA": "ねんどろいど トキ (ねんどろいど とき)",
-    "EN": "Nendoroid Japanese Crested Ibis (Nendoroid Toki)"
+    "ko": "따오기",
+    "ja": "ねんどろいど トキ (ねんどろいど とき)",
+    "en": "Nendoroid Japanese Crested Ibis (Nendoroid Toki)"
   },
   "series": {
-    "KO": "케모노 프렌즈",
-    "JA": "けものフレンズ",
-    "EN": "Kemono Friends"
+    "ko": "케모노 프렌즈",
+    "ja": "けものフレンズ",
+    "en": "Kemono Friends"
   },
   "gsc_productNum": 6914,
   "price": 4584,

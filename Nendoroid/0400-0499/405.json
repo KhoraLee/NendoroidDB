@@ -1,14 +1,14 @@
 {
   "num": "405",
   "name": {
-    "KO": "콩고",
-    "JA": "ねんどろいど 金剛 (ねんどろいど こんごう)",
-    "EN": "Nendoroid Kongo (ねんどろいど こんごう)"
+    "ko": "콩고",
+    "ja": "ねんどろいど 金剛 (ねんどろいど こんごう)",
+    "en": "Nendoroid Kongo (ねんどろいど こんごう)"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 4260,
   "price": 4888,

@@ -1,14 +1,14 @@
 {
   "num": "311",
   "name": {
-    "KO": "미나미 카나",
-    "JA": "ねんどろいど 南 夏奈 (ねんどろいど みなみ かな)",
-    "EN": "Nendoroid Kana Minami (ねんどろいど みなみ かな)"
+    "ko": "미나미 카나",
+    "ja": "ねんどろいど 南 夏奈 (ねんどろいど みなみ かな)",
+    "en": "Nendoroid Kana Minami (ねんどろいど みなみ かな)"
   },
   "series": {
-    "KO": "미나미가",
-    "JA": "みなみけ ただいま",
-    "EN": "Minamike"
+    "ko": "미나미가",
+    "ja": "みなみけ ただいま",
+    "en": "Minamike"
   },
   "gsc_productNum": 3829,
   "price": 3981,

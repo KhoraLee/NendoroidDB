@@ -1,14 +1,14 @@
 {
   "num": "108",
   "name": {
-    "KO": "프란체스카 루키니",
-    "JA": "ねんどろいど フランチェスカ・ルッキーニ (ねんどろいど ふらんちぇすか・るっきーに)",
-    "EN": "Nendoroid Francesca Lucchini (ねんどろいど ふらんちぇすか・るっきーに)"
+    "ko": "프란체스카 루키니",
+    "ja": "ねんどろいど フランチェスカ・ルッキーニ (ねんどろいど ふらんちぇすか・るっきーに)",
+    "en": "Nendoroid Francesca Lucchini (ねんどろいど ふらんちぇすか・るっきーに)"
   },
   "series": {
-    "KO": "스트라이크 위치스",
-    "JA": "ストライクウィッチーズ",
-    "EN": "Strike Witches"
+    "ko": "스트라이크 위치스",
+    "ja": "ストライクウィッチーズ",
+    "en": "Strike Witches"
   },
   "gsc_productNum": 2826,
   "price": 4190,

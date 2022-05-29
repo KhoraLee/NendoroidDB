@@ -1,14 +1,14 @@
 {
   "num": "483",
   "name": {
-    "KO": "요마츠리 아카리",
-    "JA": "ねんどろいど 夜祭アカリ (ねんどろいど よまつりあかり)",
-    "EN": "Nendoroid Akari Yomatsuri (ねんどろいど よまつりあかり)"
+    "ko": "요마츠리 아카리",
+    "ja": "ねんどろいど 夜祭アカリ (ねんどろいど よまつりあかり)",
+    "en": "Nendoroid Akari Yomatsuri (ねんどろいど よまつりあかり)"
   },
   "series": {
-    "KO": "캡틴 어스",
-    "JA": "キャプテン・アース",
-    "EN": "Captain Earth"
+    "ko": "캡틴 어스",
+    "ja": "キャプテン・アース",
+    "en": "Captain Earth"
   },
   "gsc_productNum": 4756,
   "price": 4278,

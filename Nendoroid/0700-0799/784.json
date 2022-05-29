@@ -1,14 +1,14 @@
 {
   "num": "784",
   "name": {
-    "KO": "타냐 데그레챠프",
-    "JA": "ねんどろいど ターニャ・デグレチャフ (ねんどろいど たーにゃ・でぐれちゃふ)",
-    "EN": "Nendoroid Tanya Degurechaff"
+    "ko": "타냐 데그레챠프",
+    "ja": "ねんどろいど ターニャ・デグレチャフ (ねんどろいど たーにゃ・でぐれちゃふ)",
+    "en": "Nendoroid Tanya Degurechaff"
   },
   "series": {
-    "KO": "유녀전기",
-    "JA": "幼女戦記",
-    "EN": "Saga of Tanya the Evil"
+    "ko": "유녀전기",
+    "ja": "幼女戦記",
+    "en": "Saga of Tanya the Evil"
   },
   "gsc_productNum": 6520,
   "price": 4888,

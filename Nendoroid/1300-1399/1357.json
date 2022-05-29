@@ -1,14 +1,14 @@
 {
   "num": "1357",
   "name": {
-    "KO": "쿠도 신이치",
-    "JA": "ねんどろいど 工藤新一 (ねんどろいど くどうしんいち)",
-    "EN": "Nendoroid Shinichi Kudō"
+    "ko": "쿠도 신이치",
+    "ja": "ねんどろいど 工藤新一 (ねんどろいど くどうしんいち)",
+    "en": "Nendoroid Shinichi Kudō"
   },
   "series": {
-    "KO": "명탐정 코난",
-    "JA": "名探偵コナン",
-    "EN": "Detective Conan"
+    "ko": "명탐정 코난",
+    "ja": "名探偵コナン",
+    "en": "Detective Conan"
   },
   "gsc_productNum": 9623,
   "price": 5300,

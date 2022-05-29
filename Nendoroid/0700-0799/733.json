@@ -1,14 +1,14 @@
 {
   "num": "733",
   "name": {
-    "KO": "링크 브레스 오브 더 와일드 Ver.",
-    "JA": "ねんどろいど リンク ブレス オブ ザ ワイルドVer. (ねんどろいど りんく ぶれす おぶ ざ わいるどVer.)",
-    "EN": "Nendoroid Link: Breath of the Wild Ver."
+    "ko": "링크 브레스 오브 더 와일드 Ver.",
+    "ja": "ねんどろいど リンク ブレス オブ ザ ワイルドVer. (ねんどろいど りんく ぶれす おぶ ざ わいるどVer.)",
+    "en": "Nendoroid Link: Breath of the Wild Ver."
   },
   "series": {
-    "KO": "젤다의 전설",
-    "JA": "ゼルダの伝説　ブレス オブ ザ ワイルド",
-    "EN": "The Legend of Zelda: Breath of the Wild"
+    "ko": "젤다의 전설",
+    "ja": "ゼルダの伝説　ブレス オブ ザ ワイルド",
+    "en": "The Legend of Zelda: Breath of the Wild"
   },
   "gsc_productNum": 6213,
   "price": 5600,

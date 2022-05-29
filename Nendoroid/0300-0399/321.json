@@ -1,14 +1,14 @@
 {
   "num": "321",
   "name": {
-    "KO": "타무라 유카리",
-    "JA": "ねんどろいど 田村ゆかり (ねんどろいど たむらゆかり)",
-    "EN": "Nendoroid Yukari Tamura (ねんどろいど たむらゆかり)"
+    "ko": "타무라 유카리",
+    "ja": "ねんどろいど 田村ゆかり (ねんどろいど たむらゆかり)",
+    "en": "Nendoroid Yukari Tamura (ねんどろいど たむらゆかり)"
   },
   "series": {
-    "KO": "실존인물(성우)",
-    "JA": "田村ゆかり",
-    "EN": "Yukari Tamura"
+    "ko": "실존인물(성우)",
+    "ja": "田村ゆかり",
+    "en": "Yukari Tamura"
   },
   "gsc_productNum": 3916,
   "price": 5133,

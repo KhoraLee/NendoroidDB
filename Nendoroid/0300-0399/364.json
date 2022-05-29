@@ -1,14 +1,14 @@
 {
   "num": "364",
   "name": {
-    "KO": "신쿠 장미소녀 세트",
-    "JA": "ねんどろいど 真紅 薔薇乙女(ローゼンメイデン)セット (ねんどろいど しんく ろーぜんめいでんせっと)",
-    "EN": "Nendoroid Shinku: Rozen Maiden Set"
+    "ko": "신쿠 장미소녀 세트",
+    "ja": "ねんどろいど 真紅 薔薇乙女(ローゼンメイデン)セット (ねんどろいど しんく ろーぜんめいでんせっと)",
+    "en": "Nendoroid Shinku: Rozen Maiden Set"
   },
   "series": {
-    "KO": "로젠 메이든",
-    "JA": "ローゼンメイデン",
-    "EN": "Rozen Maiden"
+    "ko": "로젠 메이든",
+    "ja": "ローゼンメイデン",
+    "en": "Rozen Maiden"
   },
   "gsc_productNum": 4049,
   "price": 6300,

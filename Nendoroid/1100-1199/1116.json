@@ -1,14 +1,14 @@
 {
   "num": "1116",
   "name": {
-    "KO": "키즈나 아이 A.I.Games 2019 Ver.",
-    "JA": "ねんどろいど キズナアイ A.I.Games 2019Ver. (ねんどろいど きずなあい あいげーむす 2019Ver.)",
-    "EN": "Nendoroid Kizuna AI: A.I.Games 2019 Ver."
+    "ko": "키즈나 아이 A.I.Games 2019 Ver.",
+    "ja": "ねんどろいど キズナアイ A.I.Games 2019Ver. (ねんどろいど きずなあい あいげーむす 2019Ver.)",
+    "en": "Nendoroid Kizuna AI: A.I.Games 2019 Ver."
   },
   "series": {
-    "KO": "버추얼 유튜버",
-    "JA": "キズナアイ",
-    "EN": "Kizuna AI"
+    "ko": "버추얼 유튜버",
+    "ja": "キズナアイ",
+    "en": "Kizuna AI"
   },
   "gsc_productNum": 8226,
   "price": 4888,

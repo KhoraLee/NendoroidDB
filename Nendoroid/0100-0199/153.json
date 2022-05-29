@@ -1,14 +1,14 @@
 {
   "num": "153",
   "name": {
-    "KO": "쿈 소실 Ver.",
-    "JA": "ねんどろいど キョン 消失Ver. (ねんどろいど きょん しょうしつばーじょん)",
-    "EN": "Nendoroid Kyon: Disappearance Ver. (ねんどろいど きょん しょうしつばーじょん)"
+    "ko": "쿈 소실 Ver.",
+    "ja": "ねんどろいど キョン 消失Ver. (ねんどろいど きょん しょうしつばーじょん)",
+    "en": "Nendoroid Kyon: Disappearance Ver. (ねんどろいど きょん しょうしつばーじょん)"
   },
   "series": {
-    "KO": "스즈미야 하루히의 소실",
-    "JA": "涼宮ハルヒの消失",
-    "EN": "The Disappearance of Haruhi Suzumiya"
+    "ko": "스즈미야 하루히의 소실",
+    "ja": "涼宮ハルヒの消失",
+    "en": "The Disappearance of Haruhi Suzumiya"
   },
   "gsc_productNum": 3043,
   "price": 3143,

@@ -1,14 +1,14 @@
 {
   "num": "1051",
   "name": {
-    "KO": "세이버/아서 펜드래건 영의개방 화이트로즈 Ver.",
-    "JA": "ねんどろいど セイバー/アーサー・ペンドラゴン〔プロトタイプ〕 霊衣開放-ホワイトローズ- Ver. (ねんどろいど せいばー/あーさー・ぺんどらごん〔ぷろとたいぷ〕 れいいかいほう-ほわいとろーず- Ver.)",
-    "EN": "Nendoroid Saber/Arthur Pendragon (Prototype): Costume Dress -White Rose- Ver."
+    "ko": "세이버/아서 펜드래건 영의개방 화이트로즈 Ver.",
+    "ja": "ねんどろいど セイバー/アーサー・ペンドラゴン〔プロトタイプ〕 霊衣開放-ホワイトローズ- Ver. (ねんどろいど せいばー/あーさー・ぺんどらごん〔ぷろとたいぷ〕 れいいかいほう-ほわいとろーず- Ver.)",
+    "en": "Nendoroid Saber/Arthur Pendragon (Prototype): Costume Dress -White Rose- Ver."
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 7870,
   "price": 4584,

@@ -1,14 +1,14 @@
 {
   "num": "922",
   "name": {
-    "KO": "비스마르크 改",
-    "JA": "ねんどろいど Bismarck（ビスマルク）改 (ねんどろいど びすまるくかい)",
-    "EN": "Nendoroid Bismarck Kai"
+    "ko": "비스마르크 改",
+    "ja": "ねんどろいど Bismarck（ビスマルク）改 (ねんどろいど びすまるくかい)",
+    "en": "Nendoroid Bismarck Kai"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 7215,
   "price": 7944,

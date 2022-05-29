@@ -1,14 +1,14 @@
 {
   "num": "1459",
   "name": {
-    "KO": "나타",
-    "JA": "ねんどろいど 哪吒 (ねんどろいど なた)",
-    "EN": "Nendoroid Ne Zha"
+    "ko": "나타",
+    "ja": "ねんどろいど 哪吒 (ねんどろいど なた)",
+    "en": "Nendoroid Ne Zha"
   },
   "series": {
-    "KO": "나타지마동강세",
-    "JA": "哪吒之魔童降世",
-    "EN": "Ne Zha"
+    "ko": "나타지마동강세",
+    "ja": "哪吒之魔童降世",
+    "en": "Ne Zha"
   },
   "gsc_productNum": 10687,
   "price": 5500,

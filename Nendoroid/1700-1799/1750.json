@@ -1,14 +1,14 @@
 {
   "num": "1750",
   "name": {
-    "KO": "이누마키 토게",
-    "JA": "ねんどろいど 狗巻棘 (ねんどろいど いぬまきとげ)",
-    "EN": "Nendoroid Toge Inumaki"
+    "ko": "이누마키 토게",
+    "ja": "ねんどろいど 狗巻棘 (ねんどろいど いぬまきとげ)",
+    "en": "Nendoroid Toge Inumaki"
   },
   "series": {
-    "KO": "주술회전",
-    "JA": "呪術廻戦",
-    "EN": "Jujutsu Kaisen"
+    "ko": "주술회전",
+    "ja": "呪術廻戦",
+    "en": "Jujutsu Kaisen"
   },
   "gsc_productNum": 11978,
   "price": 5300,

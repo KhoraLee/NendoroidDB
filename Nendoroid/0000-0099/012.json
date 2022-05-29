@@ -1,14 +1,14 @@
 {
   "num": "012",
   "name": {
-    "KO": "야가미 라이토",
-    "JA": "ねんどろいど 夜神月 (やがみらいと ねんどろいど)",
-    "EN": "Nendoroid Light Yagami (やがみらいと ねんどろいど)"
+    "ko": "야가미 라이토",
+    "ja": "ねんどろいど 夜神月 (やがみらいと ねんどろいど)",
+    "en": "Nendoroid Light Yagami (やがみらいと ねんどろいど)"
   },
   "series": {
-    "KO": "데스노트",
-    "JA": "DEATH NOTE",
-    "EN": "DEATH NOTE"
+    "ko": "데스노트",
+    "ja": "DEATH NOTE",
+    "en": "DEATH NOTE"
   },
   "gsc_productNum": 396,
   "price": 3143,

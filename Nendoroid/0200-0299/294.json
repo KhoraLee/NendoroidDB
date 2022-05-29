@@ -1,14 +1,14 @@
 {
   "num": "294",
   "name": {
-    "KO": "코지로 프라우",
-    "JA": "ねんどろいど 神代フラウ (ねんどろいど　こうじろふらう)",
-    "EN": "Nendoroid Frau Koujiro (ねんどろいど　こうじろふらう)"
+    "ko": "코지로 프라우",
+    "ja": "ねんどろいど 神代フラウ (ねんどろいど　こうじろふらう)",
+    "en": "Nendoroid Frau Koujiro (ねんどろいど　こうじろふらう)"
   },
   "series": {
-    "KO": "로보틱스 노츠",
-    "JA": "ロボティクス・ノーツ",
-    "EN": "Robotics;Notes"
+    "ko": "로보틱스 노츠",
+    "ja": "ロボティクス・ノーツ",
+    "en": "Robotics;Notes"
   },
   "gsc_productNum": 3777,
   "price": 3667,

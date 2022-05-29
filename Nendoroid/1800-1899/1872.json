@@ -1,14 +1,14 @@
 {
   "num": "1872",
   "name": {
-    "KO": "에이전트 스미스",
-    "JA": "ねんどろいど エージェント・スミス (ねんどろいど えーじぇんと・すみす)",
-    "EN": "Nendoroid Agent Smith"
+    "ko": "에이전트 스미스",
+    "ja": "ねんどろいど エージェント・スミス (ねんどろいど えーじぇんと・すみす)",
+    "en": "Nendoroid Agent Smith"
   },
   "series": {
-    "KO": "매트릭스",
-    "JA": "マトリックス",
-    "EN": "The Matrix"
+    "ko": "매트릭스",
+    "ja": "マトリックス",
+    "en": "The Matrix"
   },
   "gsc_productNum": 12593,
   "price": 4500,

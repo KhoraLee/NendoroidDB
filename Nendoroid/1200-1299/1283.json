@@ -1,14 +1,14 @@
 {
   "num": "1283",
   "name": {
-    "KO": "일본",
-    "JA": "ねんどろいど 日本 (ねんどろいど にほん)",
-    "EN": "Nendoroid Japan"
+    "ko": "일본",
+    "ja": "ねんどろいど 日本 (ねんどろいど にほん)",
+    "en": "Nendoroid Japan"
   },
   "series": {
-    "KO": "헤타리아",
-    "JA": "ヘタリア World★Stars",
-    "EN": "Hetalia World★Stars"
+    "ko": "헤타리아",
+    "ja": "ヘタリア World★Stars",
+    "en": "Hetalia World★Stars"
   },
   "gsc_productNum": 9242,
   "price": 4500,

@@ -1,14 +1,14 @@
 {
   "num": "1491-DX",
   "name": {
-    "KO": "세이버/오키타 소지 영기재림 Ver.",
-    "JA": "ねんどろいど セイバー/沖田総司 霊基再臨Ver. (ねんどろいど せいばー/おきたそうじ れいきさいりんVer.)",
-    "EN": "Nendoroid Saber/Okita Souji: Ascension Ver."
+    "ko": "세이버/오키타 소지 영기재림 Ver.",
+    "ja": "ねんどろいど セイバー/沖田総司 霊基再臨Ver. (ねんどろいど せいばー/おきたそうじ れいきさいりんVer.)",
+    "en": "Nendoroid Saber/Okita Souji: Ascension Ver."
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 10283,
   "price": 5800,

@@ -1,14 +1,14 @@
 {
   "num": "892",
   "name": {
-    "KO": "레이센 우동게인 이나바",
-    "JA": "ねんどろいど 鈴仙・優曇華院・イナバ (ねんどろいど れいせん・うどんげいん・いなば)",
-    "EN": "Nendoroid Reisen Udongein Inaba"
+    "ko": "레이센 우동게인 이나바",
+    "ja": "ねんどろいど 鈴仙・優曇華院・イナバ (ねんどろいど れいせん・うどんげいん・いなば)",
+    "en": "Nendoroid Reisen Udongein Inaba"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 7066,
   "price": 4888,

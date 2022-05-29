@@ -1,14 +1,14 @@
 {
   "num": "989",
   "name": {
-    "KO": "주인공",
-    "JA": "ねんどろいど ジョーカー (ねんどろいど じょーかー)",
-    "EN": "Nendoroid Joker"
+    "ko": "주인공",
+    "ja": "ねんどろいど ジョーカー (ねんどろいど じょーかー)",
+    "en": "Nendoroid Joker"
   },
   "series": {
-    "KO": "페르소나5",
-    "JA": "ペルソナ５",
-    "EN": "Persona5"
+    "ko": "페르소나5",
+    "ja": "ペルソナ５",
+    "en": "Persona5"
   },
   "gsc_productNum": 7563,
   "price": 4888,

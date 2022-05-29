@@ -1,14 +1,14 @@
 {
   "num": "997",
   "name": {
-    "KO": "스페셜 위크",
-    "JA": "ねんどろいど スペシャルウィーク (ねんどろいど すぺしゃるうぃーく)",
-    "EN": "Nendoroid Special Week"
+    "ko": "스페셜 위크",
+    "ja": "ねんどろいど スペシャルウィーク (ねんどろいど すぺしゃるうぃーく)",
+    "en": "Nendoroid Special Week"
   },
   "series": {
-    "KO": "우마무스메 PRETTY DERBY",
-    "JA": "ウマ娘 プリティーダービー",
-    "EN": "Umamusume: Pretty Derby"
+    "ko": "우마무스메 PRETTY DERBY",
+    "ja": "ウマ娘 プリティーダービー",
+    "en": "Umamusume: Pretty Derby"
   },
   "gsc_productNum": 7597,
   "price": 5602,

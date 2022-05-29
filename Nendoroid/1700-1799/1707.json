@@ -1,14 +1,14 @@
 {
   "num": "1707",
   "name": {
-    "KO": "토키노 소라",
-    "JA": "ねんどろいど ときのそら (ねんどろいど ときのそら)",
-    "EN": "Nendoroid Tokino Sora"
+    "ko": "토키노 소라",
+    "ja": "ねんどろいど ときのそら (ねんどろいど ときのそら)",
+    "en": "Nendoroid Tokino Sora"
   },
   "series": {
-    "KO": "버추얼 유튜버 (홀로라이브)",
-    "JA": "ホロライブプロダクション",
-    "EN": "hololive production"
+    "ko": "버추얼 유튜버 (홀로라이브)",
+    "ja": "ホロライブプロダクション",
+    "en": "hololive production"
   },
   "gsc_productNum": 11724,
   "price": 6300,

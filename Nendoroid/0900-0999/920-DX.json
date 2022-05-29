@@ -1,14 +1,14 @@
 {
   "num": "920-DX",
   "name": {
-    "KO": "제임스 P. 설리반 DX",
-    "JA": "ねんどろいど サリー DX Ver. (ねんどろいど さりー でらっくす Ver.)",
-    "EN": "Nendoroid Sulley: DX Ver."
+    "ko": "제임스 P. 설리반 DX",
+    "ja": "ねんどろいど サリー DX Ver. (ねんどろいど さりー でらっくす Ver.)",
+    "en": "Nendoroid Sulley: DX Ver."
   },
   "series": {
-    "KO": "몬스터 주식회사",
-    "JA": "モンスターズ・インク",
-    "EN": "Monsters, Inc."
+    "ko": "몬스터 주식회사",
+    "ja": "モンスターズ・インク",
+    "en": "Monsters, Inc."
   },
   "gsc_productNum": 7209,
   "price": 6926,

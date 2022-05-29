@@ -1,14 +1,14 @@
 {
   "num": "296",
   "name": {
-    "KO": "아리스",
-    "JA": "ねんどろいど アリス (ねんどろいど ありす)",
-    "EN": "Nendoroid Alice (ねんどろいど ありす)"
+    "ko": "아리스",
+    "ja": "ねんどろいど アリス (ねんどろいど ありす)",
+    "en": "Nendoroid Alice (ねんどろいど ありす)"
   },
   "series": {
-    "KO": "도색대전 파이론",
-    "JA": "桃色大戦ぱいろん",
-    "EN": "Momoiro Taisen Pairon"
+    "ko": "도색대전 파이론",
+    "ja": "桃色大戦ぱいろん",
+    "en": "Momoiro Taisen Pairon"
   },
   "gsc_productNum": 3786,
   "price": 3667,

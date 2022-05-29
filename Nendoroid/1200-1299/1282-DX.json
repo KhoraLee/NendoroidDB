@@ -1,14 +1,14 @@
 {
   "num": "1282-DX",
   "name": {
-    "KO": "샘 포터 브리지스 전설의 배달부 Ver.",
-    "JA": "ねんどろいど サム・ポーター・ブリッジズ 伝説の配達人 Ver. (ねんどろいど さむ・ぽーたー・ぶりっじず でんせつのはいたつにん Ver.)",
-    "EN": "Nendoroid Sam Porter Bridges: Great Deliverer Ver."
+    "ko": "샘 포터 브리지스 전설의 배달부 Ver.",
+    "ja": "ねんどろいど サム・ポーター・ブリッジズ 伝説の配達人 Ver. (ねんどろいど さむ・ぽーたー・ぶりっじず でんせつのはいたつにん Ver.)",
+    "en": "Nendoroid Sam Porter Bridges: Great Deliverer Ver."
   },
   "series": {
-    "KO": "데스 스트랜딩",
-    "JA": "デス・ストランディング",
-    "EN": "DEATH STRANDING"
+    "ko": "데스 스트랜딩",
+    "ja": "デス・ストランディング",
+    "en": "DEATH STRANDING"
   },
   "gsc_productNum": 9245,
   "price": 8800,

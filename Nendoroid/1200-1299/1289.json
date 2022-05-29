@@ -1,14 +1,14 @@
 {
   "num": "1289",
   "name": {
-    "KO": "네메시스",
-    "JA": "ねんどろいど ネメシス (ねんどろいど ねめしす)",
-    "EN": "Nendoroid Nemesis"
+    "ko": "네메시스",
+    "ja": "ねんどろいど ネメシス (ねんどろいど ねめしす)",
+    "en": "Nendoroid Nemesis"
   },
   "series": {
-    "KO": "인피니트 덴드로그램",
-    "JA": "インフィニット・デンドログラム",
-    "EN": "Infinite Dendrogram"
+    "ko": "인피니트 덴드로그램",
+    "ja": "インフィニット・デンドログラム",
+    "en": "Infinite Dendrogram"
   },
   "gsc_productNum": 9258,
   "price": 5900,

@@ -1,14 +1,14 @@
 {
   "num": "1742",
   "name": {
-    "KO": "카즈",
-    "JA": "ねんどろいど カーズ (ねんどろいど かーず)",
-    "EN": "Nendoroid Kars"
+    "ko": "카즈",
+    "ja": "ねんどろいど カーズ (ねんどろいど かーず)",
+    "en": "Nendoroid Kars"
   },
   "series": {
-    "KO": "죠죠의 기묘한 모험",
-    "JA": "TVアニメ『ジョジョの奇妙な冒険』",
-    "EN": "JoJo’s Bizarre Adventure"
+    "ko": "죠죠의 기묘한 모험",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険』",
+    "en": "JoJo’s Bizarre Adventure"
   },
   "gsc_productNum": 11905,
   "price": 5478,

@@ -1,14 +1,14 @@
 {
   "num": "1623-DX",
   "name": {
-    "KO": "카가미하라 나데시코 솔로캠프 DX Ver.",
-    "JA": "ねんどろいど 各務原なでしこ ソロキャンVer. DXエディション (ねんどろいど かがみはらなでしこ そろきゃんVer. DXえでぃしょん)",
-    "EN": "Nendoroid Nadeshiko Kagamihara: Solo Camp Ver. DX Edition"
+    "ko": "카가미하라 나데시코 솔로캠프 DX Ver.",
+    "ja": "ねんどろいど 各務原なでしこ ソロキャンVer. DXエディション (ねんどろいど かがみはらなでしこ そろきゃんVer. DXえでぃしょん)",
+    "en": "Nendoroid Nadeshiko Kagamihara: Solo Camp Ver. DX Edition"
   },
   "series": {
-    "KO": "유루캠△",
-    "JA": "ゆるキャン△",
-    "EN": "Laid-Back Camp"
+    "ko": "유루캠△",
+    "ja": "ゆるキャン△",
+    "en": "Laid-Back Camp"
   },
   "gsc_productNum": 11141,
   "price": 8000,

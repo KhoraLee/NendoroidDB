@@ -1,14 +1,14 @@
 {
   "num": "250",
   "name": {
-    "KO": "세이버 10th ANNIIVERSARY 에디션",
-    "JA": "ねんどろいど セイバー 10th ANNIVERSARY・エディション (ねんどろいど せいばー 10th ANNIVERSARY・えでぃしょん)",
-    "EN": "Nendoroid Saber : 10th ANNIVERSARY Edition (ねんどろいど せいばー 10th ANNIVERSARY・えでぃしょん)"
+    "ko": "세이버 10th ANNIIVERSARY 에디션",
+    "ja": "ねんどろいど セイバー 10th ANNIVERSARY・エディション (ねんどろいど せいばー 10th ANNIVERSARY・えでぃしょん)",
+    "en": "Nendoroid Saber : 10th ANNIVERSARY Edition (ねんどろいど せいばー 10th ANNIVERSARY・えでぃしょん)"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/stay night",
-    "EN": "Fate/stay night"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/stay night",
+    "en": "Fate/stay night"
   },
   "gsc_productNum": 3585,
   "price": 4190,

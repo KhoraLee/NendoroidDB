@@ -1,14 +1,14 @@
 {
   "num": "1571",
   "name": {
-    "KO": "포프",
-    "JA": "ねんどろいど ポップ (ねんどろいど ぽっぷ)",
-    "EN": "Nendoroid Popp"
+    "ko": "포프",
+    "ja": "ねんどろいど ポップ (ねんどろいど ぽっぷ)",
+    "en": "Nendoroid Popp"
   },
   "series": {
-    "KO": "타이의 대모험",
-    "JA": "ドラゴンクエスト ダイの大冒険",
-    "EN": "Dragon Quest: The Legend of Dai"
+    "ko": "타이의 대모험",
+    "ja": "ドラゴンクエスト ダイの大冒険",
+    "en": "Dragon Quest: The Legend of Dai"
   },
   "gsc_productNum": 10871,
   "price": 5500,

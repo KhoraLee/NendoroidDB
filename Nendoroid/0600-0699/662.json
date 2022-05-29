@@ -1,14 +1,14 @@
 {
   "num": "662",
   "name": {
-    "KO": "데드풀 오레짱 에디션",
-    "JA": "ねんどろいど デッドプール 俺ちゃん・エディション",
-    "EN": "Nendoroid Deadpool: Orechan Edition"
+    "ko": "데드풀 오레짱 에디션",
+    "ja": "ねんどろいど デッドプール 俺ちゃん・エディション",
+    "en": "Nendoroid Deadpool: Orechan Edition"
   },
   "series": {
-    "KO": "데드풀",
-    "JA": "デッドプール",
-    "EN": "Deadpool"
+    "ko": "데드풀",
+    "ja": "デッドプール",
+    "en": "Deadpool"
   },
   "gsc_productNum": 5858,
   "price": 5000,

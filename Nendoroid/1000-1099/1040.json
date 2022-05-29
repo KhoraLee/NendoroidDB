@@ -1,14 +1,14 @@
 {
   "num": "1040",
   "name": {
-    "KO": "키노모토 사쿠라 CLEAR Ver.",
-    "JA": "ねんどろいど 木之本桜 CLEAR Ver. (ねんどろいど きのもとさくら くりあ Ver.)",
-    "EN": "Nendoroid Sakura Kinomoto: CLEAR Ver."
+    "ko": "키노모토 사쿠라 CLEAR Ver.",
+    "ja": "ねんどろいど 木之本桜 CLEAR Ver. (ねんどろいど きのもとさくら くりあ Ver.)",
+    "en": "Nendoroid Sakura Kinomoto: CLEAR Ver."
   },
   "series": {
-    "KO": "카드캡터 사쿠라",
-    "JA": "カードキャプターさくら クリアカード編",
-    "EN": "Cardcaptor Sakura: Clear Card"
+    "ko": "카드캡터 사쿠라",
+    "ja": "カードキャプターさくら クリアカード編",
+    "en": "Cardcaptor Sakura: Clear Card"
   },
   "gsc_productNum": 7845,
   "price": 5093,

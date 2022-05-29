@@ -1,14 +1,14 @@
 {
   "num": "1847",
   "name": {
-    "KO": "카미오 미스즈",
-    "JA": "ねんどろいど 神尾観鈴 (ねんどろいど かみおみすず)",
-    "EN": "Nendoroid Misuzu Kamio"
+    "ko": "카미오 미스즈",
+    "ja": "ねんどろいど 神尾観鈴 (ねんどろいど かみおみすず)",
+    "en": "Nendoroid Misuzu Kamio"
   },
   "series": {
-    "KO": "카기나도",
-    "JA": "かぎなど",
-    "EN": "KAGINADO"
+    "ko": "카기나도",
+    "ja": "かぎなど",
+    "en": "KAGINADO"
   },
   "gsc_productNum": 12458,
   "price": 5900,

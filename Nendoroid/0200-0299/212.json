@@ -1,14 +1,14 @@
 {
   "num": "212",
   "name": {
-    "KO": "주간 시작의 하츠네 미쿠",
-    "JA": "ねんどろいど 週刊はじめての初音ミク (ねんどろいど しゅうかんはじめてのはつねみく)",
-    "EN": "Nendoroid Shuukan Hajimete no Hatsune Miku (ねんどろいど しゅうかんはじめてのはつねみく)"
+    "ko": "주간 시작의 하츠네 미쿠",
+    "ja": "ねんどろいど 週刊はじめての初音ミク (ねんどろいど しゅうかんはじめてのはつねみく)",
+    "en": "Nendoroid Shuukan Hajimete no Hatsune Miku (ねんどろいど しゅうかんはじめてのはつねみく)"
   },
   "series": {
-    "KO": "주간 시작의 하츠네 미쿠",
-    "JA": "週刊はじめての初音ミク",
-    "EN": "Shuukan Hajimete no Hatsune Miku"
+    "ko": "주간 시작의 하츠네 미쿠",
+    "ja": "週刊はじめての初音ミク",
+    "en": "Shuukan Hajimete no Hatsune Miku"
   },
   "gsc_productNum": 3350,
   "price": 3667,

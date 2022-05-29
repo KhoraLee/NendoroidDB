@@ -1,14 +1,14 @@
 {
   "num": "1844",
   "name": {
-    "KO": "판다",
-    "JA": "ねんどろいど パンダ (ねんどろいど ぱんだ)",
-    "EN": "Nendoroid Panda"
+    "ko": "판다",
+    "ja": "ねんどろいど パンダ (ねんどろいど ぱんだ)",
+    "en": "Nendoroid Panda"
   },
   "series": {
-    "KO": "주술회전",
-    "JA": "呪術廻戦",
-    "EN": "Jujutsu Kaisen"
+    "ko": "주술회전",
+    "ja": "呪術廻戦",
+    "en": "Jujutsu Kaisen"
   },
   "gsc_productNum": 12460,
   "price": 6100,

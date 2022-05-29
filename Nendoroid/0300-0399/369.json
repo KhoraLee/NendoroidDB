@@ -1,14 +1,14 @@
 {
   "num": "369",
   "name": {
-    "KO": "T.M.Revolution",
-    "JA": "ねんどろいど T.M.Revolution (ねんどろいど てぃー・えむ・れぼりゅーしょん)",
-    "EN": "Nendoroid T.M. Revolution (ねんどろいど てぃー・えむ・れぼりゅーしょん)"
+    "ko": "T.M.Revolution",
+    "ja": "ねんどろいど T.M.Revolution (ねんどろいど てぃー・えむ・れぼりゅーしょん)",
+    "en": "Nendoroid T.M. Revolution (ねんどろいど てぃー・えむ・れぼりゅーしょん)"
   },
   "series": {
-    "KO": "T.M.Revolution",
-    "JA": "T.M.Revolution",
-    "EN": "T.M Revolution"
+    "ko": "T.M.Revolution",
+    "ja": "T.M.Revolution",
+    "en": "T.M Revolution"
   },
   "gsc_productNum": 4054,
   "price": 5133,

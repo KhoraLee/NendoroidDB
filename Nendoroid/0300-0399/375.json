@@ -1,14 +1,14 @@
 {
   "num": "375",
   "name": {
-    "KO": "앨런 예거",
-    "JA": "ねんどろいど エレン・イェーガー (ねんどろいど えれん・いぇーがー)",
-    "EN": "Nendoroid Eren Yeager"
+    "ko": "앨런 예거",
+    "ja": "ねんどろいど エレン・イェーガー (ねんどろいど えれん・いぇーがー)",
+    "en": "Nendoroid Eren Yeager"
   },
   "series": {
-    "KO": "진격의 거인",
-    "JA": "進撃の巨人",
-    "EN": "Attack on Titan"
+    "ko": "진격의 거인",
+    "ja": "進撃の巨人",
+    "en": "Attack on Titan"
   },
   "gsc_productNum": 4095,
   "price": 5500,

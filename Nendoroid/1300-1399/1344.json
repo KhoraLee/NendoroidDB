@@ -1,14 +1,14 @@
 {
   "num": "1344",
   "name": {
-    "KO": "냥코 센세",
-    "JA": "ねんどろいど ニャンコ先生 (ねんどろいど にゃんこせんせい)",
-    "EN": "Nendoroid Nyanko Sensei"
+    "ko": "냥코 센세",
+    "ja": "ねんどろいど ニャンコ先生 (ねんどろいど にゃんこせんせい)",
+    "en": "Nendoroid Nyanko Sensei"
   },
   "series": {
-    "KO": "나츠메 우인장",
-    "JA": "夏目友人帳",
-    "EN": "Natsume Yujin-cho"
+    "ko": "나츠메 우인장",
+    "ja": "夏目友人帳",
+    "en": "Natsume Yujin-cho"
   },
   "gsc_productNum": 12712,
   "price": 6300,

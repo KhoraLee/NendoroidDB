@@ -1,14 +1,14 @@
 {
   "num": "1575",
   "name": {
-    "KO": "토와",
-    "JA": "ねんどろいど トワ (ねんどろいど とわ)",
-    "EN": "Nendoroid Towa"
+    "ko": "토와",
+    "ja": "ねんどろいど トワ (ねんどろいど とわ)",
+    "en": "Nendoroid Towa"
   },
   "series": {
-    "KO": "슬로우 데미지",
-    "JA": "スロウ・ダメージ",
-    "EN": "Slow Damage"
+    "ko": "슬로우 데미지",
+    "ja": "スロウ・ダメージ",
+    "en": "Slow Damage"
   },
   "gsc_productNum": 10872,
   "price": 5500,

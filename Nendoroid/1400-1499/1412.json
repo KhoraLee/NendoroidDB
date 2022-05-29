@@ -1,14 +1,14 @@
 {
   "num": "1412",
   "name": {
-    "KO": "괴도 키드",
-    "JA": "ねんどろいど 怪盗キッド (ねんどろいど かいとうきっど)",
-    "EN": "Nendoroid Kid the Phantom Thief"
+    "ko": "괴도 키드",
+    "ja": "ねんどろいど 怪盗キッド (ねんどろいど かいとうきっど)",
+    "en": "Nendoroid Kid the Phantom Thief"
   },
   "series": {
-    "KO": "명탐정 코난",
-    "JA": "名探偵コナン",
-    "EN": "Detective Conan"
+    "ko": "명탐정 코난",
+    "ja": "名探偵コナン",
+    "en": "Detective Conan"
   },
   "gsc_productNum": 8247,
   "price": 5500,

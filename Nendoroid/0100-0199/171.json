@@ -1,14 +1,14 @@
 {
   "num": "171",
   "name": {
-    "KO": "아큐 쥬베 OP Ver.",
-    "JA": "ねんどろいど 柳生十兵衛 OP Ver.（オープニングバージョン） (ねんどろいど やぎゅうじゅうべぇ OP Ver.（おーぷにんぐばーじょん）)",
-    "EN": "Nendoroid Jubei Yagyu (Opening Version) (ねんどろいど やぎゅうじゅうべぇ OP Ver.（おーぷにんぐばーじょん）)"
+    "ko": "아큐 쥬베 OP Ver.",
+    "ja": "ねんどろいど 柳生十兵衛 OP Ver.（オープニングバージョン） (ねんどろいど やぎゅうじゅうべぇ OP Ver.（おーぷにんぐばーじょん）)",
+    "en": "Nendoroid Jubei Yagyu (Opening Version) (ねんどろいど やぎゅうじゅうべぇ OP Ver.（おーぷにんぐばーじょん）)"
   },
   "series": {
-    "KO": "백화요란 사무라이 걸즈",
-    "JA": "百花繚乱 サムライガールズ",
-    "EN": "Samurai Girls"
+    "ko": "백화요란 사무라이 걸즈",
+    "ja": "百花繚乱 サムライガールズ",
+    "en": "Samurai Girls"
   },
   "gsc_productNum": 3125,
   "price": 3667,

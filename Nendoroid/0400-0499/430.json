@@ -1,14 +1,14 @@
 {
   "num": "430",
   "name": {
-    "KO": "키타카미",
-    "JA": "ねんどろいど 北上 (ねんどろいど きたかみ)",
-    "EN": "Nendoroid Kitakami (ねんどろいど きたかみ)"
+    "ko": "키타카미",
+    "ja": "ねんどろいど 北上 (ねんどろいど きたかみ)",
+    "en": "Nendoroid Kitakami (ねんどろいど きたかみ)"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 4448,
   "price": 4584,

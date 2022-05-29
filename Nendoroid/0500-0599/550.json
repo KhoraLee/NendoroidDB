@@ -1,14 +1,14 @@
 {
   "num": "550",
   "name": {
-    "KO": "안나",
-    "JA": "ねんどろいど アナ (ねんどろいど あな)",
-    "EN": "Nendoroid Anna"
+    "ko": "안나",
+    "ja": "ねんどろいど アナ (ねんどろいど あな)",
+    "en": "Nendoroid Anna"
   },
   "series": {
-    "KO": "겨울왕국",
-    "JA": "アナと雪の女王",
-    "EN": "Frozen"
+    "ko": "겨울왕국",
+    "ja": "アナと雪の女王",
+    "en": "Frozen"
   },
   "gsc_productNum": 5147,
   "price": 5000,

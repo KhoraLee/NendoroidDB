@@ -1,14 +1,14 @@
 {
   "num": "322",
   "name": {
-    "KO": "미즈키 나나",
-    "JA": "ねんどろいど 水樹奈々 (ねんどろいど みずきなな)",
-    "EN": "Nendoroid Nana Mizuki (ねんどろいど みずきなな)"
+    "ko": "미즈키 나나",
+    "ja": "ねんどろいど 水樹奈々 (ねんどろいど みずきなな)",
+    "en": "Nendoroid Nana Mizuki (ねんどろいど みずきなな)"
   },
   "series": {
-    "KO": "실존인물(성우)",
-    "JA": "水樹奈々",
-    "EN": "Nana Mizuki"
+    "ko": "실존인물(성우)",
+    "ja": "水樹奈々",
+    "en": "Nana Mizuki"
   },
   "gsc_productNum": 3915,
   "price": 5133,

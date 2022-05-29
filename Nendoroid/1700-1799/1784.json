@@ -1,14 +1,14 @@
 {
   "num": "1784",
   "name": {
-    "KO": "아서",
-    "JA": "ねんどろいど アーサー (ねんどろいど あーさー)",
-    "EN": "Nendoroid Arthur"
+    "ko": "아서",
+    "ja": "ねんどろいど アーサー (ねんどろいど あーさー)",
+    "en": "Nendoroid Arthur"
   },
   "series": {
-    "KO": "돌아온 마계촌",
-    "JA": "帰ってきた 魔界村",
-    "EN": "Ghosts \u0027n Goblins Resurrection"
+    "ko": "돌아온 마계촌",
+    "ja": "帰ってきた 魔界村",
+    "en": "Ghosts \u0027n Goblins Resurrection"
   },
   "gsc_productNum": 12276,
   "price": 6900,

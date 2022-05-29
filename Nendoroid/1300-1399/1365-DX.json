@@ -1,14 +1,14 @@
 {
   "num": "1365-DX",
   "name": {
-    "KO": "아마테라스",
-    "JA": "ねんどろいど アマテラス DX Ver. (ねんどろいど あまてらす でらっくす Ver.)",
-    "EN": "Nendoroid Amaterasu DX Ver."
+    "ko": "아마테라스",
+    "ja": "ねんどろいど アマテラス DX Ver. (ねんどろいど あまてらす でらっくす Ver.)",
+    "en": "Nendoroid Amaterasu DX Ver."
   },
   "series": {
-    "KO": "오오카미",
-    "JA": "大神",
-    "EN": "Okami"
+    "ko": "오오카미",
+    "ja": "大神",
+    "en": "Okami"
   },
   "gsc_productNum": 9428,
   "price": 7700,

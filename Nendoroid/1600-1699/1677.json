@@ -1,14 +1,14 @@
 {
   "num": "1677",
   "name": {
-    "KO": "포테토",
-    "JA": "ねんどろいど ポテト (ねんどろいど ぽてと)",
-    "EN": "Nendoroid Potato"
+    "ko": "포테토",
+    "ja": "ねんどろいど ポテト (ねんどろいど ぽてと)",
+    "en": "Nendoroid Potato"
   },
   "series": {
-    "KO": "PUI PUI 모루카",
-    "JA": "PUI PUI モルカー",
-    "EN": "Pui Pui Molcar"
+    "ko": "PUI PUI 모루카",
+    "ja": "PUI PUI モルカー",
+    "en": "Pui Pui Molcar"
   },
   "gsc_productNum": 11475,
   "price": 4200,

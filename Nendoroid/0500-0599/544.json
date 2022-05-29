@@ -1,14 +1,14 @@
 {
   "num": "544",
   "name": {
-    "KO": "커비",
-    "JA": "ねんどろいど カービィ (ねんどろいど かーびぃ)",
-    "EN": "Nendoroid Kirby"
+    "ko": "커비",
+    "ja": "ねんどろいど カービィ (ねんどろいど かーびぃ)",
+    "en": "Nendoroid Kirby"
   },
   "series": {
-    "KO": "별의 커비",
-    "JA": "星のカービィ",
-    "EN": "Kirby"
+    "ko": "별의 커비",
+    "ja": "星のカービィ",
+    "en": "Kirby"
   },
   "gsc_productNum": 5207,
   "price": 4584,

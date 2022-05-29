@@ -1,14 +1,14 @@
 {
   "num": "1250",
   "name": {
-    "KO": "유키 미쿠 Snow Parade Ver.",
-    "JA": "ねんどろいど 雪ミク Snow Parade Ver. (ねんどろいど ゆきみく すのう ぱれーど Ver.)",
-    "EN": "Nendoroid Snow Miku: Snow Parade Ver."
+    "ko": "유키 미쿠 Snow Parade Ver.",
+    "ja": "ねんどろいど 雪ミク Snow Parade Ver. (ねんどろいど ゆきみく すのう ぱれーど Ver.)",
+    "en": "Nendoroid Snow Miku: Snow Parade Ver."
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 9000,
   "price": 5500,

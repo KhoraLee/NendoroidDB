@@ -1,14 +1,14 @@
 {
   "num": "1321",
   "name": {
-    "KO": "샌들폰",
-    "JA": "ねんどろいど サンダルフォン (ねんどろいど さんだるふぉん)",
-    "EN": "Nendoroid Sandalphon"
+    "ko": "샌들폰",
+    "ja": "ねんどろいど サンダルフォン (ねんどろいど さんだるふぉん)",
+    "en": "Nendoroid Sandalphon"
   },
   "series": {
-    "KO": "그랑블루 판타지",
-    "JA": "グランブルーファンタジー",
-    "EN": "Granblue Fantasy"
+    "ko": "그랑블루 판타지",
+    "ja": "グランブルーファンタジー",
+    "en": "Granblue Fantasy"
   },
   "gsc_productNum": 9357,
   "price": 5900,

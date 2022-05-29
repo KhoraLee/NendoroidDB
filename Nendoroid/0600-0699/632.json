@@ -1,14 +1,14 @@
 {
   "num": "632",
   "name": {
-    "KO": "시구레 改二",
-    "JA": "ねんどろいど 時雨改二 (ねんどろいど しぐれかいに)",
-    "EN": "Nendoroid Shigure Kai-II"
+    "ko": "시구레 改二",
+    "ja": "ねんどろいど 時雨改二 (ねんどろいど しぐれかいに)",
+    "en": "Nendoroid Shigure Kai-II"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 5687,
   "price": 5297,

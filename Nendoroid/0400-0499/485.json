@@ -1,14 +1,14 @@
 {
   "num": "485",
   "name": {
-    "KO": "클로에 르메르",
-    "JA": "ねんどろいど クロエ・ルメール (ねんどろいど くろえ・るめーる)",
-    "EN": "Nendoroid Chloe Lemaire (ねんどろいど くろえ・るめーる)"
+    "ko": "클로에 르메르",
+    "ja": "ねんどろいど クロエ・ルメール (ねんどろいど くろえ・るめーる)",
+    "en": "Nendoroid Chloe Lemaire (ねんどろいど くろえ・るめーる)"
   },
   "series": {
-    "KO": "걸프렌드",
-    "JA": "ガールフレンド（仮）",
-    "EN": "Girl Friend Beta"
+    "ko": "걸프렌드",
+    "ja": "ガールフレンド（仮）",
+    "en": "Girl Friend Beta"
   },
   "gsc_productNum": 4760,
   "price": 5093,

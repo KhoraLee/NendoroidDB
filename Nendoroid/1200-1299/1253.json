@@ -1,14 +1,14 @@
 {
   "num": "1253",
   "name": {
-    "KO": "정원사",
-    "JA": "ねんどろいど 庭師 (ねんどろいど にわし)",
-    "EN": "Nendoroid Gardener"
+    "ko": "정원사",
+    "ja": "ねんどろいど 庭師 (ねんどろいど にわし)",
+    "en": "Nendoroid Gardener"
   },
   "series": {
-    "KO": "제5인격",
-    "JA": "identityV 第五人格",
-    "EN": "Identity V"
+    "ko": "제5인격",
+    "ja": "identityV 第五人格",
+    "en": "Identity V"
   },
   "gsc_productNum": 9425,
   "price": 5200,

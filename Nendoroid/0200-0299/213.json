@@ -1,14 +1,14 @@
 {
   "num": "213",
   "name": {
-    "KO": "니즈마 에이지",
-    "JA": "ねんどろいど 新妻エイジ (ねんどろいど にいづまえいじ)",
-    "EN": "Nendoroid Eiji Niizuma (ねんどろいど にいづまえいじ)"
+    "ko": "니즈마 에이지",
+    "ja": "ねんどろいど 新妻エイジ (ねんどろいど にいづまえいじ)",
+    "en": "Nendoroid Eiji Niizuma (ねんどろいど にいづまえいじ)"
   },
   "series": {
-    "KO": "바쿠만",
-    "JA": "バクマン。",
-    "EN": "Bakuman"
+    "ko": "바쿠만",
+    "ja": "バクマン。",
+    "en": "Bakuman"
   },
   "gsc_productNum": 3385,
   "price": 3667,

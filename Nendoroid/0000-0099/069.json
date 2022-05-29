@@ -1,14 +1,14 @@
 {
   "num": "069",
   "name": {
-    "KO": "참회쨩",
-    "JA": "ねんどろいど ざんげちゃん (ざんげちゃん ねんどろいど)",
-    "EN": "Nendoroid Zange-chan (ざんげちゃん ねんどろいど)"
+    "ko": "참회쨩",
+    "ja": "ねんどろいど ざんげちゃん (ざんげちゃん ねんどろいど)",
+    "en": "Nendoroid Zange-chan (ざんげちゃん ねんどろいど)"
   },
   "series": {
-    "KO": "칸나기",
-    "JA": "かんなぎ",
-    "EN": "Kannagi"
+    "ko": "칸나기",
+    "ja": "かんなぎ",
+    "en": "Kannagi"
   },
   "gsc_productNum": 2388,
   "price": 3667,

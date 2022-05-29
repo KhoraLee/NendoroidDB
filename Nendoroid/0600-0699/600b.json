@@ -1,14 +1,14 @@
 {
   "num": "600b",
   "name": {
-    "KO": "세이버/알트리아 펜드래곤 진명 개방 Ver.",
-    "JA": "ねんどろいど セイバー/アルトリア・ペンドラゴン 真名開放 Ver. (ねんどろいど せいばー/あるとりあ・ぺんどらごん しんめいかいほう Ver.)",
-    "EN": "Nendoroid Saber/Altria Pendragon: True Name Revealed Ver."
+    "ko": "세이버/알트리아 펜드래곤 진명 개방 Ver.",
+    "ja": "ねんどろいど セイバー/アルトリア・ペンドラゴン 真名開放 Ver. (ねんどろいど せいばー/あるとりあ・ぺんどらごん しんめいかいほう Ver.)",
+    "en": "Nendoroid Saber/Altria Pendragon: True Name Revealed Ver."
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 7614,
   "price": 4888,

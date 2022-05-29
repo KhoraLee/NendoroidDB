@@ -1,14 +1,14 @@
 {
   "num": "011",
   "name": {
-    "KO": "류크",
-    "JA": "ねんどろいど リューク (りゅーく ねんどろいど)",
-    "EN": "Nendoroid Ryuk (りゅーく ねんどろいど)"
+    "ko": "류크",
+    "ja": "ねんどろいど リューク (りゅーく ねんどろいど)",
+    "en": "Nendoroid Ryuk (りゅーく ねんどろいど)"
   },
   "series": {
-    "KO": "데스노트",
-    "JA": "DEATH NOTE",
-    "EN": "DEATH NOTE"
+    "ko": "데스노트",
+    "ja": "DEATH NOTE",
+    "en": "DEATH NOTE"
   },
   "gsc_productNum": 398,
   "price": 3143,

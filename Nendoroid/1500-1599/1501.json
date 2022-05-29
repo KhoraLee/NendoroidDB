@@ -1,14 +1,14 @@
 {
   "num": "1501",
   "name": {
-    "KO": "크래시 밴디쿳",
-    "JA": "ねんどろいど クラッシュ・バンディクー (ねんどろいど くらっしゅ・ばんでぃくー)",
-    "EN": "Nendoroid Crash Bandicoot"
+    "ko": "크래시 밴디쿳",
+    "ja": "ねんどろいど クラッシュ・バンディクー (ねんどろいど くらっしゅ・ばんでぃくー)",
+    "en": "Nendoroid Crash Bandicoot"
   },
   "series": {
-    "KO": "크래시 밴디쿳",
-    "JA": "クラッシュ・バンディクー™4:とんでもマルチバース",
-    "EN": "Crash Bandicoot™ 4: It\u0027s About Time"
+    "ko": "크래시 밴디쿳",
+    "ja": "クラッシュ・バンディクー™4:とんでもマルチバース",
+    "en": "Crash Bandicoot™ 4: It\u0027s About Time"
   },
   "gsc_productNum": 10249,
   "price": 8000,

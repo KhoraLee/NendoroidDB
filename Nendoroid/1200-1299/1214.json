@@ -1,14 +1,14 @@
 {
   "num": "1214",
   "name": {
-    "KO": "적혈구",
-    "JA": "ねんどろいど 赤血球 (ねんどろいど せっけっきゅう)",
-    "EN": "Nendoroid Red Blood Cell"
+    "ko": "적혈구",
+    "ja": "ねんどろいど 赤血球 (ねんどろいど せっけっきゅう)",
+    "en": "Nendoroid Red Blood Cell"
   },
   "series": {
-    "KO": "일하는 세포",
-    "JA": "はたらく細胞",
-    "EN": "Cells at Work!"
+    "ko": "일하는 세포",
+    "ja": "はたらく細胞",
+    "en": "Cells at Work!"
   },
   "gsc_productNum": 8836,
   "price": 4800,

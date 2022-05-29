@@ -1,14 +1,14 @@
 {
   "num": "1089",
   "name": {
-    "KO": "Lone Survivor",
-    "JA": "ねんどろいど The Lone Survivor (ねんどろいど ろーん・さばいばー)",
-    "EN": "Nendoroid The Lone Survivor"
+    "ko": "Lone Survivor",
+    "ja": "ねんどろいど The Lone Survivor (ねんどろいど ろーん・さばいばー)",
+    "en": "Nendoroid The Lone Survivor"
   },
   "series": {
-    "KO": "PUBG",
-    "JA": "PLAYERUNKNOWN\u0027S BATTLEGROUNDS",
-    "EN": "PLAYERUNKNOWN\u0027S BATTLEGROUNDS"
+    "ko": "PUBG",
+    "ja": "PLAYERUNKNOWN\u0027S BATTLEGROUNDS",
+    "en": "PLAYERUNKNOWN\u0027S BATTLEGROUNDS"
   },
   "gsc_productNum": 8079,
   "price": 5297,

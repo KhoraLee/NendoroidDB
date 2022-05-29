@@ -1,14 +1,14 @@
 {
   "num": "764",
   "name": {
-    "KO": "후부키 改二",
-    "JA": "ねんどろいど 吹雪改二 (ねんどろいど ふぶきかいに)",
-    "EN": "Nendoroid Fubuki Kai-II"
+    "ko": "후부키 改二",
+    "ja": "ねんどろいど 吹雪改二 (ねんどろいど ふぶきかいに)",
+    "en": "Nendoroid Fubuki Kai-II"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 6395,
   "price": 5093,

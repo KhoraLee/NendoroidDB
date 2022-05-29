@@ -1,14 +1,14 @@
 {
   "num": "1314",
   "name": {
-    "KO": "리오 포티아",
-    "JA": "ねんどろいど リオ・フォーティア (ねんどろいど りお・ふぉーてぃあ)",
-    "EN": "Nendoroid Lio Fotia"
+    "ko": "리오 포티아",
+    "ja": "ねんどろいど リオ・フォーティア (ねんどろいど りお・ふぉーてぃあ)",
+    "en": "Nendoroid Lio Fotia"
   },
   "series": {
-    "KO": "프로메어",
-    "JA": "プロメア",
-    "EN": "PROMARE"
+    "ko": "프로메어",
+    "ja": "プロメア",
+    "en": "PROMARE"
   },
   "gsc_productNum": 9367,
   "price": 4600,

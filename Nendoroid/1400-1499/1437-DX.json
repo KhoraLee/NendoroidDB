@@ -1,14 +1,14 @@
 {
   "num": "1437-DX",
   "name": {
-    "KO": "네뷸라 엔드게임 DX Ver.",
-    "JA": "ねんどろいど ネビュラ エンドゲーム Ver. DX (ねんどろいど ねびゅら えんどげーむ Ver. DX)",
-    "EN": "Nendoroid Nebula: Endgame Ver. DX"
+    "ko": "네뷸라 엔드게임 DX Ver.",
+    "ja": "ねんどろいど ネビュラ エンドゲーム Ver. DX (ねんどろいど ねびゅら えんどげーむ Ver. DX)",
+    "en": "Nendoroid Nebula: Endgame Ver. DX"
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "アベンジャーズ／エンドゲーム",
-    "EN": "Avengers: Endgame"
+    "ko": "어벤져스",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "en": "Avengers: Endgame"
   },
   "gsc_productNum": 9898,
   "price": 8000,

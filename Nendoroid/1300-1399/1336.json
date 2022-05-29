@@ -1,14 +1,14 @@
 {
   "num": "1336",
   "name": {
-    "KO": "드레이코 말포이 퀴디치 Ver.",
-    "JA": "ねんどろいど ドラコ・マルフォイ クィディッチ Ver. (ねんどろいど どらこ・まるふぉい くぃでぃっち Ver.)",
-    "EN": "Nendoroid Draco Malfoy: Quidditch Ver."
+    "ko": "드레이코 말포이 퀴디치 Ver.",
+    "ja": "ねんどろいど ドラコ・マルフォイ クィディッチ Ver. (ねんどろいど どらこ・まるふぉい くぃでぃっち Ver.)",
+    "en": "Nendoroid Draco Malfoy: Quidditch Ver."
   },
   "series": {
-    "KO": "해리포터 시리즈",
-    "JA": "ハリー・ポッター",
-    "EN": "Harry Potter"
+    "ko": "해리포터 시리즈",
+    "ja": "ハリー・ポッター",
+    "en": "Harry Potter"
   },
   "gsc_productNum": 9463,
   "price": 5000,

@@ -1,14 +1,14 @@
 {
   "num": "228",
   "name": {
-    "KO": "코바야시 카무이 응원 Ver.",
-    "JA": "ねんどろいど 小林可夢偉 がんばれ日本Ver. (ねんどろいど こばやしかむい がんばれにっぽんVer.)",
-    "EN": "Nendoroid Kamui Kobayashi: Ganbare Japan Ver. (ねんどろいど こばやしかむい がんばれにっぽんVer.)"
+    "ko": "코바야시 카무이 응원 Ver.",
+    "ja": "ねんどろいど 小林可夢偉 がんばれ日本Ver. (ねんどろいど こばやしかむい がんばれにっぽんVer.)",
+    "en": "Nendoroid Kamui Kobayashi: Ganbare Japan Ver. (ねんどろいど こばやしかむい がんばれにっぽんVer.)"
   },
   "series": {
-    "KO": "실존인물(레이서)",
-    "JA": "小林可夢偉",
-    "EN": "Kamui Kobayashi"
+    "ko": "실존인물(레이서)",
+    "ja": "小林可夢偉",
+    "en": "Kamui Kobayashi"
   },
   "gsc_productNum": 3461,
   "price": 4190,

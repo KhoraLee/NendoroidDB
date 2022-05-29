@@ -1,14 +1,14 @@
 {
   "num": "861",
   "name": {
-    "KO": "베아트리스",
-    "JA": "ねんどろいど ベアトリス (ねんどろいど べあとりす)",
-    "EN": "Nendoroid Beatrice"
+    "ko": "베아트리스",
+    "ja": "ねんどろいど ベアトリス (ねんどろいど べあとりす)",
+    "en": "Nendoroid Beatrice"
   },
   "series": {
-    "KO": "Re: 제로부터 시작하는 이세계 생활",
-    "JA": "Re:ゼロから始める異世界生活",
-    "EN": "Re:ZERO -Starting Life in Another World-"
+    "ko": "Re: 제로부터 시작하는 이세계 생활",
+    "ja": "Re:ゼロから始める異世界生活",
+    "en": "Re:ZERO -Starting Life in Another World-"
   },
   "gsc_productNum": 6917,
   "price": 5900,

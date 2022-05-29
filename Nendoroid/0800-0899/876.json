@@ -1,14 +1,14 @@
 {
   "num": "876",
   "name": {
-    "KO": "카즈마",
-    "JA": "ねんどろいど カズマ (ねんどろいど かずま)",
-    "EN": "Nendoroid Kazuma"
+    "ko": "카즈마",
+    "ja": "ねんどろいど カズマ (ねんどろいど かずま)",
+    "en": "Nendoroid Kazuma"
   },
   "series": {
-    "KO": "이 멋진 세계에 축복을!",
-    "JA": "この素晴らしい世界に祝福を！2",
-    "EN": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 2"
+    "ko": "이 멋진 세계에 축복을!",
+    "ja": "この素晴らしい世界に祝福を！2",
+    "en": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 2"
   },
   "gsc_productNum": 7000,
   "price": 5900,

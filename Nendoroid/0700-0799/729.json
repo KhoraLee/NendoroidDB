@@ -1,14 +1,14 @@
 {
   "num": "729",
   "name": {
-    "KO": "폴라",
-    "JA": "ねんどろいど Pola（ポーラ） (ねんどろいど ぽーら)",
-    "EN": "Nendoroid Pola"
+    "ko": "폴라",
+    "ja": "ねんどろいど Pola（ポーラ） (ねんどろいど ぽーら)",
+    "en": "Nendoroid Pola"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 6193,
   "price": 5907,

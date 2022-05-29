@@ -1,14 +1,14 @@
 {
   "num": "1530",
   "name": {
-    "KO": "V 남성 Ver.",
-    "JA": "ねんどろいど V 男性Ver. (ねんどろいど V だんせいVer.)",
-    "EN": "Nendoroid V: Male Ver."
+    "ko": "V 남성 Ver.",
+    "ja": "ねんどろいど V 男性Ver. (ねんどろいど V だんせいVer.)",
+    "en": "Nendoroid V: Male Ver."
   },
   "series": {
-    "KO": "사이버펑크 2077",
-    "JA": "サイバーパンク2077",
-    "EN": "Cyberpunk 2077"
+    "ko": "사이버펑크 2077",
+    "ja": "サイバーパンク2077",
+    "en": "Cyberpunk 2077"
   },
   "gsc_productNum": 10509,
   "price": 5200,

@@ -1,14 +1,14 @@
 {
   "num": "1230",
   "name": {
-    "KO": "아이언맨 Mk85 엔드게임 Ver.",
-    "JA": "ねんどろいど アイアンマン マーク85 エンドゲームVer. (ねんどろいど あいあんまん まーく85 えんどげーむVer.)",
-    "EN": "Nendoroid Iron Man Mark 85: Endgame Ver."
+    "ko": "아이언맨 Mk85 엔드게임 Ver.",
+    "ja": "ねんどろいど アイアンマン マーク85 エンドゲームVer. (ねんどろいど あいあんまん まーく85 えんどげーむVer.)",
+    "en": "Nendoroid Iron Man Mark 85: Endgame Ver."
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "アベンジャーズ／エンドゲーム",
-    "EN": "Avengers: Endgame"
+    "ko": "어벤져스",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "en": "Avengers: Endgame"
   },
   "gsc_productNum": 8975,
   "price": 4800,

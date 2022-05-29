@@ -1,14 +1,14 @@
 {
   "num": "325",
   "name": {
-    "KO": "마왕",
-    "JA": "ねんどろいど 魔王 (ねんどろいど まおう)",
-    "EN": "Nendoroid Demon King (ねんどろいど まおう)"
+    "ko": "마왕",
+    "ja": "ねんどろいど 魔王 (ねんどろいど まおう)",
+    "en": "Nendoroid Demon King (ねんどろいど まおう)"
   },
   "series": {
-    "KO": "마오유우 마왕용사",
-    "JA": "まおゆう魔王勇者",
-    "EN": "DEMON KING AND HERO"
+    "ko": "마오유우 마왕용사",
+    "ja": "まおゆう魔王勇者",
+    "en": "DEMON KING AND HERO"
   },
   "gsc_productNum": 3896,
   "price": 3981,

@@ -1,14 +1,14 @@
 {
   "num": "236",
   "name": {
-    "KO": "에스텔 브라이트",
-    "JA": "ねんどろいど エステル・ブライト (ねんどろいど えすてる・ぶらいと)",
-    "EN": "Nendoroid Estelle Bright (ねんどろいど えすてる・ぶらいと)"
+    "ko": "에스텔 브라이트",
+    "ja": "ねんどろいど エステル・ブライト (ねんどろいど えすてる・ぶらいと)",
+    "en": "Nendoroid Estelle Bright (ねんどろいど えすてる・ぶらいと)"
   },
   "series": {
-    "KO": "영웅전설 하늘의 궤적 SC",
-    "JA": "英雄伝説 空の軌跡 SC",
-    "EN": "The Legend of Heroes: Trails in the Sky - Second Chapter"
+    "ko": "영웅전설 하늘의 궤적 SC",
+    "ja": "英雄伝説 空の軌跡 SC",
+    "en": "The Legend of Heroes: Trails in the Sky - Second Chapter"
   },
   "gsc_productNum": 3486,
   "price": 3667,

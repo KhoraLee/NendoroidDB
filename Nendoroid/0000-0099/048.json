@@ -1,14 +1,14 @@
 {
   "num": "048",
   "name": {
-    "KO": "난교쿠 사쿠라",
-    "JA": "ねんどろいど 南極さくら (なんきょくさくら ねんどろいど)",
-    "EN": "Nendoroid Sakura Nankyoku (なんきょくさくら ねんどろいど)"
+    "ko": "난교쿠 사쿠라",
+    "ja": "ねんどろいど 南極さくら (なんきょくさくら ねんどろいど)",
+    "en": "Nendoroid Sakura Nankyoku (なんきょくさくら ねんどろいど)"
   },
   "series": {
-    "KO": "펭귄 아가씨 하트",
-    "JA": "ペンギン娘はぁと",
-    "EN": "Penguin Girl Heart"
+    "ko": "펭귄 아가씨 하트",
+    "ja": "ペンギン娘はぁと",
+    "en": "Penguin Girl Heart"
   },
   "gsc_productNum": 260,
   "price": 3667,

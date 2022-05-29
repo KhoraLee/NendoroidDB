@@ -1,14 +1,14 @@
 {
   "num": "115",
   "name": {
-    "KO": "레밀리아 스칼렛",
-    "JA": "ねんどろいど レミリア・スカーレット (ねんどろいど れみりあ・すかーれっと)",
-    "EN": "Nendoroid Remilia Scarlet (ねんどろいど れみりあ・すかーれっと)"
+    "ko": "레밀리아 스칼렛",
+    "ja": "ねんどろいど レミリア・スカーレット (ねんどろいど れみりあ・すかーれっと)",
+    "en": "Nendoroid Remilia Scarlet (ねんどろいど れみりあ・すかーれっと)"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 2859,
   "price": 3143,

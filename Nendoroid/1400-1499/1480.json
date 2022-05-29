@@ -1,14 +1,14 @@
 {
   "num": "1480",
   "name": {
-    "KO": "캬루",
-    "JA": "ねんどろいど キャル (ねんどろいど きゃる)",
-    "EN": "Nendoroid Karyl"
+    "ko": "캬루",
+    "ja": "ねんどろいど キャル (ねんどろいど きゃる)",
+    "en": "Nendoroid Karyl"
   },
   "series": {
-    "KO": "프린세스 커넥트! Re:Dive",
-    "JA": "プリンセスコネクト！Re:Dive",
-    "EN": "Princess Connect! Re: Dive"
+    "ko": "프린세스 커넥트! Re:Dive",
+    "ja": "プリンセスコネクト！Re:Dive",
+    "en": "Princess Connect! Re: Dive"
   },
   "gsc_productNum": 10178,
   "price": 5800,

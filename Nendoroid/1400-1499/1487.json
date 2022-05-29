@@ -1,14 +1,14 @@
 {
   "num": "1487",
   "name": {
-    "KO": "소라 Ⅱ Ver.",
-    "JA": "ねんどろいど ソラ キングダム ハーツⅡVer. (ねんどろいど そら きんぐだむ はーつⅡVer.)",
-    "EN": "Nendoroid Sora: Kingdom Hearts II Ver."
+    "ko": "소라 Ⅱ Ver.",
+    "ja": "ねんどろいど ソラ キングダム ハーツⅡVer. (ねんどろいど そら きんぐだむ はーつⅡVer.)",
+    "en": "Nendoroid Sora: Kingdom Hearts II Ver."
   },
   "series": {
-    "KO": "킹덤 하츠",
-    "JA": "キングダム ハーツⅡ",
-    "EN": "Kingdom Hearts II"
+    "ko": "킹덤 하츠",
+    "ja": "キングダム ハーツⅡ",
+    "en": "Kingdom Hearts II"
   },
   "gsc_productNum": 10192,
   "price": 5400,

@@ -1,14 +1,14 @@
 {
   "num": "1169",
   "name": {
-    "KO": "액셀러레이터",
-    "JA": "ねんどろいど アクセラレータ (ねんどろいど あくせられーた)",
-    "EN": "Nendoroid Accelerator"
+    "ko": "액셀러레이터",
+    "ja": "ねんどろいど アクセラレータ (ねんどろいど あくせられーた)",
+    "en": "Nendoroid Accelerator"
   },
   "series": {
-    "KO": "어떤 과학의 일방통행",
-    "JA": "とある科学の一方通行",
-    "EN": "A Certain Scientific Accelerator"
+    "ko": "어떤 과학의 일방통행",
+    "ja": "とある科学の一方通行",
+    "en": "A Certain Scientific Accelerator"
   },
   "gsc_productNum": 8556,
   "price": 5000,

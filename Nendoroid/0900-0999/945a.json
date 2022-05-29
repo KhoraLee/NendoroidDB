@@ -1,14 +1,14 @@
 {
   "num": "945a",
   "name": {
-    "KO": "다나카 류노스케",
-    "JA": "ねんどろいど 田中龍之介 (ねんどろいど たなかりゅうのすけ)",
-    "EN": "Nendoroid Ryunosuke Tanaka"
+    "ko": "다나카 류노스케",
+    "ja": "ねんどろいど 田中龍之介 (ねんどろいど たなかりゅうのすけ)",
+    "en": "Nendoroid Ryunosuke Tanaka"
   },
   "series": {
-    "KO": "하이큐!!",
-    "JA": "ハイキュー!!",
-    "EN": "Haikyu!!"
+    "ko": "하이큐!!",
+    "ja": "ハイキュー!!",
+    "en": "Haikyu!!"
   },
   "gsc_productNum": 7312,
   "price": 4584,

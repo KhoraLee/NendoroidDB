@@ -1,14 +1,14 @@
 {
   "num": "646",
   "name": {
-    "KO": "코라",
-    "JA": "ねんどろいど コーラ (ねんどろいど こーら)",
-    "EN": "Nendoroid Korra"
+    "ko": "코라",
+    "ja": "ねんどろいど コーラ (ねんどろいど こーら)",
+    "en": "Nendoroid Korra"
   },
   "series": {
-    "KO": "코라의 전설",
-    "JA": "ザ・レジェンド・オブ・コーラ",
-    "EN": "The Legend of Korra"
+    "ko": "코라의 전설",
+    "ja": "ザ・レジェンド・オブ・コーラ",
+    "en": "The Legend of Korra"
   },
   "gsc_productNum": 5767,
   "price": 4888,

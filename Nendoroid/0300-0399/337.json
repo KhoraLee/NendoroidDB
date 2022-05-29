@@ -1,14 +1,14 @@
 {
   "num": "337",
   "name": {
-    "KO": "아이린",
-    "JA": "ねんどろいど アイリーン (ねんどろいど あいりーん)",
-    "EN": "Nendoroid Irine (ねんどろいど あいりーん)"
+    "ko": "아이린",
+    "ja": "ねんどろいど アイリーン (ねんどろいど あいりーん)",
+    "en": "Nendoroid Irine (ねんどろいど あいりーん)"
   },
   "series": {
-    "KO": "드래곤네스트",
-    "JA": "ドラゴンネスト",
-    "EN": "Dragon Nest"
+    "ko": "드래곤네스트",
+    "ja": "ドラゴンネスト",
+    "en": "Dragon Nest"
   },
   "gsc_productNum": 3661,
   "price": 3981,

@@ -1,14 +1,14 @@
 {
   "num": "1188",
   "name": {
-    "KO": "마도학자",
-    "JA": "ねんどろいど ジーニーウィズ (ねんどろいど じーにーうぃず)",
-    "EN": "Nendoroid Geniewiz"
+    "ko": "마도학자",
+    "ja": "ねんどろいど ジーニーウィズ (ねんどろいど じーにーうぃず)",
+    "en": "Nendoroid Geniewiz"
   },
   "series": {
-    "KO": "던전 앤 파이터",
-    "JA": "アラド戦記",
-    "EN": "Dungeon Fighter Online"
+    "ko": "던전 앤 파이터",
+    "ja": "アラド戦記",
+    "en": "Dungeon Fighter Online"
   },
   "gsc_productNum": 8421,
   "price": 6500,

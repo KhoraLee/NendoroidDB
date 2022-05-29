@@ -1,14 +1,14 @@
 {
   "num": "1292",
   "name": {
-    "KO": "UMP9",
-    "JA": "ねんどろいど UMP9 (ねんどろいど UMP9)",
-    "EN": "Nendoroid UMP9"
+    "ko": "UMP9",
+    "ja": "ねんどろいど UMP9 (ねんどろいど UMP9)",
+    "en": "Nendoroid UMP9"
   },
   "series": {
-    "KO": "소녀전선",
-    "JA": "ドールズフロントライン",
-    "EN": "Girls\u0027 Frontline"
+    "ko": "소녀전선",
+    "ja": "ドールズフロントライン",
+    "en": "Girls\u0027 Frontline"
   },
   "gsc_productNum": 9311,
   "price": 5900,

@@ -1,14 +1,14 @@
 {
   "num": "438",
   "name": {
-    "KO": "키류인 사츠키",
-    "JA": "ねんどろいど 鬼龍院皐月 (ねんどろいど きりゅういんさつき)",
-    "EN": "Nendoroid Satsuki Kiryuin"
+    "ko": "키류인 사츠키",
+    "ja": "ねんどろいど 鬼龍院皐月 (ねんどろいど きりゅういんさつき)",
+    "en": "Nendoroid Satsuki Kiryuin"
   },
   "series": {
-    "KO": "킬라킬",
-    "JA": "キルラキル",
-    "EN": "KILL la KILL"
+    "ko": "킬라킬",
+    "ja": "キルラキル",
+    "en": "KILL la KILL"
   },
   "gsc_productNum": 4487,
   "price": 4278,

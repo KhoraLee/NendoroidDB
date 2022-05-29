@@ -1,14 +1,14 @@
 {
   "num": "426",
   "name": {
-    "KO": "카가",
-    "JA": "ねんどろいど 加賀 (ねんどろいど かが)",
-    "EN": "Nendoroid Kaga (ねんどろいど かが)"
+    "ko": "카가",
+    "ja": "ねんどろいど 加賀 (ねんどろいど かが)",
+    "en": "Nendoroid Kaga (ねんどろいど かが)"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 4416,
   "price": 4584,

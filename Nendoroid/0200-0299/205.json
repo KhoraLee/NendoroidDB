@@ -1,14 +1,14 @@
 {
   "num": "205",
   "name": {
-    "KO": "샬롯 E. 예거",
-    "JA": "ねんどろいど シャーロット・E・イェーガー (ねんどろいど しゃーろっと・E・いぇーがー)",
-    "EN": "Nendoroid Charlotte E. Yeager (ねんどろいど しゃーろっと・E・いぇーがー)"
+    "ko": "샬롯 E. 예거",
+    "ja": "ねんどろいど シャーロット・E・イェーガー (ねんどろいど しゃーろっと・E・いぇーがー)",
+    "en": "Nendoroid Charlotte E. Yeager (ねんどろいど しゃーろっと・E・いぇーがー)"
   },
   "series": {
-    "KO": "스트라이크 위치스",
-    "JA": "ストライクウィッチーズ",
-    "EN": "Strike Witches"
+    "ko": "스트라이크 위치스",
+    "ja": "ストライクウィッチーズ",
+    "en": "Strike Witches"
   },
   "gsc_productNum": 3327,
   "price": 4190,

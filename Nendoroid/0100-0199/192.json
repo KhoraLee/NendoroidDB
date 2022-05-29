@@ -1,14 +1,14 @@
 {
   "num": "192",
   "name": {
-    "KO": "유네",
-    "JA": "ねんどろいど 湯音 (ねんどろいど ゆね)",
-    "EN": "Nendoroid Yune (ねんどろいど ゆね)"
+    "ko": "유네",
+    "ja": "ねんどろいど 湯音 (ねんどろいど ゆね)",
+    "en": "Nendoroid Yune (ねんどろいど ゆね)"
   },
   "series": {
-    "KO": "이국미로의 크로와제",
-    "JA": "異国迷路のクロワーゼ",
-    "EN": "Ikoku Meiro no Croisée"
+    "ko": "이국미로의 크로와제",
+    "ja": "異国迷路のクロワーゼ",
+    "en": "Ikoku Meiro no Croisée"
   },
   "gsc_productNum": 3265,
   "price": 3667,

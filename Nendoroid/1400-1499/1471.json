@@ -1,14 +1,14 @@
 {
   "num": "1471",
   "name": {
-    "KO": "베이루오",
-    "JA": "ねんどろいど 北洛 (ねんどろいど べー・ろ)",
-    "EN": "Nendoroid Beiluo"
+    "ko": "베이루오",
+    "ja": "ねんどろいど 北洛 (ねんどろいど べー・ろ)",
+    "en": "Nendoroid Beiluo"
   },
   "series": {
-    "KO": "고검기담3",
-    "JA": "古剣奇譚三",
-    "EN": "Gujian 3"
+    "ko": "고검기담3",
+    "ja": "古剣奇譚三",
+    "en": "Gujian 3"
   },
   "gsc_productNum": 10240,
   "price": 5300,

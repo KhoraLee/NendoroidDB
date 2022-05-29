@@ -1,14 +1,14 @@
 {
   "num": "1765",
   "name": {
-    "KO": "옵티머스 프라임(G1)",
-    "JA": "ねんどろいど オプティマスプライム(G1 Ver.) (ねんどろいど おぷてぃますぷらいむ(G1 Ver.))",
-    "EN": "Nendoroid Optimus Prime (G1 Ver.)"
+    "ko": "옵티머스 프라임(G1)",
+    "ja": "ねんどろいど オプティマスプライム(G1 Ver.) (ねんどろいど おぷてぃますぷらいむ(G1 Ver.))",
+    "en": "Nendoroid Optimus Prime (G1 Ver.)"
   },
   "series": {
-    "KO": "트랜스포머 시리즈",
-    "JA": "トランスフォーマー",
-    "EN": "Transformers"
+    "ko": "트랜스포머 시리즈",
+    "ja": "トランスフォーマー",
+    "en": "Transformers"
   },
   "gsc_productNum": 12031,
   "price": 5500,

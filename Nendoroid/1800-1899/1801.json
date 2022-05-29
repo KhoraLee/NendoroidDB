@@ -1,14 +1,14 @@
 {
   "num": "1801",
   "name": {
-    "KO": "RM",
-    "JA": "ねんどろいど RM",
-    "EN": "Nendoroid RM"
+    "ko": "RM",
+    "ja": "ねんどろいど RM",
+    "en": "Nendoroid RM"
   },
   "series": {
-    "KO": "방탄소년단",
-    "JA": "TinyTAN",
-    "EN": "TinyTAN"
+    "ko": "방탄소년단",
+    "ja": "TinyTAN",
+    "en": "TinyTAN"
   },
   "gsc_productNum": 12105,
   "price": 5000,

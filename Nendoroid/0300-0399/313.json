@@ -1,14 +1,14 @@
 {
   "num": "313",
   "name": {
-    "KO": "모노쿠마",
-    "JA": "ねんどろいど モノクマ (ねんどろいど ものくま)",
-    "EN": "Nendoroid Monokuma (ねんどろいど ものくま)"
+    "ko": "모노쿠마",
+    "ja": "ねんどろいど モノクマ (ねんどろいど ものくま)",
+    "en": "Nendoroid Monokuma (ねんどろいど ものくま)"
   },
   "series": {
-    "KO": "단간론파",
-    "JA": "スーパーダンガンロンパ２ さよなら絶望学園",
-    "EN": "Super Danganronpa 2: Sayonara Zetsubou Gakuen"
+    "ko": "단간론파",
+    "ja": "スーパーダンガンロンパ２ さよなら絶望学園",
+    "en": "Super Danganronpa 2: Sayonara Zetsubou Gakuen"
   },
   "gsc_productNum": 3849,
   "price": 3143,

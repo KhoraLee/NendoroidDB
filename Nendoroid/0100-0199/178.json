@@ -1,14 +1,14 @@
 {
   "num": "178",
   "name": {
-    "KO": "이카로스",
-    "JA": "ねんどろいど イカロス (ねんどろいど いかろす)",
-    "EN": "Nendoroid Ikaros (ねんどろいど いかろす)"
+    "ko": "이카로스",
+    "ja": "ねんどろいど イカロス (ねんどろいど いかろす)",
+    "en": "Nendoroid Ikaros (ねんどろいど いかろす)"
   },
   "series": {
-    "KO": "하늘의 유실물",
-    "JA": "そらのおとしものf（フォルテ）",
-    "EN": "Sora no Otoshimono Forte"
+    "ko": "하늘의 유실물",
+    "ja": "そらのおとしものf（フォルテ）",
+    "en": "Sora no Otoshimono Forte"
   },
   "gsc_productNum": 3179,
   "price": 3667,

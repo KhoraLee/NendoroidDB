@@ -1,14 +1,14 @@
 {
   "num": "1142",
   "name": {
-    "KO": "세이버/알트리아 펜드래건[얼터]",
-    "JA": "ねんどろいど セイバー/アルトリア・ペンドラゴン〔オルタ〕新宿Ver. (ねんどろいど せいばー/あるとりあ・ぺんどらごん〔おるた〕しんじゅくVer.)",
-    "EN": "Nendoroid Saber/Altria Pendragon (Alter) Shinjuku Ver."
+    "ko": "세이버/알트리아 펜드래건[얼터]",
+    "ja": "ねんどろいど セイバー/アルトリア・ペンドラゴン〔オルタ〕新宿Ver. (ねんどろいど せいばー/あるとりあ・ぺんどらごん〔おるた〕しんじゅくVer.)",
+    "en": "Nendoroid Saber/Altria Pendragon (Alter) Shinjuku Ver."
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 8392,
   "price": 4600,

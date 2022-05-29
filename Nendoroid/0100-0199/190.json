@@ -1,14 +1,14 @@
 {
   "num": "190",
   "name": {
-    "KO": "카가미네 렌 응원 Ver.",
-    "JA": "ねんどろいど 鏡音レン 応援Ver. (ねんどろいど かがみねれん おうえんVer.)",
-    "EN": "Nendoroid Len Kagamine: Cheerful Ver. (ねんどろいど かがみねれん おうえんver.)"
+    "ko": "카가미네 렌 응원 Ver.",
+    "ja": "ねんどろいど 鏡音レン 応援Ver. (ねんどろいど かがみねれん おうえんVer.)",
+    "en": "Nendoroid Len Kagamine: Cheerful Ver. (ねんどろいど かがみねれん おうえんver.)"
   },
   "series": {
-    "KO": "보컬로이드(VOCALOID)",
-    "JA": "キャラクター・ボーカル・シリーズ02　鏡音リン・レン",
-    "EN": "Character Vocal Series 02 : Rin/Len Kagamine"
+    "ko": "보컬로이드(VOCALOID)",
+    "ja": "キャラクター・ボーカル・シリーズ02　鏡音リン・レン",
+    "en": "Character Vocal Series 02 : Rin/Len Kagamine"
   },
   "gsc_productNum": 3244,
   "price": 3143,

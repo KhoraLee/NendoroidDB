@@ -1,14 +1,14 @@
 {
   "num": "1493",
   "name": {
-    "KO": "잭 프로스트",
-    "JA": "ねんどろいど じゃあくフロスト (ねんどろいど じゃあくふろすと)",
-    "EN": "Nendoroid Black Frost"
+    "ko": "잭 프로스트",
+    "ja": "ねんどろいど じゃあくフロスト (ねんどろいど じゃあくふろすと)",
+    "en": "Nendoroid Black Frost"
   },
   "series": {
-    "KO": "진 여신전생",
-    "JA": "真・女神転生",
-    "EN": "Shin Megami Tensei"
+    "ko": "진 여신전생",
+    "ja": "真・女神転生",
+    "en": "Shin Megami Tensei"
   },
   "gsc_productNum": 10254,
   "price": 5500,

@@ -1,14 +1,14 @@
 {
   "num": "1050-DX",
   "name": {
-    "KO": "그리드맨 DX Ver.",
-    "JA": "ねんどろいど グリッドマン SSSS. DX Ver. (ねんどろいど ぐりっどまん SSSS. DX Ver.)",
-    "EN": "Nendoroid Gridman: SSSS. DX Ver."
+    "ko": "그리드맨 DX Ver.",
+    "ja": "ねんどろいど グリッドマン SSSS. DX Ver. (ねんどろいど ぐりっどまん SSSS. DX Ver.)",
+    "en": "Nendoroid Gridman: SSSS. DX Ver."
   },
   "series": {
-    "KO": "SSSS.GRIDMAN",
-    "JA": "SSSS.GRIDMAN",
-    "EN": "SSSS.GRIDMAN"
+    "ko": "SSSS.GRIDMAN",
+    "ja": "SSSS.GRIDMAN",
+    "en": "SSSS.GRIDMAN"
   },
   "gsc_productNum": 7876,
   "price": 7334,

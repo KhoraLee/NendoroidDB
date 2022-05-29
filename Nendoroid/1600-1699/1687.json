@@ -1,14 +1,14 @@
 {
   "num": "1687",
   "name": {
-    "KO": "호쇼 마린",
-    "JA": "ねんどろいど 宝鐘マリン (ねんどろいど ほうしょうまりん)",
-    "EN": "Nendoroid Houshou Marine"
+    "ko": "호쇼 마린",
+    "ja": "ねんどろいど 宝鐘マリン (ねんどろいど ほうしょうまりん)",
+    "en": "Nendoroid Houshou Marine"
   },
   "series": {
-    "KO": "버추얼 유튜버 (홀로라이브)",
-    "JA": "ホロライブプロダクション",
-    "EN": "hololive production"
+    "ko": "버추얼 유튜버 (홀로라이브)",
+    "ja": "ホロライブプロダクション",
+    "en": "hololive production"
   },
   "gsc_productNum": 11559,
   "price": 6200,

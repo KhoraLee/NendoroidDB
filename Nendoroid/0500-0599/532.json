@@ -1,14 +1,14 @@
 {
   "num": "532",
   "name": {
-    "KO": "세가 새턴",
-    "JA": "ねんどろいど セガサターン (ねんどろいど せがさたーん)",
-    "EN": "Nendoroid Sega Saturn (ねんどろいど せがさたーん)"
+    "ko": "세가 새턴",
+    "ja": "ねんどろいど セガサターン (ねんどろいど せがさたーん)",
+    "en": "Nendoroid Sega Saturn (ねんどろいど せがさたーん)"
   },
   "series": {
-    "KO": "Hi☆sCoool! 세하걸",
-    "JA": "Hi☆sCoool! セハガール",
-    "EN": "Hi☆sCoool! Seha Girls"
+    "ko": "Hi☆sCoool! 세하걸",
+    "ja": "Hi☆sCoool! セハガール",
+    "en": "Hi☆sCoool! Seha Girls"
   },
   "gsc_productNum": 5086,
   "price": 4888,

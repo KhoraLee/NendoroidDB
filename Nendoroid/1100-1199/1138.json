@@ -1,14 +1,14 @@
 {
   "num": "1138",
   "name": {
-    "KO": "키리토 상급수검사 Ver.",
-    "JA": "ねんどろいど キリト 上級修剣士Ver. (ねんどろいど きりと じょうきゅうしゅうけんしVer.)",
-    "EN": "Nendoroid Kirito: Elite Disciple Ver."
+    "ko": "키리토 상급수검사 Ver.",
+    "ja": "ねんどろいど キリト 上級修剣士Ver. (ねんどろいど きりと じょうきゅうしゅうけんしVer.)",
+    "en": "Nendoroid Kirito: Elite Disciple Ver."
   },
   "series": {
-    "KO": "소드 아트 온라인",
-    "JA": "ソードアート・オンライン アリシゼーション",
-    "EN": "Sword Art Online: Alicization"
+    "ko": "소드 아트 온라인",
+    "ja": "ソードアート・オンライン アリシゼーション",
+    "en": "Sword Art Online: Alicization"
   },
   "gsc_productNum": 8346,
   "price": 5000,

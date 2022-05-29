@@ -1,14 +1,14 @@
 {
   "num": "1578",
   "name": {
-    "KO": "레이싱 미쿠 2021 Ver.",
-    "JA": "ねんどろいど レーシングミク 2021Ver. (ねんどろいど れーしんぐみく 2021Ver.)",
-    "EN": "Nendoroid Racing Miku: 2021 Ver."
+    "ko": "레이싱 미쿠 2021 Ver.",
+    "ja": "ねんどろいど レーシングミク 2021Ver. (ねんどろいど れーしんぐみく 2021Ver.)",
+    "en": "Nendoroid Racing Miku: 2021 Ver."
   },
   "series": {
-    "KO": "보컬로이드(VOCALOID)",
-    "JA": "初音ミク GTプロジェクト",
-    "EN": "Hatsune Miku GT Project"
+    "ko": "보컬로이드(VOCALOID)",
+    "ja": "初音ミク GTプロジェクト",
+    "en": "Hatsune Miku GT Project"
   },
   "gsc_productNum": 10846,
   "price": 6800,

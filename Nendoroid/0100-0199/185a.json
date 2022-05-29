@@ -1,14 +1,14 @@
 {
   "num": "185a",
   "name": {
-    "KO": "아이사카 타이가",
-    "JA": "ねんどろいど 逢坂大河 (ねんどろいど あいさかたいが)",
-    "EN": "Nendoroid Taiga Aisaka (ねんどろいど あいさかたいが)"
+    "ko": "아이사카 타이가",
+    "ja": "ねんどろいど 逢坂大河 (ねんどろいど あいさかたいが)",
+    "en": "Nendoroid Taiga Aisaka (ねんどろいど あいさかたいが)"
   },
   "series": {
-    "KO": "토라도라!",
-    "JA": "とらドラ！",
-    "EN": "Toradora!"
+    "ko": "토라도라!",
+    "ja": "とらドラ！",
+    "en": "Toradora!"
   },
   "gsc_productNum": 3240,
   "price": 3667,

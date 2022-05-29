@@ -1,14 +1,14 @@
 {
   "num": "314",
   "name": {
-    "KO": "세실리아 올코트",
-    "JA": "ねんどろいど セシリア・オルコット (ねんどろいど せしりあ・おるこっと)",
-    "EN": "Nendoroid Cecilia Alcott (ねんどろいど せしりあ・おるこっと)"
+    "ko": "세실리아 올코트",
+    "ja": "ねんどろいど セシリア・オルコット (ねんどろいど せしりあ・おるこっと)",
+    "en": "Nendoroid Cecilia Alcott (ねんどろいど せしりあ・おるこっと)"
   },
   "series": {
-    "KO": "인피니트 스트라토스",
-    "JA": "IS \u003cインフィニット・ストラトス\u003e",
-    "EN": "IS \u003cInfinite Stratos\u003e"
+    "ko": "인피니트 스트라토스",
+    "ja": "IS \u003cインフィニット・ストラトス\u003e",
+    "en": "IS \u003cInfinite Stratos\u003e"
   },
   "gsc_productNum": 3850,
   "price": 3667,

@@ -1,14 +1,14 @@
 {
   "num": "338",
   "name": {
-    "KO": "미야후지 요시카 신덴 Ver.",
-    "JA": "ねんどろいど 宮藤芳佳 震電Ver. (ねんどろいど みやふじよしか しんでんVer.)",
-    "EN": "Nendoroid Yoshika Miyafuji: Shinden Ver. (ねんどろいど みやふじよしか しんでんVer.)"
+    "ko": "미야후지 요시카 신덴 Ver.",
+    "ja": "ねんどろいど 宮藤芳佳 震電Ver. (ねんどろいど みやふじよしか しんでんVer.)",
+    "en": "Nendoroid Yoshika Miyafuji: Shinden Ver. (ねんどろいど みやふじよしか しんでんVer.)"
   },
   "series": {
-    "KO": "스트라이크 위치스",
-    "JA": "ストライクウィッチーズ2",
-    "EN": "Strike Witches 2"
+    "ko": "스트라이크 위치스",
+    "ja": "ストライクウィッチーズ2",
+    "en": "Strike Witches 2"
   },
   "gsc_productNum": 3928,
   "price": 4190,

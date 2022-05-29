@@ -1,14 +1,14 @@
 {
   "num": "306",
   "name": {
-    "KO": "시노노노 호키",
-    "JA": "ねんどろいど 篠ノ之箒 (ねんどろいど しのののほうき)",
-    "EN": "Nendoroid Houki Shinonono (ねんどろいど しのののほうき)"
+    "ko": "시노노노 호키",
+    "ja": "ねんどろいど 篠ノ之箒 (ねんどろいど しのののほうき)",
+    "en": "Nendoroid Houki Shinonono (ねんどろいど しのののほうき)"
   },
   "series": {
-    "KO": "인피니트 스트라토스",
-    "JA": "IS \u003cインフィニット・ストラトス\u003e",
-    "EN": "IS \u003cInfinite Stratos\u003e"
+    "ko": "인피니트 스트라토스",
+    "ja": "IS \u003cインフィニット・ストラトス\u003e",
+    "en": "IS \u003cInfinite Stratos\u003e"
   },
   "gsc_productNum": 3791,
   "price": 3667,

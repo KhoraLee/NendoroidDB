@@ -1,14 +1,14 @@
 {
   "num": "998",
   "name": {
-    "KO": "그린",
-    "JA": "ねんどろいど グリーン (ねんどろいど ぐりーん)",
-    "EN": "Nendoroid Green"
+    "ko": "그린",
+    "ja": "ねんどろいど グリーン (ねんどろいど ぐりーん)",
+    "en": "Nendoroid Green"
   },
   "series": {
-    "KO": "포켓몬스터",
-    "JA": "ポケットモンスター",
-    "EN": "Pokémon"
+    "ko": "포켓몬스터",
+    "ja": "ポケットモンスター",
+    "en": "Pokémon"
   },
   "gsc_productNum": 7587,
   "price": 5907,

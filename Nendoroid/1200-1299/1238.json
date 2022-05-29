@@ -1,14 +1,14 @@
 {
   "num": "1238",
   "name": {
-    "KO": "쇼콜라",
-    "JA": "ねんどろいど ショコラ (ねんどろいど しょこら)",
-    "EN": "Nendoroid Chocola"
+    "ko": "쇼콜라",
+    "ja": "ねんどろいど ショコラ (ねんどろいど しょこら)",
+    "en": "Nendoroid Chocola"
   },
   "series": {
-    "KO": "네코파라",
-    "JA": "ネコぱら",
-    "EN": "NEKOPARA"
+    "ko": "네코파라",
+    "ja": "ネコぱら",
+    "en": "NEKOPARA"
   },
   "gsc_productNum": 9010,
   "price": 5100,

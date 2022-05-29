@@ -1,14 +1,14 @@
 {
   "num": "1286",
   "name": {
-    "KO": "후지마루 리츠카",
-    "JA": "ねんどろいど マスター/主人公 男 (ねんどろいど ますたー/しゅじんこう おとこ)",
-    "EN": "Nendoroid Master/Male Protagonist"
+    "ko": "후지마루 리츠카",
+    "ja": "ねんどろいど マスター/主人公 男 (ねんどろいど ますたー/しゅじんこう おとこ)",
+    "en": "Nendoroid Master/Male Protagonist"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 9244,
   "price": 4800,

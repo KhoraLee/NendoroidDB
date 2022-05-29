@@ -1,14 +1,14 @@
 {
   "num": "802",
   "name": {
-    "KO": "미야미즈 미츠하",
-    "JA": "ねんどろいど 宮水三葉 (ねんどろいど みやみずみつは)",
-    "EN": "Nendoroid Mitsuha Miyamizu"
+    "ko": "미야미즈 미츠하",
+    "ja": "ねんどろいど 宮水三葉 (ねんどろいど みやみずみつは)",
+    "en": "Nendoroid Mitsuha Miyamizu"
   },
   "series": {
-    "KO": "너의 이름은.",
-    "JA": "君の名は。",
-    "EN": "Your Name."
+    "ko": "너의 이름은.",
+    "ja": "君の名は。",
+    "en": "Your Name."
   },
   "gsc_productNum": 6596,
   "price": 3565,

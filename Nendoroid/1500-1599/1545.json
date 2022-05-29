@@ -1,14 +1,14 @@
 {
   "num": "1545",
   "name": {
-    "KO": "수수께끼의 히로인 X[얼터]",
-    "JA": "ねんどろいど バーサーカー/謎のヒロインX〔オルタ〕 (ねんどろいど ばーさーかー/なぞのひろいんえっくす〔おるた〕)",
-    "EN": "Nendoroid Berserker/Mysterious Heroine X (Alter)"
+    "ko": "수수께끼의 히로인 X[얼터]",
+    "ja": "ねんどろいど バーサーカー/謎のヒロインX〔オルタ〕 (ねんどろいど ばーさーかー/なぞのひろいんえっくす〔おるた〕)",
+    "en": "Nendoroid Berserker/Mysterious Heroine X (Alter)"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 10629,
   "price": 5800,

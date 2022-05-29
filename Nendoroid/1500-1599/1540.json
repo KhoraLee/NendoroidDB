@@ -1,14 +1,14 @@
 {
   "num": "1540",
   "name": {
-    "KO": "아쿠아 Winter Ver.",
-    "JA": "ねんどろいど アクア Winter Ver. (ねんどろいど あくあ うぃんたー Ver.)",
-    "EN": "Nendoroid Aqua: Winter Ver."
+    "ko": "아쿠아 Winter Ver.",
+    "ja": "ねんどろいど アクア Winter Ver. (ねんどろいど あくあ うぃんたー Ver.)",
+    "en": "Nendoroid Aqua: Winter Ver."
   },
   "series": {
-    "KO": "이 멋진 세계에 축복을!",
-    "JA": "この素晴らしい世界に祝福を！",
-    "EN": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO!"
+    "ko": "이 멋진 세계에 축복을!",
+    "ja": "この素晴らしい世界に祝福を！",
+    "en": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO!"
   },
   "gsc_productNum": 10691,
   "price": 5500,

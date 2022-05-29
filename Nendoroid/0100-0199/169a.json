@@ -1,14 +1,14 @@
 {
   "num": "169a",
   "name": {
-    "KO": "니크스",
-    "JA": "ねんどろいど ニクス (ねんどろいど にくす)",
-    "EN": "Nendoroid Nyx (ねんどろいど にくす)"
+    "ko": "니크스",
+    "ja": "ねんどろいど ニクス (ねんどろいど にくす)",
+    "en": "Nendoroid Nyx (ねんどろいど にくす)"
   },
   "series": {
-    "KO": "퀸즈 블레이드",
-    "JA": "クイーンズブレイド",
-    "EN": "Queen\u0027s Blade"
+    "ko": "퀸즈 블레이드",
+    "ja": "クイーンズブレイド",
+    "en": "Queen\u0027s Blade"
   },
   "gsc_productNum": 3126,
   "price": 3667,

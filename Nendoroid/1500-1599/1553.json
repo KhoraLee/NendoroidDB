@@ -1,14 +1,14 @@
 {
   "num": "1553",
   "name": {
-    "KO": "블레이크 벨라도나",
-    "JA": "ねんどろいど ブレイク・ベラドンナ (ねんどろいど ぶれいく・べらどんな)",
-    "EN": "Nendoroid Blake Belladonna"
+    "ko": "블레이크 벨라도나",
+    "ja": "ねんどろいど ブレイク・ベラドンナ (ねんどろいど ぶれいく・べらどんな)",
+    "en": "Nendoroid Blake Belladonna"
   },
   "series": {
-    "KO": "RWBY",
-    "JA": "RWBY(ルビー)",
-    "EN": "RWBY"
+    "ko": "RWBY",
+    "ja": "RWBY(ルビー)",
+    "en": "RWBY"
   },
   "gsc_productNum": 10676,
   "price": 5200,

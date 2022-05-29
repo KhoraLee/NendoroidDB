@@ -1,14 +1,14 @@
 {
   "num": "391",
   "name": {
-    "KO": "아카기",
-    "JA": "ねんどろいど 赤城 (ねんどろいど あかぎ)",
-    "EN": "Nendoroid Akagi (ねんどろいど あかぎ)"
+    "ko": "아카기",
+    "ja": "ねんどろいど 赤城 (ねんどろいど あかぎ)",
+    "en": "Nendoroid Akagi (ねんどろいど あかぎ)"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 4161,
   "price": 4584,

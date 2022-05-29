@@ -1,14 +1,14 @@
 {
   "num": "1210",
   "name": {
-    "KO": "오쿠무라 하루 괴도복 Ver.",
-    "JA": "ねんどろいど 奥村春 怪盗服Ver. (ねんどろいど おくむらはる かいとうふくVer.)",
-    "EN": "Nendoroid Haru Okumura: Phantom Thief Ver."
+    "ko": "오쿠무라 하루 괴도복 Ver.",
+    "ja": "ねんどろいど 奥村春 怪盗服Ver. (ねんどろいど おくむらはる かいとうふくVer.)",
+    "en": "Nendoroid Haru Okumura: Phantom Thief Ver."
   },
   "series": {
-    "KO": "페르소나5",
-    "JA": "PERSONA5 the Animation",
-    "EN": "PERSONA5 the Animation"
+    "ko": "페르소나5",
+    "ja": "PERSONA5 the Animation",
+    "en": "PERSONA5 the Animation"
   },
   "gsc_productNum": 8792,
   "price": 5900,

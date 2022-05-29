@@ -1,14 +1,14 @@
 {
   "num": "1023",
   "name": {
-    "KO": "타카오",
-    "JA": "ねんどろいど 高雄 (ねんどろいど たかお)",
-    "EN": "Nendoroid Takao"
+    "ko": "타카오",
+    "ja": "ねんどろいど 高雄 (ねんどろいど たかお)",
+    "en": "Nendoroid Takao"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 7745,
   "price": 7028,

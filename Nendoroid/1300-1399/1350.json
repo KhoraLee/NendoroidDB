@@ -1,14 +1,14 @@
 {
   "num": "1350",
   "name": {
-    "KO": "알버스 덤블도어",
-    "JA": "ねんどろいど アルバス・ダンブルドア (ねんどろいど あるばす・だんぶるどあ)",
-    "EN": "Nendoroid Albus Dumbledore"
+    "ko": "알버스 덤블도어",
+    "ja": "ねんどろいど アルバス・ダンブルドア (ねんどろいど あるばす・だんぶるどあ)",
+    "en": "Nendoroid Albus Dumbledore"
   },
   "series": {
-    "KO": "해리포터 시리즈",
-    "JA": "ハリー・ポッター",
-    "EN": "Harry Potter"
+    "ko": "해리포터 시리즈",
+    "ja": "ハリー・ポッター",
+    "en": "Harry Potter"
   },
   "gsc_productNum": 9515,
   "price": 5200,

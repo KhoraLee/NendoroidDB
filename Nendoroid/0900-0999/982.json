@@ -1,14 +1,14 @@
 {
   "num": "982",
   "name": {
-    "KO": "오카베 린타로 호우인 교우마 Ver.",
-    "JA": "ねんどろいど 岡部倫太郎 鳳凰院凶真Ver. (ねんどろいど おかべりんたろう ほうおういんきょうまVer.)",
-    "EN": "Nendoroid Rintaro Okabe: Kyouma Hououin Ver."
+    "ko": "오카베 린타로 호우인 교우마 Ver.",
+    "ja": "ねんどろいど 岡部倫太郎 鳳凰院凶真Ver. (ねんどろいど おかべりんたろう ほうおういんきょうまVer.)",
+    "en": "Nendoroid Rintaro Okabe: Kyouma Hououin Ver."
   },
   "series": {
-    "KO": "슈타인즈 게이트",
-    "JA": "シュタインズ・ゲート",
-    "EN": "Steins;Gate"
+    "ko": "슈타인즈 게이트",
+    "ja": "シュタインズ・ゲート",
+    "en": "Steins;Gate"
   },
   "gsc_productNum": 7532,
   "price": 4584,

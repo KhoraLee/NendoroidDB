@@ -1,14 +1,14 @@
 {
   "num": "172b",
   "name": {
-    "KO": "레이싱 미쿠 2011 Ver.",
-    "JA": "ねんどろいど レーシングミク 2011 Ver. リターンズ (ねんどろいど れーしんぐみく 2011 Ver. りたーんず)",
-    "EN": "Nendoroid Racing Miku 2011 Ver. Returns (ねんどろいど れーしんぐみく 2011 Ver. りたーんず)"
+    "ko": "레이싱 미쿠 2011 Ver.",
+    "ja": "ねんどろいど レーシングミク 2011 Ver. リターンズ (ねんどろいど れーしんぐみく 2011 Ver. りたーんず)",
+    "en": "Nendoroid Racing Miku 2011 Ver. Returns (ねんどろいど れーしんぐみく 2011 Ver. りたーんず)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "初音ミク GTプロジェクト",
-    "EN": "Racing Miku"
+    "ko": "하츠네미쿠",
+    "ja": "初音ミク GTプロジェクト",
+    "en": "Racing Miku"
   },
   "gsc_productNum": 3678,
   "price": -1,

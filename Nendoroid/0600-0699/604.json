@@ -1,14 +1,14 @@
 {
   "num": "604",
   "name": {
-    "KO": "코메이지 코이시",
-    "JA": "ねんどろいど 古明地こいし (ねんどろいど こめいじこいし)",
-    "EN": "Nendoroid Koishi Komeiji"
+    "ko": "코메이지 코이시",
+    "ja": "ねんどろいど 古明地こいし (ねんどろいど こめいじこいし)",
+    "en": "Nendoroid Koishi Komeiji"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 5464,
   "price": 4584,

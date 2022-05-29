@@ -1,14 +1,14 @@
 {
   "num": "984",
   "name": {
-    "KO": "리쿠",
-    "JA": "ねんどろいど リク (ねんどろいど りく)",
-    "EN": "Nendoroid Riku"
+    "ko": "리쿠",
+    "ja": "ねんどろいど リク (ねんどろいど りく)",
+    "en": "Nendoroid Riku"
   },
   "series": {
-    "KO": "킹덤하츠",
-    "JA": "キングダム ハーツ",
-    "EN": "Kingdom Hearts"
+    "ko": "킹덤하츠",
+    "ja": "キングダム ハーツ",
+    "en": "Kingdom Hearts"
   },
   "gsc_productNum": 7559,
   "price": 5093,

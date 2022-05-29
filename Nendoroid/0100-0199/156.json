@@ -1,14 +1,14 @@
 {
   "num": "156",
   "name": {
-    "KO": "셜록 셰린포드",
-    "JA": "ねんどろいど シャーロック・シェリンフォード (ねんどろいど しゃーろっく・しぇりんふぉーど)",
-    "EN": "Nendoroid Sherlock Shellingford (ねんどろいど しゃーろっく・しぇりんふぉーど)"
+    "ko": "셜록 셰린포드",
+    "ja": "ねんどろいど シャーロック・シェリンフォード (ねんどろいど しゃーろっく・しぇりんふぉーど)",
+    "en": "Nendoroid Sherlock Shellingford (ねんどろいど しゃーろっく・しぇりんふぉーど)"
   },
   "series": {
-    "KO": "탐정 오페라 밀키 홈즈",
-    "JA": "探偵オペラ ミルキィホームズ",
-    "EN": "Detective Opera Milky Holmes"
+    "ko": "탐정 오페라 밀키 홈즈",
+    "ja": "探偵オペラ ミルキィホームズ",
+    "en": "Detective Opera Milky Holmes"
   },
   "gsc_productNum": 3103,
   "price": 3667,

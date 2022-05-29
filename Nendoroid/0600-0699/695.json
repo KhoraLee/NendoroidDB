@@ -1,14 +1,14 @@
 {
   "num": "695",
   "name": {
-    "KO": "유다치",
-    "JA": "ねんどろいど 夕立改二 (ねんどろいど ゆうだちかいに)",
-    "EN": "Nendoroid Yudachi Kai-II"
+    "ko": "유다치",
+    "ja": "ねんどろいど 夕立改二 (ねんどろいど ゆうだちかいに)",
+    "en": "Nendoroid Yudachi Kai-II"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 6082,
   "price": 5907,

@@ -1,14 +1,14 @@
 {
   "num": "577",
   "name": {
-    "KO": "아키츠시마",
-    "JA": "ねんどろいど 秋津洲 (ねんどろいど あきつしま)",
-    "EN": "Nendoroid Akitsushima"
+    "ko": "아키츠시마",
+    "ja": "ねんどろいど 秋津洲 (ねんどろいど あきつしま)",
+    "en": "Nendoroid Akitsushima"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 5306,
   "price": 5602,

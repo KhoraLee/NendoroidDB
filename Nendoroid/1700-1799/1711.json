@@ -1,14 +1,14 @@
 {
   "num": "1711",
   "name": {
-    "KO": "소우세이세키",
-    "JA": "ねんどろいど 蒼星石 (ねんどろいど そうせいせき)",
-    "EN": "Nendoroid Souseiseki"
+    "ko": "소우세이세키",
+    "ja": "ねんどろいど 蒼星石 (ねんどろいど そうせいせき)",
+    "en": "Nendoroid Souseiseki"
   },
   "series": {
-    "KO": "로젠 메이든",
-    "JA": "ローゼンメイデン",
-    "EN": "Rozen Maiden"
+    "ko": "로젠 메이든",
+    "ja": "ローゼンメイデン",
+    "en": "Rozen Maiden"
   },
   "gsc_productNum": 11767,
   "price": 6500,

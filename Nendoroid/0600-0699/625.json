@@ -1,14 +1,14 @@
 {
   "num": "625",
   "name": {
-    "KO": "미라 펜리엣타",
-    "JA": "ねんどろいど ミラ・フェンリエッタ (ねんどろいど みら・ふぇんりえった)",
-    "EN": "Nendoroid Mira Fenrietta"
+    "ko": "미라 펜리엣타",
+    "ja": "ねんどろいど ミラ・フェンリエッタ (ねんどろいど みら・ふぇんりえった)",
+    "en": "Nendoroid Mira Fenrietta"
   },
   "series": {
-    "KO": "하얀고양이 프로젝트",
-    "JA": "白猫プロジェクト",
-    "EN": "Shironeko Project"
+    "ko": "하얀고양이 프로젝트",
+    "ja": "白猫プロジェクト",
+    "en": "Shironeko Project"
   },
   "gsc_productNum": 5644,
   "price": 4888,

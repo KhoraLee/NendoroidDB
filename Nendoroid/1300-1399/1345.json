@@ -1,14 +1,14 @@
 {
   "num": "1345",
   "name": {
-    "KO": "앤트맨",
-    "JA": "ねんどろいど アントマン エンドゲームVer. (ねんどろいど あんとまん えんどげーむVer.)",
-    "EN": "Nendoroid Ant-Man: Endgame Ver."
+    "ko": "앤트맨",
+    "ja": "ねんどろいど アントマン エンドゲームVer. (ねんどろいど あんとまん えんどげーむVer.)",
+    "en": "Nendoroid Ant-Man: Endgame Ver."
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "アベンジャーズ／エンドゲーム",
-    "EN": "Avengers: Endgame"
+    "ko": "어벤져스",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "en": "Avengers: Endgame"
   },
   "gsc_productNum": 9505,
   "price": 5000,

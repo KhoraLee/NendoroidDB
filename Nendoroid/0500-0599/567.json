@@ -1,14 +1,14 @@
 {
   "num": "567",
   "name": {
-    "KO": "마르스 신 문장의 비밀 Ver.",
-    "JA": "ねんどろいど マルス 新・紋章の謎エディション (ねんどろいど まるす しん・もんしょうのなぞえでぃしょん)",
-    "EN": "Nendoroid Marth: New Mystery of the Emblem Edition (ねんどろいど マルス しん・もんしょうのなぞえでぃしょん)"
+    "ko": "마르스 신 문장의 비밀 Ver.",
+    "ja": "ねんどろいど マルス 新・紋章の謎エディション (ねんどろいど まるす しん・もんしょうのなぞえでぃしょん)",
+    "en": "Nendoroid Marth: New Mystery of the Emblem Edition (ねんどろいど マルス しん・もんしょうのなぞえでぃしょん)"
   },
   "series": {
-    "KO": "파이어 엠블렘",
-    "JA": "ファイアーエムブレム 新・紋章の謎 ～光と影の英雄～",
-    "EN": "Fire Emblem: New Mystery of the Emblem"
+    "ko": "파이어 엠블렘",
+    "ja": "ファイアーエムブレム 新・紋章の謎 ～光と影の英雄～",
+    "en": "Fire Emblem: New Mystery of the Emblem"
   },
   "gsc_productNum": 5242,
   "price": 4800,

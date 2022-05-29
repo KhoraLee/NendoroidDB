@@ -1,14 +1,14 @@
 {
   "num": "1567",
   "name": {
-    "KO": "에리스",
-    "JA": "ねんどろいど エリス・ボレアス・グレイラット (ねんどろいど えりす・ぼれあす・ぐれいらっと)",
-    "EN": "Nendoroid Eris Boreas Greyrat"
+    "ko": "에리스",
+    "ja": "ねんどろいど エリス・ボレアス・グレイラット (ねんどろいど えりす・ぼれあす・ぐれいらっと)",
+    "en": "Nendoroid Eris Boreas Greyrat"
   },
   "series": {
-    "KO": "무직전생",
-    "JA": "無職転生 ～異世界行ったら本気だす～",
-    "EN": "Mushoku Tensei: Jobless Reincarnation"
+    "ko": "무직전생",
+    "ja": "無職転生 ～異世界行ったら本気だす～",
+    "en": "Mushoku Tensei: Jobless Reincarnation"
   },
   "gsc_productNum": 10802,
   "price": 5500,

@@ -1,14 +1,14 @@
 {
   "num": "1370",
   "name": {
-    "KO": "레이스",
-    "JA": "ねんどろいど レイス (ねんどろいど れいす)",
-    "EN": "Nendoroid Wraith"
+    "ko": "레이스",
+    "ja": "ねんどろいど レイス (ねんどろいど れいす)",
+    "en": "Nendoroid Wraith"
   },
   "series": {
-    "KO": "Apex 레전드",
-    "JA": "エーペックスレジェンズ",
-    "EN": "Apex Legends"
+    "ko": "Apex 레전드",
+    "ja": "エーペックスレジェンズ",
+    "en": "Apex Legends"
   },
   "gsc_productNum": 9793,
   "price": 5800,

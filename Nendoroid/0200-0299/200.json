@@ -1,14 +1,14 @@
 {
   "num": "200",
   "name": {
-    "KO": "구마코 응원Ver.",
-    "JA": "ねんどろいど ぐま子 応援Ver. (ねんどろいど ぐまこ おうえんVer.)",
-    "EN": "Nendoroid Gumako: Cheerful ver. (ねんどろいど ぐまこ おうえんVer.)"
+    "ko": "구마코 응원Ver.",
+    "ja": "ねんどろいど ぐま子 応援Ver. (ねんどろいど ぐまこ おうえんVer.)",
+    "en": "Nendoroid Gumako: Cheerful ver. (ねんどろいど ぐまこ おうえんVer.)"
   },
   "series": {
-    "KO": "굿스마우동",
-    "JA": "ぐっすまうどん",
-    "EN": "Good Smile Udon"
+    "ko": "굿스마우동",
+    "ja": "ぐっすまうどん",
+    "en": "Good Smile Udon"
   },
   "gsc_productNum": 3163,
   "price": 3143,

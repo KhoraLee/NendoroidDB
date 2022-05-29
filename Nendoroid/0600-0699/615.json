@@ -1,14 +1,14 @@
 {
   "num": "615",
   "name": {
-    "KO": "용기사",
-    "JA": "ねんどろいど ドラゴンナイト (ねんどろいど どらごんないと)",
-    "EN": "Nendoroid Dragon Knight"
+    "ko": "용기사",
+    "ja": "ねんどろいど ドラゴンナイト (ねんどろいど どらごんないと)",
+    "en": "Nendoroid Dragon Knight"
   },
   "series": {
-    "KO": "도타2",
-    "JA": "Dota 2",
-    "EN": "DOTA 2"
+    "ko": "도타2",
+    "ja": "Dota 2",
+    "en": "DOTA 2"
   },
   "gsc_productNum": 5785,
   "price": 4584,

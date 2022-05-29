@@ -1,14 +1,14 @@
 {
   "num": "683",
   "name": {
-    "KO": "쿠사나기 쿄 Classic Ver.",
-    "JA": "ねんどろいど 草薙京 CLASSIC Ver. (ねんどろいど くさなぎきょう くらしっく Ver.)",
-    "EN": "Nendoroid Kyo Kusanagi: CLASSIC Ver."
+    "ko": "쿠사나기 쿄 Classic Ver.",
+    "ja": "ねんどろいど 草薙京 CLASSIC Ver. (ねんどろいど くさなぎきょう くらしっく Ver.)",
+    "en": "Nendoroid Kyo Kusanagi: CLASSIC Ver."
   },
   "series": {
-    "KO": "더 킹 오브 파이터즈",
-    "JA": "THE KING OF FIGHTERS XIV",
-    "EN": "THE KING OF FIGHTERS XIV"
+    "ko": "더 킹 오브 파이터즈",
+    "ja": "THE KING OF FIGHTERS XIV",
+    "en": "THE KING OF FIGHTERS XIV"
   },
   "gsc_productNum": 5978,
   "price": 4584,

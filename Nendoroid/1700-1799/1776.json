@@ -1,14 +1,14 @@
 {
   "num": "1776",
   "name": {
-    "KO": "스켈레토",
-    "JA": "ねんどろいど スケルター (ねんどろいど すけるたー)",
-    "EN": "Nendoroid Skeletor"
+    "ko": "스켈레토",
+    "ja": "ねんどろいど スケルター (ねんどろいど すけるたー)",
+    "en": "Nendoroid Skeletor"
   },
   "series": {
-    "KO": "우주의 영웅들:새로운 진실",
-    "JA": "マスターズ・オブ・ユニバース: 黙示録",
-    "EN": "Masters of the Universe: Revelation"
+    "ko": "우주의 영웅들:새로운 진실",
+    "ja": "マスターズ・オブ・ユニバース: 黙示録",
+    "en": "Masters of the Universe: Revelation"
   },
   "gsc_productNum": 12064,
   "price": 7000,

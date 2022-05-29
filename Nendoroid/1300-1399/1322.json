@@ -1,14 +1,14 @@
 {
   "num": "1322",
   "name": {
-    "KO": "클리프",
-    "JA": "ねんどろいど クリフ (ねんどろいど くりふ)",
-    "EN": "Nendoroid Cliff"
+    "ko": "클리프",
+    "ja": "ねんどろいど クリフ (ねんどろいど くりふ)",
+    "en": "Nendoroid Cliff"
   },
   "series": {
-    "KO": "데스 스트랜딩",
-    "JA": "デス・ストランディング",
-    "EN": "DEATH STRANDING"
+    "ko": "데스 스트랜딩",
+    "ja": "デス・ストランディング",
+    "en": "DEATH STRANDING"
   },
   "gsc_productNum": 9442,
   "price": 5200,

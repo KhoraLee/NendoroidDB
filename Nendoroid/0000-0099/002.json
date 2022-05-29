@@ -1,14 +1,14 @@
 {
   "num": "002",
   "name": {
-    "KO": "헤타레 세이버 한정 Ver.",
-    "JA": "ねんどろいど へたれ セイバー限定Ver. (ねんどろいど へたれ せいばーげんていVer.)",
-    "EN": "Nendoroid Lazy Saber: Limited Ver. (ねんどろいど へたれ せいばーげんていVer.)"
+    "ko": "헤타레 세이버 한정 Ver.",
+    "ja": "ねんどろいど へたれ セイバー限定Ver. (ねんどろいど へたれ せいばーげんていVer.)",
+    "en": "Nendoroid Lazy Saber: Limited Ver. (ねんどろいど へたれ せいばーげんていVer.)"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/stay night",
-    "EN": "Fate/stay night"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/stay night",
+    "en": "Fate/stay night"
   },
   "gsc_productNum": 3352,
   "price": 3143,

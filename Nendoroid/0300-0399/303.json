@@ -1,14 +1,14 @@
 {
   "num": "303",
   "name": {
-    "KO": "유키미쿠 딸기 백무구 Ver.",
-    "JA": "ねんどろいど 雪ミク いちご白無垢Ver. (ねんどろいど ゆきみく いちごしろむくVer.)",
-    "EN": "Nendoroid Snow Miku: Strawberry White Kimono Ver. (ねんどろいど ゆきみく いちごしろむくVer.)"
+    "ko": "유키미쿠 딸기 백무구 Ver.",
+    "ja": "ねんどろいど 雪ミク いちご白無垢Ver. (ねんどろいど ゆきみく いちごしろむくVer.)",
+    "en": "Nendoroid Snow Miku: Strawberry White Kimono Ver. (ねんどろいど ゆきみく いちごしろむくVer.)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 3798,
   "price": 4190,

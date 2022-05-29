@@ -1,14 +1,14 @@
 {
   "num": "1530-DX",
   "name": {
-    "KO": " V 남성 DX Ver.",
-    "JA": "ねんどろいど V 男性Ver. DX (ねんどろいど V だんせいVer. DX)",
-    "EN": "Nendoroid V: Male Ver. DX"
+    "ko": " V 남성 DX Ver.",
+    "ja": "ねんどろいど V 男性Ver. DX (ねんどろいど V だんせいVer. DX)",
+    "en": "Nendoroid V: Male Ver. DX"
   },
   "series": {
-    "KO": "사이버펑크 2077",
-    "JA": "サイバーパンク2077",
-    "EN": "Cyberpunk 2077"
+    "ko": "사이버펑크 2077",
+    "ja": "サイバーパンク2077",
+    "en": "Cyberpunk 2077"
   },
   "gsc_productNum": 10505,
   "price": 8000,

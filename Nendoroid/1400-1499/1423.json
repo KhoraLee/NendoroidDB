@@ -1,14 +1,14 @@
 {
   "num": "1423",
   "name": {
-    "KO": "실버애쉬",
-    "JA": "ねんどろいど シルバーアッシュ (ねんどろいど しるばーあっしゅ)",
-    "EN": "Nendoroid SilverAsh"
+    "ko": "실버애쉬",
+    "ja": "ねんどろいど シルバーアッシュ (ねんどろいど しるばーあっしゅ)",
+    "en": "Nendoroid SilverAsh"
   },
   "series": {
-    "KO": "명일방주",
-    "JA": "アークナイツ",
-    "EN": "Arknights"
+    "ko": "명일방주",
+    "ja": "アークナイツ",
+    "en": "Arknights"
   },
   "gsc_productNum": 9988,
   "price": 5600,

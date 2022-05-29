@@ -1,14 +1,14 @@
 {
   "num": "502",
   "name": {
-    "KO": "다스 베이더",
-    "JA": "ねんどろいど ダース・ベイダー (ねんどろいど だーす・べいだー)",
-    "EN": "Nendoroid Darth Vader (ねんどろいど だーす・べいだー)"
+    "ko": "다스 베이더",
+    "ja": "ねんどろいど ダース・ベイダー (ねんどろいど だーす・べいだー)",
+    "en": "Nendoroid Darth Vader (ねんどろいど だーす・べいだー)"
   },
   "series": {
-    "KO": "스타워즈",
-    "JA": "スターウォーズ エピソード4",
-    "EN": "Star Wars Episode 4: A New Hope"
+    "ko": "스타워즈",
+    "ja": "スターウォーズ エピソード4",
+    "en": "Star Wars Episode 4: A New Hope"
   },
   "gsc_productNum": 4864,
   "price": 4888,

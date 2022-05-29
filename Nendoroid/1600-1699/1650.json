@@ -1,14 +1,14 @@
 {
   "num": "1650",
   "name": {
-    "KO": "따인 티파컨",
-    "JA": "ねんどろいど タイン (ねんどろいど たいん)",
-    "EN": "Nendoroid Tine"
+    "ko": "따인 티파컨",
+    "ja": "ねんどろいど タイン (ねんどろいど たいん)",
+    "en": "Nendoroid Tine"
   },
   "series": {
-    "KO": "2gether The Series",
-    "JA": "2gether",
-    "EN": "2gether"
+    "ko": "2gether The Series",
+    "ja": "2gether",
+    "en": "2gether"
   },
   "gsc_productNum": 11260,
   "price": 4800,

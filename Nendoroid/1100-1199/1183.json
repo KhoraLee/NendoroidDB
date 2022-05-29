@@ -1,14 +1,14 @@
 {
   "num": "1183",
   "name": {
-    "KO": "곤 프릭스",
-    "JA": "ねんどろいど ゴン＝フリークス (ねんどろいど ごん＝ふりーくす)",
-    "EN": "Nendoroid Gon Freecss"
+    "ko": "곤 프릭스",
+    "ja": "ねんどろいど ゴン＝フリークス (ねんどろいど ごん＝ふりーくす)",
+    "en": "Nendoroid Gon Freecss"
   },
   "series": {
-    "KO": "헌터X헌터",
-    "JA": "HUNTER×HUNTER",
-    "EN": "HUNTER x HUNTER"
+    "ko": "헌터X헌터",
+    "ja": "HUNTER×HUNTER",
+    "en": "HUNTER x HUNTER"
   },
   "gsc_productNum": 8650,
   "price": 5500,

@@ -1,14 +1,14 @@
 {
   "num": "440",
   "name": {
-    "KO": "스이긴토",
-    "JA": "ねんどろいど 水銀燈 (ねんどろいど すいぎんとう)",
-    "EN": "Nendoroid Suigintō"
+    "ko": "스이긴토",
+    "ja": "ねんどろいど 水銀燈 (ねんどろいど すいぎんとう)",
+    "en": "Nendoroid Suigintō"
   },
   "series": {
-    "KO": "로젠 메이든",
-    "JA": "ローゼンメイデン",
-    "EN": "Rozen Maiden"
+    "ko": "로젠 메이든",
+    "ja": "ローゼンメイデン",
+    "en": "Rozen Maiden"
   },
   "gsc_productNum": 4505,
   "price": 5800,

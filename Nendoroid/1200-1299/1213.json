@@ -1,14 +1,14 @@
 {
   "num": "1213",
   "name": {
-    "KO": "오오텐타 미츠요",
-    "JA": "ねんどろいど 大典太光世 (ねんどろいど おおでんたみつよ)",
-    "EN": "Nendoroid Odentamitsuyo"
+    "ko": "오오텐타 미츠요",
+    "ja": "ねんどろいど 大典太光世 (ねんどろいど おおでんたみつよ)",
+    "en": "Nendoroid Odentamitsuyo"
   },
   "series": {
-    "KO": "도검난무-ONLINE-",
-    "JA": "刀剣乱舞-ONLINE-",
-    "EN": "Touken Ranbu -ONLINE-"
+    "ko": "도검난무-ONLINE-",
+    "ja": "刀剣乱舞-ONLINE-",
+    "en": "Touken Ranbu -ONLINE-"
   },
   "gsc_productNum": 8850,
   "price": 4800,

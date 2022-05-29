@@ -1,14 +1,14 @@
 {
   "num": "1206b",
   "name": {
-    "KO": "Special set 곰 케이프와 토끼 케이프",
-    "JA": "ねんどろいど 純情ロマンチカ Special set くまケープとうさぎケープ (ねんどろいど じゅんじょうろまんちか すぺしゃる せっと くまけーぷとうさぎけーぷ)",
-    "EN": "Nendoroid Junjo Romantica Special Set: Bear Cape and Rabbit Cape"
+    "ko": "Special set 곰 케이프와 토끼 케이프",
+    "ja": "ねんどろいど 純情ロマンチカ Special set くまケープとうさぎケープ (ねんどろいど じゅんじょうろまんちか すぺしゃる せっと くまけーぷとうさぎけーぷ)",
+    "en": "Nendoroid Junjo Romantica Special Set: Bear Cape and Rabbit Cape"
   },
   "series": {
-    "KO": "순정 로맨티카",
-    "JA": "純情ロマンチカ",
-    "EN": "Junjo Romantica"
+    "ko": "순정 로맨티카",
+    "ja": "純情ロマンチカ",
+    "en": "Junjo Romantica"
   },
   "gsc_productNum": 8804,
   "price": 13200,

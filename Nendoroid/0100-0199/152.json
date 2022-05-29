@@ -1,14 +1,14 @@
 {
   "num": "152",
   "name": {
-    "KO": "타카기 아키토",
-    "JA": "ねんどろいど 高木秋人 (ねんどろいど たかぎあきと)",
-    "EN": "Nendoroid Akito Takagi (ねんどろいど たかぎあきと)"
+    "ko": "타카기 아키토",
+    "ja": "ねんどろいど 高木秋人 (ねんどろいど たかぎあきと)",
+    "en": "Nendoroid Akito Takagi (ねんどろいど たかぎあきと)"
   },
   "series": {
-    "KO": "바쿠만",
-    "JA": "バクマン。",
-    "EN": "Bakuman"
+    "ko": "바쿠만",
+    "ja": "バクマン。",
+    "en": "Bakuman"
   },
   "gsc_productNum": 3059,
   "price": 3667,

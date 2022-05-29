@@ -1,14 +1,14 @@
 {
   "num": "1103",
   "name": {
-    "KO": "키타가와 유스케 괴도복 Ver.",
-    "JA": "ねんどろいど 喜多川祐介 怪盗服Ver. (ねんどろいど きたがわゆうすけ かいとうふくVer.)",
-    "EN": "Nendoroid Yusuke Kitagawa: Phantom Thief Ver."
+    "ko": "키타가와 유스케 괴도복 Ver.",
+    "ja": "ねんどろいど 喜多川祐介 怪盗服Ver. (ねんどろいど きたがわゆうすけ かいとうふくVer.)",
+    "en": "Nendoroid Yusuke Kitagawa: Phantom Thief Ver."
   },
   "series": {
-    "KO": "페르소나5",
-    "JA": "PERSONA5 the Animation",
-    "EN": "PERSONA5 the Animation"
+    "ko": "페르소나5",
+    "ja": "PERSONA5 the Animation",
+    "en": "PERSONA5 the Animation"
   },
   "gsc_productNum": 8147,
   "price": 5500,

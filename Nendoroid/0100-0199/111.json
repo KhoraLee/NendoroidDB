@@ -1,14 +1,14 @@
 {
   "num": "111",
   "name": {
-    "KO": "타카네 마나카",
-    "JA": "ねんどろいど 高嶺愛花 (ねんどろいど たかねまなか)",
-    "EN": "Nendoroid Manaka Takane (ねんどろいど たかねまなか)"
+    "ko": "타카네 마나카",
+    "ja": "ねんどろいど 高嶺愛花 (ねんどろいど たかねまなか)",
+    "en": "Nendoroid Manaka Takane (ねんどろいど たかねまなか)"
   },
   "series": {
-    "KO": "러브 플러스",
-    "JA": "ラブプラス",
-    "EN": "Love Plus"
+    "ko": "러브 플러스",
+    "ja": "ラブプラス",
+    "en": "Love Plus"
   },
   "gsc_productNum": 2842,
   "price": 3667,

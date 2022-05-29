@@ -1,14 +1,14 @@
 {
   "num": "603",
   "name": {
-    "KO": "아카시",
-    "JA": "ねんどろいど 明石改 (ねんどろいど あかしかい)",
-    "EN": "Nendoroid Akashi Kai"
+    "ko": "아카시",
+    "ja": "ねんどろいど 明石改 (ねんどろいど あかしかい)",
+    "en": "Nendoroid Akashi Kai"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 5461,
   "price": 5297,

@@ -1,14 +1,14 @@
 {
   "num": "767",
   "name": {
-    "KO": "젊은 나가토",
-    "JA": "ねんどろいど ヤング長門 (ねんどろいど やんぐながと)",
-    "EN": "Nendoroid Young Nagato"
+    "ko": "젊은 나가토",
+    "ja": "ねんどろいど ヤング長門 (ねんどろいど やんぐながと)",
+    "en": "Nendoroid Young Nagato"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 6718,
   "price": 6621,

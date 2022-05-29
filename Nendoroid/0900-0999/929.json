@@ -1,14 +1,14 @@
 {
   "num": "929",
   "name": {
-    "KO": "키리마 샤로",
-    "JA": "ねんどろいど シャロ (ねんどろいど しゃろ)",
-    "EN": "Nendoroid Syaro"
+    "ko": "키리마 샤로",
+    "ja": "ねんどろいど シャロ (ねんどろいど しゃろ)",
+    "en": "Nendoroid Syaro"
   },
   "series": {
-    "KO": "주문은 토끼입니까?",
-    "JA": "ご注文はうさぎですか？？",
-    "EN": "Is the Order a Rabbit??"
+    "ko": "주문은 토끼입니까?",
+    "ja": "ご注文はうさぎですか？？",
+    "en": "Is the Order a Rabbit??"
   },
   "gsc_productNum": 7261,
   "price": 4800,

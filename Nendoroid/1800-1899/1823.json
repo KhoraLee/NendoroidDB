@@ -1,14 +1,14 @@
 {
   "num": "1823",
   "name": {
-    "KO": "우사다 페코라",
-    "JA": "ねんどろいど 兎田ぺこら (ねんどろいど うさだぺこら)",
-    "EN": "Nendoroid Usada Pekora"
+    "ko": "우사다 페코라",
+    "ja": "ねんどろいど 兎田ぺこら (ねんどろいど うさだぺこら)",
+    "en": "Nendoroid Usada Pekora"
   },
   "series": {
-    "KO": "버추얼 유튜버 (홀로라이브)",
-    "JA": "ホロライブプロダクション",
-    "EN": "hololive production"
+    "ko": "버추얼 유튜버 (홀로라이브)",
+    "ja": "ホロライブプロダクション",
+    "en": "hololive production"
   },
   "gsc_productNum": 12343,
   "price": 6200,

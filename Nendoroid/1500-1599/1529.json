@@ -1,14 +1,14 @@
 {
   "num": "1529",
   "name": {
-    "KO": "와이스 슈니이",
-    "JA": "ねんどろいど ワイス・シュニー (ねんどろいど わいす・しゅにー)",
-    "EN": "Nendoroid Weiss Schnee"
+    "ko": "와이스 슈니이",
+    "ja": "ねんどろいど ワイス・シュニー (ねんどろいど わいす・しゅにー)",
+    "en": "Nendoroid Weiss Schnee"
   },
   "series": {
-    "KO": "RWBY",
-    "JA": "RWBY(ルビー)",
-    "EN": "RWBY"
+    "ko": "RWBY",
+    "ja": "RWBY(ルビー)",
+    "en": "RWBY"
   },
   "gsc_productNum": 10500,
   "price": 5200,

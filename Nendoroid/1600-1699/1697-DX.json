@@ -1,14 +1,14 @@
 {
   "num": "1697-DX",
   "name": {
-    "KO": "시라누이 DX",
-    "JA": "ねんどろいど 白野威 DX Ver. (ねんどろいど しらぬい DX Ver.)",
-    "EN": "Nendoroid Shiranui DX Ver."
+    "ko": "시라누이 DX",
+    "ja": "ねんどろいど 白野威 DX Ver. (ねんどろいど しらぬい DX Ver.)",
+    "en": "Nendoroid Shiranui DX Ver."
   },
   "series": {
-    "KO": "오오카미",
-    "JA": "大神",
-    "EN": "Okami"
+    "ko": "오오카미",
+    "ja": "大神",
+    "en": "Okami"
   },
   "gsc_productNum": 11628,
   "price": 8800,

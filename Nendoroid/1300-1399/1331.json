@@ -1,14 +1,14 @@
 {
   "num": "1331",
   "name": {
-    "KO": "마토이 류코 스카쟌 Ver.",
-    "JA": "ねんどろいど 纏流子 スカジャンVer. (ねんどろいど まといりゅうこ すかじゃんVer.)",
-    "EN": "Nendoroid Ryuko Matoi: Souvenir Jacket Ver."
+    "ko": "마토이 류코 스카쟌 Ver.",
+    "ja": "ねんどろいど 纏流子 スカジャンVer. (ねんどろいど まといりゅうこ すかじゃんVer.)",
+    "en": "Nendoroid Ryuko Matoi: Souvenir Jacket Ver."
   },
   "series": {
-    "KO": "킬라킬",
-    "JA": "キルラキル",
-    "EN": "KILL la KILL"
+    "ko": "킬라킬",
+    "ja": "キルラキル",
+    "en": "KILL la KILL"
   },
   "gsc_productNum": 11021,
   "price": 5000,

@@ -1,14 +1,14 @@
 {
   "num": "1036",
   "name": {
-    "KO": "혈소판",
-    "JA": "ねんどろいど 血小板 (ねんどろいど けっしょうばん)",
-    "EN": "Nendoroid Platelet"
+    "ko": "혈소판",
+    "ja": "ねんどろいど 血小板 (ねんどろいど けっしょうばん)",
+    "en": "Nendoroid Platelet"
   },
   "series": {
-    "KO": "일하는 세포",
-    "JA": "はたらく細胞",
-    "EN": "Cells at Work!"
+    "ko": "일하는 세포",
+    "ja": "はたらく細胞",
+    "en": "Cells at Work!"
   },
   "gsc_productNum": 7831,
   "price": 4584,

@@ -1,14 +1,14 @@
 {
   "num": "1259",
   "name": {
-    "KO": "포리너/카츠시카 호쿠사이/호리나",
-    "JA": "ねんどろいど フォーリナー/葛飾北斎 (ねんどろいど ふぉーりなー/かつしかほくさい)",
-    "EN": "Nendoroid Foreigner/Katsushika Hokusai"
+    "ko": "포리너/카츠시카 호쿠사이/호리나",
+    "ja": "ねんどろいど フォーリナー/葛飾北斎 (ねんどろいど ふぉーりなー/かつしかほくさい)",
+    "en": "Nendoroid Foreigner/Katsushika Hokusai"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 9091,
   "price": 5800,

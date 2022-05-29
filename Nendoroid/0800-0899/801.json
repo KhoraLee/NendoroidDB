@@ -1,14 +1,14 @@
 {
   "num": "801",
   "name": {
-    "KO": "타치바나 타키",
-    "JA": "ねんどろいど 立花瀧 (ねんどろいど たちばなたき)",
-    "EN": "Nendoroid Taki Tachibana"
+    "ko": "타치바나 타키",
+    "ja": "ねんどろいど 立花瀧 (ねんどろいど たちばなたき)",
+    "en": "Nendoroid Taki Tachibana"
   },
   "series": {
-    "KO": "너의 이름은.",
-    "JA": "君の名は。",
-    "EN": "Your Name."
+    "ko": "너의 이름은.",
+    "ja": "君の名は。",
+    "en": "Your Name."
   },
   "gsc_productNum": 6595,
   "price": 3565,

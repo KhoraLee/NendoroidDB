@@ -1,14 +1,14 @@
 {
   "num": "669",
   "name": {
-    "KO": "메타나이트",
-    "JA": "ねんどろいど メタナイト (ねんどろいど めたないと)",
-    "EN": "Nendoroid Meta Knight"
+    "ko": "메타나이트",
+    "ja": "ねんどろいど メタナイト (ねんどろいど めたないと)",
+    "en": "Nendoroid Meta Knight"
   },
   "series": {
-    "KO": "별의 커비",
-    "JA": "星のカービィ",
-    "EN": "Kirby"
+    "ko": "별의 커비",
+    "ja": "星のカービィ",
+    "en": "Kirby"
   },
   "gsc_productNum": 5882,
   "price": 5093,

@@ -1,14 +1,14 @@
 {
   "num": "1681",
   "name": {
-    "KO": "로키 TVA Ver.",
-    "JA": "ねんどろいど ロキ TVA Ver. (ねんどろいど ろき TVA Ver.)",
-    "EN": "Nendoroid Loki: TVA Ver."
+    "ko": "로키 TVA Ver.",
+    "ja": "ねんどろいど ロキ TVA Ver. (ねんどろいど ろき TVA Ver.)",
+    "en": "Nendoroid Loki: TVA Ver."
   },
   "series": {
-    "KO": "로키",
-    "JA": "ロキ",
-    "EN": "Loki"
+    "ko": "로키",
+    "ja": "ロキ",
+    "en": "Loki"
   },
   "gsc_productNum": 11483,
   "price": 5500,

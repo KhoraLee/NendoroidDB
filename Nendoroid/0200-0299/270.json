@@ -1,14 +1,14 @@
 {
   "num": "270",
   "name": {
-    "KO": "박사",
-    "JA": "ねんどろいど はかせ (ねんどろいど はかせ)",
-    "EN": "Nendoroid Hakase (ねんどろいど はかせ)"
+    "ko": "박사",
+    "ja": "ねんどろいど はかせ (ねんどろいど はかせ)",
+    "en": "Nendoroid Hakase (ねんどろいど はかせ)"
   },
   "series": {
-    "KO": "일상",
-    "JA": "日常",
-    "EN": "Nichijou"
+    "ko": "일상",
+    "ja": "日常",
+    "en": "Nichijou"
   },
   "gsc_productNum": 3639,
   "price": 3667,

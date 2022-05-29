@@ -1,14 +1,14 @@
 {
   "num": "417",
   "name": {
-    "KO": "리바이 청소 Ver.",
-    "JA": "ねんどろいど リヴァイ お掃除Ver. (ねんどろいど りう゛ぁい おそうじVer.)",
-    "EN": "Nendoroid Levi: Cleaning Ver. (ねんどろいど りう゛ぁい おそうじVer.)"
+    "ko": "리바이 청소 Ver.",
+    "ja": "ねんどろいど リヴァイ お掃除Ver. (ねんどろいど りう゛ぁい おそうじVer.)",
+    "en": "Nendoroid Levi: Cleaning Ver. (ねんどろいど りう゛ぁい おそうじVer.)"
   },
   "series": {
-    "KO": "진격의 거인",
-    "JA": "進撃の巨人",
-    "EN": "Attack on Titan"
+    "ko": "진격의 거인",
+    "ja": "進撃の巨人",
+    "en": "Attack on Titan"
   },
   "gsc_productNum": 4434,
   "price": 3565,

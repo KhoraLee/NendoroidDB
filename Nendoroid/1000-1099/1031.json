@@ -1,14 +1,14 @@
 {
   "num": "1031",
   "name": {
-    "KO": "캐스터/니토크리스",
-    "JA": "ねんどろいど キャスター/ニトクリス (ねんどろいど きゃすたー/にとくりす)",
-    "EN": "Nendoroid Caster/Nitocris"
+    "ko": "캐스터/니토크리스",
+    "ja": "ねんどろいど キャスター/ニトクリス (ねんどろいど きゃすたー/にとくりす)",
+    "en": "Nendoroid Caster/Nitocris"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 7799,
   "price": 5907,

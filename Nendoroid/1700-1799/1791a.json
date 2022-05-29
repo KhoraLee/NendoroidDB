@@ -1,14 +1,14 @@
 {
   "num": "1791a",
   "name": {
-    "KO": "쿨메이트(레드)",
-    "JA": "ねんどろいど クルーメイト（赤） (ねんどろいど くるーめいと（あか）)",
-    "EN": "Nendoroid Crewmate (Red)"
+    "ko": "쿨메이트(레드)",
+    "ja": "ねんどろいど クルーメイト（赤） (ねんどろいど くるーめいと（あか）)",
+    "en": "Nendoroid Crewmate (Red)"
   },
   "series": {
-    "KO": "어몽어스",
-    "JA": "Among Us",
-    "EN": "Among Us"
+    "ko": "어몽어스",
+    "ja": "Among Us",
+    "en": "Among Us"
   },
   "gsc_productNum": 12142,
   "price": 3900,

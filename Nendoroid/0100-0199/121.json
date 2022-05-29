@@ -1,14 +1,14 @@
 {
   "num": "121",
   "name": {
-    "KO": "세이버 슈퍼 무버블 에디션",
-    "JA": "ねんどろいど セイバー スーパームーバブル・エディション (ねんどろいど せいばー すーぱーむーばぶる・えでぃしょん)",
-    "EN": "Nendoroid Saber: Super Movable Edition (ねんどろいど せいばー すーぱーむーばぶる・えでぃしょん)"
+    "ko": "세이버 슈퍼 무버블 에디션",
+    "ja": "ねんどろいど セイバー スーパームーバブル・エディション (ねんどろいど せいばー すーぱーむーばぶる・えでぃしょん)",
+    "en": "Nendoroid Saber: Super Movable Edition (ねんどろいど せいばー すーぱーむーばぶる・えでぃしょん)"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/stay night",
-    "EN": "Fate/stay Night"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/stay night",
+    "en": "Fate/stay Night"
   },
   "gsc_productNum": 2886,
   "price": 4190,

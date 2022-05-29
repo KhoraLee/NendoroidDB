@@ -1,14 +1,14 @@
 {
   "num": "1216",
   "name": {
-    "KO": "진:베가본드",
-    "JA": "ねんどろいど 真：バガボンド (ねんどろいど しん：ばがぼんど)",
-    "EN": "Nendoroid Neo: Vagabond"
+    "ko": "진:베가본드",
+    "ja": "ねんどろいど 真：バガボンド (ねんどろいど しん：ばがぼんど)",
+    "en": "Nendoroid Neo: Vagabond"
   },
   "series": {
-    "KO": "던전 앤 파이터",
-    "JA": "アラド戦記",
-    "EN": "Dungeon Fighter Online"
+    "ko": "던전 앤 파이터",
+    "ja": "アラド戦記",
+    "en": "Dungeon Fighter Online"
   },
   "gsc_productNum": 10677,
   "price": 6200,

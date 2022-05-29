@@ -1,14 +1,14 @@
 {
   "num": "1860",
   "name": {
-    "KO": "네코마타 오카유",
-    "JA": "ねんどろいど 猫又おかゆ (ねんどろいど ねこまたおかゆ)",
-    "EN": "Nendoroid Nekomata Okayu"
+    "ko": "네코마타 오카유",
+    "ja": "ねんどろいど 猫又おかゆ (ねんどろいど ねこまたおかゆ)",
+    "en": "Nendoroid Nekomata Okayu"
   },
   "series": {
-    "KO": "버추얼 유튜버 (홀로라이브)",
-    "JA": "ホロライブプロダクション",
-    "EN": "hololive production"
+    "ko": "버추얼 유튜버 (홀로라이브)",
+    "ja": "ホロライブプロダクション",
+    "en": "hololive production"
   },
   "gsc_productNum": 12557,
   "price": 6200,

@@ -1,14 +1,14 @@
 {
   "num": "202",
   "name": {
-    "KO": "KAITO 응원 Ver.",
-    "JA": "ねんどろいど KAITO 応援Ver. (ねんどろいど かいと おうえんVer.)",
-    "EN": "Nendoroid KAITO: Cheerful Ver. (ねんどろいど かいと おうえんVer.)"
+    "ko": "KAITO 응원 Ver.",
+    "ja": "ねんどろいど KAITO 応援Ver. (ねんどろいど かいと おうえんVer.)",
+    "en": "Nendoroid KAITO: Cheerful Ver. (ねんどろいど かいと おうえんVer.)"
   },
   "series": {
-    "KO": "보컬로이드(VOCALOID)",
-    "JA": "KAITO",
-    "EN": "KAITO"
+    "ko": "보컬로이드(VOCALOID)",
+    "ja": "KAITO",
+    "en": "KAITO"
   },
   "gsc_productNum": 3305,
   "price": 3143,

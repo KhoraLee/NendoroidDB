@@ -1,14 +1,14 @@
 {
   "num": "141",
   "name": {
-    "KO": "콘파쿠 요우무",
-    "JA": "ねんどろいど 魂魄妖夢 (ねんどろいど こんぱくようむ)",
-    "EN": "Nendoroid Youmu Konpaku (ねんどろいど こんぱくようむ)"
+    "ko": "콘파쿠 요우무",
+    "ja": "ねんどろいど 魂魄妖夢 (ねんどろいど こんぱくようむ)",
+    "en": "Nendoroid Youmu Konpaku (ねんどろいど こんぱくようむ)"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 3011,
   "price": 3143,

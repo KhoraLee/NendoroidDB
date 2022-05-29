@@ -1,14 +1,14 @@
 {
   "num": "1797",
   "name": {
-    "KO": "자그레우스",
-    "JA": "ねんどろいど ザグレウス (ねんどろいど ざぐれうす)",
-    "EN": "Nendoroid Zagreus"
+    "ko": "자그레우스",
+    "ja": "ねんどろいど ザグレウス (ねんどろいど ざぐれうす)",
+    "en": "Nendoroid Zagreus"
   },
   "series": {
-    "KO": "하데스",
-    "JA": "ハデス",
-    "EN": "Hades"
+    "ko": "하데스",
+    "ja": "ハデス",
+    "en": "Hades"
   },
   "gsc_productNum": 12259,
   "price": 5500,

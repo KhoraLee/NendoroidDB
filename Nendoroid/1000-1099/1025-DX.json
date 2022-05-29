@@ -1,14 +1,14 @@
 {
   "num": "1025-DX",
   "name": {
-    "KO": "헌터♀ 제노라지β 에디션 DX Ver.",
-    "JA": "ねんどろいど ハンター♀ ゼノラージβ・エディション DX Ver. (ねんどろいど はんたー♀ ぜのらーじべーた・えでぃしょん DX Ver.)",
-    "EN": "Nendoroid Hunter: Female Xeno’jiiva Beta Armor Edition - DX Ver."
+    "ko": "헌터♀ 제노라지β 에디션 DX Ver.",
+    "ja": "ねんどろいど ハンター♀ ゼノラージβ・エディション DX Ver. (ねんどろいど はんたー♀ ぜのらーじべーた・えでぃしょん DX Ver.)",
+    "en": "Nendoroid Hunter: Female Xeno’jiiva Beta Armor Edition - DX Ver."
   },
   "series": {
-    "KO": "몬스터 헌터",
-    "JA": "モンスターハンター：ワールド",
-    "EN": "MONSTER HUNTER: WORLD"
+    "ko": "몬스터 헌터",
+    "ja": "モンスターハンター：ワールド",
+    "en": "MONSTER HUNTER: WORLD"
   },
   "gsc_productNum": 7790,
   "price": 7638,

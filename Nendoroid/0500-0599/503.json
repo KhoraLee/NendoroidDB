@@ -1,14 +1,14 @@
 {
   "num": "503",
   "name": {
-    "KO": "타카오",
-    "JA": "ねんどろいど タカオ (ねんどろいど たかお)",
-    "EN": "Nendoroid Takao (ねんどろいど たかお)"
+    "ko": "타카오",
+    "ja": "ねんどろいど タカオ (ねんどろいど たかお)",
+    "en": "Nendoroid Takao (ねんどろいど たかお)"
   },
   "series": {
-    "KO": "푸른 강철의 아르페지오",
-    "JA": "蒼き鋼のアルペジオ -アルス・ノヴァ-",
-    "EN": "Arpeggio of Blue Steel -Ars Nova-"
+    "ko": "푸른 강철의 아르페지오",
+    "ja": "蒼き鋼のアルペジオ -アルス・ノヴァ-",
+    "en": "Arpeggio of Blue Steel -Ars Nova-"
   },
   "gsc_productNum": 4835,
   "price": 4278,

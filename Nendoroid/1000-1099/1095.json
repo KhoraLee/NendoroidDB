@@ -1,14 +1,14 @@
 {
   "num": "1095",
   "name": {
-    "KO": "포리너/아비게일 윌리엄스",
-    "JA": "ねんどろいど フォーリナー/アビゲイル・ウィリアムズ (ねんどろいど ふぉーりなー/あびげいる・うぃりあむず)",
-    "EN": "Nendoroid Foreigner/Abigail Williams"
+    "ko": "포리너/아비게일 윌리엄스",
+    "ja": "ねんどろいど フォーリナー/アビゲイル・ウィリアムズ (ねんどろいど ふぉーりなー/あびげいる・うぃりあむず)",
+    "en": "Nendoroid Foreigner/Abigail Williams"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 8112,
   "price": 5297,

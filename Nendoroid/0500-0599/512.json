@@ -1,14 +1,14 @@
 {
   "num": "512",
   "name": {
-    "KO": "시부야 린",
-    "JA": "ねんどろいど 渋谷凛 (ねんどろいど しぶやりん)",
-    "EN": "Nendoroid Rin Shibuya (ねんどろいど しぶやりん)"
+    "ko": "시부야 린",
+    "ja": "ねんどろいど 渋谷凛 (ねんどろいど しぶやりん)",
+    "en": "Nendoroid Rin Shibuya (ねんどろいど しぶやりん)"
   },
   "series": {
-    "KO": "아이돌 마스터 신데렐라 걸즈",
-    "JA": "アイドルマスター シンデレラガールズ",
-    "EN": "THE IDOLM@STER CINDERELLA GIRLS"
+    "ko": "아이돌 마스터 신데렐라 걸즈",
+    "ja": "アイドルマスター シンデレラガールズ",
+    "en": "THE IDOLM@STER CINDERELLA GIRLS"
   },
   "gsc_productNum": 4924,
   "price": 3769,

@@ -1,14 +1,14 @@
 {
   "num": "1419",
   "name": {
-    "KO": "아야나미 레이(가칭) 플러그 슈트 Ver.",
-    "JA": "ねんどろいど アヤナミレイ（仮称） プラグスーツVer. (ねんどろいど あやなみれい（かしょう）ぷらぐすーつVer.)",
-    "EN": "Nendoroid Rei Ayanami [Tentative Name]: Plugsuit Ver."
+    "ko": "아야나미 레이(가칭) 플러그 슈트 Ver.",
+    "ja": "ねんどろいど アヤナミレイ（仮称） プラグスーツVer. (ねんどろいど あやなみれい（かしょう）ぷらぐすーつVer.)",
+    "en": "Nendoroid Rei Ayanami [Tentative Name]: Plugsuit Ver."
   },
   "series": {
-    "KO": "에반게리온",
-    "JA": "ヱヴァンゲリヲン新劇場版",
-    "EN": "Rebuild of Evangelion"
+    "ko": "에반게리온",
+    "ja": "ヱヴァンゲリヲン新劇場版",
+    "en": "Rebuild of Evangelion"
   },
   "gsc_productNum": 9812,
   "price": 5800,

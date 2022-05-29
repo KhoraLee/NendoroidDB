@@ -1,14 +1,14 @@
 {
   "num": "210",
   "name": {
-    "KO": "사나다 유키무라",
-    "JA": "ねんどろいど 真田幸村 (ねんどろいど さなだゆきむら)",
-    "EN": "Nendoroid Yukimura Sanada (ねんどろいど さなだゆきむら)"
+    "ko": "사나다 유키무라",
+    "ja": "ねんどろいど 真田幸村 (ねんどろいど さなだゆきむら)",
+    "en": "Nendoroid Yukimura Sanada (ねんどろいど さなだゆきむら)"
   },
   "series": {
-    "KO": "전국 바사라",
-    "JA": "戦国BASARA",
-    "EN": "Sengoku Basara"
+    "ko": "전국 바사라",
+    "ja": "戦国BASARA",
+    "en": "Sengoku Basara"
   },
   "gsc_productNum": 3344,
   "price": 3667,

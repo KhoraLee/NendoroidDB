@@ -1,14 +1,14 @@
 {
   "num": "1030",
   "name": {
-    "KO": "제시 맥크리",
-    "JA": "ねんどろいど マクリー クラシックスキン・エディション (ねんどろいど まくりー くらしっくすきん・えでぃしょん)",
-    "EN": "Nendoroid McCree: Classic Skin Edition"
+    "ko": "제시 맥크리",
+    "ja": "ねんどろいど マクリー クラシックスキン・エディション (ねんどろいど まくりー くらしっくすきん・えでぃしょん)",
+    "en": "Nendoroid McCree: Classic Skin Edition"
   },
   "series": {
-    "KO": "오버워치",
-    "JA": "オーバーウォッチ",
-    "EN": "Overwatch"
+    "ko": "오버워치",
+    "ja": "オーバーウォッチ",
+    "en": "Overwatch"
   },
   "gsc_productNum": 7766,
   "price": 4991,

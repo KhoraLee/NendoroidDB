@@ -1,14 +1,14 @@
 {
   "num": "261",
   "name": {
-    "KO": "하츠네 미쿠 유카타 Ver.",
-    "JA": "ねんどろいど 初音ミク 浴衣Ver. (ねんどろいど はつねみく ゆかたver.)",
-    "EN": "Nendoroid Hatsune Miku : Yukata Ver. (ねんどろいど はつねみく ゆかたver.)"
+    "ko": "하츠네 미쿠 유카타 Ver.",
+    "ja": "ねんどろいど 初音ミク 浴衣Ver. (ねんどろいど はつねみく ゆかたver.)",
+    "en": "Nendoroid Hatsune Miku : Yukata Ver. (ねんどろいど はつねみく ゆかたver.)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 3643,
   "price": 3143,

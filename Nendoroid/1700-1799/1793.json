@@ -1,14 +1,14 @@
 {
   "num": "1793",
   "name": {
-    "KO": "메카트론",
-    "JA": "ねんどろいど メガトロン (ねんどろいど めがとろん)",
-    "EN": "Nendoroid Megatron"
+    "ko": "메카트론",
+    "ja": "ねんどろいど メガトロン (ねんどろいど めがとろん)",
+    "en": "Nendoroid Megatron"
   },
   "series": {
-    "KO": "트랜스포머 시리즈",
-    "JA": "トランスフォーマー",
-    "EN": "Transformers"
+    "ko": "트랜스포머 시리즈",
+    "ja": "トランスフォーマー",
+    "en": "Transformers"
   },
   "gsc_productNum": 12171,
   "price": 5500,

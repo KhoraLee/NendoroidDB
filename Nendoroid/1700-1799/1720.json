@@ -1,14 +1,14 @@
 {
   "num": "1720",
   "name": {
-    "KO": "신도우 히카루",
-    "JA": "ねんどろいど 進藤ヒカル (ねんどろいど しんどうひかる)",
-    "EN": "Nendoroid Hikaru Shindo"
+    "ko": "신도우 히카루",
+    "ja": "ねんどろいど 進藤ヒカル (ねんどろいど しんどうひかる)",
+    "en": "Nendoroid Hikaru Shindo"
   },
   "series": {
-    "KO": "고스트 바둑왕",
-    "JA": "ヒカルの碁",
-    "EN": "Hikaru no Go"
+    "ko": "고스트 바둑왕",
+    "ja": "ヒカルの碁",
+    "en": "Hikaru no Go"
   },
   "gsc_productNum": 11848,
   "price": 5800,

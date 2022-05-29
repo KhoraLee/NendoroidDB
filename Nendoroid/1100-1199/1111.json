@@ -1,14 +1,14 @@
 {
   "num": "1111",
   "name": {
-    "KO": "이치",
-    "JA": "ねんどろいど 壱 (ねんどろいど いち)",
-    "EN": "Nendoroid Ichi"
+    "ko": "이치",
+    "ja": "ねんどろいど 壱 (ねんどろいど いち)",
+    "en": "Nendoroid Ichi"
   },
   "series": {
-    "KO": "중병장형여고생",
-    "JA": "重兵装型女子高生",
-    "EN": "Heavily Armed High School Girls"
+    "ko": "중병장형여고생",
+    "ja": "重兵装型女子高生",
+    "en": "Heavily Armed High School Girls"
   },
   "gsc_productNum": 8189,
   "price": 6315,

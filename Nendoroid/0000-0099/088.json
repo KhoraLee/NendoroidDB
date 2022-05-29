@@ -1,14 +1,14 @@
 {
   "num": "088",
   "name": {
-    "KO": "미나미 치아키",
-    "JA": "ねんどろいど 南千秋 (ねんどろいど みなみちあき)",
-    "EN": "Nendoroid Chiaki Minami (ねんどろいど みなみちあき)"
+    "ko": "미나미 치아키",
+    "ja": "ねんどろいど 南千秋 (ねんどろいど みなみちあき)",
+    "en": "Nendoroid Chiaki Minami (ねんどろいど みなみちあき)"
   },
   "series": {
-    "KO": "미나미가",
-    "JA": "みなみけ",
-    "EN": "Minamike"
+    "ko": "미나미가",
+    "ja": "みなみけ",
+    "en": "Minamike"
   },
   "gsc_productNum": 2635,
   "price": 3667,

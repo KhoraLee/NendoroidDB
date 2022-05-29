@@ -1,14 +1,14 @@
 {
   "num": "359",
   "name": {
-    "KO": "드롯셀(차밍)",
-    "JA": "ねんどろいど ドロッセル（チャーミング） (ねんどろいど どろっせる（ちゃーみんぐ）)",
-    "EN": "Nendoroid Drössel (Charming) (ねんどろいど どろっせる（ちゃーみんぐ）)"
+    "ko": "드롯셀(차밍)",
+    "ja": "ねんどろいど ドロッセル（チャーミング） (ねんどろいど どろっせる（ちゃーみんぐ）)",
+    "en": "Nendoroid Drössel (Charming) (ねんどろいど どろっせる（ちゃーみんぐ）)"
   },
   "series": {
-    "KO": "파이어볼",
-    "JA": "ファイアボール チャーミング",
-    "EN": "Fireball Charming"
+    "ko": "파이어볼",
+    "ja": "ファイアボール チャーミング",
+    "en": "Fireball Charming"
   },
   "gsc_productNum": 4014,
   "price": 5029,

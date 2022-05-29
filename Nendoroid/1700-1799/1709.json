@@ -1,14 +1,14 @@
 {
   "num": "1709",
   "name": {
-    "KO": "아사쿠라 요우",
-    "JA": "ねんどろいど 麻倉 葉 (ねんどろいど あさくら よう)",
-    "EN": "Nendoroid Yoh Asakura"
+    "ko": "아사쿠라 요우",
+    "ja": "ねんどろいど 麻倉 葉 (ねんどろいど あさくら よう)",
+    "en": "Nendoroid Yoh Asakura"
   },
   "series": {
-    "KO": "샤먼킹",
-    "JA": "SHAMAN KING",
-    "EN": "SHAMAN KING"
+    "ko": "샤먼킹",
+    "ja": "SHAMAN KING",
+    "en": "SHAMAN KING"
   },
   "gsc_productNum": 11733,
   "price": 6200,

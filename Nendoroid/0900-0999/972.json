@@ -1,14 +1,14 @@
 {
   "num": "972",
   "name": {
-    "KO": "사타냐",
-    "JA": "ねんどろいど サターニャ (ねんどろいど さたーにゃ)",
-    "EN": "Nendoroid Satania"
+    "ko": "사타냐",
+    "ja": "ねんどろいど サターニャ (ねんどろいど さたーにゃ)",
+    "en": "Nendoroid Satania"
   },
   "series": {
-    "KO": "가브릴 드롭아웃",
-    "JA": "ガヴリールドロップアウト",
-    "EN": "Gabriel Dropout"
+    "ko": "가브릴 드롭아웃",
+    "ja": "ガヴリールドロップアウト",
+    "en": "Gabriel Dropout"
   },
   "gsc_productNum": 7565,
   "price": 5398,

@@ -1,14 +1,14 @@
 {
   "num": "370",
   "name": {
-    "KO": "에이미",
-    "JA": "ねんどろいど エイミー (ねんどろいど えいみー)",
-    "EN": "Nendoroid Amy (ねんどろいど えいみー)"
+    "ko": "에이미",
+    "ja": "ねんどろいど エイミー (ねんどろいど えいみー)",
+    "en": "Nendoroid Amy (ねんどろいど えいみー)"
   },
   "series": {
-    "KO": "취성의 가르간티아",
-    "JA": "翠星のガルガンティア",
-    "EN": "Gargantia on the Verdurous Planet"
+    "ko": "취성의 가르간티아",
+    "ja": "翠星のガルガンティア",
+    "en": "Gargantia on the Verdurous Planet"
   },
   "gsc_productNum": 4070,
   "price": 5029,

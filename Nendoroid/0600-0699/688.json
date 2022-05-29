@@ -1,14 +1,14 @@
 {
   "num": "688",
   "name": {
-    "KO": "아이오와",
-    "JA": "ねんどろいど Iowa（アイオワ） (ねんどろいど あいおわ)",
-    "EN": "Nendoroid Iowa"
+    "ko": "아이오와",
+    "ja": "ねんどろいど Iowa（アイオワ） (ねんどろいど あいおわ)",
+    "en": "Nendoroid Iowa"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 6037,
   "price": 7944,

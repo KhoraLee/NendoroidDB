@@ -1,14 +1,14 @@
 {
   "num": "640",
   "name": {
-    "KO": "시다레 호타루",
-    "JA": "ねんどろいど 枝垂ほたる (ねんどろいど しだれほたる)",
-    "EN": "Nendoroid Shidare Hotaru"
+    "ko": "시다레 호타루",
+    "ja": "ねんどろいど 枝垂ほたる (ねんどろいど しだれほたる)",
+    "en": "Nendoroid Shidare Hotaru"
   },
   "series": {
-    "KO": "다가시카시",
-    "JA": "だがしかし",
-    "EN": "Dagashi Kashi"
+    "ko": "다가시카시",
+    "ja": "だがしかし",
+    "en": "Dagashi Kashi"
   },
   "gsc_productNum": 5729,
   "price": 4888,

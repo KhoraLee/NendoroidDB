@@ -1,14 +1,14 @@
 {
   "num": "556",
   "name": {
-    "KO": "록맨",
-    "JA": "ねんどろいど ロックマン (ねんどろいど ろっくまん)",
-    "EN": "Nendoroid Mega Man (ねんどろいど ろっくまん)"
+    "ko": "록맨",
+    "ja": "ねんどろいど ロックマン (ねんどろいど ろっくまん)",
+    "en": "Nendoroid Mega Man (ねんどろいど ろっくまん)"
   },
   "series": {
-    "KO": "록맨 시리즈",
-    "JA": "ロックマン",
-    "EN": "Mega Man"
+    "ko": "록맨 시리즈",
+    "ja": "ロックマン",
+    "en": "Mega Man"
   },
   "gsc_productNum": 5208,
   "price": 4888,

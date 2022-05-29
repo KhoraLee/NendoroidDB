@@ -1,14 +1,14 @@
 {
   "num": "201",
   "name": {
-    "KO": "코바야시 카무이",
-    "JA": "ねんどろいど 小林可夢偉 (ねんどろいど こばやしかむい)",
-    "EN": "Nendoroid Kamui Kobayashi (ねんどろいど こばやしかむい)"
+    "ko": "코바야시 카무이",
+    "ja": "ねんどろいど 小林可夢偉 (ねんどろいど こばやしかむい)",
+    "en": "Nendoroid Kamui Kobayashi (ねんどろいど こばやしかむい)"
   },
   "series": {
-    "KO": "실존인물(레이서)",
-    "JA": "小林可夢偉",
-    "EN": "Kamui Kobayashi"
+    "ko": "실존인물(레이서)",
+    "ja": "小林可夢偉",
+    "en": "Kamui Kobayashi"
   },
   "gsc_productNum": 3311,
   "price": 3667,

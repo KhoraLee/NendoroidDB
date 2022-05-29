@@ -1,14 +1,14 @@
 {
   "num": "1133",
   "name": {
-    "KO": "로로나",
-    "JA": "ねんどろいど ロロナ (ねんどろいど ろろな)",
-    "EN": "Nendoroid Rorona"
+    "ko": "로로나",
+    "ja": "ねんどろいど ロロナ (ねんどろいど ろろな)",
+    "en": "Nendoroid Rorona"
   },
   "series": {
-    "KO": "로로나의 아틀리에",
-    "JA": "ロロナのアトリエ 〜アーランドの錬金術士〜",
-    "EN": "Atelier Rorona: The Alchemist of Arland"
+    "ko": "로로나의 아틀리에",
+    "ja": "ロロナのアトリエ 〜アーランドの錬金術士〜",
+    "en": "Atelier Rorona: The Alchemist of Arland"
   },
   "gsc_productNum": 8332,
   "price": 5280,

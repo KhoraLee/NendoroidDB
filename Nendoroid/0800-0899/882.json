@@ -1,14 +1,14 @@
 {
   "num": "882",
   "name": {
-    "KO": "자바미 유메코",
-    "JA": "ねんどろいど 蛇喰夢子 (ねんどろいど じゃばみゆめこ)",
-    "EN": "Nendoroid Yumeko Jabami"
+    "ko": "자바미 유메코",
+    "ja": "ねんどろいど 蛇喰夢子 (ねんどろいど じゃばみゆめこ)",
+    "en": "Nendoroid Yumeko Jabami"
   },
   "series": {
-    "KO": "카케구루이",
-    "JA": "賭ケグルイ××",
-    "EN": "Kakegurui - Compulsive Gambler"
+    "ko": "카케구루이",
+    "ja": "賭ケグルイ××",
+    "en": "Kakegurui - Compulsive Gambler"
   },
   "gsc_productNum": 7030,
   "price": 5900,

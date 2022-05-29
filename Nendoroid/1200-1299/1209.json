@@ -1,14 +1,14 @@
 {
   "num": "1209",
   "name": {
-    "KO": "볼트 보이",
-    "JA": "ねんどろいど ボルトボーイ (ねんどろいど ぼるとぼーい)",
-    "EN": "Nendoroid Vault Boy"
+    "ko": "볼트 보이",
+    "ja": "ねんどろいど ボルトボーイ (ねんどろいど ぼるとぼーい)",
+    "en": "Nendoroid Vault Boy"
   },
   "series": {
-    "KO": "폴아웃",
-    "JA": "Fallout",
-    "EN": "Fallout"
+    "ko": "폴아웃",
+    "ja": "Fallout",
+    "en": "Fallout"
   },
   "gsc_productNum": 8774,
   "price": 5200,

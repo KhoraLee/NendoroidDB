@@ -1,14 +1,14 @@
 {
   "num": "1099",
   "name": {
-    "KO": "기술단",
-    "JA": "ねんどろいど テキーズ (ねんどろいど てきーず)",
-    "EN": "Nendoroid Techies"
+    "ko": "기술단",
+    "ja": "ねんどろいど テキーズ (ねんどろいど てきーず)",
+    "en": "Nendoroid Techies"
   },
   "series": {
-    "KO": "도타2",
-    "JA": "DOTA2",
-    "EN": "DOTA 2"
+    "ko": "도타2",
+    "ja": "DOTA2",
+    "en": "DOTA 2"
   },
   "gsc_productNum": 8206,
   "price": 6722,

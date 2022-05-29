@@ -1,14 +1,14 @@
 {
   "num": "1531",
   "name": {
-    "KO": "V 여성 Ver.",
-    "JA": "ねんどろいど V 女性Ver. (ねんどろいど V じょせいVer.)",
-    "EN": "Nendoroid V: Female Ver."
+    "ko": "V 여성 Ver.",
+    "ja": "ねんどろいど V 女性Ver. (ねんどろいど V じょせいVer.)",
+    "en": "Nendoroid V: Female Ver."
   },
   "series": {
-    "KO": "사이버펑크 2077",
-    "JA": "サイバーパンク2077",
-    "EN": "Cyberpunk 2077"
+    "ko": "사이버펑크 2077",
+    "ja": "サイバーパンク2077",
+    "en": "Cyberpunk 2077"
   },
   "gsc_productNum": 10512,
   "price": 5200,

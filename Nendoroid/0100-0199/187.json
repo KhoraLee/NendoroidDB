@@ -1,14 +1,14 @@
 {
   "num": "187",
   "name": {
-    "KO": "MEIKO",
-    "JA": "ねんどろいど MEIKO (ねんどろいど めいこ)",
-    "EN": "Nendoroid MEIKO (ねんどろいど めいこ)"
+    "ko": "MEIKO",
+    "ja": "ねんどろいど MEIKO (ねんどろいど めいこ)",
+    "en": "Nendoroid MEIKO (ねんどろいど めいこ)"
   },
   "series": {
-    "KO": "보컬로이드(VOCALOID)",
-    "JA": "MEIKO",
-    "EN": "MEIKO"
+    "ko": "보컬로이드(VOCALOID)",
+    "ja": "MEIKO",
+    "en": "MEIKO"
   },
   "gsc_productNum": 3241,
   "price": 3143,

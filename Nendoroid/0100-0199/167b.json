@@ -1,14 +1,14 @@
 {
   "num": "167b",
   "name": {
-    "KO": "그을린 치르노",
-    "JA": "ねんどろいど 日焼けしたチルノ (ねんどろいど ひやけしたちるの)",
-    "EN": "Nendoroid Suntanned Cirno"
+    "ko": "그을린 치르노",
+    "ja": "ねんどろいど 日焼けしたチルノ (ねんどろいど ひやけしたちるの)",
+    "en": "Nendoroid Suntanned Cirno"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 6483,
   "price": 4074,

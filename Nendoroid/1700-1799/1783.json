@@ -1,14 +1,14 @@
 {
   "num": "1783",
   "name": {
-    "KO": "골드 쉽",
-    "JA": "ねんどろいど ゴールドシップ (ねんどろいど ごーるどしっぷ)",
-    "EN": "Nendoroid Gold Ship"
+    "ko": "골드 쉽",
+    "ja": "ねんどろいど ゴールドシップ (ねんどろいど ごーるどしっぷ)",
+    "en": "Nendoroid Gold Ship"
   },
   "series": {
-    "KO": "우마무스메 PRETTY DERBY",
-    "JA": "ウマ娘 プリティーダービー",
-    "EN": "Umamusume: Pretty Derby"
+    "ko": "우마무스메 PRETTY DERBY",
+    "ja": "ウマ娘 プリティーダービー",
+    "en": "Umamusume: Pretty Derby"
   },
   "gsc_productNum": 12114,
   "price": 5800,

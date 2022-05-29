@@ -1,14 +1,14 @@
 {
   "num": "410",
   "name": {
-    "KO": "길가메쉬",
-    "JA": "ねんどろいど ギルガメッシュ (ねんどろいど ぎるがめっしゅ)",
-    "EN": "Nendoroid Gilgamesh (ねんどろいど ぎるがめっしゅ)"
+    "ko": "길가메쉬",
+    "ja": "ねんどろいど ギルガメッシュ (ねんどろいど ぎるがめっしゅ)",
+    "en": "Nendoroid Gilgamesh (ねんどろいど ぎるがめっしゅ)"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/stay night",
-    "EN": "Fate/stay night"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/stay night",
+    "en": "Fate/stay night"
   },
   "gsc_productNum": 4357,
   "price": 4888,

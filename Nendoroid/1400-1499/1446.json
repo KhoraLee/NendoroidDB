@@ -1,14 +1,14 @@
 {
   "num": "1446",
   "name": {
-    "KO": "나기사 카오루 플러그 슈트 Ver.",
-    "JA": "ねんどろいど 渚カヲル プラグスーツVer. (ねんどろいど なぎさかをる ぷらぐすーつVer.)",
-    "EN": "Nendoroid Kaworu Nagisa: Plugsuit Ver."
+    "ko": "나기사 카오루 플러그 슈트 Ver.",
+    "ja": "ねんどろいど 渚カヲル プラグスーツVer. (ねんどろいど なぎさかをる ぷらぐすーつVer.)",
+    "en": "Nendoroid Kaworu Nagisa: Plugsuit Ver."
   },
   "series": {
-    "KO": "에반게리온",
-    "JA": "ヱヴァンゲリヲン新劇場版",
-    "EN": "Rebuild of Evangelion"
+    "ko": "에반게리온",
+    "ja": "ヱヴァンゲリヲン新劇場版",
+    "en": "Rebuild of Evangelion"
   },
   "gsc_productNum": 9968,
   "price": 5800,

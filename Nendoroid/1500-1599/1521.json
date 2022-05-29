@@ -1,14 +1,14 @@
 {
   "num": "1521",
   "name": {
-    "KO": "에이야퍄들라",
-    "JA": "ねんどろいど エイヤフィヤトラ (ねんどろいど えいやふぃやとら)",
-    "EN": "Nendoroid Eyjafjalla"
+    "ko": "에이야퍄들라",
+    "ja": "ねんどろいど エイヤフィヤトラ (ねんどろいど えいやふぃやとら)",
+    "en": "Nendoroid Eyjafjalla"
   },
   "series": {
-    "KO": "명일방주",
-    "JA": "アークナイツ",
-    "EN": "Arknights"
+    "ko": "명일방주",
+    "ja": "アークナイツ",
+    "en": "Arknights"
   },
   "gsc_productNum": 10427,
   "price": 5600,

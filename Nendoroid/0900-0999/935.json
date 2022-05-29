@@ -1,14 +1,14 @@
 {
   "num": "935",
   "name": {
-    "KO": "카미나",
-    "JA": "ねんどろいど カミナ (ねんどろいど かみな)",
-    "EN": "Nendoroid Kamina"
+    "ko": "카미나",
+    "ja": "ねんどろいど カミナ (ねんどろいど かみな)",
+    "en": "Nendoroid Kamina"
   },
   "series": {
-    "KO": "천원돌파 그렌라간",
-    "JA": "天元突破グレンラガン",
-    "EN": "Gurren Lagann"
+    "ko": "천원돌파 그렌라간",
+    "ja": "天元突破グレンラガン",
+    "en": "Gurren Lagann"
   },
   "gsc_productNum": 7280,
   "price": 4888,

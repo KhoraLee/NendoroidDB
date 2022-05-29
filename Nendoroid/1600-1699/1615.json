@@ -1,14 +1,14 @@
 {
   "num": "1615",
   "name": {
-    "KO": "햄토리",
-    "JA": "ねんどろいど ハム太郎 (ねんどろいど はむたろう)",
-    "EN": "Nendoroid Hamtaro"
+    "ko": "햄토리",
+    "ja": "ねんどろいど ハム太郎 (ねんどろいど はむたろう)",
+    "en": "Nendoroid Hamtaro"
   },
   "series": {
-    "KO": "방가방가 해뫁리",
-    "JA": "とっとこハム太郎",
-    "EN": "Hamtaro"
+    "ko": "방가방가 해뫁리",
+    "ja": "とっとこハム太郎",
+    "en": "Hamtaro"
   },
   "gsc_productNum": 11101,
   "price": 5500,

@@ -1,14 +1,14 @@
 {
   "num": "1248",
   "name": {
-    "KO": "바닐라",
-    "JA": "ねんどろいど バニラ (ねんどろいど ばにら)",
-    "EN": "Nendoroid Vanilla"
+    "ko": "바닐라",
+    "ja": "ねんどろいど バニラ (ねんどろいど ばにら)",
+    "en": "Nendoroid Vanilla"
   },
   "series": {
-    "KO": "네코파라",
-    "JA": "ネコぱら",
-    "EN": "NEKOPARA"
+    "ko": "네코파라",
+    "ja": "ネコぱら",
+    "en": "NEKOPARA"
   },
   "gsc_productNum": 9054,
   "price": 5100,

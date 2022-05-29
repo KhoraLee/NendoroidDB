@@ -1,14 +1,14 @@
 {
   "num": "1343",
   "name": {
-    "KO": "아스나 창세신 스테이시아 Ver.",
-    "JA": "ねんどろいど アスナ《創世神ステイシア》 (ねんどろいど あすな《そうせいしんすていしあ》)",
-    "EN": "Nendoroid Asuna [Stacia, the Goddess of Creation]"
+    "ko": "아스나 창세신 스테이시아 Ver.",
+    "ja": "ねんどろいど アスナ《創世神ステイシア》 (ねんどろいど あすな《そうせいしんすていしあ》)",
+    "en": "Nendoroid Asuna [Stacia, the Goddess of Creation]"
   },
   "series": {
-    "KO": "소드 아트 온라인",
-    "JA": "ソードアート・オンライン アリシゼーション War of Underworld",
-    "EN": "Sword Art Online Alicization: War of Underworld"
+    "ko": "소드 아트 온라인",
+    "ja": "ソードアート・オンライン アリシゼーション War of Underworld",
+    "en": "Sword Art Online Alicization: War of Underworld"
   },
   "gsc_productNum": 9516,
   "price": 5000,

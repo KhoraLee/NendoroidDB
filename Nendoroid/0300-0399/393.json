@@ -1,14 +1,14 @@
 {
   "num": "393",
   "name": {
-    "KO": "루이지",
-    "JA": "ねんどろいど ルイージ (ねんどろいど るいーじ)",
-    "EN": "Nendoroid Luigi (ねんどろいど るいーじ)"
+    "ko": "루이지",
+    "ja": "ねんどろいど ルイージ (ねんどろいど るいーじ)",
+    "en": "Nendoroid Luigi (ねんどろいど るいーじ)"
   },
   "series": {
-    "KO": "슈퍼 마리오",
-    "JA": "スーパーマリオ",
-    "EN": "Super Mario"
+    "ko": "슈퍼 마리오",
+    "ja": "スーパーマリオ",
+    "en": "Super Mario"
   },
   "gsc_productNum": 4173,
   "price": 4584,

@@ -1,14 +1,14 @@
 {
   "num": "786",
   "name": {
-    "KO": "아이스 커비",
-    "JA": "ねんどろいど アイスカービィ (ねんどろいど あいすかーびぃ)",
-    "EN": "Nendoroid Ice Kirby"
+    "ko": "아이스 커비",
+    "ja": "ねんどろいど アイスカービィ (ねんどろいど あいすかーびぃ)",
+    "en": "Nendoroid Ice Kirby"
   },
   "series": {
-    "KO": "별의 커비",
-    "JA": "星のカービィ",
-    "EN": "Kirby"
+    "ko": "별의 커비",
+    "ja": "星のカービィ",
+    "en": "Kirby"
   },
   "gsc_productNum": 6508,
   "price": 5000,

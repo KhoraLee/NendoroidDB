@@ -1,14 +1,14 @@
 {
   "num": "377",
   "name": {
-    "KO": "헌터♀ 키린 에디션",
-    "JA": "ねんどろいど ハンター♀ キリン・エディション (ねんどろいど はんたー♀ きりん・えでぃしょん)",
-    "EN": "Nendoroid Hunter: Female - Kirin Edition (ねんどろいど はんたー♀ きりん・えでぃしょん)"
+    "ko": "헌터♀ 키린 에디션",
+    "ja": "ねんどろいど ハンター♀ キリン・エディション (ねんどろいど はんたー♀ きりん・えでぃしょん)",
+    "en": "Nendoroid Hunter: Female - Kirin Edition (ねんどろいど はんたー♀ きりん・えでぃしょん)"
   },
   "series": {
-    "KO": "몬스터 헌터",
-    "JA": "モンスターハンター4",
-    "EN": "Monster Hunter 4"
+    "ko": "몬스터 헌터",
+    "ja": "モンスターハンター4",
+    "en": "Monster Hunter 4"
   },
   "gsc_productNum": 4112,
   "price": 6200,

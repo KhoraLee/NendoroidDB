@@ -1,14 +1,14 @@
 {
   "num": "932",
   "name": {
-    "KO": "테오\u003d코르네로",
-    "JA": "ねんどろいど テオ・コルネーロ (ねんどろいど てお・こるねーろ)",
-    "EN": "Nendoroid Theo Cornaro"
+    "ko": "테오\u003d코르네로",
+    "ja": "ねんどろいど テオ・コルネーロ (ねんどろいど てお・こるねーろ)",
+    "en": "Nendoroid Theo Cornaro"
   },
   "series": {
-    "KO": "그랑크레스트 전기",
-    "JA": "グランクレスト戦記",
-    "EN": "Record of Grancrest War"
+    "ko": "그랑크레스트 전기",
+    "ja": "グランクレスト戦記",
+    "en": "Record of Grancrest War"
   },
   "gsc_productNum": 7275,
   "price": 4888,

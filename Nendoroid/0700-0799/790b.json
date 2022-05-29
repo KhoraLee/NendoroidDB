@@ -1,14 +1,14 @@
 {
   "num": "790b",
   "name": {
-    "KO": "메르시 코발트 스킨 에디션",
-    "JA": "ねんどろいど マーシー コバルトスキン・エディション (ねんどろいど まーしー こばるとすきん・えでぃしょん)",
-    "EN": "Nendoroid Mercy: Cobalt Skin Edition"
+    "ko": "메르시 코발트 스킨 에디션",
+    "ja": "ねんどろいど マーシー コバルトスキン・エディション (ねんどろいど まーしー こばるとすきん・えでぃしょん)",
+    "en": "Nendoroid Mercy: Cobalt Skin Edition"
   },
   "series": {
-    "KO": "오버워치",
-    "JA": "オーバーウォッチ",
-    "EN": "Overwatch"
+    "ko": "오버워치",
+    "ja": "オーバーウォッチ",
+    "en": "Overwatch"
   },
   "gsc_productNum": 7865,
   "price": 4991,

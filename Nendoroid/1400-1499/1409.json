@@ -1,14 +1,14 @@
 {
   "num": "1409",
   "name": {
-    "KO": "옵티머스 프라임",
-    "JA": "ねんどろいど オプティマスプライム (ねんどろいど おぷてぃますぷらいむ)",
-    "EN": "Nendoroid Optimus Prime"
+    "ko": "옵티머스 프라임",
+    "ja": "ねんどろいど オプティマスプライム (ねんどろいど おぷてぃますぷらいむ)",
+    "en": "Nendoroid Optimus Prime"
   },
   "series": {
-    "KO": "트랜스포머",
-    "JA": "バンブルビー",
-    "EN": "Bumblebee"
+    "ko": "트랜스포머",
+    "ja": "バンブルビー",
+    "en": "Bumblebee"
   },
   "gsc_productNum": 9776,
   "price": 5500,

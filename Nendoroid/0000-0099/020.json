@@ -1,14 +1,14 @@
 {
   "num": "020",
   "name": {
-    "KO": "빙쵸탄",
-    "JA": "ねんどろいど びんちょうタン (びんちょうたん ねんどろいど)",
-    "EN": "Nendoroid Binchou-tan (びんちょうたん ねんどろいど)"
+    "ko": "빙쵸탄",
+    "ja": "ねんどろいど びんちょうタン (びんちょうたん ねんどろいど)",
+    "en": "Nendoroid Binchou-tan (びんちょうたん ねんどろいど)"
   },
   "series": {
-    "KO": "빙쵸탄",
-    "JA": "びんちょうタン",
-    "EN": "Binchou-tan"
+    "ko": "빙쵸탄",
+    "ja": "びんちょうタン",
+    "en": "Binchou-tan"
   },
   "gsc_productNum": 631,
   "price": 3667,

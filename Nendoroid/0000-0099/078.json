@@ -1,14 +1,14 @@
 {
   "num": "078",
   "name": {
-    "KO": "라즈베릴",
-    "JA": "ねんどろいど ラズベリル (らずべりる ねんどろいど)",
-    "EN": "Nendoroid Raspberyl (らずべりる ねんどろいど)"
+    "ko": "라즈베릴",
+    "ja": "ねんどろいど ラズベリル (らずべりる ねんどろいど)",
+    "en": "Nendoroid Raspberyl (らずべりる ねんどろいど)"
   },
   "series": {
-    "KO": "마계전기 디스가이아3",
-    "JA": "魔界戦記ディスガイア３",
-    "EN": "Disgaea 3: Absence of Justice"
+    "ko": "마계전기 디스가이아3",
+    "ja": "魔界戦記ディスガイア３",
+    "en": "Disgaea 3: Absence of Justice"
   },
   "gsc_productNum": 2509,
   "price": 3667,

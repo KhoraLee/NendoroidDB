@@ -1,14 +1,14 @@
 {
   "num": "529b",
   "name": {
-    "KO": "카게야마 토비오 츄리닝 Ver.",
-    "JA": "ねんどろいど 影山飛雄 ジャージVer. (ねんどろいど かげやまとびお じゃーじVer.)",
-    "EN": "Nendoroid Tobio Kageyama: Jersey Ver."
+    "ko": "카게야마 토비오 츄리닝 Ver.",
+    "ja": "ねんどろいど 影山飛雄 ジャージVer. (ねんどろいど かげやまとびお じゃーじVer.)",
+    "en": "Nendoroid Tobio Kageyama: Jersey Ver."
   },
   "series": {
-    "KO": "하이큐!!",
-    "JA": "ハイキュー!!",
-    "EN": "Haikyu!!"
+    "ko": "하이큐!!",
+    "ja": "ハイキュー!!",
+    "en": "Haikyu!!"
   },
   "gsc_productNum": 7011,
   "price": 3565,

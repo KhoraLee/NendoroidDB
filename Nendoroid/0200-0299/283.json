@@ -1,14 +1,14 @@
 {
   "num": "283",
   "name": {
-    "KO": "아스나",
-    "JA": "ねんどろいど アスナ (ねんどろいど あすな)",
-    "EN": "Nendoroid Asuna (ねんどろいど あすな)"
+    "ko": "아스나",
+    "ja": "ねんどろいど アスナ (ねんどろいど あすな)",
+    "en": "Nendoroid Asuna (ねんどろいど あすな)"
   },
   "series": {
-    "KO": "소드 아트 온라인",
-    "JA": "ソードアート・オンライン",
-    "EN": "Sword Art Online"
+    "ko": "소드 아트 온라인",
+    "ja": "ソードアート・オンライン",
+    "en": "Sword Art Online"
   },
   "gsc_productNum": 3710,
   "price": 3667,

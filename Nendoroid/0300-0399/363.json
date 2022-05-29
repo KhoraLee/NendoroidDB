@@ -1,14 +1,14 @@
 {
   "num": "363",
   "name": {
-    "KO": "세이버 얼터 슈퍼 무버블 에디션",
-    "JA": "ねんどろいど セイバーオルタ スーパームーバブル・エディション (ねんどろいど せいばーおるた すーぱーむーばぶる・えでぃしょん)",
-    "EN": "Nendoroid Saber Alter: Super Movable Edition"
+    "ko": "세이버 얼터 슈퍼 무버블 에디션",
+    "ja": "ねんどろいど セイバーオルタ スーパームーバブル・エディション (ねんどろいど せいばーおるた すーぱーむーばぶる・えでぃしょん)",
+    "en": "Nendoroid Saber Alter: Super Movable Edition"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/stay night",
-    "EN": "Fate/stay night"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/stay night",
+    "en": "Fate/stay night"
   },
   "gsc_productNum": 4035,
   "price": 4278,

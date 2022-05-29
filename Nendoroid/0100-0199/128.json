@@ -1,14 +1,14 @@
 {
   "num": "128",
   "name": {
-    "KO": "데드 마스터",
-    "JA": "ねんどろいど デッドマスター (ねんどろいど　でっどますたー)",
-    "EN": "Nendoroid Dead Master (ねんどろいど　でっどますたー)"
+    "ko": "데드 마스터",
+    "ja": "ねんどろいど デッドマスター (ねんどろいど　でっどますたー)",
+    "en": "Nendoroid Dead Master (ねんどろいど　でっどますたー)"
   },
   "series": {
-    "KO": "BLACK★ROCK SHOOTER",
-    "JA": "ブラック★ロックシューター",
-    "EN": "Black Rock Shooter"
+    "ko": "BLACK★ROCK SHOOTER",
+    "ja": "ブラック★ロックシューター",
+    "en": "Black Rock Shooter"
   },
   "gsc_productNum": 2940,
   "price": 3667,

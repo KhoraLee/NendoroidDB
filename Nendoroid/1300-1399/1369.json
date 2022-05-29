@@ -1,14 +1,14 @@
 {
   "num": "1369",
   "name": {
-    "KO": "비프 보스",
-    "JA": "ねんどろいど ビーフボス (ねんどろいど びーふぼす)",
-    "EN": "Nendoroid Beef Boss"
+    "ko": "비프 보스",
+    "ja": "ねんどろいど ビーフボス (ねんどろいど びーふぼす)",
+    "en": "Nendoroid Beef Boss"
   },
   "series": {
-    "KO": "포트나이트",
-    "JA": "フォートナイト",
-    "EN": "Fortnite"
+    "ko": "포트나이트",
+    "ja": "フォートナイト",
+    "en": "Fortnite"
   },
   "gsc_productNum": 9706,
   "price": 5200,

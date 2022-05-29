@@ -1,14 +1,14 @@
 {
   "num": "1551",
   "name": {
-    "KO": "텍사스",
-    "JA": "ねんどろいど テキサス (ねんどろいど てきさす)",
-    "EN": "Nendoroid Texas"
+    "ko": "텍사스",
+    "ja": "ねんどろいど テキサス (ねんどろいど てきさす)",
+    "en": "Nendoroid Texas"
   },
   "series": {
-    "KO": "명일방주",
-    "JA": "アークナイツ",
-    "EN": "Arknights"
+    "ko": "명일방주",
+    "ja": "アークナイツ",
+    "en": "Arknights"
   },
   "gsc_productNum": 10657,
   "price": 5600,

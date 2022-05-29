@@ -1,14 +1,14 @@
 {
   "num": "168a",
   "name": {
-    "KO": "아이리",
-    "JA": "ねんどろいど アイリ (ねんどろいど あいり)",
-    "EN": "Nendoroid Airi (ねんどろいど あいり)"
+    "ko": "아이리",
+    "ja": "ねんどろいど アイリ (ねんどろいど あいり)",
+    "en": "Nendoroid Airi (ねんどろいど あいり)"
   },
   "series": {
-    "KO": "퀸즈 블레이드",
-    "JA": "クイーンズブレイド",
-    "EN": "Queen\u0027s Blade"
+    "ko": "퀸즈 블레이드",
+    "ja": "クイーンズブレイド",
+    "en": "Queen\u0027s Blade"
   },
   "gsc_productNum": 3111,
   "price": 3667,

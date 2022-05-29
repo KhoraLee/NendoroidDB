@@ -1,14 +1,14 @@
 {
   "num": "1201",
   "name": {
-    "KO": "아케호시 스바루",
-    "JA": "ねんどろいど 明星スバル (ねんどろいど あけほしすばる)",
-    "EN": "Nendoroid Subaru Akehoshi"
+    "ko": "아케호시 스바루",
+    "ja": "ねんどろいど 明星スバル (ねんどろいど あけほしすばる)",
+    "en": "Nendoroid Subaru Akehoshi"
   },
   "series": {
-    "KO": "앙상블 스타즈!",
-    "JA": "あんさんぶるスターズ！",
-    "EN": "Ensemble Stars!"
+    "ko": "앙상블 스타즈!",
+    "ja": "あんさんぶるスターズ！",
+    "en": "Ensemble Stars!"
   },
   "gsc_productNum": 8784,
   "price": 5000,

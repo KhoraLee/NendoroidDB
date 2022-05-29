@@ -1,14 +1,14 @@
 {
   "num": "031",
   "name": {
-    "KO": "L 순록 Ver.",
-    "JA": "ねんどろいど L トナカイVer. (える　となかいばーじょん　ねんどろいど)",
-    "EN": "Nendoroid L Reindeer Version (える　となかいばーじょん　ねんどろいど)"
+    "ko": "L 순록 Ver.",
+    "ja": "ねんどろいど L トナカイVer. (える　となかいばーじょん　ねんどろいど)",
+    "en": "Nendoroid L Reindeer Version (える　となかいばーじょん　ねんどろいど)"
   },
   "series": {
-    "KO": "데스노트",
-    "JA": "DEATH NOTE",
-    "EN": "DEATH NOTE"
+    "ko": "데스노트",
+    "ja": "DEATH NOTE",
+    "en": "DEATH NOTE"
   },
   "gsc_productNum": 639,
   "price": 2619,

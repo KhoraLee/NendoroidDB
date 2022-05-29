@@ -1,14 +1,14 @@
 {
   "num": "678",
   "name": {
-    "KO": "전율의 타츠마키",
-    "JA": "ねんどろいど 戦慄のタツマキ (ねんどろいど せんりつのたつまき)",
-    "EN": "Nendoroid Tatsumaki"
+    "ko": "전율의 타츠마키",
+    "ja": "ねんどろいど 戦慄のタツマキ (ねんどろいど せんりつのたつまき)",
+    "en": "Nendoroid Tatsumaki"
   },
   "series": {
-    "KO": "원펀맨",
-    "JA": "ワンパンマン",
-    "EN": "ONE-PUNCH MAN"
+    "ko": "원펀맨",
+    "ja": "ワンパンマン",
+    "en": "ONE-PUNCH MAN"
   },
   "gsc_productNum": 5956,
   "price": 4888,

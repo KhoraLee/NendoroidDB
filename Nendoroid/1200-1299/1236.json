@@ -1,14 +1,14 @@
 {
   "num": "1236",
   "name": {
-    "KO": "토비이치 오리가미 정령 Ver.",
-    "JA": "ねんどろいど 鳶一折紙 精霊Ver. (ねんどろいど とびいちおりがみ せいれいVer.)",
-    "EN": "Nendoroid Origami Tobiichi: Spirit Ver."
+    "ko": "토비이치 오리가미 정령 Ver.",
+    "ja": "ねんどろいど 鳶一折紙 精霊Ver. (ねんどろいど とびいちおりがみ せいれいVer.)",
+    "en": "Nendoroid Origami Tobiichi: Spirit Ver."
   },
   "series": {
-    "KO": "데이트 어 라이브",
-    "JA": "デート・ア・ライブⅣ",
-    "EN": "Date A Live IV"
+    "ko": "데이트 어 라이브",
+    "ja": "デート・ア・ライブⅣ",
+    "en": "Date A Live IV"
   },
   "gsc_productNum": 12569,
   "price": 7800,

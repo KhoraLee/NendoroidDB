@@ -1,14 +1,14 @@
 {
   "num": "452",
   "name": {
-    "KO": "시논",
-    "JA": "ねんどろいど シノン (ねんどろいど しのん)",
-    "EN": "Nendoroid Sinon"
+    "ko": "시논",
+    "ja": "ねんどろいど シノン (ねんどろいど しのん)",
+    "en": "Nendoroid Sinon"
   },
   "series": {
-    "KO": "소드 아트 온라인",
-    "JA": "ソードアート・オンラインⅡ",
-    "EN": "Sword Art Online II"
+    "ko": "소드 아트 온라인",
+    "ja": "ソードアート・オンラインⅡ",
+    "en": "Sword Art Online II"
   },
   "gsc_productNum": 4573,
   "price": 4278,

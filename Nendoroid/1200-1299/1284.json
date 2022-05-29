@@ -1,14 +1,14 @@
 {
   "num": "1284",
   "name": {
-    "KO": "헌터♀ 나르가α Ver.",
-    "JA": "ねんどろいど ハンター♀ ナルガα Ver. (ねんどろいど ハンター♀ なるがα Ver.)",
-    "EN": "Nendoroid Hunter: Female Nargacuga Alpha Armor Ver."
+    "ko": "헌터♀ 나르가α Ver.",
+    "ja": "ねんどろいど ハンター♀ ナルガα Ver. (ねんどろいど ハンター♀ なるがα Ver.)",
+    "en": "Nendoroid Hunter: Female Nargacuga Alpha Armor Ver."
   },
   "series": {
-    "KO": "몬스터 헌터",
-    "JA": "モンスターハンターワールド：アイスボーン",
-    "EN": "MONSTER HUNTER WORLD: ICEBORNE"
+    "ko": "몬스터 헌터",
+    "ja": "モンスターハンターワールド：アイスボーン",
+    "en": "MONSTER HUNTER WORLD: ICEBORNE"
   },
   "gsc_productNum": 9275,
   "price": 5500,

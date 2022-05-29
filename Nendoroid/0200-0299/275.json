@@ -1,14 +1,14 @@
 {
   "num": "275",
   "name": {
-    "KO": "앨리스 마가트로이드",
-    "JA": "ねんどろいど アリス・マーガトロイド (ねんどろいど ありす・まーがとろいど)",
-    "EN": "Nendoroid Alice Margatroid (ねんどろいど ありす・まーがとろいど)"
+    "ko": "앨리스 마가트로이드",
+    "ja": "ねんどろいど アリス・マーガトロイド (ねんどろいど ありす・まーがとろいど)",
+    "en": "Nendoroid Alice Margatroid (ねんどろいど ありす・まーがとろいど)"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 3666,
   "price": 3667,

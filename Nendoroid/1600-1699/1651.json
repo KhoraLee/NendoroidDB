@@ -1,14 +1,14 @@
 {
   "num": "1651",
   "name": {
-    "KO": "소나",
-    "JA": "ねんどろいど ソナ (ねんどろいど そな)",
-    "EN": "Nendoroid Sona"
+    "ko": "소나",
+    "ja": "ねんどろいど ソナ (ねんどろいど そな)",
+    "en": "Nendoroid Sona"
   },
   "series": {
-    "KO": "리그 오브 레전드",
-    "JA": "リーグ・オブ・レジェンド",
-    "EN": "League of Legends"
+    "ko": "리그 오브 레전드",
+    "ja": "リーグ・オブ・レジェンド",
+    "en": "League of Legends"
   },
   "gsc_productNum": 11267,
   "price": 7500,

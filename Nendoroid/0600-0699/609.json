@@ -1,14 +1,14 @@
 {
   "num": "609",
   "name": {
-    "KO": "코메이지 사토리",
-    "JA": "ねんどろいど 古明地さとり (ねんどろいど こめいじさとり)",
-    "EN": "Nendoroid Satori Komeiji"
+    "ko": "코메이지 사토리",
+    "ja": "ねんどろいど 古明地さとり (ねんどろいど こめいじさとり)",
+    "en": "Nendoroid Satori Komeiji"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 5503,
   "price": 4584,

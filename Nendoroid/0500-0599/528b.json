@@ -1,14 +1,14 @@
 {
   "num": "528b",
   "name": {
-    "KO": "히나타 쇼요 츄리닝 Ver.",
-    "JA": "ねんどろいど 日向翔陽 ジャージVer. (ねんどろいど ひなたしょうよう じゃーじVer.)",
-    "EN": "Nendoroid Shoyo Hinata: Jersey Ver."
+    "ko": "히나타 쇼요 츄리닝 Ver.",
+    "ja": "ねんどろいど 日向翔陽 ジャージVer. (ねんどろいど ひなたしょうよう じゃーじVer.)",
+    "en": "Nendoroid Shoyo Hinata: Jersey Ver."
   },
   "series": {
-    "KO": "하이큐!!",
-    "JA": "ハイキュー!!",
-    "EN": "Haikyu!!"
+    "ko": "하이큐!!",
+    "ja": "ハイキュー!!",
+    "en": "Haikyu!!"
   },
   "gsc_productNum": 7010,
   "price": 3565,

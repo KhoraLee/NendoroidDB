@@ -1,14 +1,14 @@
 {
   "num": "132",
   "name": {
-    "KO": "아크 비숍",
-    "JA": "ねんどろいど アークビショップ (ねんどろいど あーくびしょっぷ)",
-    "EN": "Nendoroid Archbishop (ねんどろいど あーくびしょっぷ)"
+    "ko": "아크 비숍",
+    "ja": "ねんどろいど アークビショップ (ねんどろいど あーくびしょっぷ)",
+    "en": "Nendoroid Archbishop (ねんどろいど あーくびしょっぷ)"
   },
   "series": {
-    "KO": "라그나로크 온라인",
-    "JA": "ラグナロクオンライン",
-    "EN": "Ragnarok Online"
+    "ko": "라그나로크 온라인",
+    "ja": "ラグナロクオンライン",
+    "en": "Ragnarok Online"
   },
   "gsc_productNum": 2961,
   "price": 3667,

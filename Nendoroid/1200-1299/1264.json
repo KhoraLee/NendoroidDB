@@ -1,14 +1,14 @@
 {
   "num": "1264",
   "name": {
-    "KO": "UMP45",
-    "JA": "ねんどろいど UMP45 (ねんどろいど UMP45)",
-    "EN": "Nendoroid UMP45"
+    "ko": "UMP45",
+    "ja": "ねんどろいど UMP45 (ねんどろいど UMP45)",
+    "en": "Nendoroid UMP45"
   },
   "series": {
-    "KO": "소녀전선",
-    "JA": "ドールズフロントライン",
-    "EN": "Girls\u0027 Frontline"
+    "ko": "소녀전선",
+    "ja": "ドールズフロントライン",
+    "en": "Girls\u0027 Frontline"
   },
   "gsc_productNum": 9133,
   "price": 5900,

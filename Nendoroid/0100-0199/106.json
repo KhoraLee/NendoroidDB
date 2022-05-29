@@ -1,14 +1,14 @@
 {
   "num": "106",
   "name": {
-    "KO": "블랙★록 슈터",
-    "JA": "ねんどろいど ブラック★ロックシューター (ねんどろいど ぶらっく★ろっくしゅーたー)",
-    "EN": "Nendoroid Black Rock Shooter (ねんどろいど ぶらっく★ろっくしゅーたー)"
+    "ko": "블랙★록 슈터",
+    "ja": "ねんどろいど ブラック★ロックシューター (ねんどろいど ぶらっく★ろっくしゅーたー)",
+    "en": "Nendoroid Black Rock Shooter (ねんどろいど ぶらっく★ろっくしゅーたー)"
   },
   "series": {
-    "KO": "BLACK★ROCK SHOOTER",
-    "JA": "ブラック★ロックシューター",
-    "EN": "BLACK ROCK SHOOTER"
+    "ko": "BLACK★ROCK SHOOTER",
+    "ja": "ブラック★ロックシューター",
+    "en": "BLACK ROCK SHOOTER"
   },
   "gsc_productNum": 2837,
   "price": 3667,

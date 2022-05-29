@@ -1,14 +1,14 @@
 {
   "num": "1617-DX",
   "name": {
-    "KO": "윈터 솔져 DX",
-    "JA": "ねんどろいど ウィンター・ソルジャー DX (ねんどろいど うぃんたー・そるじゃー DX)",
-    "EN": "Nendoroid Winter Soldier DX"
+    "ko": "윈터 솔져 DX",
+    "ja": "ねんどろいど ウィンター・ソルジャー DX (ねんどろいど うぃんたー・そるじゃー DX)",
+    "en": "Nendoroid Winter Soldier DX"
   },
   "series": {
-    "KO": "팔콘과 윈터솔져",
-    "JA": "ファルコン\u0026ウィンター・ソルジャー",
-    "EN": "The Falcon and The Winter Soldier"
+    "ko": "팔콘과 윈터솔져",
+    "ja": "ファルコン\u0026ウィンター・ソルジャー",
+    "en": "The Falcon and The Winter Soldier"
   },
   "gsc_productNum": 11129,
   "price": 8800,

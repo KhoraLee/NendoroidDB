@@ -1,14 +1,14 @@
 {
   "num": "120",
   "name": {
-    "KO": "네코 알퀘이드 얼티메이트 에디션",
-    "JA": "ねんどろいど ネコアルク　アルティメット・エディション (ねんどろいど ねこあるく　あるてぃめっと・えでぃしょん)",
-    "EN": "Nendoroid Neko Arc: Ultimate Version (ねんどろいど ねこあるく　あるてぃめっと・えでぃしょん)"
+    "ko": "네코 알퀘이드 얼티메이트 에디션",
+    "ja": "ねんどろいど ネコアルク　アルティメット・エディション (ねんどろいど ねこあるく　あるてぃめっと・えでぃしょん)",
+    "en": "Nendoroid Neko Arc: Ultimate Version (ねんどろいど ねこあるく　あるてぃめっと・えでぃしょん)"
   },
   "series": {
-    "KO": "MELTY BLOOD",
-    "JA": "MELTY BLOOD",
-    "EN": "MELTY BLOOD"
+    "ko": "MELTY BLOOD",
+    "ja": "MELTY BLOOD",
+    "en": "MELTY BLOOD"
   },
   "gsc_productNum": 2889,
   "price": 3143,

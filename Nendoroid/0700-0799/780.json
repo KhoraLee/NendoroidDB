@@ -1,14 +1,14 @@
 {
   "num": "780",
   "name": {
-    "KO": "릴리에",
-    "JA": "ねんどろいど リーリエ (ねんどろいど りーりえ)",
-    "EN": "Nendoroid Lillie"
+    "ko": "릴리에",
+    "ja": "ねんどろいど リーリエ (ねんどろいど りーりえ)",
+    "en": "Nendoroid Lillie"
   },
   "series": {
-    "KO": "포켓몬스터",
-    "JA": "ポケットモンスター",
-    "EN": "Pokémon"
+    "ko": "포켓몬스터",
+    "ja": "ポケットモンスター",
+    "en": "Pokémon"
   },
   "gsc_productNum": 6464,
   "price": 4888,

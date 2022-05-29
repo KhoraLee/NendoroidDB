@@ -1,14 +1,14 @@
 {
   "num": "164",
   "name": {
-    "KO": "리에라",
-    "JA": "ねんどろいど リエラ (ねんどろいど りえら)",
-    "EN": "Nendoroid Riela (ねんどろいど りえら)"
+    "ko": "리에라",
+    "ja": "ねんどろいど リエラ (ねんどろいど りえら)",
+    "en": "Nendoroid Riela (ねんどろいど りえら)"
   },
   "series": {
-    "KO": "전장의 발큐리아3",
-    "JA": "戦場のヴァルキュリア3",
-    "EN": "Valkyria Chronicles 3"
+    "ko": "전장의 발큐리아3",
+    "ja": "戦場のヴァルキュリア3",
+    "en": "Valkyria Chronicles 3"
   },
   "gsc_productNum": 3104,
   "price": 3667,

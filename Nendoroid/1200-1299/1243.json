@@ -1,14 +1,14 @@
 {
   "num": "1243",
   "name": {
-    "KO": "소라 긴코",
-    "JA": "ねんどろいど 空銀子 (ねんどろいど そらぎんこ)",
-    "EN": "Nendoroid Ginko Sora"
+    "ko": "소라 긴코",
+    "ja": "ねんどろいど 空銀子 (ねんどろいど そらぎんこ)",
+    "en": "Nendoroid Ginko Sora"
   },
   "series": {
-    "KO": "용왕이 하는 일!",
-    "JA": "りゅうおうのおしごと！",
-    "EN": "The Ryuo\u0027s Work is Never Done!"
+    "ko": "용왕이 하는 일!",
+    "ja": "りゅうおうのおしごと！",
+    "en": "The Ryuo\u0027s Work is Never Done!"
   },
   "gsc_productNum": 9017,
   "price": 5500,

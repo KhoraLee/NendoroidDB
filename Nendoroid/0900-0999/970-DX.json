@@ -1,14 +1,14 @@
 {
   "num": "970-DX",
   "name": {
-    "KO": "캐스터/멀린 꽃의 마술서 Ver.",
-    "JA": "ねんどろいど キャスター/マーリン 花の魔術師Ver. (ねんどろいど きゃすたー/まーりん はなのまじゅつしVer.)",
-    "EN": "Nendoroid Caster/Merlin: Magus of Flowers Ver."
+    "ko": "캐스터/멀린 꽃의 마술서 Ver.",
+    "ja": "ねんどろいど キャスター/マーリン 花の魔術師Ver. (ねんどろいど きゃすたー/まーりん はなのまじゅつしVer.)",
+    "en": "Nendoroid Caster/Merlin: Magus of Flowers Ver."
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 7479,
   "price": 5602,

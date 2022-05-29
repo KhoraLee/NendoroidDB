@@ -1,14 +1,14 @@
 {
   "num": "371",
   "name": {
-    "KO": "시마카제",
-    "JA": "ねんどろいど 島風 (ねんどろいど しまかぜ)",
-    "EN": "Nendoroid Shimakaze (ねんどろいど しまかぜ)"
+    "ko": "시마카제",
+    "ja": "ねんどろいど 島風 (ねんどろいど しまかぜ)",
+    "en": "Nendoroid Shimakaze (ねんどろいど しまかぜ)"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 4072,
   "price": 4715,

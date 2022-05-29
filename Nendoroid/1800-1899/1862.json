@@ -1,14 +1,14 @@
 {
   "num": "1862",
   "name": {
-    "KO": "에일리언",
-    "JA": "ねんどろいど エイリアン (ねんどろいど えいりあん)",
-    "EN": "Nendoroid Alien"
+    "ko": "에일리언",
+    "ja": "ねんどろいど エイリアン (ねんどろいど えいりあん)",
+    "en": "Nendoroid Alien"
   },
   "series": {
-    "KO": "에일리언",
-    "JA": "エイリアン",
-    "EN": "Alien"
+    "ko": "에일리언",
+    "ja": "エイリアン",
+    "en": "Alien"
   },
   "gsc_productNum": 12510,
   "price": 9500,

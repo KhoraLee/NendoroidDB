@@ -1,14 +1,14 @@
 {
   "num": "090",
   "name": {
-    "KO": "알파르도",
-    "JA": "ねんどろいど アルファルド (ねんどろいど あるふぁるど)",
-    "EN": "Nendoroid Alphard (ねんどろいど あるふぁるど)"
+    "ko": "알파르도",
+    "ja": "ねんどろいど アルファルド (ねんどろいど あるふぁるど)",
+    "en": "Nendoroid Alphard (ねんどろいど あるふぁるど)"
   },
   "series": {
-    "KO": "카난",
-    "JA": "CANAAN",
-    "EN": "CANAAN"
+    "ko": "카난",
+    "ja": "CANAAN",
+    "en": "CANAAN"
   },
   "gsc_productNum": 2670,
   "price": 3667,

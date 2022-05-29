@@ -1,14 +1,14 @@
 {
   "num": "249",
   "name": {
-    "KO": "흑설공주",
-    "JA": "ねんどろいど 黒雪姫 (ねんどろいど くろゆきひめ)",
-    "EN": "Nendoroid Kuroyukihime (ねんどろいど くろゆきひめ)"
+    "ko": "흑설공주",
+    "ja": "ねんどろいど 黒雪姫 (ねんどろいど くろゆきひめ)",
+    "en": "Nendoroid Kuroyukihime (ねんどろいど くろゆきひめ)"
   },
   "series": {
-    "KO": "엑셀 월드",
-    "JA": "アクセル・ワールド",
-    "EN": "Accel World"
+    "ko": "엑셀 월드",
+    "ja": "アクセル・ワールド",
+    "en": "Accel World"
   },
   "gsc_productNum": 3550,
   "price": 3981,

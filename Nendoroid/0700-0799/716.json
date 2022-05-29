@@ -1,14 +1,14 @@
 {
   "num": "716",
   "name": {
-    "KO": "록맨.EXE",
-    "JA": "ねんどろいど ロックマン エグゼ スーパームーバブル・エディション (ねんどろいど ろっくまん えぐぜ すーぱーむーばぶる・えでぃしょん)",
-    "EN": "Nendoroid MegaMan.EXE: Super Movable Edition"
+    "ko": "록맨.EXE",
+    "ja": "ねんどろいど ロックマン エグゼ スーパームーバブル・エディション (ねんどろいど ろっくまん えぐぜ すーぱーむーばぶる・えでぃしょん)",
+    "en": "Nendoroid MegaMan.EXE: Super Movable Edition"
   },
   "series": {
-    "KO": "록맨 시리즈",
-    "JA": "バトルネットワーク ロックマンエグゼ",
-    "EN": "Mega Man Battle Network"
+    "ko": "록맨 시리즈",
+    "ja": "バトルネットワーク ロックマンエグゼ",
+    "en": "Mega Man Battle Network"
   },
   "gsc_productNum": 6129,
   "price": 4685,

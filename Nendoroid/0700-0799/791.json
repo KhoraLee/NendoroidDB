@@ -1,14 +1,14 @@
 {
   "num": "791",
   "name": {
-    "KO": "코하루 요시노",
-    "JA": "ねんどろいど 木春由乃 (ねんどろいど こはるよしの)",
-    "EN": "Nendoroid Yoshino Koharu"
+    "ko": "코하루 요시노",
+    "ja": "ねんどろいど 木春由乃 (ねんどろいど こはるよしの)",
+    "en": "Nendoroid Yoshino Koharu"
   },
   "series": {
-    "KO": "사쿠라 퀘스트",
-    "JA": "サクラクエスト",
-    "EN": "Sakura Quest"
+    "ko": "사쿠라 퀘스트",
+    "ja": "サクラクエスト",
+    "en": "Sakura Quest"
   },
   "gsc_productNum": 6557,
   "price": 4888,

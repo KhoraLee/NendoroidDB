@@ -1,14 +1,14 @@
 {
   "num": "220",
   "name": {
-    "KO": "메구리네 루카 응원 Ver.",
-    "JA": "ねんどろいど 巡音ルカ 応援Ver. (ねんどろいど めぐりねるか おうえんVer.)",
-    "EN": "Nendoroid Luka Megurine : Cheerful Ver. (ねんどろいど めぐりねるか おうえんVer.)"
+    "ko": "메구리네 루카 응원 Ver.",
+    "ja": "ねんどろいど 巡音ルカ 応援Ver. (ねんどろいど めぐりねるか おうえんVer.)",
+    "en": "Nendoroid Luka Megurine : Cheerful Ver. (ねんどろいど めぐりねるか おうえんVer.)"
   },
   "series": {
-    "KO": "보컬로이드(VOCALOID)",
-    "JA": "キャラクター・ボーカル・シリーズ03 巡音ルカ",
-    "EN": "Character Vocal Series 03: Luka Megurine"
+    "ko": "보컬로이드(VOCALOID)",
+    "ja": "キャラクター・ボーカル・シリーズ03 巡音ルカ",
+    "en": "Character Vocal Series 03: Luka Megurine"
   },
   "gsc_productNum": 3428,
   "price": 3667,

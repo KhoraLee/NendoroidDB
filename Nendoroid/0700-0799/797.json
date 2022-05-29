@@ -1,14 +1,14 @@
 {
   "num": "797",
   "name": {
-    "KO": "미키 사아캬 마이코 Ver.",
-    "JA": "ねんどろいど 美樹さやか 舞妓Ver. (ねんどろいど みきさやか まいこVer.)",
-    "EN": "Nendoroid Sayaka Miki: Maiko Ver."
+    "ko": "미키 사아캬 마이코 Ver.",
+    "ja": "ねんどろいど 美樹さやか 舞妓Ver. (ねんどろいど みきさやか まいこVer.)",
+    "en": "Nendoroid Sayaka Miki: Maiko Ver."
   },
   "series": {
-    "KO": "마법소녀 마도카 마기카",
-    "JA": "劇場版 魔法少女まどか☆マギカ",
-    "EN": "Puella Magi Madoka Magica The Movie"
+    "ko": "마법소녀 마도카 마기카",
+    "ja": "劇場版 魔法少女まどか☆マギカ",
+    "en": "Puella Magi Madoka Magica The Movie"
   },
   "gsc_productNum": 6587,
   "price": 4888,

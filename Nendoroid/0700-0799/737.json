@@ -1,14 +1,14 @@
 {
   "num": "737",
   "name": {
-    "KO": "나가토",
-    "JA": "ねんどろいど 長門 (ねんどろいど ながと)",
-    "EN": "Nendoroid Nagato"
+    "ko": "나가토",
+    "ja": "ねんどろいど 長門 (ねんどろいど ながと)",
+    "en": "Nendoroid Nagato"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 6257,
   "price": 6926,

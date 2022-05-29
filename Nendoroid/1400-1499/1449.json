@@ -1,14 +1,14 @@
 {
   "num": "1449",
   "name": {
-    "KO": "오니키리",
-    "JA": "ねんどろいど 鬼切 (ねんどろいど おにきり)",
-    "EN": "Nendoroid Onikiri"
+    "ko": "오니키리",
+    "ja": "ねんどろいど 鬼切 (ねんどろいど おにきり)",
+    "en": "Nendoroid Onikiri"
   },
   "series": {
-    "KO": "음양사",
-    "JA": "陰陽師",
-    "EN": "Onmyoji"
+    "ko": "음양사",
+    "ja": "陰陽師",
+    "en": "Onmyoji"
   },
   "gsc_productNum": 10658,
   "price": 5800,

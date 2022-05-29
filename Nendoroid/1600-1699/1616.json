@@ -1,14 +1,14 @@
 {
   "num": "1616",
   "name": {
-    "KO": "에반테",
-    "JA": "ねんどろいど エヴァンテ (ねんどろいど えゔぁんて)",
-    "EN": "Nendoroid Evanthe"
+    "ko": "에반테",
+    "ja": "ねんどろいど エヴァンテ (ねんどろいど えゔぁんて)",
+    "en": "Nendoroid Evanthe"
   },
   "series": {
-    "KO": "레드: 프라이드 오브 에덴",
-    "JA": "レッド：プライドオブエデン",
-    "EN": "RED：Pride of Eden"
+    "ko": "레드: 프라이드 오브 에덴",
+    "ja": "レッド：プライドオブエデン",
+    "en": "RED：Pride of Eden"
   },
   "gsc_productNum": 11132,
   "price": 6700,

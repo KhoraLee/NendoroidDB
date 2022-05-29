@@ -1,14 +1,14 @@
 {
   "num": "113",
   "name": {
-    "KO": "아네가사키 네네",
-    "JA": "ねんどろいど 姉ヶ崎寧々 (ねんどろいど あねがさきねね)",
-    "EN": "Nendoroid Nene Anegasaki (ねんどろいど あねがさきねね)"
+    "ko": "아네가사키 네네",
+    "ja": "ねんどろいど 姉ヶ崎寧々 (ねんどろいど あねがさきねね)",
+    "en": "Nendoroid Nene Anegasaki (ねんどろいど あねがさきねね)"
   },
   "series": {
-    "KO": "러브 플러스",
-    "JA": "ラブプラス",
-    "EN": "Love Plus"
+    "ko": "러브 플러스",
+    "ja": "ラブプラス",
+    "en": "Love Plus"
   },
   "gsc_productNum": 2897,
   "price": 3667,

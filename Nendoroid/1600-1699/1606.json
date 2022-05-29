@@ -1,14 +1,14 @@
 {
   "num": "1606",
   "name": {
-    "KO": "카이사",
-    "JA": "ねんどろいど カイ\u003dサ (ねんどろいど かい\u003dさ)",
-    "EN": "Nendoroid Kai\u0027Sa"
+    "ko": "카이사",
+    "ja": "ねんどろいど カイ\u003dサ (ねんどろいど かい\u003dさ)",
+    "en": "Nendoroid Kai\u0027Sa"
   },
   "series": {
-    "KO": "리그 오브 레전드",
-    "JA": "リーグ・オブ・レジェンド",
-    "EN": "League of Legends"
+    "ko": "리그 오브 레전드",
+    "ja": "リーグ・オブ・レジェンド",
+    "en": "League of Legends"
   },
   "gsc_productNum": 11121,
   "price": 7000,

@@ -1,14 +1,14 @@
 {
   "num": "1808",
   "name": {
-    "KO": "봇지 \u0026 카게",
-    "JA": "ねんどろいど ボッジ＆カゲ (ねんどろいど ぼっじ＆かげ)",
-    "EN": "Nendoroid Bojji \u0026 Kage"
+    "ko": "봇지 \u0026 카게",
+    "ja": "ねんどろいど ボッジ＆カゲ (ねんどろいど ぼっじ＆かげ)",
+    "en": "Nendoroid Bojji \u0026 Kage"
   },
   "series": {
-    "KO": "임금님 랭킹",
-    "JA": "王様ランキング",
-    "EN": "Ranking of Kings"
+    "ko": "임금님 랭킹",
+    "ja": "王様ランキング",
+    "en": "Ranking of Kings"
   },
   "gsc_productNum": 12260,
   "price": 6600,

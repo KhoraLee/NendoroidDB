@@ -1,14 +1,14 @@
 {
   "num": "1639",
   "name": {
-    "KO": "하츠네 미쿠 스테이지 세카이 Ver.",
-    "JA": "ねんどろいど 初音ミク ステージのセカイVer. (ねんどろいど はつねみく すてーじのせかいVer.)",
-    "EN": "Nendoroid Hatsune Miku Stage SEKAI Ver."
+    "ko": "하츠네 미쿠 스테이지 세카이 Ver.",
+    "ja": "ねんどろいど 初音ミク ステージのセカイVer. (ねんどろいど はつねみく すてーじのせかいVer.)",
+    "en": "Nendoroid Hatsune Miku Stage SEKAI Ver."
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "プロジェクトセカイ カラフルステージ！ feat.初音ミク",
-    "EN": "HATSUNE MIKU: COLORFUL STAGE!"
+    "ko": "하츠네미쿠",
+    "ja": "プロジェクトセカイ カラフルステージ！ feat.初音ミク",
+    "en": "HATSUNE MIKU: COLORFUL STAGE!"
   },
   "gsc_productNum": 11385,
   "price": 5800,

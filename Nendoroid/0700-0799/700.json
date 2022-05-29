@@ -1,14 +1,14 @@
 {
   "num": "700",
   "name": {
-    "KO": "하쿠레이 레이무 2.0",
-    "JA": "ねんどろいど 博麗霊夢2.0 (ねんどろいど はくれいれいむ2.0)",
-    "EN": "Nendoroid Reimu Hakurei 2.0"
+    "ko": "하쿠레이 레이무 2.0",
+    "ja": "ねんどろいど 博麗霊夢2.0 (ねんどろいど はくれいれいむ2.0)",
+    "en": "Nendoroid Reimu Hakurei 2.0"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 6474,
   "price": 5093,

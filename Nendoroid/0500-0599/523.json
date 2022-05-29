@@ -1,14 +1,14 @@
 {
   "num": "523",
   "name": {
-    "KO": "KAITO 천본앵 Ver.",
-    "JA": "ねんどろいど KAITO 千本桜Ver. (ねんどろいど かいと せんぼんざくらVer.)",
-    "EN": "Nendoroid KAITO: Senbonzakura Ver. (ねんどろいど かいと せんぼんざくらVer.)"
+    "ko": "KAITO 천본앵 Ver.",
+    "ja": "ねんどろいど KAITO 千本桜Ver. (ねんどろいど かいと せんぼんざくらVer.)",
+    "en": "Nendoroid KAITO: Senbonzakura Ver. (ねんどろいど かいと せんぼんざくらVer.)"
   },
   "series": {
-    "KO": "보컬로이드(VOCALOID)",
-    "JA": "千本桜 feat. 初音ミク",
-    "EN": "Senbonzakura feat. Hatsune Miku"
+    "ko": "보컬로이드(VOCALOID)",
+    "ja": "千本桜 feat. 初音ミク",
+    "en": "Senbonzakura feat. Hatsune Miku"
   },
   "gsc_productNum": 5040,
   "price": 4278,

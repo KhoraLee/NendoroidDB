@@ -1,14 +1,14 @@
 {
   "num": "1861",
   "name": {
-    "KO": "이누가미 코로네",
-    "JA": "ねんどろいど 戌神ころね (ねんどろいど いぬがみころね)",
-    "EN": "Nendoroid Inugami Korone"
+    "ko": "이누가미 코로네",
+    "ja": "ねんどろいど 戌神ころね (ねんどろいど いぬがみころね)",
+    "en": "Nendoroid Inugami Korone"
   },
   "series": {
-    "KO": "버추얼 유튜버 (홀로라이브)",
-    "JA": "ホロライブプロダクション",
-    "EN": "hololive production"
+    "ko": "버추얼 유튜버 (홀로라이브)",
+    "ja": "ホロライブプロダクション",
+    "en": "hololive production"
   },
   "gsc_productNum": 12601,
   "price": 6200,

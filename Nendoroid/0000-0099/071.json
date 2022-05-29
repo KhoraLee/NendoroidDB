@@ -1,14 +1,14 @@
 {
   "num": "071",
   "name": {
-    "KO": "우사코츠",
-    "JA": "ねんどろいど ウサコッツ (うさこっつ ねんどろいど)",
-    "EN": "Nendoroid Usakottsu (うさこっつ ねんどろいど)"
+    "ko": "우사코츠",
+    "ja": "ねんどろいど ウサコッツ (うさこっつ ねんどろいど)",
+    "en": "Nendoroid Usakottsu (うさこっつ ねんどろいど)"
   },
   "series": {
-    "KO": "천체전사 선레드",
-    "JA": "天体戦士サンレッド",
-    "EN": "Tentai Senshi Sunred"
+    "ko": "천체전사 선레드",
+    "ja": "天体戦士サンレッド",
+    "en": "Tentai Senshi Sunred"
   },
   "gsc_productNum": 2459,
   "price": 3143,

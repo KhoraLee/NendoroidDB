@@ -1,14 +1,14 @@
 {
   "num": "252",
   "name": {
-    "KO": "슈퍼소니코 호랑이 파카 Ver.",
-    "JA": "ねんどろいど すーぱーそに子 虎パーカーVer. (ねんどろいど すーぱーそにこ とらぱーかーVer.)",
-    "EN": "Nendoroid Super Sonico : Tiger Hoodie Ver. (ねんどろいど すーぱーそにこ とらぱーかーVer.)"
+    "ko": "슈퍼소니코 호랑이 파카 Ver.",
+    "ja": "ねんどろいど すーぱーそに子 虎パーカーVer. (ねんどろいど すーぱーそにこ とらぱーかーVer.)",
+    "en": "Nendoroid Super Sonico : Tiger Hoodie Ver. (ねんどろいど すーぱーそにこ とらぱーかーVer.)"
   },
   "series": {
-    "KO": "슈퍼 소니코",
-    "JA": "すーぱーそに子",
-    "EN": "Super Sonico"
+    "ko": "슈퍼 소니코",
+    "ja": "すーぱーそに子",
+    "en": "Super Sonico"
   },
   "gsc_productNum": 3537,
   "price": 3972,

@@ -1,14 +1,14 @@
 {
   "num": "1789",
   "name": {
-    "KO": "프로스트노바",
-    "JA": "ねんどろいど フロストノヴァ (ねんどろいど ふろすとのゔぁ)",
-    "EN": "Nendoroid FrostNova"
+    "ko": "프로스트노바",
+    "ja": "ねんどろいど フロストノヴァ (ねんどろいど ふろすとのゔぁ)",
+    "en": "Nendoroid FrostNova"
   },
   "series": {
-    "KO": "명일방주",
-    "JA": "アークナイツ",
-    "EN": "Arknights"
+    "ko": "명일방주",
+    "ja": "アークナイツ",
+    "en": "Arknights"
   },
   "gsc_productNum": 12141,
   "price": 7000,

@@ -1,14 +1,14 @@
 {
   "num": "733-DX",
   "name": {
-    "KO": "링크 브레스 오브 더 와일드 DX Ver.",
-    "JA": "ねんどろいど リンク ブレス オブ ザ ワイルドVer. DXエディション (ねんどろいど りんく ぶれす おぶ ざ わいるどVer. DXえでぃしょん)",
-    "EN": "Nendoroid Link: Breath of the Wild Ver. DX Edition"
+    "ko": "링크 브레스 오브 더 와일드 DX Ver.",
+    "ja": "ねんどろいど リンク ブレス オブ ザ ワイルドVer. DXエディション (ねんどろいど りんく ぶれす おぶ ざ わいるどVer. DXえでぃしょん)",
+    "en": "Nendoroid Link: Breath of the Wild Ver. DX Edition"
   },
   "series": {
-    "KO": "젤다의 전설",
-    "JA": "ゼルダの伝説　ブレス オブ ザ ワイルド",
-    "EN": "The Legend of Zelda: Breath of the Wild"
+    "ko": "젤다의 전설",
+    "ja": "ゼルダの伝説　ブレス オブ ザ ワイルド",
+    "en": "The Legend of Zelda: Breath of the Wild"
   },
   "gsc_productNum": 6212,
   "price": 6600,

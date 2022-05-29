@@ -1,14 +1,14 @@
 {
   "num": "173",
   "name": {
-    "KO": "이무카",
-    "JA": "ねんどろいど イムカ (ねんどろいど いむか)",
-    "EN": "Nendoroid Imuka (ねんどろいど いむか)"
+    "ko": "이무카",
+    "ja": "ねんどろいど イムカ (ねんどろいど いむか)",
+    "en": "Nendoroid Imuka (ねんどろいど いむか)"
   },
   "series": {
-    "KO": "전장의 발큐리아3",
-    "JA": "戦場のヴァルキュリア3",
-    "EN": "Valkyria Chronicles 3"
+    "ko": "전장의 발큐리아3",
+    "ja": "戦場のヴァルキュリア3",
+    "en": "Valkyria Chronicles 3"
   },
   "gsc_productNum": 3157,
   "price": 3667,

@@ -1,14 +1,14 @@
 {
   "num": "1879",
   "name": {
-    "KO": "아스트로",
-    "JA": "ねんどろいど アストロ (ねんどろいど あすとろ)",
-    "EN": "Nendoroid Astro"
+    "ko": "아스트로",
+    "ja": "ねんどろいど アストロ (ねんどろいど あすとろ)",
+    "en": "Nendoroid Astro"
   },
   "series": {
-    "KO": "아스트로 플레이룸",
-    "JA": "ASTRO\u0027s PLAYROOM",
-    "EN": "ASTRO\u0027s PLAYROOM"
+    "ko": "아스트로 플레이룸",
+    "ja": "ASTRO\u0027s PLAYROOM",
+    "en": "ASTRO\u0027s PLAYROOM"
   },
   "gsc_productNum": 12682,
   "price": 7000,

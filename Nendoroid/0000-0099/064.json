@@ -1,14 +1,14 @@
 {
   "num": "064",
   "name": {
-    "KO": "나기",
-    "JA": "ねんどろいど ナギ (なぎ　ねんどろいど)",
-    "EN": "Nendoroid Nagi (なぎ　ねんどろいど)"
+    "ko": "나기",
+    "ja": "ねんどろいど ナギ (なぎ　ねんどろいど)",
+    "en": "Nendoroid Nagi (なぎ　ねんどろいど)"
   },
   "series": {
-    "KO": "칸나기",
-    "JA": "かんなぎ",
-    "EN": "Kannagi"
+    "ko": "칸나기",
+    "ja": "かんなぎ",
+    "en": "Kannagi"
   },
   "gsc_productNum": 2334,
   "price": 3667,

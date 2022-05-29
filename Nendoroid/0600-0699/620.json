@@ -1,14 +1,14 @@
 {
   "num": "620",
   "name": {
-    "KO": "젤다 바람의 택트 Ver.",
-    "JA": "ねんどろいど ゼルダ 風のタクトVer. (ねんどろいど ぜるだ かぜのたくとVer.)",
-    "EN": "Nendoroid Zelda: The Wind Waker Ver."
+    "ko": "젤다 바람의 택트 Ver.",
+    "ja": "ねんどろいど ゼルダ 風のタクトVer. (ねんどろいど ぜるだ かぜのたくとVer.)",
+    "en": "Nendoroid Zelda: The Wind Waker Ver."
   },
   "series": {
-    "KO": "젤다의 전설",
-    "JA": "ゼルダの伝説 風のタクトHD",
-    "EN": "The Legend of Zelda: The Wind Waker HD"
+    "ko": "젤다의 전설",
+    "ja": "ゼルダの伝説 風のタクトHD",
+    "en": "The Legend of Zelda: The Wind Waker HD"
   },
   "gsc_productNum": 5598,
   "price": 4888,

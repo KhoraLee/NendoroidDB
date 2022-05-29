@@ -1,14 +1,14 @@
 {
   "num": "815",
   "name": {
-    "KO": "랜서/잔 다르크 얼터 산타 릴리",
-    "JA": "ねんどろいど ランサー/ジャンヌ・ダルク・オルタ・サンタ・リリィ (ねんどろいど らんさー/じゃんぬ・だるく・おるた・さんた・りりぃ)",
-    "EN": "Nendoroid Lancer/Jeanne d\u0027Arc Alter Santa Lily"
+    "ko": "랜서/잔 다르크 얼터 산타 릴리",
+    "ja": "ねんどろいど ランサー/ジャンヌ・ダルク・オルタ・サンタ・リリィ (ねんどろいど らんさー/じゃんぬ・だるく・おるた・さんた・りりぃ)",
+    "en": "Nendoroid Lancer/Jeanne d\u0027Arc Alter Santa Lily"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 6642,
   "price": 4888,

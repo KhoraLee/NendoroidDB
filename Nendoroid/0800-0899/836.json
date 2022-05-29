@@ -1,14 +1,14 @@
 {
   "num": "836",
   "name": {
-    "KO": "에리얼",
-    "JA": "ねんどろいど アリエル (ねんどろいど ありえる)",
-    "EN": "Nendoroid Ariel"
+    "ko": "에리얼",
+    "ja": "ねんどろいど アリエル (ねんどろいど ありえる)",
+    "en": "Nendoroid Ariel"
   },
   "series": {
-    "KO": "인어공주",
-    "JA": "リトル・マーメイド",
-    "EN": "The Little Mermaid"
+    "ko": "인어공주",
+    "ja": "リトル・マーメイド",
+    "en": "The Little Mermaid"
   },
   "gsc_productNum": 6801,
   "price": 5000,

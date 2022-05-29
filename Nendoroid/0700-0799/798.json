@@ -1,14 +1,14 @@
 {
   "num": "798",
   "name": {
-    "KO": "호토 코코아",
-    "JA": "ねんどろいど ココア (ねんどろいど ここあ)",
-    "EN": "Nendoroid Cocoa"
+    "ko": "호토 코코아",
+    "ja": "ねんどろいど ココア (ねんどろいど ここあ)",
+    "en": "Nendoroid Cocoa"
   },
   "series": {
-    "KO": "주문은 토끼입니까?",
-    "JA": "ご注文はうさぎですか？？",
-    "EN": "Is the Order a Rabbit??"
+    "ko": "주문은 토끼입니까?",
+    "ja": "ご注文はうさぎですか？？",
+    "en": "Is the Order a Rabbit??"
   },
   "gsc_productNum": 6597,
   "price": 4800,

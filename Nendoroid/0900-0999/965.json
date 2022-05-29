@@ -1,14 +1,14 @@
 {
   "num": "965",
   "name": {
-    "KO": "소라",
-    "JA": "ねんどろいど ソラ (ねんどろいど そら)",
-    "EN": "Nendoroid Sora"
+    "ko": "소라",
+    "ja": "ねんどろいど ソラ (ねんどろいど そら)",
+    "en": "Nendoroid Sora"
   },
   "series": {
-    "KO": "킹덤하츠",
-    "JA": "キングダム ハーツ",
-    "EN": "Kingdom Hearts"
+    "ko": "킹덤하츠",
+    "ja": "キングダム ハーツ",
+    "en": "Kingdom Hearts"
   },
   "gsc_productNum": 7466,
   "price": 5093,

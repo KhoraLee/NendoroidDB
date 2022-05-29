@@ -1,14 +1,14 @@
 {
   "num": "256",
   "name": {
-    "KO": "곰",
-    "JA": "ねんどろいど クマ (ねんどろいど くま)",
-    "EN": "Nendoroid Kuma (ねんどろいど くま)"
+    "ko": "곰",
+    "ja": "ねんどろいど クマ (ねんどろいど くま)",
+    "en": "Nendoroid Kuma (ねんどろいど くま)"
   },
   "series": {
-    "KO": "페르소나",
-    "JA": "TVアニメ「ペルソナ4」",
-    "EN": "Persona 4 TV Series"
+    "ko": "페르소나",
+    "ja": "TVアニメ「ペルソナ4」",
+    "en": "Persona 4 TV Series"
   },
   "gsc_productNum": 3578,
   "price": 4190,

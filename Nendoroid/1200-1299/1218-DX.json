@@ -1,14 +1,14 @@
 {
   "num": "1218-DX",
   "name": {
-    "KO": "캡틴 아메리카 엔드게임 에디션 DX Ver.",
-    "JA": "ねんどろいど キャプテン・アメリカ エンドゲーム・エディション DX Ver. (ねんどろいど きゃぷてん・あめりか えんどげーむ・えでぃしょん DX Ver.)",
-    "EN": "Nendoroid Captain America: Endgame Edition DX Ver."
+    "ko": "캡틴 아메리카 엔드게임 에디션 DX Ver.",
+    "ja": "ねんどろいど キャプテン・アメリカ エンドゲーム・エディション DX Ver. (ねんどろいど きゃぷてん・あめりか えんどげーむ・えでぃしょん DX Ver.)",
+    "en": "Nendoroid Captain America: Endgame Edition DX Ver."
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "アベンジャーズ／エンドゲーム",
-    "EN": "Avengers: Endgame"
+    "ko": "어벤져스",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "en": "Avengers: Endgame"
   },
   "gsc_productNum": 8882,
   "price": 8000,

@@ -1,14 +1,14 @@
 {
   "num": "795",
   "name": {
-    "KO": "키요시모",
-    "JA": "ねんどろいど 清霜 (ねんどろいど きよしも)",
-    "EN": "Nendoroid Kiyoshimo"
+    "ko": "키요시모",
+    "ja": "ねんどろいど 清霜 (ねんどろいど きよしも)",
+    "en": "Nendoroid Kiyoshimo"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 6577,
   "price": 5907,

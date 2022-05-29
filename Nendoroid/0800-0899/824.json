@@ -1,14 +1,14 @@
 {
   "num": "824",
   "name": {
-    "KO": "아카이 슈이치",
-    "JA": "ねんどろいど 赤井秀一 (ねんどろいど あかいしゅういち)",
-    "EN": "Nendoroid Shūichi Akai"
+    "ko": "아카이 슈이치",
+    "ja": "ねんどろいど 赤井秀一 (ねんどろいど あかいしゅういち)",
+    "en": "Nendoroid Shūichi Akai"
   },
   "series": {
-    "KO": "명탐정 코난",
-    "JA": "名探偵コナン",
-    "EN": "Detective Conan"
+    "ko": "명탐정 코난",
+    "ja": "名探偵コナン",
+    "en": "Detective Conan"
   },
   "gsc_productNum": 6721,
   "price": 4700,

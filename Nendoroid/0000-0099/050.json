@@ -1,14 +1,14 @@
 {
   "num": "050",
   "name": {
-    "KO": "세이버 라이온",
-    "JA": "ねんどろいど セイバーライオン (せいばーらいおん ねんどろいど)",
-    "EN": "Nendoroid Saber Lion (せいばーらいおん ねんどろいど)"
+    "ko": "세이버 라이온",
+    "ja": "ねんどろいど セイバーライオン (せいばーらいおん ねんどろいど)",
+    "en": "Nendoroid Saber Lion (せいばーらいおん ねんどろいど)"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "フェイト/タイガーころしあむアッパー",
-    "EN": "Fate/Tiger Colosseum"
+    "ko": "페이트 시리즈",
+    "ja": "フェイト/タイガーころしあむアッパー",
+    "en": "Fate/Tiger Colosseum"
   },
   "gsc_productNum": 491,
   "price": 3143,

@@ -1,14 +1,14 @@
 {
   "num": "650",
   "name": {
-    "KO": "룰러/잔 다르크",
-    "JA": "ねんどろいど ルーラー/ジャンヌ・ダルク (ねんどろいど るーらー/じゃんぬ・だるく)",
-    "EN": "Nendoroid Ruler/Jeanne d\u0027Arc"
+    "ko": "룰러/잔 다르크",
+    "ja": "ねんどろいど ルーラー/ジャンヌ・ダルク (ねんどろいど るーらー/じゃんぬ・だるく)",
+    "en": "Nendoroid Ruler/Jeanne d\u0027Arc"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 5766,
   "price": 4888,

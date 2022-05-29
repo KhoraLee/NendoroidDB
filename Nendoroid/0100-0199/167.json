@@ -1,14 +1,14 @@
 {
   "num": "167",
   "name": {
-    "KO": "치르노",
-    "JA": "ねんどろいど チルノ (ねんどろいど ちるの)",
-    "EN": "Nendoroid Cirno (ねんどろいど ちるの)"
+    "ko": "치르노",
+    "ja": "ねんどろいど チルノ (ねんどろいど ちるの)",
+    "en": "Nendoroid Cirno (ねんどろいど ちるの)"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 3109,
   "price": 3143,

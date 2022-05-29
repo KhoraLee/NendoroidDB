@@ -1,14 +1,14 @@
 {
   "num": "1503",
   "name": {
-    "KO": "미키마우스 Fantasia Ver.",
-    "JA": "ねんどろいど ミッキーマウス Fantasia Ver. (ねんどろいど みっきーまうす Fantasia Ver.)",
-    "EN": "Nendoroid Mickey Mouse: Fantasia Ver."
+    "ko": "미키마우스 Fantasia Ver.",
+    "ja": "ねんどろいど ミッキーマウス Fantasia Ver. (ねんどろいど みっきーまうす Fantasia Ver.)",
+    "en": "Nendoroid Mickey Mouse: Fantasia Ver."
   },
   "series": {
-    "KO": "환타지아",
-    "JA": "ファンタジア",
-    "EN": "Fantasia"
+    "ko": "환타지아",
+    "ja": "ファンタジア",
+    "en": "Fantasia"
   },
   "gsc_productNum": 10311,
   "price": 5700,

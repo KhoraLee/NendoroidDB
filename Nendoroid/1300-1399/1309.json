@@ -1,14 +1,14 @@
 {
   "num": "1309",
   "name": {
-    "KO": "하츠네 미쿠 V4X",
-    "JA": "ねんどろいど 初音ミク V4X (ねんどろいど はつねみく V4X)",
-    "EN": "Nendoroid Hatsune Miku V4X"
+    "ko": "하츠네 미쿠 V4X",
+    "ja": "ねんどろいど 初音ミク V4X (ねんどろいど はつねみく V4X)",
+    "en": "Nendoroid Hatsune Miku V4X"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 9355,
   "price": 5500,

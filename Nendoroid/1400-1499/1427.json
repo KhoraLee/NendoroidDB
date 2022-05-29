@@ -1,14 +1,14 @@
 {
   "num": "1427",
   "name": {
-    "KO": "하츠네 미쿠 후유키코소데 Ver.",
-    "JA": "ねんどろいど 初音ミク 冬木小袖Ver. (ねんどろいど はつねみく ふゆきこそでVer.)",
-    "EN": "Nendoroid Hatsune Miku: Kōrin Kimono Ver."
+    "ko": "하츠네 미쿠 후유키코소데 Ver.",
+    "ja": "ねんどろいど 初音ミク 冬木小袖Ver. (ねんどろいど はつねみく ふゆきこそでVer.)",
+    "en": "Nendoroid Hatsune Miku: Kōrin Kimono Ver."
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 9826,
   "price": 6800,

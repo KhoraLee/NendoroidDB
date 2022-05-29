@@ -1,14 +1,14 @@
 {
   "num": "555",
   "name": {
-    "KO": "애미야 시로",
-    "JA": "ねんどろいど 衛宮士郎 (ねんどろいど えみやしろう)",
-    "EN": "Nendoroid Shirou Emiya"
+    "ko": "애미야 시로",
+    "ja": "ねんどろいど 衛宮士郎 (ねんどろいど えみやしろう)",
+    "en": "Nendoroid Shirou Emiya"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/stay night [Unlimited Blade Works]",
-    "EN": "Fate/stay night [Unlimited Blade Works]"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/stay night [Unlimited Blade Works]",
+    "en": "Fate/stay night [Unlimited Blade Works]"
   },
   "gsc_productNum": 5166,
   "price": 4800,

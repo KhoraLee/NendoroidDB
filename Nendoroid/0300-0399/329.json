@@ -1,14 +1,14 @@
 {
   "num": "329",
   "name": {
-    "KO": "이냐 세스티나",
-    "JA": "ねんどろいど イーニァ・シェスチナ (ねんどろいど いーにぁ・しぇすちな)",
-    "EN": "Nendoroid Inia Sestina (ねんどろいど いーにゃ・しぇすちな)"
+    "ko": "이냐 세스티나",
+    "ja": "ねんどろいど イーニァ・シェスチナ (ねんどろいど いーにぁ・しぇすちな)",
+    "en": "Nendoroid Inia Sestina (ねんどろいど いーにゃ・しぇすちな)"
   },
   "series": {
-    "KO": "마브러브 얼터너티브 토탈 이클립스",
-    "JA": "マブラヴ オルタネイティヴ トータル・イクリプス",
-    "EN": "MUV-LUV Alternative: Total Eclipse"
+    "ko": "마브러브 얼터너티브 토탈 이클립스",
+    "ja": "マブラヴ オルタネイティヴ トータル・イクリプス",
+    "en": "MUV-LUV Alternative: Total Eclipse"
   },
   "gsc_productNum": 3912,
   "price": 4714,

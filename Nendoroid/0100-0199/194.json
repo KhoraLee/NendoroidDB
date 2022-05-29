@@ -1,14 +1,14 @@
 {
   "num": "194",
   "name": {
-    "KO": "하츠네 미쿠 어펜드",
-    "JA": "ねんどろいど 初音ミク・アペンド (ねんどろいど はつねみく・あぺんど)",
-    "EN": "Nendoroid Hatsune Miku: Append (ねんどろいど はつねみく・あぺんど)"
+    "ko": "하츠네 미쿠 어펜드",
+    "ja": "ねんどろいど 初音ミク・アペンド (ねんどろいど はつねみく・あぺんど)",
+    "en": "Nendoroid Hatsune Miku: Append (ねんどろいど はつねみく・あぺんど)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "初音ミク・アペンド",
-    "EN": "Hatsune Miku: Append"
+    "ko": "하츠네미쿠",
+    "ja": "初音ミク・アペンド",
+    "en": "Hatsune Miku: Append"
   },
   "gsc_productNum": 3270,
   "price": 3667,

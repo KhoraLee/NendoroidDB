@@ -1,14 +1,14 @@
 {
   "num": "1025",
   "name": {
-    "KO": "헌터♀ 제노라지β 에디션",
-    "JA": "ねんどろいど ハンター♀ ゼノラージβ・エディション (ねんどろいど はんたー♀ ぜのらーじべーた・えでぃしょん)",
-    "EN": "Nendoroid Hunter: Female Xeno’jiiva Beta Armor Edition"
+    "ko": "헌터♀ 제노라지β 에디션",
+    "ja": "ねんどろいど ハンター♀ ゼノラージβ・エディション (ねんどろいど はんたー♀ ぜのらーじべーた・えでぃしょん)",
+    "en": "Nendoroid Hunter: Female Xeno’jiiva Beta Armor Edition"
   },
   "series": {
-    "KO": "몬스터 헌터",
-    "JA": "モンスターハンター：ワールド",
-    "EN": "MONSTER HUNTER: WORLD"
+    "ko": "몬스터 헌터",
+    "ja": "モンスターハンター：ワールド",
+    "en": "MONSTER HUNTER: WORLD"
   },
   "gsc_productNum": 7789,
   "price": 5602,

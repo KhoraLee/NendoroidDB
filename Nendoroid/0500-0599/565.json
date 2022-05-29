@@ -1,14 +1,14 @@
 {
   "num": "565",
   "name": {
-    "KO": "베놈 스네이크 스니킹 슈트 Ver.",
-    "JA": "ねんどろいど ヴェノム・スネーク スニーキングスーツVer. (ねんどろいど ゔぇのむ・すねーく すにーきんぐすーつVer.)",
-    "EN": "Nendoroid Venom Snake: Sneaking Suit Ver."
+    "ko": "베놈 스네이크 스니킹 슈트 Ver.",
+    "ja": "ねんどろいど ヴェノム・スネーク スニーキングスーツVer. (ねんどろいど ゔぇのむ・すねーく すにーきんぐすーつVer.)",
+    "en": "Nendoroid Venom Snake: Sneaking Suit Ver."
   },
   "series": {
-    "KO": "메탈기어 솔리드",
-    "JA": "METAL GEAR SOLID V: THE PHANTOM PAIN（メタルギア ソリッド V ザ・ファントム・ペイン）",
-    "EN": "METAL GEAR SOLID V: THE PHANTOM PAIN"
+    "ko": "메탈기어 솔리드",
+    "ja": "METAL GEAR SOLID V: THE PHANTOM PAIN（メタルギア ソリッド V ザ・ファントム・ペイン）",
+    "en": "METAL GEAR SOLID V: THE PHANTOM PAIN"
   },
   "gsc_productNum": 5229,
   "price": 5602,

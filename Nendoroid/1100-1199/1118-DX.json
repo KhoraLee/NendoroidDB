@@ -1,14 +1,14 @@
 {
   "num": "1118-DX",
   "name": {
-    "KO": "조령아 DX Ver.",
-    "JA": "ねんどろいど 趙霊児 DX Ver. (ねんどろいど ちょうれいじ DX Ver.)",
-    "EN": "Nendoroid Zhao Ling-Er: DX Ver."
+    "ko": "조령아 DX Ver.",
+    "ja": "ねんどろいど 趙霊児 DX Ver. (ねんどろいど ちょうれいじ DX Ver.)",
+    "en": "Nendoroid Zhao Ling-Er: DX Ver."
   },
   "series": {
-    "KO": "선검기협전",
-    "JA": "仙剣奇侠伝",
-    "EN": "Chinese Paladin: Sword and Fairy"
+    "ko": "선검기협전",
+    "ja": "仙剣奇侠伝",
+    "en": "Chinese Paladin: Sword and Fairy"
   },
   "gsc_productNum": 8223,
   "price": 5907,

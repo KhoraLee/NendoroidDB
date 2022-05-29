@@ -1,14 +1,14 @@
 {
   "num": "396",
   "name": {
-    "KO": "센고쿠 나데코",
-    "JA": "ねんどろいど 千石撫子 (ねんどろいど せんごくなでこ)",
-    "EN": "Nendoroid Nadeko Sengoku (ねんどろいど せんごくなでこ)"
+    "ko": "센고쿠 나데코",
+    "ja": "ねんどろいど 千石撫子 (ねんどろいど せんごくなでこ)",
+    "en": "Nendoroid Nadeko Sengoku (ねんどろいど せんごくなでこ)"
   },
   "series": {
-    "KO": "모노가타리 시리즈",
-    "JA": "化物語",
-    "EN": "Bakemonogatari"
+    "ko": "모노가타리 시리즈",
+    "ja": "化物語",
+    "en": "Bakemonogatari"
   },
   "gsc_productNum": 4215,
   "price": 3972,

@@ -1,14 +1,14 @@
 {
   "num": "1429",
   "name": {
-    "KO": "트리스 메리골드",
-    "JA": "ねんどろいど トリス・メリゴールド (ねんどろいど とりす・めりごーるど)",
-    "EN": "Nendoroid Triss Merigold"
+    "ko": "트리스 메리골드",
+    "ja": "ねんどろいど トリス・メリゴールド (ねんどろいど とりす・めりごーるど)",
+    "en": "Nendoroid Triss Merigold"
   },
   "series": {
-    "KO": "위쳐 시리즈",
-    "JA": "ウィッチャー3 ワイルドハント",
-    "EN": "The Witcher 3: Wild Hunt"
+    "ko": "위쳐 시리즈",
+    "ja": "ウィッチャー3 ワイルドハント",
+    "en": "The Witcher 3: Wild Hunt"
   },
   "gsc_productNum": 9808,
   "price": 5200,

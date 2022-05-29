@@ -1,14 +1,14 @@
 {
   "num": "1722",
   "name": {
-    "KO": "사쿠라 미코",
-    "JA": "ねんどろいど さくらみこ (ねんどろいど さくらみこ)",
-    "EN": "Nendoroid Sakura Miko"
+    "ko": "사쿠라 미코",
+    "ja": "ねんどろいど さくらみこ (ねんどろいど さくらみこ)",
+    "en": "Nendoroid Sakura Miko"
   },
   "series": {
-    "KO": "버추얼 유튜버 (홀로라이브)",
-    "JA": "ホロライブプロダクション",
-    "EN": "hololive production"
+    "ko": "버추얼 유튜버 (홀로라이브)",
+    "ja": "ホロライブプロダクション",
+    "en": "hololive production"
   },
   "gsc_productNum": 11999,
   "price": 6800,

@@ -1,14 +1,14 @@
 {
   "num": "232",
   "name": {
-    "KO": "미니 마우스",
-    "JA": "ねんどろいど　ミニーマウス (ねんどろいど みにーまうす)",
-    "EN": "Nendoroid Minnie Mouse (ねんどろいど みにーまうす)"
+    "ko": "미니 마우스",
+    "ja": "ねんどろいど　ミニーマウス (ねんどろいど みにーまうす)",
+    "en": "Nendoroid Minnie Mouse (ねんどろいど みにーまうす)"
   },
   "series": {
-    "KO": "디즈니",
-    "JA": "MICKEY　MOUSE",
-    "EN": "MICKEY MOUSE"
+    "ko": "디즈니",
+    "ja": "MICKEY　MOUSE",
+    "en": "MICKEY MOUSE"
   },
   "gsc_productNum": 3474,
   "price": 3981,

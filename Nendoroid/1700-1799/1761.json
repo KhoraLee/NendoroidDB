@@ -1,14 +1,14 @@
 {
   "num": "1761",
   "name": {
-    "KO": "나루호도 류이치",
-    "JA": "ねんどろいど 成歩堂龍一 (ねんどろいど なるほどうりゅういち)",
-    "EN": "Nendoroid Phoenix Wright"
+    "ko": "나루호도 류이치",
+    "ja": "ねんどろいど 成歩堂龍一 (ねんどろいど なるほどうりゅういち)",
+    "en": "Nendoroid Phoenix Wright"
   },
   "series": {
-    "KO": "역전재판",
-    "JA": "逆転裁判",
-    "EN": "Phoenix Wright: Ace Attorney"
+    "ko": "역전재판",
+    "ja": "逆転裁判",
+    "en": "Phoenix Wright: Ace Attorney"
   },
   "gsc_productNum": 12049,
   "price": 5500,

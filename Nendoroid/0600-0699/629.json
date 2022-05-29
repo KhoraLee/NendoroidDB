@@ -1,14 +1,14 @@
 {
   "num": "629",
   "name": {
-    "KO": "다이호",
-    "JA": "ねんどろいど 大鳳 (ねんどろいど たいほう)",
-    "EN": "Nendoroid Taiho"
+    "ko": "다이호",
+    "ja": "ねんどろいど 大鳳 (ねんどろいど たいほう)",
+    "en": "Nendoroid Taiho"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 5658,
   "price": 4888,

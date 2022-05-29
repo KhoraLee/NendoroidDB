@@ -1,14 +1,14 @@
 {
   "num": "140",
   "name": {
-    "KO": "아사쿠라 네무",
-    "JA": "ねんどろいど 朝倉音夢 (ねんどろいど あさくらねむ)",
-    "EN": "Nendoroid Nemu Asakura (ねんどろいど あさくらねむ)"
+    "ko": "아사쿠라 네무",
+    "ja": "ねんどろいど 朝倉音夢 (ねんどろいど あさくらねむ)",
+    "en": "Nendoroid Nemu Asakura (ねんどろいど あさくらねむ)"
   },
   "series": {
-    "KO": "다카포",
-    "JA": "D.C.～ダ・カーポ～",
-    "EN": "D.C ~Da Capo~"
+    "ko": "다카포",
+    "ja": "D.C.～ダ・カーポ～",
+    "en": "D.C ~Da Capo~"
   },
   "gsc_productNum": 3008,
   "price": 3667,

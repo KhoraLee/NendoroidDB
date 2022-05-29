@@ -1,14 +1,14 @@
 {
   "num": "1056",
   "name": {
-    "KO": "아처/아르주나",
-    "JA": "ねんどろいど アーチャー/アルジュナ (ねんどろいど あーちゃー/あるじゅな)",
-    "EN": "Nendoroid Archer/Arjuna"
+    "ko": "아처/아르주나",
+    "ja": "ねんどろいど アーチャー/アルジュナ (ねんどろいど あーちゃー/あるじゅな)",
+    "en": "Nendoroid Archer/Arjuna"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 7917,
   "price": 5297,

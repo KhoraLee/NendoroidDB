@@ -1,14 +1,14 @@
 {
   "num": "1421",
   "name": {
-    "KO": "헌터♂ 진오우α Ver.",
-    "JA": "ねんどろいど ハンター♂ ジンオウα Ver. (ねんどろいど はんたー♂ じんおうα Ver.)",
-    "EN": "Nendoroid Hunter: Male Zinogre Alpha Armor Ver."
+    "ko": "헌터♂ 진오우α Ver.",
+    "ja": "ねんどろいど ハンター♂ ジンオウα Ver. (ねんどろいど はんたー♂ じんおうα Ver.)",
+    "en": "Nendoroid Hunter: Male Zinogre Alpha Armor Ver."
   },
   "series": {
-    "KO": "몬스터 헌터",
-    "JA": "モンスターハンターワールド：アイスボーン",
-    "EN": "MONSTER HUNTER WORLD: ICEBORNE"
+    "ko": "몬스터 헌터",
+    "ja": "モンスターハンターワールド：アイスボーン",
+    "en": "MONSTER HUNTER WORLD: ICEBORNE"
   },
   "gsc_productNum": 9814,
   "price": 6100,

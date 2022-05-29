@@ -1,14 +1,14 @@
 {
   "num": "1341",
   "name": {
-    "KO": "하나코",
-    "JA": "ねんどろいど 花子くん (ねんどろいど はなこくん)",
-    "EN": "Nendoroid Hanako kun"
+    "ko": "하나코",
+    "ja": "ねんどろいど 花子くん (ねんどろいど はなこくん)",
+    "en": "Nendoroid Hanako kun"
   },
   "series": {
-    "KO": "지박소년 하나코군",
-    "JA": "地縛少年花子くん",
-    "EN": "Toilet-bound Hanako kun"
+    "ko": "지박소년 하나코군",
+    "ja": "地縛少年花子くん",
+    "en": "Toilet-bound Hanako kun"
   },
   "gsc_productNum": 9511,
   "price": 5400,

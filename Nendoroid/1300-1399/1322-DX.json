@@ -1,14 +1,14 @@
 {
   "num": "1322-DX",
   "name": {
-    "KO": "클리프 DX",
-    "JA": "ねんどろいど クリフ DX (ねんどろいど くりふ でらっくす)",
-    "EN": "Nendoroid Cliff DX"
+    "ko": "클리프 DX",
+    "ja": "ねんどろいど クリフ DX (ねんどろいど くりふ でらっくす)",
+    "en": "Nendoroid Cliff DX"
   },
   "series": {
-    "KO": "데스 스트랜딩",
-    "JA": "デス・ストランディング",
-    "EN": "DEATH STRANDING"
+    "ko": "데스 스트랜딩",
+    "ja": "デス・ストランディング",
+    "en": "DEATH STRANDING"
   },
   "gsc_productNum": 9441,
   "price": 6800,

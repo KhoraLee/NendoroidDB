@@ -1,14 +1,14 @@
 {
   "num": "251",
   "name": {
-    "KO": "하츠네 미쿠 패밀리마트 Ver.",
-    "JA": "ねんどろいど 初音ミク FamilyMart Ver. (ねんどろいど はつねみく ふぁみりーまーと Ver.)",
-    "EN": "Nendoroid Hatsune Miku : FamilyMart Ver. (ねんどろいど はつねみく ふぁみりーまーと Ver.)"
+    "ko": "하츠네 미쿠 패밀리마트 Ver.",
+    "ja": "ねんどろいど 初音ミク FamilyMart Ver. (ねんどろいど はつねみく ふぁみりーまーと Ver.)",
+    "en": "Nendoroid Hatsune Miku : FamilyMart Ver. (ねんどろいど はつねみく ふぁみりーまーと Ver.)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01　初音ミク",
-    "EN": "Character Vocal Series 01 : Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01　初音ミク",
+    "en": "Character Vocal Series 01 : Hatsune Miku"
   },
   "gsc_productNum": 3558,
   "price": 0,

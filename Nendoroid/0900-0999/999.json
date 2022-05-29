@@ -1,14 +1,14 @@
 {
   "num": "999",
   "name": {
-    "KO": "해리 포터",
-    "JA": "ねんどろいど ハリー・ポッター (ねんどろいど はりー・ぽったー)",
-    "EN": "Nendoroid Harry Potter"
+    "ko": "해리 포터",
+    "ja": "ねんどろいど ハリー・ポッター (ねんどろいど はりー・ぽったー)",
+    "en": "Nendoroid Harry Potter"
   },
   "series": {
-    "KO": "해리포터 시리즈",
-    "JA": "ハリー・ポッター",
-    "EN": "Harry Potter"
+    "ko": "해리포터 시리즈",
+    "ja": "ハリー・ポッター",
+    "en": "Harry Potter"
   },
   "gsc_productNum": 7629,
   "price": 4584,

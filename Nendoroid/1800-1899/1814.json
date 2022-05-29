@@ -1,14 +1,14 @@
 {
   "num": "1814",
   "name": {
-    "KO": "네메시스 프라임",
-    "JA": "ねんどろいど ネメシスプライム (ねんどろいど ねめしすぷらいむ)",
-    "EN": "Nendoroid Nemesis Prime"
+    "ko": "네메시스 프라임",
+    "ja": "ねんどろいど ネメシスプライム (ねんどろいど ねめしすぷらいむ)",
+    "en": "Nendoroid Nemesis Prime"
   },
   "series": {
-    "KO": "트랜스포머",
-    "JA": "トランスフォーマー",
-    "EN": "Transformers"
+    "ko": "트랜스포머",
+    "ja": "トランスフォーマー",
+    "en": "Transformers"
   },
   "gsc_productNum": 12297,
   "price": 5500,

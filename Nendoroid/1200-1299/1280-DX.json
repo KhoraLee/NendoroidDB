@@ -1,14 +1,14 @@
 {
   "num": "1280-DX",
   "name": {
-    "KO": "스파이더맨 DX",
-    "JA": "ねんどろいど スパイダーマン ファー・フロム・ホーム Ver. DX (ねんどろいど すぱいだーまん ふぁー・ふろむ・ほーむ Ver. DX)",
-    "EN": "Nendoroid Spider-Man: Far From Home Ver. DX"
+    "ko": "스파이더맨 DX",
+    "ja": "ねんどろいど スパイダーマン ファー・フロム・ホーム Ver. DX (ねんどろいど すぱいだーまん ふぁー・ふろむ・ほーむ Ver. DX)",
+    "en": "Nendoroid Spider-Man: Far From Home Ver. DX"
   },
   "series": {
-    "KO": "스파이더맨 파 프롬 홈",
-    "JA": "スパイダーマン：ファー・フロム・ホーム",
-    "EN": "Spider-Man: Far From Home"
+    "ko": "스파이더맨 파 프롬 홈",
+    "ja": "スパイダーマン：ファー・フロム・ホーム",
+    "en": "Spider-Man: Far From Home"
   },
   "gsc_productNum": 9213,
   "price": 8000,

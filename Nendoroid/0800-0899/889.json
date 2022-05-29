@@ -1,14 +1,14 @@
 {
   "num": "889",
   "name": {
-    "KO": "오이카와 토오루 교복 Ver.",
-    "JA": "ねんどろいど 及川徹 制服Ver. (ねんどろいど おいかわとおる せいふくVer.)",
-    "EN": "Nendoroid Toru Oikawa: School Uniform Ver."
+    "ko": "오이카와 토오루 교복 Ver.",
+    "ja": "ねんどろいど 及川徹 制服Ver. (ねんどろいど おいかわとおる せいふくVer.)",
+    "en": "Nendoroid Toru Oikawa: School Uniform Ver."
   },
   "series": {
-    "KO": "하이큐!!",
-    "JA": "ハイキュー!!",
-    "EN": "Haikyu!!"
+    "ko": "하이큐!!",
+    "ja": "ハイキュー!!",
+    "en": "Haikyu!!"
   },
   "gsc_productNum": 7045,
   "price": 3972,

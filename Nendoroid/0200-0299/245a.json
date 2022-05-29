@@ -1,14 +1,14 @@
 {
   "num": "245a",
   "name": {
-    "KO": "안네로테",
-    "JA": "ねんどろいど アンネロッテ (ねんどろいど あんねろって)",
-    "EN": "Nendoroid Annelotte (ねんどろいど あんねろって)"
+    "ko": "안네로테",
+    "ja": "ねんどろいど アンネロッテ (ねんどろいど あんねろって)",
+    "en": "Nendoroid Annelotte (ねんどろいど あんねろって)"
   },
   "series": {
-    "KO": "퀸즈 블레이드 리벨리온",
-    "JA": "クイーンズブレイド リベリオン",
-    "EN": "Queen\u0027s Blade Rebellion"
+    "ko": "퀸즈 블레이드 리벨리온",
+    "ja": "クイーンズブレイド リベリオン",
+    "en": "Queen\u0027s Blade Rebellion"
   },
   "gsc_productNum": 3534,
   "price": 3667,

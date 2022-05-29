@@ -1,14 +1,14 @@
 {
   "num": "1467",
   "name": {
-    "KO": "킨구",
-    "JA": "ねんどろいど キングゥ (ねんどろいど きんぐぅ)",
-    "EN": "Nendoroid Kingu"
+    "ko": "킨구",
+    "ja": "ねんどろいど キングゥ (ねんどろいど きんぐぅ)",
+    "en": "Nendoroid Kingu"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
-    "EN": "Fate/Grand Order Absolute Demonic Front: Babylonia"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+    "en": "Fate/Grand Order Absolute Demonic Front: Babylonia"
   },
   "gsc_productNum": 10065,
   "price": 5000,

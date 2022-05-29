@@ -1,14 +1,14 @@
 {
   "num": "1871",
   "name": {
-    "KO": "네오",
-    "JA": "ねんどろいど ネオ (ねんどろいど ねお)",
-    "EN": "Nendoroid Neo"
+    "ko": "네오",
+    "ja": "ねんどろいど ネオ (ねんどろいど ねお)",
+    "en": "Nendoroid Neo"
   },
   "series": {
-    "KO": "매트릭스",
-    "JA": "マトリックス",
-    "EN": "The Matrix"
+    "ko": "매트릭스",
+    "ja": "マトリックス",
+    "en": "The Matrix"
   },
   "gsc_productNum": 12592,
   "price": 6200,

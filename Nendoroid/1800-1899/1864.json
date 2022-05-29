@@ -1,14 +1,14 @@
 {
   "num": "1864",
   "name": {
-    "KO": "페르소나3 주인공",
-    "JA": "ねんどろいど ペルソナ3主人公 (ねんどろいど ぺるそな3しゅじんこう)",
-    "EN": "Nendoroid Persona3 Hero"
+    "ko": "페르소나3 주인공",
+    "ja": "ねんどろいど ペルソナ3主人公 (ねんどろいど ぺるそな3しゅじんこう)",
+    "en": "Nendoroid Persona3 Hero"
   },
   "series": {
-    "KO": "페르소나3",
-    "JA": "ペルソナ3",
-    "EN": "PERSONA3"
+    "ko": "페르소나3",
+    "ja": "ペルソナ3",
+    "en": "PERSONA3"
   },
   "gsc_productNum": 12563,
   "price": 6100,

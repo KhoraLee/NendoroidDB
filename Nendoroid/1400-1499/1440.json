@@ -1,14 +1,14 @@
 {
   "num": "1440",
   "name": {
-    "KO": "얼터 에고/오키타 소지[얼터]",
-    "JA": "ねんどろいど アルターエゴ/沖田総司〔オルタ〕 (ねんどろいど あるたーえご/おきたそうじ〔おるた〕)",
-    "EN": "Nendoroid Alter Ego/Okita Souji (Alter)"
+    "ko": "얼터 에고/오키타 소지[얼터]",
+    "ja": "ねんどろいど アルターエゴ/沖田総司〔オルタ〕 (ねんどろいど あるたーえご/おきたそうじ〔おるた〕)",
+    "en": "Nendoroid Alter Ego/Okita Souji (Alter)"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 9985,
   "price": 5500,

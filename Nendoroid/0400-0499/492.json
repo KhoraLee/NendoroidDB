@@ -1,14 +1,14 @@
 {
   "num": "492",
   "name": {
-    "KO": "라이더",
-    "JA": "ねんどろいど ライダー (ねんどろいど らいだー)",
-    "EN": "Nendoroid Rider"
+    "ko": "라이더",
+    "ja": "ねんどろいど ライダー (ねんどろいど らいだー)",
+    "en": "Nendoroid Rider"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "劇場版「Fate/stay night [Heaven\u0027s Feel]」",
-    "EN": "Fate/stay night: Heaven\u0027s Feel"
+    "ko": "페이트 시리즈",
+    "ja": "劇場版「Fate/stay night [Heaven\u0027s Feel]」",
+    "en": "Fate/stay night: Heaven\u0027s Feel"
   },
   "gsc_productNum": 4816,
   "price": 4600,

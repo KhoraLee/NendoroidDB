@@ -1,14 +1,14 @@
 {
   "num": "000",
   "name": {
-    "KO": "네코 알퀘이드",
-    "JA": "ねんどろいど ネコアルク 「換装！ブーブー顔」編 (ねんどろいど ねこあるく 「かんそう！ぶーぶーがお」へん)",
-    "EN": "Nendoroid Neko Arc : Convert! Grumbling Face Edition (ねんどろいど ねこあるく 「かんそう！ぶーぶーがお」へん)"
+    "ko": "네코 알퀘이드",
+    "ja": "ねんどろいど ネコアルク 「換装！ブーブー顔」編 (ねんどろいど ねこあるく 「かんそう！ぶーぶーがお」へん)",
+    "en": "Nendoroid Neko Arc : Convert! Grumbling Face Edition (ねんどろいど ねこあるく 「かんそう！ぶーぶーがお」へん)"
   },
   "series": {
-    "KO": "월희",
-    "JA": "ネコアルク",
-    "EN": "Neko Arc"
+    "ko": "월희",
+    "ja": "ネコアルク",
+    "en": "Neko Arc"
   },
   "gsc_productNum": 3351,
   "price": 3143,

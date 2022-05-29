@@ -1,14 +1,14 @@
 {
   "num": "1002a",
   "name": {
-    "KO": "새러토가 Mk.2",
-    "JA": "ねんどろいど Saratoga（サラトガ） Mk.II (ねんどろいど さらとが まーくつー)",
-    "EN": "Nendoroid Saratoga Mk.II"
+    "ko": "새러토가 Mk.2",
+    "ja": "ねんどろいど Saratoga（サラトガ） Mk.II (ねんどろいど さらとが まーくつー)",
+    "en": "Nendoroid Saratoga Mk.II"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 7666,
   "price": 7231,

@@ -1,14 +1,14 @@
 {
   "num": "1290-DX",
   "name": {
-    "KO": "호크아이 엔드게임 DX Ver.",
-    "JA": "ねんどろいど ホークアイ エンドゲームVer. DX (ねんどろいど ほーくあい えんどげーむVer. DX)",
-    "EN": "Nendoroid Hawkeye: Endgame Ver. DX"
+    "ko": "호크아이 엔드게임 DX Ver.",
+    "ja": "ねんどろいど ホークアイ エンドゲームVer. DX (ねんどろいど ほーくあい えんどげーむVer. DX)",
+    "en": "Nendoroid Hawkeye: Endgame Ver. DX"
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "アベンジャーズ／エンドゲーム",
-    "EN": "Avengers: Endgame"
+    "ko": "어벤져스",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "en": "Avengers: Endgame"
   },
   "gsc_productNum": 9259,
   "price": 8000,

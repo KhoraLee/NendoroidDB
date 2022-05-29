@@ -1,14 +1,14 @@
 {
   "num": "301",
   "name": {
-    "KO": "카가미네 린 어펜드",
-    "JA": "ねんどろいど 鏡音リン・アペンド (ねんどろいど かがみねりん・あぺんど)",
-    "EN": "Nendoroid Kagamine Rin: Append (ねんどろいど かがみねりん・あぺんど)"
+    "ko": "카가미네 린 어펜드",
+    "ja": "ねんどろいど 鏡音リン・アペンド (ねんどろいど かがみねりん・あぺんど)",
+    "en": "Nendoroid Kagamine Rin: Append (ねんどろいど かがみねりん・あぺんど)"
   },
   "series": {
-    "KO": "보컬로이드(VOCALOID)",
-    "JA": "鏡音リン・レン・アペンド",
-    "EN": "Kagamine Rin/Len: Append"
+    "ko": "보컬로이드(VOCALOID)",
+    "ja": "鏡音リン・レン・アペンド",
+    "en": "Kagamine Rin/Len: Append"
   },
   "gsc_productNum": 3809,
   "price": 3667,

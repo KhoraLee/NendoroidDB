@@ -1,14 +1,14 @@
 {
   "num": "053",
   "name": {
-    "KO": "요코",
-    "JA": "ねんどろいど ヨーコ (よーこ　ねんどろいど)",
-    "EN": "Nendoroid Yoko (よーこ　ねんどろいど)"
+    "ko": "요코",
+    "ja": "ねんどろいど ヨーコ (よーこ　ねんどろいど)",
+    "en": "Nendoroid Yoko (よーこ　ねんどろいど)"
   },
   "series": {
-    "KO": "천원돌파 그렌라간",
-    "JA": "天元突破グレンラガン",
-    "EN": "Tengen Toppa Gurren Lagann"
+    "ko": "천원돌파 그렌라간",
+    "ja": "天元突破グレンラガン",
+    "en": "Tengen Toppa Gurren Lagann"
   },
   "gsc_productNum": 2040,
   "price": 3667,

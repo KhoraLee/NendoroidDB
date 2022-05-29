@@ -1,14 +1,14 @@
 {
   "num": "842-DX",
   "name": {
-    "KO": "세이버/아서 펜드래건[프로토타입] 영기 재림 Ver.",
-    "JA": "ねんどろいど セイバー/アーサー・ペンドラゴン〔プロトタイプ〕　霊基再臨 Ver. (ねんどろいど せいばー/あーさー・ぺんどらごん〔ぷろとたいぷ〕　れいきさいりん Ver.)",
-    "EN": "Nendoroid Saber/Arthur Pendragon (Prototype): Ascension Ver."
+    "ko": "세이버/아서 펜드래건[프로토타입] 영기 재림 Ver.",
+    "ja": "ねんどろいど セイバー/アーサー・ペンドラゴン〔プロトタイプ〕　霊基再臨 Ver. (ねんどろいど せいばー/あーさー・ぺんどらごん〔ぷろとたいぷ〕　れいきさいりん Ver.)",
+    "en": "Nendoroid Saber/Arthur Pendragon (Prototype): Ascension Ver."
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 6844,
   "price": 5907,

@@ -1,14 +1,14 @@
 {
   "num": "1695",
   "name": {
-    "KO": "조커 1989 ver.",
-    "JA": "ねんどろいど ジョーカー 1989 Ver. (ねんどろいど じょーかー 1989 Ver.)",
-    "EN": "Nendoroid The Joker: 1989 Ver."
+    "ko": "조커 1989 ver.",
+    "ja": "ねんどろいど ジョーカー 1989 Ver. (ねんどろいど じょーかー 1989 Ver.)",
+    "en": "Nendoroid The Joker: 1989 Ver."
   },
   "series": {
-    "KO": "배트맨",
-    "JA": "バットマン",
-    "EN": "Batman"
+    "ko": "배트맨",
+    "ja": "バットマン",
+    "en": "Batman"
   },
   "gsc_productNum": 11649,
   "price": 6500,

@@ -1,14 +1,14 @@
 {
   "num": "662-DX",
   "name": {
-    "KO": "데드풀 오레짱 에디션 DX",
-    "JA": "ねんどろいど デッドプール DX (ねんどろいど でっどぷーる DX)",
-    "EN": "Nendoroid Deadpool DX"
+    "ko": "데드풀 오레짱 에디션 DX",
+    "ja": "ねんどろいど デッドプール DX (ねんどろいど でっどぷーる DX)",
+    "en": "Nendoroid Deadpool DX"
   },
   "series": {
-    "KO": "데드풀",
-    "JA": "デッドプール",
-    "EN": "Deadpool"
+    "ko": "데드풀",
+    "ja": "デッドプール",
+    "en": "Deadpool"
   },
   "gsc_productNum": 10714,
   "price": 8000,

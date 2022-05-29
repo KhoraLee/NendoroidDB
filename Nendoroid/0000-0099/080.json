@@ -1,14 +1,14 @@
 {
   "num": "080",
   "name": {
-    "KO": "아사쿠라 유메",
-    "JA": "ねんどろいど 朝倉由夢 (あさくらゆめ ねんどろいど)",
-    "EN": "Nendoroid Yume Asakura (あさくらゆめ ねんどろいど)"
+    "ko": "아사쿠라 유메",
+    "ja": "ねんどろいど 朝倉由夢 (あさくらゆめ ねんどろいど)",
+    "en": "Nendoroid Yume Asakura (あさくらゆめ ねんどろいど)"
   },
   "series": {
-    "KO": "다카포",
-    "JA": "D.C.Ⅱ～ダ・カーポⅡ～",
-    "EN": "D.C. II ~Da Capo II~"
+    "ko": "다카포",
+    "ja": "D.C.Ⅱ～ダ・カーポⅡ～",
+    "en": "D.C. II ~Da Capo II~"
   },
   "gsc_productNum": 2540,
   "price": 3667,

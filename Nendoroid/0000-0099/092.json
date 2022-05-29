@@ -1,14 +1,14 @@
 {
   "num": "092",
   "name": {
-    "KO": "키리사메 마리사",
-    "JA": "ねんどろいど 霧雨魔理沙 (ねんどろいど きりさめまりさ)",
-    "EN": "Nendoroid Marisa Kirisame (ねんどろいど きりさめまりさ)"
+    "ko": "키리사메 마리사",
+    "ja": "ねんどろいど 霧雨魔理沙 (ねんどろいど きりさめまりさ)",
+    "en": "Nendoroid Marisa Kirisame (ねんどろいど きりさめまりさ)"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 2701,
   "price": 3143,

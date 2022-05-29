@@ -1,14 +1,14 @@
 {
   "num": "305",
   "name": {
-    "KO": "후지와라노 모코우",
-    "JA": "ねんどろいど 藤原妹紅 (ねんどろいど ふじわらのもこう)",
-    "EN": "Nendoroid Fujiwara no Mokou (ねんどろいど ふじわらのもこう)"
+    "ko": "후지와라노 모코우",
+    "ja": "ねんどろいど 藤原妹紅 (ねんどろいど ふじわらのもこう)",
+    "en": "Nendoroid Fujiwara no Mokou (ねんどろいど ふじわらのもこう)"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方プロジェクト",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方プロジェクト",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 3819,
   "price": 3667,

@@ -1,14 +1,14 @@
 {
   "num": "1374",
   "name": {
-    "KO": "엘리",
-    "JA": "ねんどろいど エリー (ねんどろいど えりー)",
-    "EN": "Nendoroid Ellie"
+    "ko": "엘리",
+    "ja": "ねんどろいど エリー (ねんどろいど えりー)",
+    "en": "Nendoroid Ellie"
   },
   "series": {
-    "KO": "라스트 오브 어스2",
-    "JA": "The Last of Us Part II",
-    "EN": "The Last of Us Part II"
+    "ko": "라스트 오브 어스2",
+    "ja": "The Last of Us Part II",
+    "en": "The Last of Us Part II"
   },
   "gsc_productNum": 9622,
   "price": 5600,

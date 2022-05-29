@@ -1,14 +1,14 @@
 {
   "num": "1644",
   "name": {
-    "KO": "콧코로",
-    "JA": "ねんどろいど コッコロ (ねんどろいど こっころ)",
-    "EN": "Nendoroid Kokkoro"
+    "ko": "콧코로",
+    "ja": "ねんどろいど コッコロ (ねんどろいど こっころ)",
+    "en": "Nendoroid Kokkoro"
   },
   "series": {
-    "KO": "프린세스 커넥트! Re:Dive",
-    "JA": "プリンセスコネクト！Re:Dive",
-    "EN": "Princess Connect! Re: Dive"
+    "ko": "프린세스 커넥트! Re:Dive",
+    "ja": "プリンセスコネクト！Re:Dive",
+    "en": "Princess Connect! Re: Dive"
   },
   "gsc_productNum": 11171,
   "price": 6100,

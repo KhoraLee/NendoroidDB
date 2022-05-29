@@ -1,14 +1,14 @@
 {
   "num": "612",
   "name": {
-    "KO": "레드\u0026그린",
-    "JA": "ねんどろいど レッド＆グリーン (ねんどろいど れっどあんどぐりーん)",
-    "EN": "Nendoroid Pokémon Trainer Red \u0026 Green"
+    "ko": "레드\u0026그린",
+    "ja": "ねんどろいど レッド＆グリーン (ねんどろいど れっどあんどぐりーん)",
+    "en": "Nendoroid Pokémon Trainer Red \u0026 Green"
   },
   "series": {
-    "KO": "포켓몬스터",
-    "JA": "ポケットモンスター",
-    "EN": "Pokémon"
+    "ko": "포켓몬스터",
+    "ja": "ポケットモンスター",
+    "en": "Pokémon"
   },
   "gsc_productNum": 5512,
   "price": 8250,

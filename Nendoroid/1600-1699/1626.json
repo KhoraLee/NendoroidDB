@@ -1,14 +1,14 @@
 {
   "num": "1626",
   "name": {
-    "KO": "엘사 에필로그 드레스 Ver.",
-    "JA": "ねんどろいど エルサ Epilogue Dress Ver. (ねんどろいど えるさ えぴろーぐ どれす Ver.)",
-    "EN": "Nendoroid Elsa: Epilogue Dress Ver."
+    "ko": "엘사 에필로그 드레스 Ver.",
+    "ja": "ねんどろいど エルサ Epilogue Dress Ver. (ねんどろいど えるさ えぴろーぐ どれす Ver.)",
+    "en": "Nendoroid Elsa: Epilogue Dress Ver."
   },
   "series": {
-    "KO": "겨울왕국",
-    "JA": "アナと雪の女王２",
-    "EN": "Frozen 2"
+    "ko": "겨울왕국",
+    "ja": "アナと雪の女王２",
+    "en": "Frozen 2"
   },
   "gsc_productNum": 11012,
   "price": 5900,

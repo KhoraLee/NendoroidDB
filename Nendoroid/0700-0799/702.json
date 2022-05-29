@@ -1,14 +1,14 @@
 {
   "num": "702",
   "name": {
-    "KO": "즈이카쿠 改",
-    "JA": "ねんどろいど 瑞鶴改 (ねんどろいど ずいかくかい)",
-    "EN": "Nendoroid Zuikaku Kai"
+    "ko": "즈이카쿠 改",
+    "ja": "ねんどろいど 瑞鶴改 (ねんどろいど ずいかくかい)",
+    "en": "Nendoroid Zuikaku Kai"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 6114,
   "price": 5093,

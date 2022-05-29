@@ -1,14 +1,14 @@
 {
   "num": "1304",
   "name": {
-    "KO": "이와나가 코토코",
-    "JA": "ねんどろいど 岩永琴子 (ねんどろいど いわながことこ)",
-    "EN": "Nendoroid Kotoko Iwanaga"
+    "ko": "이와나가 코토코",
+    "ja": "ねんどろいど 岩永琴子 (ねんどろいど いわながことこ)",
+    "en": "Nendoroid Kotoko Iwanaga"
   },
   "series": {
-    "KO": "허구추리",
-    "JA": "虚構推理",
-    "EN": "In/Spectre"
+    "ko": "허구추리",
+    "ja": "虚構推理",
+    "en": "In/Spectre"
   },
   "gsc_productNum": 9377,
   "price": 5500,

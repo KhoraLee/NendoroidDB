@@ -1,14 +1,14 @@
 {
   "num": "554",
   "name": {
-    "KO": "코우자쿠",
-    "JA": "ねんどろいど 紅雀 (ねんどろいど こうじゃく)",
-    "EN": "Nendoroid Koujaku (ねんどろいど こうじゃく)"
+    "ko": "코우자쿠",
+    "ja": "ねんどろいど 紅雀 (ねんどろいど こうじゃく)",
+    "en": "Nendoroid Koujaku (ねんどろいど こうじゃく)"
   },
   "series": {
-    "KO": "드라마티컬 머더",
-    "JA": "DRAMAtical Murder",
-    "EN": "DRAMAtical Murder"
+    "ko": "드라마티컬 머더",
+    "ja": "DRAMAtical Murder",
+    "en": "DRAMAtical Murder"
   },
   "gsc_productNum": 5183,
   "price": 4888,

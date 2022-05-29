@@ -1,14 +1,14 @@
 {
   "num": "1110",
   "name": {
-    "KO": "DIO",
-    "JA": "ねんどろいど DIO (ねんどろいど でぃお)",
-    "EN": "Nendoroid DIO"
+    "ko": "DIO",
+    "ja": "ねんどろいど DIO (ねんどろいど でぃお)",
+    "en": "Nendoroid DIO"
   },
   "series": {
-    "KO": "죠죠의 기묘한 모험",
-    "JA": "TVアニメ『ジョジョの奇妙な冒険 スターダストクルセイダース』",
-    "EN": "JoJo\u0027s Bizarre Adventure: Stardust Crusaders"
+    "ko": "죠죠의 기묘한 모험",
+    "ja": "TVアニメ『ジョジョの奇妙な冒険 スターダストクルセイダース』",
+    "en": "JoJo\u0027s Bizarre Adventure: Stardust Crusaders"
   },
   "gsc_productNum": 8168,
   "price": 5478,

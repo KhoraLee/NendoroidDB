@@ -1,14 +1,14 @@
 {
   "num": "1439",
   "name": {
-    "KO": "하츠네 미쿠 아구몬 Ver.",
-    "JA": "ねんどろいど 初音ミク きぐるみアグモンVer. (ねんどろいど はつねみく きぐるみあぐもんVer.)",
-    "EN": "Nendoroid Hatsune Miku: Kigurumi Agumon Ver."
+    "ko": "하츠네 미쿠 아구몬 Ver.",
+    "ja": "ねんどろいど 初音ミク きぐるみアグモンVer. (ねんどろいど はつねみく きぐるみあぐもんVer.)",
+    "en": "Nendoroid Hatsune Miku: Kigurumi Agumon Ver."
   },
   "series": {
-    "KO": "보컬로이드(VOCALOID)",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク／デジモンアドベンチャー",
-    "EN": "Character Vocal Series 01: Hatsune Miku/Digimon Adventure"
+    "ko": "보컬로이드(VOCALOID)",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク／デジモンアドベンチャー",
+    "en": "Character Vocal Series 01: Hatsune Miku/Digimon Adventure"
   },
   "gsc_productNum": 9918,
   "price": 5500,

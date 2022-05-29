@@ -1,14 +1,14 @@
 {
   "num": "911",
   "name": {
-    "KO": "아라이상",
-    "JA": "ねんどろいど アライグマ (ねんどろいど あらいぐま)",
-    "EN": "Nendoroid Common Raccoon"
+    "ko": "아라이상",
+    "ja": "ねんどろいど アライグマ (ねんどろいど あらいぐま)",
+    "en": "Nendoroid Common Raccoon"
   },
   "series": {
-    "KO": "케모노 프렌즈",
-    "JA": "けものフレンズ",
-    "EN": "Kemono Friends"
+    "ko": "케모노 프렌즈",
+    "ja": "けものフレンズ",
+    "en": "Kemono Friends"
   },
   "gsc_productNum": 7198,
   "price": 4584,

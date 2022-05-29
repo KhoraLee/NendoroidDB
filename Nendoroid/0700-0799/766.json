@@ -1,14 +1,14 @@
 {
   "num": "766",
   "name": {
-    "KO": "어벤저/잔 다르크 얼터",
-    "JA": "ねんどろいど アヴェンジャー/ジャンヌ・ダルク〔オルタ〕 (ねんどろいど あゔぇんじゃー/じゃんぬ・だるく〔おるた〕)",
-    "EN": "Nendoroid Avenger/Jeanne d\u0027Arc (Alter)"
+    "ko": "어벤저/잔 다르크 얼터",
+    "ja": "ねんどろいど アヴェンジャー/ジャンヌ・ダルク〔オルタ〕 (ねんどろいど あゔぇんじゃー/じゃんぬ・だるく〔おるた〕)",
+    "en": "Nendoroid Avenger/Jeanne d\u0027Arc (Alter)"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 6426,
   "price": 4888,

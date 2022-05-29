@@ -1,14 +1,14 @@
 {
   "num": "880",
   "name": {
-    "KO": "하루나 改二",
-    "JA": "ねんどろいど 榛名改二 (ねんどろいど はるなかいに)",
-    "EN": "Nendoroid Haruna Kai-II"
+    "ko": "하루나 改二",
+    "ja": "ねんどろいど 榛名改二 (ねんどろいど はるなかいに)",
+    "en": "Nendoroid Haruna Kai-II"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 7029,
   "price": 6926,

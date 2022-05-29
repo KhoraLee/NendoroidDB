@@ -1,14 +1,14 @@
 {
   "num": "1715",
   "name": {
-    "KO": "박사",
-    "JA": "ねんどろいど ドクター (ねんどろいど どくたー)",
-    "EN": "Nendoroid Doctor"
+    "ko": "박사",
+    "ja": "ねんどろいど ドクター (ねんどろいど どくたー)",
+    "en": "Nendoroid Doctor"
   },
   "series": {
-    "KO": "명일방주",
-    "JA": "アークナイツ",
-    "EN": "Arknights"
+    "ko": "명일방주",
+    "ja": "アークナイツ",
+    "en": "Arknights"
   },
   "gsc_productNum": 11793,
   "price": 6500,

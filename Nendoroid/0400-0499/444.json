@@ -1,14 +1,14 @@
 {
   "num": "444",
   "name": {
-    "KO": "야자와 니코",
-    "JA": "ねんどろいど 矢澤にこ (ねんどろいど やざわにこ)",
-    "EN": "Nendoroid Nico Yazawa (ねんどろいど やざわにこ)"
+    "ko": "야자와 니코",
+    "ja": "ねんどろいど 矢澤にこ (ねんどろいど やざわにこ)",
+    "en": "Nendoroid Nico Yazawa (ねんどろいど やざわにこ)"
   },
   "series": {
-    "KO": "러브라이브!",
-    "JA": "ラブライブ！",
-    "EN": "LoveLive!"
+    "ko": "러브라이브!",
+    "ja": "ラブライブ！",
+    "en": "LoveLive!"
   },
   "gsc_productNum": 4511,
   "price": 3565,

@@ -1,14 +1,14 @@
 {
   "num": "400",
   "name": {
-    "KO": "키노모토 사쿠라",
-    "JA": "ねんどろいど 木之本桜 (ねんどろいど きのもとさくら)",
-    "EN": "Nendoroid Sakura Kinomoto (ねんどろいど きのもとさくら)"
+    "ko": "키노모토 사쿠라",
+    "ja": "ねんどろいど 木之本桜 (ねんどろいど きのもとさくら)",
+    "en": "Nendoroid Sakura Kinomoto (ねんどろいど きのもとさくら)"
   },
   "series": {
-    "KO": "카드캡터 사쿠라",
-    "JA": "カードキャプターさくら",
-    "EN": "Cardcaptor Sakura"
+    "ko": "카드캡터 사쿠라",
+    "ja": "カードキャプターさくら",
+    "en": "Cardcaptor Sakura"
   },
   "gsc_productNum": 4400,
   "price": 5000,

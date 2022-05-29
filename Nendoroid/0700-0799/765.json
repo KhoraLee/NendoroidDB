@@ -1,14 +1,14 @@
 {
   "num": "765",
   "name": {
-    "KO": "야마구치 타다시",
-    "JA": "ねんどろいど 山口忠 (ねんどろいど やまぐちただし)",
-    "EN": "Nendoroid Tadashi Yamaguchi"
+    "ko": "야마구치 타다시",
+    "ja": "ねんどろいど 山口忠 (ねんどろいど やまぐちただし)",
+    "en": "Nendoroid Tadashi Yamaguchi"
   },
   "series": {
-    "KO": "하이큐!!",
-    "JA": "ハイキュー!!",
-    "EN": "Haikyu!!"
+    "ko": "하이큐!!",
+    "ja": "ハイキュー!!",
+    "en": "Haikyu!!"
   },
   "gsc_productNum": 6399,
   "price": 4278,

@@ -1,14 +1,14 @@
 {
   "num": "558",
   "name": {
-    "KO": "카후우 치노",
-    "JA": "ねんどろいど チノ (ねんどろいど ちの)",
-    "EN": "Nendoroid Chino"
+    "ko": "카후우 치노",
+    "ja": "ねんどろいど チノ (ねんどろいど ちの)",
+    "en": "Nendoroid Chino"
   },
   "series": {
-    "KO": "주문은 토끼입니까?",
-    "JA": "ご注文はうさぎですか？",
-    "EN": "Is the Order a Rabbit?"
+    "ko": "주문은 토끼입니까?",
+    "ja": "ご注文はうさぎですか？",
+    "en": "Is the Order a Rabbit?"
   },
   "gsc_productNum": 5211,
   "price": 5000,

@@ -1,14 +1,14 @@
 {
   "num": "654",
   "name": {
-    "KO": "하츠네 미쿠 사자춤 Ver.",
-    "JA": "ねんどろいど 初音ミク 獅子舞Ver. (ねんどろいど はつねみく ししまいVer.)",
-    "EN": "Nendoroid Hatsune Miku: Lion Dance Ver."
+    "ko": "하츠네 미쿠 사자춤 Ver.",
+    "ja": "ねんどろいど 初音ミク 獅子舞Ver. (ねんどろいど はつねみく ししまいVer.)",
+    "en": "Nendoroid Hatsune Miku: Lion Dance Ver."
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 5782,
   "price": 4584,

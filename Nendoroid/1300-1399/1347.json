@@ -1,14 +1,14 @@
 {
   "num": "1347",
   "name": {
-    "KO": "콘노 준코",
-    "JA": "ねんどろいど 紺野純子 (ねんどろいど こんのじゅんこ)",
-    "EN": "Nendoroid Junko Konno"
+    "ko": "콘노 준코",
+    "ja": "ねんどろいど 紺野純子 (ねんどろいど こんのじゅんこ)",
+    "en": "Nendoroid Junko Konno"
   },
   "series": {
-    "KO": "좀비랜드사가",
-    "JA": "ゾンビランドサガ",
-    "EN": "Zombie Land Saga"
+    "ko": "좀비랜드사가",
+    "ja": "ゾンビランドサガ",
+    "en": "Zombie Land Saga"
   },
   "gsc_productNum": 9507,
   "price": 5200,

@@ -1,14 +1,14 @@
 {
   "num": "1790",
   "name": {
-    "KO": "카노",
-    "JA": "ねんどろいど 鹿乃 (ねんどろいど かの)",
-    "EN": "Nendoroid Kano"
+    "ko": "카노",
+    "ja": "ねんどろいど 鹿乃 (ねんどろいど かの)",
+    "en": "Nendoroid Kano"
   },
   "series": {
-    "KO": "버추얼 유튜버",
-    "JA": "鹿乃",
-    "EN": "Kano"
+    "ko": "버추얼 유튜버",
+    "ja": "鹿乃",
+    "en": "Kano"
   },
   "gsc_productNum": 12152,
   "price": 6800,

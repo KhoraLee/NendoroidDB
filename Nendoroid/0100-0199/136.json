@@ -1,14 +1,14 @@
 {
   "num": "136",
   "name": {
-    "KO": "플랑드르 스칼렛",
-    "JA": "ねんどろいど フランドール・スカーレット (ねんどろいど　ふらんどーる・すかーれっと)",
-    "EN": "Nendoroid Flandre Scarlet (ねんどろいど　ふらんどーる・すかーれっと)"
+    "ko": "플랑드르 스칼렛",
+    "ja": "ねんどろいど フランドール・スカーレット (ねんどろいど　ふらんどーる・すかーれっと)",
+    "en": "Nendoroid Flandre Scarlet (ねんどろいど　ふらんどーる・すかーれっと)"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 2973,
   "price": 3143,

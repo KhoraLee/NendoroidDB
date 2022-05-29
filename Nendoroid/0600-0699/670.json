@@ -1,14 +1,14 @@
 {
   "num": "670",
   "name": {
-    "KO": "리베치오",
-    "JA": "ねんどろいど Libeccio（リベッチオ） (ねんどろいど りべっちお)",
-    "EN": "Nendoroid Libeccio"
+    "ko": "리베치오",
+    "ja": "ねんどろいど Libeccio（リベッチオ） (ねんどろいど りべっちお)",
+    "en": "Nendoroid Libeccio"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 5905,
   "price": 5602,

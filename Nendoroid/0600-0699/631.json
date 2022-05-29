@@ -1,14 +1,14 @@
 {
   "num": "631",
   "name": {
-    "KO": "아인즈 울 고운",
-    "JA": "ねんどろいど アインズ・ウール・ゴウン (ねんどろいど あいんず・うーる・ごうん)",
-    "EN": "Nendoroid Ainz Ooal Gown"
+    "ko": "아인즈 울 고운",
+    "ja": "ねんどろいど アインズ・ウール・ゴウン (ねんどろいど あいんず・うーる・ごうん)",
+    "en": "Nendoroid Ainz Ooal Gown"
   },
   "series": {
-    "KO": "오버로드",
-    "JA": "オーバーロード",
-    "EN": "OVERLORD"
+    "ko": "오버로드",
+    "ja": "オーバーロード",
+    "en": "OVERLORD"
   },
   "gsc_productNum": 5694,
   "price": 5602,

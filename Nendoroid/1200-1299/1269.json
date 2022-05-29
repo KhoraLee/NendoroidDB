@@ -1,14 +1,14 @@
 {
   "num": "1269",
   "name": {
-    "KO": "심바",
-    "JA": "ねんどろいど シンバ (ねんどろいど しんば)",
-    "EN": "Nendoroid Simba"
+    "ko": "심바",
+    "ja": "ねんどろいど シンバ (ねんどろいど しんば)",
+    "en": "Nendoroid Simba"
   },
   "series": {
-    "KO": "라이온 킹",
-    "JA": "ライオン・キング",
-    "EN": "The Lion King"
+    "ko": "라이온 킹",
+    "ja": "ライオン・キング",
+    "en": "The Lion King"
   },
   "gsc_productNum": 9164,
   "price": 6300,

@@ -1,14 +1,14 @@
 {
   "num": "1026",
   "name": {
-    "KO": "키아나 겨울공주 Ver.",
-    "JA": "ねんどろいど キアナ 冬のお姫様Ver. (ねんどろいど きあな ふゆのおひめさまVer.)",
-    "EN": "Nendoroid Kiana: Winter Princess Ver."
+    "ko": "키아나 겨울공주 Ver.",
+    "ja": "ねんどろいど キアナ 冬のお姫様Ver. (ねんどろいど きあな ふゆのおひめさまVer.)",
+    "en": "Nendoroid Kiana: Winter Princess Ver."
   },
   "series": {
-    "KO": "붕괴 3rd",
-    "JA": "崩壊3rd",
-    "EN": "Honkai Impact 3rd"
+    "ko": "붕괴 3rd",
+    "ja": "崩壊3rd",
+    "en": "Honkai Impact 3rd"
   },
   "gsc_productNum": 7791,
   "price": 5907,

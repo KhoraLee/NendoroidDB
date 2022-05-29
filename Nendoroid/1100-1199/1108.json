@@ -1,14 +1,14 @@
 {
   "num": "1108",
   "name": {
-    "KO": "시리",
-    "JA": "ねんどろいど シリ (ねんどろいど しり)",
-    "EN": "Nendoroid Ciri"
+    "ko": "시리",
+    "ja": "ねんどろいど シリ (ねんどろいど しり)",
+    "en": "Nendoroid Ciri"
   },
   "series": {
-    "KO": "위쳐 시리즈",
-    "JA": "ウィッチャー3 ワイルドハント",
-    "EN": "The Witcher 3: Wild Hunt"
+    "ko": "위쳐 시리즈",
+    "ja": "ウィッチャー3 ワイルドハント",
+    "en": "The Witcher 3: Wild Hunt"
   },
   "gsc_productNum": 8199,
   "price": 5297,

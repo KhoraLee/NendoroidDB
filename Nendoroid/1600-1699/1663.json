@@ -1,14 +1,14 @@
 {
   "num": "1663",
   "name": {
-    "KO": "미나토 아쿠아",
-    "JA": "ねんどろいど 湊あくあ (ねんどろいど みなとあくあ)",
-    "EN": "Nendoroid Minato Aqua"
+    "ko": "미나토 아쿠아",
+    "ja": "ねんどろいど 湊あくあ (ねんどろいど みなとあくあ)",
+    "en": "Nendoroid Minato Aqua"
   },
   "series": {
-    "KO": "버추얼 유튜버 (홀로라이브)",
-    "JA": "ホロライブプロダクション",
-    "EN": "hololive production"
+    "ko": "버추얼 유튜버 (홀로라이브)",
+    "ja": "ホロライブプロダクション",
+    "en": "hololive production"
   },
   "gsc_productNum": 11356,
   "price": 6100,

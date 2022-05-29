@@ -1,14 +1,14 @@
 {
   "num": "1488",
   "name": {
-    "KO": "리쿠 Ⅱ Ver.",
-    "JA": "ねんどろいど リク キングダム ハーツⅡVer. (ねんどろいど りく きんぐだむ はーつⅡVer.)",
-    "EN": "Nendoroid Riku: Kingdom Hearts II Ver."
+    "ko": "리쿠 Ⅱ Ver.",
+    "ja": "ねんどろいど リク キングダム ハーツⅡVer. (ねんどろいど りく きんぐだむ はーつⅡVer.)",
+    "en": "Nendoroid Riku: Kingdom Hearts II Ver."
   },
   "series": {
-    "KO": "킹덤 하츠",
-    "JA": "キングダム ハーツⅡ",
-    "EN": "Kingdom Hearts II"
+    "ko": "킹덤 하츠",
+    "ja": "キングダム ハーツⅡ",
+    "en": "Kingdom Hearts II"
   },
   "gsc_productNum": 10191,
   "price": 4800,

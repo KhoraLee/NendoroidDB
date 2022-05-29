@@ -1,14 +1,14 @@
 {
   "num": "1351",
   "name": {
-    "KO": "예니퍼",
-    "JA": "ねんどろいど イェネファー (ねんどろいど いぇねふぁー)",
-    "EN": "Nendoroid Yennefer"
+    "ko": "예니퍼",
+    "ja": "ねんどろいど イェネファー (ねんどろいど いぇねふぁー)",
+    "en": "Nendoroid Yennefer"
   },
   "series": {
-    "KO": "위쳐 시리즈",
-    "JA": "ウィッチャー3 ワイルドハント",
-    "EN": "The Witcher 3: Wild Hunt"
+    "ko": "위쳐 시리즈",
+    "ja": "ウィッチャー3 ワイルドハント",
+    "en": "The Witcher 3: Wild Hunt"
   },
   "gsc_productNum": 9559,
   "price": 5200,

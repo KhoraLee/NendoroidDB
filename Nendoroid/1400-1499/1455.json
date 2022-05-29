@@ -1,14 +1,14 @@
 {
   "num": "1455",
   "name": {
-    "KO": "카게야마 토비오 카라스노 Ver.",
-    "JA": "ねんどろいど 影山飛雄 新生烏野Ver. (ねんどろいど かげやまとびお しんせいからすのVer.)",
-    "EN": "Nendoroid Tobio Kageyama: The New Karasuno Ver."
+    "ko": "카게야마 토비오 카라스노 Ver.",
+    "ja": "ねんどろいど 影山飛雄 新生烏野Ver. (ねんどろいど かげやまとびお しんせいからすのVer.)",
+    "en": "Nendoroid Tobio Kageyama: The New Karasuno Ver."
   },
   "series": {
-    "KO": "하이큐!!",
-    "JA": "ハイキュー!! TO THE TOP",
-    "EN": "HAIKYU!! TO THE TOP"
+    "ko": "하이큐!!",
+    "ja": "ハイキュー!! TO THE TOP",
+    "en": "HAIKYU!! TO THE TOP"
   },
   "gsc_productNum": 10030,
   "price": 4100,

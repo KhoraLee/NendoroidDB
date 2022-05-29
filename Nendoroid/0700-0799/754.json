@@ -1,14 +1,14 @@
 {
   "num": "754",
   "name": {
-    "KO": "유리아나",
-    "JA": "ねんどろいど ユリアナ (ねんどろいど ゆりあな)",
-    "EN": "Nendoroid Juliana"
+    "ko": "유리아나",
+    "ja": "ねんどろいど ユリアナ (ねんどろいど ゆりあな)",
+    "en": "Nendoroid Juliana"
   },
   "series": {
-    "KO": "체인 크로니클",
-    "JA": "チェインクロニクル ～ヘクセイタスの閃～",
-    "EN": "Chain Chronicle: The Light of Haecceitas"
+    "ko": "체인 크로니클",
+    "ja": "チェインクロニクル ～ヘクセイタスの閃～",
+    "en": "Chain Chronicle: The Light of Haecceitas"
   },
   "gsc_productNum": 6403,
   "price": 5297,

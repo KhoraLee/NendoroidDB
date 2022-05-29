@@ -1,14 +1,14 @@
 {
   "num": "1285",
   "name": {
-    "KO": "주인공",
-    "JA": "ねんどろいど ドラゴンクエストXI　過ぎ去りし時を求めて　主人公 (ねんどろいど どらごんくえすとXI すぎさりしときをもとめて しゅじんこう)",
-    "EN": "Nendoroid DRAGON QUEST® XI: Echoes of an Elusive Age™ The Luminary"
+    "ko": "주인공",
+    "ja": "ねんどろいど ドラゴンクエストXI　過ぎ去りし時を求めて　主人公 (ねんどろいど どらごんくえすとXI すぎさりしときをもとめて しゅじんこう)",
+    "en": "Nendoroid DRAGON QUEST® XI: Echoes of an Elusive Age™ The Luminary"
   },
   "series": {
-    "KO": "드래곤 퀘스트 11",
-    "JA": "ドラゴンクエストXI　過ぎ去りし時を求めて",
-    "EN": "DRAGON QUEST® XI: Echoes of an Elusive Age™"
+    "ko": "드래곤 퀘스트 11",
+    "ja": "ドラゴンクエストXI　過ぎ去りし時を求めて",
+    "en": "DRAGON QUEST® XI: Echoes of an Elusive Age™"
   },
   "gsc_productNum": 9338,
   "price": 6600,

@@ -1,14 +1,14 @@
 {
   "num": "112",
   "name": {
-    "KO": "코바야카와 린코",
-    "JA": "ねんどろいど 小早川凛子 (ねんどろいど こばやかわりんこ)",
-    "EN": "Nendoroid Rinko Kobayakawa (ねんどろいど こばやかわりんこ)"
+    "ko": "코바야카와 린코",
+    "ja": "ねんどろいど 小早川凛子 (ねんどろいど こばやかわりんこ)",
+    "en": "Nendoroid Rinko Kobayakawa (ねんどろいど こばやかわりんこ)"
   },
   "series": {
-    "KO": "러브 플러스",
-    "JA": "ラブプラス",
-    "EN": "Love Plus"
+    "ko": "러브 플러스",
+    "ja": "ラブプラス",
+    "en": "Love Plus"
   },
   "gsc_productNum": 2873,
   "price": 3667,

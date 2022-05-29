@@ -1,14 +1,14 @@
 {
   "num": "1159",
   "name": {
-    "KO": "가로우 슈퍼 무버블 에디션",
-    "JA": "ねんどろいど ガロウ スーパームーバブル・エディション (ねんどろいど がろう すーぱーむーばぶる・えでぃしょん)",
-    "EN": "Nendoroid Garou: Super Movable Edition"
+    "ko": "가로우 슈퍼 무버블 에디션",
+    "ja": "ねんどろいど ガロウ スーパームーバブル・エディション (ねんどろいど がろう すーぱーむーばぶる・えでぃしょん)",
+    "en": "Nendoroid Garou: Super Movable Edition"
   },
   "series": {
-    "KO": "원펀맨",
-    "JA": "ワンパンマン",
-    "EN": "ONE-PUNCH MAN"
+    "ko": "원펀맨",
+    "ja": "ワンパンマン",
+    "en": "ONE-PUNCH MAN"
   },
   "gsc_productNum": 8476,
   "price": 5100,

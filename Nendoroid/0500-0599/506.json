@@ -1,14 +1,14 @@
 {
   "num": "506",
   "name": {
-    "KO": "호오즈키",
-    "JA": "ねんどろいど 鬼灯 (ねんどろいど ほおずき)",
-    "EN": "Nendoroid Hozuki (ねんどろいど ほおずき)"
+    "ko": "호오즈키",
+    "ja": "ねんどろいど 鬼灯 (ねんどろいど ほおずき)",
+    "en": "Nendoroid Hozuki (ねんどろいど ほおずき)"
   },
   "series": {
-    "KO": "호오즈키의 냉철",
-    "JA": "鬼灯の冷徹",
-    "EN": "Hozuki no Reitetsu"
+    "ko": "호오즈키의 냉철",
+    "ja": "鬼灯の冷徹",
+    "en": "Hozuki no Reitetsu"
   },
   "gsc_productNum": 4880,
   "price": 4278,

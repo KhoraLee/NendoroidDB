@@ -1,14 +1,14 @@
 {
   "num": "521",
   "name": {
-    "KO": "파츄리 널릿지",
-    "JA": "ねんどろいど パチュリー・ノーレッジ (ねんどろいど ぱちゅりー・のーれっじ)",
-    "EN": "Nendoroid Patchouli Knowledge (ねんどろいど ぱちゅりー・のーれっじ)"
+    "ko": "파츄리 널릿지",
+    "ja": "ねんどろいど パチュリー・ノーレッジ (ねんどろいど ぱちゅりー・のーれっじ)",
+    "en": "Nendoroid Patchouli Knowledge (ねんどろいど ぱちゅりー・のーれっじ)"
   },
   "series": {
-    "KO": "동방 프로젝트",
-    "JA": "東方Project",
-    "EN": "Touhou Project"
+    "ko": "동방 프로젝트",
+    "ja": "東方Project",
+    "en": "Touhou Project"
   },
   "gsc_productNum": 5007,
   "price": 4584,

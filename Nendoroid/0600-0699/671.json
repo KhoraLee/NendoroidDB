@@ -1,14 +1,14 @@
 {
   "num": "671",
   "name": {
-    "KO": "조커 수어사이드 에디션",
-    "JA": "ねんどろいど ジョーカー スーサイド・エディション (ねんどろいど じょーかー すーさいど・えでぃしょん)",
-    "EN": "Nendoroid Joker: Suicide Edition"
+    "ko": "조커 수어사이드 에디션",
+    "ja": "ねんどろいど ジョーカー スーサイド・エディション (ねんどろいど じょーかー すーさいど・えでぃしょん)",
+    "en": "Nendoroid Joker: Suicide Edition"
   },
   "series": {
-    "KO": "수어사이드 스쿼드",
-    "JA": "スーサイド・スクワッド",
-    "EN": "Suicide Squad"
+    "ko": "수어사이드 스쿼드",
+    "ja": "スーサイド・スクワッド",
+    "en": "Suicide Squad"
   },
   "gsc_productNum": 5910,
   "price": 4584,

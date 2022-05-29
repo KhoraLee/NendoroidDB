@@ -1,14 +1,14 @@
 {
   "num": "293",
   "name": {
-    "KO": "타카무라 유이",
-    "JA": "ねんどろいど 篁唯依 (ねんどろいど たかむらゆい)",
-    "EN": "Nendoroid Yui Takamura (ねんどろいど たかむらゆい)"
+    "ko": "타카무라 유이",
+    "ja": "ねんどろいど 篁唯依 (ねんどろいど たかむらゆい)",
+    "en": "Nendoroid Yui Takamura (ねんどろいど たかむらゆい)"
   },
   "series": {
-    "KO": "마브러브 얼터너티브 토탈 이클립스",
-    "JA": "マブラヴ オルタネイティヴ トータル・イクリプス",
-    "EN": "Muv-Luv Alternative: Total Eclipse"
+    "ko": "마브러브 얼터너티브 토탈 이클립스",
+    "ja": "マブラヴ オルタネイティヴ トータル・イクリプス",
+    "en": "Muv-Luv Alternative: Total Eclipse"
   },
   "gsc_productNum": 3761,
   "price": 4190,

@@ -1,14 +1,14 @@
 {
   "num": "429",
   "name": {
-    "KO": "아라라기 코요미",
-    "JA": "ねんどろいど 阿良々木暦 (ねんどろいど あららぎこよみ)",
-    "EN": "Nendoroid Koyomi Araragi (ねんどろいど あららぎこよみ)"
+    "ko": "아라라기 코요미",
+    "ja": "ねんどろいど 阿良々木暦 (ねんどろいど あららぎこよみ)",
+    "en": "Nendoroid Koyomi Araragi (ねんどろいど あららぎこよみ)"
   },
   "series": {
-    "KO": "모노가타리 시리즈",
-    "JA": "化物語",
-    "EN": "Bakemonogatari"
+    "ko": "모노가타리 시리즈",
+    "ja": "化物語",
+    "en": "Bakemonogatari"
   },
   "gsc_productNum": 4445,
   "price": 4074,

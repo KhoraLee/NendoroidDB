@@ -1,14 +1,14 @@
 {
   "num": "1435",
   "name": {
-    "KO": "레이븐",
-    "JA": "ねんどろいど レイブン (ねんどろいど れいぶん)",
-    "EN": "Nendoroid Raven"
+    "ko": "레이븐",
+    "ja": "ねんどろいど レイブン (ねんどろいど れいぶん)",
+    "en": "Nendoroid Raven"
   },
   "series": {
-    "KO": "포트나이트",
-    "JA": "フォートナイト",
-    "EN": "Fortnite"
+    "ko": "포트나이트",
+    "ja": "フォートナイト",
+    "en": "Fortnite"
   },
   "gsc_productNum": 9929,
   "price": 5800,

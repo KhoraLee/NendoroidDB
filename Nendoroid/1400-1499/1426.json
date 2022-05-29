@@ -1,14 +1,14 @@
 {
   "num": "1426",
   "name": {
-    "KO": "스타로드 엔드게임 Ver.",
-    "JA": "ねんどろいど スター・ロード エンドゲーム Ver. (ねんどろいど すたー・ろーど えんどげーむ Ver.)",
-    "EN": "Nendoroid Star-Lord: Endgame Ver."
+    "ko": "스타로드 엔드게임 Ver.",
+    "ja": "ねんどろいど スター・ロード エンドゲーム Ver. (ねんどろいど すたー・ろーど えんどげーむ Ver.)",
+    "en": "Nendoroid Star-Lord: Endgame Ver."
   },
   "series": {
-    "KO": "어벤져스",
-    "JA": "アベンジャーズ／エンドゲーム",
-    "EN": "Avengers: Endgame"
+    "ko": "어벤져스",
+    "ja": "アベンジャーズ／エンドゲーム",
+    "en": "Avengers: Endgame"
   },
   "gsc_productNum": 9831,
   "price": 5000,

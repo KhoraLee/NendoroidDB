@@ -1,14 +1,14 @@
 {
   "num": "1281",
   "name": {
-    "KO": "반다나 웨이들 디",
-    "JA": "ねんどろいど ワドルディ (ねんどろいど わどるでぃ)",
-    "EN": "Nendoroid Waddle Dee"
+    "ko": "반다나 웨이들 디",
+    "ja": "ねんどろいど ワドルディ (ねんどろいど わどるでぃ)",
+    "en": "Nendoroid Waddle Dee"
   },
   "series": {
-    "KO": "별의 커비",
-    "JA": "星のカービィ",
-    "EN": "Kirby"
+    "ko": "별의 커비",
+    "ja": "星のカービィ",
+    "en": "Kirby"
   },
   "gsc_productNum": 9222,
   "price": 5600,

@@ -1,14 +1,14 @@
 {
   "num": "813",
   "name": {
-    "KO": "무츠",
-    "JA": "ねんどろいど 陸奥 (ねんどろいど むつ)",
-    "EN": "Nendoroid Mutsu"
+    "ko": "무츠",
+    "ja": "ねんどろいど 陸奥 (ねんどろいど むつ)",
+    "en": "Nendoroid Mutsu"
   },
   "series": {
-    "KO": "함대 컬렉션",
-    "JA": "艦隊これくしょん ‐艦これ‐",
-    "EN": "Kantai Collection -KanColle-"
+    "ko": "함대 컬렉션",
+    "ja": "艦隊これくしょん ‐艦これ‐",
+    "en": "Kantai Collection -KanColle-"
   },
   "gsc_productNum": 6644,
   "price": 6519,

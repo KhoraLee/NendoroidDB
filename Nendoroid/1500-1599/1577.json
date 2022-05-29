@@ -1,14 +1,14 @@
 {
   "num": "1577",
   "name": {
-    "KO": "마리",
-    "JA": "ねんどろいど マリィ (ねんどろいど まりぃ)",
-    "EN": "Nendoroid Marnie"
+    "ko": "마리",
+    "ja": "ねんどろいど マリィ (ねんどろいど まりぃ)",
+    "en": "Nendoroid Marnie"
   },
   "series": {
-    "KO": "포켓몬스터",
-    "JA": "ポケットモンスター",
-    "EN": "Pokémon Sword and Shield"
+    "ko": "포켓몬스터",
+    "ja": "ポケットモンスター",
+    "en": "Pokémon Sword and Shield"
   },
   "gsc_productNum": 10678,
   "price": 5800,

@@ -1,14 +1,14 @@
 {
   "num": "660",
   "name": {
-    "KO": "무메이",
-    "JA": "ねんどろいど 無名 (ねんどろいど むめい)",
-    "EN": "Nendoroid Mumei"
+    "ko": "무메이",
+    "ja": "ねんどろいど 無名 (ねんどろいど むめい)",
+    "en": "Nendoroid Mumei"
   },
   "series": {
-    "KO": "갑철성의 카바네리",
-    "JA": "甲鉄城のカバネリ",
-    "EN": "Kabaneri of the Iron Fortress"
+    "ko": "갑철성의 카바네리",
+    "ja": "甲鉄城のカバネリ",
+    "en": "Kabaneri of the Iron Fortress"
   },
   "gsc_productNum": 5825,
   "price": 4888,

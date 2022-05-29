@@ -1,14 +1,14 @@
 {
   "num": "1600",
   "name": {
-    "KO": "알트리아 캐스터",
-    "JA": "ねんどろいど キャスター/アルトリア・キャスター (ねんどろいど きゃすたー/あるとりあ・きゃすたー)",
-    "EN": "Nendoroid Caster/Altria Caster"
+    "ko": "알트리아 캐스터",
+    "ja": "ねんどろいど キャスター/アルトリア・キャスター (ねんどろいど きゃすたー/あるとりあ・きゃすたー)",
+    "en": "Nendoroid Caster/Altria Caster"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 11140,
   "price": 5800,

@@ -1,14 +1,14 @@
 {
   "num": "1653",
   "name": {
-    "KO": "아카이 하아토",
-    "JA": "ねんどろいど 赤井はあと (ねんどろいど あかいはあと)",
-    "EN": "Nendoroid Akai Haato"
+    "ko": "아카이 하아토",
+    "ja": "ねんどろいど 赤井はあと (ねんどろいど あかいはあと)",
+    "en": "Nendoroid Akai Haato"
   },
   "series": {
-    "KO": "버추얼 유튜버 (홀로라이브)",
-    "JA": "ホロライブプロダクション",
-    "EN": "hololive production"
+    "ko": "버추얼 유튜버 (홀로라이브)",
+    "ja": "ホロライブプロダクション",
+    "en": "hololive production"
   },
   "gsc_productNum": 11622,
   "price": 5900,

@@ -1,14 +1,14 @@
 {
   "num": "473",
   "name": {
-    "KO": "마리오",
-    "JA": "ねんどろいど マリオ (ねんどろいど まりお)",
-    "EN": "Nendoroid Mario"
+    "ko": "마리오",
+    "ja": "ねんどろいど マリオ (ねんどろいど まりお)",
+    "en": "Nendoroid Mario"
   },
   "series": {
-    "KO": "슈퍼 마리오",
-    "JA": "スーパーマリオ",
-    "EN": "Super Mario"
+    "ko": "슈퍼 마리오",
+    "ja": "スーパーマリオ",
+    "en": "Super Mario"
   },
   "gsc_productNum": 4720,
   "price": 4584,

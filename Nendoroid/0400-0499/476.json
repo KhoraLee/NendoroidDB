@@ -1,14 +1,14 @@
 {
   "num": "476",
   "name": {
-    "KO": "황 링인",
-    "JA": "ねんどろいど 凰鈴音 (ねんどろいど ふぁんりんいん)",
-    "EN": "Nendoroid Lingyin Huang (ねんどろいど ふぁんりんいん)"
+    "ko": "황 링인",
+    "ja": "ねんどろいど 凰鈴音 (ねんどろいど ふぁんりんいん)",
+    "en": "Nendoroid Lingyin Huang (ねんどろいど ふぁんりんいん)"
   },
   "series": {
-    "KO": "인피니트 스트라토스",
-    "JA": "IS \u003cインフィニット・ストラトス\u003e",
-    "EN": "IS \u003cInfinite Stratos\u003e"
+    "ko": "인피니트 스트라토스",
+    "ja": "IS \u003cインフィニット・ストラトス\u003e",
+    "en": "IS \u003cInfinite Stratos\u003e"
   },
   "gsc_productNum": 4722,
   "price": 4400,

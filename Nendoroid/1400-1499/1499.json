@@ -1,14 +1,14 @@
 {
   "num": "1499",
   "name": {
-    "KO": "어쌔신/슈탠도지",
-    "JA": "ねんどろいど アサシン/酒呑童子 (ねんどろいど あさしん/しゅてんどうじ)",
-    "EN": "Nendoroid Assassin/Shuten-Douji"
+    "ko": "어쌔신/슈탠도지",
+    "ja": "ねんどろいど アサシン/酒呑童子 (ねんどろいど あさしん/しゅてんどうじ)",
+    "en": "Nendoroid Assassin/Shuten-Douji"
   },
   "series": {
-    "KO": "페이트 시리즈",
-    "JA": "Fate/Grand Order",
-    "EN": "Fate/Grand Order"
+    "ko": "페이트 시리즈",
+    "ja": "Fate/Grand Order",
+    "en": "Fate/Grand Order"
   },
   "gsc_productNum": 10342,
   "price": 6500,

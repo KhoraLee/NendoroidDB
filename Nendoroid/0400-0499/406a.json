@@ -1,14 +1,14 @@
 {
   "num": "406a",
   "name": {
-    "KO": "미스 모노크롬",
-    "JA": "ねんどろいど ミス・モノクローム (ねんどろいど みす・ものくろーむ)",
-    "EN": "Nendoroid Miss Monochrome (ねんどろいど みす・ものくろーむ)"
+    "ko": "미스 모노크롬",
+    "ja": "ねんどろいど ミス・モノクローム (ねんどろいど みす・ものくろーむ)",
+    "en": "Nendoroid Miss Monochrome (ねんどろいど みす・ものくろーむ)"
   },
   "series": {
-    "KO": "미스 모노크롬",
-    "JA": "ミス・モノクローム -The Animation-",
-    "EN": "Miss Monochrome -The Animation-"
+    "ko": "미스 모노크롬",
+    "ja": "ミス・モノクローム -The Animation-",
+    "en": "Miss Monochrome -The Animation-"
   },
   "gsc_productNum": 4272,
   "price": 4074,

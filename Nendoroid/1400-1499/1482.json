@@ -1,14 +1,14 @@
 {
   "num": "1482",
   "name": {
-    "KO": "마키나미 마리 플러그 슈트 Ver.",
-    "JA": "ねんどろいど 真希波・マリ・イラストリアス プラグスーツVer. (ねんどろいど まきなみ・まり・いらすとりあす ぷらぐすーつVer.)",
-    "EN": "Nendoroid Mari Makinami Illustrious: Plugsuit Ver."
+    "ko": "마키나미 마리 플러그 슈트 Ver.",
+    "ja": "ねんどろいど 真希波・マリ・イラストリアス プラグスーツVer. (ねんどろいど まきなみ・まり・いらすとりあす ぷらぐすーつVer.)",
+    "en": "Nendoroid Mari Makinami Illustrious: Plugsuit Ver."
   },
   "series": {
-    "KO": "에반게리온",
-    "JA": "ヱヴァンゲリヲン新劇場版",
-    "EN": "Rebuild of Evangelion"
+    "ko": "에반게리온",
+    "ja": "ヱヴァンゲリヲン新劇場版",
+    "en": "Rebuild of Evangelion"
   },
   "gsc_productNum": 10286,
   "price": 5800,

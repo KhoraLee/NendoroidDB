@@ -1,14 +1,14 @@
 {
   "num": "381a",
   "name": {
-    "KO": "하츠네 미쿠 세라복 Ver.",
-    "JA": "ねんどろいど 初音ミク セーラー服Ver. (ねんどろいど はつねみく せーらーふくVer.)",
-    "EN": "Nendoroid Hatsune Miku: Sailor Uniform Ver. (ねんどろいど はつねみく せーらーふくVer.)"
+    "ko": "하츠네 미쿠 세라복 Ver.",
+    "ja": "ねんどろいど 初音ミク セーラー服Ver. (ねんどろいど はつねみく せーらーふくVer.)",
+    "en": "Nendoroid Hatsune Miku: Sailor Uniform Ver. (ねんどろいど はつねみく せーらーふくVer.)"
   },
   "series": {
-    "KO": "하츠네미쿠",
-    "JA": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "EN": "Character Vocal Series 01: Hatsune Miku"
+    "ko": "하츠네미쿠",
+    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "en": "Character Vocal Series 01: Hatsune Miku"
   },
   "gsc_productNum": 4186,
   "price": 0,

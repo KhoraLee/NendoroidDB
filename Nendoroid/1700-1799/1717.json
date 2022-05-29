@@ -1,14 +1,14 @@
 {
   "num": "1717",
   "name": {
-    "KO": "아르테르",
-    "JA": "ねんどろいど 旅人（空） (ねんどろいど たびびと（そら）)",
-    "EN": "Nendoroid Traveler (Aether)"
+    "ko": "아르테르",
+    "ja": "ねんどろいど 旅人（空） (ねんどろいど たびびと（そら）)",
+    "en": "Nendoroid Traveler (Aether)"
   },
   "series": {
-    "KO": "원신",
-    "JA": "原神",
-    "EN": "Genshin Impact"
+    "ko": "원신",
+    "ja": "原神",
+    "en": "Genshin Impact"
   },
   "gsc_productNum": 11781,
   "price": 5800,

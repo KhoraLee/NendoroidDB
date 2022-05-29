@@ -1,14 +1,14 @@
 {
   "num": "282",
   "name": {
-    "KO": "아사마 토모 제복 Ver.",
-    "JA": "ねんどろいど 浅間・智 制服Ver. (ねんどろいど あさま・とも せいふくVer.)",
-    "EN": "Nendoroid Tomo Asama: Uniform ver. (ねんどろいど あさま・とも せいふくVer.)"
+    "ko": "아사마 토모 제복 Ver.",
+    "ja": "ねんどろいど 浅間・智 制服Ver. (ねんどろいど あさま・とも せいふくVer.)",
+    "en": "Nendoroid Tomo Asama: Uniform ver. (ねんどろいど あさま・とも せいふくVer.)"
   },
   "series": {
-    "KO": "경계선상의 호라이즌",
-    "JA": "境界線上のホライゾン PORTABLE",
-    "EN": "Horizon in the Middle of Nowhere"
+    "ko": "경계선상의 호라이즌",
+    "ja": "境界線上のホライゾン PORTABLE",
+    "en": "Horizon in the Middle of Nowhere"
   },
   "gsc_productNum": 3774,
   "price": 10978,

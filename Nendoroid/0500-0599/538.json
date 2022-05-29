@@ -1,14 +1,14 @@
 {
   "num": "538",
   "name": {
-    "KO": "라이덴 MGS2 Ver.",
-    "JA": "ねんどろいど 雷電 MGS2 Ver. (ねんどろいど らいでん MGS2Ver.)",
-    "EN": "Nendoroid Raiden: MGS2 Ver. (ねんどろいど らいでん MGS2Ver.)"
+    "ko": "라이덴 MGS2 Ver.",
+    "ja": "ねんどろいど 雷電 MGS2 Ver. (ねんどろいど らいでん MGS2Ver.)",
+    "en": "Nendoroid Raiden: MGS2 Ver. (ねんどろいど らいでん MGS2Ver.)"
   },
   "series": {
-    "KO": "메탈기어 솔리드",
-    "JA": "METAL GEAR SOLID2: SONS OF LIBERTY",
-    "EN": "METAL GEAR SOLID 2: SONS OF LIBERTY"
+    "ko": "메탈기어 솔리드",
+    "ja": "METAL GEAR SOLID2: SONS OF LIBERTY",
+    "en": "METAL GEAR SOLID 2: SONS OF LIBERTY"
   },
   "gsc_productNum": 5114,
   "price": 5093,

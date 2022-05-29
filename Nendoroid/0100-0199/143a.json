@@ -1,14 +1,14 @@
 {
   "num": "143a",
   "name": {
-    "KO": "리스티",
-    "JA": "ねんどろいど リスティ (ねんどろいど りすてぃ)",
-    "EN": "Nendoroid Risty (ねんどろいど りすてぃ)"
+    "ko": "리스티",
+    "ja": "ねんどろいど リスティ (ねんどろいど りすてぃ)",
+    "en": "Nendoroid Risty (ねんどろいど りすてぃ)"
   },
   "series": {
-    "KO": "퀸즈 블레이드",
-    "JA": "クイーンズブレイド",
-    "EN": "Queen\u0027s Blade"
+    "ko": "퀸즈 블레이드",
+    "ja": "クイーンズブレイド",
+    "en": "Queen\u0027s Blade"
   },
   "gsc_productNum": 3013,
   "price": 3667,

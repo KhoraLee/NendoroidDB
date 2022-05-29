@@ -1,14 +1,14 @@
 {
   "num": "975",
   "name": {
-    "KO": "코즈메 켄마 교복 Ver.",
-    "JA": "ねんどろいど 孤爪研磨 制服Ver. (ねんどろいど こづめけんま せいふくVer.)",
-    "EN": "Nendoroid Kenma Kozume: School Uniform Ver."
+    "ko": "코즈메 켄마 교복 Ver.",
+    "ja": "ねんどろいど 孤爪研磨 制服Ver. (ねんどろいど こづめけんま せいふくVer.)",
+    "en": "Nendoroid Kenma Kozume: School Uniform Ver."
   },
   "series": {
-    "KO": "하이큐!!",
-    "JA": "ハイキュー!!",
-    "EN": "Haikyu!!"
+    "ko": "하이큐!!",
+    "ja": "ハイキュー!!",
+    "en": "Haikyu!!"
   },
   "gsc_productNum": 7505,
   "price": 3972,
