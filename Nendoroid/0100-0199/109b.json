@@ -1,7 +1,7 @@
 {
   "num": "109b",
   "name": {
-    "ko": "레이싱 미쿠",
+    "ko": "레이싱 미쿠 리턴즈",
     "ja": "ねんどろいど レーシングミク 2010 Ver. リターンズ (ねんどろいど れーしんぐみく 2010 Ver. りたーんず)",
     "en": "Nendoroid Racing Miku 2010 Ver. Returns (ねんどろいど れーしんぐみく2010 Ver. りたーんず)"
   },
@@ -11,10 +11,10 @@
     "en": "Hatsune Miku: Racing Ver."
   },
   "gsc_productNum": 3677,
-  "price": -1,
+  "price": 0,
   "release_date": [
     "2013/01"
   ],
   "image": "https://images.goodsmile.info/cgm/images/product/20120919/3677/20464/large/c5a9b239a2057c81592a889290b3f435.jpg",
-  "gender": "여"
+  "gender": "F"
 }

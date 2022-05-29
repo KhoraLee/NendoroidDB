@@ -2,19 +2,22 @@
   "num": "149",
   "name": {
     "ko": "마키세 크리스 백의 Ver.",
-    "ja": "ねんどろいど 牧瀬紅莉栖 白衣Ver. (ねんどろいど まきせくりす はくいばーじょん)",
-    "en": "Nendoroid Kurisu Makise: White Coat ver. (ねんどろいど まきせくりす はくいばーじょん)"
+    "ja": "ねんどろいど 牧瀬紅莉栖 白衣Ver. (ねんどろいど まきせくりす はくいVer.)",
+    "en": "Nendoroid Kurisu Makise: White Coat ver. (ねんどろいど まきせくりす はくいVer.)"
   },
   "series": {
     "ko": "슈타인즈 게이트",
     "ja": "シュタインズ・ゲート",
     "en": "STEINS;GATE"
   },
-  "gsc_productNum": 3063,
+  "gsc_productNum": 3616,
   "price": 3143,
   "release_date": [
-    "2011/02"
+    "20112012",
+    "2011/2",
+    "2011/6",
+    "2012/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110106/3063/12537/large/fa32e761528a50b14edefd4af36c2eec.jpg",
-  "gender": "여"
+  "image": "https://images.goodsmile.info/cgm/images/product/20120720/3616/19614/large/01c6d9569eef35837e5bc23d2c08203a.jpg",
+  "gender": "F"
 }
