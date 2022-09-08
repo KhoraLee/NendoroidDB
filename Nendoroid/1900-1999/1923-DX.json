@@ -1,16 +1,20 @@
 {
   "num": "1923-DX",
   "name": {
-    "en": "Nendoroid Laffey DX",
-    "ko": "라피 DX"
+    "ko": "라피 DX",
+    "ja": "ねんどろいど ラフィー DX (ねんどろいど らふぃー DX)",
+    "en": "Nendoroid Laffey DX"
   },
   "series": {
-    "en": "Azur Lane",
-    "ko": "벽람항로"
+    "ko": "벽람항로",
+    "ja": "アズールレーン",
+    "en": "Azur Lane"
   },
   "gsc_productNum": 12982,
   "price": 9800,
-  "release_date": [],
+  "release_date": [
+    "2022/12"
+  ],
   "image": "https://images.goodsmile.info/cgm/images/product/20220715/12982/101540/large/a8e54050fbb94e1c389272c7ff9c5735.jpg",
   "gender": "F",
   "set": 289

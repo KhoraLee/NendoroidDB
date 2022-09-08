@@ -1,16 +1,20 @@
 {
   "num": "1923",
   "name": {
-    "en": "Nendoroid Laffey",
-    "ko": "라피"
+    "ko": "라피",
+    "ja": "ねんどろいど ラフィー (ねんどろいど らふぃー)",
+    "en": "Nendoroid Laffey"
   },
   "series": {
-    "en": "Azur Lane",
-    "ko": "벽람항로"
+    "ko": "벽람항로",
+    "ja": "アズールレーン",
+    "en": "Azur Lane"
   },
   "gsc_productNum": 12983,
   "price": 8000,
-  "release_date": [],
+  "release_date": [
+    "2022/12"
+  ],
   "image": "https://images.goodsmile.info/cgm/images/product/20220715/12983/101548/large/ec88d3062edc8b05b2603249fd419ea4.jpg",
   "gender": "F",
   "set": 289
