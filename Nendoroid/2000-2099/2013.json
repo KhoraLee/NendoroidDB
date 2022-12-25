@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13621,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221130/13621/108072/large/bf91bb791e9a1ab159129c05f59e6212.jpg",
+  "name" : {
+    "en" : "Nendoroid Lize Helesta",
+    "ja" : "ねんどろいど リゼ・ヘルエスタ (ねんどろいど りぜ・へるえすた)",
+    "ko" : "리제 헬레스타"
+  },
+  "num" : "2013",
+  "price" : 7500,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "NIJISANJI",
+    "ja" : "にじさんじ",
+    "ko" : "니지산지"
+  },
+  "set" : 258
+}

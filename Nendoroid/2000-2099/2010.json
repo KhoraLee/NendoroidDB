@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13618,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221129/13618/108014/large/e57ab5513d17cab526e8a4669e94a057.jpg",
+  "name" : {
+    "en" : "Nendoroid Luo Tianyi: Grain in Ear Ver.",
+    "ja" : "ねんどろいど 洛天依 芒種Ver. (ねんどろいど るおてんい ぼうしゅVer.)",
+    "ko" : "뤄톈이 망종 Ver."
+  },
+  "num" : "2010",
+  "price" : 7000,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Vsinger",
+    "ja" : "Vsinger",
+    "ko" : "Vsinger"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13737,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221221/13737/109329/large/76695696c8fad237dfedc9405416ab36.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: MIKU WITH YOU 2021 Ver.",
+    "ja" : "ねんどろいど 初音ミク MIKU WITH YOU 2021Ver. (ねんどろいど はつねみく みく うぃず ゆー 2021Ver.)",
+    "ko" : "하츠네 미쿠: MIKU WITH YOU 2021 Ver."
+  },
+  "num" : "2039",
+  "price" : 9800,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
+}

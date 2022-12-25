@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13646,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221207/13646/108572/large/5cbabdee3fef8cf6a4d50af19d555040.jpg",
+  "name" : {
+    "en" : "Nendoroid Cinnamoroll",
+    "ja" : "ねんどろいど シナモロール (ねんどろいど しなもろーる)",
+    "ko" : "시나모롤"
+  },
+  "num" : "1904",
+  "price" : 5500,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Cinnamoroll",
+    "ja" : "シナモロール",
+    "ko" : "시나모롤"
+  }
+}

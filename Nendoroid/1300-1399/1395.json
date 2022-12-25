@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13676,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221213/13676/108582/large/e003ab91bcaf07f73e9ee378d2aed071.jpg",
+  "name" : {
+    "en" : "Nendoroid Hiei",
+    "ja" : "ねんどろいど 飛影 (ねんどろいど ひえい)",
+    "ko" : "히에이"
+  },
+  "num" : "1395",
+  "price" : 7500,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Yu Yu Hakusho",
+    "ja" : "幽☆遊☆白書",
+    "ko" : "유유백서"
+  },
+  "set" : 226
+}

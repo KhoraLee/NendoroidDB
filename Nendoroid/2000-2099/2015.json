@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13619,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221130/13619/108024/large/82c617b5dba5c3cb27253eddbae6e9c4.jpg",
+  "name" : {
+    "en" : "Nendoroid New Jersey: Exhilarating Steps!",
+    "ja" : "ねんどろいど ニュージャージー リッピング・ステッピング！ (ねんどろいど にゅーじゃーじー りっぴんぐ・すてっぴんぐ！)",
+    "ko" : "뉴저지: 두근두근 무대시간!"
+  },
+  "num" : "2015",
+  "price" : 7600,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Azur Lane",
+    "ja" : "アズールレーン",
+    "ko" : "벽람항로"
+  },
+  "set" : 295
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13669,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221212/13669/108517/large/35ffa39c9ad9fc88e1930efbe0911d77.jpg",
+  "name" : {
+    "en" : "Nendoroid Kazuma Kuwabara",
+    "ja" : "ねんどろいど 桑原和真 (ねんどろいど くわばらかずま)",
+    "ko" : "쿠와바라 카즈마"
+  },
+  "num" : "1396",
+  "price" : 8800,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Yu Yu Hakusho",
+    "ja" : "幽☆遊☆白書",
+    "ko" : "유유백서"
+  },
+  "set" : 226
+}

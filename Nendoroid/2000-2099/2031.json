@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13709,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221219/13709/109008/large/446a52b72c81f0dd29b4721cc973c9f8.jpg",
+  "name" : {
+    "en" : "Nendoroid Ritsuka Uenoyama",
+    "ja" : "ねんどろいど 上ノ山 立夏 (ねんどろいど うえのやま りつか)",
+    "ko" : "우에노야마 리츠카"
+  },
+  "num" : "2031",
+  "price" : 5900,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Given",
+    "ja" : "ギヴン",
+    "ko" : "기븐"
+  },
+  "set" : 303
+}

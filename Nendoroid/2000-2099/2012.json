@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13617,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221129/13617/107992/large/7b40c3617e0d3e54ba4b0785448764f3.jpg",
+  "name" : {
+    "en" : "Nendoroid Stan Lee",
+    "ja" : "ねんどろいど スタン・リー (ねんどろいど すたん・りー)",
+    "ko" : "스탠 리"
+  },
+  "num" : "2012",
+  "price" : 6300,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Stan Lee",
+    "ja" : "スタン・リー",
+    "ko" : "스탠 리"
+  }
+}

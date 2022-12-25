@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13710,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221219/13710/109017/large/a813aa3ef2397005e80b3e996b8f9725.jpg",
+  "name" : {
+    "en" : "Nendoroid Mafuyu Sato",
+    "ja" : "ねんどろいど 佐藤 真冬 (ねんどろいど さとう まふゆ)",
+    "ko" : "사토 마후유"
+  },
+  "num" : "2030",
+  "price" : 5900,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Given",
+    "ja" : "ギヴン",
+    "ko" : "기븐"
+  },
+  "set" : 303
+}

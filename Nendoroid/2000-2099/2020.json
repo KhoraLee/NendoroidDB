@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13663,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221212/13663/108449/large/e0d0960f3d9be66755cede27fb95d733.jpg",
+  "name" : {
+    "en" : "Nendoroid Sophie Neuenmuller",
+    "ja" : "ねんどろいど ソフィー・ノイエンミュラー (ねんどろいど そふぃー・のいえんみゅらー)",
+    "ko" : "소피 노이엔뮐러"
+  },
+  "num" : "2020",
+  "price" : 8900,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Atelier Sophie 2: The Alchemist of the Mysterious Dream",
+    "ja" : "ソフィーのアトリエ2 ～不思議な夢の錬金術士～",
+    "ko" : "소피의 아틀리에 2 ~신비한 꿈의 연금술사~"
+  }
+}

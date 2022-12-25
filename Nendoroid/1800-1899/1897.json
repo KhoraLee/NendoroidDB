@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13613,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221129/13613/107949/large/3d245c62ed696592f29d5c523d7adff1.jpg",
+  "name" : {
+    "en" : "Nendoroid Kyoko Hori",
+    "ja" : "ねんどろいど 堀京子 (ねんどろいど ほりきょうこ)",
+    "ko" : "호리 쿄코"
+  },
+  "num" : "1897",
+  "price" : 7800,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Horimiya",
+    "ja" : "ホリミヤ",
+    "ko" : "호리미야"
+  },
+  "set" : 259
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13729,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221220/13729/109201/large/699c2f625b9094cc5285cd9da24bda54.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuma Kuga",
+    "ja" : "ねんどろいど 空閑 遊真 (ねんどろいど くが ゆうま)",
+    "ko" : "쿠가 유마"
+  },
+  "num" : "2033",
+  "price" : 6900,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "World Trigger",
+    "ja" : "ワールドトリガー",
+    "ko" : "월드 트리거"
+  }
+}

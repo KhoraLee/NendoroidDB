@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13664,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221212/13664/108441/large/3216b415ec557f5238f3b103e85745bc.jpg",
+  "name" : {
+    "en" : "Nendoroid Eren Yeager: Attack Titan Ver.",
+    "ja" : "ねんどろいど エレン・イェーガー 進撃の巨人 Ver. (ねんどろいど えれん・いぇーがー しんげきのきょじん Ver.)",
+    "ko" : "에렌 예거: 진격의 거인 Ver."
+  },
+  "num" : "2022",
+  "price" : 6500,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Attack on Titan",
+    "ja" : "進撃の巨人",
+    "ko" : "진격의 거인"
+  },
+  "set" : 87
+}

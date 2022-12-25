@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 13620,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221130/13620/108026/large/c6ec2de2ff1aab8cd612b31b980fe33b.jpg",
+  "name" : {
+    "en" : "Nendoroid Takopi",
+    "ja" : "ねんどろいど タコピー (ねんどろいど たこぴー)",
+    "ko" : "타코피"
+  },
+  "num" : "2021",
+  "price" : 6500,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Takopi's Original Sin",
+    "ja" : "タコピーの原罪",
+    "ko" : "타코피의 원죄"
+  }
+}

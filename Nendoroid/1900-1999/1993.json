@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13516,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221109/13516/106949/large/7cc1d71c1919435e63da3a9ada213027.jpg",
+  "name" : {
+    "en" : "Nendoroid Chun-Li",
+    "ja" : "ねんどろいど 春麗 (ねんどろいど ちゅんりー)",
+    "ko" : "춘리"
+  },
+  "num" : "1993",
+  "price" : 8400,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Street Fighter II",
+    "ja" : "ストリートファイターII",
+    "ko" : "스트리트 파이터"
+  }
+}

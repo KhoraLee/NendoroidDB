@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13708,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221219/13708/108999/large/e93e5a5a705e0f740266e53068069ec8.jpg",
+  "name" : {
+    "en" : "Nendoroid Shiloh",
+    "ja" : "ねんどろいど シャイロ (ねんどろいど しゃいろ)",
+    "ko" : "샤일로"
+  },
+  "num" : "2032",
+  "price" : 8400,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Legend of Mana: The Teardrop Crystal",
+    "ja" : "聖剣伝説 Legend of Mana -The Teardrop Crystal-",
+    "ko" : "성검전설 레전드 오브 마나: 더 티어드롭 크리스탈"
+  }
+}

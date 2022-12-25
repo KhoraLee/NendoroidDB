@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 13632,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221205/13632/108242/large/517ff26958ca463087f1cc02c2df1a3e.jpg",
+  "name" : {
+    "en" : "Nendoroid Mukku",
+    "ja" : "ねんどろいど ムック (ねんどろいど むっく)",
+    "ko" : "무크"
+  },
+  "num" : "2019",
+  "price" : 7300,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Mukku",
+    "ja" : "ムック",
+    "ko" : "무크"
+  }
+}

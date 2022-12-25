@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13654,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221212/13654/108368/large/67596e1b91e134e6077aba1c99dd3fe3.jpg",
+  "name" : {
+    "en" : "Nendoroid Beatrix LeBeau",
+    "ja" : "ねんどろいど ベアトリクス・ルボー (ねんどろいど べあとりくす・るぼー)",
+    "ko" : "베아트릭스 르보"
+  },
+  "num" : "2007",
+  "price" : 8900,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Slime Rancher 2",
+    "ja" : "Slime Rancher 2",
+    "ko" : "슬라임 랜쳐 2"
+  }
+}

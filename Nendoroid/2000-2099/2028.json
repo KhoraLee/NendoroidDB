@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13685,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221215/13685/108718/large/a75b4e5fdfbf06a7683977a2308b9561.jpg",
+  "name" : {
+    "en" : "Nendoroid Cerberus (Single)",
+    "ja" : "ねんどろいど ケルベロス Single (ねんどろいど けるべろす しんぐる)",
+    "ko" : "케르베로스"
+  },
+  "num" : "2028",
+  "price" : 7800,
+  "release_date" : [
+    "2023/05"
+  ],
+  "series" : {
+    "en" : "Helltaker",
+    "ja" : "Helltaker",
+    "ko" : "헬테이커"
+  },
+  "set" : 261
+}
