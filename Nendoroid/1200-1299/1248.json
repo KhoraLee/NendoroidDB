@@ -1,21 +1,21 @@
 {
-  "num": "1248",
-  "name": {
-    "ko": "바닐라",
-    "ja": "ねんどろいど バニラ (ねんどろいど ばにら)",
-    "en": "Nendoroid Vanilla"
+  "gender" : "F",
+  "gsc_productNum" : 9054,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191206/9054/65814/large/0643180dabb5f44c5a22fad764afb85c.jpg",
+  "name" : {
+    "en" : "Nendoroid Vanilla",
+    "ja" : "ねんどろいど バニラ (ねんどろいど ばにら)",
+    "ko" : "바닐라"
   },
-  "series": {
-    "ko": "네코파라",
-    "ja": "ネコぱら",
-    "en": "NEKOPARA"
-  },
-  "gsc_productNum": 9054,
-  "price": 5100,
-  "release_date": [
+  "num" : "1248",
+  "price" : 5100,
+  "release_date" : [
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191206/9054/65814/large/0643180dabb5f44c5a22fad764afb85c.jpg",
-  "gender": "F",
-  "set": 227
+  "series" : {
+    "en" : "NEKOPARA",
+    "ja" : "ネコぱら",
+    "ko" : "네코파라"
+  },
+  "set" : 227
 }

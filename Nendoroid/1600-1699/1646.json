@@ -1,21 +1,21 @@
 {
-  "num": "1646",
-  "name": {
-    "ko": "스티븐 A 스타페이즈",
-    "ja": "ねんどろいど スティーブン・A・スターフェイズ (ねんどろいど すてぃーぶん・あらん・すたーふぇいず)",
-    "en": "Nendoroid Steven A Starphase"
+  "gender" : "M",
+  "gsc_productNum" : 11316,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210607/11316/85584/large/4f2278d61962a4ad6201da11510b06a3.jpg",
+  "name" : {
+    "en" : "Nendoroid Steven A Starphase",
+    "ja" : "ねんどろいど スティーブン・A・スターフェイズ (ねんどろいど すてぃーぶん・あらん・すたーふぇいず)",
+    "ko" : "스티븐 A 스타페이즈"
   },
-  "series": {
-    "ko": "혈계전선 \u0026 비욘드",
-    "ja": "TVアニメ『血界戦線＆BEYOND』",
-    "en": "Blood Blockade Battlefront \u0026 Beyond"
-  },
-  "gsc_productNum": 11316,
-  "price": 6930,
-  "release_date": [
+  "num" : "1646",
+  "price" : 6930,
+  "release_date" : [
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210607/11316/85584/large/4f2278d61962a4ad6201da11510b06a3.jpg",
-  "gender": "M",
-  "set": 153
+  "series" : {
+    "en" : "Blood Blockade Battlefront & Beyond",
+    "ja" : "TVアニメ『血界戦線＆BEYOND』",
+    "ko" : "혈계전선 & 비욘드"
+  },
+  "set" : 153
 }

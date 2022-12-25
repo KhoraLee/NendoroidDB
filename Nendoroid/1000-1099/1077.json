@@ -1,21 +1,21 @@
 {
-  "num": "1077",
-  "name": {
-    "ko": "애쉬 링크스",
-    "ja": "ねんどろいど アッシュ・リンクス (ねんどろいど あっしゅ・りんくす)",
-    "en": "Nendoroid Ash Lynx"
+  "gender" : "M",
+  "gsc_productNum" : 8020,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190128/8020/57764/large/39c7b79ca555a80d7391a55f4d7128f8.jpg",
+  "name" : {
+    "en" : "Nendoroid Ash Lynx",
+    "ja" : "ねんどろいど アッシュ・リンクス (ねんどろいど あっしゅ・りんくす)",
+    "ko" : "애쉬 링크스"
   },
-  "series": {
-    "ko": "바나나 피쉬",
-    "ja": "BANANA FISH",
-    "en": "BANANA FISH"
-  },
-  "gsc_productNum": 8020,
-  "price": 4584,
-  "release_date": [
+  "num" : "1077",
+  "price" : 4584,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190128/8020/57764/large/39c7b79ca555a80d7391a55f4d7128f8.jpg",
-  "gender": "M",
-  "set": 207
+  "series" : {
+    "en" : "BANANA FISH",
+    "ja" : "BANANA FISH",
+    "ko" : "바나나 피쉬"
+  },
+  "set" : 207
 }

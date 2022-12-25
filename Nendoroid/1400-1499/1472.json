@@ -1,21 +1,21 @@
 {
-  "num": "1472",
-  "name": {
-    "ko": "윤우웨",
-    "ja": "ねんどろいど 雲無月 (ねんどろいど ゆん・うーゆえ)",
-    "en": "Nendoroid Yun\u0027wuyue"
+  "gender" : "M",
+  "gsc_productNum" : 10241,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201016/10241/75915/large/c4d8e1d12a1c971bf02c66a82035bddc.jpg",
+  "name" : {
+    "en" : "Nendoroid Yun'wuyue",
+    "ja" : "ねんどろいど 雲無月 (ねんどろいど ゆん・うーゆえ)",
+    "ko" : "윤우웨"
   },
-  "series": {
-    "ko": "고검기담3",
-    "ja": "古剣奇譚三",
-    "en": "Gujian 3"
-  },
-  "gsc_productNum": 10241,
-  "price": 5300,
-  "release_date": [
+  "num" : "1472",
+  "price" : 5300,
+  "release_date" : [
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201016/10241/75915/large/c4d8e1d12a1c971bf02c66a82035bddc.jpg",
-  "gender": "M",
-  "set": 247
+  "series" : {
+    "en" : "Gujian 3",
+    "ja" : "古剣奇譚三",
+    "ko" : "고검기담3"
+  },
+  "set" : 247
 }

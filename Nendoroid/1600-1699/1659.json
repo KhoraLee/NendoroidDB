@@ -1,21 +1,21 @@
 {
-  "num": "1659",
-  "name": {
-    "ko": "메이플",
-    "ja": "ねんどろいど メイプル (ねんどろいど めいぷる)",
-    "en": "Nendoroid Maple"
+  "gender" : "F",
+  "gsc_productNum" : 11308,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210603/11308/85526/large/14243c9b982d2cd69e710fe174be11cf.jpg",
+  "name" : {
+    "en" : "Nendoroid Maple",
+    "ja" : "ねんどろいど メイプル (ねんどろいど めいぷる)",
+    "ko" : "메이플"
   },
-  "series": {
-    "ko": "아픈 건 싫으니까 방어력에 올인하려고 합니다",
-    "ja": "痛いのは嫌なので防御力に極振りしたいと思います。",
-    "en": "BOFURI: I Don\u0027t Want to Get Hurt, so I\u0027ll Max Out My Defense."
-  },
-  "gsc_productNum": 11308,
-  "price": 6600,
-  "release_date": [
+  "num" : "1659",
+  "price" : 6600,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210603/11308/85526/large/14243c9b982d2cd69e710fe174be11cf.jpg",
-  "gender": "F",
-  "set": 264
+  "series" : {
+    "en" : "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+    "ja" : "痛いのは嫌なので防御力に極振りしたいと思います。",
+    "ko" : "아픈 건 싫으니까 방어력에 올인하려고 합니다"
+  },
+  "set" : 264
 }

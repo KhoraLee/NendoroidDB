@@ -1,21 +1,21 @@
 {
-  "num": "651",
-  "name": {
-    "ko": "모노요시 사다무네",
-    "ja": "ねんどろいど 物吉貞宗 (ねんどろいど ものよしさだむね)",
-    "en": "Nendoroid Monoyoshi Sadamune"
+  "gender" : "M",
+  "gsc_productNum" : 5770,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160628/5770/39815/large/6af263ef4fc838b20e670c5875c27013.jpg",
+  "name" : {
+    "en" : "Nendoroid Monoyoshi Sadamune",
+    "ja" : "ねんどろいど 物吉貞宗 (ねんどろいど ものよしさだむね)",
+    "ko" : "모노요시 사다무네"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 5770,
-  "price": 4278,
-  "release_date": [
+  "num" : "651",
+  "price" : 4278,
+  "release_date" : [
     "2016/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160628/5770/39815/large/6af263ef4fc838b20e670c5875c27013.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

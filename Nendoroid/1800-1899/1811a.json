@@ -1,21 +1,21 @@
 {
-  "num": "1811a",
-  "name": {
-    "ko": "로비 더 래핏(핑크)",
-    "ja": "ねんどろいど ロビー・ザ・ラビット（ピンク） (ねんどろいど ろびー・ざ・らびっと（ぴんく）)",
-    "en": "Nendoroid Robbie the Rabbit (Pink)"
+  "gender" : "M",
+  "gsc_productNum" : 12266,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220121/12266/94633/large/30b03d02e692f2d219d28559d38977bb.jpg",
+  "name" : {
+    "en" : "Nendoroid Robbie the Rabbit (Pink)",
+    "ja" : "ねんどろいど ロビー・ザ・ラビット（ピンク） (ねんどろいど ろびー・ざ・らびっと（ぴんく）)",
+    "ko" : "로비 더 래핏(핑크)"
   },
-  "series": {
-    "ko": "사일런트 힐 3",
-    "ja": "サイレントヒル３",
-    "en": "Silent Hill 3"
-  },
-  "gsc_productNum": 12266,
-  "price": 5800,
-  "release_date": [
+  "num" : "1811a",
+  "price" : 5800,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220121/12266/94633/large/30b03d02e692f2d219d28559d38977bb.jpg",
-  "gender": "M",
-  "set": 283
+  "series" : {
+    "en" : "Silent Hill 3",
+    "ja" : "サイレントヒル３",
+    "ko" : "사일런트 힐 3"
+  },
+  "set" : 283
 }

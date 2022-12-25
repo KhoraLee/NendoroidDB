@@ -1,20 +1,20 @@
 {
-  "num": "840",
-  "name": {
-    "ko": "스즈 씨",
-    "ja": "ねんどろいど すずさん",
-    "en": "Nendoroid Suzu"
+  "gender" : "F",
+  "gsc_productNum" : 6811,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171020/6811/48284/large/3f5fa8ea433a8deedaa4c05f932aeccc.jpg",
+  "name" : {
+    "en" : "Nendoroid Suzu",
+    "ja" : "ねんどろいど すずさん",
+    "ko" : "스즈 씨"
   },
-  "series": {
-    "ko": "이 세상의 한 구석에",
-    "ja": "この世界の片隅に",
-    "en": "In This Corner of the World"
-  },
-  "gsc_productNum": 6811,
-  "price": 3972,
-  "release_date": [
+  "num" : "840",
+  "price" : 3972,
+  "release_date" : [
     "2018/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171020/6811/48284/large/3f5fa8ea433a8deedaa4c05f932aeccc.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "In This Corner of the World",
+    "ja" : "この世界の片隅に",
+    "ko" : "이 세상의 한 구석에"
+  }
 }

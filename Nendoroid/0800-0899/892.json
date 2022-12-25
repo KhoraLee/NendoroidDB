@@ -1,21 +1,21 @@
 {
-  "num": "892",
-  "name": {
-    "ko": "레이센 우동게인 이나바",
-    "ja": "ねんどろいど 鈴仙・優曇華院・イナバ (ねんどろいど れいせん・うどんげいん・いなば)",
-    "en": "Nendoroid Reisen Udongein Inaba"
+  "gender" : "F",
+  "gsc_productNum" : 7066,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180216/7066/50284/large/52cb5d0e59225ba247766d7c0a4c2456.jpg",
+  "name" : {
+    "en" : "Nendoroid Reisen Udongein Inaba",
+    "ja" : "ねんどろいど 鈴仙・優曇華院・イナバ (ねんどろいど れいせん・うどんげいん・いなば)",
+    "ko" : "레이센 우동게인 이나바"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方Project",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 7066,
-  "price": 4888,
-  "release_date": [
+  "num" : "892",
+  "price" : 4888,
+  "release_date" : [
     "2018/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180216/7066/50284/large/52cb5d0e59225ba247766d7c0a4c2456.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

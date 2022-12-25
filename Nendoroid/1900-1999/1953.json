@@ -1,21 +1,21 @@
 {
-  "num": "1953",
-  "name": {
-    "ja": "ねんどろいど アイアンマウス (ねんどろいど あいあんまうす)",
-    "en": "Nendoroid Ironmouse",
-    "ko": "아이언마우스"
+  "gender" : "F",
+  "gsc_productNum" : 13223,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220906/13223/104040/large/18bc644cf8a7429b28fc28cfd06d0bda.jpg",
+  "name" : {
+    "en" : "Nendoroid Ironmouse",
+    "ja" : "ねんどろいど アイアンマウス (ねんどろいど あいあんまうす)",
+    "ko" : "아이언마우스"
   },
-  "series": {
-    "ja": "VShojo",
-    "en": "VShojo",
-    "ko": "브이쇼죠"
-  },
-  "gsc_productNum": 13223,
-  "price": 7700,
-  "release_date": [
+  "num" : "1953",
+  "price" : 7700,
+  "release_date" : [
     "2023/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220906/13223/104040/large/18bc644cf8a7429b28fc28cfd06d0bda.jpg",
-  "gender": "F",
-  "set": 291
+  "series" : {
+    "en" : "VShojo",
+    "ja" : "VShojo",
+    "ko" : "브이쇼죠"
+  },
+  "set" : 291
 }

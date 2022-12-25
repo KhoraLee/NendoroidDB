@@ -1,22 +1,22 @@
 {
-  "num": "1687",
-  "name": {
-    "ko": "호쇼 마린",
-    "ja": "ねんどろいど 宝鐘マリン (ねんどろいど ほうしょうまりん)",
-    "en": "Nendoroid Houshou Marine"
+  "gender" : "F",
+  "gsc_productNum" : 11559,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210727/11559/87761/large/8ef3bfb593de021f88262d625186e7a9.jpg",
+  "name" : {
+    "en" : "Nendoroid Houshou Marine",
+    "ja" : "ねんどろいど 宝鐘マリン (ねんどろいど ほうしょうまりん)",
+    "ko" : "호쇼 마린"
   },
-  "series": {
-    "ko": "홀로라이브",
-    "ja": "ホロライブプロダクション",
-    "en": "hololive production"
-  },
-  "gsc_productNum": 11559,
-  "price": 6200,
-  "release_date": [
+  "num" : "1687",
+  "price" : 6200,
+  "release_date" : [
     "2022/05",
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210727/11559/87761/large/8ef3bfb593de021f88262d625186e7a9.jpg",
-  "gender": "F",
-  "set": 262
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브"
+  },
+  "set" : 262
 }

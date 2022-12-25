@@ -1,21 +1,21 @@
 {
-  "num": "1589",
-  "name": {
-    "ko": "어쌔신/우미인",
-    "ja": "ねんどろいど アサシン/虞美人 (ねんどろいど あさしん/ぐびじん)",
-    "en": "Nendoroid Assassin/Yu Mei-ren"
+  "gender" : "F",
+  "gsc_productNum" : 10909,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210309/10909/82051/large/cacc8a881e7f34dc1469599b00e60407.jpg",
+  "name" : {
+    "en" : "Nendoroid Assassin/Yu Mei-ren",
+    "ja" : "ねんどろいど アサシン/虞美人 (ねんどろいど あさしん/ぐびじん)",
+    "ko" : "어쌔신/우미인"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 10909,
-  "price": 5800,
-  "release_date": [
+  "num" : "1589",
+  "price" : 5800,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210309/10909/82051/large/cacc8a881e7f34dc1469599b00e60407.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1715",
-  "name": {
-    "ko": "박사",
-    "ja": "ねんどろいど ドクター (ねんどろいど どくたー)",
-    "en": "Nendoroid Doctor"
+  "gender" : "?",
+  "gsc_productNum" : 11793,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210916/11793/89996/large/9f884d35a5bffb2a21ede15d2e419e77.jpg",
+  "name" : {
+    "en" : "Nendoroid Doctor",
+    "ja" : "ねんどろいど ドクター (ねんどろいど どくたー)",
+    "ko" : "박사"
   },
-  "series": {
-    "ko": "명일방주",
-    "ja": "アークナイツ",
-    "en": "Arknights"
-  },
-  "gsc_productNum": 11793,
-  "price": 6500,
-  "release_date": [
+  "num" : "1715",
+  "price" : 6500,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210916/11793/89996/large/9f884d35a5bffb2a21ede15d2e419e77.jpg",
-  "gender": "?",
-  "set": 216
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 216
 }

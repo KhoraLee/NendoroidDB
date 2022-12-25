@@ -1,21 +1,21 @@
 {
-  "num": "166",
-  "name": {
-    "ko": "스트렝스",
-    "ja": "ねんどろいど ストレングス (ねんどろいど すとれんぐす)",
-    "en": "Nendoroid Strength (ねんどろいど すとれんぐす)"
+  "gender" : "F",
+  "gsc_productNum" : 3123,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110329/3123/13381/large/4eda0eaca7e4463527d3b04d6f87f8b4.jpg",
+  "name" : {
+    "en" : "Nendoroid Strength (ねんどろいど すとれんぐす)",
+    "ja" : "ねんどろいど ストレングス (ねんどろいど すとれんぐす)",
+    "ko" : "스트렝스"
   },
-  "series": {
-    "ko": "BLACK★ROCK SHOOTER",
-    "ja": "ブラック★ロックシューター",
-    "en": "Black Rock Shooter"
-  },
-  "gsc_productNum": 3123,
-  "price": 3667,
-  "release_date": [
+  "num" : "166",
+  "price" : 3667,
+  "release_date" : [
     "2011/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110329/3123/13381/large/4eda0eaca7e4463527d3b04d6f87f8b4.jpg",
-  "gender": "F",
-  "set": 33
+  "series" : {
+    "en" : "Black Rock Shooter",
+    "ja" : "ブラック★ロックシューター",
+    "ko" : "BLACK★ROCK SHOOTER"
+  },
+  "set" : 33
 }

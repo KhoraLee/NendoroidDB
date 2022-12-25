@@ -1,21 +1,21 @@
 {
-  "num": "1843",
-  "name": {
-    "ko": "쿄우카",
-    "ja": "ねんどろいど キョウカ (ねんどろいど きょうか)",
-    "en": "Nendoroid Kyoka"
+  "gender" : "F",
+  "gsc_productNum" : 12434,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220307/12434/96456/large/01fcccd1f56653072f1b0dc64914165d.jpg",
+  "name" : {
+    "en" : "Nendoroid Kyoka",
+    "ja" : "ねんどろいど キョウカ (ねんどろいど きょうか)",
+    "ko" : "쿄우카"
   },
-  "series": {
-    "ko": "프린세스 커넥트! Re:Dive",
-    "ja": "プリンセスコネクト！Re:Dive",
-    "en": "Princess Connect! Re: Dive"
-  },
-  "gsc_productNum": 12434,
-  "price": 6500,
-  "release_date": [
+  "num" : "1843",
+  "price" : 6500,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220307/12434/96456/large/01fcccd1f56653072f1b0dc64914165d.jpg",
-  "gender": "F",
-  "set": 252
+  "series" : {
+    "en" : "Princess Connect! Re: Dive",
+    "ja" : "プリンセスコネクト！Re:Dive",
+    "ko" : "프린세스 커넥트! Re:Dive"
+  },
+  "set" : 252
 }

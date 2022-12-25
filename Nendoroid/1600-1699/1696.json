@@ -1,21 +1,21 @@
 {
-  "num": "1696",
-  "name": {
-    "ko": "그웬풀",
-    "ja": "ねんどろいど グウェンプール (ねんどろいど ぐうぇんぷーる)",
-    "en": "Nendoroid Gwenpool"
+  "gender" : "F",
+  "gsc_productNum" : 11505,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210719/11505/88115/large/3feb4916e984dd359cb0c0cd26754568.jpg",
+  "name" : {
+    "en" : "Nendoroid Gwenpool",
+    "ja" : "ねんどろいど グウェンプール (ねんどろいど ぐうぇんぷーる)",
+    "ko" : "그웬풀"
   },
-  "series": {
-    "ko": "마블 코믹스",
-    "ja": "Marvel Comics",
-    "en": "Marvel Comics"
-  },
-  "gsc_productNum": 11505,
-  "price": 8900,
-  "release_date": [
+  "num" : "1696",
+  "price" : 8900,
+  "release_date" : [
     "2022/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210719/11505/88115/large/3feb4916e984dd359cb0c0cd26754568.jpg",
-  "gender": "F",
-  "set": 63
+  "series" : {
+    "en" : "Marvel Comics",
+    "ja" : "Marvel Comics",
+    "ko" : "마블 코믹스"
+  },
+  "set" : 63
 }

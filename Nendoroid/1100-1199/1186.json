@@ -1,21 +1,21 @@
 {
-  "num": "1186",
-  "name": {
-    "ko": "클로로 루실후르",
-    "ja": "ねんどろいど クロロ\u003dルシルフル (ねんどろいど くろろ\u003dるしるふる)",
-    "en": "Nendoroid Chrollo Lucilfer"
+  "gender" : "M",
+  "gsc_productNum" : 8722,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190823/8722/63065/large/66bece3422d3fcb64a03ba6d24fe1a5d.jpg",
+  "name" : {
+    "en" : "Nendoroid Chrollo Lucilfer",
+    "ja" : "ねんどろいど クロロ=ルシルフル (ねんどろいど くろろ=るしるふる)",
+    "ko" : "클로로 루실후르"
   },
-  "series": {
-    "ko": "헌터X헌터",
-    "ja": "HUNTER×HUNTER",
-    "en": "HUNTER x HUNTER"
-  },
-  "gsc_productNum": 8722,
-  "price": 5280,
-  "release_date": [
+  "num" : "1186",
+  "price" : 5280,
+  "release_date" : [
     "2020/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190823/8722/63065/large/66bece3422d3fcb64a03ba6d24fe1a5d.jpg",
-  "gender": "M",
-  "set": 220
+  "series" : {
+    "en" : "HUNTER x HUNTER",
+    "ja" : "HUNTER×HUNTER",
+    "ko" : "헌터X헌터"
+  },
+  "set" : 220
 }

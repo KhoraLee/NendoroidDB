@@ -1,21 +1,21 @@
 {
-  "num": "220",
-  "name": {
-    "ko": "메구리네 루카 응원 Ver.",
-    "ja": "ねんどろいど 巡音ルカ 応援Ver. (ねんどろいど めぐりねるか おうえんVer.)",
-    "en": "Nendoroid Luka Megurine : Cheerful Ver. (ねんどろいど めぐりねるか おうえんVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3428,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111228/3428/16767/large/ff4348cd8db66e15f2df8a9da8479a9c.jpg",
+  "name" : {
+    "en" : "Nendoroid Luka Megurine : Cheerful Ver. (ねんどろいど めぐりねるか おうえんVer.)",
+    "ja" : "ねんどろいど 巡音ルカ 応援Ver. (ねんどろいど めぐりねるか おうえんVer.)",
+    "ko" : "메구리네 루카 응원 Ver."
   },
-  "series": {
-    "ko": "보컬로이드(VOCALOID)",
-    "ja": "キャラクター・ボーカル・シリーズ03 巡音ルカ",
-    "en": "Character Vocal Series 03: Luka Megurine"
-  },
-  "gsc_productNum": 3428,
-  "price": 3667,
-  "release_date": [
+  "num" : "220",
+  "price" : 3667,
+  "release_date" : [
     "2012/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111228/3428/16767/large/ff4348cd8db66e15f2df8a9da8479a9c.jpg",
-  "gender": "F",
-  "set": 11
+  "series" : {
+    "en" : "Character Vocal Series 03: Luka Megurine",
+    "ja" : "キャラクター・ボーカル・シリーズ03 巡音ルカ",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 11
 }

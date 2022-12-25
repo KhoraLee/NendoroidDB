@@ -1,19 +1,19 @@
 {
-  "num": "138",
-  "name": {
-    "ko": "항공 지에땅",
-    "ja": "ねんどろいど 航空じえいたん (ねんどろいど こうくうじえいたん)"
+  "gender" : "F",
+  "gsc_productNum" : 3382,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3382/16333/large/88898dcca078d078ca3c85161eef533a.jpg",
+  "name" : {
+    "ja" : "ねんどろいど 航空じえいたん (ねんどろいど こうくうじえいたん)",
+    "ko" : "항공 지에땅"
   },
-  "series": {
-    "ko": "마법의 해병대원 픽셀☆마리땅",
-    "ja": "魔法の海兵隊員ぴくせる☆まりたん"
-  },
-  "gsc_productNum": 3382,
-  "price": 4400,
-  "release_date": [
+  "num" : "138",
+  "price" : 4400,
+  "release_date" : [
     "2011/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3382/16333/large/88898dcca078d078ca3c85161eef533a.jpg",
-  "gender": "F",
-  "set": 15
+  "series" : {
+    "ja" : "魔法の海兵隊員ぴくせる☆まりたん",
+    "ko" : "마법의 해병대원 픽셀☆마리땅"
+  },
+  "set" : 15
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1365-DX",
-  "name": {
-    "ko": "아마테라스",
-    "ja": "ねんどろいど アマテラス DX Ver. (ねんどろいど あまてらす でらっくす Ver.)",
-    "en": "Nendoroid Amaterasu DX Ver."
+  "gsc_productNum" : 9428,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200416/9428/69058/large/a4f8a5fd3cffa40cc25e9a6b232a6b49.jpg",
+  "name" : {
+    "en" : "Nendoroid Amaterasu DX Ver.",
+    "ja" : "ねんどろいど アマテラス DX Ver. (ねんどろいど あまてらす でらっくす Ver.)",
+    "ko" : "아마테라스"
   },
-  "series": {
-    "ko": "오오카미",
-    "ja": "大神",
-    "en": "Okami"
-  },
-  "gsc_productNum": 9428,
-  "price": 7700,
-  "release_date": [
+  "num" : "1365-DX",
+  "price" : 7700,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200416/9428/69058/large/a4f8a5fd3cffa40cc25e9a6b232a6b49.jpg",
-  "set": 239
+  "series" : {
+    "en" : "Okami",
+    "ja" : "大神",
+    "ko" : "오오카미"
+  },
+  "set" : 239
 }

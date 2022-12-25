@@ -1,20 +1,20 @@
 {
-  "num": "1500",
-  "name": {
-    "ko": "마루코",
-    "ja": "ねんどろいど ちびまる子ちゃん (ねんどろいど ちびまるこちゃん)",
-    "en": "Nendoroid Chibi Maruko Chan"
+  "gender" : "F",
+  "gsc_productNum" : 10239,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201016/10239/75898/large/d4ba1eaf944318542d99718073f9ad4b.jpg",
+  "name" : {
+    "en" : "Nendoroid Chibi Maruko Chan",
+    "ja" : "ねんどろいど ちびまる子ちゃん (ねんどろいど ちびまるこちゃん)",
+    "ko" : "마루코"
   },
-  "series": {
-    "ko": "마루코는 아홉살",
-    "ja": "ちびまる子ちゃん",
-    "en": "Chibi Maruko Chan"
-  },
-  "gsc_productNum": 10239,
-  "price": 4800,
-  "release_date": [
+  "num" : "1500",
+  "price" : 4800,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201016/10239/75898/large/d4ba1eaf944318542d99718073f9ad4b.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Chibi Maruko Chan",
+    "ja" : "ちびまる子ちゃん",
+    "ko" : "마루코는 아홉살"
+  }
 }

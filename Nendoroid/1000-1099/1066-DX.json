@@ -1,21 +1,21 @@
 {
-  "num": "1066-DX",
-  "name": {
-    "ko": "코가미 신야 SS Ver.",
-    "ja": "ねんどろいど 狡噛慎也 SS Ver. (ねんどろいど こうがみしんや SS Ver.)",
-    "en": "Nendoroid Shinya Kogami: SS Ver."
+  "gender" : "M",
+  "gsc_productNum" : 7961,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181226/7961/57196/large/1acac3ff27b9dfc248fdc94320236e12.jpg",
+  "name" : {
+    "en" : "Nendoroid Shinya Kogami: SS Ver.",
+    "ja" : "ねんどろいど 狡噛慎也 SS Ver. (ねんどろいど こうがみしんや SS Ver.)",
+    "ko" : "코가미 신야 SS Ver."
   },
-  "series": {
-    "ko": "PSYCHO-PASS Sinners of the System",
-    "ja": "PSYCHO-PASS Sinners of the System",
-    "en": "PSYCHO-PASS Sinners of the System"
-  },
-  "gsc_productNum": 7961,
-  "price": 5602,
-  "release_date": [
+  "num" : "1066-DX",
+  "price" : 5602,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181226/7961/57196/large/1acac3ff27b9dfc248fdc94320236e12.jpg",
-  "gender": "M",
-  "set": 80
+  "series" : {
+    "en" : "PSYCHO-PASS Sinners of the System",
+    "ja" : "PSYCHO-PASS Sinners of the System",
+    "ko" : "PSYCHO-PASS Sinners of the System"
+  },
+  "set" : 80
 }

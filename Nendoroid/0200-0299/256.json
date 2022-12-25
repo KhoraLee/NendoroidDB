@@ -1,20 +1,20 @@
 {
-  "num": "256",
-  "name": {
-    "ko": "곰",
-    "ja": "ねんどろいど クマ (ねんどろいど くま)",
-    "en": "Nendoroid Kuma (ねんどろいど くま)"
+  "gsc_productNum" : 3578,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120614/3578/18885/large/842e7b4398f387ea8966a8ba51d73ed4.jpg",
+  "name" : {
+    "en" : "Nendoroid Kuma (ねんどろいど くま)",
+    "ja" : "ねんどろいど クマ (ねんどろいど くま)",
+    "ko" : "곰"
   },
-  "series": {
-    "ko": "페르소나",
-    "ja": "TVアニメ「ペルソナ4」",
-    "en": "Persona 4 TV Series"
-  },
-  "gsc_productNum": 3578,
-  "price": 4190,
-  "release_date": [
+  "num" : "256",
+  "price" : 4190,
+  "release_date" : [
     "2012/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120614/3578/18885/large/842e7b4398f387ea8966a8ba51d73ed4.jpg",
-  "set": 57
+  "series" : {
+    "en" : "Persona 4 TV Series",
+    "ja" : "TVアニメ「ペルソナ4」",
+    "ko" : "페르소나"
+  },
+  "set" : 57
 }

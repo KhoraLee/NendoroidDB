@@ -1,21 +1,21 @@
 {
-  "num": "1831",
-  "name": {
-    "ko": "히이로",
-    "ja": "ねんどろいど Hiiro",
-    "en": "Nendoroid Hiiro"
+  "gender" : "F",
+  "gsc_productNum" : 12397,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220224/12397/95870/large/dbe12e34b73f5f2030330deb491c053a.jpg",
+  "name" : {
+    "en" : "Nendoroid Hiiro",
+    "ja" : "ねんどろいど Hiiro",
+    "ko" : "히이로"
   },
-  "series": {
-    "ko": "버츄얼 유튜버",
-    "ja": "HiiroVTuber",
-    "en": "HiiroVTuber"
-  },
-  "gsc_productNum": 12397,
-  "price": 6800,
-  "release_date": [
+  "num" : "1831",
+  "price" : 6800,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220224/12397/95870/large/dbe12e34b73f5f2030330deb491c053a.jpg",
-  "gender": "F",
-  "set": 169
+  "series" : {
+    "en" : "HiiroVTuber",
+    "ja" : "HiiroVTuber",
+    "ko" : "버츄얼 유튜버"
+  },
+  "set" : 169
 }

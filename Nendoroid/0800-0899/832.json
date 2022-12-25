@@ -1,21 +1,21 @@
 {
-  "num": "832",
-  "name": {
-    "ko": "에비나 나나",
-    "ja": "ねんどろいど 海老名菜々 (ねんどろいど えびななな)",
-    "en": "Nendoroid Nana Ebina"
+  "gender" : "F",
+  "gsc_productNum" : 6800,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171017/6800/48186/large/832022cd4e85788f997097bd8f16243a.jpg",
+  "name" : {
+    "en" : "Nendoroid Nana Ebina",
+    "ja" : "ねんどろいど 海老名菜々 (ねんどろいど えびななな)",
+    "ko" : "에비나 나나"
   },
-  "series": {
-    "ko": "건어물 여동생! 우마루짱",
-    "ja": "干物妹！うまるちゃんR",
-    "en": "Himouto Umaru-chan R"
-  },
-  "gsc_productNum": 6800,
-  "price": 4685,
-  "release_date": [
+  "num" : "832",
+  "price" : 4685,
+  "release_date" : [
     "2018/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171017/6800/48186/large/832022cd4e85788f997097bd8f16243a.jpg",
-  "gender": "F",
-  "set": 118
+  "series" : {
+    "en" : "Himouto Umaru-chan R",
+    "ja" : "干物妹！うまるちゃんR",
+    "ko" : "건어물 여동생! 우마루짱"
+  },
+  "set" : 118
 }

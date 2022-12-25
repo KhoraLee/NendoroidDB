@@ -1,19 +1,19 @@
 {
-  "num": "1148",
-  "name": {
-    "ko": "트래퍼",
-    "ja": "ねんどろいど トラッパー (ねんどろいど とらっぱー)",
-    "en": "Nendoroid The Trapper"
+  "gsc_productNum" : 8448,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190620/8448/61178/large/60ff964452c944717c84a74700e78bb3.jpg",
+  "name" : {
+    "en" : "Nendoroid The Trapper",
+    "ja" : "ねんどろいど トラッパー (ねんどろいど とらっぱー)",
+    "ko" : "트래퍼"
   },
-  "series": {
-    "ko": "DEAD BY DAYLIGHT",
-    "ja": "Dead By Daylight",
-    "en": "Dead by Daylight"
-  },
-  "gsc_productNum": 8448,
-  "price": 5500,
-  "release_date": [
+  "num" : "1148",
+  "price" : 5500,
+  "release_date" : [
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190620/8448/61178/large/60ff964452c944717c84a74700e78bb3.jpg"
+  "series" : {
+    "en" : "Dead by Daylight",
+    "ja" : "Dead By Daylight",
+    "ko" : "DEAD BY DAYLIGHT"
+  }
 }

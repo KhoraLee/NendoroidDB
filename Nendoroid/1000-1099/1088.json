@@ -1,22 +1,22 @@
 {
-  "num": "1088",
-  "name": {
-    "ko": "아메리카",
-    "ja": "ねんどろいど アメリカ (ねんどろいど あめりか)",
-    "en": "Nendoroid USA"
+  "gender" : "M",
+  "gsc_productNum" : 8071,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190213/8071/58112/large/7c2b82666b4ea4b51f0be2861cffc9cc.jpg",
+  "name" : {
+    "en" : "Nendoroid USA",
+    "ja" : "ねんどろいど アメリカ (ねんどろいど あめりか)",
+    "ko" : "아메리카"
   },
-  "series": {
-    "ko": "헤타리아",
-    "ja": "ヘタリア World★Stars",
-    "en": "Hetalia World★Stars"
-  },
-  "gsc_productNum": 8071,
-  "price": 4500,
-  "release_date": [
+  "num" : "1088",
+  "price" : 4500,
+  "release_date" : [
     "2019/07",
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190213/8071/58112/large/7c2b82666b4ea4b51f0be2861cffc9cc.jpg",
-  "gender": "M",
-  "set": 156
+  "series" : {
+    "en" : "Hetalia World★Stars",
+    "ja" : "ヘタリア World★Stars",
+    "ko" : "헤타리아"
+  },
+  "set" : 156
 }

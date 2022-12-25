@@ -1,21 +1,21 @@
 {
-  "num": "2002",
-  "name": {
-    "ja": "ねんどろいど リヴァイ・アッカーマン The Final Season Ver. (ねんどろいど りゔぁい・あっかーまん ざ ふぁいなる しーずん Ver.)",
-    "en": "Nendoroid Levi Ackerman: The Final Season Ver.",
-    "ko": "리바이 아커만: 파이널 시즌 Ver."
+  "gender" : "M",
+  "gsc_productNum" : 13524,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221114/13524/107046/large/27befc477482e43e14d8acd842721cac.jpg",
+  "name" : {
+    "en" : "Nendoroid Levi Ackerman: The Final Season Ver.",
+    "ja" : "ねんどろいど リヴァイ・アッカーマン The Final Season Ver. (ねんどろいど りゔぁい・あっかーまん ざ ふぁいなる しーずん Ver.)",
+    "ko" : "리바이 아커만: 파이널 시즌 Ver."
   },
-  "series": {
-    "ja": "進撃の巨人",
-    "en": "Attack on Titan",
-    "ko": "진격의 거인"
-  },
-  "gsc_productNum": 13524,
-  "price": 7300,
-  "release_date": [
+  "num" : "2002",
+  "price" : 7300,
+  "release_date" : [
     "2023/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221114/13524/107046/large/27befc477482e43e14d8acd842721cac.jpg",
-  "gender": "M",
-  "set": 87
+  "series" : {
+    "en" : "Attack on Titan",
+    "ja" : "進撃の巨人",
+    "ko" : "진격의 거인"
+  },
+  "set" : 87
 }

@@ -1,21 +1,21 @@
 {
-  "num": "032",
-  "name": {
-    "ko": "츠루야 상",
-    "ja": "ねんどろいど 鶴屋さん (つるやさん ねんどろいど)",
-    "en": "Nendoroid Tsuruya-san (つるやさん ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 395,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/395/5531/large/f102e2585c280e5cbff9be98d808df40.jpg",
+  "name" : {
+    "en" : "Nendoroid Tsuruya-san (つるやさん ねんどろいど)",
+    "ja" : "ねんどろいど 鶴屋さん (つるやさん ねんどろいど)",
+    "ko" : "츠루야 상"
   },
-  "series": {
-    "ko": "스즈미야 하루히의 우울",
-    "ja": "涼宮ハルヒの憂鬱",
-    "en": "The Melancholy of Haruhi Suzumiya"
-  },
-  "gsc_productNum": 395,
-  "price": 3143,
-  "release_date": [
+  "num" : "032",
+  "price" : 3143,
+  "release_date" : [
     "2008/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/395/5531/large/f102e2585c280e5cbff9be98d808df40.jpg",
-  "gender": "F",
-  "set": 4
+  "series" : {
+    "en" : "The Melancholy of Haruhi Suzumiya",
+    "ja" : "涼宮ハルヒの憂鬱",
+    "ko" : "스즈미야 하루히의 우울"
+  },
+  "set" : 4
 }

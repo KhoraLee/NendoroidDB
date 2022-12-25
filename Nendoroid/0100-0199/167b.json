@@ -1,21 +1,21 @@
 {
-  "num": "167b",
-  "name": {
-    "ko": "그을린 치르노",
-    "ja": "ねんどろいど 日焼けしたチルノ (ねんどろいど ひやけしたちるの)",
-    "en": "Nendoroid Suntanned Cirno"
+  "gender" : "F",
+  "gsc_productNum" : 6483,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170601/6483/45739/large/b49676768bda536006c941a8bb79ea63.jpg",
+  "name" : {
+    "en" : "Nendoroid Suntanned Cirno",
+    "ja" : "ねんどろいど 日焼けしたチルノ (ねんどろいど ひやけしたちるの)",
+    "ko" : "그을린 치르노"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方Project",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 6483,
-  "price": 4074,
-  "release_date": [
+  "num" : "167b",
+  "price" : 4074,
+  "release_date" : [
     "2017/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170601/6483/45739/large/b49676768bda536006c941a8bb79ea63.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

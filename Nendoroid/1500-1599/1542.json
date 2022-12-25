@@ -1,21 +1,21 @@
 {
-  "num": "1542",
-  "name": {
-    "ko": "허묵 대어은사 Ver.",
-    "ja": "ねんどろいど ハク 大御隠師Ver. (ねんどろいど はく だいごいんしVer.)",
-    "en": "Nendoroid Qi Bai: Grand Occultist Ver."
+  "gender" : "M",
+  "gsc_productNum" : 10633,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201222/10633/79366/large/8772979ce750d28534fdc6d486e33234.jpg",
+  "name" : {
+    "en" : "Nendoroid Qi Bai: Grand Occultist Ver.",
+    "ja" : "ねんどろいど ハク 大御隠師Ver. (ねんどろいど はく だいごいんしVer.)",
+    "ko" : "허묵 대어은사 Ver."
   },
-  "series": {
-    "ko": "러브앤프로듀서",
-    "ja": "恋とプロデューサー～EVOL×LOVE～",
-    "en": "Love\u0026Producer"
-  },
-  "gsc_productNum": 10633,
-  "price": 5900,
-  "release_date": [
+  "num" : "1542",
+  "price" : 5900,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201222/10633/79366/large/8772979ce750d28534fdc6d486e33234.jpg",
-  "gender": "M",
-  "set": 209
+  "series" : {
+    "en" : "Love&Producer",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "set" : 209
 }

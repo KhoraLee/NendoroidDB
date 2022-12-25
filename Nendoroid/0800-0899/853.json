@@ -1,21 +1,21 @@
 {
-  "num": "853",
-  "name": {
-    "ko": "쿠라우에 히나타",
-    "ja": "ねんどろいど 倉上ひなた (ねんどろいど くらうえひなた)",
-    "en": "Nendoroid Hinata Kuraue"
+  "gender" : "F",
+  "gsc_productNum" : 6903,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171128/6903/48958/large/aaaec260ab13e8292090ae6741cdf321.jpg",
+  "name" : {
+    "en" : "Nendoroid Hinata Kuraue",
+    "ja" : "ねんどろいど 倉上ひなた (ねんどろいど くらうえひなた)",
+    "ko" : "쿠라우에 히나타"
   },
-  "series": {
-    "ko": "야마노스스메",
-    "ja": "ヤマノススメ",
-    "en": "Encouragement of Climb"
-  },
-  "gsc_productNum": 6903,
-  "price": 5093,
-  "release_date": [
+  "num" : "853",
+  "price" : 5093,
+  "release_date" : [
     "2018/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171128/6903/48958/large/aaaec260ab13e8292090ae6741cdf321.jpg",
-  "gender": "F",
-  "set": 112
+  "series" : {
+    "en" : "Encouragement of Climb",
+    "ja" : "ヤマノススメ",
+    "ko" : "야마노스스메"
+  },
+  "set" : 112
 }

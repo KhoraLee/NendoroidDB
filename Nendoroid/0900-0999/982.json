@@ -1,21 +1,21 @@
 {
-  "num": "982",
-  "name": {
-    "ko": "오카베 린타로 호우인 교우마 Ver.",
-    "ja": "ねんどろいど 岡部倫太郎 鳳凰院凶真Ver. (ねんどろいど おかべりんたろう ほうおういんきょうまVer.)",
-    "en": "Nendoroid Rintaro Okabe: Kyouma Hououin Ver."
+  "gender" : "M",
+  "gsc_productNum" : 7532,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180817/7532/53875/large/a4ba29bfdd3f98718b941490d2a2633c.jpg",
+  "name" : {
+    "en" : "Nendoroid Rintaro Okabe: Kyouma Hououin Ver.",
+    "ja" : "ねんどろいど 岡部倫太郎 鳳凰院凶真Ver. (ねんどろいど おかべりんたろう ほうおういんきょうまVer.)",
+    "ko" : "오카베 린타로 호우인 교우마 Ver."
   },
-  "series": {
-    "ko": "슈타인즈 게이트",
-    "ja": "シュタインズ・ゲート",
-    "en": "Steins;Gate"
-  },
-  "gsc_productNum": 7532,
-  "price": 4584,
-  "release_date": [
+  "num" : "982",
+  "price" : 4584,
+  "release_date" : [
     "2019/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180817/7532/53875/large/a4ba29bfdd3f98718b941490d2a2633c.jpg",
-  "gender": "M",
-  "set": 40
+  "series" : {
+    "en" : "Steins;Gate",
+    "ja" : "シュタインズ・ゲート",
+    "ko" : "슈타인즈 게이트"
+  },
+  "set" : 40
 }

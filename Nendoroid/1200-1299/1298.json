@@ -1,21 +1,21 @@
 {
-  "num": "1298",
-  "name": {
-    "ko": "야마다 사부로",
-    "ja": "ねんどろいど 山田三郎 (ねんどろいど やまださぶろう)",
-    "en": "Nendoroid Saburo Yamada"
+  "gender" : "M",
+  "gsc_productNum" : 9316,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200228/9316/68001/large/b99eaf20788026d772c43e51589aed00.jpg",
+  "name" : {
+    "en" : "Nendoroid Saburo Yamada",
+    "ja" : "ねんどろいど 山田三郎 (ねんどろいど やまださぶろう)",
+    "ko" : "야마다 사부로"
   },
-  "series": {
-    "ko": "히프노시스 마이크",
-    "ja": "ヒプノシスマイク -Division Rap Battle-",
-    "en": "Hypnosis Mic -Division Rap Battle-"
-  },
-  "gsc_productNum": 9316,
-  "price": 6050,
-  "release_date": [
+  "num" : "1298",
+  "price" : 6050,
+  "release_date" : [
     "2021/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200228/9316/68001/large/b99eaf20788026d772c43e51589aed00.jpg",
-  "gender": "M",
-  "set": 225
+  "series" : {
+    "en" : "Hypnosis Mic -Division Rap Battle-",
+    "ja" : "ヒプノシスマイク -Division Rap Battle-",
+    "ko" : "히프노시스 마이크"
+  },
+  "set" : 225
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1570",
-  "name": {
-    "ko": "마코모",
-    "ja": "ねんどろいど 真菰 (ねんどろいど まこも)",
-    "en": "Nendoroid Makomo"
+  "gender" : "F",
+  "gsc_productNum" : 10790,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210209/10790/81168/large/d8235d70a5d279c75c19c27ea561360c.jpg",
+  "name" : {
+    "en" : "Nendoroid Makomo",
+    "ja" : "ねんどろいど 真菰 (ねんどろいど まこも)",
+    "ko" : "마코모"
   },
-  "series": {
-    "ko": "귀멸의 칼날",
-    "ja": "鬼滅の刃",
-    "en": "Demon Slayer: Kimetsu no Yaiba"
-  },
-  "gsc_productNum": 10790,
-  "price": 5100,
-  "release_date": [
+  "num" : "1570",
+  "price" : 5100,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210209/10790/81168/large/d8235d70a5d279c75c19c27ea561360c.jpg",
-  "gender": "F",
-  "set": 222
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "set" : 222
 }

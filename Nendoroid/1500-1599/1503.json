@@ -1,20 +1,20 @@
 {
-  "num": "1503",
-  "name": {
-    "ko": "미키마우스 Fantasia Ver.",
-    "ja": "ねんどろいど ミッキーマウス Fantasia Ver. (ねんどろいど みっきーまうす Fantasia Ver.)",
-    "en": "Nendoroid Mickey Mouse: Fantasia Ver."
+  "gsc_productNum" : 10311,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201028/10311/76478/large/d6691f47d5c3cbf502965aee09a39af3.jpg",
+  "name" : {
+    "en" : "Nendoroid Mickey Mouse: Fantasia Ver.",
+    "ja" : "ねんどろいど ミッキーマウス Fantasia Ver. (ねんどろいど みっきーまうす Fantasia Ver.)",
+    "ko" : "미키마우스 Fantasia Ver."
   },
-  "series": {
-    "ko": "환타지아",
-    "ja": "ファンタジア",
-    "en": "Fantasia"
-  },
-  "gsc_productNum": 10311,
-  "price": 5700,
-  "release_date": [
+  "num" : "1503",
+  "price" : 5700,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201028/10311/76478/large/d6691f47d5c3cbf502965aee09a39af3.jpg",
-  "set": 32
+  "series" : {
+    "en" : "Fantasia",
+    "ja" : "ファンタジア",
+    "ko" : "환타지아"
+  },
+  "set" : 32
 }

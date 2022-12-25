@@ -1,21 +1,21 @@
 {
-  "num": "1743",
-  "name": {
-    "ko": "젠인 마키",
-    "ja": "ねんどろいど 禪院真希 (ねんどろいど ぜんいんまき)",
-    "en": "Nendoroid Maki Zen\u0027in"
+  "gender" : "F",
+  "gsc_productNum" : 11929,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211022/11929/91348/large/86251efd2a2e5969f77ec54fedcb1c1a.jpg",
+  "name" : {
+    "en" : "Nendoroid Maki Zen'in",
+    "ja" : "ねんどろいど 禪院真希 (ねんどろいど ぜんいんまき)",
+    "ko" : "젠인 마키"
   },
-  "series": {
-    "ko": "주술회전",
-    "ja": "呪術廻戦",
-    "en": "Jujutsu Kaisen"
-  },
-  "gsc_productNum": 11929,
-  "price": 5500,
-  "release_date": [
+  "num" : "1743",
+  "price" : 5500,
+  "release_date" : [
     "2022/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211022/11929/91348/large/86251efd2a2e5969f77ec54fedcb1c1a.jpg",
-  "gender": "F",
-  "set": 251
+  "series" : {
+    "en" : "Jujutsu Kaisen",
+    "ja" : "呪術廻戦",
+    "ko" : "주술회전"
+  },
+  "set" : 251
 }

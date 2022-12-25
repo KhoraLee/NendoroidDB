@@ -1,21 +1,21 @@
 {
-  "num": "373",
-  "name": {
-    "ko": "카마이시 마나",
-    "ja": "ねんどろいど 釜石まな (ねんどろいど かまいしまな)",
-    "en": "Nendoroid Mana Kamaishi (ねんどろいど かまいしまな)"
+  "gender" : "F",
+  "gsc_productNum" : 4081,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131008/4081/26627/large/c521440eae443d77597c8eae2ae43e87.jpg",
+  "name" : {
+    "en" : "Nendoroid Mana Kamaishi (ねんどろいど かまいしまな)",
+    "ja" : "ねんどろいど 釜石まな (ねんどろいど かまいしまな)",
+    "ko" : "카마이시 마나"
   },
-  "series": {
-    "ko": "철도무스메",
-    "ja": "鉄道むすめ",
-    "en": "Tetsudou Musume"
-  },
-  "gsc_productNum": 4081,
-  "price": 4070,
-  "release_date": [
+  "num" : "373",
+  "price" : 4070,
+  "release_date" : [
     "2014/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20131008/4081/26627/large/c521440eae443d77597c8eae2ae43e87.jpg",
-  "gender": "F",
-  "set": 85
+  "series" : {
+    "en" : "Tetsudou Musume",
+    "ja" : "鉄道むすめ",
+    "ko" : "철도무스메"
+  },
+  "set" : 85
 }

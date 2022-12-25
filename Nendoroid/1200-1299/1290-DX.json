@@ -1,21 +1,21 @@
 {
-  "num": "1290-DX",
-  "name": {
-    "ko": "호크아이 엔드게임 DX Ver.",
-    "ja": "ねんどろいど ホークアイ エンドゲームVer. DX (ねんどろいど ほーくあい えんどげーむVer. DX)",
-    "en": "Nendoroid Hawkeye: Endgame Ver. DX"
+  "gender" : "M",
+  "gsc_productNum" : 9259,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200206/9259/67525/large/e3d4cb0e7b6c9b48ca70eb83f69c98d7.jpg",
+  "name" : {
+    "en" : "Nendoroid Hawkeye: Endgame Ver. DX",
+    "ja" : "ねんどろいど ホークアイ エンドゲームVer. DX (ねんどろいど ほーくあい えんどげーむVer. DX)",
+    "ko" : "호크아이 엔드게임 DX Ver."
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／エンドゲーム",
-    "en": "Avengers: Endgame"
-  },
-  "gsc_productNum": 9259,
-  "price": 8000,
-  "release_date": [
+  "num" : "1290-DX",
+  "price" : 8000,
+  "release_date" : [
     "2020/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200206/9259/67525/large/e3d4cb0e7b6c9b48ca70eb83f69c98d7.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

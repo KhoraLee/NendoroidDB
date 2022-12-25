@@ -1,20 +1,20 @@
 {
-  "num": "1852",
-  "name": {
-    "ko": "야구치 야토라",
-    "ja": "ねんどろいど 矢口八虎 (ねんどろいど やぐちやとら)",
-    "en": "Nendoroid Yatora Yaguchi"
+  "gender" : "M",
+  "gsc_productNum" : 12497,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220323/12497/96970/large/a9bf0c6824616f702f6eed36b9e5b7cb.jpg",
+  "name" : {
+    "en" : "Nendoroid Yatora Yaguchi",
+    "ja" : "ねんどろいど 矢口八虎 (ねんどろいど やぐちやとら)",
+    "ko" : "야구치 야토라"
   },
-  "series": {
-    "ko": "블루 피리어드",
-    "ja": "ブルーピリオド",
-    "en": "Blue Period"
-  },
-  "gsc_productNum": 12497,
-  "price": 6300,
-  "release_date": [
+  "num" : "1852",
+  "price" : 6300,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220323/12497/96970/large/a9bf0c6824616f702f6eed36b9e5b7cb.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Blue Period",
+    "ja" : "ブルーピリオド",
+    "ko" : "블루 피리어드"
+  }
 }

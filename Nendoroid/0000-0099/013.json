@@ -1,19 +1,19 @@
 {
-  "num": "013",
-  "name": {
-    "ko": "헤타레 세이버 얼터",
-    "ja": "ねんどろいど へたれセイバーオルタ (ねんどろいど へたれせいばーおるた)"
+  "gender" : "F",
+  "gsc_productNum" : 3355,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3355/16274/large/3a63a9804c5cab1afd1cc03a498aaecc.jpg",
+  "name" : {
+    "ja" : "ねんどろいど へたれセイバーオルタ (ねんどろいど へたれせいばーおるた)",
+    "ko" : "헤타레 세이버 얼터"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/stay night"
-  },
-  "gsc_productNum": 3355,
-  "price": 3143,
-  "release_date": [
+  "num" : "013",
+  "price" : 3143,
+  "release_date" : [
     "2007/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3355/16274/large/3a63a9804c5cab1afd1cc03a498aaecc.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "ja" : "Fate/stay night",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

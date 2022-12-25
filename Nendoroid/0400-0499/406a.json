@@ -1,21 +1,21 @@
 {
-  "num": "406a",
-  "name": {
-    "ko": "미스 모노크롬",
-    "ja": "ねんどろいど ミス・モノクローム (ねんどろいど みす・ものくろーむ)",
-    "en": "Nendoroid Miss Monochrome (ねんどろいど みす・ものくろーむ)"
+  "gender" : "F",
+  "gsc_productNum" : 4272,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140320/4272/28215/large/16d72b9298c867239d5082eb1d323f17.jpg",
+  "name" : {
+    "en" : "Nendoroid Miss Monochrome (ねんどろいど みす・ものくろーむ)",
+    "ja" : "ねんどろいど ミス・モノクローム (ねんどろいど みす・ものくろーむ)",
+    "ko" : "미스 모노크롬"
   },
-  "series": {
-    "ko": "미스 모노크롬",
-    "ja": "ミス・モノクローム -The Animation-",
-    "en": "Miss Monochrome -The Animation-"
-  },
-  "gsc_productNum": 4272,
-  "price": 4074,
-  "release_date": [
+  "num" : "406a",
+  "price" : 4074,
+  "release_date" : [
     "2014/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140320/4272/28215/large/16d72b9298c867239d5082eb1d323f17.jpg",
-  "gender": "F",
-  "set": 96
+  "series" : {
+    "en" : "Miss Monochrome -The Animation-",
+    "ja" : "ミス・モノクローム -The Animation-",
+    "ko" : "미스 모노크롬"
+  },
+  "set" : 96
 }

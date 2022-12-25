@@ -1,20 +1,20 @@
 {
-  "num": "858",
-  "name": {
-    "ko": "BB-8",
-    "ja": "ねんどろいど BB-8 (ねんどろいど びーびーえいと)",
-    "en": "Nendoroid BB-8"
+  "gsc_productNum" : 6952,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171215/6952/49342/large/9b427e2a835f343ab8c2cd2ea299ec6a.jpg",
+  "name" : {
+    "en" : "Nendoroid BB-8",
+    "ja" : "ねんどろいど BB-8 (ねんどろいど びーびーえいと)",
+    "ko" : "BB-8"
   },
-  "series": {
-    "ko": "스타워즈",
-    "ja": "スター・ウォーズ／最後のジェダイ",
-    "en": "Star Wars: The Last Jedi"
-  },
-  "gsc_productNum": 6952,
-  "price": 5093,
-  "release_date": [
+  "num" : "858",
+  "price" : 5093,
+  "release_date" : [
     "2018/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171215/6952/49342/large/9b427e2a835f343ab8c2cd2ea299ec6a.jpg",
-  "set": 115
+  "series" : {
+    "en" : "Star Wars: The Last Jedi",
+    "ja" : "スター・ウォーズ／最後のジェダイ",
+    "ko" : "스타워즈"
+  },
+  "set" : 115
 }

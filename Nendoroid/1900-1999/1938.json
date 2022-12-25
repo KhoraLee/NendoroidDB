@@ -1,21 +1,21 @@
 {
-  "num": "1938",
-  "name": {
-    "ja": "ねんどろいど 恐山 アンナ (ねんどろいど きょうやま あんな)",
-    "en": "Nendoroid Anna Kyoyama",
-    "ko": "쿄우야마 안나"
+  "gender" : "F",
+  "gsc_productNum" : 13198,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220901/13198/104015/large/ba9b1b5af5f356ffc16d4da00e1f7cba.jpg",
+  "name" : {
+    "en" : "Nendoroid Anna Kyoyama",
+    "ja" : "ねんどろいど 恐山 アンナ (ねんどろいど きょうやま あんな)",
+    "ko" : "쿄우야마 안나"
   },
-  "series": {
-    "ja": "SHAMAN KING",
-    "en": "SHAMAN KING",
-    "ko": "샤먼킹"
-  },
-  "gsc_productNum": 13198,
-  "price": 7900,
-  "release_date": [
+  "num" : "1938",
+  "price" : 7900,
+  "release_date" : [
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220901/13198/104015/large/ba9b1b5af5f356ffc16d4da00e1f7cba.jpg",
-  "gender": "F",
-  "set": 269
+  "series" : {
+    "en" : "SHAMAN KING",
+    "ja" : "SHAMAN KING",
+    "ko" : "샤먼킹"
+  },
+  "set" : 269
 }

@@ -1,21 +1,21 @@
 {
-  "num": "967",
-  "name": {
-    "ko": "코레쿠니 류지",
-    "ja": "ねんどろいど 是国竜持 (ねんどろいど これくにりゅうじ)",
-    "en": "Nendoroid Ryuji Korekuni"
+  "gender" : "F",
+  "gsc_productNum" : 7469,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180724/7469/53422/large/079b50b17e5d331538b9d2ac20f5fab9.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryuji Korekuni",
+    "ja" : "ねんどろいど 是国竜持 (ねんどろいど これくにりゅうじ)",
+    "ko" : "코레쿠니 류지"
   },
-  "series": {
-    "ko": "B-PROJECT ~고동＊앰비셔스~",
-    "ja": "B-PROJECT ～鼓動＊アンビシャス～",
-    "en": "B-Project: ~ Kodou＊Ambitious ~"
-  },
-  "gsc_productNum": 7469,
-  "price": 5093,
-  "release_date": [
+  "num" : "967",
+  "price" : 5093,
+  "release_date" : [
     "2018/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180724/7469/53422/large/079b50b17e5d331538b9d2ac20f5fab9.jpg",
-  "gender": "F",
-  "set": 188
+  "series" : {
+    "en" : "B-Project: ~ Kodou＊Ambitious ~",
+    "ja" : "B-PROJECT ～鼓動＊アンビシャス～",
+    "ko" : "B-PROJECT ~고동＊앰비셔스~"
+  },
+  "set" : 188
 }

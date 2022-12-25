@@ -1,21 +1,21 @@
 {
-  "num": "565",
-  "name": {
-    "ko": "베놈 스네이크 스니킹 슈트 Ver.",
-    "ja": "ねんどろいど ヴェノム・スネーク スニーキングスーツVer. (ねんどろいど ゔぇのむ・すねーく すにーきんぐすーつVer.)",
-    "en": "Nendoroid Venom Snake: Sneaking Suit Ver."
+  "gender" : "M",
+  "gsc_productNum" : 5229,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150915/5229/35531/large/a714bc3ff8d48f5bb72954ca9b35d41c.jpg",
+  "name" : {
+    "en" : "Nendoroid Venom Snake: Sneaking Suit Ver.",
+    "ja" : "ねんどろいど ヴェノム・スネーク スニーキングスーツVer. (ねんどろいど ゔぇのむ・すねーく すにーきんぐすーつVer.)",
+    "ko" : "베놈 스네이크 스니킹 슈트 Ver."
   },
-  "series": {
-    "ko": "메탈기어 솔리드",
-    "ja": "METAL GEAR SOLID V: THE PHANTOM PAIN（メタルギア ソリッド V ザ・ファントム・ペイン）",
-    "en": "METAL GEAR SOLID V: THE PHANTOM PAIN"
-  },
-  "gsc_productNum": 5229,
-  "price": 5602,
-  "release_date": [
+  "num" : "565",
+  "price" : 5602,
+  "release_date" : [
     "2016/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150915/5229/35531/large/a714bc3ff8d48f5bb72954ca9b35d41c.jpg",
-  "gender": "M",
-  "set": 107
+  "series" : {
+    "en" : "METAL GEAR SOLID V: THE PHANTOM PAIN",
+    "ja" : "METAL GEAR SOLID V: THE PHANTOM PAIN（メタルギア ソリッド V ザ・ファントム・ペイン）",
+    "ko" : "메탈기어 솔리드"
+  },
+  "set" : 107
 }

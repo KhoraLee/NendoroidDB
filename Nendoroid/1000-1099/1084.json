@@ -1,21 +1,21 @@
 {
-  "num": "1084",
-  "name": {
-    "ko": "사에바 료",
-    "ja": "ねんどろいど 冴羽獠 (ねんどろいど さえばりょう)",
-    "en": "Nendoroid Ryo Saeba"
+  "gender" : "M",
+  "gsc_productNum" : 8055,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190204/8055/57974/large/9ce5694f5838e577b7d5ef01636c0ccd.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryo Saeba",
+    "ja" : "ねんどろいど 冴羽獠 (ねんどろいど さえばりょう)",
+    "ko" : "사에바 료"
   },
-  "series": {
-    "ko": "시티헌터",
-    "ja": "劇場版シティーハンター＜新宿プライベート・アイズ＞",
-    "en": "City Hunter the Movie: Shinjuku Private Eyes"
-  },
-  "gsc_productNum": 8055,
-  "price": 4888,
-  "release_date": [
+  "num" : "1084",
+  "price" : 4888,
+  "release_date" : [
     "2019/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190204/8055/57974/large/9ce5694f5838e577b7d5ef01636c0ccd.jpg",
-  "gender": "M",
-  "set": 208
+  "series" : {
+    "en" : "City Hunter the Movie: Shinjuku Private Eyes",
+    "ja" : "劇場版シティーハンター＜新宿プライベート・アイズ＞",
+    "ko" : "시티헌터"
+  },
+  "set" : 208
 }

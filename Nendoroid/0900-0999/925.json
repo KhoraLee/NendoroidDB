@@ -1,20 +1,20 @@
 {
-  "num": "925",
-  "name": {
-    "ko": "크레토스",
-    "ja": "ねんどろいど クレイトス (ねんどろいど くれいとす)",
-    "en": "Nendoroid Kratos"
+  "gender" : "M",
+  "gsc_productNum" : 7233,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180423/7233/51710/large/afb10aea70680a41b718539abb84696b.jpg",
+  "name" : {
+    "en" : "Nendoroid Kratos",
+    "ja" : "ねんどろいど クレイトス (ねんどろいど くれいとす)",
+    "ko" : "크레토스"
   },
-  "series": {
-    "ko": "갓 오브 워",
-    "ja": "ゴッド・オブ・ウォー",
-    "en": "God of War"
-  },
-  "gsc_productNum": 7233,
-  "price": 4584,
-  "release_date": [
+  "num" : "925",
+  "price" : 4584,
+  "release_date" : [
     "2018/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180423/7233/51710/large/afb10aea70680a41b718539abb84696b.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "God of War",
+    "ja" : "ゴッド・オブ・ウォー",
+    "ko" : "갓 오브 워"
+  }
 }

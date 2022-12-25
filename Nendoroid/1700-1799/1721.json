@@ -1,21 +1,21 @@
 {
-  "num": "1721",
-  "name": {
-    "ko": "후지와라노 사이",
-    "ja": "ねんどろいど 藤原佐為 (ねんどろいど ふじわらのさい)",
-    "en": "Nendoroid Fujiwara-no-Sai"
+  "gender" : "M",
+  "gsc_productNum" : 11849,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211001/11849/90543/large/8f342a6f3259c90e0397e28c40203a43.jpg",
+  "name" : {
+    "en" : "Nendoroid Fujiwara-no-Sai",
+    "ja" : "ねんどろいど 藤原佐為 (ねんどろいど ふじわらのさい)",
+    "ko" : "후지와라노 사이"
   },
-  "series": {
-    "ko": "고스트 바둑왕",
-    "ja": "ヒカルの碁",
-    "en": "Hikaru no Go"
-  },
-  "gsc_productNum": 11849,
-  "price": 5800,
-  "release_date": [
+  "num" : "1721",
+  "price" : 5800,
+  "release_date" : [
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211001/11849/90543/large/8f342a6f3259c90e0397e28c40203a43.jpg",
-  "gender": "M",
-  "set": 271
+  "series" : {
+    "en" : "Hikaru no Go",
+    "ja" : "ヒカルの碁",
+    "ko" : "고스트 바둑왕"
+  },
+  "set" : 271
 }

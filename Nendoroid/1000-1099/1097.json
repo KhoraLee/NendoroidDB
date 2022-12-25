@@ -1,22 +1,22 @@
 {
-  "num": "1097",
-  "name": {
-    "ko": "이누야마 아오이",
-    "ja": "ねんどろいど 犬山あおい (ねんどろいど いぬやまあおい)",
-    "en": "Nendoroid Aoi Inuyama"
+  "gender" : "F",
+  "gsc_productNum" : 8131,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190228/8131/58574/large/48f75a762447c52bb81a023c1d74984f.jpg",
+  "name" : {
+    "en" : "Nendoroid Aoi Inuyama",
+    "ja" : "ねんどろいど 犬山あおい (ねんどろいど いぬやまあおい)",
+    "ko" : "이누야마 아오이"
   },
-  "series": {
-    "ko": "유루캠△",
-    "ja": "ゆるキャン△",
-    "en": "Laid-Back Camp"
-  },
-  "gsc_productNum": 8131,
-  "price": 5602,
-  "release_date": [
+  "num" : "1097",
+  "price" : 5602,
+  "release_date" : [
     "2019/08",
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190228/8131/58574/large/48f75a762447c52bb81a023c1d74984f.jpg",
-  "gender": "F",
-  "set": 173
+  "series" : {
+    "en" : "Laid-Back Camp",
+    "ja" : "ゆるキャン△",
+    "ko" : "유루캠△"
+  },
+  "set" : 173
 }

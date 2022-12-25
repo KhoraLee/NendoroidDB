@@ -1,19 +1,19 @@
 {
-  "num": "116",
-  "name": {
-    "ko": "미야후지 요시카 황국 해군수련장비 Ver.",
-    "ja": "ねんどろいど 宮藤芳佳 扶桑皇国海軍水練装備仕様 (ねんどろいど みやふじよしか ふそうこうこくかいぐんすいれんそうびしよう)"
+  "gender" : "F",
+  "gsc_productNum" : 3377,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3377/16322/large/9dc324bc17ab583b8db3baf824a9fb24.jpg",
+  "name" : {
+    "ja" : "ねんどろいど 宮藤芳佳 扶桑皇国海軍水練装備仕様 (ねんどろいど みやふじよしか ふそうこうこくかいぐんすいれんそうびしよう)",
+    "ko" : "미야후지 요시카 황국 해군수련장비 Ver."
   },
-  "series": {
-    "ko": "스트라이크 위치스",
-    "ja": "ストライクウィッチーズ 白銀の翼"
-  },
-  "gsc_productNum": 3377,
-  "price": 12078,
-  "release_date": [
+  "num" : "116",
+  "price" : 12078,
+  "release_date" : [
     "2010/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3377/16322/large/9dc324bc17ab583b8db3baf824a9fb24.jpg",
-  "gender": "F",
-  "set": 16
+  "series" : {
+    "ja" : "ストライクウィッチーズ 白銀の翼",
+    "ko" : "스트라이크 위치스"
+  },
+  "set" : 16
 }

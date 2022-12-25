@@ -1,23 +1,23 @@
 {
-  "num": "690",
-  "name": {
-    "ko": "야만바기리 쿠니히로",
-    "ja": "ねんどろいど 山姥切国広 (ねんどろいど やまんばぎりくにひろ)",
-    "en": "Nendoroid Yamambagiri Kunihiro"
+  "gender" : "M",
+  "gsc_productNum" : 6052,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161109/6052/42183/large/b4d83a841df2d0c3b13e62f3c106e33b.jpg",
+  "name" : {
+    "en" : "Nendoroid Yamambagiri Kunihiro",
+    "ja" : "ねんどろいど 山姥切国広 (ねんどろいど やまんばぎりくにひろ)",
+    "ko" : "야만바기리 쿠니히로"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 6052,
-  "price": 4685,
-  "release_date": [
+  "num" : "690",
+  "price" : 4685,
+  "release_date" : [
     "2017/04",
     "2019/01",
     "2021/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161109/6052/42183/large/b4d83a841df2d0c3b13e62f3c106e33b.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

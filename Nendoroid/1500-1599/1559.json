@@ -1,20 +1,20 @@
 {
-  "num": "1559",
-  "name": {
-    "ko": "거미",
-    "ja": "ねんどろいど 蜘蛛子 (ねんどろいど くもこ)",
-    "en": "Nendoroid Kumoko"
+  "gender" : "F",
+  "gsc_productNum" : 10757,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210203/10757/80644/large/380bf75836fd25913c91780a547b62da.jpg",
+  "name" : {
+    "en" : "Nendoroid Kumoko",
+    "ja" : "ねんどろいど 蜘蛛子 (ねんどろいど くもこ)",
+    "ko" : "거미"
   },
-  "series": {
-    "ko": "거미입니다만, 문제라도?",
-    "ja": "蜘蛛ですが、なにか？",
-    "en": "So I\u0027m a Spider, So What?"
-  },
-  "gsc_productNum": 10757,
-  "price": 5800,
-  "release_date": [
+  "num" : "1559",
+  "price" : 5800,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210203/10757/80644/large/380bf75836fd25913c91780a547b62da.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "So I'm a Spider, So What?",
+    "ja" : "蜘蛛ですが、なにか？",
+    "ko" : "거미입니다만, 문제라도?"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1062",
-  "name": {
-    "ko": "미도리마 신타로",
-    "ja": "ねんどろいど 緑間真太郎 Special Box (ねんどろいど みどりましんたろう すぺしゃるぼっくす)",
-    "en": "Nendoroid Shintaro Midorima Special Box"
+  "gender" : "M",
+  "gsc_productNum" : 7953,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181226/7953/57135/large/3d3d1c594548237f3df751356d7e9231.jpg",
+  "name" : {
+    "en" : "Nendoroid Shintaro Midorima Special Box",
+    "ja" : "ねんどろいど 緑間真太郎 Special Box (ねんどろいど みどりましんたろう すぺしゃるぼっくす)",
+    "ko" : "미도리마 신타로"
   },
-  "series": {
-    "ko": "쿠로코의 농구",
-    "ja": "黒子のバスケ",
-    "en": "Kuroko\u0027s Basketball"
-  },
-  "gsc_productNum": 7953,
-  "price": 5602,
-  "release_date": [
+  "num" : "1062",
+  "price" : 5602,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181226/7953/57135/large/3d3d1c594548237f3df751356d7e9231.jpg",
-  "gender": "M",
-  "set": 199
+  "series" : {
+    "en" : "Kuroko's Basketball",
+    "ja" : "黒子のバスケ",
+    "ko" : "쿠로코의 농구"
+  },
+  "set" : 199
 }

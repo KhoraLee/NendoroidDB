@@ -1,20 +1,20 @@
 {
-  "num": "1410",
-  "name": {
-    "ko": "범블비",
-    "ja": "ねんどろいど バンブルビー (ねんどろいど ばんぶるびー)",
-    "en": "Nendoroid Bumblebee"
+  "gsc_productNum" : 9775,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200714/9775/71957/large/dc2a02e1180a573f4f78e19eb69033c8.jpg",
+  "name" : {
+    "en" : "Nendoroid Bumblebee",
+    "ja" : "ねんどろいど バンブルビー (ねんどろいど ばんぶるびー)",
+    "ko" : "범블비"
   },
-  "series": {
-    "ko": "트랜스포머",
-    "ja": "バンブルビー",
-    "en": "Bumblebee"
-  },
-  "gsc_productNum": 9775,
-  "price": 5500,
-  "release_date": [
+  "num" : "1410",
+  "price" : 5500,
+  "release_date" : [
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200714/9775/71957/large/dc2a02e1180a573f4f78e19eb69033c8.jpg",
-  "set": 241
+  "series" : {
+    "en" : "Bumblebee",
+    "ja" : "バンブルビー",
+    "ko" : "트랜스포머"
+  },
+  "set" : 241
 }

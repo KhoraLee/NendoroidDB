@@ -1,21 +1,21 @@
 {
-  "num": "1170",
-  "name": {
-    "ko": "어벤져/잔다르크[얼터] 신주쿠 Ver.",
-    "ja": "ねんどろいど アヴェンジャー/ジャンヌ・ダルク〔オルタ〕新宿Ver. (ねんどろいど あゔぇんじゃー/じゃんぬ・だるく〔おるた〕しんじゅくVer.)",
-    "en": "Nendoroid Avenger/Jeanne d\u0027Arc (Alter) Shinjuku Ver."
+  "gender" : "F",
+  "gsc_productNum" : 8555,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190717/8555/61946/large/76eacf69568986d8394f040a9dc497a4.jpg",
+  "name" : {
+    "en" : "Nendoroid Avenger/Jeanne d'Arc (Alter) Shinjuku Ver.",
+    "ja" : "ねんどろいど アヴェンジャー/ジャンヌ・ダルク〔オルタ〕新宿Ver. (ねんどろいど あゔぇんじゃー/じゃんぬ・だるく〔おるた〕しんじゅくVer.)",
+    "ko" : "어벤져/잔다르크[얼터] 신주쿠 Ver."
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 8555,
-  "price": 5000,
-  "release_date": [
+  "num" : "1170",
+  "price" : 5000,
+  "release_date" : [
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190717/8555/61946/large/76eacf69568986d8394f040a9dc497a4.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

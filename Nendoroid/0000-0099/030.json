@@ -1,21 +1,21 @@
 {
-  "num": "030",
-  "name": {
-    "ko": "야가미 라이토 산타 Ver.",
-    "ja": "ねんどろいど 夜神月 サンタVer. (やがみらいと　さんたばーじょん　ねんどろいど)",
-    "en": "Nendoroid Light Yagami : Santa Ver. (やがみらいと　さんたばーじょん　ねんどろいど)"
+  "gender" : "M",
+  "gsc_productNum" : 640,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/640/987/large/c23d85a2ab225cd91e95fdaadda64093.jpg",
+  "name" : {
+    "en" : "Nendoroid Light Yagami : Santa Ver. (やがみらいと　さんたばーじょん　ねんどろいど)",
+    "ja" : "ねんどろいど 夜神月 サンタVer. (やがみらいと　さんたばーじょん　ねんどろいど)",
+    "ko" : "야가미 라이토 산타 Ver."
   },
-  "series": {
-    "ko": "데스노트",
-    "ja": "DEATH NOTE",
-    "en": "DEATH NOTE"
-  },
-  "gsc_productNum": 640,
-  "price": 2619,
-  "release_date": [
+  "num" : "030",
+  "price" : 2619,
+  "release_date" : [
     "2007/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/640/987/large/c23d85a2ab225cd91e95fdaadda64093.jpg",
-  "gender": "M",
-  "set": 5
+  "series" : {
+    "en" : "DEATH NOTE",
+    "ja" : "DEATH NOTE",
+    "ko" : "데스노트"
+  },
+  "set" : 5
 }

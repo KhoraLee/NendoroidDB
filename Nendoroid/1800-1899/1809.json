@@ -1,21 +1,21 @@
 {
-  "num": "1809",
-  "name": {
-    "ko": "칸다 유우",
-    "ja": "ねんどろいど 神田ユウ (ねんどろいど かんだゆう)",
-    "en": "Nendoroid Yu Kanda"
+  "gender" : "F",
+  "gsc_productNum" : 12277,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220124/12277/94718/large/02ee4d97fcf200f080eb9cd892135a3a.jpg",
+  "name" : {
+    "en" : "Nendoroid Yu Kanda",
+    "ja" : "ねんどろいど 神田ユウ (ねんどろいど かんだゆう)",
+    "ko" : "칸다 유우"
   },
-  "series": {
-    "ko": "디그레이맨",
-    "ja": "D.Gray-man",
-    "en": "D.Gray-man"
-  },
-  "gsc_productNum": 12277,
-  "price": 5800,
-  "release_date": [
+  "num" : "1809",
+  "price" : 5800,
+  "release_date" : [
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220124/12277/94718/large/02ee4d97fcf200f080eb9cd892135a3a.jpg",
-  "gender": "F",
-  "set": 259
+  "series" : {
+    "en" : "D.Gray-man",
+    "ja" : "D.Gray-man",
+    "ko" : "디그레이맨"
+  },
+  "set" : 259
 }

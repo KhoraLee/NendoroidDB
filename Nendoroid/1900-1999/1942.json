@@ -1,21 +1,21 @@
 {
-  "num": "1942",
-  "name": {
-    "ja": "ねんどろいど ロディ・ソウル (ねんどろいど ろでぃ・そうる)",
-    "en": "Nendoroid Rody Soul",
-    "ko": "로디 소울"
+  "gender" : "M",
+  "gsc_productNum" : 13092,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220809/13092/102658/large/5af628e4b54c4394da6928fe6f18747a.jpg",
+  "name" : {
+    "en" : "Nendoroid Rody Soul",
+    "ja" : "ねんどろいど ロディ・ソウル (ねんどろいど ろでぃ・そうる)",
+    "ko" : "로디 소울"
   },
-  "series": {
-    "ja": "僕のヒーローアカデミア THE MOVIE WORLD HEROES\u0027 MISSION",
-    "en": "My Hero Academia: World Heroes\u0027 Mission",
-    "ko": "나의 히어로 아카데미아: 월드 히어로즈 미션"
-  },
-  "gsc_productNum": 13092,
-  "price": 7920,
-  "release_date": [
+  "num" : "1942",
+  "price" : 7920,
+  "release_date" : [
     "2023/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220809/13092/102658/large/5af628e4b54c4394da6928fe6f18747a.jpg",
-  "gender": "M",
-  "set": 146
+  "series" : {
+    "en" : "My Hero Academia: World Heroes' Mission",
+    "ja" : "僕のヒーローアカデミア THE MOVIE WORLD HEROES' MISSION",
+    "ko" : "나의 히어로 아카데미아: 월드 히어로즈 미션"
+  },
+  "set" : 146
 }

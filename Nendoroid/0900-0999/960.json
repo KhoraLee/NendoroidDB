@@ -1,20 +1,20 @@
 {
-  "num": "960",
-  "name": {
-    "ko": "킹",
-    "ja": "ねんどろいど キング (ねんどろいど きんぐ)",
-    "en": "Nendoroid King"
+  "gender" : "M",
+  "gsc_productNum" : 7405,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180703/7405/53009/large/112cfbc52e3231a141f7fee156ebc108.jpg",
+  "name" : {
+    "en" : "Nendoroid King",
+    "ja" : "ねんどろいど キング (ねんどろいど きんぐ)",
+    "ko" : "킹"
   },
-  "series": {
-    "ko": "일곱 개의 대죄",
-    "ja": "七つの大罪 戒めの復活",
-    "en": "The Seven Deadly Sins: Revival of The Commandments"
-  },
-  "gsc_productNum": 7405,
-  "price": 5093,
-  "release_date": [
+  "num" : "960",
+  "price" : 5093,
+  "release_date" : [
     "2019/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180703/7405/53009/large/112cfbc52e3231a141f7fee156ebc108.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "The Seven Deadly Sins: Revival of The Commandments",
+    "ja" : "七つの大罪 戒めの復活",
+    "ko" : "일곱 개의 대죄"
+  }
 }

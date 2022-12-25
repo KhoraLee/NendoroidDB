@@ -1,22 +1,22 @@
 {
-  "num": "945a",
-  "name": {
-    "ko": "다나카 류노스케",
-    "ja": "ねんどろいど 田中龍之介 (ねんどろいど たなかりゅうのすけ)",
-    "en": "Nendoroid Ryunosuke Tanaka"
+  "gender" : "M",
+  "gsc_productNum" : 7312,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180529/7312/52295/large/a341224cc7df9a755ed90f9e9eb98415.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryunosuke Tanaka",
+    "ja" : "ねんどろいど 田中龍之介 (ねんどろいど たなかりゅうのすけ)",
+    "ko" : "다나카 류노스케"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "Haikyu!!"
-  },
-  "gsc_productNum": 7312,
-  "price": 4584,
-  "release_date": [
+  "num" : "945a",
+  "price" : 4584,
+  "release_date" : [
     "2018/11",
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180529/7312/52295/large/a341224cc7df9a755ed90f9e9eb98415.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

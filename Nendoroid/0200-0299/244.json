@@ -1,21 +1,21 @@
 {
-  "num": "244",
-  "name": {
-    "ko": "타치바나 히비키",
-    "ja": "ねんどろいど 立花響 (ねんどろいど たちばなひびき)",
-    "en": "Nendoroid Hibiki Tachibana (ねんどろいど たちばなひびき)"
+  "gender" : "F",
+  "gsc_productNum" : 3531,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120423/3531/18183/large/e53efc5877a8dba86ef97a758a46a1c5.jpg",
+  "name" : {
+    "en" : "Nendoroid Hibiki Tachibana (ねんどろいど たちばなひびき)",
+    "ja" : "ねんどろいど 立花響 (ねんどろいど たちばなひびき)",
+    "ko" : "타치바나 히비키"
   },
-  "series": {
-    "ko": "전희절창 심포기어 시리즈",
-    "ja": "戦姫絶唱シンフォギア",
-    "en": "Senki Zesshou Symphogear"
-  },
-  "gsc_productNum": 3531,
-  "price": 3667,
-  "release_date": [
+  "num" : "244",
+  "price" : 3667,
+  "release_date" : [
     "2012/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120423/3531/18183/large/e53efc5877a8dba86ef97a758a46a1c5.jpg",
-  "gender": "F",
-  "set": 59
+  "series" : {
+    "en" : "Senki Zesshou Symphogear",
+    "ja" : "戦姫絶唱シンフォギア",
+    "ko" : "전희절창 심포기어 시리즈"
+  },
+  "set" : 59
 }

@@ -1,21 +1,21 @@
 {
-  "num": "918",
-  "name": {
-    "ko": "키노모토 사쿠라 토모에다 중학교 교복 Ver.",
-    "ja": "ねんどろいど 木之本桜 友枝中学校制服Ver. (ねんどろいど きのもとさくら ともえだちゅうがっこうせいふくVer.)",
-    "en": "Nendoroid Sakura Kinomoto: Tomoeda Junior High Uniform Ver."
+  "gender" : "F",
+  "gsc_productNum" : 7310,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180529/7310/52280/large/118a44c5420a53b0cc3212a188724e5a.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Kinomoto: Tomoeda Junior High Uniform Ver.",
+    "ja" : "ねんどろいど 木之本桜 友枝中学校制服Ver. (ねんどろいど きのもとさくら ともえだちゅうがっこうせいふくVer.)",
+    "ko" : "키노모토 사쿠라 토모에다 중학교 교복 Ver."
   },
-  "series": {
-    "ko": "카드캡터 사쿠라",
-    "ja": "カードキャプターさくら クリアカード編",
-    "en": "Cardcaptor Sakura: Clear Card"
-  },
-  "gsc_productNum": 7310,
-  "price": 4888,
-  "release_date": [
+  "num" : "918",
+  "price" : 4888,
+  "release_date" : [
     "2018/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180529/7310/52280/large/118a44c5420a53b0cc3212a188724e5a.jpg",
-  "gender": "F",
-  "set": 94
+  "series" : {
+    "en" : "Cardcaptor Sakura: Clear Card",
+    "ja" : "カードキャプターさくら クリアカード編",
+    "ko" : "카드캡터 사쿠라"
+  },
+  "set" : 94
 }

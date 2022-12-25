@@ -1,21 +1,21 @@
 {
-  "num": "060",
-  "name": {
-    "ko": "코코노에 린",
-    "ja": "ねんどろいど　九重りん (ここのえりん ねんどろいど)",
-    "en": "Nendoroid Rin Kokonoe (ここのえりん ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 2241,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2241/6197/large/75978efca13c5bc0240ffa104aa05edf.jpg",
+  "name" : {
+    "en" : "Nendoroid Rin Kokonoe (ここのえりん ねんどろいど)",
+    "ja" : "ねんどろいど　九重りん (ここのえりん ねんどろいど)",
+    "ko" : "코코노에 린"
   },
-  "series": {
-    "ko": "아이들의 시간",
-    "ja": "こどものじかん",
-    "en": "Kodomo no Jikan"
-  },
-  "gsc_productNum": 2241,
-  "price": 3667,
-  "release_date": [
+  "num" : "060",
+  "price" : 3667,
+  "release_date" : [
     "2009/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2241/6197/large/75978efca13c5bc0240ffa104aa05edf.jpg",
-  "gender": "F",
-  "set": 18
+  "series" : {
+    "en" : "Kodomo no Jikan",
+    "ja" : "こどものじかん",
+    "ko" : "아이들의 시간"
+  },
+  "set" : 18
 }

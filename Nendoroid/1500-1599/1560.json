@@ -1,22 +1,22 @@
 {
-  "num": "1560",
-  "name": {
-    "ko": "덴지",
-    "ja": "ねんどろいど デンジ (ねんどろいど でんじ)",
-    "en": "Nendoroid Denji"
+  "gender" : "M",
+  "gsc_productNum" : 10715,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210125/10715/80212/large/99279438d60f374b44088be70e3850c3.jpg",
+  "name" : {
+    "en" : "Nendoroid Denji",
+    "ja" : "ねんどろいど デンジ (ねんどろいど でんじ)",
+    "ko" : "덴지"
   },
-  "series": {
-    "ko": "체인소 맨",
-    "ja": "チェンソーマン",
-    "en": "Chainsaw Man"
-  },
-  "gsc_productNum": 10715,
-  "price": 6100,
-  "release_date": [
+  "num" : "1560",
+  "price" : 6100,
+  "release_date" : [
     "2021/10",
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210125/10715/80212/large/99279438d60f374b44088be70e3850c3.jpg",
-  "gender": "M",
-  "set": 255
+  "series" : {
+    "en" : "Chainsaw Man",
+    "ja" : "チェンソーマン",
+    "ko" : "체인소 맨"
+  },
+  "set" : 255
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1169",
-  "name": {
-    "ko": "액셀러레이터",
-    "ja": "ねんどろいど アクセラレータ (ねんどろいど あくせられーた)",
-    "en": "Nendoroid Accelerator"
+  "gender" : "M",
+  "gsc_productNum" : 8556,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190717/8556/61953/large/09d8cb32bbbebe50fa45a1744cbb962d.jpg",
+  "name" : {
+    "en" : "Nendoroid Accelerator",
+    "ja" : "ねんどろいど アクセラレータ (ねんどろいど あくせられーた)",
+    "ko" : "액셀러레이터"
   },
-  "series": {
-    "ko": "어떤 과학의 일방통행",
-    "ja": "とある科学の一方通行",
-    "en": "A Certain Scientific Accelerator"
-  },
-  "gsc_productNum": 8556,
-  "price": 5000,
-  "release_date": [
+  "num" : "1169",
+  "price" : 5000,
+  "release_date" : [
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190717/8556/61953/large/09d8cb32bbbebe50fa45a1744cbb962d.jpg",
-  "gender": "M",
-  "set": 84
+  "series" : {
+    "en" : "A Certain Scientific Accelerator",
+    "ja" : "とある科学の一方通行",
+    "ko" : "어떤 과학의 일방통행"
+  },
+  "set" : 84
 }

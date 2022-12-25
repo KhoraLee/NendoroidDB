@@ -1,20 +1,20 @@
 {
-  "num": "1190",
-  "name": {
-    "ko": "아쿠아맨 히어로즈 에디션",
-    "ja": "ねんどろいど アクアマン ヒーローズ・エディション (ねんどろいど あくあまん ひーろーず・えでぃしょん)",
-    "en": "Nendoroid Aquaman: Hero\u0027s Edition"
+  "gender" : "M",
+  "gsc_productNum" : 8656,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190806/8656/62662/large/765b91abcdb4b92f8ec4e2d38999c5f9.jpg",
+  "name" : {
+    "en" : "Nendoroid Aquaman: Hero's Edition",
+    "ja" : "ねんどろいど アクアマン ヒーローズ・エディション (ねんどろいど あくあまん ひーろーず・えでぃしょん)",
+    "ko" : "아쿠아맨 히어로즈 에디션"
   },
-  "series": {
-    "ko": "아쿠아맨",
-    "ja": "アクアマン",
-    "en": "Aquaman"
-  },
-  "gsc_productNum": 8656,
-  "price": 5500,
-  "release_date": [
+  "num" : "1190",
+  "price" : 5500,
+  "release_date" : [
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190806/8656/62662/large/765b91abcdb4b92f8ec4e2d38999c5f9.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Aquaman",
+    "ja" : "アクアマン",
+    "ko" : "아쿠아맨"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1773",
-  "name": {
-    "ko": "바니타스",
-    "ja": "ねんどろいど ヴァニタス (ねんどろいど ゔぁにたす)",
-    "en": "Nendoroid Vanitas"
+  "gender" : "M",
+  "gsc_productNum" : 12068,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211130/12068/92679/large/ba334dea66c4c73aeec40cedc4021534.jpg",
+  "name" : {
+    "en" : "Nendoroid Vanitas",
+    "ja" : "ねんどろいど ヴァニタス (ねんどろいど ゔぁにたす)",
+    "ko" : "바니타스"
   },
-  "series": {
-    "ko": "바니타스의 수기",
-    "ja": "ヴァニタスの手記",
-    "en": "The Case Study of Vanitas"
-  },
-  "gsc_productNum": 12068,
-  "price": 5900,
-  "release_date": [
+  "num" : "1773",
+  "price" : 5900,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211130/12068/92679/large/ba334dea66c4c73aeec40cedc4021534.jpg",
-  "gender": "M",
-  "set": 277
+  "series" : {
+    "en" : "The Case Study of Vanitas",
+    "ja" : "ヴァニタスの手記",
+    "ko" : "바니타스의 수기"
+  },
+  "set" : 277
 }

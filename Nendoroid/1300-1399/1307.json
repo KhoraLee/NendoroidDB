@@ -1,22 +1,22 @@
 {
-  "num": "1307",
-  "name": {
-    "ko": "유키노시타 유키노",
-    "ja": "ねんどろいど 雪ノ下雪乃 (ねんどろいど ゆきのしたゆきの)",
-    "en": "Nendoroid Yukino Yukinoshita"
+  "gender" : "F",
+  "gsc_productNum" : 9356,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200317/9356/68351/large/0bc9542fa5ca1466ed8a14b234834cb0.jpg",
+  "name" : {
+    "en" : "Nendoroid Yukino Yukinoshita",
+    "ja" : "ねんどろいど 雪ノ下雪乃 (ねんどろいど ゆきのしたゆきの)",
+    "ko" : "유키노시타 유키노"
   },
-  "series": {
-    "ko": "역시 내 청춘 러브코메디는 잘못됐다",
-    "ja": "やはり俺の青春ラブコメはまちがっている。完",
-    "en": "My Teen Romantic Comedy SNAFU Climax"
-  },
-  "gsc_productNum": 9356,
-  "price": 5300,
-  "release_date": [
+  "num" : "1307",
+  "price" : 5300,
+  "release_date" : [
     "2020/10",
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200317/9356/68351/large/0bc9542fa5ca1466ed8a14b234834cb0.jpg",
-  "gender": "F",
-  "set": 236
+  "series" : {
+    "en" : "My Teen Romantic Comedy SNAFU Climax",
+    "ja" : "やはり俺の青春ラブコメはまちがっている。完",
+    "ko" : "역시 내 청춘 러브코메디는 잘못됐다"
+  },
+  "set" : 236
 }

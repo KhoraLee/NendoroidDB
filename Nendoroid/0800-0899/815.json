@@ -1,21 +1,21 @@
 {
-  "num": "815",
-  "name": {
-    "ko": "랜서/잔 다르크 얼터 산타 릴리",
-    "ja": "ねんどろいど ランサー/ジャンヌ・ダルク・オルタ・サンタ・リリィ (ねんどろいど らんさー/じゃんぬ・だるく・おるた・さんた・りりぃ)",
-    "en": "Nendoroid Lancer/Jeanne d\u0027Arc Alter Santa Lily"
+  "gender" : "F",
+  "gsc_productNum" : 6642,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170808/6642/46990/large/01a3462d5dfe773c1def10fed426365a.jpg",
+  "name" : {
+    "en" : "Nendoroid Lancer/Jeanne d'Arc Alter Santa Lily",
+    "ja" : "ねんどろいど ランサー/ジャンヌ・ダルク・オルタ・サンタ・リリィ (ねんどろいど らんさー/じゃんぬ・だるく・おるた・さんた・りりぃ)",
+    "ko" : "랜서/잔 다르크 얼터 산타 릴리"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 6642,
-  "price": 4888,
-  "release_date": [
+  "num" : "815",
+  "price" : 4888,
+  "release_date" : [
     "2017/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170808/6642/46990/large/01a3462d5dfe773c1def10fed426365a.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

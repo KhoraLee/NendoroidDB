@@ -1,20 +1,20 @@
 {
-  "num": "420",
-  "name": {
-    "ko": "오자와 리나 \u0026 나메코",
-    "ja": "ねんどろいど 小沢里奈＆なめこ (ねんどろいど おざわりな＆なめこ)",
-    "en": "Nendoroid Mackenzie \u0026 Funghi (ねんどろいど おざわりな＆なめこ)"
+  "gender" : "F",
+  "gsc_productNum" : 4409,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140430/4409/28868/large/1b99a49b74e4a59a9bbf66b405bfe366.jpg",
+  "name" : {
+    "en" : "Nendoroid Mackenzie & Funghi (ねんどろいど おざわりな＆なめこ)",
+    "ja" : "ねんどろいど 小沢里奈＆なめこ (ねんどろいど おざわりな＆なめこ)",
+    "ko" : "오자와 리나 & 나메코"
   },
-  "series": {
-    "ko": "만져라 탐정",
-    "ja": "おさわり探偵 小沢里奈",
-    "en": "Touch Detective"
-  },
-  "gsc_productNum": 4409,
-  "price": 4074,
-  "release_date": [
+  "num" : "420",
+  "price" : 4074,
+  "release_date" : [
     "2014/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140430/4409/28868/large/1b99a49b74e4a59a9bbf66b405bfe366.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Touch Detective",
+    "ja" : "おさわり探偵 小沢里奈",
+    "ko" : "만져라 탐정"
+  }
 }

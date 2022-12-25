@@ -1,21 +1,21 @@
 {
-  "num": "1336",
-  "name": {
-    "ko": "드레이코 말포이 퀴디치 Ver.",
-    "ja": "ねんどろいど ドラコ・マルフォイ クィディッチ Ver. (ねんどろいど どらこ・まるふぉい くぃでぃっち Ver.)",
-    "en": "Nendoroid Draco Malfoy: Quidditch Ver."
+  "gender" : "M",
+  "gsc_productNum" : 9463,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200427/9463/69343/large/23af110c830507a05bfe5cbbb5f29965.jpg",
+  "name" : {
+    "en" : "Nendoroid Draco Malfoy: Quidditch Ver.",
+    "ja" : "ねんどろいど ドラコ・マルフォイ クィディッチ Ver. (ねんどろいど どらこ・まるふぉい くぃでぃっち Ver.)",
+    "ko" : "드레이코 말포이 퀴디치 Ver."
   },
-  "series": {
-    "ko": "해리포터 시리즈",
-    "ja": "ハリー・ポッター",
-    "en": "Harry Potter"
-  },
-  "gsc_productNum": 9463,
-  "price": 5000,
-  "release_date": [
+  "num" : "1336",
+  "price" : 5000,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200427/9463/69343/large/23af110c830507a05bfe5cbbb5f29965.jpg",
-  "gender": "M",
-  "set": 194
+  "series" : {
+    "en" : "Harry Potter",
+    "ja" : "ハリー・ポッター",
+    "ko" : "해리포터 시리즈"
+  },
+  "set" : 194
 }

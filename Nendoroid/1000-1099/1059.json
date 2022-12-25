@@ -1,21 +1,21 @@
 {
-  "num": "1059",
-  "name": {
-    "ko": "츠키노 미토",
-    "ja": "ねんどろいど 月ノ美兎 (ねんどろいど つきのみと)",
-    "en": "Nendoroid Tsukino Mito"
+  "gender" : "F",
+  "gsc_productNum" : 7906,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181214/7906/56757/large/19fb4837ad127bc9e83dcf1c26206b04.jpg",
+  "name" : {
+    "en" : "Nendoroid Tsukino Mito",
+    "ja" : "ねんどろいど 月ノ美兎 (ねんどろいど つきのみと)",
+    "ko" : "츠키노 미토"
   },
-  "series": {
-    "ko": "버츄얼 유튜버",
-    "ja": "月ノ美兎",
-    "en": "Tsukino Mito"
-  },
-  "gsc_productNum": 7906,
-  "price": 5297,
-  "release_date": [
+  "num" : "1059",
+  "price" : 5297,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181214/7906/56757/large/19fb4837ad127bc9e83dcf1c26206b04.jpg",
-  "gender": "F",
-  "set": 169
+  "series" : {
+    "en" : "Tsukino Mito",
+    "ja" : "月ノ美兎",
+    "ko" : "버츄얼 유튜버"
+  },
+  "set" : 169
 }

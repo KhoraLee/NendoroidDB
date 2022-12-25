@@ -1,21 +1,21 @@
 {
-  "num": "722",
-  "name": {
-    "ko": "아케미 호무라 하레기 Ver.",
-    "ja": "ねんどろいど 暁美ほむら 晴着Ver. (ねんどろいど あけみほむら はれぎVer.)",
-    "en": "Nendoroid Homura Akemi: Haregi Ver."
+  "gender" : "F",
+  "gsc_productNum" : 6175,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170113/6175/43188/large/090a6c0df4837d67bd800816a01302eb.jpg",
+  "name" : {
+    "en" : "Nendoroid Homura Akemi: Haregi Ver.",
+    "ja" : "ねんどろいど 暁美ほむら 晴着Ver. (ねんどろいど あけみほむら はれぎVer.)",
+    "ko" : "아케미 호무라 하레기 Ver."
   },
-  "series": {
-    "ko": "마법소녀 마도카 마기카",
-    "ja": "劇場版 魔法少女まどか☆マギカ",
-    "en": "Puella Magi Madoka Magica The Movie"
-  },
-  "gsc_productNum": 6175,
-  "price": 4584,
-  "release_date": [
+  "num" : "722",
+  "price" : 4584,
+  "release_date" : [
     "2017/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170113/6175/43188/large/090a6c0df4837d67bd800816a01302eb.jpg",
-  "gender": "F",
-  "set": 46
+  "series" : {
+    "en" : "Puella Magi Madoka Magica The Movie",
+    "ja" : "劇場版 魔法少女まどか☆マギカ",
+    "ko" : "마법소녀 마도카 마기카"
+  },
+  "set" : 46
 }

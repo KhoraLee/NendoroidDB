@@ -1,21 +1,21 @@
 {
-  "num": "1489",
-  "name": {
-    "ko": "러시아",
-    "ja": "ねんどろいど ロシア (ねんどろいど ろしあ)",
-    "en": "Nendoroid Russia"
+  "gender" : "M",
+  "gsc_productNum" : 10244,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201017/10244/75950/large/cfcf5e797b3f52c6808e8305feec7649.jpg",
+  "name" : {
+    "en" : "Nendoroid Russia",
+    "ja" : "ねんどろいど ロシア (ねんどろいど ろしあ)",
+    "ko" : "러시아"
   },
-  "series": {
-    "ko": "헤타리아",
-    "ja": "ヘタリア World★Stars",
-    "en": "Hetalia World★Stars"
-  },
-  "gsc_productNum": 10244,
-  "price": 4600,
-  "release_date": [
+  "num" : "1489",
+  "price" : 4600,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201017/10244/75950/large/cfcf5e797b3f52c6808e8305feec7649.jpg",
-  "gender": "M",
-  "set": 156
+  "series" : {
+    "en" : "Hetalia World★Stars",
+    "ja" : "ヘタリア World★Stars",
+    "ko" : "헤타리아"
+  },
+  "set" : 156
 }

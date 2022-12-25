@@ -1,21 +1,21 @@
 {
-  "num": "1702",
-  "name": {
-    "ko": "백설공주",
-    "ja": "ねんどろいど 白雪姫 (ねんどろいど しらゆきひめ)",
-    "en": "Nendoroid Snow White"
+  "gender" : "F",
+  "gsc_productNum" : 11672,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210819/11672/89161/large/234cd8a532cf15f1199533783bb4c61d.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow White",
+    "ja" : "ねんどろいど 白雪姫 (ねんどろいど しらゆきひめ)",
+    "ko" : "백설공주"
   },
-  "series": {
-    "ko": "백설공주와 일곱 난쟁이",
-    "ja": "白雪姫",
-    "en": "Snow White and the Seven Dwarfs"
-  },
-  "gsc_productNum": 11672,
-  "price": 6400,
-  "release_date": [
+  "num" : "1702",
+  "price" : 6400,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210819/11672/89161/large/234cd8a532cf15f1199533783bb4c61d.jpg",
-  "gender": "F",
-  "set": 32
+  "series" : {
+    "en" : "Snow White and the Seven Dwarfs",
+    "ja" : "白雪姫",
+    "ko" : "백설공주와 일곱 난쟁이"
+  },
+  "set" : 32
 }

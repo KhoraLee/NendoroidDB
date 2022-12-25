@@ -1,21 +1,21 @@
 {
-  "num": "382",
-  "name": {
-    "ko": "아스나 티타니아 Ver.",
-    "ja": "ねんどろいど アスナ ティターニアVer. (ねんどろいど あすな てぃたーにあVer.)",
-    "en": "Nendoroid Asuna: Titania Ver. (ねんどろいど あすな てぃたーにあVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 4233,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140219/4233/27968/large/b3bb44ca0dfa371d4b63a6f308b885e5.jpg",
+  "name" : {
+    "en" : "Nendoroid Asuna: Titania Ver. (ねんどろいど あすな てぃたーにあVer.)",
+    "ja" : "ねんどろいど アスナ ティターニアVer. (ねんどろいど あすな てぃたーにあVer.)",
+    "ko" : "아스나 티타니아 Ver."
   },
-  "series": {
-    "ko": "소드 아트 온라인",
-    "ja": "ソードアート・オンライン",
-    "en": "Sword Art Online"
-  },
-  "gsc_productNum": 4233,
-  "price": -1,
-  "release_date": [
+  "num" : "382",
+  "price" : -1,
+  "release_date" : [
     "2014/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140219/4233/27968/large/b3bb44ca0dfa371d4b63a6f308b885e5.jpg",
-  "gender": "F",
-  "set": 70
+  "series" : {
+    "en" : "Sword Art Online",
+    "ja" : "ソードアート・オンライン",
+    "ko" : "소드 아트 온라인"
+  },
+  "set" : 70
 }

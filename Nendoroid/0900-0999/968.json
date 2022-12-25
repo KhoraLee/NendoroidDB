@@ -1,20 +1,20 @@
 {
-  "num": "968",
-  "name": {
-    "ko": "타도코로 메구미",
-    "ja": "ねんどろいど 田所恵 (ねんどろいど たどころめぐみ)",
-    "en": "Nendoroid Megumi Tadokoro"
+  "gender" : "F",
+  "gsc_productNum" : 7467,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180724/7467/53408/large/696964eb75dd04093058a382e9e0aa74.jpg",
+  "name" : {
+    "en" : "Nendoroid Megumi Tadokoro",
+    "ja" : "ねんどろいど 田所恵 (ねんどろいど たどころめぐみ)",
+    "ko" : "타도코로 메구미"
   },
-  "series": {
-    "ko": "식극의 소마",
-    "ja": "食戟のソーマ 餐ノ皿",
-    "en": "Food Wars! Shokugeki no Soma: The Third Plate"
-  },
-  "gsc_productNum": 7467,
-  "price": 4584,
-  "release_date": [
+  "num" : "968",
+  "price" : 4584,
+  "release_date" : [
     "2019/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180724/7467/53408/large/696964eb75dd04093058a382e9e0aa74.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Food Wars! Shokugeki no Soma: The Third Plate",
+    "ja" : "食戟のソーマ 餐ノ皿",
+    "ko" : "식극의 소마"
+  }
 }

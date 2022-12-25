@@ -1,21 +1,21 @@
 {
-  "num": "1006",
-  "name": {
-    "ko": "코부치자와 시라세",
-    "ja": "ねんどろいど 小淵沢報瀬 (ねんどろいど こぶちざわしらせ)",
-    "en": "Nendoroid Shirase Kobuchizawa"
+  "gender" : "F",
+  "gsc_productNum" : 7630,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180921/7630/54693/large/15f6ea33a6f733b71f285a7ac75e66cf.jpg",
+  "name" : {
+    "en" : "Nendoroid Shirase Kobuchizawa",
+    "ja" : "ねんどろいど 小淵沢報瀬 (ねんどろいど こぶちざわしらせ)",
+    "ko" : "코부치자와 시라세"
   },
-  "series": {
-    "ko": "우주보다 먼 곳",
-    "ja": "宇宙よりも遠い場所",
-    "en": "A Place Further Than the Universe"
-  },
-  "gsc_productNum": 7630,
-  "price": 5297,
-  "release_date": [
+  "num" : "1006",
+  "price" : 5297,
+  "release_date" : [
     "2019/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180921/7630/54693/large/15f6ea33a6f733b71f285a7ac75e66cf.jpg",
-  "gender": "F",
-  "set": 196
+  "series" : {
+    "en" : "A Place Further Than the Universe",
+    "ja" : "宇宙よりも遠い場所",
+    "ko" : "우주보다 먼 곳"
+  },
+  "set" : 196
 }

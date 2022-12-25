@@ -1,20 +1,20 @@
 {
-  "num": "1211",
-  "name": {
-    "ko": "유에",
-    "ja": "ねんどろいど ユエ (ねんどろいど ゆえ)",
-    "en": "Nendoroid Yue"
+  "gender" : "F",
+  "gsc_productNum" : 8791,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190913/8791/63677/large/16f044022aacb02ab5955147bd708a0b.jpg",
+  "name" : {
+    "en" : "Nendoroid Yue",
+    "ja" : "ねんどろいど ユエ (ねんどろいど ゆえ)",
+    "ko" : "유에"
   },
-  "series": {
-    "ko": "흔해빠진 직업으로 세계최강",
-    "ja": "ありふれた職業で世界最強",
-    "en": "Arifureta: From Commonplace to World\u0027s Strongest"
-  },
-  "gsc_productNum": 8791,
-  "price": 4700,
-  "release_date": [
+  "num" : "1211",
+  "price" : 4700,
+  "release_date" : [
     "2020/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190913/8791/63677/large/16f044022aacb02ab5955147bd708a0b.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Arifureta: From Commonplace to World's Strongest",
+    "ja" : "ありふれた職業で世界最強",
+    "ko" : "흔해빠진 직업으로 세계최강"
+  }
 }

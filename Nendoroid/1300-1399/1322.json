@@ -1,21 +1,21 @@
 {
-  "num": "1322",
-  "name": {
-    "ko": "클리프",
-    "ja": "ねんどろいど クリフ (ねんどろいど くりふ)",
-    "en": "Nendoroid Cliff"
+  "gender" : "M",
+  "gsc_productNum" : 9442,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200422/9442/69155/large/360e1ad3e999b47d58ab6af7232a2991.jpg",
+  "name" : {
+    "en" : "Nendoroid Cliff",
+    "ja" : "ねんどろいど クリフ (ねんどろいど くりふ)",
+    "ko" : "클리프"
   },
-  "series": {
-    "ko": "데스 스트랜딩",
-    "ja": "デス・ストランディング",
-    "en": "DEATH STRANDING"
-  },
-  "gsc_productNum": 9442,
-  "price": 5200,
-  "release_date": [
+  "num" : "1322",
+  "price" : 5200,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200422/9442/69155/large/360e1ad3e999b47d58ab6af7232a2991.jpg",
-  "gender": "M",
-  "set": 232
+  "series" : {
+    "en" : "DEATH STRANDING",
+    "ja" : "デス・ストランディング",
+    "ko" : "데스 스트랜딩"
+  },
+  "set" : 232
 }

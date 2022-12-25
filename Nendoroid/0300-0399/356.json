@@ -1,21 +1,21 @@
 {
-  "num": "356",
-  "name": {
-    "ko": "에트나",
-    "ja": "ねんどろいど エトナ (ねんどろいど えとな)",
-    "en": "Nendoroid Etna (ねんどろいど えとな)"
+  "gender" : "F",
+  "gsc_productNum" : 4001,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130724/4001/25282/large/f394d4b836aeb9338de50cbb228663dd.jpg",
+  "name" : {
+    "en" : "Nendoroid Etna (ねんどろいど えとな)",
+    "ja" : "ねんどろいど エトナ (ねんどろいど えとな)",
+    "ko" : "에트나"
   },
-  "series": {
-    "ko": "마계전기 디스가이아",
-    "ja": "魔界戦記ディスガイア",
-    "en": "Disgaea"
-  },
-  "gsc_productNum": 4001,
-  "price": 3667,
-  "release_date": [
+  "num" : "356",
+  "price" : 3667,
+  "release_date" : [
     "2014/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130724/4001/25282/large/f394d4b836aeb9338de50cbb228663dd.jpg",
-  "gender": "F",
-  "set": 25
+  "series" : {
+    "en" : "Disgaea",
+    "ja" : "魔界戦記ディスガイア",
+    "ko" : "마계전기 디스가이아"
+  },
+  "set" : 25
 }

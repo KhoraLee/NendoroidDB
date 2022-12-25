@@ -1,21 +1,21 @@
 {
-  "num": "1116",
-  "name": {
-    "ko": "키즈나 아이 A.I.Games 2019 Ver.",
-    "ja": "ねんどろいど キズナアイ A.I.Games 2019Ver. (ねんどろいど きずなあい あいげーむす 2019Ver.)",
-    "en": "Nendoroid Kizuna AI: A.I.Games 2019 Ver."
+  "gender" : "F",
+  "gsc_productNum" : 8226,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190404/8226/59350/large/a0f9573019bffdd7753d1692319fb6b8.jpg",
+  "name" : {
+    "en" : "Nendoroid Kizuna AI: A.I.Games 2019 Ver.",
+    "ja" : "ねんどろいど キズナアイ A.I.Games 2019Ver. (ねんどろいど きずなあい あいげーむす 2019Ver.)",
+    "ko" : "키즈나 아이 A.I.Games 2019 Ver."
   },
-  "series": {
-    "ko": "버츄얼 유튜버",
-    "ja": "キズナアイ",
-    "en": "Kizuna AI"
-  },
-  "gsc_productNum": 8226,
-  "price": 4888,
-  "release_date": [
+  "num" : "1116",
+  "price" : 4888,
+  "release_date" : [
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190404/8226/59350/large/a0f9573019bffdd7753d1692319fb6b8.jpg",
-  "gender": "F",
-  "set": 169
+  "series" : {
+    "en" : "Kizuna AI",
+    "ja" : "キズナアイ",
+    "ko" : "버츄얼 유튜버"
+  },
+  "set" : 169
 }

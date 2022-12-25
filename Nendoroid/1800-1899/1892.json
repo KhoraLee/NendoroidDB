@@ -1,21 +1,21 @@
 {
-  "num": "1892",
-  "name": {
-    "ja": "ねんどろいど ザップ・レンフロ (ねんどろいど ざっぷ・れんふろ)",
-    "en": "Nendoroid Zapp Renfro",
-    "ko": "재프 렌프로"
+  "gender" : "M",
+  "gsc_productNum" : 12772,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220602/12772/99438/large/e536320e067ce46ccace540e091924a6.jpg",
+  "name" : {
+    "en" : "Nendoroid Zapp Renfro",
+    "ja" : "ねんどろいど ザップ・レンフロ (ねんどろいど ざっぷ・れんふろ)",
+    "ko" : "재프 렌프로"
   },
-  "series": {
-    "ja": "血界戦線＆BEYOND",
-    "en": "Blood Blockade Battlefront \u0026 Beyond",
-    "ko": "혈계전선"
-  },
-  "gsc_productNum": 12772,
-  "price": 7700,
-  "release_date": [
+  "num" : "1892",
+  "price" : 7700,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220602/12772/99438/large/e536320e067ce46ccace540e091924a6.jpg",
-  "gender": "M",
-  "set": 153
+  "series" : {
+    "en" : "Blood Blockade Battlefront & Beyond",
+    "ja" : "血界戦線＆BEYOND",
+    "ko" : "혈계전선"
+  },
+  "set" : 153
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1648",
-  "name": {
-    "ko": "타카나시 세이",
-    "ja": "ねんどろいど 小鳥遊 聖 (ねんどろいど たかなし せい)",
-    "en": "Nendoroid Sei Takanashi"
+  "gender" : "F",
+  "gsc_productNum" : 11242,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210521/11242/84983/large/c0a92478c99619deae1664610c31056f.jpg",
+  "name" : {
+    "en" : "Nendoroid Sei Takanashi",
+    "ja" : "ねんどろいど 小鳥遊 聖 (ねんどろいど たかなし せい)",
+    "ko" : "타카나시 세이"
   },
-  "series": {
-    "ko": "성녀의 마력은 만능입니다",
-    "ja": "聖女の魔力は万能です",
-    "en": "The Saint\u0027s Magic Power is Omnipotent"
-  },
-  "gsc_productNum": 11242,
-  "price": 6600,
-  "release_date": [
+  "num" : "1648",
+  "price" : 6600,
+  "release_date" : [
     "2022/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210521/11242/84983/large/c0a92478c99619deae1664610c31056f.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "The Saint's Magic Power is Omnipotent",
+    "ja" : "聖女の魔力は万能です",
+    "ko" : "성녀의 마력은 만능입니다"
+  }
 }

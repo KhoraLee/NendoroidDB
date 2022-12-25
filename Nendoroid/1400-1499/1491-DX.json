@@ -1,21 +1,21 @@
 {
-  "num": "1491-DX",
-  "name": {
-    "ko": "세이버/오키타 소지 영기재림 Ver.",
-    "ja": "ねんどろいど セイバー/沖田総司 霊基再臨Ver. (ねんどろいど せいばー/おきたそうじ れいきさいりんVer.)",
-    "en": "Nendoroid Saber/Okita Souji: Ascension Ver."
+  "gender" : "F",
+  "gsc_productNum" : 10283,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201022/10283/76249/large/b4440b748e52ac707fe38210a86fa5c3.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber/Okita Souji: Ascension Ver.",
+    "ja" : "ねんどろいど セイバー/沖田総司 霊基再臨Ver. (ねんどろいど せいばー/おきたそうじ れいきさいりんVer.)",
+    "ko" : "세이버/오키타 소지 영기재림 Ver."
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 10283,
-  "price": 5800,
-  "release_date": [
+  "num" : "1491-DX",
+  "price" : 5800,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201022/10283/76249/large/b4440b748e52ac707fe38210a86fa5c3.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

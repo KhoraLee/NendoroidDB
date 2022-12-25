@@ -1,21 +1,21 @@
 {
-  "num": "971",
-  "name": {
-    "ko": "피치트 츌라농",
-    "ja": "ねんどろいど ピチット・チュラノン (ねんどろいど ぴちっと・ちゅらのん)",
-    "en": "Nendoroid Phichit Chulanont"
+  "gender" : "M",
+  "gsc_productNum" : 7482,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180731/7482/53539/large/0ebc0ab3eacbcecdbe111f5ccc82c9b2.jpg",
+  "name" : {
+    "en" : "Nendoroid Phichit Chulanont",
+    "ja" : "ねんどろいど ピチット・チュラノン (ねんどろいど ぴちっと・ちゅらのん)",
+    "ko" : "피치트 츌라농"
   },
-  "series": {
-    "ko": "유리!!! on ICE",
-    "ja": "ユーリ!!! on ICE",
-    "en": "YURI ON ICE"
-  },
-  "gsc_productNum": 7482,
-  "price": 4584,
-  "release_date": [
+  "num" : "971",
+  "price" : 4584,
+  "release_date" : [
     "2019/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180731/7482/53539/large/0ebc0ab3eacbcecdbe111f5ccc82c9b2.jpg",
-  "gender": "M",
-  "set": 151
+  "series" : {
+    "en" : "YURI ON ICE",
+    "ja" : "ユーリ!!! on ICE",
+    "ko" : "유리!!! on ICE"
+  },
+  "set" : 151
 }

@@ -1,21 +1,21 @@
 {
-  "num": "289",
-  "name": {
-    "ko": "페이트 테스타로사 블레이즈 폼 에디션",
-    "ja": "ねんどろいど フェイト・テスタロッサ ブレイズフォーム・エディション (ねんどろいど ふぇいと・てすたろっさ ぶれいずふぉーむ・えでぃしょん)",
-    "en": "Nendoroid Fate Testarossa: Blaze Form Edition (ねんどろいど ふぇいと・てすたろっさ ぶれいずふぉーむ・えでぃしょん)"
+  "gender" : "F",
+  "gsc_productNum" : 3766,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121128/3766/21677/large/fbb88a01cf1efc4d140fce8eb2733140.jpg",
+  "name" : {
+    "en" : "Nendoroid Fate Testarossa: Blaze Form Edition (ねんどろいど ふぇいと・てすたろっさ ぶれいずふぉーむ・えでぃしょん)",
+    "ja" : "ねんどろいど フェイト・テスタロッサ ブレイズフォーム・エディション (ねんどろいど ふぇいと・てすたろっさ ぶれいずふぉーむ・えでぃしょん)",
+    "ko" : "페이트 테스타로사 블레이즈 폼 에디션"
   },
-  "series": {
-    "ko": "마법소녀 리리컬 나노하",
-    "ja": "魔法少女リリカルなのは The MOVIE 2nd A\u0027s",
-    "en": "Magical Girl Lyrical Nanoha The MOVIE 2nd A\u0027s"
-  },
-  "gsc_productNum": 3766,
-  "price": 4190,
-  "release_date": [
+  "num" : "289",
+  "price" : 4190,
+  "release_date" : [
     "2013/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121128/3766/21677/large/fbb88a01cf1efc4d140fce8eb2733140.jpg",
-  "gender": "F",
-  "set": 30
+  "series" : {
+    "en" : "Magical Girl Lyrical Nanoha The MOVIE 2nd A's",
+    "ja" : "魔法少女リリカルなのは The MOVIE 2nd A's",
+    "ko" : "마법소녀 리리컬 나노하"
+  },
+  "set" : 30
 }

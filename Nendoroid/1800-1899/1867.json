@@ -1,20 +1,20 @@
 {
-  "num": "1867",
-  "name": {
-    "ko": "아앙",
-    "ja": "ねんどろいど アン (ねんどろいど あん)",
-    "en": "Nendoroid Aang"
+  "gender" : "M",
+  "gsc_productNum" : 12581,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220418/12581/97643/large/2ade9dd91827d4652ce74a33c0333919.jpg",
+  "name" : {
+    "en" : "Nendoroid Aang",
+    "ja" : "ねんどろいど アン (ねんどろいど あん)",
+    "ko" : "아앙"
   },
-  "series": {
-    "ko": "아앙의 전설",
-    "ja": "アバター 伝説の少年アン",
-    "en": "Avatar: The Last Airbender"
-  },
-  "gsc_productNum": 12581,
-  "price": 6600,
-  "release_date": [
+  "num" : "1867",
+  "price" : 6600,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220418/12581/97643/large/2ade9dd91827d4652ce74a33c0333919.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Avatar: The Last Airbender",
+    "ja" : "アバター 伝説の少年アン",
+    "ko" : "아앙의 전설"
+  }
 }

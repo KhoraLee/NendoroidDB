@@ -1,20 +1,20 @@
 {
-  "num": "1926",
-  "name": {
-    "ja": "ねんどろいど スポンジ・ボブ (ねんどろいど すぽんじ・ぼぶ)",
-    "en": "Nendoroid SpongeBob SquarePants",
-    "ko": "네모바지 스폰지밥"
+  "gender" : "M",
+  "gsc_productNum" : 12988,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220715/12988/101666/large/267b95632da1a7856709ecbf93ca115f.jpg",
+  "name" : {
+    "en" : "Nendoroid SpongeBob SquarePants",
+    "ja" : "ねんどろいど スポンジ・ボブ (ねんどろいど すぽんじ・ぼぶ)",
+    "ko" : "네모바지 스폰지밥"
   },
-  "series": {
-    "ja": "スポンジ・ボブ",
-    "en": "SpongeBob SquarePants",
-    "ko": "네모바지 스폰지밥"
-  },
-  "gsc_productNum": 12988,
-  "price": 7200,
-  "release_date": [
+  "num" : "1926",
+  "price" : 7200,
+  "release_date" : [
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220715/12988/101666/large/267b95632da1a7856709ecbf93ca115f.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "SpongeBob SquarePants",
+    "ja" : "スポンジ・ボブ",
+    "ko" : "네모바지 스폰지밥"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1080",
-  "name": {
-    "ko": "군막소",
-    "ja": "ねんどろいど 君莫笑 (ねんどろいど じゅんもーしやお)",
-    "en": "Nendoroid Lord Grim"
+  "gender" : "M",
+  "gsc_productNum" : 8307,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190426/8307/60137/large/ba3c5716e6c389a20a927f66969c9620.jpg",
+  "name" : {
+    "en" : "Nendoroid Lord Grim",
+    "ja" : "ねんどろいど 君莫笑 (ねんどろいど じゅんもーしやお)",
+    "ko" : "군막소"
   },
-  "series": {
-    "ko": "전직고수",
-    "ja": "マスターオブスキル（全職高手）",
-    "en": "The King\u0027s Avatar"
-  },
-  "gsc_productNum": 8307,
-  "price": 5907,
-  "release_date": [
+  "num" : "1080",
+  "price" : 5907,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190426/8307/60137/large/ba3c5716e6c389a20a927f66969c9620.jpg",
-  "gender": "M",
-  "set": 184
+  "series" : {
+    "en" : "The King's Avatar",
+    "ja" : "マスターオブスキル（全職高手）",
+    "ko" : "전직고수"
+  },
+  "set" : 184
 }

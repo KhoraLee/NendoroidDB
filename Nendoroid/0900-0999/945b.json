@@ -1,21 +1,21 @@
 {
-  "num": "945b",
-  "name": {
-    "ko": "다나카 류노스케\u0026니시노야 유 확장 파트",
-    "ja": "ねんどろいど 田中龍之介＆西谷夕拡張パーツセット (ねんどろいど たなかりゅうのすけ＆にしのやゆうかくちょうぱーつせっと)",
-    "en": "Nendoroid Ryunosuke Tanaka \u0026 Yu Nishinoya Extra Parts Set"
+  "gender" : "M",
+  "gsc_productNum" : 7313,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180529/7313/52305/large/be6929ec99fb65a47065a11247b79bdc.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryunosuke Tanaka & Yu Nishinoya Extra Parts Set",
+    "ja" : "ねんどろいど 田中龍之介＆西谷夕拡張パーツセット (ねんどろいど たなかりゅうのすけ＆にしのやゆうかくちょうぱーつせっと)",
+    "ko" : "다나카 류노스케&니시노야 유 확장 파트"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "Haikyu!"
-  },
-  "gsc_productNum": 7313,
-  "price": 5297,
-  "release_date": [
+  "num" : "945b",
+  "price" : 5297,
+  "release_date" : [
     "2018/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180529/7313/52305/large/be6929ec99fb65a47065a11247b79bdc.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

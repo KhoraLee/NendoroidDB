@@ -1,21 +1,21 @@
 {
-  "num": "1863",
-  "name": {
-    "ko": "어둠의 바쿠라",
-    "ja": "ねんどろいど 闇バクラ (ねんどろいど やみばくら)",
-    "en": "Nendoroid Yami Bakura"
+  "gender" : "M",
+  "gsc_productNum" : 12270,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220124/12270/96580/large/8925b8c05c8bd705159f2c5c7092ee33.jpg",
+  "name" : {
+    "en" : "Nendoroid Yami Bakura",
+    "ja" : "ねんどろいど 闇バクラ (ねんどろいど やみばくら)",
+    "ko" : "어둠의 바쿠라"
   },
-  "series": {
-    "ko": "유희왕",
-    "ja": "遊☆戯☆王デュエルモンスターズ",
-    "en": "Yu-Gi-Oh!"
-  },
-  "gsc_productNum": 12270,
-  "price": 6200,
-  "release_date": [
+  "num" : "1863",
+  "price" : 6200,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220124/12270/96580/large/8925b8c05c8bd705159f2c5c7092ee33.jpg",
-  "gender": "M",
-  "set": 204
+  "series" : {
+    "en" : "Yu-Gi-Oh!",
+    "ja" : "遊☆戯☆王デュエルモンスターズ",
+    "ko" : "유희왕"
+  },
+  "set" : 204
 }

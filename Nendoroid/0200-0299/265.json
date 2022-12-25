@@ -1,20 +1,20 @@
 {
-  "num": "265",
-  "name": {
-    "ko": "쿄우노 마도카",
-    "ja": "ねんどろいど 京乃まどか (ねんどろいど きょうのまどか)",
-    "en": "Nendoroid Madoka Kyouno (ねんどろいど きょうのまどか)"
+  "gender" : "F",
+  "gsc_productNum" : 3611,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120719/3611/19488/large/27d02c978c2db19035e714906edb697c.jpg",
+  "name" : {
+    "en" : "Nendoroid Madoka Kyouno (ねんどろいど きょうのまどか)",
+    "ja" : "ねんどろいど 京乃まどか (ねんどろいど きょうのまどか)",
+    "ko" : "쿄우노 마도카"
   },
-  "series": {
-    "ko": "윤희의 라그랑제",
-    "ja": "輪廻のラグランジェ",
-    "en": "Rinne no Lagrange (Lagrange: The Flower of Rin-ne)"
-  },
-  "gsc_productNum": 3611,
-  "price": 3667,
-  "release_date": [
+  "num" : "265",
+  "price" : 3667,
+  "release_date" : [
     "2012/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120719/3611/19488/large/27d02c978c2db19035e714906edb697c.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Rinne no Lagrange (Lagrange: The Flower of Rin-ne)",
+    "ja" : "輪廻のラグランジェ",
+    "ko" : "윤희의 라그랑제"
+  }
 }

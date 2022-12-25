@@ -1,21 +1,21 @@
 {
-  "num": "901",
-  "name": {
-    "ko": "리나 인버스",
-    "ja": "ねんどろいど リナ\u003dインバース (ねんどろいど りな\u003dいんばーす)",
-    "en": "Nendoroid Lina\u003dInverse"
+  "gender" : "F",
+  "gsc_productNum" : 7124,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180316/7124/50790/large/b0e014aaf2f2c6af410b869979d6f23d.jpg",
+  "name" : {
+    "en" : "Nendoroid Lina=Inverse",
+    "ja" : "ねんどろいど リナ=インバース (ねんどろいど りな=いんばーす)",
+    "ko" : "리나 인버스"
   },
-  "series": {
-    "ko": "슬레이어즈",
-    "ja": "スレイヤーズ",
-    "en": "Slayers"
-  },
-  "gsc_productNum": 7124,
-  "price": 6009,
-  "release_date": [
+  "num" : "901",
+  "price" : 6009,
+  "release_date" : [
     "2018/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180316/7124/50790/large/b0e014aaf2f2c6af410b869979d6f23d.jpg",
-  "gender": "F",
-  "set": 171
+  "series" : {
+    "en" : "Slayers",
+    "ja" : "スレイヤーズ",
+    "ko" : "슬레이어즈"
+  },
+  "set" : 171
 }

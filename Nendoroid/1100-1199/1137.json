@@ -1,21 +1,21 @@
 {
-  "num": "1137",
-  "name": {
-    "ko": "세나 이즈미",
-    "ja": "ねんどろいど 瀬名泉 (ねんどろいど せないずみ)",
-    "en": "Nendoroid Izumi Sena"
+  "gender" : "M",
+  "gsc_productNum" : 8344,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190521/8344/60280/large/aa748ddebff7247133fe1ebf81bdc307.jpg",
+  "name" : {
+    "en" : "Nendoroid Izumi Sena",
+    "ja" : "ねんどろいど 瀬名泉 (ねんどろいど せないずみ)",
+    "ko" : "세나 이즈미"
   },
-  "series": {
-    "ko": "앙상블 스타즈!",
-    "ja": "あんさんぶるスターズ！",
-    "en": "Ensemble Stars!"
-  },
-  "gsc_productNum": 8344,
-  "price": 4700,
-  "release_date": [
+  "num" : "1137",
+  "price" : 4700,
+  "release_date" : [
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190521/8344/60280/large/aa748ddebff7247133fe1ebf81bdc307.jpg",
-  "gender": "M",
-  "set": 181
+  "series" : {
+    "en" : "Ensemble Stars!",
+    "ja" : "あんさんぶるスターズ！",
+    "ko" : "앙상블 스타즈!"
+  },
+  "set" : 181
 }

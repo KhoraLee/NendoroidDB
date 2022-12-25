@@ -1,21 +1,21 @@
 {
-  "num": "117",
-  "name": {
-    "ko": "시엘 팬텀하이브",
-    "ja": "ねんどろいど シエル・ファントムハイヴ (ねんどろいど しえる・ふぁんとむはいう゛)",
-    "en": "Nendoroid Ciel Phantomhive (ねんどろいど しえる・ふぁんとむはいう゛)"
+  "gender" : "M",
+  "gsc_productNum" : 2861,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100428/2861/10016/large/2a2997fe86dcf20271651e45e55f4c69.jpg",
+  "name" : {
+    "en" : "Nendoroid Ciel Phantomhive (ねんどろいど しえる・ふぁんとむはいう゛)",
+    "ja" : "ねんどろいど シエル・ファントムハイヴ (ねんどろいど しえる・ふぁんとむはいう゛)",
+    "ko" : "시엘 팬텀하이브"
   },
-  "series": {
-    "ko": "흑집사",
-    "ja": "黒執事",
-    "en": "Kuroshitsuji"
-  },
-  "gsc_productNum": 2861,
-  "price": 3667,
-  "release_date": [
+  "num" : "117",
+  "price" : 3667,
+  "release_date" : [
     "2010/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100428/2861/10016/large/2a2997fe86dcf20271651e45e55f4c69.jpg",
-  "gender": "M",
-  "set": 20
+  "series" : {
+    "en" : "Kuroshitsuji",
+    "ja" : "黒執事",
+    "ko" : "흑집사"
+  },
+  "set" : 20
 }

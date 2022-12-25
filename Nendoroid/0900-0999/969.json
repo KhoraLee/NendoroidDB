@@ -1,20 +1,20 @@
 {
-  "num": "969",
-  "name": {
-    "ko": "미야모 치오",
-    "ja": "ねんどろいど 三谷裳ちお (ねんどろいど みやもちお)",
-    "en": "Nendoroid Chio Miyamo"
+  "gender" : "F",
+  "gsc_productNum" : 7475,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180726/7475/53473/large/d74a50747835f7b508b58ac873244e23.jpg",
+  "name" : {
+    "en" : "Nendoroid Chio Miyamo",
+    "ja" : "ねんどろいど 三谷裳ちお (ねんどろいど みやもちお)",
+    "ko" : "미야모 치오"
   },
-  "series": {
-    "ko": "치오의 통학로",
-    "ja": "ちおちゃんの通学路",
-    "en": "Chio\u0027s School Road"
-  },
-  "gsc_productNum": 7475,
-  "price": 5297,
-  "release_date": [
+  "num" : "969",
+  "price" : 5297,
+  "release_date" : [
     "2019/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180726/7475/53473/large/d74a50747835f7b508b58ac873244e23.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Chio's School Road",
+    "ja" : "ちおちゃんの通学路",
+    "ko" : "치오의 통학로"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "302",
-  "name": {
-    "ko": "카가미네 렌 어펜드",
-    "ja": "ねんどろいど 鏡音レン・アペンド (ねんどろいど かがみねれん・あぺんど)",
-    "en": "Nendoroid Kagamine Len: Append (ねんどろいど かがみねれん・あぺんど)"
+  "gender" : "M",
+  "gsc_productNum" : 3810,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130107/3810/22250/large/c6d72fc6b2daa79ff1f456dabbad7cd2.jpg",
+  "name" : {
+    "en" : "Nendoroid Kagamine Len: Append (ねんどろいど かがみねれん・あぺんど)",
+    "ja" : "ねんどろいど 鏡音レン・アペンド (ねんどろいど かがみねれん・あぺんど)",
+    "ko" : "카가미네 렌 어펜드"
   },
-  "series": {
-    "ko": "보컬로이드(VOCALOID)",
-    "ja": "鏡音リン・レン・アペンド",
-    "en": "Kagamine Rin/Len: Append"
-  },
-  "gsc_productNum": 3810,
-  "price": 3667,
-  "release_date": [
+  "num" : "302",
+  "price" : 3667,
+  "release_date" : [
     "2013/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130107/3810/22250/large/c6d72fc6b2daa79ff1f456dabbad7cd2.jpg",
-  "gender": "M",
-  "set": 11
+  "series" : {
+    "en" : "Kagamine Rin/Len: Append",
+    "ja" : "鏡音リン・レン・アペンド",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 11
 }

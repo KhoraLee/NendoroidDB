@@ -1,23 +1,23 @@
 {
-  "num": "466",
-  "name": {
-    "ko": "토키사키 쿠루미",
-    "ja": "ねんどろいど 時崎狂三 (ねんどろいど ときさきくるみ)",
-    "en": "Nendoroid Kurumi Tokisaki (ねんどろいど ときさきくるみ)"
+  "gender" : "F",
+  "gsc_productNum" : 4694,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141021/4694/31009/large/0864c1db410e104bbe70bdb368eb1e02.jpg",
+  "name" : {
+    "en" : "Nendoroid Kurumi Tokisaki (ねんどろいど ときさきくるみ)",
+    "ja" : "ねんどろいど 時崎狂三 (ねんどろいど ときさきくるみ)",
+    "ko" : "토키사키 쿠루미"
   },
-  "series": {
-    "ko": "데이트 어 라이브",
-    "ja": "デート・ア・ライブⅡ",
-    "en": "Date A Live II"
-  },
-  "gsc_productNum": 4694,
-  "price": 4888,
-  "release_date": [
+  "num" : "466",
+  "price" : 4888,
+  "release_date" : [
     "2015/02",
     "2017/03",
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141021/4694/31009/large/0864c1db410e104bbe70bdb368eb1e02.jpg",
-  "gender": "F",
-  "set": 86
+  "series" : {
+    "en" : "Date A Live II",
+    "ja" : "デート・ア・ライブⅡ",
+    "ko" : "데이트 어 라이브"
+  },
+  "set" : 86
 }

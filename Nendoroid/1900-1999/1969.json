@@ -1,21 +1,21 @@
 {
-  "num": "1969",
-  "name": {
-    "ja": "ねんどろいど ミト (ねんどろいど みと)",
-    "en": "Nendoroid Mito",
-    "ko": "미토"
+  "gender" : "F",
+  "gsc_productNum" : 13282,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220921/13282/104685/large/1eac3347917eef981ac3e7c65f219d16.jpg",
+  "name" : {
+    "en" : "Nendoroid Mito",
+    "ja" : "ねんどろいど ミト (ねんどろいど みと)",
+    "ko" : "미토"
   },
-  "series": {
-    "ja": "劇場版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア",
-    "en": "Sword Art Online the Movie -Progressive- Aria of a Starless Night",
-    "ko": "소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아 -"
-  },
-  "gsc_productNum": 13282,
-  "price": 6600,
-  "release_date": [
+  "num" : "1969",
+  "price" : 6600,
+  "release_date" : [
     "2023/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220921/13282/104685/large/1eac3347917eef981ac3e7c65f219d16.jpg",
-  "gender": "F",
-  "set": 70
+  "series" : {
+    "en" : "Sword Art Online the Movie -Progressive- Aria of a Starless Night",
+    "ja" : "劇場版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア",
+    "ko" : "소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아 -"
+  },
+  "set" : 70
 }

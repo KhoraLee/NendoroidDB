@@ -1,21 +1,21 @@
 {
-  "num": "335",
-  "name": {
-    "ko": "센조가하라 히타기",
-    "ja": "ねんどろいど 戦場ヶ原ひたぎ (ねんどろいど せんじょうがはらひたぎ)",
-    "en": "Nendoroid Hitagi Senjyogahara (ねんどろいど せんじょうがはらひたぎ)"
+  "gender" : "F",
+  "gsc_productNum" : 3908,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130514/3908/23797/large/514304efa074a0c6e2021c99eb097fd0.jpg",
+  "name" : {
+    "en" : "Nendoroid Hitagi Senjyogahara (ねんどろいど せんじょうがはらひたぎ)",
+    "ja" : "ねんどろいど 戦場ヶ原ひたぎ (ねんどろいど せんじょうがはらひたぎ)",
+    "ko" : "센조가하라 히타기"
   },
-  "series": {
-    "ko": "모노가타리 시리즈",
-    "ja": "化物語",
-    "en": "Bakemonogatari"
-  },
-  "gsc_productNum": 3908,
-  "price": 6270,
-  "release_date": [
+  "num" : "335",
+  "price" : 6270,
+  "release_date" : [
     "2013/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130514/3908/23797/large/514304efa074a0c6e2021c99eb097fd0.jpg",
-  "gender": "F",
-  "set": 83
+  "series" : {
+    "en" : "Bakemonogatari",
+    "ja" : "化物語",
+    "ko" : "모노가타리 시리즈"
+  },
+  "set" : 83
 }

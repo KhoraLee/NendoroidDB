@@ -1,21 +1,21 @@
 {
-  "num": "245b",
-  "name": {
-    "ko": "안네로테 광기사 Ver.",
-    "ja": "ねんどろいど アンネロッテ 狂騎士Ver. (ねんどろいど あんねろって きょうきしVer.)",
-    "en": "Nendoroid Annelotte : Dark Knight Ver. (ねんどろいど あんねろって きょうきしVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3559,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120524/3559/18565/large/5fceabb024710d028c8edbec0f0640e8.jpg",
+  "name" : {
+    "en" : "Nendoroid Annelotte : Dark Knight Ver. (ねんどろいど あんねろって きょうきしVer.)",
+    "ja" : "ねんどろいど アンネロッテ 狂騎士Ver. (ねんどろいど あんねろって きょうきしVer.)",
+    "ko" : "안네로테 광기사 Ver."
   },
-  "series": {
-    "ko": "퀸즈 블레이드 리벨리온",
-    "ja": "クイーンズブレイド リベリオン",
-    "en": "Queen\u0027s Blade Rebellion"
-  },
-  "gsc_productNum": 3559,
-  "price": 3667,
-  "release_date": [
+  "num" : "245b",
+  "price" : 3667,
+  "release_date" : [
     "2012/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120524/3559/18565/large/5fceabb024710d028c8edbec0f0640e8.jpg",
-  "gender": "F",
-  "set": 35
+  "series" : {
+    "en" : "Queen's Blade Rebellion",
+    "ja" : "クイーンズブレイド リベリオン",
+    "ko" : "퀸즈 블레이드 리벨리온"
+  },
+  "set" : 35
 }

@@ -1,21 +1,21 @@
 {
-  "num": "001",
-  "name": {
-    "ko": "네코 알퀘이드 - 환장! 수수께끼의 제트 비행 편",
-    "ja": "ねんどろいど ネコアルク 「換装！謎のジェット飛行」編 (ねこあるく　ねんどろいど 「かんそう！なぞのじぇっとひこう」へん)",
-    "en": "Nendoroid Neko Arc : Convert! Mysterious Jet Flight Edition (ねこあるく　ねんどろいど 「かんそう！などのじぇっとひこう」へん)"
+  "gender" : "F",
+  "gsc_productNum" : 448,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/448/497/large/da9642c61d57c8a2f9622c682ca8ab95.jpg",
+  "name" : {
+    "en" : "Nendoroid Neko Arc : Convert! Mysterious Jet Flight Edition (ねこあるく　ねんどろいど 「かんそう！などのじぇっとひこう」へん)",
+    "ja" : "ねんどろいど ネコアルク 「換装！謎のジェット飛行」編 (ねこあるく　ねんどろいど 「かんそう！なぞのじぇっとひこう」へん)",
+    "ko" : "네코 알퀘이드 - 환장! 수수께끼의 제트 비행 편"
   },
-  "series": {
-    "ko": "월희",
-    "ja": "ネコアルク",
-    "en": "Neko Arc"
-  },
-  "gsc_productNum": 448,
-  "price": 3143,
-  "release_date": [
+  "num" : "001",
+  "price" : 3143,
+  "release_date" : [
     "2007/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/448/497/large/da9642c61d57c8a2f9622c682ca8ab95.jpg",
-  "gender": "F",
-  "set": 1
+  "series" : {
+    "en" : "Neko Arc",
+    "ja" : "ネコアルク",
+    "ko" : "월희"
+  },
+  "set" : 1
 }

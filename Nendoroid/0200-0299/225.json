@@ -1,21 +1,21 @@
 {
-  "num": "225",
-  "name": {
-    "ko": "세이버 넨도로이드 컴플리트 파일 에디션",
-    "ja": "ねんどろいど セイバー ねんどろいどコンプリートファイル・エディション (ねんどろいど せいばー ねんどろいどこんぷりーとふぁいる・えでぃしょん)",
-    "en": "Nendoroid Saber : Nendoroid Complete File Edition (ねんどろいど せいばー ねんどろいどこんぷりーとふぁいる・えでぃしょん)"
+  "gender" : "F",
+  "gsc_productNum" : 3494,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120309/3494/17683/large/83cd208efedbbcd2d9d2327756adec22.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber : Nendoroid Complete File Edition (ねんどろいど せいばー ねんどろいどこんぷりーとふぁいる・えでぃしょん)",
+    "ja" : "ねんどろいど セイバー ねんどろいどコンプリートファイル・エディション (ねんどろいど せいばー ねんどろいどこんぷりーとふぁいる・えでぃしょん)",
+    "ko" : "세이버 넨도로이드 컴플리트 파일 에디션"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/stay night",
-    "en": "Fate/stay night"
-  },
-  "gsc_productNum": 3494,
-  "price": 5238,
-  "release_date": [
+  "num" : "225",
+  "price" : 5238,
+  "release_date" : [
     "2012/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120309/3494/17683/large/83cd208efedbbcd2d9d2327756adec22.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/stay night",
+    "ja" : "Fate/stay night",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

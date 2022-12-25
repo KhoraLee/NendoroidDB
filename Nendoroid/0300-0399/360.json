@@ -1,20 +1,20 @@
 {
-  "num": "360",
-  "name": {
-    "ko": "초대형 거인\u0026진격의 플레이 세트",
-    "ja": "ねんどろいど 超大型巨人 \u0026 進撃のプレイセット (ねんどろいど ちょうおおがたきょじん \u0026 しんげきのぷれいせっと)",
-    "en": "Nendoroid Colossus Titan \u0026 Attack Playset (ねんどろいど ちょうおおがたきょじん \u0026 しんげきのぷれいせっと)"
+  "gsc_productNum" : 4010,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130726/4010/25439/large/1fdc2e635166a38129ff6fd83a3c067a.jpg",
+  "name" : {
+    "en" : "Nendoroid Colossus Titan & Attack Playset (ねんどろいど ちょうおおがたきょじん & しんげきのぷれいせっと)",
+    "ja" : "ねんどろいど 超大型巨人 & 進撃のプレイセット (ねんどろいど ちょうおおがたきょじん & しんげきのぷれいせっと)",
+    "ko" : "초대형 거인&진격의 플레이 세트"
   },
-  "series": {
-    "ko": "진격의 거인",
-    "ja": "進撃の巨人",
-    "en": "Attack on Titan"
-  },
-  "gsc_productNum": 4010,
-  "price": 5029,
-  "release_date": [
+  "num" : "360",
+  "price" : 5029,
+  "release_date" : [
     "2013/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130726/4010/25439/large/1fdc2e635166a38129ff6fd83a3c067a.jpg",
-  "set": 87
+  "series" : {
+    "en" : "Attack on Titan",
+    "ja" : "進撃の巨人",
+    "ko" : "진격의 거인"
+  },
+  "set" : 87
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1484",
-  "name": {
-    "ko": "하나조노 타에 스테이지 의상 Ver.",
-    "ja": "ねんどろいど 花園たえ ステージ衣装Ver. (ねんどろいど はなぞのたえ すてーじいしょうVer.)",
-    "en": "Nendoroid Tae Hanazono: Stage Outfit Ver."
+  "gender" : "F",
+  "gsc_productNum" : 10195,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201007/10195/75958/large/2339ed2119a6a3cf13b9d98451d1d067.jpg",
+  "name" : {
+    "en" : "Nendoroid Tae Hanazono: Stage Outfit Ver.",
+    "ja" : "ねんどろいど 花園たえ ステージ衣装Ver. (ねんどろいど はなぞのたえ すてーじいしょうVer.)",
+    "ko" : "하나조노 타에 스테이지 의상 Ver."
   },
-  "series": {
-    "ko": "BanG Dream!",
-    "ja": "バンドリ！ ガールズバンドパーティ！",
-    "en": "BanG Dream! Girls Band Party!"
-  },
-  "gsc_productNum": 10195,
-  "price": 5300,
-  "release_date": [
+  "num" : "1484",
+  "price" : 5300,
+  "release_date" : [
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201007/10195/75958/large/2339ed2119a6a3cf13b9d98451d1d067.jpg",
-  "gender": "F",
-  "set": 152
+  "series" : {
+    "en" : "BanG Dream! Girls Band Party!",
+    "ja" : "バンドリ！ ガールズバンドパーティ！",
+    "ko" : "BanG Dream!"
+  },
+  "set" : 152
 }

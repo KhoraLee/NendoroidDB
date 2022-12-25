@@ -1,21 +1,21 @@
 {
-  "num": "752",
-  "name": {
-    "ko": "서벌",
-    "ja": "ねんどろいど サーバル (ねんどろいど さーばる)",
-    "en": "Nendoroid Serval"
+  "gender" : "F",
+  "gsc_productNum" : 6339,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170324/6339/44517/large/08b4204b50032ed2c0f444c77d6ed511.jpg",
+  "name" : {
+    "en" : "Nendoroid Serval",
+    "ja" : "ねんどろいど サーバル (ねんどろいど さーばる)",
+    "ko" : "서벌"
   },
-  "series": {
-    "ko": "케모노 프렌즈",
-    "ja": "けものフレンズ",
-    "en": "Kemono Friends"
-  },
-  "gsc_productNum": 6339,
-  "price": 4584,
-  "release_date": [
+  "num" : "752",
+  "price" : 4584,
+  "release_date" : [
     "2017/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170324/6339/44517/large/08b4204b50032ed2c0f444c77d6ed511.jpg",
-  "gender": "F",
-  "set": 155
+  "series" : {
+    "en" : "Kemono Friends",
+    "ja" : "けものフレンズ",
+    "ko" : "케모노 프렌즈"
+  },
+  "set" : 155
 }

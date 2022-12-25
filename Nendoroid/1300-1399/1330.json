@@ -1,21 +1,21 @@
 {
-  "num": "1330",
-  "name": {
-    "ko": "루나 러브굿",
-    "ja": "ねんどろいど ルーナ・ラブグッド (ねんどろいど るーな・らぶぐっど)",
-    "en": "Nendoroid Luna Lovegood"
+  "gender" : "F",
+  "gsc_productNum" : 9679,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200624/9679/71207/large/a8c8e708c02276132750416a1328f376.jpg",
+  "name" : {
+    "en" : "Nendoroid Luna Lovegood",
+    "ja" : "ねんどろいど ルーナ・ラブグッド (ねんどろいど るーな・らぶぐっど)",
+    "ko" : "루나 러브굿"
   },
-  "series": {
-    "ko": "해리포터 시리즈",
-    "ja": "ハリー・ポッター",
-    "en": "Harry Potter"
-  },
-  "gsc_productNum": 9679,
-  "price": 4500,
-  "release_date": [
+  "num" : "1330",
+  "price" : 4500,
+  "release_date" : [
     "2020/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200624/9679/71207/large/a8c8e708c02276132750416a1328f376.jpg",
-  "gender": "F",
-  "set": 194
+  "series" : {
+    "en" : "Harry Potter",
+    "ja" : "ハリー・ポッター",
+    "ko" : "해리포터 시리즈"
+  },
+  "set" : 194
 }

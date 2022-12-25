@@ -1,21 +1,21 @@
 {
-  "num": "781",
-  "name": {
-    "ko": "스파이더맨 홈커밍 에디션",
-    "ja": "ねんどろいど スパイダーマン ホームカミング・エディション (ねんどろいど すぱいだーまん ほーむかみんぐ・えでぃしょん)",
-    "en": "Nendoroid Spider-Man: Homecoming Edition"
+  "gender" : "M",
+  "gsc_productNum" : 6486,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170606/6486/45787/large/2d3e717e6c988e6e0473a6e7be4ab47e.jpg",
+  "name" : {
+    "en" : "Nendoroid Spider-Man: Homecoming Edition",
+    "ja" : "ねんどろいど スパイダーマン ホームカミング・エディション (ねんどろいど すぱいだーまん ほーむかみんぐ・えでぃしょん)",
+    "ko" : "스파이더맨 홈커밍 에디션"
   },
-  "series": {
-    "ko": "스파이더맨 홈커밍",
-    "ja": "スパイダーマン:ホームカミング",
-    "en": "Spider-Man: Homecoming"
-  },
-  "gsc_productNum": 6486,
-  "price": 4991,
-  "release_date": [
+  "num" : "781",
+  "price" : 4991,
+  "release_date" : [
     "2017/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170606/6486/45787/large/2d3e717e6c988e6e0473a6e7be4ab47e.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Spider-Man: Homecoming",
+    "ja" : "スパイダーマン:ホームカミング",
+    "ko" : "스파이더맨 홈커밍"
+  },
+  "set" : 63
 }

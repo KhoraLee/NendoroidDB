@@ -1,21 +1,21 @@
 {
-  "num": "292",
-  "name": {
-    "ko": "데드 마스터 TV ANIMATION Ver.",
-    "ja": "ねんどろいど デッドマスター TV ANIMATION Ver. (ねんどろいど でっどますたー てれびあにめーしょん Ver.)",
-    "en": "Nendoroid Dead Master: TV ANIMATION Ver. (ねんどろいど でっどますたー てれびあにめーしょん Ver.)"
+  "gender" : "F",
+  "gsc_productNum" : 3758,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121119/3758/21530/large/364c064507a9be5deac3970fcb37dcf3.jpg",
+  "name" : {
+    "en" : "Nendoroid Dead Master: TV ANIMATION Ver. (ねんどろいど でっどますたー てれびあにめーしょん Ver.)",
+    "ja" : "ねんどろいど デッドマスター TV ANIMATION Ver. (ねんどろいど でっどますたー てれびあにめーしょん Ver.)",
+    "ko" : "데드 마스터 TV ANIMATION Ver."
   },
-  "series": {
-    "ko": "BLACK★ROCK SHOOTER",
-    "ja": "TV ANIMATION BLACK ROCK SHOOTER",
-    "en": "TV ANIMATION BLACK ROCK SHOOTER"
-  },
-  "gsc_productNum": 3758,
-  "price": 4714,
-  "release_date": [
+  "num" : "292",
+  "price" : 4714,
+  "release_date" : [
     "2013/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121119/3758/21530/large/364c064507a9be5deac3970fcb37dcf3.jpg",
-  "gender": "F",
-  "set": 33
+  "series" : {
+    "en" : "TV ANIMATION BLACK ROCK SHOOTER",
+    "ja" : "TV ANIMATION BLACK ROCK SHOOTER",
+    "ko" : "BLACK★ROCK SHOOTER"
+  },
+  "set" : 33
 }

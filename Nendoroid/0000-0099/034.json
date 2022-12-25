@@ -1,19 +1,19 @@
 {
-  "num": "034",
-  "name": {
-    "ko": "럭키스타☆Fate 코스프레 세트",
-    "ja": "ねんどろいど らき☆すた Fateコスプレセット (らき☆すた ふぇいとこすぷれせっと)"
+  "gender" : "F",
+  "gsc_productNum" : 3414,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111209/3414/16521/large/77fbea55ad736c4c5089d780f34f5098.jpg",
+  "name" : {
+    "ja" : "ねんどろいど らき☆すた Fateコスプレセット (らき☆すた ふぇいとこすぷれせっと)",
+    "ko" : "럭키스타☆Fate 코스프레 세트"
   },
-  "series": {
-    "ko": "럭키스타",
-    "ja": "ＴＶアニメ らき☆すた"
-  },
-  "gsc_productNum": 3414,
-  "price": 5238,
-  "release_date": [
+  "num" : "034",
+  "price" : 5238,
+  "release_date" : [
     "2008/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111209/3414/16521/large/77fbea55ad736c4c5089d780f34f5098.jpg",
-  "gender": "F",
-  "set": 9
+  "series" : {
+    "ja" : "ＴＶアニメ らき☆すた",
+    "ko" : "럭키스타"
+  },
+  "set" : 9
 }

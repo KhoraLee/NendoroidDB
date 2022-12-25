@@ -1,20 +1,20 @@
 {
-  "num": "1676",
-  "name": {
-    "ko": "로자 린",
-    "ja": "ねんどろいど ロザリン (ねんどろいど ろざりん)",
-    "en": "Nendoroid Rosaline"
+  "gender" : "F",
+  "gsc_productNum" : 11466,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210712/11466/87130/large/7476851024395be1bfcda669d1ada39b.jpg",
+  "name" : {
+    "en" : "Nendoroid Rosaline",
+    "ja" : "ねんどろいど ロザリン (ねんどろいど ろざりん)",
+    "ko" : "로자 린"
   },
-  "series": {
-    "ko": "AFK 아레나",
-    "ja": "AFK アリーナ",
-    "en": "AFK Arena"
-  },
-  "gsc_productNum": 11466,
-  "price": 7400,
-  "release_date": [
+  "num" : "1676",
+  "price" : 7400,
+  "release_date" : [
     "2022/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210712/11466/87130/large/7476851024395be1bfcda669d1ada39b.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "AFK Arena",
+    "ja" : "AFK アリーナ",
+    "ko" : "AFK 아레나"
+  }
 }

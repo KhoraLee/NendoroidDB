@@ -1,21 +1,21 @@
 {
-  "num": "894",
-  "name": {
-    "ko": "야마다 엘프",
-    "ja": "ねんどろいど 山田エルフ (ねんどろいど やまだえるふ)",
-    "en": "Nendoroid Elf Yamada"
+  "gender" : "F",
+  "gsc_productNum" : 7177,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180403/7177/51188/large/0a5f59ee1d0be7aefe8f24fc7a11e0ba.jpg",
+  "name" : {
+    "en" : "Nendoroid Elf Yamada",
+    "ja" : "ねんどろいど 山田エルフ (ねんどろいど やまだえるふ)",
+    "ko" : "야마다 엘프"
   },
-  "series": {
-    "ko": "에로망가 선생",
-    "ja": "エロマンガ先生",
-    "en": "Eromanga Sensei"
-  },
-  "gsc_productNum": 7177,
-  "price": 4888,
-  "release_date": [
+  "num" : "894",
+  "price" : 4888,
+  "release_date" : [
     "2018/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180403/7177/51188/large/0a5f59ee1d0be7aefe8f24fc7a11e0ba.jpg",
-  "gender": "F",
-  "set": 157
+  "series" : {
+    "en" : "Eromanga Sensei",
+    "ja" : "エロマンガ先生",
+    "ko" : "에로망가 선생"
+  },
+  "set" : 157
 }

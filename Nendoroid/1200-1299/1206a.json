@@ -1,21 +1,21 @@
 {
-  "num": "1206a",
-  "name": {
-    "ko": "Special set 빨간두건과 뱀파이어",
-    "ja": "ねんどろいど 純情ロマンチカ Special set 赤ずきんとヴァンパイア (ねんどろいど じゅんじょうろまんちか すぺしゃる せっと あかずきんとゔぁんぱいあ)",
-    "en": "Nendoroid Junjo Romantica Special Set: Little Red Riding Hood and Vampire"
+  "gender" : "M",
+  "gsc_productNum" : 8803,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190918/8803/63726/large/631a17ef2bdcbc4a8c31050ca977cd16.jpg",
+  "name" : {
+    "en" : "Nendoroid Junjo Romantica Special Set: Little Red Riding Hood and Vampire",
+    "ja" : "ねんどろいど 純情ロマンチカ Special set 赤ずきんとヴァンパイア (ねんどろいど じゅんじょうろまんちか すぺしゃる せっと あかずきんとゔぁんぱいあ)",
+    "ko" : "Special set 빨간두건과 뱀파이어"
   },
-  "series": {
-    "ko": "순정 로맨티카",
-    "ja": "純情ロマンチカ",
-    "en": "Junjo Romantica"
-  },
-  "gsc_productNum": 8803,
-  "price": 13200,
-  "release_date": [
+  "num" : "1206a",
+  "price" : 13200,
+  "release_date" : [
     "2020/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190918/8803/63726/large/631a17ef2bdcbc4a8c31050ca977cd16.jpg",
-  "gender": "M",
-  "set": 224
+  "series" : {
+    "en" : "Junjo Romantica",
+    "ja" : "純情ロマンチカ",
+    "ko" : "순정 로맨티카"
+  },
+  "set" : 224
 }

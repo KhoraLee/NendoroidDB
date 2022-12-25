@@ -1,21 +1,21 @@
 {
-  "num": "285",
-  "name": {
-    "ko": "얼티밋 마도카",
-    "ja": "ねんどろいど アルティメットまどか (ねんどろいど あるてぃめっとまどか)",
-    "en": "Nendoroid Ultimate Madoka (ねんどろいど あるてぃめっとまどか)"
+  "gender" : "F",
+  "gsc_productNum" : 3712,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121015/3712/20889/large/32937392c322bc7d62aec75116d016f6.jpg",
+  "name" : {
+    "en" : "Nendoroid Ultimate Madoka (ねんどろいど あるてぃめっとまどか)",
+    "ja" : "ねんどろいど アルティメットまどか (ねんどろいど あるてぃめっとまどか)",
+    "ko" : "얼티밋 마도카"
   },
-  "series": {
-    "ko": "마법소녀 마도카 마기카",
-    "ja": "魔法少女まどか☆マギカ",
-    "en": "Puella Magi Madoka Magica"
-  },
-  "gsc_productNum": 3712,
-  "price": 3667,
-  "release_date": [
+  "num" : "285",
+  "price" : 3667,
+  "release_date" : [
     "2013/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121015/3712/20889/large/32937392c322bc7d62aec75116d016f6.jpg",
-  "gender": "F",
-  "set": 46
+  "series" : {
+    "en" : "Puella Magi Madoka Magica",
+    "ja" : "魔法少女まどか☆マギカ",
+    "ko" : "마법소녀 마도카 마기카"
+  },
+  "set" : 46
 }

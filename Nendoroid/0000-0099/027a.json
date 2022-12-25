@@ -1,19 +1,19 @@
 {
-  "num": "027a",
-  "name": {
-    "ko": "이즈미 코나타 콤프틱 Ver.",
-    "ja": "ねんどろいど 泉 こなた（コンプティークVer.） (ねんどろいど いずみ こなた（こんぷてぃーくVer.）)"
+  "gender" : "F",
+  "gsc_productNum" : 3359,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3359/16282/large/20f5c028e1b4ca6891aa847652ed4fd0.jpg",
+  "name" : {
+    "ja" : "ねんどろいど 泉 こなた（コンプティークVer.） (ねんどろいど いずみ こなた（こんぷてぃーくVer.）)",
+    "ko" : "이즈미 코나타 콤프틱 Ver."
   },
-  "series": {
-    "ko": "럭키스타",
-    "ja": "TVアニメ らき☆すた"
-  },
-  "gsc_productNum": 3359,
-  "price": 4190,
-  "release_date": [
+  "num" : "027a",
+  "price" : 4190,
+  "release_date" : [
     "2008/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3359/16282/large/20f5c028e1b4ca6891aa847652ed4fd0.jpg",
-  "gender": "F",
-  "set": 9
+  "series" : {
+    "ja" : "TVアニメ らき☆すた",
+    "ko" : "럭키스타"
+  },
+  "set" : 9
 }

@@ -1,19 +1,19 @@
 {
-  "num": "185b",
-  "name": {
-    "ko": "아이사카 타이가 세라복 Ver.",
-    "ja": "ねんどろいど 逢坂大河 セーラー服Ver. (ねんどろいど あいさかたいが せーらーふくver.)"
+  "gender" : "F",
+  "gsc_productNum" : 3396,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111129/3396/16400/large/77bf8ad0b55def7f0703e01926112ecf.jpg",
+  "name" : {
+    "ja" : "ねんどろいど 逢坂大河 セーラー服Ver. (ねんどろいど あいさかたいが せーらーふくver.)",
+    "ko" : "아이사카 타이가 세라복 Ver."
   },
-  "series": {
-    "ko": "토라도라!",
-    "ja": "とらドラ！"
-  },
-  "gsc_productNum": 3396,
-  "price": 2933,
-  "release_date": [
+  "num" : "185b",
+  "price" : 2933,
+  "release_date" : [
     "2012/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111129/3396/16400/large/77bf8ad0b55def7f0703e01926112ecf.jpg",
-  "gender": "F",
-  "set": 49
+  "series" : {
+    "ja" : "とらドラ！",
+    "ko" : "토라도라!"
+  },
+  "set" : 49
 }

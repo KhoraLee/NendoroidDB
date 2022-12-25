@@ -1,21 +1,21 @@
 {
-  "num": "1894",
-  "name": {
-    "ja": "ねんどろいど ラムレザル\u003dヴァレンタイン (ねんどろいど らむれざる\u003dゔぁれんたいん)",
-    "en": "Nendoroid Ramlethal Valentine",
-    "ko": "램리썰 밸런타인"
+  "gender" : "F",
+  "gsc_productNum" : 12810,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220613/12810/99823/large/d21cbfc619224fed04feadf8049c0260.jpg",
+  "name" : {
+    "en" : "Nendoroid Ramlethal Valentine",
+    "ja" : "ねんどろいど ラムレザル=ヴァレンタイン (ねんどろいど らむれざる=ゔぁれんたいん)",
+    "ko" : "램리썰 밸런타인"
   },
-  "series": {
-    "ja": "GUILTY GEAR -STRIVE-",
-    "en": "GUILTY GEAR -STRIVE-",
-    "ko": "길티기어 -스트라이브-"
-  },
-  "gsc_productNum": 12810,
-  "price": 9500,
-  "release_date": [
+  "num" : "1894",
+  "price" : 9500,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220613/12810/99823/large/d21cbfc619224fed04feadf8049c0260.jpg",
-  "gender": "F",
-  "set": 256
+  "series" : {
+    "en" : "GUILTY GEAR -STRIVE-",
+    "ja" : "GUILTY GEAR -STRIVE-",
+    "ko" : "길티기어 -스트라이브-"
+  },
+  "set" : 256
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1618",
-  "name": {
-    "ko": "팔콘",
-    "ja": "ねんどろいど キャプテン・アメリカ (サム・ウィルソン) (ねんどろいど きゃぷてん・あめりか (さむ・うぃるそん))",
-    "en": "Nendoroid Captain America (Sam Wilson)"
+  "gender" : "M",
+  "gsc_productNum" : 11128,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210422/11128/89511/large/8403919331b47a0030d1b5fdfef00d69.jpg",
+  "name" : {
+    "en" : "Nendoroid Captain America (Sam Wilson)",
+    "ja" : "ねんどろいど キャプテン・アメリカ (サム・ウィルソン) (ねんどろいど きゃぷてん・あめりか (さむ・うぃるそん))",
+    "ko" : "팔콘"
   },
-  "series": {
-    "ko": "팔콘과 윈터솔져",
-    "ja": "ファルコン\u0026ウィンター・ソルジャー",
-    "en": "The Falcon and The Winter Soldier"
-  },
-  "gsc_productNum": 11128,
-  "price": 5000,
-  "release_date": [
+  "num" : "1618",
+  "price" : 5000,
+  "release_date" : [
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210422/11128/89511/large/8403919331b47a0030d1b5fdfef00d69.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "The Falcon and The Winter Soldier",
+    "ja" : "ファルコン&ウィンター・ソルジャー",
+    "ko" : "팔콘과 윈터솔져"
+  },
+  "set" : 63
 }

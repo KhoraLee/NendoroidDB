@@ -1,21 +1,21 @@
 {
-  "num": "1139",
-  "name": {
-    "ko": "마루야마 아야 스테이지 의상 Ver.",
-    "ja": "ねんどろいど 丸山彩 ステージ衣装Ver. (ねんどろいど まるやまあや すてーじいしょうVer.)",
-    "en": "Nendoroid Aya Maruyama: Stage Outfit Ver."
+  "gender" : "F",
+  "gsc_productNum" : 8362,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190523/8362/60401/large/eb805029e66b4c5dde2e49fb904456ea.jpg",
+  "name" : {
+    "en" : "Nendoroid Aya Maruyama: Stage Outfit Ver.",
+    "ja" : "ねんどろいど 丸山彩 ステージ衣装Ver. (ねんどろいど まるやまあや すてーじいしょうVer.)",
+    "ko" : "마루야마 아야 스테이지 의상 Ver."
   },
-  "series": {
-    "ko": "BanG Dream!",
-    "ja": "バンドリ！ ガールズバンドパーティ！",
-    "en": "BanG Dream! Girls Band Party!"
-  },
-  "gsc_productNum": 8362,
-  "price": 5100,
-  "release_date": [
+  "num" : "1139",
+  "price" : 5100,
+  "release_date" : [
     "2019/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190523/8362/60401/large/eb805029e66b4c5dde2e49fb904456ea.jpg",
-  "gender": "F",
-  "set": 152
+  "series" : {
+    "en" : "BanG Dream! Girls Band Party!",
+    "ja" : "バンドリ！ ガールズバンドパーティ！",
+    "ko" : "BanG Dream!"
+  },
+  "set" : 152
 }

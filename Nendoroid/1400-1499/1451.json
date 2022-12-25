@@ -1,21 +1,21 @@
 {
-  "num": "1451",
-  "name": {
-    "ko": "시마 린 투어링 Ver.",
-    "ja": "ねんどろいど 志摩リン ツーリングVer. (ねんどろいど しまりん つーりんぐVer.)",
-    "en": "Nendoroid Rin Shima: Touring Ver."
+  "gender" : "F",
+  "gsc_productNum" : 10011,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200901/10011/73842/large/94cf91030c2d601545eb49d24ecf4291.jpg",
+  "name" : {
+    "en" : "Nendoroid Rin Shima: Touring Ver.",
+    "ja" : "ねんどろいど 志摩リン ツーリングVer. (ねんどろいど しまりん つーりんぐVer.)",
+    "ko" : "시마 린 투어링 Ver."
   },
-  "series": {
-    "ko": "유루캠△",
-    "ja": "ゆるキャン△",
-    "en": "Laid-Back Camp"
-  },
-  "gsc_productNum": 10011,
-  "price": 8000,
-  "release_date": [
+  "num" : "1451",
+  "price" : 8000,
+  "release_date" : [
     "2021/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200901/10011/73842/large/94cf91030c2d601545eb49d24ecf4291.jpg",
-  "gender": "F",
-  "set": 173
+  "series" : {
+    "en" : "Laid-Back Camp",
+    "ja" : "ゆるキャン△",
+    "ko" : "유루캠△"
+  },
+  "set" : 173
 }

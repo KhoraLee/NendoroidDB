@@ -1,21 +1,21 @@
 {
-  "num": "1908",
-  "name": {
-    "ja": "ねんどろいど ニャターシャ・ニャンナーズ (ねんどろいど にゃたーしゃ・にゃんなーず)",
-    "en": "Nendoroid Nyatasha Nyanners",
-    "ko": "냐타샤 냐너스"
+  "gender" : "F",
+  "gsc_productNum" : 12840,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220621/12840/100155/large/6fb62cffdf464ac03eca92dc055a237e.jpg",
+  "name" : {
+    "en" : "Nendoroid Nyatasha Nyanners",
+    "ja" : "ねんどろいど ニャターシャ・ニャンナーズ (ねんどろいど にゃたーしゃ・にゃんなーず)",
+    "ko" : "냐타샤 냐너스"
   },
-  "series": {
-    "ja": "VShojo",
-    "en": "VShojo",
-    "ko": "브이쇼조"
-  },
-  "gsc_productNum": 12840,
-  "price": 6900,
-  "release_date": [
+  "num" : "1908",
+  "price" : 6900,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220621/12840/100155/large/6fb62cffdf464ac03eca92dc055a237e.jpg",
-  "gender": "F",
-  "set": 291
+  "series" : {
+    "en" : "VShojo",
+    "ja" : "VShojo",
+    "ko" : "브이쇼조"
+  },
+  "set" : 291
 }

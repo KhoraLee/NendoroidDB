@@ -1,21 +1,21 @@
 {
-  "num": "196",
-  "name": {
-    "ko": "사막의 아미 씨",
-    "ja": "ねんどろいど 砂漠のあーみーさん (ねんどろいど さばくのあーみーさん)",
-    "en": "Nendoroid Desert Army-san (ねんどろいど さばくのあーみーさん)"
+  "gender" : "F",
+  "gsc_productNum" : 3410,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111206/3410/16477/large/446f672e77aae40c60f088e7465c57bf.jpg",
+  "name" : {
+    "en" : "Nendoroid Desert Army-san (ねんどろいど さばくのあーみーさん)",
+    "ja" : "ねんどろいど 砂漠のあーみーさん (ねんどろいど さばくのあーみーさん)",
+    "ko" : "사막의 아미 씨"
   },
-  "series": {
-    "ko": "마법의 해병대원 픽셀☆마리땅",
-    "ja": "魔法の海兵隊員ぴくせる☆まりたん",
-    "en": "Pixel Maritan"
-  },
-  "gsc_productNum": 3410,
-  "price": 4400,
-  "release_date": [
+  "num" : "196",
+  "price" : 4400,
+  "release_date" : [
     "2012/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111206/3410/16477/large/446f672e77aae40c60f088e7465c57bf.jpg",
-  "gender": "F",
-  "set": 15
+  "series" : {
+    "en" : "Pixel Maritan",
+    "ja" : "魔法の海兵隊員ぴくせる☆まりたん",
+    "ko" : "마법의 해병대원 픽셀☆마리땅"
+  },
+  "set" : 15
 }

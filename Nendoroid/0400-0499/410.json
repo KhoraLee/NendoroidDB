@@ -1,23 +1,23 @@
 {
-  "num": "410",
-  "name": {
-    "ko": "길가메쉬",
-    "ja": "ねんどろいど ギルガメッシュ (ねんどろいど ぎるがめっしゅ)",
-    "en": "Nendoroid Gilgamesh (ねんどろいど ぎるがめっしゅ)"
+  "gender" : "F",
+  "gsc_productNum" : 4357,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140407/4357/57181/large/a4733262cd9ae643c7b4ddc8624cb897.jpg",
+  "name" : {
+    "en" : "Nendoroid Gilgamesh (ねんどろいど ぎるがめっしゅ)",
+    "ja" : "ねんどろいど ギルガメッシュ (ねんどろいど ぎるがめっしゅ)",
+    "ko" : "길가메쉬"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/stay night",
-    "en": "Fate/stay night"
-  },
-  "gsc_productNum": 4357,
-  "price": 4888,
-  "release_date": [
+  "num" : "410",
+  "price" : 4888,
+  "release_date" : [
     "2014/08",
     "2017/01",
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140407/4357/57181/large/a4733262cd9ae643c7b4ddc8624cb897.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/stay night",
+    "ja" : "Fate/stay night",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

@@ -1,21 +1,21 @@
 {
-  "num": "156",
-  "name": {
-    "ko": "셜록 셰린포드",
-    "ja": "ねんどろいど シャーロック・シェリンフォード (ねんどろいど しゃーろっく・しぇりんふぉーど)",
-    "en": "Nendoroid Sherlock Shellingford (ねんどろいど しゃーろっく・しぇりんふぉーど)"
+  "gender" : "F",
+  "gsc_productNum" : 3103,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110228/3103/13049/large/cb76c2354ecd2c10ad39b034c2167241.jpg",
+  "name" : {
+    "en" : "Nendoroid Sherlock Shellingford (ねんどろいど しゃーろっく・しぇりんふぉーど)",
+    "ja" : "ねんどろいど シャーロック・シェリンフォード (ねんどろいど しゃーろっく・しぇりんふぉーど)",
+    "ko" : "셜록 셰린포드"
   },
-  "series": {
-    "ko": "탐정 오페라 밀키 홈즈",
-    "ja": "探偵オペラ ミルキィホームズ",
-    "en": "Detective Opera Milky Holmes"
-  },
-  "gsc_productNum": 3103,
-  "price": 3667,
-  "release_date": [
+  "num" : "156",
+  "price" : 3667,
+  "release_date" : [
     "2011/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110228/3103/13049/large/cb76c2354ecd2c10ad39b034c2167241.jpg",
-  "gender": "F",
-  "set": 36
+  "series" : {
+    "en" : "Detective Opera Milky Holmes",
+    "ja" : "探偵オペラ ミルキィホームズ",
+    "ko" : "탐정 오페라 밀키 홈즈"
+  },
+  "set" : 36
 }

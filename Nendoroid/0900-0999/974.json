@@ -1,21 +1,21 @@
 {
-  "num": "974",
-  "name": {
-    "ko": "보쿠토 코타로 교복 Ver.",
-    "ja": "ねんどろいど 木兎光太郎 制服Ver. (ねんどろいど ぼくとこうたろう せいふくVer.)",
-    "en": "Nendoroid Kotaro Bokuto: School Uniform Ver."
+  "gender" : "M",
+  "gsc_productNum" : 7506,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180803/7506/53664/large/42cda320f73a2f84b27c9cd988f07ae4.jpg",
+  "name" : {
+    "en" : "Nendoroid Kotaro Bokuto: School Uniform Ver.",
+    "ja" : "ねんどろいど 木兎光太郎 制服Ver. (ねんどろいど ぼくとこうたろう せいふくVer.)",
+    "ko" : "보쿠토 코타로 교복 Ver."
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "Haikyu!!"
-  },
-  "gsc_productNum": 7506,
-  "price": 3972,
-  "release_date": [
+  "num" : "974",
+  "price" : 3972,
+  "release_date" : [
     "2019/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180803/7506/53664/large/42cda320f73a2f84b27c9cd988f07ae4.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

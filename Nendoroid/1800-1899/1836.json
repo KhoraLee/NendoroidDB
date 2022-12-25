@@ -1,21 +1,21 @@
 {
-  "num": "1836",
-  "name": {
-    "ko": "코즈메 켄마 세컨드 유니폼 Ver.",
-    "ja": "ねんどろいど 孤爪研磨 セカンドユニフォームVer. (ねんどろいど こづめけんま せかんどゆにふぉーむVer.)",
-    "en": "Nendoroid Kenma Kozume: Second Uniform Ver."
+  "gender" : "M",
+  "gsc_productNum" : 12389,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220224/12389/95816/large/115cb1cb85878c82b01ba4609477e179.jpg",
+  "name" : {
+    "en" : "Nendoroid Kenma Kozume: Second Uniform Ver.",
+    "ja" : "ねんどろいど 孤爪研磨 セカンドユニフォームVer. (ねんどろいど こづめけんま せかんどゆにふぉーむVer.)",
+    "ko" : "코즈메 켄마 세컨드 유니폼 Ver."
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "Haikyu!!"
-  },
-  "gsc_productNum": 12389,
-  "price": 4800,
-  "release_date": [
+  "num" : "1836",
+  "price" : 4800,
+  "release_date" : [
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220224/12389/95816/large/115cb1cb85878c82b01ba4609477e179.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

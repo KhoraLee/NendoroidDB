@@ -1,21 +1,21 @@
 {
-  "num": "1683",
-  "name": {
-    "ko": "아누",
-    "ja": "ねんどろいど 阿奴 (ねんどろいど あーぬー)",
-    "en": "Nendoroid Anu"
+  "gender" : "F",
+  "gsc_productNum" : 11702,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210824/11702/89143/large/c958fcfbecfe11d1387ec2282811a6c3.jpg",
+  "name" : {
+    "en" : "Nendoroid Anu",
+    "ja" : "ねんどろいど 阿奴 (ねんどろいど あーぬー)",
+    "ko" : "아누"
   },
-  "series": {
-    "ko": "선검기협전",
-    "ja": "仙剣奇侠伝",
-    "en": "Chinese Paladin: Sword and Fairy"
-  },
-  "gsc_productNum": 11702,
-  "price": 7101,
-  "release_date": [
+  "num" : "1683",
+  "price" : 7101,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210824/11702/89143/large/c958fcfbecfe11d1387ec2282811a6c3.jpg",
-  "gender": "F",
-  "set": 214
+  "series" : {
+    "en" : "Chinese Paladin: Sword and Fairy",
+    "ja" : "仙剣奇侠伝",
+    "ko" : "선검기협전"
+  },
+  "set" : 214
 }

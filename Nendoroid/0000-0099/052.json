@@ -1,20 +1,20 @@
 {
-  "num": "052",
-  "name": {
-    "ko": "미다레자키 쿄우카",
-    "ja": "ねんどろいど 乱崎凶華 (みだれざき きょうか)",
-    "en": "Nendoroid Kyouka Midarezaki (みだれざき きょうか)"
+  "gender" : "F",
+  "gsc_productNum" : 2052,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2052/5404/large/026340452692b1a9793f84998e26dfa5.jpg",
+  "name" : {
+    "en" : "Nendoroid Kyouka Midarezaki (みだれざき きょうか)",
+    "ja" : "ねんどろいど 乱崎凶華 (みだれざき きょうか)",
+    "ko" : "미다레자키 쿄우카"
   },
-  "series": {
-    "ko": "광란가족일기",
-    "ja": "狂乱家族日記",
-    "en": "Kyouran Kazoku Nikki (Diary of a Crazed Family)"
-  },
-  "gsc_productNum": 2052,
-  "price": 3667,
-  "release_date": [
+  "num" : "052",
+  "price" : 3667,
+  "release_date" : [
     "2009/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2052/5404/large/026340452692b1a9793f84998e26dfa5.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Kyouran Kazoku Nikki (Diary of a Crazed Family)",
+    "ja" : "狂乱家族日記",
+    "ko" : "광란가족일기"
+  }
 }

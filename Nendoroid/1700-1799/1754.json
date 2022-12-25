@@ -1,21 +1,21 @@
 {
-  "num": "1754",
-  "name": {
-    "ko": "미스 포츈",
-    "ja": "ねんどろいど ミス・フォーチュン (ねんどろいど みす・ふぉーちゅん)",
-    "en": "Nendoroid Miss Fortune"
+  "gender" : "F",
+  "gsc_productNum" : 11989,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211111/11989/91984/large/0b0330d3db82ef1688b0a6c24d936b4d.jpg",
+  "name" : {
+    "en" : "Nendoroid Miss Fortune",
+    "ja" : "ねんどろいど ミス・フォーチュン (ねんどろいど みす・ふぉーちゅん)",
+    "ko" : "미스 포츈"
   },
-  "series": {
-    "ko": "리그 오브 레전드",
-    "ja": "リーグ・オブ・レジェンド",
-    "en": "League of Legends"
-  },
-  "gsc_productNum": 11989,
-  "price": 7800,
-  "release_date": [
+  "num" : "1754",
+  "price" : 7800,
+  "release_date" : [
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211111/11989/91984/large/0b0330d3db82ef1688b0a6c24d936b4d.jpg",
-  "gender": "F",
-  "set": 98
+  "series" : {
+    "en" : "League of Legends",
+    "ja" : "リーグ・オブ・レジェンド",
+    "ko" : "리그 오브 레전드"
+  },
+  "set" : 98
 }

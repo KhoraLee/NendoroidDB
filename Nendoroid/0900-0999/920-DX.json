@@ -1,20 +1,20 @@
 {
-  "num": "920-DX",
-  "name": {
-    "ko": "제임스 P. 설리반 DX",
-    "ja": "ねんどろいど サリー DX Ver. (ねんどろいど さりー でらっくす Ver.)",
-    "en": "Nendoroid Sulley: DX Ver."
+  "gsc_productNum" : 7209,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180413/7209/51447/large/e7c6cd03d131ba9f7aa46e160a3c9aa4.jpg",
+  "name" : {
+    "en" : "Nendoroid Sulley: DX Ver.",
+    "ja" : "ねんどろいど サリー DX Ver. (ねんどろいど さりー でらっくす Ver.)",
+    "ko" : "제임스 P. 설리반 DX"
   },
-  "series": {
-    "ko": "몬스터 주식회사",
-    "ja": "モンスターズ・インク",
-    "en": "Monsters, Inc."
-  },
-  "gsc_productNum": 7209,
-  "price": 6926,
-  "release_date": [
+  "num" : "920-DX",
+  "price" : 6926,
+  "release_date" : [
     "2018/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180413/7209/51447/large/e7c6cd03d131ba9f7aa46e160a3c9aa4.jpg",
-  "set": 32
+  "series" : {
+    "en" : "Monsters, Inc.",
+    "ja" : "モンスターズ・インク",
+    "ko" : "몬스터 주식회사"
+  },
+  "set" : 32
 }

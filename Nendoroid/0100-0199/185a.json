@@ -1,21 +1,21 @@
 {
-  "num": "185a",
-  "name": {
-    "ko": "아이사카 타이가",
-    "ja": "ねんどろいど 逢坂大河 (ねんどろいど あいさかたいが)",
-    "en": "Nendoroid Taiga Aisaka (ねんどろいど あいさかたいが)"
+  "gender" : "F",
+  "gsc_productNum" : 3240,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110801/3240/14861/large/3f4a1d77ed23d6edfcb70e0e5f4b68f8.jpg",
+  "name" : {
+    "en" : "Nendoroid Taiga Aisaka (ねんどろいど あいさかたいが)",
+    "ja" : "ねんどろいど 逢坂大河 (ねんどろいど あいさかたいが)",
+    "ko" : "아이사카 타이가"
   },
-  "series": {
-    "ko": "토라도라!",
-    "ja": "とらドラ！",
-    "en": "Toradora!"
-  },
-  "gsc_productNum": 3240,
-  "price": 3667,
-  "release_date": [
+  "num" : "185a",
+  "price" : 3667,
+  "release_date" : [
     "2012/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110801/3240/14861/large/3f4a1d77ed23d6edfcb70e0e5f4b68f8.jpg",
-  "gender": "F",
-  "set": 49
+  "series" : {
+    "en" : "Toradora!",
+    "ja" : "とらドラ！",
+    "ko" : "토라도라!"
+  },
+  "set" : 49
 }

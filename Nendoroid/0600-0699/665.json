@@ -1,22 +1,22 @@
 {
-  "num": "665",
-  "name": {
-    "ko": "스가와라 코시",
-    "ja": "ねんどろいど 菅原孝支 (ねんどろいど すがわらこうし)",
-    "en": "Nendoroid Koshi Sugawara"
+  "gender" : "M",
+  "gsc_productNum" : 5883,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160822/5883/40750/large/42cc08d2e62815e69b77744ee3a33b1f.jpg",
+  "name" : {
+    "en" : "Nendoroid Koshi Sugawara",
+    "ja" : "ねんどろいど 菅原孝支 (ねんどろいど すがわらこうし)",
+    "ko" : "스가와라 코시"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!! 烏野高校 VS 白鳥沢学園高校",
-    "en": "Haikyu!! Karasuno High School VS Shiratorizawa Academy"
-  },
-  "gsc_productNum": 5883,
-  "price": 4278,
-  "release_date": [
+  "num" : "665",
+  "price" : 4278,
+  "release_date" : [
     "2017/02",
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160822/5883/40750/large/42cc08d2e62815e69b77744ee3a33b1f.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!! Karasuno High School VS Shiratorizawa Academy",
+    "ja" : "ハイキュー!! 烏野高校 VS 白鳥沢学園高校",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

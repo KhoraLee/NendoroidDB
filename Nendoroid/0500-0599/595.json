@@ -1,21 +1,21 @@
 {
-  "num": "595",
-  "name": {
-    "ko": "카미야 나오",
-    "ja": "ねんどろいど 神谷奈緒 (ねんどろいど かみやなお)",
-    "en": "Nendoroid Nao Kamiya"
+  "gender" : "F",
+  "gsc_productNum" : 5396,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151211/5396/36880/large/5bbd3822e5abfcdacb8167dd1bf04566.jpg",
+  "name" : {
+    "en" : "Nendoroid Nao Kamiya",
+    "ja" : "ねんどろいど 神谷奈緒 (ねんどろいど かみやなお)",
+    "ko" : "카미야 나오"
   },
-  "series": {
-    "ko": "아이돌 마스터 신데렐라 걸즈",
-    "ja": "アイドルマスター シンデレラガールズ",
-    "en": "THE IDOLM@STER CINDERELLA GIRLS"
-  },
-  "gsc_productNum": 5396,
-  "price": 3972,
-  "release_date": [
+  "num" : "595",
+  "price" : 3972,
+  "release_date" : [
     "2016/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151211/5396/36880/large/5bbd3822e5abfcdacb8167dd1bf04566.jpg",
-  "gender": "F",
-  "set": 117
+  "series" : {
+    "en" : "THE IDOLM@STER CINDERELLA GIRLS",
+    "ja" : "アイドルマスター シンデレラガールズ",
+    "ko" : "아이돌 마스터 신데렐라 걸즈"
+  },
+  "set" : 117
 }

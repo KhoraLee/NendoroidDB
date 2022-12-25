@@ -1,21 +1,21 @@
 {
-  "num": "976",
-  "name": {
-    "ko": "솔저:76",
-    "ja": "ねんどろいど ソルジャー76 クラシックスキン・エディション (ねんどろいど そるじゃー76 くらしっくすきん・えでぃしょん)",
-    "en": "Nendoroid Soldier: 76: Classic Skin Edition"
+  "gender" : "M",
+  "gsc_productNum" : 7445,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180713/7445/53250/large/9297f07ded9473b84dcaff812d0f390c.jpg",
+  "name" : {
+    "en" : "Nendoroid Soldier: 76: Classic Skin Edition",
+    "ja" : "ねんどろいど ソルジャー76 クラシックスキン・エディション (ねんどろいど そるじゃー76 くらしっくすきん・えでぃしょん)",
+    "ko" : "솔저:76"
   },
-  "series": {
-    "ko": "오버워치",
-    "ja": "オーバーウォッチ",
-    "en": "Overwatch"
-  },
-  "gsc_productNum": 7445,
-  "price": 4991,
-  "release_date": [
+  "num" : "976",
+  "price" : 4991,
+  "release_date" : [
     "2019/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180713/7445/53250/large/9297f07ded9473b84dcaff812d0f390c.jpg",
-  "gender": "M",
-  "set": 150
+  "series" : {
+    "en" : "Overwatch",
+    "ja" : "オーバーウォッチ",
+    "ko" : "오버워치"
+  },
+  "set" : 150
 }

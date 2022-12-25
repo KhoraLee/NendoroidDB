@@ -1,21 +1,21 @@
 {
-  "num": "044",
-  "name": {
-    "ko": "아사쿠라 료코+환장 파츠 세트",
-    "ja": "ねんどろいど 朝倉涼子＆拡張パーツセット (あさくらりょうこ ねんどろいど)",
-    "en": "Nendoroid Ryoko Asakura and Extra Parts Set (あさくらりょうこ ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 333,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/333/651/large/a62423ba9b0f6ce57023d6b30ab7eb63.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryoko Asakura and Extra Parts Set (あさくらりょうこ ねんどろいど)",
+    "ja" : "ねんどろいど 朝倉涼子＆拡張パーツセット (あさくらりょうこ ねんどろいど)",
+    "ko" : "아사쿠라 료코+환장 파츠 세트"
   },
-  "series": {
-    "ko": "스즈미야 하루히의 우울",
-    "ja": "涼宮ハルヒの憂鬱",
-    "en": "The Melancholy of Haruhi Suzumiya"
-  },
-  "gsc_productNum": 333,
-  "price": 5238,
-  "release_date": [
+  "num" : "044",
+  "price" : 5238,
+  "release_date" : [
     "2008/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/333/651/large/a62423ba9b0f6ce57023d6b30ab7eb63.jpg",
-  "gender": "F",
-  "set": 4
+  "series" : {
+    "en" : "The Melancholy of Haruhi Suzumiya",
+    "ja" : "涼宮ハルヒの憂鬱",
+    "ko" : "스즈미야 하루히의 우울"
+  },
+  "set" : 4
 }

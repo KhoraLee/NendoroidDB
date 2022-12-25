@@ -1,21 +1,21 @@
 {
-  "num": "851",
-  "name": {
-    "ko": "메구밍 교복 Ver.",
-    "ja": "ねんどろいど めぐみん 学生服Ver. (ねんどろいど めぐみん がくせいふくVer.)",
-    "en": "Nendoroid Megumin: School Uniform Ver."
+  "gender" : "F",
+  "gsc_productNum" : 6927,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171208/6927/49123/large/27897fe943e80fd4226de1c619750779.jpg",
+  "name" : {
+    "en" : "Nendoroid Megumin: School Uniform Ver.",
+    "ja" : "ねんどろいど めぐみん 学生服Ver. (ねんどろいど めぐみん がくせいふくVer.)",
+    "ko" : "메구밍 교복 Ver."
   },
-  "series": {
-    "ko": "이 멋진 세계에 축복을!",
-    "ja": "この素晴らしい世界に祝福を！2",
-    "en": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 2"
-  },
-  "gsc_productNum": 6927,
-  "price": 4584,
-  "release_date": [
+  "num" : "851",
+  "price" : 4584,
+  "release_date" : [
     "2018/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171208/6927/49123/large/27897fe943e80fd4226de1c619750779.jpg",
-  "gender": "F",
-  "set": 132
+  "series" : {
+    "en" : "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 2",
+    "ja" : "この素晴らしい世界に祝福を！2",
+    "ko" : "이 멋진 세계에 축복을!"
+  },
+  "set" : 132
 }

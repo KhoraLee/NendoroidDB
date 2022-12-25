@@ -1,21 +1,21 @@
 {
-  "num": "1446",
-  "name": {
-    "ko": "나기사 카오루 플러그 슈트 Ver.",
-    "ja": "ねんどろいど 渚カヲル プラグスーツVer. (ねんどろいど なぎさかをる ぷらぐすーつVer.)",
-    "en": "Nendoroid Kaworu Nagisa: Plugsuit Ver."
+  "gender" : "M",
+  "gsc_productNum" : 9968,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200826/9968/73582/large/65d553608fe8449f88c468af12c61b85.jpg",
+  "name" : {
+    "en" : "Nendoroid Kaworu Nagisa: Plugsuit Ver.",
+    "ja" : "ねんどろいど 渚カヲル プラグスーツVer. (ねんどろいど なぎさかをる ぷらぐすーつVer.)",
+    "ko" : "나기사 카오루 플러그 슈트 Ver."
   },
-  "series": {
-    "ko": "에반게리온",
-    "ja": "ヱヴァンゲリヲン新劇場版",
-    "en": "Rebuild of Evangelion"
-  },
-  "gsc_productNum": 9968,
-  "price": 5800,
-  "release_date": [
+  "num" : "1446",
+  "price" : 5800,
+  "release_date" : [
     "2021/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200826/9968/73582/large/65d553608fe8449f88c468af12c61b85.jpg",
-  "gender": "M",
-  "set": 111
+  "series" : {
+    "en" : "Rebuild of Evangelion",
+    "ja" : "ヱヴァンゲリヲン新劇場版",
+    "ko" : "에반게리온"
+  },
+  "set" : 111
 }

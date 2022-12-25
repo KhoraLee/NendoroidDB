@@ -1,22 +1,22 @@
 {
-  "num": "144",
-  "name": {
-    "ko": "쿠로네코",
-    "ja": "ねんどろいど 黒猫 (ねんどろいど くろねこ)",
-    "en": "Nendoroid Kuroneko (ねんどろいど くろねこ)"
+  "gender" : "F",
+  "gsc_productNum" : 3048,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20101217/3048/12389/large/5179bc0d798c80b3534ae2de689e0dc4.jpg",
+  "name" : {
+    "en" : "Nendoroid Kuroneko (ねんどろいど くろねこ)",
+    "ja" : "ねんどろいど 黒猫 (ねんどろいど くろねこ)",
+    "ko" : "쿠로네코"
   },
-  "series": {
-    "ko": "내 여동생이 이렇게 귀여울 리가 없어",
-    "ja": "俺の妹がこんなに可愛いわけがない",
-    "en": "Ore no Imouto ga Konnani Kawaii Wake ga Nai"
-  },
-  "gsc_productNum": 3048,
-  "price": 3667,
-  "release_date": [
+  "num" : "144",
+  "price" : 3667,
+  "release_date" : [
     "2011/04",
     "2011/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20101217/3048/12389/large/5179bc0d798c80b3534ae2de689e0dc4.jpg",
-  "gender": "F",
-  "set": 42
+  "series" : {
+    "en" : "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+    "ja" : "俺の妹がこんなに可愛いわけがない",
+    "ko" : "내 여동생이 이렇게 귀여울 리가 없어"
+  },
+  "set" : 42
 }

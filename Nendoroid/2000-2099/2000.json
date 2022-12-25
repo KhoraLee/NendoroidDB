@@ -1,21 +1,21 @@
 {
-  "num": "2000",
-  "name": {
-    "ja": "ねんどろいど エレン・イェーガー The Final Season Ver. (ねんどろいど えれん・いぇーがー ざ ふぁいなる しーずん Ver.)",
-    "en": "Nendoroid Eren Yeager: The Final Season Ver.",
-    "ko": "에렌 예거: 파이널 시즌 Ver."
+  "gender" : "M",
+  "gsc_productNum" : 12955,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220711/12955/101289/large/fa210f6d16c401016bfd4b02c18afd2d.jpg",
+  "name" : {
+    "en" : "Nendoroid Eren Yeager: The Final Season Ver.",
+    "ja" : "ねんどろいど エレン・イェーガー The Final Season Ver. (ねんどろいど えれん・いぇーがー ざ ふぁいなる しーずん Ver.)",
+    "ko" : "에렌 예거: 파이널 시즌 Ver."
   },
-  "series": {
-    "ja": "進撃の巨人",
-    "en": "Attack on Titan",
-    "ko": "진격의 거인"
-  },
-  "gsc_productNum": 12955,
-  "price": 6100,
-  "release_date": [
+  "num" : "2000",
+  "price" : 6100,
+  "release_date" : [
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220711/12955/101289/large/fa210f6d16c401016bfd4b02c18afd2d.jpg",
-  "gender": "M",
-  "set": 87
+  "series" : {
+    "en" : "Attack on Titan",
+    "ja" : "進撃の巨人",
+    "ko" : "진격의 거인"
+  },
+  "set" : 87
 }

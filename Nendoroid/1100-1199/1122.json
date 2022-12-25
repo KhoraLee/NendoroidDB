@@ -1,19 +1,19 @@
 {
-  "num": "1122",
-  "name": {
-    "ko": "막우",
-    "ja": "ねんどろいど 莫雨 (ねんどろいど まくう)"
+  "gender" : "M",
+  "gsc_productNum" : 8455,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190620/8455/61206/large/24f0e565a3c9197118b2d1b30a1c50ab.jpg",
+  "name" : {
+    "ja" : "ねんどろいど 莫雨 (ねんどろいど まくう)",
+    "ko" : "막우"
   },
-  "series": {
-    "ko": "검망3 : 손끝강호",
-    "ja": "剣網3大IP"
-  },
-  "gsc_productNum": 8455,
-  "price": -1,
-  "release_date": [
+  "num" : "1122",
+  "price" : -1,
+  "release_date" : [
     "2019/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190620/8455/61206/large/24f0e565a3c9197118b2d1b30a1c50ab.jpg",
-  "gender": "M",
-  "set": 215
+  "series" : {
+    "ja" : "剣網3大IP",
+    "ko" : "검망3 : 손끝강호"
+  },
+  "set" : 215
 }

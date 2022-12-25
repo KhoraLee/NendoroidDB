@@ -1,21 +1,21 @@
 {
-  "num": "1834",
-  "name": {
-    "ko": "스쿠나",
-    "ja": "ねんどろいど 宿儺 (ねんどろいど すくな)",
-    "en": "Nendoroid Sukuna"
+  "gender" : "M",
+  "gsc_productNum" : 12448,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220308/12448/96625/large/6d5b25f05b1d781561b33a1d910f0851.jpg",
+  "name" : {
+    "en" : "Nendoroid Sukuna",
+    "ja" : "ねんどろいど 宿儺 (ねんどろいど すくな)",
+    "ko" : "스쿠나"
   },
-  "series": {
-    "ko": "주술회전",
-    "ja": "呪術廻戦",
-    "en": "Jujutsu Kaisen"
-  },
-  "gsc_productNum": 12448,
-  "price": 5500,
-  "release_date": [
+  "num" : "1834",
+  "price" : 5500,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220308/12448/96625/large/6d5b25f05b1d781561b33a1d910f0851.jpg",
-  "gender": "M",
-  "set": 251
+  "series" : {
+    "en" : "Jujutsu Kaisen",
+    "ja" : "呪術廻戦",
+    "ko" : "주술회전"
+  },
+  "set" : 251
 }

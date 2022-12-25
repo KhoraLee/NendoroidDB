@@ -1,21 +1,21 @@
 {
-  "num": "1549",
-  "name": {
-    "ko": "미카즈키 무네치카",
-    "ja": "ねんどろいど 舞台『刀剣乱舞』悲伝 結いの目の不如帰 三日月宗近 (ねんどろいど ぶたい『とうけんらんぶ』ひでん ゆいのめのほととぎす みかづきむねちか)",
-    "en": "Nendoroid Butai Touken Ranbu Hiden Yui no Me no Hototogisu - Mikazuki Munechika"
+  "gender" : "M",
+  "gsc_productNum" : 10641,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201225/10641/79508/large/c8644b555137553741f36017f936cfdc.jpg",
+  "name" : {
+    "en" : "Nendoroid Butai Touken Ranbu Hiden Yui no Me no Hototogisu - Mikazuki Munechika",
+    "ja" : "ねんどろいど 舞台『刀剣乱舞』悲伝 結いの目の不如帰 三日月宗近 (ねんどろいど ぶたい『とうけんらんぶ』ひでん ゆいのめのほととぎす みかづきむねちか)",
+    "ko" : "미카즈키 무네치카"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "舞台『刀剣乱舞』悲伝 結いの目の不如帰",
-    "en": "Butai Touken Ranbu Hiden Yui no Me no Hototogisu"
-  },
-  "gsc_productNum": 10641,
-  "price": 4500,
-  "release_date": [
+  "num" : "1549",
+  "price" : 4500,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201225/10641/79508/large/c8644b555137553741f36017f936cfdc.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Butai Touken Ranbu Hiden Yui no Me no Hototogisu",
+    "ja" : "舞台『刀剣乱舞』悲伝 結いの目の不如帰",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

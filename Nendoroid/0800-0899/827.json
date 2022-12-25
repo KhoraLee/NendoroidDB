@@ -1,21 +1,21 @@
 {
-  "num": "827",
-  "name": {
-    "ko": "쥬즈마루 츠네츠구",
-    "ja": "ねんどろいど 数珠丸恒次 (ねんどろいど じゅずまるつねつぐ)",
-    "en": "Nendoroid Juzumaru Tsunetsugu"
+  "gender" : "M",
+  "gsc_productNum" : 6733,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170920/6733/47660/large/3d335c95cbff4108d4231e59e5a6263b.jpg",
+  "name" : {
+    "en" : "Nendoroid Juzumaru Tsunetsugu",
+    "ja" : "ねんどろいど 数珠丸恒次 (ねんどろいど じゅずまるつねつぐ)",
+    "ko" : "쥬즈마루 츠네츠구"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 6733,
-  "price": 4888,
-  "release_date": [
+  "num" : "827",
+  "price" : 4888,
+  "release_date" : [
     "2018/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170920/6733/47660/large/3d335c95cbff4108d4231e59e5a6263b.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

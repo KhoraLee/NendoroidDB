@@ -1,21 +1,21 @@
 {
-  "num": "973",
-  "name": {
-    "ko": "우지마츠 치야",
-    "ja": "ねんどろいど 千夜 (ねんどろいど ちや)",
-    "en": "Nendoroid Chiya"
+  "gender" : "F",
+  "gsc_productNum" : 7481,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180731/7481/53531/large/a8c47bf5e556c14c9d1121b1bc51ce7f.jpg",
+  "name" : {
+    "en" : "Nendoroid Chiya",
+    "ja" : "ねんどろいど 千夜 (ねんどろいど ちや)",
+    "ko" : "우지마츠 치야"
   },
-  "series": {
-    "ko": "주문은 토끼입니까?",
-    "ja": "ご注文はうさぎですか？？",
-    "en": "Is the Order a Rabbit??"
-  },
-  "gsc_productNum": 7481,
-  "price": 4685,
-  "release_date": [
+  "num" : "973",
+  "price" : 4685,
+  "release_date" : [
     "2019/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180731/7481/53531/large/a8c47bf5e556c14c9d1121b1bc51ce7f.jpg",
-  "gender": "F",
-  "set": 123
+  "series" : {
+    "en" : "Is the Order a Rabbit??",
+    "ja" : "ご注文はうさぎですか？？",
+    "ko" : "주문은 토끼입니까?"
+  },
+  "set" : 123
 }

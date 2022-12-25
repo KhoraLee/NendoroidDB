@@ -1,22 +1,22 @@
 {
-  "num": "299",
-  "name": {
-    "ko": "미쿠다요",
-    "ja": "ねんどろいど ミクダヨー (ねんどろいど みくだよー)",
-    "en": "Nendoroid Mikudayo- (ねんどろいど みくだよー)"
+  "gender" : "DAYO",
+  "gsc_productNum" : 3734,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121102/3734/33354/large/5e0040efe2ee991638d370884d65e1aa.jpg",
+  "name" : {
+    "en" : "Nendoroid Mikudayo- (ねんどろいど みくだよー)",
+    "ja" : "ねんどろいど ミクダヨー (ねんどろいど みくだよー)",
+    "ko" : "미쿠다요"
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 3734,
-  "price": 3143,
-  "release_date": [
+  "num" : "299",
+  "price" : 3143,
+  "release_date" : [
     "2013/07",
     "2015/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121102/3734/33354/large/5e0040efe2ee991638d370884d65e1aa.jpg",
-  "gender": "DAYO",
-  "set": 75
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 75
 }

@@ -1,21 +1,21 @@
 {
-  "num": "262",
-  "name": {
-    "ko": "리코타 엘마르",
-    "ja": "ねんどろいど リコッタ・エルマール (ねんどろいど りこった・えるまーる)",
-    "en": "Nendoroid Ricotta Elmar (ねんどろいど りこった・えるまーる)"
+  "gender" : "F",
+  "gsc_productNum" : 3602,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120711/3602/19284/large/d7af07240f34626e444897a42091319d.jpg",
+  "name" : {
+    "en" : "Nendoroid Ricotta Elmar (ねんどろいど りこった・えるまーる)",
+    "ja" : "ねんどろいど リコッタ・エルマール (ねんどろいど りこった・えるまーる)",
+    "ko" : "리코타 엘마르"
   },
-  "series": {
-    "ko": "DOG DAYS",
-    "ja": "DOG DAYS",
-    "en": "DOG DAYS"
-  },
-  "gsc_productNum": 3602,
-  "price": 3981,
-  "release_date": [
+  "num" : "262",
+  "price" : 3981,
+  "release_date" : [
     "2012/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120711/3602/19284/large/d7af07240f34626e444897a42091319d.jpg",
-  "gender": "F",
-  "set": 50
+  "series" : {
+    "en" : "DOG DAYS",
+    "ja" : "DOG DAYS",
+    "ko" : "DOG DAYS"
+  },
+  "set" : 50
 }

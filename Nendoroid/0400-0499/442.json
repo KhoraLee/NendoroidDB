@@ -1,21 +1,21 @@
 {
-  "num": "442",
-  "name": {
-    "ko": "아큐모 유카리",
-    "ja": "ねんどろいど 八雲紫 (ねんどろいど やくもゆかり)",
-    "en": "Nendoroid Yukari Yakumo"
+  "gender" : "F",
+  "gsc_productNum" : 4605,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140917/4605/30478/large/ba8573daf7dac593c384db9b57a3d567.jpg",
+  "name" : {
+    "en" : "Nendoroid Yukari Yakumo",
+    "ja" : "ねんどろいど 八雲紫 (ねんどろいど やくもゆかり)",
+    "ko" : "아큐모 유카리"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方Project",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 4605,
-  "price": 4278,
-  "release_date": [
+  "num" : "442",
+  "price" : 4278,
+  "release_date" : [
     "2015/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140917/4605/30478/large/ba8573daf7dac593c384db9b57a3d567.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

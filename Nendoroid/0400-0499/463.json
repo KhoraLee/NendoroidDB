@@ -1,21 +1,21 @@
 {
-  "num": "463",
-  "name": {
-    "ko": "시오이",
-    "ja": "ねんどろいど 伊401 (ねんどろいど い401)",
-    "en": "Nendoroid I-401 (ねんどろいど い401)"
+  "gender" : "F",
+  "gsc_productNum" : 4683,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141014/4683/30958/large/5c0d7da983c0a8dfb885d133d12b94ba.jpg",
+  "name" : {
+    "en" : "Nendoroid I-401 (ねんどろいど い401)",
+    "ja" : "ねんどろいど 伊401 (ねんどろいど い401)",
+    "ko" : "시오이"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 4683,
-  "price": 4278,
-  "release_date": [
+  "num" : "463",
+  "price" : 4278,
+  "release_date" : [
     "2015/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141014/4683/30958/large/5c0d7da983c0a8dfb885d133d12b94ba.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

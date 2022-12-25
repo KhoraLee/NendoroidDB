@@ -1,21 +1,21 @@
 {
-  "num": "1060",
-  "name": {
-    "ko": "신죠 아카네",
-    "ja": "ねんどろいど 新条アカネ (ねんどろいど しんじょうあかね)",
-    "en": "Nendoroid Akane Shinjo"
+  "gender" : "F",
+  "gsc_productNum" : 7939,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181220/7939/57043/large/644c5a5cabd17635197d9fe443421fc3.jpg",
+  "name" : {
+    "en" : "Nendoroid Akane Shinjo",
+    "ja" : "ねんどろいど 新条アカネ (ねんどろいど しんじょうあかね)",
+    "ko" : "신죠 아카네"
   },
-  "series": {
-    "ko": "SSSS.GRIDMAN",
-    "ja": "SSSS.GRIDMAN",
-    "en": "SSSS.GRIDMAN"
-  },
-  "gsc_productNum": 7939,
-  "price": 5093,
-  "release_date": [
+  "num" : "1060",
+  "price" : 5093,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181220/7939/57043/large/644c5a5cabd17635197d9fe443421fc3.jpg",
-  "gender": "F",
-  "set": 200
+  "series" : {
+    "en" : "SSSS.GRIDMAN",
+    "ja" : "SSSS.GRIDMAN",
+    "ko" : "SSSS.GRIDMAN"
+  },
+  "set" : 200
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1779",
-  "name": {
-    "ko": "무사월",
-    "ja": "ねんどろいど 武思月 (ねんどろいど ぶしげつ)",
-    "en": "Nendoroid Wu Siyue"
+  "gender" : "M",
+  "gsc_productNum" : 12095,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211206/12095/92956/large/5b1fd780d01b7f94214e614eb1ef4908.jpg",
+  "name" : {
+    "en" : "Nendoroid Wu Siyue",
+    "ja" : "ねんどろいど 武思月 (ねんどろいど ぶしげつ)",
+    "ko" : "무사월"
   },
-  "series": {
-    "ko": "풍기낙양",
-    "ja": "風起洛陽",
-    "en": "FENG QI LUO YANG"
-  },
-  "gsc_productNum": 12095,
-  "price": 7200,
-  "release_date": [
+  "num" : "1779",
+  "price" : 7200,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211206/12095/92956/large/5b1fd780d01b7f94214e614eb1ef4908.jpg",
-  "gender": "M",
-  "set": 279
+  "series" : {
+    "en" : "FENG QI LUO YANG",
+    "ja" : "風起洛陽",
+    "ko" : "풍기낙양"
+  },
+  "set" : 279
 }

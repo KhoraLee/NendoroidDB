@@ -1,21 +1,21 @@
 {
-  "num": "1103",
-  "name": {
-    "ko": "키타가와 유스케 괴도복 Ver.",
-    "ja": "ねんどろいど 喜多川祐介 怪盗服Ver. (ねんどろいど きたがわゆうすけ かいとうふくVer.)",
-    "en": "Nendoroid Yusuke Kitagawa: Phantom Thief Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8147,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190312/8147/58769/large/5fa00aaa941ed94e9170c69f31f00b3e.jpg",
+  "name" : {
+    "en" : "Nendoroid Yusuke Kitagawa: Phantom Thief Ver.",
+    "ja" : "ねんどろいど 喜多川祐介 怪盗服Ver. (ねんどろいど きたがわゆうすけ かいとうふくVer.)",
+    "ko" : "키타가와 유스케 괴도복 Ver."
   },
-  "series": {
-    "ko": "페르소나5",
-    "ja": "PERSONA5 the Animation",
-    "en": "PERSONA5 the Animation"
-  },
-  "gsc_productNum": 8147,
-  "price": 5500,
-  "release_date": [
+  "num" : "1103",
+  "price" : 5500,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190312/8147/58769/large/5fa00aaa941ed94e9170c69f31f00b3e.jpg",
-  "gender": "M",
-  "set": 57
+  "series" : {
+    "en" : "PERSONA5 the Animation",
+    "ja" : "PERSONA5 the Animation",
+    "ko" : "페르소나5"
+  },
+  "set" : 57
 }

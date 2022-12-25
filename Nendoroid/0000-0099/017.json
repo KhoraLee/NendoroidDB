@@ -1,21 +1,21 @@
 {
-  "num": "017",
-  "name": {
-    "ko": "L",
-    "ja": "ねんどろいど L",
-    "en": "Nendoroid L"
+  "gender" : "M",
+  "gsc_productNum" : 623,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/623/952/large/78005196056642dceea1ab4e57b3a288.jpg",
+  "name" : {
+    "en" : "Nendoroid L",
+    "ja" : "ねんどろいど L",
+    "ko" : "L"
   },
-  "series": {
-    "ko": "데스노트",
-    "ja": "DEATH NOTE",
-    "en": "DEATH NOTE"
-  },
-  "gsc_productNum": 623,
-  "price": 3143,
-  "release_date": [
+  "num" : "017",
+  "price" : 3143,
+  "release_date" : [
     "2007/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/623/952/large/78005196056642dceea1ab4e57b3a288.jpg",
-  "gender": "M",
-  "set": 5
+  "series" : {
+    "en" : "DEATH NOTE",
+    "ja" : "DEATH NOTE",
+    "ko" : "데스노트"
+  },
+  "set" : 5
 }

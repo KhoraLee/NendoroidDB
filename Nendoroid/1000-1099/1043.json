@@ -1,21 +1,21 @@
 {
-  "num": "1043",
-  "name": {
-    "ko": "랜서/카르나",
-    "ja": "ねんどろいど ランサー/カルナ (ねんどろいど らんさー/かるな)",
-    "en": "Nendoroid Lancer/Karna"
+  "gender" : "M",
+  "gsc_productNum" : 7861,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181130/7861/56443/large/4feb0953ce603c3f5faefe5d830b3c6e.jpg",
+  "name" : {
+    "en" : "Nendoroid Lancer/Karna",
+    "ja" : "ねんどろいど ランサー/カルナ (ねんどろいど らんさー/かるな)",
+    "ko" : "랜서/카르나"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 7861,
-  "price": 5602,
-  "release_date": [
+  "num" : "1043",
+  "price" : 5602,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181130/7861/56443/large/4feb0953ce603c3f5faefe5d830b3c6e.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

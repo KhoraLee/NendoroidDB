@@ -1,21 +1,21 @@
 {
-  "num": "1755",
-  "name": {
-    "ko": "제이스 벨레렌",
-    "ja": "ねんどろいど ジェイス・ベレレン (ねんどろいど じぇいす・べれれん)",
-    "en": "Nendoroid Jace Beleren"
+  "gender" : "M",
+  "gsc_productNum" : 11997,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211112/11997/92081/large/828e73fb0d9693556a7f7a49d24cd499.jpg",
+  "name" : {
+    "en" : "Nendoroid Jace Beleren",
+    "ja" : "ねんどろいど ジェイス・ベレレン (ねんどろいど じぇいす・べれれん)",
+    "ko" : "제이스 벨레렌"
   },
-  "series": {
-    "ko": "매직 더 개더링",
-    "ja": "マジック:ザ・ギャザリング",
-    "en": "Magic: The Gathering"
-  },
-  "gsc_productNum": 11997,
-  "price": 8500,
-  "release_date": [
+  "num" : "1755",
+  "price" : 8500,
+  "release_date" : [
     "2023/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211112/11997/92081/large/828e73fb0d9693556a7f7a49d24cd499.jpg",
-  "gender": "M",
-  "set": 275
+  "series" : {
+    "en" : "Magic: The Gathering",
+    "ja" : "マジック:ザ・ギャザリング",
+    "ko" : "매직 더 개더링"
+  },
+  "set" : 275
 }

@@ -1,21 +1,21 @@
 {
-  "num": "128",
-  "name": {
-    "ko": "데드 마스터",
-    "ja": "ねんどろいど デッドマスター (ねんどろいど　でっどますたー)",
-    "en": "Nendoroid Dead Master (ねんどろいど　でっどますたー)"
+  "gender" : "F",
+  "gsc_productNum" : 2940,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100825/2940/11104/large/d0e96d4b29acbe8c6e440eedea150140.jpg",
+  "name" : {
+    "en" : "Nendoroid Dead Master (ねんどろいど　でっどますたー)",
+    "ja" : "ねんどろいど デッドマスター (ねんどろいど　でっどますたー)",
+    "ko" : "데드 마스터"
   },
-  "series": {
-    "ko": "BLACK★ROCK SHOOTER",
-    "ja": "ブラック★ロックシューター",
-    "en": "Black Rock Shooter"
-  },
-  "gsc_productNum": 2940,
-  "price": 3667,
-  "release_date": [
+  "num" : "128",
+  "price" : 3667,
+  "release_date" : [
     "2010/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100825/2940/11104/large/d0e96d4b29acbe8c6e440eedea150140.jpg",
-  "gender": "F",
-  "set": 33
+  "series" : {
+    "en" : "Black Rock Shooter",
+    "ja" : "ブラック★ロックシューター",
+    "ko" : "BLACK★ROCK SHOOTER"
+  },
+  "set" : 33
 }

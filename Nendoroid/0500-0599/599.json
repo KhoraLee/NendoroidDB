@@ -1,20 +1,20 @@
 {
-  "num": "599",
-  "name": {
-    "ko": "퍼스트 오더 스톰투르퍼",
-    "ja": "ねんどろいど ファースト・オーダー ストームトルーパー (ねんどろいど ふぁーすと・おーだー すとーむとるーぱー)",
-    "en": "Nendoroid First Order Stormtrooper"
+  "gsc_productNum" : 5410,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151216/5410/36996/large/485b9a26684aa341fbd7f939f108b818.jpg",
+  "name" : {
+    "en" : "Nendoroid First Order Stormtrooper",
+    "ja" : "ねんどろいど ファースト・オーダー ストームトルーパー (ねんどろいど ふぁーすと・おーだー すとーむとるーぱー)",
+    "ko" : "퍼스트 오더 스톰투르퍼"
   },
-  "series": {
-    "ko": "스타워즈",
-    "ja": "スター・ウォーズ／フォースの覚醒",
-    "en": "Star Wars: Episode VII The Force Awakens"
-  },
-  "gsc_productNum": 5410,
-  "price": 4278,
-  "release_date": [
+  "num" : "599",
+  "price" : 4278,
+  "release_date" : [
     "2016/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151216/5410/36996/large/485b9a26684aa341fbd7f939f108b818.jpg",
-  "set": 115
+  "series" : {
+    "en" : "Star Wars: Episode VII The Force Awakens",
+    "ja" : "スター・ウォーズ／フォースの覚醒",
+    "ko" : "스타워즈"
+  },
+  "set" : 115
 }

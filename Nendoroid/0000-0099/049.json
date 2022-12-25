@@ -1,18 +1,18 @@
 {
-  "num": "049",
-  "name": {
-    "ko": "에그제리카 \u0026 유닛 세트",
-    "ja": "ねんどろいど エグゼリカ＆ユニットセット (ねんどろいど えぐぜりか＆ゆにっとせっと)"
+  "gender" : "F",
+  "gsc_productNum" : 3368,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3368/16301/large/e135bf87700f606913333a3e4ec8d093.jpg",
+  "name" : {
+    "ja" : "ねんどろいど エグゼリカ＆ユニットセット (ねんどろいど えぐぜりか＆ゆにっとせっと)",
+    "ko" : "에그제리카 & 유닛 세트"
   },
-  "series": {
-    "ko": "트리거하트 에그제리카",
-    "ja": "トリガーハート エグゼリカ エンハンスド"
-  },
-  "gsc_productNum": 3368,
-  "price": 14080,
-  "release_date": [
+  "num" : "049",
+  "price" : 14080,
+  "release_date" : [
     "2009/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3368/16301/large/e135bf87700f606913333a3e4ec8d093.jpg",
-  "gender": "F"
+  "series" : {
+    "ja" : "トリガーハート エグゼリカ エンハンスド",
+    "ko" : "트리거하트 에그제리카"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "536b",
-  "name": {
-    "ko": "오오노 아키라 TV Animation Ver.",
-    "ja": "ねんどろいど 大野晶 TV Animation Ver. (ねんどろいど おおのあきら TV Animation Ver.)",
-    "en": "Nendoroid Akira Oono: TV Animation Ver."
+  "gender" : "M",
+  "gsc_productNum" : 7474,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180726/7474/53463/large/59e97c48e6e1c2e8419337e750d502ae.jpg",
+  "name" : {
+    "en" : "Nendoroid Akira Oono: TV Animation Ver.",
+    "ja" : "ねんどろいど 大野晶 TV Animation Ver. (ねんどろいど おおのあきら TV Animation Ver.)",
+    "ko" : "오오노 아키라 TV Animation Ver."
   },
-  "series": {
-    "ko": "하이스코어 걸",
-    "ja": "ハイスコアガール",
-    "en": "HIGH SCORE GIRL"
-  },
-  "gsc_productNum": 7474,
-  "price": 4888,
-  "release_date": [
+  "num" : "536b",
+  "price" : 4888,
+  "release_date" : [
     "2018/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180726/7474/53463/large/59e97c48e6e1c2e8419337e750d502ae.jpg",
-  "gender": "M",
-  "set": 120
+  "series" : {
+    "en" : "HIGH SCORE GIRL",
+    "ja" : "ハイスコアガール",
+    "ko" : "하이스코어 걸"
+  },
+  "set" : 120
 }

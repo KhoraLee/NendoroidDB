@@ -1,21 +1,21 @@
 {
-  "num": "784",
-  "name": {
-    "ko": "타냐 데그레챠프",
-    "ja": "ねんどろいど ターニャ・デグレチャフ (ねんどろいど たーにゃ・でぐれちゃふ)",
-    "en": "Nendoroid Tanya Degurechaff"
+  "gender" : "F",
+  "gsc_productNum" : 6520,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170623/6520/46024/large/a1674268ac3c11b92ddc3aeffc60f023.jpg",
+  "name" : {
+    "en" : "Nendoroid Tanya Degurechaff",
+    "ja" : "ねんどろいど ターニャ・デグレチャフ (ねんどろいど たーにゃ・でぐれちゃふ)",
+    "ko" : "타냐 데그레챠프"
   },
-  "series": {
-    "ko": "유녀전기",
-    "ja": "幼女戦記",
-    "en": "Saga of Tanya the Evil"
-  },
-  "gsc_productNum": 6520,
-  "price": 4888,
-  "release_date": [
+  "num" : "784",
+  "price" : 4888,
+  "release_date" : [
     "2018/02",
     "2019/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170623/6520/46024/large/a1674268ac3c11b92ddc3aeffc60f023.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Saga of Tanya the Evil",
+    "ja" : "幼女戦記",
+    "ko" : "유녀전기"
+  }
 }

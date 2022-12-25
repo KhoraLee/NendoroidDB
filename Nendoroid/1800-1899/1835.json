@@ -1,20 +1,20 @@
 {
-  "num": "1835",
-  "name": {
-    "ko": "니님 랄레이",
-    "ja": "ねんどろいど ニニム・ラーレイ (ねんどろいど ににむ・らーれい)",
-    "en": "Nendoroid Ninym Ralei"
+  "gender" : "F",
+  "gsc_productNum" : 12439,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220307/12439/96230/large/b8516123ab2c5fffa19d8a8321ecc512.jpg",
+  "name" : {
+    "en" : "Nendoroid Ninym Ralei",
+    "ja" : "ねんどろいど ニニム・ラーレイ (ねんどろいど ににむ・らーれい)",
+    "ko" : "니님 랄레이"
   },
-  "series": {
-    "ko": "천재 왕자의 적자국가 재생술",
-    "ja": "天才王子の赤字国家再生術",
-    "en": "The Genius Prince\u0027s Guide to Raising a Nation Out of Debt"
-  },
-  "gsc_productNum": 12439,
-  "price": 6200,
-  "release_date": [
+  "num" : "1835",
+  "price" : 6200,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220307/12439/96230/large/b8516123ab2c5fffa19d8a8321ecc512.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "The Genius Prince's Guide to Raising a Nation Out of Debt",
+    "ja" : "天才王子の赤字国家再生術",
+    "ko" : "천재 왕자의 적자국가 재생술"
+  }
 }

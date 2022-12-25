@@ -1,21 +1,21 @@
 {
-  "num": "600",
-  "name": {
-    "ko": "세이버/알트리아 펜드래곤",
-    "ja": "ねんどろいど セイバー/アルトリア・ペンドラゴン (ねんどろいど せいばー/あるとりあ・ぺんどらごん)",
-    "en": "Nendoroid Saber/Altria Pendragon"
+  "gender" : "F",
+  "gsc_productNum" : 5721,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160607/5721/39463/large/2902ca2dd9351546729b6941a1fa5cd2.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber/Altria Pendragon",
+    "ja" : "ねんどろいど セイバー/アルトリア・ペンドラゴン (ねんどろいど せいばー/あるとりあ・ぺんどらごん)",
+    "ko" : "세이버/알트리아 펜드래곤"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 5721,
-  "price": 5093,
-  "release_date": [
+  "num" : "600",
+  "price" : 5093,
+  "release_date" : [
     "2016/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160607/5721/39463/large/2902ca2dd9351546729b6941a1fa5cd2.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

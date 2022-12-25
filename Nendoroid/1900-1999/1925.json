@@ -1,20 +1,20 @@
 {
-  "num": "1925",
-  "name": {
-    "ja": "ねんどろいど 超大型巨人 リニューアルセット (ねんどろいど ちょうおおがたきょじん りにゅーあるせっと)",
-    "en": "Nendoroid Colossal Titan Renewal Set",
-    "ko": "초대형 거인 리뉴얼 세트"
+  "gsc_productNum" : 12976,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220714/12976/101813/large/db2571f6c35b8bc85746ad8370e128f0.jpg",
+  "name" : {
+    "en" : "Nendoroid Colossal Titan Renewal Set",
+    "ja" : "ねんどろいど 超大型巨人 リニューアルセット (ねんどろいど ちょうおおがたきょじん りにゅーあるせっと)",
+    "ko" : "초대형 거인 리뉴얼 세트"
   },
-  "series": {
-    "ja": "進撃の巨人",
-    "en": "Attack on Titan",
-    "ko": "진격의 거인"
-  },
-  "gsc_productNum": 12976,
-  "price": 6100,
-  "release_date": [
+  "num" : "1925",
+  "price" : 6100,
+  "release_date" : [
     "2023/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220714/12976/101813/large/db2571f6c35b8bc85746ad8370e128f0.jpg",
-  "set": 87
+  "series" : {
+    "en" : "Attack on Titan",
+    "ja" : "進撃の巨人",
+    "ko" : "진격의 거인"
+  },
+  "set" : 87
 }

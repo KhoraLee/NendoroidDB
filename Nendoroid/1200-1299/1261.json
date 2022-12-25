@@ -1,21 +1,21 @@
 {
-  "num": "1261",
-  "name": {
-    "ko": "나기사 카오루",
-    "ja": "ねんどろいど 渚カヲル (ねんどろいど なぎさかをる)",
-    "en": "Nendoroid Kaworu Nagisa"
+  "gender" : "M",
+  "gsc_productNum" : 9124,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191220/9124/66322/large/d9c38ef12b861f70efc64048a2303cc1.jpg",
+  "name" : {
+    "en" : "Nendoroid Kaworu Nagisa",
+    "ja" : "ねんどろいど 渚カヲル (ねんどろいど なぎさかをる)",
+    "ko" : "나기사 카오루"
   },
-  "series": {
-    "ko": "에반게리온",
-    "ja": "ヱヴァンゲリヲン新劇場版",
-    "en": "Rebuild of Evangelion"
-  },
-  "gsc_productNum": 9124,
-  "price": 5100,
-  "release_date": [
+  "num" : "1261",
+  "price" : 5100,
+  "release_date" : [
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191220/9124/66322/large/d9c38ef12b861f70efc64048a2303cc1.jpg",
-  "gender": "M",
-  "set": 111
+  "series" : {
+    "en" : "Rebuild of Evangelion",
+    "ja" : "ヱヴァンゲリヲン新劇場版",
+    "ko" : "에반게리온"
+  },
+  "set" : 111
 }

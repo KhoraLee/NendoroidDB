@@ -1,21 +1,21 @@
 {
-  "num": "494",
-  "name": {
-    "ko": "전함 레급",
-    "ja": "ねんどろいど 戦艦レ級 (ねんどろいど せんかんれきゅう)",
-    "en": "Nendoroid Battleship Re-Class (ねんどろいど せんかんれきゅう)"
+  "gender" : "F",
+  "gsc_productNum" : 4764,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141204/4764/31647/large/f363dbbf9245d4268a821edb91ca824a.jpg",
+  "name" : {
+    "en" : "Nendoroid Battleship Re-Class (ねんどろいど せんかんれきゅう)",
+    "ja" : "ねんどろいど 戦艦レ級 (ねんどろいど せんかんれきゅう)",
+    "ko" : "전함 레급"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 4764,
-  "price": 5093,
-  "release_date": [
+  "num" : "494",
+  "price" : 5093,
+  "release_date" : [
     "2015/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141204/4764/31647/large/f363dbbf9245d4268a821edb91ca824a.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

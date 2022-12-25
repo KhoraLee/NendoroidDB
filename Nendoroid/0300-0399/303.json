@@ -1,21 +1,21 @@
 {
-  "num": "303",
-  "name": {
-    "ko": "유키미쿠 딸기 백무구 Ver.",
-    "ja": "ねんどろいど 雪ミク いちご白無垢Ver. (ねんどろいど ゆきみく いちごしろむくVer.)",
-    "en": "Nendoroid Snow Miku: Strawberry White Kimono Ver. (ねんどろいど ゆきみく いちごしろむくVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3798,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121220/3798/22109/large/2ad9d9990dbd443c312004341dc14e81.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow Miku: Strawberry White Kimono Ver. (ねんどろいど ゆきみく いちごしろむくVer.)",
+    "ja" : "ねんどろいど 雪ミク いちご白無垢Ver. (ねんどろいど ゆきみく いちごしろむくVer.)",
+    "ko" : "유키미쿠 딸기 백무구 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 3798,
-  "price": 4190,
-  "release_date": [
+  "num" : "303",
+  "price" : 4190,
+  "release_date" : [
     "2013/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121220/3798/22109/large/2ad9d9990dbd443c312004341dc14e81.jpg",
-  "gender": "F",
-  "set": 31
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 31
 }

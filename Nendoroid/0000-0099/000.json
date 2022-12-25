@@ -1,21 +1,21 @@
 {
-  "num": "000",
-  "name": {
-    "ko": "네코 알퀘이드",
-    "ja": "ねんどろいど ネコアルク 「換装！ブーブー顔」編 (ねんどろいど ねこあるく 「かんそう！ぶーぶーがお」へん)",
-    "en": "Nendoroid Neko Arc : Convert! Grumbling Face Edition (ねんどろいど ねこあるく 「かんそう！ぶーぶーがお」へん)"
+  "gender" : "F",
+  "gsc_productNum" : 3351,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3351/16265/large/9eb62188500a9eaa381d65fd6dabfe8e.jpg",
+  "name" : {
+    "en" : "Nendoroid Neko Arc : Convert! Grumbling Face Edition (ねんどろいど ねこあるく 「かんそう！ぶーぶーがお」へん)",
+    "ja" : "ねんどろいど ネコアルク 「換装！ブーブー顔」編 (ねんどろいど ねこあるく 「かんそう！ぶーぶーがお」へん)",
+    "ko" : "네코 알퀘이드"
   },
-  "series": {
-    "ko": "월희",
-    "ja": "ネコアルク",
-    "en": "Neko Arc"
-  },
-  "gsc_productNum": 3351,
-  "price": 3143,
-  "release_date": [
+  "num" : "000",
+  "price" : 3143,
+  "release_date" : [
     "2006/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3351/16265/large/9eb62188500a9eaa381d65fd6dabfe8e.jpg",
-  "gender": "F",
-  "set": 1
+  "series" : {
+    "en" : "Neko Arc",
+    "ja" : "ネコアルク",
+    "ko" : "월희"
+  },
+  "set" : 1
 }

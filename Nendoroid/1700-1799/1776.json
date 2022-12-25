@@ -1,21 +1,21 @@
 {
-  "num": "1776",
-  "name": {
-    "ko": "스켈레토",
-    "ja": "ねんどろいど スケルター (ねんどろいど すけるたー)",
-    "en": "Nendoroid Skeletor"
+  "gender" : "M",
+  "gsc_productNum" : 12064,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211129/12064/93405/large/6ffcf74f7aaaa7adea93fde1ede56fd5.jpg",
+  "name" : {
+    "en" : "Nendoroid Skeletor",
+    "ja" : "ねんどろいど スケルター (ねんどろいど すけるたー)",
+    "ko" : "스켈레토"
   },
-  "series": {
-    "ko": "우주의 영웅들:새로운 진실",
-    "ja": "マスターズ・オブ・ユニバース: 黙示録",
-    "en": "Masters of the Universe: Revelation"
-  },
-  "gsc_productNum": 12064,
-  "price": 7000,
-  "release_date": [
+  "num" : "1776",
+  "price" : 7000,
+  "release_date" : [
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211129/12064/93405/large/6ffcf74f7aaaa7adea93fde1ede56fd5.jpg",
-  "gender": "M",
-  "set": 278
+  "series" : {
+    "en" : "Masters of the Universe: Revelation",
+    "ja" : "マスターズ・オブ・ユニバース: 黙示録",
+    "ko" : "우주의 영웅들:새로운 진실"
+  },
+  "set" : 278
 }

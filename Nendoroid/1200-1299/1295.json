@@ -1,21 +1,21 @@
 {
-  "num": "1295",
-  "name": {
-    "ko": "필로",
-    "ja": "ねんどろいど フィーロ (ねんどろいど ふぃーろ)",
-    "en": "Nendoroid Filo"
+  "gender" : "F",
+  "gsc_productNum" : 9348,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200313/9348/68265/large/9b73ef394480a5d99220d1527b06a975.jpg",
+  "name" : {
+    "en" : "Nendoroid Filo",
+    "ja" : "ねんどろいど フィーロ (ねんどろいど ふぃーろ)",
+    "ko" : "필로"
   },
-  "series": {
-    "ko": "방패 용사 성공담",
-    "ja": "盾の勇者の成り上がり",
-    "en": "The Rising of the Shield Hero"
-  },
-  "gsc_productNum": 9348,
-  "price": 5000,
-  "release_date": [
+  "num" : "1295",
+  "price" : 5000,
+  "release_date" : [
     "2020/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200313/9348/68265/large/9b73ef394480a5d99220d1527b06a975.jpg",
-  "gender": "F",
-  "set": 213
+  "series" : {
+    "en" : "The Rising of the Shield Hero",
+    "ja" : "盾の勇者の成り上がり",
+    "ko" : "방패 용사 성공담"
+  },
+  "set" : 213
 }

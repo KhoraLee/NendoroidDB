@@ -1,21 +1,21 @@
 {
-  "num": "1717",
-  "name": {
-    "ko": "아르테르",
-    "ja": "ねんどろいど 旅人（空） (ねんどろいど たびびと（そら）)",
-    "en": "Nendoroid Traveler (Aether)"
+  "gender" : "M",
+  "gsc_productNum" : 11781,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210914/11781/89939/large/7eecb7ee13cf8926ca2a8c2411d2456d.jpg",
+  "name" : {
+    "en" : "Nendoroid Traveler (Aether)",
+    "ja" : "ねんどろいど 旅人（空） (ねんどろいど たびびと（そら）)",
+    "ko" : "아르테르"
   },
-  "series": {
-    "ko": "원신",
-    "ja": "原神",
-    "en": "Genshin Impact"
-  },
-  "gsc_productNum": 11781,
-  "price": 5800,
-  "release_date": [
+  "num" : "1717",
+  "price" : 5800,
+  "release_date" : [
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210914/11781/89939/large/7eecb7ee13cf8926ca2a8c2411d2456d.jpg",
-  "gender": "M",
-  "set": 270
+  "series" : {
+    "en" : "Genshin Impact",
+    "ja" : "原神",
+    "ko" : "원신"
+  },
+  "set" : 270
 }

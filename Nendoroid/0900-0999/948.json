@@ -1,20 +1,20 @@
 {
-  "num": "948",
-  "name": {
-    "ko": "모에타 카오루코",
-    "ja": "ねんどろいど 萌田薫子 (ねんどろいど もえたかおるこ)",
-    "en": "Nendoroid Kaoruko Moeta"
+  "gender" : "F",
+  "gsc_productNum" : 7381,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180626/7381/52841/large/5d842b66f0556e369207617a197f5087.jpg",
+  "name" : {
+    "en" : "Nendoroid Kaoruko Moeta",
+    "ja" : "ねんどろいど 萌田薫子 (ねんどろいど もえたかおるこ)",
+    "ko" : "모에타 카오루코"
   },
-  "series": {
-    "ko": "코믹 걸즈",
-    "ja": "こみっくがーるず",
-    "en": "Comic Girls"
-  },
-  "gsc_productNum": 7381,
-  "price": 4888,
-  "release_date": [
+  "num" : "948",
+  "price" : 4888,
+  "release_date" : [
     "2019/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180626/7381/52841/large/5d842b66f0556e369207617a197f5087.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Comic Girls",
+    "ja" : "こみっくがーるず",
+    "ko" : "코믹 걸즈"
+  }
 }

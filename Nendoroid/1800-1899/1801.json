@@ -1,21 +1,21 @@
 {
-  "num": "1801",
-  "name": {
-    "ko": "RM",
-    "ja": "ねんどろいど RM",
-    "en": "Nendoroid RM"
+  "gender" : "M",
+  "gsc_productNum" : 12105,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211209/12105/93057/large/fe52f8add887dfaa83458fe003b0035b.jpg",
+  "name" : {
+    "en" : "Nendoroid RM",
+    "ja" : "ねんどろいど RM",
+    "ko" : "RM"
   },
-  "series": {
-    "ko": "방탄소년단",
-    "ja": "TinyTAN",
-    "en": "TinyTAN"
-  },
-  "gsc_productNum": 12105,
-  "price": 5000,
-  "release_date": [
+  "num" : "1801",
+  "price" : 5000,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211209/12105/93057/large/fe52f8add887dfaa83458fe003b0035b.jpg",
-  "gender": "M",
-  "set": 282
+  "series" : {
+    "en" : "TinyTAN",
+    "ja" : "TinyTAN",
+    "ko" : "방탄소년단"
+  },
+  "set" : 282
 }

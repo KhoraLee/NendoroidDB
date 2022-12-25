@@ -1,20 +1,20 @@
 {
-  "num": "1517",
-  "name": {
-    "ko": "잭 스켈링턴 샌디클로즈 Ver.",
-    "ja": "ねんどろいど ジャック・スケリントン サンディー・クローズVer. (ねんどろいど じゃっく・すけりんとん さんでぃー・くろーずVer.)",
-    "en": "Nendoroid Jack Skellington: Sandy Claws Ver."
+  "gsc_productNum" : 10468,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201201/10468/78047/large/9c955a540c09e41d30c229b217f2292c.jpg",
+  "name" : {
+    "en" : "Nendoroid Jack Skellington: Sandy Claws Ver.",
+    "ja" : "ねんどろいど ジャック・スケリントン サンディー・クローズVer. (ねんどろいど じゃっく・すけりんとん さんでぃー・くろーずVer.)",
+    "ko" : "잭 스켈링턴 샌디클로즈 Ver."
   },
-  "series": {
-    "ko": "크리스마스의 악몽",
-    "ja": "ナイトメアー・ビフォア・クリスマス",
-    "en": "The Nightmare Before Christmas"
-  },
-  "gsc_productNum": 10468,
-  "price": 6200,
-  "release_date": [
+  "num" : "1517",
+  "price" : 6200,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201201/10468/78047/large/9c955a540c09e41d30c229b217f2292c.jpg",
-  "set": 197
+  "series" : {
+    "en" : "The Nightmare Before Christmas",
+    "ja" : "ナイトメアー・ビフォア・クリスマス",
+    "ko" : "크리스마스의 악몽"
+  },
+  "set" : 197
 }

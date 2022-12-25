@@ -1,20 +1,20 @@
 {
-  "num": "1196",
-  "name": {
-    "ko": "후루하시 후미노",
-    "ja": "ねんどろいど 古橋文乃 (ねんどろいど ふるはしふみの)",
-    "en": "Nendoroid Fumino Furuhashi"
+  "gender" : "F",
+  "gsc_productNum" : 8718,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190822/8718/63098/large/178d0ea389c47f8b4f97730c299480b3.jpg",
+  "name" : {
+    "en" : "Nendoroid Fumino Furuhashi",
+    "ja" : "ねんどろいど 古橋文乃 (ねんどろいど ふるはしふみの)",
+    "ko" : "후루하시 후미노"
   },
-  "series": {
-    "ko": "우리는 공부를 못해",
-    "ja": "ぼくたちは勉強ができない",
-    "en": "We Never Learn: BOKUBEN"
-  },
-  "gsc_productNum": 8718,
-  "price": 4800,
-  "release_date": [
+  "num" : "1196",
+  "price" : 4800,
+  "release_date" : [
     "2020/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190822/8718/63098/large/178d0ea389c47f8b4f97730c299480b3.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "We Never Learn: BOKUBEN",
+    "ja" : "ぼくたちは勉強ができない",
+    "ko" : "우리는 공부를 못해"
+  }
 }

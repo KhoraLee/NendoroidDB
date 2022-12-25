@@ -1,20 +1,20 @@
 {
-  "num": "871",
-  "name": {
-    "ko": "사쿠라노미야 마이카",
-    "ja": "ねんどろいど 桜ノ宮苺香 (ねんどろいど さくらのみやまいか)",
-    "en": "Nendoroid Maika Sakuranomiya"
+  "gender" : "F",
+  "gsc_productNum" : 6974,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171222/6974/49614/large/e9a336500114fec4261d2d438fd9ee28.jpg",
+  "name" : {
+    "en" : "Nendoroid Maika Sakuranomiya",
+    "ja" : "ねんどろいど 桜ノ宮苺香 (ねんどろいど さくらのみやまいか)",
+    "ko" : "사쿠라노미야 마이카"
   },
-  "series": {
-    "ko": "블렌드·S",
-    "ja": "ブレンド・S",
-    "en": "Blend S"
-  },
-  "gsc_productNum": 6974,
-  "price": 4481,
-  "release_date": [
+  "num" : "871",
+  "price" : 4481,
+  "release_date" : [
     "2018/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171222/6974/49614/large/e9a336500114fec4261d2d438fd9ee28.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Blend S",
+    "ja" : "ブレンド・S",
+    "ko" : "블렌드·S"
+  }
 }

@@ -1,20 +1,20 @@
 {
-  "num": "241",
-  "name": {
-    "ko": "타카나시 미우",
-    "ja": "ねんどろいど 小鳥遊美羽 (ねんどろいど たかなしみう)",
-    "en": "Nendoroid Miu Takanashi (ねんどろいど たかなしみう)"
+  "gender" : "F",
+  "gsc_productNum" : 3510,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120326/3510/17840/large/a4b87e02bed27dc4062ed4b3fefeb4ea.jpg",
+  "name" : {
+    "en" : "Nendoroid Miu Takanashi (ねんどろいど たかなしみう)",
+    "ja" : "ねんどろいど 小鳥遊美羽 (ねんどろいど たかなしみう)",
+    "ko" : "타카나시 미우"
   },
-  "series": {
-    "ko": "아빠 말 좀 들어라!",
-    "ja": "パパのいうことを聞きなさい！",
-    "en": "Listen to Me, Girls. I Am Your Father!"
-  },
-  "gsc_productNum": 3510,
-  "price": 3667,
-  "release_date": [
+  "num" : "241",
+  "price" : 3667,
+  "release_date" : [
     "2012/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120326/3510/17840/large/a4b87e02bed27dc4062ed4b3fefeb4ea.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Listen to Me, Girls. I Am Your Father!",
+    "ja" : "パパのいうことを聞きなさい！",
+    "ko" : "아빠 말 좀 들어라!"
+  }
 }

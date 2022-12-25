@@ -1,22 +1,22 @@
 {
-  "num": "1539",
-  "name": {
-    "ko": "유키 미쿠 Glowing Snow Ver.",
-    "ja": "ねんどろいど 雪ミク Glowing Snow Ver. (ねんどろいど ゆきみく ぐろうぃんぐ すのう Ver.)",
-    "en": "Nendoroid Snow Miku: Glowing Snow Ver."
+  "gender" : "F",
+  "gsc_productNum" : 10690,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210119/10690/79959/large/9d4dff11720c0f09c1d865cc583aa1a4.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow Miku: Glowing Snow Ver.",
+    "ja" : "ねんどろいど 雪ミク Glowing Snow Ver. (ねんどろいど ゆきみく ぐろうぃんぐ すのう Ver.)",
+    "ko" : "유키 미쿠 Glowing Snow Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 10690,
-  "price": 5800,
-  "release_date": [
+  "num" : "1539",
+  "price" : 5800,
+  "release_date" : [
     "2021/02",
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210119/10690/79959/large/9d4dff11720c0f09c1d865cc583aa1a4.jpg",
-  "gender": "F",
-  "set": 31
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 31
 }

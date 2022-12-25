@@ -1,20 +1,20 @@
 {
-  "num": "1486",
-  "name": {
-    "ko": "호시노 키라라",
-    "ja": "ねんどろいど 星乃雲母 (ねんどろいど ほしのきらら)",
-    "en": "Nendoroid Kirara Hoshino"
+  "gender" : "F",
+  "gsc_productNum" : 10193,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201007/10193/75559/large/34fa1d3f89b6f4ba4f2738a47fcb9d6f.jpg",
+  "name" : {
+    "en" : "Nendoroid Kirara Hoshino",
+    "ja" : "ねんどろいど 星乃雲母 (ねんどろいど ほしのきらら)",
+    "ko" : "호시노 키라라"
   },
-  "series": {
-    "ko": "초급편대 에그제로스",
-    "ja": "ド級編隊エグゼロス",
-    "en": "SUPER HXEROS"
-  },
-  "gsc_productNum": 10193,
-  "price": 5800,
-  "release_date": [
+  "num" : "1486",
+  "price" : 5800,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201007/10193/75559/large/34fa1d3f89b6f4ba4f2738a47fcb9d6f.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "SUPER HXEROS",
+    "ja" : "ド級編隊エグゼロス",
+    "ko" : "초급편대 에그제로스"
+  }
 }

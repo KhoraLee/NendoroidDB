@@ -1,20 +1,20 @@
 {
-  "num": "1249",
-  "name": {
-    "ko": "포옹팀 리더",
-    "ja": "ねんどろいど ピンクのクマちゃん (ねんどろいど ぴんくのくまちゃん)",
-    "en": "Nendoroid Cuddle Team Leader"
+  "gsc_productNum" : 9041,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191202/9041/65691/large/2bd132976b4d4f2cd41c1df293a26991.jpg",
+  "name" : {
+    "en" : "Nendoroid Cuddle Team Leader",
+    "ja" : "ねんどろいど ピンクのクマちゃん (ねんどろいど ぴんくのくまちゃん)",
+    "ko" : "포옹팀 리더"
   },
-  "series": {
-    "ko": "포트나이트",
-    "ja": "フォートナイト",
-    "en": "Fortnite"
-  },
-  "gsc_productNum": 9041,
-  "price": 5200,
-  "release_date": [
+  "num" : "1249",
+  "price" : 5200,
+  "release_date" : [
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191202/9041/65691/large/2bd132976b4d4f2cd41c1df293a26991.jpg",
-  "set": 229
+  "series" : {
+    "en" : "Fortnite",
+    "ja" : "フォートナイト",
+    "ko" : "포트나이트"
+  },
+  "set" : 229
 }

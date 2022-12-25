@@ -1,20 +1,20 @@
 {
-  "num": "1671",
-  "name": {
-    "ko": "실바나스 윈드런너",
-    "ja": "ねんどろいど シルヴァナス・ウィンドランナー (ねんどろいど しるゔぁなす・うぃんどらんなー)",
-    "en": "Nendoroid Sylvanas Windrunner"
+  "gender" : "F",
+  "gsc_productNum" : 11314,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210604/11314/85568/large/2e2505f9e8cd03c368a52e726293e61c.jpg",
+  "name" : {
+    "en" : "Nendoroid Sylvanas Windrunner",
+    "ja" : "ねんどろいど シルヴァナス・ウィンドランナー (ねんどろいど しるゔぁなす・うぃんどらんなー)",
+    "ko" : "실바나스 윈드런너"
   },
-  "series": {
-    "ko": "월드 오브 워크래프트",
-    "ja": "World of Warcraft",
-    "en": "World of Warcraft"
-  },
-  "gsc_productNum": 11314,
-  "price": 6200,
-  "release_date": [
+  "num" : "1671",
+  "price" : 6200,
+  "release_date" : [
     "2022/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210604/11314/85568/large/2e2505f9e8cd03c368a52e726293e61c.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "World of Warcraft",
+    "ja" : "World of Warcraft",
+    "ko" : "월드 오브 워크래프트"
+  }
 }

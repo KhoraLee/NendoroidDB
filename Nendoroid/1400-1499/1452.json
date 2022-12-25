@@ -1,21 +1,21 @@
 {
-  "num": "1452",
-  "name": {
-    "ko": "사이죠 타카토",
-    "ja": "ねんどろいど 西條高人 (ねんどろいど さいじょうたかと)",
-    "en": "Nendoroid Takato Saijo"
+  "gender" : "M",
+  "gsc_productNum" : 10046,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200911/10046/74224/large/d748b034f922ec6a339e308be81d8e7c.jpg",
+  "name" : {
+    "en" : "Nendoroid Takato Saijo",
+    "ja" : "ねんどろいど 西條高人 (ねんどろいど さいじょうたかと)",
+    "ko" : "사이죠 타카토"
   },
-  "series": {
-    "ko": "안기고 싶은 남자 1위에게 협박당하고 있습니다",
-    "ja": "抱かれたい男1位に脅されています。",
-    "en": "Dakaretai Otoko 1-i ni Odosarete Imasu."
-  },
-  "gsc_productNum": 10046,
-  "price": 6600,
-  "release_date": [
+  "num" : "1452",
+  "price" : 6600,
+  "release_date" : [
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200911/10046/74224/large/d748b034f922ec6a339e308be81d8e7c.jpg",
-  "gender": "M",
-  "set": 243
+  "series" : {
+    "en" : "Dakaretai Otoko 1-i ni Odosarete Imasu.",
+    "ja" : "抱かれたい男1位に脅されています。",
+    "ko" : "안기고 싶은 남자 1위에게 협박당하고 있습니다"
+  },
+  "set" : 243
 }

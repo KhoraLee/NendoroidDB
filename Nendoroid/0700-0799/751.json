@@ -1,22 +1,22 @@
 {
-  "num": "751",
-  "name": {
-    "ko": "에밀리아",
-    "ja": "ねんどろいど エミリア (ねんどろいど えみりあ)",
-    "en": "Nendoroid Emilia"
+  "gender" : "F",
+  "gsc_productNum" : 6334,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170322/6334/44461/large/d0c70da0526bcee3393a8a37c01bddb3.jpg",
+  "name" : {
+    "en" : "Nendoroid Emilia",
+    "ja" : "ねんどろいど エミリア (ねんどろいど えみりあ)",
+    "ko" : "에밀리아"
   },
-  "series": {
-    "ko": "Re: 제로부터 시작하는 이세계 생활",
-    "ja": "Re:ゼロから始める異世界生活",
-    "en": "Re:ZERO -Starting Life in Another World-"
-  },
-  "gsc_productNum": 6334,
-  "price": 5400,
-  "release_date": [
+  "num" : "751",
+  "price" : 5400,
+  "release_date" : [
     "2017/09",
     "2020/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170322/6334/44461/large/d0c70da0526bcee3393a8a37c01bddb3.jpg",
-  "gender": "F",
-  "set": 138
+  "series" : {
+    "en" : "Re:ZERO -Starting Life in Another World-",
+    "ja" : "Re:ゼロから始める異世界生活",
+    "ko" : "Re: 제로부터 시작하는 이세계 생활"
+  },
+  "set" : 138
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1967",
-  "name": {
-    "ja": "ねんどろいど しぐれうい (ねんどろいど しぐれうい)",
-    "en": "Nendoroid Shigure Ui",
-    "ko": "시구레 우이"
+  "gender" : "F",
+  "gsc_productNum" : 13285,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220921/13285/104711/large/030db90571893f48572211a7bd7a3992.jpg",
+  "name" : {
+    "en" : "Nendoroid Shigure Ui",
+    "ja" : "ねんどろいど しぐれうい (ねんどろいど しぐれうい)",
+    "ko" : "시구레 우이"
   },
-  "series": {
-    "ja": "しぐれうい",
-    "en": "Shigure Ui",
-    "ko": "시구레 우이"
-  },
-  "gsc_productNum": 13285,
-  "price": 7500,
-  "release_date": [
+  "num" : "1967",
+  "price" : 7500,
+  "release_date" : [
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220921/13285/104711/large/030db90571893f48572211a7bd7a3992.jpg",
-  "gender": "F",
-  "set": 169
+  "series" : {
+    "en" : "Shigure Ui",
+    "ja" : "しぐれうい",
+    "ko" : "시구레 우이"
+  },
+  "set" : 169
 }

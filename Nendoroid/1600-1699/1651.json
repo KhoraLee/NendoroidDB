@@ -1,21 +1,21 @@
 {
-  "num": "1651",
-  "name": {
-    "ko": "소나",
-    "ja": "ねんどろいど ソナ (ねんどろいど そな)",
-    "en": "Nendoroid Sona"
+  "gender" : "F",
+  "gsc_productNum" : 11267,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210525/11267/85176/large/3de665fb19b22b808bd2dd195018a673.jpg",
+  "name" : {
+    "en" : "Nendoroid Sona",
+    "ja" : "ねんどろいど ソナ (ねんどろいど そな)",
+    "ko" : "소나"
   },
-  "series": {
-    "ko": "리그 오브 레전드",
-    "ja": "リーグ・オブ・レジェンド",
-    "en": "League of Legends"
-  },
-  "gsc_productNum": 11267,
-  "price": 7500,
-  "release_date": [
+  "num" : "1651",
+  "price" : 7500,
+  "release_date" : [
     "2022/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210525/11267/85176/large/3de665fb19b22b808bd2dd195018a673.jpg",
-  "gender": "F",
-  "set": 98
+  "series" : {
+    "en" : "League of Legends",
+    "ja" : "リーグ・オブ・レジェンド",
+    "ko" : "리그 오브 레전드"
+  },
+  "set" : 98
 }

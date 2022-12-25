@@ -1,21 +1,21 @@
 {
-  "num": "448",
-  "name": {
-    "ko": "하츠네 미쿠 할로윈 Ver.",
-    "ja": "ねんどろいど 初音ミク ハロウィンVer. (ねんどろいど はつねみく はろうぃんVer.)",
-    "en": "Nendoroid Hatsune Miku: Halloween Ver. (ねんどろいど はつねみく はろうぃんVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 4582,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140908/4582/30331/large/90ae49e397848e5d7889a54068421da7.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Halloween Ver. (ねんどろいど はつねみく はろうぃんVer.)",
+    "ja" : "ねんどろいど 初音ミク ハロウィンVer. (ねんどろいど はつねみく はろうぃんVer.)",
+    "ko" : "하츠네 미쿠 할로윈 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 4582,
-  "price": 4278,
-  "release_date": [
+  "num" : "448",
+  "price" : 4278,
+  "release_date" : [
     "2014/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140908/4582/30331/large/90ae49e397848e5d7889a54068421da7.jpg",
-  "gender": "F",
-  "set": 10
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
 }

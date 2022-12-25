@@ -1,21 +1,21 @@
 {
-  "num": "324",
-  "name": {
-    "ko": "츠네모리 아카네",
-    "ja": "ねんどろいど 常守朱 (ねんどろいど つねもりあかね)",
-    "en": "Nendoroid Akane Tsunemori (ねんどろいど つねもりあかね)"
+  "gender" : "F",
+  "gsc_productNum" : 3892,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130424/3892/23593/large/eb1bab6064cf9ae55e3df0640d4474c8.jpg",
+  "name" : {
+    "en" : "Nendoroid Akane Tsunemori (ねんどろいど つねもりあかね)",
+    "ja" : "ねんどろいど 常守朱 (ねんどろいど つねもりあかね)",
+    "ko" : "츠네모리 아카네"
   },
-  "series": {
-    "ko": "PSYCHO-PASS",
-    "ja": "PSYCHO-PASS",
-    "en": "PSYCHO-PASS"
-  },
-  "gsc_productNum": 3892,
-  "price": 3667,
-  "release_date": [
+  "num" : "324",
+  "price" : 3667,
+  "release_date" : [
     "2013/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130424/3892/23593/large/eb1bab6064cf9ae55e3df0640d4474c8.jpg",
-  "gender": "F",
-  "set": 80
+  "series" : {
+    "en" : "PSYCHO-PASS",
+    "ja" : "PSYCHO-PASS",
+    "ko" : "PSYCHO-PASS"
+  },
+  "set" : 80
 }

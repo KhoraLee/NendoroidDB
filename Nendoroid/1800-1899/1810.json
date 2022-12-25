@@ -1,21 +1,21 @@
 {
-  "num": "1810",
-  "name": {
-    "ko": "사리아",
-    "ja": "ねんどろいど サリア (ねんどろいど さりあ)",
-    "en": "Nendoroid Saria"
+  "gender" : "F",
+  "gsc_productNum" : 12353,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220216/12353/95447/large/50db0788bfdafc40bd412298294902ea.jpg",
+  "name" : {
+    "en" : "Nendoroid Saria",
+    "ja" : "ねんどろいど サリア (ねんどろいど さりあ)",
+    "ko" : "사리아"
   },
-  "series": {
-    "ko": "명일방주",
-    "ja": "アークナイツ",
-    "en": "Arknights"
-  },
-  "gsc_productNum": 12353,
-  "price": 6800,
-  "release_date": [
+  "num" : "1810",
+  "price" : 6800,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220216/12353/95447/large/50db0788bfdafc40bd412298294902ea.jpg",
-  "gender": "F",
-  "set": 216
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 216
 }

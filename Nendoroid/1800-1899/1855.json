@@ -1,21 +1,21 @@
 {
-  "num": "1855",
-  "name": {
-    "ko": "배트맨: 더 배트맨 Ver.",
-    "ja": "ねんどろいど バットマン ザ・バットマン Ver. (ねんどろいど ばっとまん ざ・ばっとまん Ver.)",
-    "en": "Nendoroid Batman: The Batman Ver."
+  "gender" : "M",
+  "gsc_productNum" : 12493,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220323/12493/96861/large/7b909e8b8cbaf838d721ffe9f06325e6.jpg",
+  "name" : {
+    "en" : "Nendoroid Batman: The Batman Ver.",
+    "ja" : "ねんどろいど バットマン ザ・バットマン Ver. (ねんどろいど ばっとまん ざ・ばっとまん Ver.)",
+    "ko" : "배트맨: 더 배트맨 Ver."
   },
-  "series": {
-    "ko": "더 배트맨",
-    "ja": "THE BATMAN－ザ・バットマン－",
-    "en": "The Batman"
-  },
-  "gsc_productNum": 12493,
-  "price": 7300,
-  "release_date": [
+  "num" : "1855",
+  "price" : 7300,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220323/12493/96861/large/7b909e8b8cbaf838d721ffe9f06325e6.jpg",
-  "gender": "M",
-  "set": 268
+  "series" : {
+    "en" : "The Batman",
+    "ja" : "THE BATMAN－ザ・バットマン－",
+    "ko" : "더 배트맨"
+  },
+  "set" : 268
 }

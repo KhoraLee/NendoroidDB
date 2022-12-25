@@ -1,21 +1,21 @@
 {
-  "num": "778",
-  "name": {
-    "ko": "무츠키 改二",
-    "ja": "ねんどろいど 睦月改二 (ねんどろいど むつきかいに)",
-    "en": "Nendoroid Mutsuki Kai-II"
+  "gender" : "F",
+  "gsc_productNum" : 6471,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170526/6471/45637/large/986e6b21f996dc08a2ac40717fdf8a3c.jpg",
+  "name" : {
+    "en" : "Nendoroid Mutsuki Kai-II",
+    "ja" : "ねんどろいど 睦月改二 (ねんどろいど むつきかいに)",
+    "ko" : "무츠키 改二"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 6471,
-  "price": 5602,
-  "release_date": [
+  "num" : "778",
+  "price" : 5602,
+  "release_date" : [
     "2017/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170526/6471/45637/large/986e6b21f996dc08a2ac40717fdf8a3c.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1235",
-  "name": {
-    "ko": "신라 쿠사카베",
-    "ja": "ねんどろいど 森羅日下部 (ねんどろいど しんらくさかべ)",
-    "en": "Nendoroid Shinra Kusakabe"
+  "gender" : "M",
+  "gsc_productNum" : 8992,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191115/8992/65307/large/dd1fab02b59bf5ba9b793c5315164e58.jpg",
+  "name" : {
+    "en" : "Nendoroid Shinra Kusakabe",
+    "ja" : "ねんどろいど 森羅日下部 (ねんどろいど しんらくさかべ)",
+    "ko" : "신라 쿠사카베"
   },
-  "series": {
-    "ko": "불꽃소방대",
-    "ja": "炎炎ノ消防隊",
-    "en": "Fire Force"
-  },
-  "gsc_productNum": 8992,
-  "price": 5200,
-  "release_date": [
+  "num" : "1235",
+  "price" : 5200,
+  "release_date" : [
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191115/8992/65307/large/dd1fab02b59bf5ba9b793c5315164e58.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Fire Force",
+    "ja" : "炎炎ノ消防隊",
+    "ko" : "불꽃소방대"
+  }
 }

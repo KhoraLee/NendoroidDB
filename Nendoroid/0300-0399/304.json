@@ -1,21 +1,21 @@
 {
-  "num": "304",
-  "name": {
-    "ko": "린\u0026우서+메카우서",
-    "ja": "ねんどろいど りん\u0026うーさー＋メカウーサー (ねんどろいど りん\u0026うーさー＋めかうーさー)",
-    "en": "Nendoroid Rin \u0026 wooser + Mechawooser (ねんどろいど りん\u0026うーさー＋めかうーさー)"
+  "gender" : "F",
+  "gsc_productNum" : 3788,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121213/3788/21979/large/1587787457aa35c61554d336846171cf.jpg",
+  "name" : {
+    "en" : "Nendoroid Rin & wooser + Mechawooser (ねんどろいど りん&うーさー＋めかうーさー)",
+    "ja" : "ねんどろいど りん&うーさー＋メカウーサー (ねんどろいど りん&うーさー＋めかうーさー)",
+    "ko" : "린&우서+메카우서"
   },
-  "series": {
-    "ko": "우서의 하루살이",
-    "ja": "うーさーのその日暮らし",
-    "en": "wooser\u0027s hand-to-mouth life"
-  },
-  "gsc_productNum": 3788,
-  "price": 5552,
-  "release_date": [
+  "num" : "304",
+  "price" : 5552,
+  "release_date" : [
     "2013/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121213/3788/21979/large/1587787457aa35c61554d336846171cf.jpg",
-  "gender": "F",
-  "set": 76
+  "series" : {
+    "en" : "wooser's hand-to-mouth life",
+    "ja" : "うーさーのその日暮らし",
+    "ko" : "우서의 하루살이"
+  },
+  "set" : 76
 }

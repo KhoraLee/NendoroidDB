@@ -1,20 +1,20 @@
 {
-  "num": "946",
-  "name": {
-    "ko": "사사키 하이세",
-    "ja": "ねんどろいど 佐々木琲世 (ねんどろいど ささきはいせ)",
-    "en": "Nendoroid Haise Sasaki"
+  "gender" : "M",
+  "gsc_productNum" : 7338,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180612/7338/52514/large/84144f565d4d2a69c81ff791ee5b2ab6.jpg",
+  "name" : {
+    "en" : "Nendoroid Haise Sasaki",
+    "ja" : "ねんどろいど 佐々木琲世 (ねんどろいど ささきはいせ)",
+    "ko" : "사사키 하이세"
   },
-  "series": {
-    "ko": "도쿄 구울",
-    "ja": "東京喰種トーキョーグール：re",
-    "en": "Tokyo Ghoul:re"
-  },
-  "gsc_productNum": 7338,
-  "price": 4584,
-  "release_date": [
+  "num" : "946",
+  "price" : 4584,
+  "release_date" : [
     "2018/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180612/7338/52514/large/84144f565d4d2a69c81ff791ee5b2ab6.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Tokyo Ghoul:re",
+    "ja" : "東京喰種トーキョーグール：re",
+    "ko" : "도쿄 구울"
+  }
 }

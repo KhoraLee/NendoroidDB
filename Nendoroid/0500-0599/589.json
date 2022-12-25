@@ -1,21 +1,21 @@
 {
-  "num": "589",
-  "name": {
-    "ko": "시더 신 문장의 비밀 에디션",
-    "ja": "ねんどろいど シーダ 新・紋章の謎エディション (ねんどろいど しーだ しん・もんしょうのなぞえでぃしょん)",
-    "en": "Nendoroid Sheeda: New Mystery of the Emblem Edition"
+  "gender" : "F",
+  "gsc_productNum" : 5364,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151125/5364/36595/large/a2e3a356ed393bdecc57d57cbb8f62f8.jpg",
+  "name" : {
+    "en" : "Nendoroid Sheeda: New Mystery of the Emblem Edition",
+    "ja" : "ねんどろいど シーダ 新・紋章の謎エディション (ねんどろいど しーだ しん・もんしょうのなぞえでぃしょん)",
+    "ko" : "시더 신 문장의 비밀 에디션"
   },
-  "series": {
-    "ko": "파이어 엠블렘",
-    "ja": "ファイアーエムブレム 新・紋章の謎 ～光と影の英雄～",
-    "en": "Fire Emblem: New Mystery of the Emblem"
-  },
-  "gsc_productNum": 5364,
-  "price": 5602,
-  "release_date": [
+  "num" : "589",
+  "price" : 5602,
+  "release_date" : [
     "2016/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151125/5364/36595/large/a2e3a356ed393bdecc57d57cbb8f62f8.jpg",
-  "gender": "F",
-  "set": 124
+  "series" : {
+    "en" : "Fire Emblem: New Mystery of the Emblem",
+    "ja" : "ファイアーエムブレム 新・紋章の謎 ～光と影の英雄～",
+    "ko" : "파이어 엠블렘"
+  },
+  "set" : 124
 }

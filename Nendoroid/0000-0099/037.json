@@ -1,20 +1,20 @@
 {
-  "num": "037",
-  "name": {
-    "ko": "파스텔 잉크",
-    "ja": "ねんどろいど ぱすてるインク (ぱすてるいんく ねんどろいど)",
-    "en": "Nendoroid Pastel Ink (ぱすてるいんく ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 336,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/336/5547/large/a72a754cfb8320b65170734ba23e1c2e.jpg",
+  "name" : {
+    "en" : "Nendoroid Pastel Ink (ぱすてるいんく ねんどろいど)",
+    "ja" : "ねんどろいど ぱすてるインク (ぱすてるいんく ねんどろいど)",
+    "ko" : "파스텔 잉크"
   },
-  "series": {
-    "ko": "모에땅",
-    "ja": "もえたん",
-    "en": "Moetan"
-  },
-  "gsc_productNum": 336,
-  "price": 3667,
-  "release_date": [
+  "num" : "037",
+  "price" : 3667,
+  "release_date" : [
     "2008/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/336/5547/large/a72a754cfb8320b65170734ba23e1c2e.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Moetan",
+    "ja" : "もえたん",
+    "ko" : "모에땅"
+  }
 }

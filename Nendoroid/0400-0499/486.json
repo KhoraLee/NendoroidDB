@@ -1,22 +1,22 @@
 {
-  "num": "486",
-  "name": {
-    "ko": "아처",
-    "ja": "ねんどろいど アーチャー スーパームーバブル・エディション (ねんどろいど あーちゃー すーぱーむーばぶる・えでぃしょん)",
-    "en": "Nendoroid Archer: Super Movable Edition (ねんどろいど あーちゃー すーぱーむーばぶる・えでぃしょん)"
+  "gender" : "M",
+  "gsc_productNum" : 4768,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141209/4768/31680/large/d7ee71ad647b4d77488f4c3f53cfc0cf.jpg",
+  "name" : {
+    "en" : "Nendoroid Archer: Super Movable Edition (ねんどろいど あーちゃー すーぱーむーばぶる・えでぃしょん)",
+    "ja" : "ねんどろいど アーチャー スーパームーバブル・エディション (ねんどろいど あーちゃー すーぱーむーばぶる・えでぃしょん)",
+    "ko" : "아처"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/stay night [Unlimited Blade Works]",
-    "en": "Fate/stay night [Unlimited Blade Works]"
-  },
-  "gsc_productNum": 4768,
-  "price": 3769,
-  "release_date": [
+  "num" : "486",
+  "price" : 3769,
+  "release_date" : [
     "2015/04",
     "2017/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141209/4768/31680/large/d7ee71ad647b4d77488f4c3f53cfc0cf.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/stay night [Unlimited Blade Works]",
+    "ja" : "Fate/stay night [Unlimited Blade Works]",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

@@ -1,21 +1,21 @@
 {
-  "num": "465",
-  "name": {
-    "ko": "츠구미 세이시로",
-    "ja": "ねんどろいど 鶫誠士郎 (ねんどろいど つぐみせいしろう)",
-    "en": "Nendoroid Seishiro Tsugumi (ねんどろいど つぐみせいしろう)"
+  "gender" : "F",
+  "gsc_productNum" : 4699,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141024/4699/31071/large/9c66878b60e4661946c7d945661c0819.jpg",
+  "name" : {
+    "en" : "Nendoroid Seishiro Tsugumi (ねんどろいど つぐみせいしろう)",
+    "ja" : "ねんどろいど 鶫誠士郎 (ねんどろいど つぐみせいしろう)",
+    "ko" : "츠구미 세이시로"
   },
-  "series": {
-    "ko": "니세코이",
-    "ja": "ニセコイ",
-    "en": "Nisekoi"
-  },
-  "gsc_productNum": 4699,
-  "price": 4074,
-  "release_date": [
+  "num" : "465",
+  "price" : 4074,
+  "release_date" : [
     "2015/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141024/4699/31071/large/9c66878b60e4661946c7d945661c0819.jpg",
-  "gender": "F",
-  "set": 102
+  "series" : {
+    "en" : "Nisekoi",
+    "ja" : "ニセコイ",
+    "ko" : "니세코이"
+  },
+  "set" : 102
 }

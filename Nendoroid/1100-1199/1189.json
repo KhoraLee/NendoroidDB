@@ -1,21 +1,21 @@
 {
-  "num": "1189",
-  "name": {
-    "ko": "아케치 고로 괴도복 Ver.",
-    "ja": "ねんどろいど 明智吾郎 怪盗服Ver. (ねんどろいど あけちごろう かいとうふくVer.)",
-    "en": "Nendoroid Goro Akechi: Phantom Thief Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8657,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190806/8657/62729/large/2481e44e4ad1f623aabac042e3eacde4.jpg",
+  "name" : {
+    "en" : "Nendoroid Goro Akechi: Phantom Thief Ver.",
+    "ja" : "ねんどろいど 明智吾郎 怪盗服Ver. (ねんどろいど あけちごろう かいとうふくVer.)",
+    "ko" : "아케치 고로 괴도복 Ver."
   },
-  "series": {
-    "ko": "페르소나5",
-    "ja": "PERSONA5 the Animation",
-    "en": "PERSONA5 the Animation"
-  },
-  "gsc_productNum": 8657,
-  "price": 5400,
-  "release_date": [
+  "num" : "1189",
+  "price" : 5400,
+  "release_date" : [
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190806/8657/62729/large/2481e44e4ad1f623aabac042e3eacde4.jpg",
-  "gender": "M",
-  "set": 57
+  "series" : {
+    "en" : "PERSONA5 the Animation",
+    "ja" : "PERSONA5 the Animation",
+    "ko" : "페르소나5"
+  },
+  "set" : 57
 }

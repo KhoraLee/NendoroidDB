@@ -1,21 +1,21 @@
 {
-  "num": "1520-DX",
-  "name": {
-    "ko": "블랙위도우 Black Widow DX Ver.",
-    "ja": "ねんどろいど ブラックウィドウ Black Widow Ver. DX (ねんどろいど ぶらっくうぃどう ぶらっくうぃどう Ver. DX)",
-    "en": "Nendoroid Black Widow: Black Widow Ver. DX"
+  "gender" : "F",
+  "gsc_productNum" : 10237,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201016/10237/76100/large/10a0b9009702d0189f468a6d0f82f60a.jpg",
+  "name" : {
+    "en" : "Nendoroid Black Widow: Black Widow Ver. DX",
+    "ja" : "ねんどろいど ブラックウィドウ Black Widow Ver. DX (ねんどろいど ぶらっくうぃどう ぶらっくうぃどう Ver. DX)",
+    "ko" : "블랙위도우 Black Widow DX Ver."
   },
-  "series": {
-    "ko": "블랙 위도우",
-    "ja": "ブラックウィドウ",
-    "en": "Black Widow"
-  },
-  "gsc_productNum": 10237,
-  "price": 9000,
-  "release_date": [
+  "num" : "1520-DX",
+  "price" : 9000,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201016/10237/76100/large/10a0b9009702d0189f468a6d0f82f60a.jpg",
-  "gender": "F",
-  "set": 63
+  "series" : {
+    "en" : "Black Widow",
+    "ja" : "ブラックウィドウ",
+    "ko" : "블랙 위도우"
+  },
+  "set" : 63
 }

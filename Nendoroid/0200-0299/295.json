@@ -1,22 +1,22 @@
 {
-  "num": "295",
-  "name": {
-    "ko": "키리토",
-    "ja": "ねんどろいど キリト (ねんどろいど きりと)",
-    "en": "Nendoroid Kirito (ねんどろいど　きりと)"
+  "gender" : "M",
+  "gsc_productNum" : 3779,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121207/3779/21840/large/b569f8c567888dff6e69f721a1def968.jpg",
+  "name" : {
+    "en" : "Nendoroid Kirito (ねんどろいど　きりと)",
+    "ja" : "ねんどろいど キリト (ねんどろいど きりと)",
+    "ko" : "키리토"
   },
-  "series": {
-    "ko": "소드 아트 온라인",
-    "ja": "ソードアート・オンライン",
-    "en": "Sword Art Online"
-  },
-  "gsc_productNum": 3779,
-  "price": 4278,
-  "release_date": [
+  "num" : "295",
+  "price" : 4278,
+  "release_date" : [
     "2013/05",
     "2017/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121207/3779/21840/large/b569f8c567888dff6e69f721a1def968.jpg",
-  "gender": "M",
-  "set": 70
+  "series" : {
+    "en" : "Sword Art Online",
+    "ja" : "ソードアート・オンライン",
+    "ko" : "소드 아트 온라인"
+  },
+  "set" : 70
 }

@@ -1,21 +1,21 @@
 {
-  "num": "609",
-  "name": {
-    "ko": "코메이지 사토리",
-    "ja": "ねんどろいど 古明地さとり (ねんどろいど こめいじさとり)",
-    "en": "Nendoroid Satori Komeiji"
+  "gender" : "F",
+  "gsc_productNum" : 5503,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160219/5503/37699/large/11f5dba16bec514ecb5e9132d85eab0a.jpg",
+  "name" : {
+    "en" : "Nendoroid Satori Komeiji",
+    "ja" : "ねんどろいど 古明地さとり (ねんどろいど こめいじさとり)",
+    "ko" : "코메이지 사토리"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方Project",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 5503,
-  "price": 4584,
-  "release_date": [
+  "num" : "609",
+  "price" : 4584,
+  "release_date" : [
     "2016/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160219/5503/37699/large/11f5dba16bec514ecb5e9132d85eab0a.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

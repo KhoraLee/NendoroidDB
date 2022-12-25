@@ -1,21 +1,21 @@
 {
-  "num": "743",
-  "name": {
-    "ko": "랜서/스카자하",
-    "ja": "ねんどろいど ランサー/スカサハ (ねんどろいど らんさー/すかさは)",
-    "en": "Nendoroid Lancer/Scáthach"
+  "gender" : "F",
+  "gsc_productNum" : 6280,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170222/6280/43988/large/ea7d0e8b7414f065ae1cd4a52850b2b9.jpg",
+  "name" : {
+    "en" : "Nendoroid Lancer/Scáthach",
+    "ja" : "ねんどろいど ランサー/スカサハ (ねんどろいど らんさー/すかさは)",
+    "ko" : "랜서/스카자하"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 6280,
-  "price": 4888,
-  "release_date": [
+  "num" : "743",
+  "price" : 4888,
+  "release_date" : [
     "2017/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170222/6280/43988/large/ea7d0e8b7414f065ae1cd4a52850b2b9.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1102",
-  "name": {
-    "ko": "미야모리 아오이",
-    "ja": "ねんどろいど 宮森あおい (ねんどろいど みやもりあおい)",
-    "en": "Nendoroid Aoi Miyamori"
+  "gender" : "F",
+  "gsc_productNum" : 8148,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190312/8148/58776/large/d211e456dd7f5fa4eb0e4eb9f9c7a50c.jpg",
+  "name" : {
+    "en" : "Nendoroid Aoi Miyamori",
+    "ja" : "ねんどろいど 宮森あおい (ねんどろいど みやもりあおい)",
+    "ko" : "미야모리 아오이"
   },
-  "series": {
-    "ko": "SHIROBAKO",
-    "ja": "SHIROBAKO",
-    "en": "SHIROBAKO"
-  },
-  "gsc_productNum": 8148,
-  "price": 5093,
-  "release_date": [
+  "num" : "1102",
+  "price" : 5093,
+  "release_date" : [
     "2019/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190312/8148/58776/large/d211e456dd7f5fa4eb0e4eb9f9c7a50c.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "SHIROBAKO",
+    "ja" : "SHIROBAKO",
+    "ko" : "SHIROBAKO"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "735",
-  "name": {
-    "ko": "카자미 유카",
-    "ja": "ねんどろいど 風見幽香 (ねんどろいど かざみゆうか)",
-    "en": "Nendoroid Yuuka Kazami"
+  "gender" : "F",
+  "gsc_productNum" : 6229,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170131/6229/43607/large/e9abaec28070c4b873099ffda4f15712.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuuka Kazami",
+    "ja" : "ねんどろいど 風見幽香 (ねんどろいど かざみゆうか)",
+    "ko" : "카자미 유카"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方Project",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 6229,
-  "price": 4888,
-  "release_date": [
+  "num" : "735",
+  "price" : 4888,
+  "release_date" : [
     "2017/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170131/6229/43607/large/e9abaec28070c4b873099ffda4f15712.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

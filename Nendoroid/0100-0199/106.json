@@ -1,21 +1,21 @@
 {
-  "num": "106",
-  "name": {
-    "ko": "블랙★록 슈터",
-    "ja": "ねんどろいど ブラック★ロックシューター (ねんどろいど ぶらっく★ろっくしゅーたー)",
-    "en": "Nendoroid Black Rock Shooter (ねんどろいど ぶらっく★ろっくしゅーたー)"
+  "gender" : "F",
+  "gsc_productNum" : 2837,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100323/2837/9698/large/6d0203de530c925e53154fb2400b246a.jpg",
+  "name" : {
+    "en" : "Nendoroid Black Rock Shooter (ねんどろいど ぶらっく★ろっくしゅーたー)",
+    "ja" : "ねんどろいど ブラック★ロックシューター (ねんどろいど ぶらっく★ろっくしゅーたー)",
+    "ko" : "블랙★록 슈터"
   },
-  "series": {
-    "ko": "BLACK★ROCK SHOOTER",
-    "ja": "ブラック★ロックシューター",
-    "en": "BLACK ROCK SHOOTER"
-  },
-  "gsc_productNum": 2837,
-  "price": 3667,
-  "release_date": [
+  "num" : "106",
+  "price" : 3667,
+  "release_date" : [
     "2010/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100323/2837/9698/large/6d0203de530c925e53154fb2400b246a.jpg",
-  "gender": "F",
-  "set": 33
+  "series" : {
+    "en" : "BLACK ROCK SHOOTER",
+    "ja" : "ブラック★ロックシューター",
+    "ko" : "BLACK★ROCK SHOOTER"
+  },
+  "set" : 33
 }

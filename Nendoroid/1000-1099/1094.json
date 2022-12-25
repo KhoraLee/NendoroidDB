@@ -1,21 +1,21 @@
 {
-  "num": "1094",
-  "name": {
-    "ko": "무라사키바라 아츠시",
-    "ja": "ねんどろいど 紫原 敦 Special Box (ねんどろいど むらさきばら あつし すぺしゃるぼっくす)",
-    "en": "Nendoroid Atsushi Murasakibara Special Box"
+  "gender" : "M",
+  "gsc_productNum" : 8110,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190226/8110/58433/large/a281d40712ccd58dc4d7be2000612ab5.jpg",
+  "name" : {
+    "en" : "Nendoroid Atsushi Murasakibara Special Box",
+    "ja" : "ねんどろいど 紫原 敦 Special Box (ねんどろいど むらさきばら あつし すぺしゃるぼっくす)",
+    "ko" : "무라사키바라 아츠시"
   },
-  "series": {
-    "ko": "쿠로코의 농구",
-    "ja": "黒子のバスケ",
-    "en": "Kuroko\u0027s Basketball"
-  },
-  "gsc_productNum": 8110,
-  "price": 5602,
-  "release_date": [
+  "num" : "1094",
+  "price" : 5602,
+  "release_date" : [
     "2019/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190226/8110/58433/large/a281d40712ccd58dc4d7be2000612ab5.jpg",
-  "gender": "M",
-  "set": 199
+  "series" : {
+    "en" : "Kuroko's Basketball",
+    "ja" : "黒子のバスケ",
+    "ko" : "쿠로코의 농구"
+  },
+  "set" : 199
 }

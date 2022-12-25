@@ -1,22 +1,22 @@
 {
-  "num": "700",
-  "name": {
-    "ko": "하쿠레이 레이무 2.0",
-    "ja": "ねんどろいど 博麗霊夢2.0 (ねんどろいど はくれいれいむ2.0)",
-    "en": "Nendoroid Reimu Hakurei 2.0"
+  "gender" : "F",
+  "gsc_productNum" : 6474,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170529/6474/45675/large/f15cb799aad84a387618b2a67f52e1ed.jpg",
+  "name" : {
+    "en" : "Nendoroid Reimu Hakurei 2.0",
+    "ja" : "ねんどろいど 博麗霊夢2.0 (ねんどろいど はくれいれいむ2.0)",
+    "ko" : "하쿠레이 레이무 2.0"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方Project",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 6474,
-  "price": 5093,
-  "release_date": [
+  "num" : "700",
+  "price" : 5093,
+  "release_date" : [
     "2017/12",
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170529/6474/45675/large/f15cb799aad84a387618b2a67f52e1ed.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

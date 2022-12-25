@@ -1,20 +1,20 @@
 {
-  "num": "272",
-  "name": {
-    "ko": "쿠스가와 사사라\u0026마량",
-    "ja": "ねんどろいど 久寿川ささら ヴァルキリー Ver. \u0026 ねんどろいどぷち まーりゃん (ねんどろいど くすがわささら う゛ぁるきりー Ver. \u0026 ねんどろいどぷち まーりゃん)",
-    "en": "Nendoroid Sasara Kusugawa Valkyrie Ver. \u0026 Nendoroid Petite Maryan (ねんどろいど くすがわささら う゛ぁるきりー Ver. \u0026 ねんどろいどぷち まーりゃん)"
+  "gender" : "F",
+  "gsc_productNum" : 3657,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120829/3657/20150/large/57f1469686c6cc9f26c191fee7f1cc01.jpg",
+  "name" : {
+    "en" : "Nendoroid Sasara Kusugawa Valkyrie Ver. & Nendoroid Petite Maryan (ねんどろいど くすがわささら う゛ぁるきりー Ver. & ねんどろいどぷち まーりゃん)",
+    "ja" : "ねんどろいど 久寿川ささら ヴァルキリー Ver. & ねんどろいどぷち まーりゃん (ねんどろいど くすがわささら う゛ぁるきりー Ver. & ねんどろいどぷち まーりゃん)",
+    "ko" : "쿠스가와 사사라&마량"
   },
-  "series": {
-    "ko": "AQUAPAZZA",
-    "ja": "AQUAPAZZA",
-    "en": "AQUAPAZZA"
-  },
-  "gsc_productNum": 3657,
-  "price": 4400,
-  "release_date": [
+  "num" : "272",
+  "price" : 4400,
+  "release_date" : [
     "2012/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120829/3657/20150/large/57f1469686c6cc9f26c191fee7f1cc01.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "AQUAPAZZA",
+    "ja" : "AQUAPAZZA",
+    "ko" : "AQUAPAZZA"
+  }
 }

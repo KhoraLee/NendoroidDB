@@ -1,21 +1,21 @@
 {
-  "num": "1650",
-  "name": {
-    "ko": "따인 티파컨",
-    "ja": "ねんどろいど タイン (ねんどろいど たいん)",
-    "en": "Nendoroid Tine"
+  "gender" : "M",
+  "gsc_productNum" : 11260,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210524/11260/85104/large/32152ada70a6b12cbdc9d4d328da7573.jpg",
+  "name" : {
+    "en" : "Nendoroid Tine",
+    "ja" : "ねんどろいど タイン (ねんどろいど たいん)",
+    "ko" : "따인 티파컨"
   },
-  "series": {
-    "ko": "2gether The Series",
-    "ja": "2gether",
-    "en": "2gether"
-  },
-  "gsc_productNum": 11260,
-  "price": 4800,
-  "release_date": [
+  "num" : "1650",
+  "price" : 4800,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210524/11260/85104/large/32152ada70a6b12cbdc9d4d328da7573.jpg",
-  "gender": "M",
-  "set": 263
+  "series" : {
+    "en" : "2gether",
+    "ja" : "2gether",
+    "ko" : "2gether The Series"
+  },
+  "set" : 263
 }

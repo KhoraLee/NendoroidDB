@@ -1,21 +1,21 @@
 {
-  "num": "278",
-  "name": {
-    "ko": "카자나리 츠바사",
-    "ja": "ねんどろいど 風鳴翼 (ねんどろいど かざなりつばさ)",
-    "en": "Nendoroid Tsubasa Kazanari (ねんどろいど かざなりつばさ)"
+  "gender" : "F",
+  "gsc_productNum" : 3694,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120926/3694/20646/large/e7e4bdeebb8486860fe2e4474587421a.jpg",
+  "name" : {
+    "en" : "Nendoroid Tsubasa Kazanari (ねんどろいど かざなりつばさ)",
+    "ja" : "ねんどろいど 風鳴翼 (ねんどろいど かざなりつばさ)",
+    "ko" : "카자나리 츠바사"
   },
-  "series": {
-    "ko": "전희절창 심포기어 시리즈",
-    "ja": "戦姫絶唱シンフォギア",
-    "en": "Senki Zesshou Symphogear"
-  },
-  "gsc_productNum": 3694,
-  "price": 3981,
-  "release_date": [
+  "num" : "278",
+  "price" : 3981,
+  "release_date" : [
     "2013/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120926/3694/20646/large/e7e4bdeebb8486860fe2e4474587421a.jpg",
-  "gender": "F",
-  "set": 59
+  "series" : {
+    "en" : "Senki Zesshou Symphogear",
+    "ja" : "戦姫絶唱シンフォギア",
+    "ko" : "전희절창 심포기어 시리즈"
+  },
+  "set" : 59
 }

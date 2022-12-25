@@ -1,21 +1,21 @@
 {
-  "num": "667",
-  "name": {
-    "ko": "아오츠키 우시오",
-    "ja": "ねんどろいど 蒼月潮 (ねんどろいど あおつきうしお)",
-    "en": "Nendoroid Ushio Aotsuki"
+  "gender" : "M",
+  "gsc_productNum" : 5898,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160825/5898/40858/large/b9a4e1fa2fc116dfb91cdce0f18ad036.jpg",
+  "name" : {
+    "en" : "Nendoroid Ushio Aotsuki",
+    "ja" : "ねんどろいど 蒼月潮 (ねんどろいど あおつきうしお)",
+    "ko" : "아오츠키 우시오"
   },
-  "series": {
-    "ko": "요괴소년 호야",
-    "ja": "うしおととら",
-    "en": "Ushio and Tora"
-  },
-  "gsc_productNum": 5898,
-  "price": 6820,
-  "release_date": [
+  "num" : "667",
+  "price" : 6820,
+  "release_date" : [
     "2017/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160825/5898/40858/large/b9a4e1fa2fc116dfb91cdce0f18ad036.jpg",
-  "gender": "M",
-  "set": 139
+  "series" : {
+    "en" : "Ushio and Tora",
+    "ja" : "うしおととら",
+    "ko" : "요괴소년 호야"
+  },
+  "set" : 139
 }

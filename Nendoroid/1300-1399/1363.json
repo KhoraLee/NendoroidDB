@@ -1,21 +1,21 @@
 {
-  "num": "1363",
-  "name": {
-    "ko": "사이토 에나",
-    "ja": "ねんどろいど 斉藤恵那 (ねんどろいど さいとうえな)",
-    "en": "Nendoroid Ena Saito"
+  "gender" : "F",
+  "gsc_productNum" : 9604,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200603/9604/70408/large/52e10ce2945354b14179b52399c54baa.jpg",
+  "name" : {
+    "en" : "Nendoroid Ena Saito",
+    "ja" : "ねんどろいど 斉藤恵那 (ねんどろいど さいとうえな)",
+    "ko" : "사이토 에나"
   },
-  "series": {
-    "ko": "유루캠△",
-    "ja": "ゆるキャン△",
-    "en": "Laid-Back Camp"
-  },
-  "gsc_productNum": 9604,
-  "price": 6500,
-  "release_date": [
+  "num" : "1363",
+  "price" : 6500,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200603/9604/70408/large/52e10ce2945354b14179b52399c54baa.jpg",
-  "gender": "F",
-  "set": 173
+  "series" : {
+    "en" : "Laid-Back Camp",
+    "ja" : "ゆるキャン△",
+    "ko" : "유루캠△"
+  },
+  "set" : 173
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1098",
-  "name": {
-    "ko": "하루카제 도레미",
-    "ja": "ねんどろいど 春風どれみ (ねんどろいど はるかぜどれみ)",
-    "en": "Nendoroid Doremi Harukaze"
+  "gender" : "F",
+  "gsc_productNum" : 8137,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190304/8137/58738/large/3778468968120f485e82a7b78beda210.jpg",
+  "name" : {
+    "en" : "Nendoroid Doremi Harukaze",
+    "ja" : "ねんどろいど 春風どれみ (ねんどろいど はるかぜどれみ)",
+    "ko" : "하루카제 도레미"
   },
-  "series": {
-    "ko": "오자마녀 도레미",
-    "ja": "も～っと！おジャ魔女どれみ",
-    "en": "Magical DoReMi 3"
-  },
-  "gsc_productNum": 8137,
-  "price": 5602,
-  "release_date": [
+  "num" : "1098",
+  "price" : 5602,
+  "release_date" : [
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190304/8137/58738/large/3778468968120f485e82a7b78beda210.jpg",
-  "gender": "F",
-  "set": 212
+  "series" : {
+    "en" : "Magical DoReMi 3",
+    "ja" : "も～っと！おジャ魔女どれみ",
+    "ko" : "오자마녀 도레미"
+  },
+  "set" : 212
 }

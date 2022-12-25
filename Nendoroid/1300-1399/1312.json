@@ -1,21 +1,21 @@
 {
-  "num": "1312",
-  "name": {
-    "ko": "주디 홉스",
-    "ja": "ねんどろいど ジュディ・ホップス (ねんどろいど じゅでぃ・ほっぷす)",
-    "en": "Nendoroid Judy Hopps"
+  "gender" : "F",
+  "gsc_productNum" : 9368,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200319/9368/68404/large/976ed309fbfd8298ceb39f2f12af19ad.jpg",
+  "name" : {
+    "en" : "Nendoroid Judy Hopps",
+    "ja" : "ねんどろいど ジュディ・ホップス (ねんどろいど じゅでぃ・ほっぷす)",
+    "ko" : "주디 홉스"
   },
-  "series": {
-    "ko": "주토피아",
-    "ja": "ズートピア",
-    "en": "Zootopia"
-  },
-  "gsc_productNum": 9368,
-  "price": 5800,
-  "release_date": [
+  "num" : "1312",
+  "price" : 5800,
+  "release_date" : [
     "2020/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200319/9368/68404/large/976ed309fbfd8298ceb39f2f12af19ad.jpg",
-  "gender": "F",
-  "set": 32
+  "series" : {
+    "en" : "Zootopia",
+    "ja" : "ズートピア",
+    "ko" : "주토피아"
+  },
+  "set" : 32
 }

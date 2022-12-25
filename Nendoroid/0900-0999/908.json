@@ -1,21 +1,21 @@
 {
-  "num": "908",
-  "name": {
-    "ko": "야에 사쿠라 역신의 무녀 Ver.",
-    "ja": "ねんどろいど 八重桜 逆神の巫女Ver. (ねんどろいど やえさくら ぎゃくしんのみこVer.)",
-    "en": "Nendoroid Sakura Yae: Heretic Miko Ver."
+  "gender" : "F",
+  "gsc_productNum" : 7153,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180327/7153/51027/large/26c4ddcdcccbac410c938e2b8fee736d.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Yae: Heretic Miko Ver.",
+    "ja" : "ねんどろいど 八重桜 逆神の巫女Ver. (ねんどろいど やえさくら ぎゃくしんのみこVer.)",
+    "ko" : "야에 사쿠라 역신의 무녀 Ver."
   },
-  "series": {
-    "ko": "붕괴 3rd",
-    "ja": "崩壊3rd",
-    "en": "Houkai 3rd"
-  },
-  "gsc_productNum": 7153,
-  "price": 5907,
-  "release_date": [
+  "num" : "908",
+  "price" : 5907,
+  "release_date" : [
     "2018/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180327/7153/51027/large/26c4ddcdcccbac410c938e2b8fee736d.jpg",
-  "gender": "F",
-  "set": 176
+  "series" : {
+    "en" : "Houkai 3rd",
+    "ja" : "崩壊3rd",
+    "ko" : "붕괴 3rd"
+  },
+  "set" : 176
 }

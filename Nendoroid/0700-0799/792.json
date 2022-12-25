@@ -1,21 +1,21 @@
 {
-  "num": "792",
-  "name": {
-    "ko": "우구이스마루",
-    "ja": "ねんどろいど 鶯丸 (ねんどろいど うぐいすまる)",
-    "en": "Nendoroid Uguisumaru"
+  "gender" : "M",
+  "gsc_productNum" : 6562,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170705/6562/46335/large/d2067c4d5efab2b903422a6b38b537fb.jpg",
+  "name" : {
+    "en" : "Nendoroid Uguisumaru",
+    "ja" : "ねんどろいど 鶯丸 (ねんどろいど うぐいすまる)",
+    "ko" : "우구이스마루"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 6562,
-  "price": 4685,
-  "release_date": [
+  "num" : "792",
+  "price" : 4685,
+  "release_date" : [
     "2017/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170705/6562/46335/large/d2067c4d5efab2b903422a6b38b537fb.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

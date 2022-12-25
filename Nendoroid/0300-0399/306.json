@@ -1,21 +1,21 @@
 {
-  "num": "306",
-  "name": {
-    "ko": "시노노노 호키",
-    "ja": "ねんどろいど 篠ノ之箒 (ねんどろいど しのののほうき)",
-    "en": "Nendoroid Houki Shinonono (ねんどろいど しのののほうき)"
+  "gender" : "F",
+  "gsc_productNum" : 3791,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121217/3791/22003/large/941a5caedd05b040d3422f37db8673bf.jpg",
+  "name" : {
+    "en" : "Nendoroid Houki Shinonono (ねんどろいど しのののほうき)",
+    "ja" : "ねんどろいど 篠ノ之箒 (ねんどろいど しのののほうき)",
+    "ko" : "시노노노 호키"
   },
-  "series": {
-    "ko": "인피니트 스트라토스",
-    "ja": "IS \u003cインフィニット・ストラトス\u003e",
-    "en": "IS \u003cInfinite Stratos\u003e"
-  },
-  "gsc_productNum": 3791,
-  "price": 3667,
-  "release_date": [
+  "num" : "306",
+  "price" : 3667,
+  "release_date" : [
     "2013/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121217/3791/22003/large/941a5caedd05b040d3422f37db8673bf.jpg",
-  "gender": "F",
-  "set": 77
+  "series" : {
+    "en" : "IS <Infinite Stratos>",
+    "ja" : "IS <インフィニット・ストラトス>",
+    "ko" : "인피니트 스트라토스"
+  },
+  "set" : 77
 }

@@ -1,21 +1,21 @@
 {
-  "num": "615",
-  "name": {
-    "ko": "용기사",
-    "ja": "ねんどろいど ドラゴンナイト (ねんどろいど どらごんないと)",
-    "en": "Nendoroid Dragon Knight"
+  "gender" : "M",
+  "gsc_productNum" : 5785,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160705/5785/39945/large/e76e6ca44edd303e73dc4bb3b02b6f5f.jpg",
+  "name" : {
+    "en" : "Nendoroid Dragon Knight",
+    "ja" : "ねんどろいど ドラゴンナイト (ねんどろいど どらごんないと)",
+    "ko" : "용기사"
   },
-  "series": {
-    "ko": "도타2",
-    "ja": "Dota 2",
-    "en": "DOTA 2"
-  },
-  "gsc_productNum": 5785,
-  "price": 4584,
-  "release_date": [
+  "num" : "615",
+  "price" : 4584,
+  "release_date" : [
     "2017/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160705/5785/39945/large/e76e6ca44edd303e73dc4bb3b02b6f5f.jpg",
-  "gender": "M",
-  "set": 129
+  "series" : {
+    "en" : "DOTA 2",
+    "ja" : "Dota 2",
+    "ko" : "도타2"
+  },
+  "set" : 129
 }

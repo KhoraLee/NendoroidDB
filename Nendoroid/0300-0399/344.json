@@ -1,20 +1,20 @@
 {
-  "num": "344",
-  "name": {
-    "ko": "잇시키 아카네",
-    "ja": "ねんどろいど 一色あかね (ねんどろいど いっしきあかね)",
-    "en": "Nendoroid Akane Isshiki (ねんどろいど いっしきあかね)"
+  "gender" : "F",
+  "gsc_productNum" : 3978,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130705/3978/24947/large/d88995c98f81ddd1b60bf25ad81f52d1.jpg",
+  "name" : {
+    "en" : "Nendoroid Akane Isshiki (ねんどろいど いっしきあかね)",
+    "ja" : "ねんどろいど 一色あかね (ねんどろいど いっしきあかね)",
+    "ko" : "잇시키 아카네"
   },
-  "series": {
-    "ko": "비비드레드 오퍼레이션",
-    "ja": "ビビッドレッド・オペレーション",
-    "en": "VIVIDRED OPERATION"
-  },
-  "gsc_productNum": 3978,
-  "price": 3981,
-  "release_date": [
+  "num" : "344",
+  "price" : 3981,
+  "release_date" : [
     "2013/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130705/3978/24947/large/d88995c98f81ddd1b60bf25ad81f52d1.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "VIVIDRED OPERATION",
+    "ja" : "ビビッドレッド・オペレーション",
+    "ko" : "비비드레드 오퍼레이션"
+  }
 }

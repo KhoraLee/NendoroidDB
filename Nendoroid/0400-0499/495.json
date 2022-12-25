@@ -1,21 +1,21 @@
 {
-  "num": "495",
-  "name": {
-    "ko": "하루나",
-    "ja": "ねんどろいど 榛名 (ねんどろいど はるな)",
-    "en": "Nendoroid Haruna (ねんどろいど はるな)"
+  "gender" : "F",
+  "gsc_productNum" : 4819,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150109/4819/32042/large/c206f852d207255e90fceb788ae321d0.jpg",
+  "name" : {
+    "en" : "Nendoroid Haruna (ねんどろいど はるな)",
+    "ja" : "ねんどろいど 榛名 (ねんどろいど はるな)",
+    "ko" : "하루나"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 4819,
-  "price": 5093,
-  "release_date": [
+  "num" : "495",
+  "price" : 5093,
+  "release_date" : [
     "2015/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150109/4819/32042/large/c206f852d207255e90fceb788ae321d0.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

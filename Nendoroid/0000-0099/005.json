@@ -1,21 +1,21 @@
 {
-  "num": "005",
-  "name": {
-    "ko": "야사구레 토오사카 린",
-    "ja": "ねんどろいど やさぐれ凛 (やさぐれりん　ねんどろいど)",
-    "en": "Nendoroid Yasagure Rin (やさぐれりん　ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 598,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/598/902/large/14baec2873b4d58c5f7cb3d6aad5fd5a.jpg",
+  "name" : {
+    "en" : "Nendoroid Yasagure Rin (やさぐれりん　ねんどろいど)",
+    "ja" : "ねんどろいど やさぐれ凛 (やさぐれりん　ねんどろいど)",
+    "ko" : "야사구레 토오사카 린"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/stay night",
-    "en": "Fate/stay night"
-  },
-  "gsc_productNum": 598,
-  "price": 4190,
-  "release_date": [
+  "num" : "005",
+  "price" : 4190,
+  "release_date" : [
     "2008/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/598/902/large/14baec2873b4d58c5f7cb3d6aad5fd5a.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/stay night",
+    "ja" : "Fate/stay night",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

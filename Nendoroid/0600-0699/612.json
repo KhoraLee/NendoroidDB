@@ -1,21 +1,21 @@
 {
-  "num": "612",
-  "name": {
-    "ko": "레드\u0026그린",
-    "ja": "ねんどろいど レッド＆グリーン (ねんどろいど れっどあんどぐりーん)",
-    "en": "Nendoroid Pokémon Trainer Red \u0026 Green"
+  "gender" : "M",
+  "gsc_productNum" : 5512,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160224/5512/37807/large/46e66ffced05af8f63094125ce1fb757.jpg",
+  "name" : {
+    "en" : "Nendoroid Pokémon Trainer Red & Green",
+    "ja" : "ねんどろいど レッド＆グリーン (ねんどろいど れっどあんどぐりーん)",
+    "ko" : "레드&그린"
   },
-  "series": {
-    "ko": "포켓몬스터",
-    "ja": "ポケットモンスター",
-    "en": "Pokémon"
-  },
-  "gsc_productNum": 5512,
-  "price": 8250,
-  "release_date": [
+  "num" : "612",
+  "price" : 8250,
+  "release_date" : [
     "2016/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160224/5512/37807/large/46e66ffced05af8f63094125ce1fb757.jpg",
-  "gender": "M",
-  "set": 103
+  "series" : {
+    "en" : "Pokémon",
+    "ja" : "ポケットモンスター",
+    "ko" : "포켓몬스터"
+  },
+  "set" : 103
 }

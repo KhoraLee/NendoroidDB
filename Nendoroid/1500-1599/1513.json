@@ -1,20 +1,20 @@
 {
-  "num": "1513",
-  "name": {
-    "ko": "히토츠야나기 리리",
-    "ja": "ねんどろいど 一柳梨璃 (ねんどろいど ひとつやなぎりり)",
-    "en": "Nendoroid Riri Hitotsuyanagi"
+  "gender" : "F",
+  "gsc_productNum" : 10399,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201111/10399/77317/large/f42e4d0beb35895236cfd0ef4e292fd4.jpg",
+  "name" : {
+    "en" : "Nendoroid Riri Hitotsuyanagi",
+    "ja" : "ねんどろいど 一柳梨璃 (ねんどろいど ひとつやなぎりり)",
+    "ko" : "히토츠야나기 리리"
   },
-  "series": {
-    "ko": "어설트 릴리 BOUQUET",
-    "ja": "アサルトリリィ BOUQUET",
-    "en": "Assault Lily BOUQUET"
-  },
-  "gsc_productNum": 10399,
-  "price": 5500,
-  "release_date": [
+  "num" : "1513",
+  "price" : 5500,
+  "release_date" : [
     "2021/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201111/10399/77317/large/f42e4d0beb35895236cfd0ef4e292fd4.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Assault Lily BOUQUET",
+    "ja" : "アサルトリリィ BOUQUET",
+    "ko" : "어설트 릴리 BOUQUET"
+  }
 }

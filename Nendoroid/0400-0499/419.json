@@ -1,21 +1,21 @@
 {
-  "num": "419",
-  "name": {
-    "ko": "이오나",
-    "ja": "ねんどろいど イオナ (ねんどろいど いおな)",
-    "en": "Nendoroid Iona (ねんどろいど いおな)"
+  "gender" : "F",
+  "gsc_productNum" : 4406,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140428/4406/28833/large/3ca35c29fb0a169a44ec8b21b2aaabb5.jpg",
+  "name" : {
+    "en" : "Nendoroid Iona (ねんどろいど いおな)",
+    "ja" : "ねんどろいど イオナ (ねんどろいど いおな)",
+    "ko" : "이오나"
   },
-  "series": {
-    "ko": "푸른 강철의 아르페지오",
-    "ja": "蒼き鋼のアルペジオ -アルス・ノヴァ-",
-    "en": "Arpeggio of Blue Steel -Ars Nova-"
-  },
-  "gsc_productNum": 4406,
-  "price": 4278,
-  "release_date": [
+  "num" : "419",
+  "price" : 4278,
+  "release_date" : [
     "2014/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140428/4406/28833/large/3ca35c29fb0a169a44ec8b21b2aaabb5.jpg",
-  "gender": "F",
-  "set": 101
+  "series" : {
+    "en" : "Arpeggio of Blue Steel -Ars Nova-",
+    "ja" : "蒼き鋼のアルペジオ -アルス・ノヴァ-",
+    "ko" : "푸른 강철의 아르페지오"
+  },
+  "set" : 101
 }

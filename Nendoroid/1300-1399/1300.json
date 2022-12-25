@@ -1,22 +1,22 @@
 {
-  "num": "1300",
-  "name": {
-    "ko": "이누야샤",
-    "ja": "ねんどろいど 犬夜叉 (ねんどろいど いぬやしゃ)",
-    "en": "Nendoroid Inuyasha"
+  "gender" : "M",
+  "gsc_productNum" : 9339,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200310/9339/68205/large/f72e6ae3b80d1d03656e819fb88e9ff9.jpg",
+  "name" : {
+    "en" : "Nendoroid Inuyasha",
+    "ja" : "ねんどろいど 犬夜叉 (ねんどろいど いぬやしゃ)",
+    "ko" : "이누야샤"
   },
-  "series": {
-    "ko": "이누야샤",
-    "ja": "犬夜叉",
-    "en": "Inuyasha"
-  },
-  "gsc_productNum": 9339,
-  "price": 5000,
-  "release_date": [
+  "num" : "1300",
+  "price" : 5000,
+  "release_date" : [
     "2020/10",
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200310/9339/68205/large/f72e6ae3b80d1d03656e819fb88e9ff9.jpg",
-  "gender": "M",
-  "set": 234
+  "series" : {
+    "en" : "Inuyasha",
+    "ja" : "犬夜叉",
+    "ko" : "이누야샤"
+  },
+  "set" : 234
 }

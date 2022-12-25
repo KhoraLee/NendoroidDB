@@ -1,21 +1,21 @@
 {
-  "num": "124",
-  "name": {
-    "ko": "스즈미야 하루히 소실Ver.",
-    "ja": "ねんどろいど 涼宮ハルヒ 消失Ver. (ねんどろいど すずみやはるひ しょうしつVer.)",
-    "en": "Nendoroid Haruhi Suzumiya: Disappearance ver. (ねんどろいど すずみやはるひ しょうしつVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 2937,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100823/2937/11069/large/50dc03aa610720236bd1b8046ce936bb.jpg",
+  "name" : {
+    "en" : "Nendoroid Haruhi Suzumiya: Disappearance ver. (ねんどろいど すずみやはるひ しょうしつVer.)",
+    "ja" : "ねんどろいど 涼宮ハルヒ 消失Ver. (ねんどろいど すずみやはるひ しょうしつVer.)",
+    "ko" : "스즈미야 하루히 소실Ver."
   },
-  "series": {
-    "ko": "스즈미야 하루히의 소실",
-    "ja": "涼宮ハルヒの消失",
-    "en": "The Disappearance of Haruhi Suzumiya"
-  },
-  "gsc_productNum": 2937,
-  "price": 3667,
-  "release_date": [
+  "num" : "124",
+  "price" : 3667,
+  "release_date" : [
     "2010/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100823/2937/11069/large/50dc03aa610720236bd1b8046ce936bb.jpg",
-  "gender": "F",
-  "set": 37
+  "series" : {
+    "en" : "The Disappearance of Haruhi Suzumiya",
+    "ja" : "涼宮ハルヒの消失",
+    "ko" : "스즈미야 하루히의 소실"
+  },
+  "set" : 37
 }

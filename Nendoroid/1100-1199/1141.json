@@ -1,21 +1,21 @@
 {
-  "num": "1141",
-  "name": {
-    "ko": "D.Va 아카데미 스킨 에디션",
-    "ja": "ねんどろいど D.Va アカデミースキン・エディション (ねんどろいど でぃーば あかでみーすきん・えでぃしょん)",
-    "en": "Nendoroid D.Va: Academy Skin Edition"
+  "gender" : "F",
+  "gsc_productNum" : 8361,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190523/8361/63536/large/56eabb518143432bf78878da8056aa86.jpg",
+  "name" : {
+    "en" : "Nendoroid D.Va: Academy Skin Edition",
+    "ja" : "ねんどろいど D.Va アカデミースキン・エディション (ねんどろいど でぃーば あかでみーすきん・えでぃしょん)",
+    "ko" : "D.Va 아카데미 스킨 에디션"
   },
-  "series": {
-    "ko": "오버워치",
-    "ja": "オーバーウォッチ",
-    "en": "Overwatch®"
-  },
-  "gsc_productNum": 8361,
-  "price": 4800,
-  "release_date": [
+  "num" : "1141",
+  "price" : 4800,
+  "release_date" : [
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190523/8361/63536/large/56eabb518143432bf78878da8056aa86.jpg",
-  "gender": "F",
-  "set": 150
+  "series" : {
+    "en" : "Overwatch®",
+    "ja" : "オーバーウォッチ",
+    "ko" : "오버워치"
+  },
+  "set" : 150
 }

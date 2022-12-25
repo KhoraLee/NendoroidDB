@@ -1,22 +1,22 @@
 {
-  "num": "492",
-  "name": {
-    "ko": "라이더",
-    "ja": "ねんどろいど ライダー (ねんどろいど らいだー)",
-    "en": "Nendoroid Rider"
+  "gender" : "F",
+  "gsc_productNum" : 4816,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150105/4816/32013/large/60c81f7968af752080bdf3be5de335a5.jpg",
+  "name" : {
+    "en" : "Nendoroid Rider",
+    "ja" : "ねんどろいど ライダー (ねんどろいど らいだー)",
+    "ko" : "라이더"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "劇場版「Fate/stay night [Heaven\u0027s Feel]」",
-    "en": "Fate/stay night: Heaven\u0027s Feel"
-  },
-  "gsc_productNum": 4816,
-  "price": 4600,
-  "release_date": [
+  "num" : "492",
+  "price" : 4600,
+  "release_date" : [
     "2015/05",
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150105/4816/32013/large/60c81f7968af752080bdf3be5de335a5.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/stay night: Heaven's Feel",
+    "ja" : "劇場版「Fate/stay night [Heaven's Feel]」",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

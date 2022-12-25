@@ -1,21 +1,21 @@
 {
-  "num": "297",
-  "name": {
-    "ko": "유노",
-    "ja": "ねんどろいど ゆの (ねんどろいど ゆの)",
-    "en": "Nendoroid Yuno (ねんどろいど ゆの)"
+  "gender" : "F",
+  "gsc_productNum" : 3784,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121212/3784/21928/large/1fa3219238daacabffc5bf70fd6cd197.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuno (ねんどろいど ゆの)",
+    "ja" : "ねんどろいど ゆの (ねんどろいど ゆの)",
+    "ko" : "유노"
   },
-  "series": {
-    "ko": "히다마리 스케치",
-    "ja": "ひだまりスケッチ×ハニカム",
-    "en": "Hidamari Sketch x Honeycomb"
-  },
-  "gsc_productNum": 3784,
-  "price": 3667,
-  "release_date": [
+  "num" : "297",
+  "price" : 3667,
+  "release_date" : [
     "2013/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121212/3784/21928/large/1fa3219238daacabffc5bf70fd6cd197.jpg",
-  "gender": "F",
-  "set": 74
+  "series" : {
+    "en" : "Hidamari Sketch x Honeycomb",
+    "ja" : "ひだまりスケッチ×ハニカム",
+    "ko" : "히다마리 스케치"
+  },
+  "set" : 74
 }

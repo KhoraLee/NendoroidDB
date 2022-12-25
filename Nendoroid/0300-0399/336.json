@@ -1,21 +1,21 @@
 {
-  "num": "336",
-  "name": {
-    "ko": "야가미 하야테 유니즌 에디션",
-    "ja": "ねんどろいど 八神はやて ユニゾンイン・エディション (ねんどろいど やがみはやて　ゆにぞんいん・えでぃしょん)",
-    "en": "Nendoroid Hayate Yagami: Unison Edition (ねんどろいど やがみはやて　ゆにぞんいん・えでぃしょん)"
+  "gender" : "F",
+  "gsc_productNum" : 3933,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130529/3933/24229/large/cc3dd55e124ac5d805e24d1c01d75cc2.jpg",
+  "name" : {
+    "en" : "Nendoroid Hayate Yagami: Unison Edition (ねんどろいど やがみはやて　ゆにぞんいん・えでぃしょん)",
+    "ja" : "ねんどろいど 八神はやて ユニゾンイン・エディション (ねんどろいど やがみはやて　ゆにぞんいん・えでぃしょん)",
+    "ko" : "야가미 하야테 유니즌 에디션"
   },
-  "series": {
-    "ko": "마법소녀 리리컬 나노하",
-    "ja": "魔法少女リリカルなのは The MOVIE 2nd A\u0027s",
-    "en": "Magical Girl Lyrical Nanoha The MOVIE 2nd A\u0027s"
-  },
-  "gsc_productNum": 3933,
-  "price": 4190,
-  "release_date": [
+  "num" : "336",
+  "price" : 4190,
+  "release_date" : [
     "2013/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130529/3933/24229/large/cc3dd55e124ac5d805e24d1c01d75cc2.jpg",
-  "gender": "F",
-  "set": 30
+  "series" : {
+    "en" : "Magical Girl Lyrical Nanoha The MOVIE 2nd A's",
+    "ja" : "魔法少女リリカルなのは The MOVIE 2nd A's",
+    "ko" : "마법소녀 리리컬 나노하"
+  },
+  "set" : 30
 }

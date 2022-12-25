@@ -1,22 +1,22 @@
 {
-  "num": "363",
-  "name": {
-    "ko": "세이버 얼터 슈퍼 무버블 에디션",
-    "ja": "ねんどろいど セイバーオルタ スーパームーバブル・エディション (ねんどろいど せいばーおるた すーぱーむーばぶる・えでぃしょん)",
-    "en": "Nendoroid Saber Alter: Super Movable Edition"
+  "gender" : "F",
+  "gsc_productNum" : 4035,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130821/4035/57264/large/3ac16a9eb69cc333bb2ea3575de9ea8b.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber Alter: Super Movable Edition",
+    "ja" : "ねんどろいど セイバーオルタ スーパームーバブル・エディション (ねんどろいど せいばーおるた すーぱーむーばぶる・えでぃしょん)",
+    "ko" : "세이버 얼터 슈퍼 무버블 에디션"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/stay night",
-    "en": "Fate/stay night"
-  },
-  "gsc_productNum": 4035,
-  "price": 4278,
-  "release_date": [
+  "num" : "363",
+  "price" : 4278,
+  "release_date" : [
     "2013/12",
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130821/4035/57264/large/3ac16a9eb69cc333bb2ea3575de9ea8b.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/stay night",
+    "ja" : "Fate/stay night",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

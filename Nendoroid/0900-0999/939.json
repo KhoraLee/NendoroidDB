@@ -1,22 +1,22 @@
 {
-  "num": "939",
-  "name": {
-    "ko": "나나치",
-    "ja": "ねんどろいど ナナチ (ねんどろいど ななち)",
-    "en": "Nendoroid Nanachi"
+  "gsc_productNum" : 7299,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180524/7299/52242/large/7b5f4af29e9df5b91ba6701ebb4be829.jpg",
+  "name" : {
+    "en" : "Nendoroid Nanachi",
+    "ja" : "ねんどろいど ナナチ (ねんどろいど ななち)",
+    "ko" : "나나치"
   },
-  "series": {
-    "ko": "메이드 인 어비스",
-    "ja": "メイドインアビス",
-    "en": "Made in Abyss"
-  },
-  "gsc_productNum": 7299,
-  "price": 6009,
-  "release_date": [
+  "num" : "939",
+  "price" : 6009,
+  "release_date" : [
     "2019/01",
     "2020/06",
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180524/7299/52242/large/7b5f4af29e9df5b91ba6701ebb4be829.jpg",
-  "set": 183
+  "series" : {
+    "en" : "Made in Abyss",
+    "ja" : "メイドインアビス",
+    "ko" : "메이드 인 어비스"
+  },
+  "set" : 183
 }

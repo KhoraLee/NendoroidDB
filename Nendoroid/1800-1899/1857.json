@@ -1,21 +1,21 @@
 {
-  "num": "1857",
-  "name": {
-    "ko": "마이멜로디",
-    "ja": "ねんどろいど マイメロディ (ねんどろいど まいめろでぃ)",
-    "en": "Nendoroid My Melody"
+  "gender" : "F",
+  "gsc_productNum" : 12498,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220324/12498/97083/large/d0af3981388ac17666f45ad25e939aca.jpg",
+  "name" : {
+    "en" : "Nendoroid My Melody",
+    "ja" : "ねんどろいど マイメロディ (ねんどろいど まいめろでぃ)",
+    "ko" : "마이멜로디"
   },
-  "series": {
-    "ko": "부탁해! 마이멜로디",
-    "ja": "おねがいマイメロディ",
-    "en": "Onegai My Melody"
-  },
-  "gsc_productNum": 12498,
-  "price": 5500,
-  "release_date": [
+  "num" : "1857",
+  "price" : 5500,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220324/12498/97083/large/d0af3981388ac17666f45ad25e939aca.jpg",
-  "gender": "F",
-  "set": 287
+  "series" : {
+    "en" : "Onegai My Melody",
+    "ja" : "おねがいマイメロディ",
+    "ko" : "부탁해! 마이멜로디"
+  },
+  "set" : 287
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1316",
-  "name": {
-    "ko": "아리스가와 다이스",
-    "ja": "ねんどろいど 有栖川帝統 (ねんどろいど ありすがわだいす)",
-    "en": "Nendoroid Dice Arisugawa"
+  "gender" : "M",
+  "gsc_productNum" : 9408,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200406/9408/68828/large/0ccf76a244431de5c3d02c21b911576a.jpg",
+  "name" : {
+    "en" : "Nendoroid Dice Arisugawa",
+    "ja" : "ねんどろいど 有栖川帝統 (ねんどろいど ありすがわだいす)",
+    "ko" : "아리스가와 다이스"
   },
-  "series": {
-    "ko": "히프노시스 마이크",
-    "ja": "ヒプノシスマイク -Division Rap Battle-",
-    "en": "Hypnosis Mic -Division Rap Battle-"
-  },
-  "gsc_productNum": 9408,
-  "price": 6600,
-  "release_date": [
+  "num" : "1316",
+  "price" : 6600,
+  "release_date" : [
     "2021/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200406/9408/68828/large/0ccf76a244431de5c3d02c21b911576a.jpg",
-  "gender": "M",
-  "set": 225
+  "series" : {
+    "en" : "Hypnosis Mic -Division Rap Battle-",
+    "ja" : "ヒプノシスマイク -Division Rap Battle-",
+    "ko" : "히프노시스 마이크"
+  },
+  "set" : 225
 }

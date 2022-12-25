@@ -1,22 +1,22 @@
 {
-  "num": "963",
-  "name": {
-    "ko": "사쿠라 후타바",
-    "ja": "ねんどろいど 佐倉双葉 (ねんどろいど さくらふたば)",
-    "en": "Nendoroid Futaba Sakura"
+  "gender" : "F",
+  "gsc_productNum" : 7404,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180703/7404/53001/large/592c08d27cf115ce6509422d7c6a835d.jpg",
+  "name" : {
+    "en" : "Nendoroid Futaba Sakura",
+    "ja" : "ねんどろいど 佐倉双葉 (ねんどろいど さくらふたば)",
+    "ko" : "사쿠라 후타바"
   },
-  "series": {
-    "ko": "페르소나5",
-    "ja": "ペルソナ５",
-    "en": "Persona5"
-  },
-  "gsc_productNum": 7404,
-  "price": 5093,
-  "release_date": [
+  "num" : "963",
+  "price" : 5093,
+  "release_date" : [
     "2018/12",
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180703/7404/53001/large/592c08d27cf115ce6509422d7c6a835d.jpg",
-  "gender": "F",
-  "set": 57
+  "series" : {
+    "en" : "Persona5",
+    "ja" : "ペルソナ５",
+    "ko" : "페르소나5"
+  },
+  "set" : 57
 }

@@ -1,21 +1,21 @@
 {
-  "num": "454",
-  "name": {
-    "ko": "사쿠라이 아오이",
-    "ja": "ねんどろいど 桜井あおい (ねんどろいど さくらいあおい)",
-    "en": "Nendoroid Aoi Sakurai (ねんどろいど さくらいあおい)"
+  "gender" : "F",
+  "gsc_productNum" : 4584,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140909/4584/30351/large/f5920502dac97ba6fc3c0f19e1cf4c8f.jpg",
+  "name" : {
+    "en" : "Nendoroid Aoi Sakurai (ねんどろいど さくらいあおい)",
+    "ja" : "ねんどろいど 桜井あおい (ねんどろいど さくらいあおい)",
+    "ko" : "사쿠라이 아오이"
   },
-  "series": {
-    "ko": "레일워즈",
-    "ja": "RAIL WARS!",
-    "en": "RAIL WARS!"
-  },
-  "gsc_productNum": 4584,
-  "price": 4400,
-  "release_date": [
+  "num" : "454",
+  "price" : 4400,
+  "release_date" : [
     "2014/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140909/4584/30351/large/f5920502dac97ba6fc3c0f19e1cf4c8f.jpg",
-  "gender": "F",
-  "set": 109
+  "series" : {
+    "en" : "RAIL WARS!",
+    "ja" : "RAIL WARS!",
+    "ko" : "레일워즈"
+  },
+  "set" : 109
 }

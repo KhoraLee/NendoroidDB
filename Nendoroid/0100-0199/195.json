@@ -1,20 +1,20 @@
 {
-  "num": "195",
-  "name": {
-    "ko": "토와 에리오",
-    "ja": "ねんどろいど 藤和エリオ (ねんどろいど とうわえりお)",
-    "en": "Nendoroid Erio Touwa (ねんどろいど とうわえりお)"
+  "gender" : "F",
+  "gsc_productNum" : 3273,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110901/3273/15280/large/da7c6423a8cae4f402b81c67b104f4f4.jpg",
+  "name" : {
+    "en" : "Nendoroid Erio Touwa (ねんどろいど とうわえりお)",
+    "ja" : "ねんどろいど 藤和エリオ (ねんどろいど とうわえりお)",
+    "ko" : "토와 에리오"
   },
-  "series": {
-    "ko": "전파녀와 청춘남",
-    "ja": "電波女と青春男",
-    "en": "Denpa Onna to Seishun Otoko"
-  },
-  "gsc_productNum": 3273,
-  "price": 4190,
-  "release_date": [
+  "num" : "195",
+  "price" : 4190,
+  "release_date" : [
     "2012/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110901/3273/15280/large/da7c6423a8cae4f402b81c67b104f4f4.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Denpa Onna to Seishun Otoko",
+    "ja" : "電波女と青春男",
+    "ko" : "전파녀와 청춘남"
+  }
 }

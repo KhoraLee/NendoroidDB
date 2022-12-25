@@ -1,21 +1,21 @@
 {
-  "num": "1335",
-  "name": {
-    "ko": "존스턴",
-    "ja": "ねんどろいど Johnston（ジョンストン） (ねんどろいど じょんすとん)",
-    "en": "Nendoroid Johnston"
+  "gender" : "F",
+  "gsc_productNum" : 9476,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200501/9476/69449/large/1a0d30c0ae887ad4392103b3841620f8.jpg",
+  "name" : {
+    "en" : "Nendoroid Johnston",
+    "ja" : "ねんどろいど Johnston（ジョンストン） (ねんどろいど じょんすとん)",
+    "ko" : "존스턴"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 9476,
-  "price": 7500,
-  "release_date": [
+  "num" : "1335",
+  "price" : 7500,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200501/9476/69449/large/1a0d30c0ae887ad4392103b3841620f8.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

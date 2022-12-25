@@ -1,24 +1,24 @@
 {
-  "num": "327",
-  "name": {
-    "ko": "여울",
-    "ja": "ねんどろいど しずえ (ねんどろいど しずえ)",
-    "en": "Nendoroid Shizue (Isabelle)"
+  "gsc_productNum" : 3906,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130513/3906/36906/large/63db3de990e6f9fda3d9e8ddbd63db62.jpg",
+  "name" : {
+    "en" : "Nendoroid Shizue (Isabelle)",
+    "ja" : "ねんどろいど しずえ (ねんどろいど しずえ)",
+    "ko" : "여울"
   },
-  "series": {
-    "ko": "동물의 숲 시리즈",
-    "ja": "とびだせ　どうぶつの森",
-    "en": "Animal Crossing: New Leaf"
-  },
-  "gsc_productNum": 3906,
-  "price": 4584,
-  "release_date": [
+  "num" : "327",
+  "price" : 4584,
+  "release_date" : [
     "2013/10",
     "2016/05",
     "2019/04",
     "2020/09",
     "2020/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130513/3906/36906/large/63db3de990e6f9fda3d9e8ddbd63db62.jpg",
-  "set": 81
+  "series" : {
+    "en" : "Animal Crossing: New Leaf",
+    "ja" : "とびだせ　どうぶつの森",
+    "ko" : "동물의 숲 시리즈"
+  },
+  "set" : 81
 }

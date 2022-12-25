@@ -1,21 +1,21 @@
 {
-  "num": "1955",
-  "name": {
-    "ja": "ねんどろいど 錦木千束 (ねんどろいど にしきぎちさと)",
-    "en": "Nendoroid Chisato Nishikigi",
-    "ko": "니시키기 치사토"
+  "gender" : "F",
+  "gsc_productNum" : 13213,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220906/13213/104237/large/d3f3393a3a015aa450a0760ba879850f.jpg",
+  "name" : {
+    "en" : "Nendoroid Chisato Nishikigi",
+    "ja" : "ねんどろいど 錦木千束 (ねんどろいど にしきぎちさと)",
+    "ko" : "니시키기 치사토"
   },
-  "series": {
-    "ja": "リコリス・リコイル",
-    "en": "Lycoris Recoil",
-    "ko": "리코리스 리코일"
-  },
-  "gsc_productNum": 13213,
-  "price": 5900,
-  "release_date": [
+  "num" : "1955",
+  "price" : 5900,
+  "release_date" : [
     "2023/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220906/13213/104237/large/d3f3393a3a015aa450a0760ba879850f.jpg",
-  "gender": "F",
-  "set": 297
+  "series" : {
+    "en" : "Lycoris Recoil",
+    "ja" : "リコリス・リコイル",
+    "ko" : "리코리스 리코일"
+  },
+  "set" : 297
 }

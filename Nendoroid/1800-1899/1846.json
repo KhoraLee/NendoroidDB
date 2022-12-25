@@ -1,21 +1,21 @@
 {
-  "num": "1846",
-  "name": {
-    "ko": "로쿠야 나기",
-    "ja": "ねんどろいど 六弥 ナギ (ねんどろいど ろくや なぎ)",
-    "en": "Nendoroid Nagi Rokuya"
+  "gender" : "M",
+  "gsc_productNum" : 12489,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220322/12489/96813/large/9f8fb362b0ff9257708e12fb35cb9f9f.jpg",
+  "name" : {
+    "en" : "Nendoroid Nagi Rokuya",
+    "ja" : "ねんどろいど 六弥 ナギ (ねんどろいど ろくや なぎ)",
+    "ko" : "로쿠야 나기"
   },
-  "series": {
-    "ko": "아이돌리쉬 세븐",
-    "ja": "アイドリッシュセブン",
-    "en": "IDOLiSH7"
-  },
-  "gsc_productNum": 12489,
-  "price": 5300,
-  "release_date": [
+  "num" : "1846",
+  "price" : 5300,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220322/12489/96813/large/9f8fb362b0ff9257708e12fb35cb9f9f.jpg",
-  "gender": "M",
-  "set": 174
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  },
+  "set" : 174
 }

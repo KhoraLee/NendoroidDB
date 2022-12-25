@@ -1,21 +1,21 @@
 {
-  "num": "795",
-  "name": {
-    "ko": "키요시모",
-    "ja": "ねんどろいど 清霜 (ねんどろいど きよしも)",
-    "en": "Nendoroid Kiyoshimo"
+  "gender" : "F",
+  "gsc_productNum" : 6577,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170710/6577/46462/large/21abc746b0699f22d96ee74807dfbaeb.jpg",
+  "name" : {
+    "en" : "Nendoroid Kiyoshimo",
+    "ja" : "ねんどろいど 清霜 (ねんどろいど きよしも)",
+    "ko" : "키요시모"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 6577,
-  "price": 5907,
-  "release_date": [
+  "num" : "795",
+  "price" : 5907,
+  "release_date" : [
     "2018/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170710/6577/46462/large/21abc746b0699f22d96ee74807dfbaeb.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

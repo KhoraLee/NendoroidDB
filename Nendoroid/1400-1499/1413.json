@@ -1,20 +1,20 @@
 {
-  "num": "1413",
-  "name": {
-    "ko": "타카기 양",
-    "ja": "ねんどろいど 高木さん (ねんどろいど たかぎさん)",
-    "en": "Nendoroid Takagi-san"
+  "gender" : "F",
+  "gsc_productNum" : 9796,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200717/9796/72115/large/f3e9bf3f40c7e00bb99efd16c5e0cd6f.jpg",
+  "name" : {
+    "en" : "Nendoroid Takagi-san",
+    "ja" : "ねんどろいど 高木さん (ねんどろいど たかぎさん)",
+    "ko" : "타카기 양"
   },
-  "series": {
-    "ko": "장난을 잘 치는 타카기 양",
-    "ja": "からかい上手の高木さん2",
-    "en": "Karakai Jozu No Takagi-san 2"
-  },
-  "gsc_productNum": 9796,
-  "price": 6380,
-  "release_date": [
+  "num" : "1413",
+  "price" : 6380,
+  "release_date" : [
     "2022/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200717/9796/72115/large/f3e9bf3f40c7e00bb99efd16c5e0cd6f.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Karakai Jozu No Takagi-san 2",
+    "ja" : "からかい上手の高木さん2",
+    "ko" : "장난을 잘 치는 타카기 양"
+  }
 }

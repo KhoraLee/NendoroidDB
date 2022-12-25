@@ -1,23 +1,23 @@
 {
-  "num": "524",
-  "name": {
-    "ko": "도마 우마루",
-    "ja": "ねんどろいど うまる (ねんどろいど うまる)",
-    "en": "Nendoroid Umaru"
+  "gender" : "F",
+  "gsc_productNum" : 5013,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150518/5013/33577/large/78934b256eed2acff7107b5dc7ecbee9.jpg",
+  "name" : {
+    "en" : "Nendoroid Umaru",
+    "ja" : "ねんどろいど うまる (ねんどろいど うまる)",
+    "ko" : "도마 우마루"
   },
-  "series": {
-    "ko": "건어물 여동생! 우마루짱",
-    "ja": "干物妹！うまるちゃん",
-    "en": "Himouto! Umaru-chan"
-  },
-  "gsc_productNum": 5013,
-  "price": 4888,
-  "release_date": [
+  "num" : "524",
+  "price" : 4888,
+  "release_date" : [
     "2015/09",
     "2016/02",
     "2018/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150518/5013/33577/large/78934b256eed2acff7107b5dc7ecbee9.jpg",
-  "gender": "F",
-  "set": 118
+  "series" : {
+    "en" : "Himouto! Umaru-chan",
+    "ja" : "干物妹！うまるちゃん",
+    "ko" : "건어물 여동생! 우마루짱"
+  },
+  "set" : 118
 }

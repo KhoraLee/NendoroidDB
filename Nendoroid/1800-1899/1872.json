@@ -1,21 +1,21 @@
 {
-  "num": "1872",
-  "name": {
-    "ko": "에이전트 스미스",
-    "ja": "ねんどろいど エージェント・スミス (ねんどろいど えーじぇんと・すみす)",
-    "en": "Nendoroid Agent Smith"
+  "gender" : "M",
+  "gsc_productNum" : 12593,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220420/12593/97761/large/69e54b270fa0b64fee48002026696de2.jpg",
+  "name" : {
+    "en" : "Nendoroid Agent Smith",
+    "ja" : "ねんどろいど エージェント・スミス (ねんどろいど えーじぇんと・すみす)",
+    "ko" : "에이전트 스미스"
   },
-  "series": {
-    "ko": "매트릭스",
-    "ja": "マトリックス",
-    "en": "The Matrix"
-  },
-  "gsc_productNum": 12593,
-  "price": 4500,
-  "release_date": [
+  "num" : "1872",
+  "price" : 4500,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220420/12593/97761/large/69e54b270fa0b64fee48002026696de2.jpg",
-  "gender": "M",
-  "set": 288
+  "series" : {
+    "en" : "The Matrix",
+    "ja" : "マトリックス",
+    "ko" : "매트릭스"
+  },
+  "set" : 288
 }

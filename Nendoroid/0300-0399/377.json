@@ -1,22 +1,22 @@
 {
-  "num": "377",
-  "name": {
-    "ko": "헌터♀ 키린 에디션",
-    "ja": "ねんどろいど ハンター♀ キリン・エディション (ねんどろいど はんたー♀ きりん・えでぃしょん)",
-    "en": "Nendoroid Hunter: Female - Kirin Edition (ねんどろいど はんたー♀ きりん・えでぃしょん)"
+  "gender" : "F",
+  "gsc_productNum" : 4112,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131112/4112/61598/large/02cfae92bc8ea3c89694193cb2e4785d.jpg",
+  "name" : {
+    "en" : "Nendoroid Hunter: Female - Kirin Edition (ねんどろいど はんたー♀ きりん・えでぃしょん)",
+    "ja" : "ねんどろいど ハンター♀ キリン・エディション (ねんどろいど はんたー♀ きりん・えでぃしょん)",
+    "ko" : "헌터♀ 키린 에디션"
   },
-  "series": {
-    "ko": "몬스터 헌터",
-    "ja": "モンスターハンター4",
-    "en": "Monster Hunter 4"
-  },
-  "gsc_productNum": 4112,
-  "price": 6200,
-  "release_date": [
+  "num" : "377",
+  "price" : 6200,
+  "release_date" : [
     "2014/03",
     "2019/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20131112/4112/61598/large/02cfae92bc8ea3c89694193cb2e4785d.jpg",
-  "gender": "F",
-  "set": 64
+  "series" : {
+    "en" : "Monster Hunter 4",
+    "ja" : "モンスターハンター4",
+    "ko" : "몬스터 헌터"
+  },
+  "set" : 64
 }

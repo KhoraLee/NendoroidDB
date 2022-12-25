@@ -1,21 +1,21 @@
 {
-  "num": "109b",
-  "name": {
-    "ko": "레이싱 미쿠 리턴즈",
-    "ja": "ねんどろいど レーシングミク 2010 Ver. リターンズ (ねんどろいど れーしんぐみく 2010 Ver. りたーんず)",
-    "en": "Nendoroid Racing Miku 2010 Ver. Returns (ねんどろいど れーしんぐみく2010 Ver. りたーんず)"
+  "gender" : "F",
+  "gsc_productNum" : 3677,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120919/3677/20464/large/c5a9b239a2057c81592a889290b3f435.jpg",
+  "name" : {
+    "en" : "Nendoroid Racing Miku 2010 Ver. Returns (ねんどろいど れーしんぐみく2010 Ver. りたーんず)",
+    "ja" : "ねんどろいど レーシングミク 2010 Ver. リターンズ (ねんどろいど れーしんぐみく 2010 Ver. りたーんず)",
+    "ko" : "레이싱 미쿠 리턴즈"
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "初音ミクGTプロジェクト",
-    "en": "Hatsune Miku: Racing Ver."
-  },
-  "gsc_productNum": 3677,
-  "price": 0,
-  "release_date": [
+  "num" : "109b",
+  "price" : 0,
+  "release_date" : [
     "2013/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120919/3677/20464/large/c5a9b239a2057c81592a889290b3f435.jpg",
-  "gender": "F",
-  "set": 23
+  "series" : {
+    "en" : "Hatsune Miku: Racing Ver.",
+    "ja" : "初音ミクGTプロジェクト",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 23
 }

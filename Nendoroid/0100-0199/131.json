@@ -1,21 +1,21 @@
 {
-  "num": "131",
-  "name": {
-    "ko": "아야사키 헤르미온느(하야테)",
-    "ja": "ねんどろいど 綾崎ハーマイオニー (ねんどろいど あやさきはーまいおにー)",
-    "en": "Nendoroid Hermione Ayasaki (ねんどろいど あやさきはーまいおにー)"
+  "gender" : "M",
+  "gsc_productNum" : 2984,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100929/2984/11562/large/3c66f5c526fff8ce1f62ba4078f12d6e.jpg",
+  "name" : {
+    "en" : "Nendoroid Hermione Ayasaki (ねんどろいど あやさきはーまいおにー)",
+    "ja" : "ねんどろいど 綾崎ハーマイオニー (ねんどろいど あやさきはーまいおにー)",
+    "ko" : "아야사키 헤르미온느(하야테)"
   },
-  "series": {
-    "ko": "하야테처럼!",
-    "ja": "ハヤテのごとく!!",
-    "en": "Hayate no Gotoku!!"
-  },
-  "gsc_productNum": 2984,
-  "price": 3981,
-  "release_date": [
+  "num" : "131",
+  "price" : 3981,
+  "release_date" : [
     "2011/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100929/2984/11562/large/3c66f5c526fff8ce1f62ba4078f12d6e.jpg",
-  "gender": "M",
-  "set": 38
+  "series" : {
+    "en" : "Hayate no Gotoku!!",
+    "ja" : "ハヤテのごとく!!",
+    "ko" : "하야테처럼!"
+  },
+  "set" : 38
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1018",
-  "name": {
-    "ko": "엑스",
-    "ja": "ねんどろいど エックス (ねんどろいど えっくす)",
-    "en": "Nendoroid Mega Man X"
+  "gsc_productNum" : 7743,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181026/7743/55504/large/d7e3181b0f69320d04efe35592e830ef.jpg",
+  "name" : {
+    "en" : "Nendoroid Mega Man X",
+    "ja" : "ねんどろいど エックス (ねんどろいど えっくす)",
+    "ko" : "엑스"
   },
-  "series": {
-    "ko": "록맨 시리즈",
-    "ja": "ロックマンX シリーズ",
-    "en": "Mega Man X"
-  },
-  "gsc_productNum": 7743,
-  "price": 4888,
-  "release_date": [
+  "num" : "1018",
+  "price" : 4888,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181026/7743/55504/large/d7e3181b0f69320d04efe35592e830ef.jpg",
-  "set": 122
+  "series" : {
+    "en" : "Mega Man X",
+    "ja" : "ロックマンX シリーズ",
+    "ko" : "록맨 시리즈"
+  },
+  "set" : 122
 }

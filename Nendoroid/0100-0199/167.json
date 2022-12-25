@@ -1,21 +1,21 @@
 {
-  "num": "167",
-  "name": {
-    "ko": "치르노",
-    "ja": "ねんどろいど チルノ (ねんどろいど ちるの)",
-    "en": "Nendoroid Cirno (ねんどろいど ちるの)"
+  "gender" : "F",
+  "gsc_productNum" : 3109,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110308/3109/13116/large/25ce3e3656715e63c1ac27f526a1db46.jpg",
+  "name" : {
+    "en" : "Nendoroid Cirno (ねんどろいど ちるの)",
+    "ja" : "ねんどろいど チルノ (ねんどろいど ちるの)",
+    "ko" : "치르노"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方Project",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 3109,
-  "price": 3143,
-  "release_date": [
+  "num" : "167",
+  "price" : 3143,
+  "release_date" : [
     "2011/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110308/3109/13116/large/25ce3e3656715e63c1ac27f526a1db46.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

@@ -1,21 +1,21 @@
 {
-  "num": "585",
-  "name": {
-    "ko": "후부키 애니메이션 Ver.",
-    "ja": "ねんどろいど 吹雪 Animation Ver. (ねんどろいど ふぶき あにめーしょん Ver.)",
-    "en": "Nendoroid Fubuki: Animation Ver."
+  "gender" : "F",
+  "gsc_productNum" : 5341,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151116/5341/36433/large/f41b534f495bd5a9c5e68961b6eb7602.jpg",
+  "name" : {
+    "en" : "Nendoroid Fubuki: Animation Ver.",
+    "ja" : "ねんどろいど 吹雪 Animation Ver. (ねんどろいど ふぶき あにめーしょん Ver.)",
+    "ko" : "후부키 애니메이션 Ver."
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 5341,
-  "price": 4888,
-  "release_date": [
+  "num" : "585",
+  "price" : 4888,
+  "release_date" : [
     "2016/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151116/5341/36433/large/f41b534f495bd5a9c5e68961b6eb7602.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

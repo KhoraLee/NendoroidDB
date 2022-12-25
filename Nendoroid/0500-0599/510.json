@@ -1,21 +1,21 @@
 {
-  "num": "510",
-  "name": {
-    "ko": "소노다 우미",
-    "ja": "ねんどろいど 園田海未 (ねんどろいど そのだうみ)",
-    "en": "Nendoroid Umi Sonoda (ねんどろいど そのだうみ)"
+  "gender" : "F",
+  "gsc_productNum" : 4886,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150313/4886/32630/large/c8540564ec9721e177137c304cfc3223.jpg",
+  "name" : {
+    "en" : "Nendoroid Umi Sonoda (ねんどろいど そのだうみ)",
+    "ja" : "ねんどろいど 園田海未 (ねんどろいど そのだうみ)",
+    "ko" : "소노다 우미"
   },
-  "series": {
-    "ko": "러브라이브!",
-    "ja": "ラブライブ！",
-    "en": "LoveLive!"
-  },
-  "gsc_productNum": 4886,
-  "price": 3565,
-  "release_date": [
+  "num" : "510",
+  "price" : 3565,
+  "release_date" : [
     "2015/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150313/4886/32630/large/c8540564ec9721e177137c304cfc3223.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 105
 }

@@ -1,22 +1,22 @@
 {
-  "num": "965",
-  "name": {
-    "ko": "소라",
-    "ja": "ねんどろいど ソラ (ねんどろいど そら)",
-    "en": "Nendoroid Sora"
+  "gender" : "M",
+  "gsc_productNum" : 7466,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180724/7466/53401/large/0c4f9380bb040940994e695f0f28b247.jpg",
+  "name" : {
+    "en" : "Nendoroid Sora",
+    "ja" : "ねんどろいど ソラ (ねんどろいど そら)",
+    "ko" : "소라"
   },
-  "series": {
-    "ko": "킹덤하츠",
-    "ja": "キングダム ハーツ",
-    "en": "Kingdom Hearts"
-  },
-  "gsc_productNum": 7466,
-  "price": 5093,
-  "release_date": [
+  "num" : "965",
+  "price" : 5093,
+  "release_date" : [
     "2018/12",
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180724/7466/53401/large/0c4f9380bb040940994e695f0f28b247.jpg",
-  "gender": "M",
-  "set": 187
+  "series" : {
+    "en" : "Kingdom Hearts",
+    "ja" : "キングダム ハーツ",
+    "ko" : "킹덤하츠"
+  },
+  "set" : 187
 }

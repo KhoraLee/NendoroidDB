@@ -1,20 +1,20 @@
 {
-  "num": "1129",
-  "name": {
-    "ko": "토산 스스",
-    "ja": "ねんどろいど 塗山スース（トサンスース） (ねんどろいど とさんすーす)",
-    "en": "Nendoroid Susu Tushan"
+  "gender" : "F",
+  "gsc_productNum" : 8322,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190510/8322/60070/large/486e97e7d891b1b84abcc2d73cf8b6a0.jpg",
+  "name" : {
+    "en" : "Nendoroid Susu Tushan",
+    "ja" : "ねんどろいど 塗山スース（トサンスース） (ねんどろいど とさんすーす)",
+    "ko" : "토산 스스"
   },
-  "series": {
-    "ko": "결연의 요우코짱",
-    "ja": "縁結びの妖狐ちゃん",
-    "en": "Fox Spirit Matchmaker"
-  },
-  "gsc_productNum": 8322,
-  "price": 5100,
-  "release_date": [
+  "num" : "1129",
+  "price" : 5100,
+  "release_date" : [
     "2019/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190510/8322/60070/large/486e97e7d891b1b84abcc2d73cf8b6a0.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Fox Spirit Matchmaker",
+    "ja" : "縁結びの妖狐ちゃん",
+    "ko" : "결연의 요우코짱"
+  }
 }

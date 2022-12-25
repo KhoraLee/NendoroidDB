@@ -1,21 +1,21 @@
 {
-  "num": "933",
-  "name": {
-    "ko": "루크 스카이워커",
-    "ja": "ねんどろいど ルーク・スカイウォーカー (ねんどろいど るーく・すかいうぉーかー)",
-    "en": "Nendoroid Luke Skywalker"
+  "gender" : "F",
+  "gsc_productNum" : 7269,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180511/7269/51922/large/aaa89e59706258c530e56f0a27417881.jpg",
+  "name" : {
+    "en" : "Nendoroid Luke Skywalker",
+    "ja" : "ねんどろいど ルーク・スカイウォーカー (ねんどろいど るーく・すかいうぉーかー)",
+    "ko" : "루크 스카이워커"
   },
-  "series": {
-    "ko": "스타워즈",
-    "ja": "スター・ウォーズ エピソード４／新たなる希望",
-    "en": "Star Wars Episode 4: A New Hope"
-  },
-  "gsc_productNum": 7269,
-  "price": 4888,
-  "release_date": [
+  "num" : "933",
+  "price" : 4888,
+  "release_date" : [
     "2018/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180511/7269/51922/large/aaa89e59706258c530e56f0a27417881.jpg",
-  "gender": "F",
-  "set": 115
+  "series" : {
+    "en" : "Star Wars Episode 4: A New Hope",
+    "ja" : "スター・ウォーズ エピソード４／新たなる希望",
+    "ko" : "스타워즈"
+  },
+  "set" : 115
 }

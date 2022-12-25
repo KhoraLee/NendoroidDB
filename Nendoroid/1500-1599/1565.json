@@ -1,21 +1,21 @@
 {
-  "num": "1565",
-  "name": {
-    "ko": "짱구 파자마 Ver. \u0026 짱아",
-    "ja": "ねんどろいど 野原しんのすけ パジャマVer. ＆ ひまわり (ねんどろいど のはらしんのすけ ぱじゃまVer. ＆ ひまわり)",
-    "en": "Nendoroid Shinnosuke Nohara: Pajama Ver. \u0026 Himawari"
+  "gender" : "M&F",
+  "gsc_productNum" : 10788,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210209/10788/80917/large/763cc78ae71b1f62c5bc8d9cac9cfd6e.jpg",
+  "name" : {
+    "en" : "Nendoroid Shinnosuke Nohara: Pajama Ver. & Himawari",
+    "ja" : "ねんどろいど 野原しんのすけ パジャマVer. ＆ ひまわり (ねんどろいど のはらしんのすけ ぱじゃまVer. ＆ ひまわり)",
+    "ko" : "짱구 파자마 Ver. & 짱아"
   },
-  "series": {
-    "ko": "짱구는 못말려",
-    "ja": "クレヨンしんちゃん",
-    "en": "Crayon Shin-chan"
-  },
-  "gsc_productNum": 10788,
-  "price": 5800,
-  "release_date": [
+  "num" : "1565",
+  "price" : 5800,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210209/10788/80917/large/763cc78ae71b1f62c5bc8d9cac9cfd6e.jpg",
-  "gender": "M\u0026F",
-  "set": 237
+  "series" : {
+    "en" : "Crayon Shin-chan",
+    "ja" : "クレヨンしんちゃん",
+    "ko" : "짱구는 못말려"
+  },
+  "set" : 237
 }

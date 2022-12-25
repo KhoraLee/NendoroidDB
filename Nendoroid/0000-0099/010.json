@@ -1,21 +1,21 @@
 {
-  "num": "010",
-  "name": {
-    "ko": "나카토 유키",
-    "ja": "ねんどろいど 長門有希 (ながとゆき ねんどろいど)",
-    "en": "Nendoroid Yuki Nagato (ながとゆき ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 391,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/391/5555/large/364a459cb2d67439931e7af0d1b20774.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuki Nagato (ながとゆき ねんどろいど)",
+    "ja" : "ねんどろいど 長門有希 (ながとゆき ねんどろいど)",
+    "ko" : "나카토 유키"
   },
-  "series": {
-    "ko": "스즈미야 하루히의 우울",
-    "ja": "涼宮ハルヒの憂鬱",
-    "en": "The Melancholy of Haruhi Suzumiya"
-  },
-  "gsc_productNum": 391,
-  "price": 3143,
-  "release_date": [
+  "num" : "010",
+  "price" : 3143,
+  "release_date" : [
     "2008/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/391/5555/large/364a459cb2d67439931e7af0d1b20774.jpg",
-  "gender": "F",
-  "set": 4
+  "series" : {
+    "en" : "The Melancholy of Haruhi Suzumiya",
+    "ja" : "涼宮ハルヒの憂鬱",
+    "ko" : "스즈미야 하루히의 우울"
+  },
+  "set" : 4
 }

@@ -1,21 +1,21 @@
 {
-  "num": "288",
-  "name": {
-    "ko": "타니가와 칸나",
-    "ja": "ねんどろいど 谷川柑菜 (ねんどろいど たにがわかんな)",
-    "en": "Nendoroid Kanna Tanigawa (ねんどろいど たにがわかんな)"
+  "gender" : "F",
+  "gsc_productNum" : 3725,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121029/3725/21055/large/04f9bc69ffc850eda2c1784d6420750e.jpg",
+  "name" : {
+    "en" : "Nendoroid Kanna Tanigawa (ねんどろいど たにがわかんな)",
+    "ja" : "ねんどろいど 谷川柑菜 (ねんどろいど たにがわかんな)",
+    "ko" : "타니가와 칸나"
   },
-  "series": {
-    "ko": "그 여름에서 기다릴게",
-    "ja": "あの夏で待ってる",
-    "en": "Waiting in the Summer"
-  },
-  "gsc_productNum": 3725,
-  "price": 3667,
-  "release_date": [
+  "num" : "288",
+  "price" : 3667,
+  "release_date" : [
     "2013/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121029/3725/21055/large/04f9bc69ffc850eda2c1784d6420750e.jpg",
-  "gender": "F",
-  "set": 60
+  "series" : {
+    "en" : "Waiting in the Summer",
+    "ja" : "あの夏で待ってる",
+    "ko" : "그 여름에서 기다릴게"
+  },
+  "set" : 60
 }

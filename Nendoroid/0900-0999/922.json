@@ -1,21 +1,21 @@
 {
-  "num": "922",
-  "name": {
-    "ko": "비스마르크 改",
-    "ja": "ねんどろいど Bismarck（ビスマルク）改 (ねんどろいど びすまるくかい)",
-    "en": "Nendoroid Bismarck Kai"
+  "gender" : "F",
+  "gsc_productNum" : 7215,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180417/7215/51541/large/c3e70ed004a61eee6639094d6e7f7f90.jpg",
+  "name" : {
+    "en" : "Nendoroid Bismarck Kai",
+    "ja" : "ねんどろいど Bismarck（ビスマルク）改 (ねんどろいど びすまるくかい)",
+    "ko" : "비스마르크 改"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 7215,
-  "price": 7944,
-  "release_date": [
+  "num" : "922",
+  "price" : 7944,
+  "release_date" : [
     "2018/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180417/7215/51541/large/c3e70ed004a61eee6639094d6e7f7f90.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

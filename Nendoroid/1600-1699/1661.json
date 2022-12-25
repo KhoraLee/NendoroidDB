@@ -1,21 +1,21 @@
 {
-  "num": "1661",
-  "name": {
-    "ko": "에이보르",
-    "ja": "ねんどろいど エイヴォル (ねんどろいど えいゔぉる)",
-    "en": "Nendoroid Eivor"
+  "gender" : "M",
+  "gsc_productNum" : 11472,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210712/11472/87088/large/a015e1fe41ed0beb07161e7e4fe9ee44.jpg",
+  "name" : {
+    "en" : "Nendoroid Eivor",
+    "ja" : "ねんどろいど エイヴォル (ねんどろいど えいゔぉる)",
+    "ko" : "에이보르"
   },
-  "series": {
-    "ko": "어쌔신 크리드 : 발할라",
-    "ja": "アサシン クリード ヴァルハラ",
-    "en": "Assassin’s Creed® Valhalla"
-  },
-  "gsc_productNum": 11472,
-  "price": 5500,
-  "release_date": [
+  "num" : "1661",
+  "price" : 5500,
+  "release_date" : [
     "2022/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210712/11472/87088/large/a015e1fe41ed0beb07161e7e4fe9ee44.jpg",
-  "gender": "M",
-  "set": 265
+  "series" : {
+    "en" : "Assassin’s Creed® Valhalla",
+    "ja" : "アサシン クリード ヴァルハラ",
+    "ko" : "어쌔신 크리드 : 발할라"
+  },
+  "set" : 265
 }

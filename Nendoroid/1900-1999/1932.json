@@ -1,21 +1,21 @@
 {
-  "num": "1932",
-  "name": {
-    "ja": "ねんどろいど バズ・ライトイヤー アルファ・スーツVer. (ねんどろいど ばず・らいといやー あるふぁ・すーつVer.)",
-    "en": "Nendoroid Buzz Lightyear: Alpha Suit Ver.",
-    "ko": "버즈 라이트이어"
+  "gender" : "M",
+  "gsc_productNum" : 13214,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220906/13214/103877/large/a7e0004ca83900f981a6b1eae20510ff.jpg",
+  "name" : {
+    "en" : "Nendoroid Buzz Lightyear: Alpha Suit Ver.",
+    "ja" : "ねんどろいど バズ・ライトイヤー アルファ・スーツVer. (ねんどろいど ばず・らいといやー あるふぁ・すーつVer.)",
+    "ko" : "버즈 라이트이어"
   },
-  "series": {
-    "ja": "バズ・ライトイヤー",
-    "en": "Buzz Lightyear",
-    "ko": "버즈 라이트이어"
-  },
-  "gsc_productNum": 13214,
-  "price": 9000,
-  "release_date": [
+  "num" : "1932",
+  "price" : 9000,
+  "release_date" : [
     "2023/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220906/13214/103877/large/a7e0004ca83900f981a6b1eae20510ff.jpg",
-  "gender": "M",
-  "set": 32
+  "series" : {
+    "en" : "Buzz Lightyear",
+    "ja" : "バズ・ライトイヤー",
+    "ko" : "버즈 라이트이어"
+  },
+  "set" : 32
 }

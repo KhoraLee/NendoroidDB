@@ -1,22 +1,22 @@
 {
-  "num": "400",
-  "name": {
-    "ko": "키노모토 사쿠라",
-    "ja": "ねんどろいど 木之本桜 (ねんどろいど きのもとさくら)",
-    "en": "Nendoroid Sakura Kinomoto (ねんどろいど きのもとさくら)"
+  "gender" : "F",
+  "gsc_productNum" : 4400,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140424/4400/28786/large/5b8c71dd8b426e86323cade879c20f7e.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Kinomoto (ねんどろいど きのもとさくら)",
+    "ja" : "ねんどろいど 木之本桜 (ねんどろいど きのもとさくら)",
+    "ko" : "키노모토 사쿠라"
   },
-  "series": {
-    "ko": "카드캡터 사쿠라",
-    "ja": "カードキャプターさくら",
-    "en": "Cardcaptor Sakura"
-  },
-  "gsc_productNum": 4400,
-  "price": 5000,
-  "release_date": [
+  "num" : "400",
+  "price" : 5000,
+  "release_date" : [
     "2014/11",
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140424/4400/28786/large/5b8c71dd8b426e86323cade879c20f7e.jpg",
-  "gender": "F",
-  "set": 94
+  "series" : {
+    "en" : "Cardcaptor Sakura",
+    "ja" : "カードキャプターさくら",
+    "ko" : "카드캡터 사쿠라"
+  },
+  "set" : 94
 }

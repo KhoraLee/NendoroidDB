@@ -1,21 +1,21 @@
 {
-  "num": "482",
-  "name": {
-    "ko": "스즈야",
-    "ja": "ねんどろいど 鈴谷 (ねんどろいど すずや)",
-    "en": "Nendoroid Suzuya (ねんどろいど すずや)"
+  "gender" : "F",
+  "gsc_productNum" : 4744,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141126/4744/31497/large/11a0afd46920edbafb61b2bc80f55658.jpg",
+  "name" : {
+    "en" : "Nendoroid Suzuya (ねんどろいど すずや)",
+    "ja" : "ねんどろいど 鈴谷 (ねんどろいど すずや)",
+    "ko" : "스즈야"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 4744,
-  "price": 4584,
-  "release_date": [
+  "num" : "482",
+  "price" : 4584,
+  "release_date" : [
     "2015/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141126/4744/31497/large/11a0afd46920edbafb61b2bc80f55658.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

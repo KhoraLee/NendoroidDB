@@ -1,21 +1,21 @@
 {
-  "num": "1073",
-  "name": {
-    "ko": "유리",
-    "ja": "ねんどろいど ユーリ (ねんどろいど ゆーり)",
-    "en": "Nendoroid Yuri"
+  "gender" : "F",
+  "gsc_productNum" : 7993,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190118/7993/57437/large/7fd697171fae21d64d548f04ce9eb683.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuri",
+    "ja" : "ねんどろいど ユーリ (ねんどろいど ゆーり)",
+    "ko" : "유리"
   },
-  "series": {
-    "ko": "소녀종말여행",
-    "ja": "少女終末旅行",
-    "en": "Girls\u0027 Last Tour"
-  },
-  "gsc_productNum": 7993,
-  "price": 5398,
-  "release_date": [
+  "num" : "1073",
+  "price" : 5398,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190118/7993/57437/large/7fd697171fae21d64d548f04ce9eb683.jpg",
-  "gender": "F",
-  "set": 205
+  "series" : {
+    "en" : "Girls' Last Tour",
+    "ja" : "少女終末旅行",
+    "ko" : "소녀종말여행"
+  },
+  "set" : 205
 }

@@ -1,20 +1,20 @@
 {
-  "num": "163",
-  "name": {
-    "ko": "가와시마 미나미",
-    "ja": "ねんどろいど 川島みなみ (ねんどろいど かわしまみなみ)",
-    "en": "Nendoroid Minami Kawashima (ねんどろいど かわしまみなみ)"
+  "gender" : "F",
+  "gsc_productNum" : 3161,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110509/3161/13842/large/f121b9b709fb09f3b1ba0ee516c1278a.jpg",
+  "name" : {
+    "en" : "Nendoroid Minami Kawashima (ねんどろいど かわしまみなみ)",
+    "ja" : "ねんどろいど 川島みなみ (ねんどろいど かわしまみなみ)",
+    "ko" : "가와시마 미나미"
   },
-  "series": {
-    "ko": "모시도라",
-    "ja": "もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら",
-    "en": "Moshi Koukou Yakyuu no Joshi Manager ga Drucker no \"Management\" o Yondara"
-  },
-  "gsc_productNum": 3161,
-  "price": 3667,
-  "release_date": [
+  "num" : "163",
+  "price" : 3667,
+  "release_date" : [
     "2011/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110509/3161/13842/large/f121b9b709fb09f3b1ba0ee516c1278a.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Moshi Koukou Yakyuu no Joshi Manager ga Drucker no \"Management\" o Yondara",
+    "ja" : "もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら",
+    "ko" : "모시도라"
+  }
 }

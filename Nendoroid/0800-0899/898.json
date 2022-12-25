@@ -1,21 +1,21 @@
 {
-  "num": "898",
-  "name": {
-    "ko": "레이싱 미쿠 2018 Ver.",
-    "ja": "ねんどろいど レーシングミク 2018Ver.（個人スポンサー特典）",
-    "en": "Nendoroid Racing Miku 2018 Ver. (Personal Sponsor Bonus)"
+  "gender" : "F",
+  "gsc_productNum" : 7061,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180214/7061/51055/large/36a6ca65655ee678e50bca0bc2fd6425.jpg",
+  "name" : {
+    "en" : "Nendoroid Racing Miku 2018 Ver. (Personal Sponsor Bonus)",
+    "ja" : "ねんどろいど レーシングミク 2018Ver.（個人スポンサー特典）",
+    "ko" : "레이싱 미쿠 2018 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "初音ミク GTプロジェクト",
-    "en": "Hatsune Miku GT Project"
-  },
-  "gsc_productNum": 7061,
-  "price": -1,
-  "release_date": [
+  "num" : "898",
+  "price" : -1,
+  "release_date" : [
     "2018/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180214/7061/51055/large/36a6ca65655ee678e50bca0bc2fd6425.jpg",
-  "gender": "F",
-  "set": 23
+  "series" : {
+    "en" : "Hatsune Miku GT Project",
+    "ja" : "初音ミク GTプロジェクト",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 23
 }

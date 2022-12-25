@@ -1,21 +1,21 @@
 {
-  "num": "1658",
-  "name": {
-    "ko": "아쿠아",
-    "ja": "ねんどろいど アクア キングダム ハーツⅢVer. (ねんどろいど あくあ きんぐだむ はーつⅢVer.)",
-    "en": "Nendoroid Aqua: Kingdom Hearts III Ver."
+  "gender" : "F",
+  "gsc_productNum" : 11343,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210614/11343/85845/large/03764e7ca32e1c6e2613705c0a9e9914.jpg",
+  "name" : {
+    "en" : "Nendoroid Aqua: Kingdom Hearts III Ver.",
+    "ja" : "ねんどろいど アクア キングダム ハーツⅢVer. (ねんどろいど あくあ きんぐだむ はーつⅢVer.)",
+    "ko" : "아쿠아"
   },
-  "series": {
-    "ko": "킹덤 하츠",
-    "ja": "キングダム ハーツⅢ",
-    "en": "Kingdom Hearts III"
-  },
-  "gsc_productNum": 11343,
-  "price": 6500,
-  "release_date": [
+  "num" : "1658",
+  "price" : 6500,
+  "release_date" : [
     "2022/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210614/11343/85845/large/03764e7ca32e1c6e2613705c0a9e9914.jpg",
-  "gender": "F",
-  "set": 206
+  "series" : {
+    "en" : "Kingdom Hearts III",
+    "ja" : "キングダム ハーツⅢ",
+    "ko" : "킹덤 하츠"
+  },
+  "set" : 206
 }

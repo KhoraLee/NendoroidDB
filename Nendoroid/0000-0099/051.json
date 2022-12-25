@@ -1,18 +1,18 @@
 {
-  "num": "051",
-  "name": {
-    "ko": "유이 DVD Ver.",
-    "ja": "ねんどろいど ゆい DVDVer. (ねんどろいど ゆい DVDVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3369,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3369/16303/large/9ebd22deb93a368f998e6c3ab1d27c5c.jpg",
+  "name" : {
+    "ja" : "ねんどろいど ゆい DVDVer. (ねんどろいど ゆい DVDVer.)",
+    "ko" : "유이 DVD Ver."
   },
-  "series": {
-    "ko": "코하루비요리",
-    "ja": "こはるびより"
-  },
-  "gsc_productNum": 3369,
-  "price": 3667,
-  "release_date": [
+  "num" : "051",
+  "price" : 3667,
+  "release_date" : [
     "2008/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3369/16303/large/9ebd22deb93a368f998e6c3ab1d27c5c.jpg",
-  "gender": "F"
+  "series" : {
+    "ja" : "こはるびより",
+    "ko" : "코하루비요리"
+  }
 }

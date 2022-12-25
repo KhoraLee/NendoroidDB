@@ -1,21 +1,21 @@
 {
-  "num": "150",
-  "name": {
-    "ko": "유키 미쿠 즐거운 눈놀이 에디션",
-    "ja": "ねんどろいど 雪ミク たのしい雪あそび・エディション (ねんどろいど ゆきみく たのしいゆきあそび・えでぃしょん)",
-    "en": "Nendoroid Snow Miku: Snow Playtime Edition (ねんどろいど ゆきみく たのしいゆきあそび・えでぃしょん)"
+  "gender" : "F",
+  "gsc_productNum" : 3064,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110106/3064/12548/large/44d0096407b485702ab104a4cdb2131b.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow Miku: Snow Playtime Edition (ねんどろいど ゆきみく たのしいゆきあそび・えでぃしょん)",
+    "ja" : "ねんどろいど 雪ミク たのしい雪あそび・エディション (ねんどろいど ゆきみく たのしいゆきあそび・えでぃしょん)",
+    "ko" : "유키 미쿠 즐거운 눈놀이 에디션"
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 3064,
-  "price": 4190,
-  "release_date": [
+  "num" : "150",
+  "price" : 4190,
+  "release_date" : [
     "2011/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110106/3064/12548/large/44d0096407b485702ab104a4cdb2131b.jpg",
-  "gender": "F",
-  "set": 31
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 31
 }

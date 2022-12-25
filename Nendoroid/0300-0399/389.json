@@ -1,21 +1,21 @@
 {
-  "num": "389",
-  "name": {
-    "ko": "우노 우즈메",
-    "ja": "ねんどろいど 鵜野うずめ (ねんどろいど うのうずめ)",
-    "en": "Nendoroid Uzume Uno (ねんどろいど うのうずめ)"
+  "gender" : "F",
+  "gsc_productNum" : 4156,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131211/4156/27377/large/54a6e7d9350c9403d4b623099775342d.jpg",
+  "name" : {
+    "en" : "Nendoroid Uzume Uno (ねんどろいど うのうずめ)",
+    "ja" : "ねんどろいど 鵜野うずめ (ねんどろいど うのうずめ)",
+    "ko" : "우노 우즈메"
   },
-  "series": {
-    "ko": "판타지스타 돌",
-    "ja": "ファンタジスタドール",
-    "en": "Fantasista Doll"
-  },
-  "gsc_productNum": 4156,
-  "price": 3871,
-  "release_date": [
+  "num" : "389",
+  "price" : 3871,
+  "release_date" : [
     "2014/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20131211/4156/27377/large/54a6e7d9350c9403d4b623099775342d.jpg",
-  "gender": "F",
-  "set": 92
+  "series" : {
+    "en" : "Fantasista Doll",
+    "ja" : "ファンタジスタドール",
+    "ko" : "판타지스타 돌"
+  },
+  "set" : 92
 }

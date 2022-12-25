@@ -1,21 +1,21 @@
 {
-  "num": "1345-DX",
-  "name": {
-    "ko": "앤트맨 DX",
-    "ja": "ねんどろいど アントマン エンドゲームVer. DX (ねんどろいど あんとまん えんどげーむVer. でらっくす)",
-    "en": "Nendoroid Ant-Man: Endgame Ver. DX"
+  "gender" : "M",
+  "gsc_productNum" : 9504,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200513/9504/69666/large/65283151ffd7a38c437b4478c37c86fd.jpg",
+  "name" : {
+    "en" : "Nendoroid Ant-Man: Endgame Ver. DX",
+    "ja" : "ねんどろいど アントマン エンドゲームVer. DX (ねんどろいど あんとまん えんどげーむVer. でらっくす)",
+    "ko" : "앤트맨 DX"
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／エンドゲーム",
-    "en": "Avengers: Endgame"
-  },
-  "gsc_productNum": 9504,
-  "price": 8500,
-  "release_date": [
+  "num" : "1345-DX",
+  "price" : 8500,
+  "release_date" : [
     "2020/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200513/9504/69666/large/65283151ffd7a38c437b4478c37c86fd.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

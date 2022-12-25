@@ -1,19 +1,19 @@
 {
-  "num": "071",
-  "name": {
-    "ko": "우사코츠",
-    "ja": "ねんどろいど ウサコッツ (うさこっつ ねんどろいど)",
-    "en": "Nendoroid Usakottsu (うさこっつ ねんどろいど)"
+  "gsc_productNum" : 2459,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2459/7101/large/f6a16067a830d4c8763b301a6edb456e.jpg",
+  "name" : {
+    "en" : "Nendoroid Usakottsu (うさこっつ ねんどろいど)",
+    "ja" : "ねんどろいど ウサコッツ (うさこっつ ねんどろいど)",
+    "ko" : "우사코츠"
   },
-  "series": {
-    "ko": "천체전사 선레드",
-    "ja": "天体戦士サンレッド",
-    "en": "Tentai Senshi Sunred"
-  },
-  "gsc_productNum": 2459,
-  "price": 3143,
-  "release_date": [
+  "num" : "071",
+  "price" : 3143,
+  "release_date" : [
     "2009/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2459/7101/large/f6a16067a830d4c8763b301a6edb456e.jpg"
+  "series" : {
+    "en" : "Tentai Senshi Sunred",
+    "ja" : "天体戦士サンレッド",
+    "ko" : "천체전사 선레드"
+  }
 }

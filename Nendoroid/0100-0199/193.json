@@ -1,22 +1,22 @@
 {
-  "num": "193",
-  "name": {
-    "ko": "미카즈키 요조라",
-    "ja": "ねんどろいど 三日月夜空 (ねんどろいど みかづきよぞら)",
-    "en": "Nendoroid Yozora Mikaduki (ねんどろいど みかづきよぞら)"
+  "gender" : "F",
+  "gsc_productNum" : 3256,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110818/3256/15074/large/988e67456e80a01591fbd68935c960ea.jpg",
+  "name" : {
+    "en" : "Nendoroid Yozora Mikaduki (ねんどろいど みかづきよぞら)",
+    "ja" : "ねんどろいど 三日月夜空 (ねんどろいど みかづきよぞら)",
+    "ko" : "미카즈키 요조라"
   },
-  "series": {
-    "ko": "나는 친구가 적다",
-    "ja": "僕は友達が少ない",
-    "en": "Boku wa Tomodachi ga Sukunai"
-  },
-  "gsc_productNum": 3256,
-  "price": 3667,
-  "release_date": [
+  "num" : "193",
+  "price" : 3667,
+  "release_date" : [
     "2012/01",
     "2013/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110818/3256/15074/large/988e67456e80a01591fbd68935c960ea.jpg",
-  "gender": "F",
-  "set": 51
+  "series" : {
+    "en" : "Boku wa Tomodachi ga Sukunai",
+    "ja" : "僕は友達が少ない",
+    "ko" : "나는 친구가 적다"
+  },
+  "set" : 51
 }

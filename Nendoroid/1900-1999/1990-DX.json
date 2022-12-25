@@ -1,21 +1,21 @@
 {
-  "num": "1990-DX",
-  "name": {
-    "ja": "ねんどろいど ユニコーン DX (ねんどろいど ゆにこーん DX)",
-    "en": "Nendoroid Unicorn DX",
-    "ko": "유니콘 DX"
+  "gender" : "F",
+  "gsc_productNum" : 13456,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221025/13456/106405/large/29ed2f3f6190932dc3a89c2f941703d9.jpg",
+  "name" : {
+    "en" : "Nendoroid Unicorn DX",
+    "ja" : "ねんどろいど ユニコーン DX (ねんどろいど ゆにこーん DX)",
+    "ko" : "유니콘 DX"
   },
-  "series": {
-    "ja": "アズールレーン",
-    "en": "Azur Lane",
-    "ko": "벽람항로"
-  },
-  "gsc_productNum": 13456,
-  "price": 9800,
-  "release_date": [
+  "num" : "1990-DX",
+  "price" : 9800,
+  "release_date" : [
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221025/13456/106405/large/29ed2f3f6190932dc3a89c2f941703d9.jpg",
-  "gender": "F",
-  "set": 294
+  "series" : {
+    "en" : "Azur Lane",
+    "ja" : "アズールレーン",
+    "ko" : "벽람항로"
+  },
+  "set" : 294
 }

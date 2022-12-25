@@ -1,21 +1,21 @@
 {
-  "num": "429",
-  "name": {
-    "ko": "아라라기 코요미",
-    "ja": "ねんどろいど 阿良々木暦 (ねんどろいど あららぎこよみ)",
-    "en": "Nendoroid Koyomi Araragi (ねんどろいど あららぎこよみ)"
+  "gender" : "M",
+  "gsc_productNum" : 4445,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140605/4445/29202/large/0fd19fe0bbdd821fa00ba80e62e0452d.jpg",
+  "name" : {
+    "en" : "Nendoroid Koyomi Araragi (ねんどろいど あららぎこよみ)",
+    "ja" : "ねんどろいど 阿良々木暦 (ねんどろいど あららぎこよみ)",
+    "ko" : "아라라기 코요미"
   },
-  "series": {
-    "ko": "모노가타리 시리즈",
-    "ja": "化物語",
-    "en": "Bakemonogatari"
-  },
-  "gsc_productNum": 4445,
-  "price": 4074,
-  "release_date": [
+  "num" : "429",
+  "price" : 4074,
+  "release_date" : [
     "2014/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140605/4445/29202/large/0fd19fe0bbdd821fa00ba80e62e0452d.jpg",
-  "gender": "M",
-  "set": 83
+  "series" : {
+    "en" : "Bakemonogatari",
+    "ja" : "化物語",
+    "ko" : "모노가타리 시리즈"
+  },
+  "set" : 83
 }

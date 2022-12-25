@@ -1,21 +1,21 @@
 {
-  "num": "439",
-  "name": {
-    "ko": "G급 접수원",
-    "ja": "ねんどろいど Ｇ級受付嬢 (ねんどろいど じーきゅううけつけじょう)",
-    "en": "Nendoroid G-rank Receptionist (ねんどろいど じーきゅううけつけじょう)"
+  "gender" : "F",
+  "gsc_productNum" : 4491,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140708/4491/29543/large/d41aeb4751de0a191ffa208a722a0c4c.jpg",
+  "name" : {
+    "en" : "Nendoroid G-rank Receptionist (ねんどろいど じーきゅううけつけじょう)",
+    "ja" : "ねんどろいど Ｇ級受付嬢 (ねんどろいど じーきゅううけつけじょう)",
+    "ko" : "G급 접수원"
   },
-  "series": {
-    "ko": "몬스터 헌터",
-    "ja": "モンスターハンター フロンティアG",
-    "en": "Monster Hunter Frontier G"
-  },
-  "gsc_productNum": 4491,
-  "price": 10780,
-  "release_date": [
+  "num" : "439",
+  "price" : 10780,
+  "release_date" : [
     "2014/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140708/4491/29543/large/d41aeb4751de0a191ffa208a722a0c4c.jpg",
-  "gender": "F",
-  "set": 64
+  "series" : {
+    "en" : "Monster Hunter Frontier G",
+    "ja" : "モンスターハンター フロンティアG",
+    "ko" : "몬스터 헌터"
+  },
+  "set" : 64
 }

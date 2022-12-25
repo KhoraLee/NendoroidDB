@@ -1,21 +1,21 @@
 {
-  "num": "1948",
-  "name": {
-    "ja": "ねんどろいど 竈門禰豆子 鬼化進行時Ver. (ねんどろいど かまどねずこ おにかしんこうじVer.)",
-    "en": "Nendoroid Nezuko Kamado (Demon Form Advancing Ver.)",
-    "ko": "카마도 네즈코: 귀화 Ver."
+  "gender" : "F",
+  "gsc_productNum" : 13073,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220803/13073/104055/large/3abc64950ae441cb80ff7ba6ce2c981c.jpg",
+  "name" : {
+    "en" : "Nendoroid Nezuko Kamado (Demon Form Advancing Ver.)",
+    "ja" : "ねんどろいど 竈門禰豆子 鬼化進行時Ver. (ねんどろいど かまどねずこ おにかしんこうじVer.)",
+    "ko" : "카마도 네즈코: 귀화 Ver."
   },
-  "series": {
-    "ja": "鬼滅の刃",
-    "en": "Demon Slayer: Kimetsu no Yaiba",
-    "ko": "귀멸의 칼날"
-  },
-  "gsc_productNum": 13073,
-  "price": 6500,
-  "release_date": [
+  "num" : "1948",
+  "price" : 6500,
+  "release_date" : [
     "2023/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220803/13073/104055/large/3abc64950ae441cb80ff7ba6ce2c981c.jpg",
-  "gender": "F",
-  "set": 222
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "set" : 222
 }

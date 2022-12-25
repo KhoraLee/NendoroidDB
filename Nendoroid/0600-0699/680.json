@@ -1,21 +1,21 @@
 {
-  "num": "680",
-  "name": {
-    "ko": "타카미 치카",
-    "ja": "ねんどろいど 高海千歌 (ねんどろいど たかみちか)",
-    "en": "Nendoroid Chika Takami"
+  "gender" : "F",
+  "gsc_productNum" : 5972,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160923/5972/41466/large/ef6e760512a835e4dbda5ac405e8166a.jpg",
+  "name" : {
+    "en" : "Nendoroid Chika Takami",
+    "ja" : "ねんどろいど 高海千歌 (ねんどろいど たかみちか)",
+    "ko" : "타카미 치카"
   },
-  "series": {
-    "ko": "러브라이브! 선샤인!!",
-    "ja": "ラブライブ！サンシャイン!!",
-    "en": "LoveLive!Sunshine!!"
-  },
-  "gsc_productNum": 5972,
-  "price": 3565,
-  "release_date": [
+  "num" : "680",
+  "price" : 3565,
+  "release_date" : [
     "2018/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160923/5972/41466/large/ef6e760512a835e4dbda5ac405e8166a.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!Sunshine!!",
+    "ja" : "ラブライブ！サンシャイン!!",
+    "ko" : "러브라이브! 선샤인!!"
+  },
+  "set" : 105
 }

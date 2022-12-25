@@ -1,20 +1,20 @@
 {
-  "num": "1628",
-  "name": {
-    "ko": "나디아 라 아르월",
-    "ja": "ねんどろいど ナディア (ねんどろいど なでぃあ)",
-    "en": "Nendoroid Nadia"
+  "gender" : "F",
+  "gsc_productNum" : 11124,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210422/11124/85190/large/ab960e7b8a3b28cf00feecabfbe3f06e.jpg",
+  "name" : {
+    "en" : "Nendoroid Nadia",
+    "ja" : "ねんどろいど ナディア (ねんどろいど なでぃあ)",
+    "ko" : "나디아 라 아르월"
   },
-  "series": {
-    "ko": "신비한 바다의 나디아",
-    "ja": "ふしぎの海のナディア",
-    "en": "Nadia: The Secret of Blue Water"
-  },
-  "gsc_productNum": 11124,
-  "price": 5800,
-  "release_date": [
+  "num" : "1628",
+  "price" : 5800,
+  "release_date" : [
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210422/11124/85190/large/ab960e7b8a3b28cf00feecabfbe3f06e.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Nadia: The Secret of Blue Water",
+    "ja" : "ふしぎの海のナディア",
+    "ko" : "신비한 바다의 나디아"
+  }
 }

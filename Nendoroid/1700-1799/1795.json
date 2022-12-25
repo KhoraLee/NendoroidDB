@@ -1,21 +1,21 @@
 {
-  "num": "1795",
-  "name": {
-    "ko": "벤티",
-    "ja": "ねんどろいど ウェンティ (ねんどろいど うぇんてぃ)",
-    "en": "Nendoroid Venti"
+  "gender" : "M",
+  "gsc_productNum" : 12387,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220221/12387/95778/large/7900cab0e3bcd3468db2bdc76c7126d7.jpg",
+  "name" : {
+    "en" : "Nendoroid Venti",
+    "ja" : "ねんどろいど ウェンティ (ねんどろいど うぇんてぃ)",
+    "ko" : "벤티"
   },
-  "series": {
-    "ko": "원신",
-    "ja": "原神",
-    "en": "Genshin Impact"
-  },
-  "gsc_productNum": 12387,
-  "price": 6005,
-  "release_date": [
+  "num" : "1795",
+  "price" : 6005,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220221/12387/95778/large/7900cab0e3bcd3468db2bdc76c7126d7.jpg",
-  "gender": "M",
-  "set": 270
+  "series" : {
+    "en" : "Genshin Impact",
+    "ja" : "原神",
+    "ko" : "원신"
+  },
+  "set" : 270
 }

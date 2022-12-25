@@ -1,20 +1,20 @@
 {
-  "num": "353",
-  "name": {
-    "ko": "츠츠카쿠시 츠키코",
-    "ja": "ねんどろいど 筒隠月子 (ねんどろいど つつかくしつきこ)",
-    "en": "Nendoroid Tsukiko Tsutsukakushi (ねんどろいど つつかくしつきこ)"
+  "gender" : "F",
+  "gsc_productNum" : 3994,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130722/3994/25204/large/d636cea8605070b48112149c9f77295d.jpg",
+  "name" : {
+    "en" : "Nendoroid Tsukiko Tsutsukakushi (ねんどろいど つつかくしつきこ)",
+    "ja" : "ねんどろいど 筒隠月子 (ねんどろいど つつかくしつきこ)",
+    "ko" : "츠츠카쿠시 츠키코"
   },
-  "series": {
-    "ko": "변태왕자와 웃지 않는 고양이",
-    "ja": "変態王子と笑わない猫。",
-    "en": "Hentai Ouji to Warawanai Neko"
-  },
-  "gsc_productNum": 3994,
-  "price": 3981,
-  "release_date": [
+  "num" : "353",
+  "price" : 3981,
+  "release_date" : [
     "2013/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130722/3994/25204/large/d636cea8605070b48112149c9f77295d.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Hentai Ouji to Warawanai Neko",
+    "ja" : "変態王子と笑わない猫。",
+    "ko" : "변태왕자와 웃지 않는 고양이"
+  }
 }

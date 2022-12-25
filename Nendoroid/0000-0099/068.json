@@ -1,21 +1,21 @@
 {
-  "num": "068",
-  "name": {
-    "ko": "세바스찬 미카 엘리스",
-    "ja": "ねんどろいど セバスチャン・ミカエリス (ねんどろいど　せばすちゃん・みかえりす)",
-    "en": "Nendoroid Sebastian Michaelis (せばすちゃん・みかえりす ねんどろいど)"
+  "gender" : "M",
+  "gsc_productNum" : 2377,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2377/6746/large/31425cda3a32ee943d5d03b93e3dbe91.jpg",
+  "name" : {
+    "en" : "Nendoroid Sebastian Michaelis (せばすちゃん・みかえりす ねんどろいど)",
+    "ja" : "ねんどろいど セバスチャン・ミカエリス (ねんどろいど　せばすちゃん・みかえりす)",
+    "ko" : "세바스찬 미카 엘리스"
   },
-  "series": {
-    "ko": "흑집사",
-    "ja": "黒執事",
-    "en": "Black Butler"
-  },
-  "gsc_productNum": 2377,
-  "price": 3667,
-  "release_date": [
+  "num" : "068",
+  "price" : 3667,
+  "release_date" : [
     "2010/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2377/6746/large/31425cda3a32ee943d5d03b93e3dbe91.jpg",
-  "gender": "M",
-  "set": 20
+  "series" : {
+    "en" : "Black Butler",
+    "ja" : "黒執事",
+    "ko" : "흑집사"
+  },
+  "set" : 20
 }

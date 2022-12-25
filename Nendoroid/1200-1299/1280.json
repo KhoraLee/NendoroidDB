@@ -1,21 +1,21 @@
 {
-  "num": "1280",
-  "name": {
-    "ko": "스파이더맨",
-    "ja": "ねんどろいど スパイダーマン ファー・フロム・ホーム Ver. (ねんどろいど すぱいだーまん ふぁー・ふろむ・ほーむ Ver.)",
-    "en": "Nendoroid Spider-Man: Far From Home Ver."
+  "gender" : "M",
+  "gsc_productNum" : 9214,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200127/9214/67236/large/2709bfe9fe3d996256cf50c462ff82d5.jpg",
+  "name" : {
+    "en" : "Nendoroid Spider-Man: Far From Home Ver.",
+    "ja" : "ねんどろいど スパイダーマン ファー・フロム・ホーム Ver. (ねんどろいど すぱいだーまん ふぁー・ふろむ・ほーむ Ver.)",
+    "ko" : "스파이더맨"
   },
-  "series": {
-    "ko": "스파이더맨 파 프롬 홈",
-    "ja": "スパイダーマン：ファー・フロム・ホーム",
-    "en": "Spider-Man: Far From Home"
-  },
-  "gsc_productNum": 9214,
-  "price": 4800,
-  "release_date": [
+  "num" : "1280",
+  "price" : 4800,
+  "release_date" : [
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200127/9214/67236/large/2709bfe9fe3d996256cf50c462ff82d5.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Spider-Man: Far From Home",
+    "ja" : "スパイダーマン：ファー・フロム・ホーム",
+    "ko" : "스파이더맨 파 프롬 홈"
+  },
+  "set" : 63
 }

@@ -1,22 +1,22 @@
 {
-  "num": "1306",
-  "name": {
-    "ko": "나카노 미쿠",
-    "ja": "ねんどろいど 中野三玖 (ねんどろいど なかのみく)",
-    "en": "Nendoroid Miku Nakano"
+  "gender" : "F",
+  "gsc_productNum" : 9365,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200319/9365/68451/large/d1a0d3247e0d1be267148e5d0df6a89f.jpg",
+  "name" : {
+    "en" : "Nendoroid Miku Nakano",
+    "ja" : "ねんどろいど 中野三玖 (ねんどろいど なかのみく)",
+    "ko" : "나카노 미쿠"
   },
-  "series": {
-    "ko": "5등분의 신부",
-    "ja": "五等分の花嫁",
-    "en": "The Quintessential Quintuplets"
-  },
-  "gsc_productNum": 9365,
-  "price": 4800,
-  "release_date": [
+  "num" : "1306",
+  "price" : 4800,
+  "release_date" : [
     "2020/09",
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200319/9365/68451/large/d1a0d3247e0d1be267148e5d0df6a89f.jpg",
-  "gender": "F",
-  "set": 235
+  "series" : {
+    "en" : "The Quintessential Quintuplets",
+    "ja" : "五等分の花嫁",
+    "ko" : "5등분의 신부"
+  },
+  "set" : 235
 }

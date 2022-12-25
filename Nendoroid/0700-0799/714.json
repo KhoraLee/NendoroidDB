@@ -1,22 +1,22 @@
 {
-  "num": "714",
-  "name": {
-    "ko": "사쿠라우치 리코",
-    "ja": "ねんどろいど 桜内梨子 (ねんどろいど さくらうちりこ)",
-    "en": "Nendoroid Riko Sakurauchi"
+  "gender" : "F",
+  "gsc_productNum" : 6143,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161220/6143/42956/large/2019ee897adf0968ede50bee7261f181.jpg",
+  "name" : {
+    "en" : "Nendoroid Riko Sakurauchi",
+    "ja" : "ねんどろいど 桜内梨子 (ねんどろいど さくらうちりこ)",
+    "ko" : "사쿠라우치 리코"
   },
-  "series": {
-    "ko": "러브라이브! 선샤인!!",
-    "ja": "ラブライブ！サンシャイン!!",
-    "en": "LoveLive!Sunshine!!"
-  },
-  "gsc_productNum": 6143,
-  "price": 3565,
-  "release_date": [
+  "num" : "714",
+  "price" : 3565,
+  "release_date" : [
     "2017/06",
     "2018/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161220/6143/42956/large/2019ee897adf0968ede50bee7261f181.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!Sunshine!!",
+    "ja" : "ラブライブ！サンシャイン!!",
+    "ko" : "러브라이브! 선샤인!!"
+  },
+  "set" : 105
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1234",
-  "name": {
-    "ko": "올마이트",
-    "ja": "ねんどろいど オールマイト (ねんどろいど おーるまいと)",
-    "en": "Nendoroid All Might"
+  "gender" : "M",
+  "gsc_productNum" : 8972,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191112/8972/65118/large/dd3692448fd9075103fc757c5a037240.jpg",
+  "name" : {
+    "en" : "Nendoroid All Might",
+    "ja" : "ねんどろいど オールマイト (ねんどろいど おーるまいと)",
+    "ko" : "올마이트"
   },
-  "series": {
-    "ko": "나의 히어로 아카데미아",
-    "ja": "僕のヒーローアカデミア",
-    "en": "My Hero Academia"
-  },
-  "gsc_productNum": 8972,
-  "price": 5500,
-  "release_date": [
+  "num" : "1234",
+  "price" : 5500,
+  "release_date" : [
     "2020/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191112/8972/65118/large/dd3692448fd9075103fc757c5a037240.jpg",
-  "gender": "M",
-  "set": 146
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 146
 }

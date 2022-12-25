@@ -1,21 +1,21 @@
 {
-  "num": "134",
-  "name": {
-    "ko": "산젠인 나기",
-    "ja": "ねんどろいど 三千院ナギ (ねんどろいど さんぜんいんなぎ)",
-    "en": "Nendoroid Nagi Sanzenin (ねんどろいど さんぜんいんなぎ)"
+  "gender" : "F",
+  "gsc_productNum" : 2999,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20101020/2999/11775/large/11ab2788a6b86fc33ca6918bf6b9e4f2.jpg",
+  "name" : {
+    "en" : "Nendoroid Nagi Sanzenin (ねんどろいど さんぜんいんなぎ)",
+    "ja" : "ねんどろいど 三千院ナギ (ねんどろいど さんぜんいんなぎ)",
+    "ko" : "산젠인 나기"
   },
-  "series": {
-    "ko": "하야테처럼!",
-    "ja": "ハヤテのごとく!!",
-    "en": "Hayate the Combat Butler"
-  },
-  "gsc_productNum": 2999,
-  "price": 3981,
-  "release_date": [
+  "num" : "134",
+  "price" : 3981,
+  "release_date" : [
     "2011/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20101020/2999/11775/large/11ab2788a6b86fc33ca6918bf6b9e4f2.jpg",
-  "gender": "F",
-  "set": 38
+  "series" : {
+    "en" : "Hayate the Combat Butler",
+    "ja" : "ハヤテのごとく!!",
+    "ko" : "하야테처럼!"
+  },
+  "set" : 38
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1730",
-  "name": {
-    "ko": "시로사키 하나",
-    "ja": "ねんどろいど 白咲 花 (ねんどろいど しろさき はな)",
-    "en": "Nendoroid Hana Shirosaki"
+  "gender" : "F",
+  "gsc_productNum" : 11846,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210930/11846/90974/large/51def9288e6389257e44dfac455baa01.jpg",
+  "name" : {
+    "en" : "Nendoroid Hana Shirosaki",
+    "ja" : "ねんどろいど 白咲 花 (ねんどろいど しろさき はな)",
+    "ko" : "시로사키 하나"
   },
-  "series": {
-    "ko": "나에게 천사가 내려왔다!",
-    "ja": "私に天使が舞い降りた！プレシャス・フレンズ",
-    "en": "Wataten!: An Angel Flew Down to Me"
-  },
-  "gsc_productNum": 11846,
-  "price": 4800,
-  "release_date": [
+  "num" : "1730",
+  "price" : 4800,
+  "release_date" : [
     "2022/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210930/11846/90974/large/51def9288e6389257e44dfac455baa01.jpg",
-  "gender": "F",
-  "set": 273
+  "series" : {
+    "en" : "Wataten!: An Angel Flew Down to Me",
+    "ja" : "私に天使が舞い降りた！プレシャス・フレンズ",
+    "ko" : "나에게 천사가 내려왔다!"
+  },
+  "set" : 273
 }

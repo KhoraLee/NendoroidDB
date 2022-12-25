@@ -1,21 +1,21 @@
 {
-  "num": "935",
-  "name": {
-    "ko": "카미나",
-    "ja": "ねんどろいど カミナ (ねんどろいど かみな)",
-    "en": "Nendoroid Kamina"
+  "gender" : "M",
+  "gsc_productNum" : 7280,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180518/7280/52029/large/d626ab028082eccd53a57813b5148b23.jpg",
+  "name" : {
+    "en" : "Nendoroid Kamina",
+    "ja" : "ねんどろいど カミナ (ねんどろいど かみな)",
+    "ko" : "카미나"
   },
-  "series": {
-    "ko": "천원돌파 그렌라간",
-    "ja": "天元突破グレンラガン",
-    "en": "Gurren Lagann"
-  },
-  "gsc_productNum": 7280,
-  "price": 4888,
-  "release_date": [
+  "num" : "935",
+  "price" : 4888,
+  "release_date" : [
     "2018/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180518/7280/52029/large/d626ab028082eccd53a57813b5148b23.jpg",
-  "gender": "M",
-  "set": 14
+  "series" : {
+    "en" : "Gurren Lagann",
+    "ja" : "天元突破グレンラガン",
+    "ko" : "천원돌파 그렌라간"
+  },
+  "set" : 14
 }

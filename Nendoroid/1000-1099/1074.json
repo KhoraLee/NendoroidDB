@@ -1,21 +1,21 @@
 {
-  "num": "1074",
-  "name": {
-    "ko": "카가미 타이가",
-    "ja": "ねんどろいど 火神大我 Special Box (ねんどろいど かがみたいが すぺしゃるぼっくす)",
-    "en": "Nendoroid Taiga Kagami Special Box"
+  "gender" : "M",
+  "gsc_productNum" : 8012,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190125/8012/57616/large/ad4decc79622cfb7c53d990ceaf6eca6.jpg",
+  "name" : {
+    "en" : "Nendoroid Taiga Kagami Special Box",
+    "ja" : "ねんどろいど 火神大我 Special Box (ねんどろいど かがみたいが すぺしゃるぼっくす)",
+    "ko" : "카가미 타이가"
   },
-  "series": {
-    "ko": "쿠로코의 농구",
-    "ja": "黒子のバスケ",
-    "en": "Kuroko\u0027s Basketball"
-  },
-  "gsc_productNum": 8012,
-  "price": 5602,
-  "release_date": [
+  "num" : "1074",
+  "price" : 5602,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190125/8012/57616/large/ad4decc79622cfb7c53d990ceaf6eca6.jpg",
-  "gender": "M",
-  "set": 199
+  "series" : {
+    "en" : "Kuroko's Basketball",
+    "ja" : "黒子のバスケ",
+    "ko" : "쿠로코의 농구"
+  },
+  "set" : 199
 }

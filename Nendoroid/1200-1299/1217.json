@@ -1,20 +1,20 @@
 {
-  "num": "1217",
-  "name": {
-    "ko": "토키하라 사유키",
-    "ja": "ねんどろいど 朱鷺原紗雪 (ねんどろいど ときはらさゆき)",
-    "en": "Nendoroid Sayuki Tokihara"
+  "gender" : "F",
+  "gsc_productNum" : 8837,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190925/8837/64084/large/0ebf68349fc26e9f7db2ac86fb690b8c.jpg",
+  "name" : {
+    "en" : "Nendoroid Sayuki Tokihara",
+    "ja" : "ねんどろいど 朱鷺原紗雪 (ねんどろいど ときはらさゆき)",
+    "ko" : "토키하라 사유키"
   },
-  "series": {
-    "ko": "귀여우면 변태라도 좋아해 주실 수 있나요?",
-    "ja": "可愛ければ変態でも好きになってくれますか？",
-    "en": "Hensuki: Are You Willing to Fall in Love with a Pervert, as Long as She\u0027s a Cutie?"
-  },
-  "gsc_productNum": 8837,
-  "price": 5200,
-  "release_date": [
+  "num" : "1217",
+  "price" : 5200,
+  "release_date" : [
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190925/8837/64084/large/0ebf68349fc26e9f7db2ac86fb690b8c.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Hensuki: Are You Willing to Fall in Love with a Pervert, as Long as She's a Cutie?",
+    "ja" : "可愛ければ変態でも好きになってくれますか？",
+    "ko" : "귀여우면 변태라도 좋아해 주실 수 있나요?"
+  }
 }

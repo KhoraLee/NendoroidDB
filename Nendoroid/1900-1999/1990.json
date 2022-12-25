@@ -1,21 +1,21 @@
 {
-  "num": "1990",
-  "name": {
-    "ja": "ねんどろいど ユニコーン (ねんどろいど ゆにこーん)",
-    "en": "Nendoroid Unicorn",
-    "ko": "유니콘"
+  "gender" : "F",
+  "gsc_productNum" : 13457,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221025/13457/106411/large/14a62094ca45e1b2423384ea3689ac19.jpg",
+  "name" : {
+    "en" : "Nendoroid Unicorn",
+    "ja" : "ねんどろいど ユニコーン (ねんどろいど ゆにこーん)",
+    "ko" : "유니콘"
   },
-  "series": {
-    "ja": "アズールレーン",
-    "en": "Azur Lane",
-    "ko": "벽람항로"
-  },
-  "gsc_productNum": 13457,
-  "price": 8100,
-  "release_date": [
+  "num" : "1990",
+  "price" : 8100,
+  "release_date" : [
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221025/13457/106411/large/14a62094ca45e1b2423384ea3689ac19.jpg",
-  "gender": "F",
-  "set": 294
+  "series" : {
+    "en" : "Azur Lane",
+    "ja" : "アズールレーン",
+    "ko" : "벽람항로"
+  },
+  "set" : 294
 }

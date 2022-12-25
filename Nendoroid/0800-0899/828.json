@@ -1,20 +1,20 @@
 {
-  "num": "828",
-  "name": {
-    "ko": "에르네스티 에체바르리아",
-    "ja": "ねんどろいど エルネスティ・エチェバルリア (ねんどろいど えるねすてぃ・えちぇばるりあ)",
-    "en": "Nendoroid Ernesti Echevalier"
+  "gender" : "F",
+  "gsc_productNum" : 6735,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170920/6735/47699/large/bf80a34b5e6863f14ab85104402528f8.jpg",
+  "name" : {
+    "en" : "Nendoroid Ernesti Echevalier",
+    "ja" : "ねんどろいど エルネスティ・エチェバルリア (ねんどろいど えるねすてぃ・えちぇばるりあ)",
+    "ko" : "에르네스티 에체바르리아"
   },
-  "series": {
-    "ko": "나이츠 \u0026 매직",
-    "ja": "ナイツ＆マジック",
-    "en": "Knight\u0027s \u0026 Magic"
-  },
-  "gsc_productNum": 6735,
-  "price": 4888,
-  "release_date": [
+  "num" : "828",
+  "price" : 4888,
+  "release_date" : [
     "2018/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170920/6735/47699/large/bf80a34b5e6863f14ab85104402528f8.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Knight's & Magic",
+    "ja" : "ナイツ＆マジック",
+    "ko" : "나이츠 & 매직"
+  }
 }

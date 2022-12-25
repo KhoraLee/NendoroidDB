@@ -1,21 +1,21 @@
 {
-  "num": "1460",
-  "name": {
-    "ko": "오병",
-    "ja": "ねんどろいど 敖丙 (ねんどろいど あおびん)",
-    "en": "Nendoroid Ao Bing"
+  "gender" : "M",
+  "gsc_productNum" : 10689,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210119/10689/79945/large/ab5a0d850065b34c25d0ed5be299f426.jpg",
+  "name" : {
+    "en" : "Nendoroid Ao Bing",
+    "ja" : "ねんどろいど 敖丙 (ねんどろいど あおびん)",
+    "ko" : "오병"
   },
-  "series": {
-    "ko": "나타지마동강세",
-    "ja": "哪吒之魔童降世",
-    "en": "Ne Zha"
-  },
-  "gsc_productNum": 10689,
-  "price": 5500,
-  "release_date": [
+  "num" : "1460",
+  "price" : 5500,
+  "release_date" : [
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210119/10689/79945/large/ab5a0d850065b34c25d0ed5be299f426.jpg",
-  "gender": "M",
-  "set": 244
+  "series" : {
+    "en" : "Ne Zha",
+    "ja" : "哪吒之魔童降世",
+    "ko" : "나타지마동강세"
+  },
+  "set" : 244
 }

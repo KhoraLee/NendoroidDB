@@ -1,21 +1,21 @@
 {
-  "num": "1749",
-  "name": {
-    "ko": "록시 미굴디아",
-    "ja": "ねんどろいど ロキシー・ミグルディア (ねんどろいど ろきしー・みぐるでぃあ)",
-    "en": "Nendoroid Roxy Migurdia"
+  "gender" : "F",
+  "gsc_productNum" : 11959,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211101/11959/91816/large/395555ff4cf3b1d1016d31b04a941ef7.jpg",
+  "name" : {
+    "en" : "Nendoroid Roxy Migurdia",
+    "ja" : "ねんどろいど ロキシー・ミグルディア (ねんどろいど ろきしー・みぐるでぃあ)",
+    "ko" : "록시 미굴디아"
   },
-  "series": {
-    "ko": "무직전생 ~이세계에 갔으면 최선을 다한다~",
-    "ja": "無職転生 ～異世界行ったら本気だす～",
-    "en": "Mushoku Tensei: Jobless Reincarnation"
-  },
-  "gsc_productNum": 11959,
-  "price": 6800,
-  "release_date": [
+  "num" : "1749",
+  "price" : 6800,
+  "release_date" : [
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211101/11959/91816/large/395555ff4cf3b1d1016d31b04a941ef7.jpg",
-  "gender": "F",
-  "set": 257
+  "series" : {
+    "en" : "Mushoku Tensei: Jobless Reincarnation",
+    "ja" : "無職転生 ～異世界行ったら本気だす～",
+    "ko" : "무직전생 ~이세계에 갔으면 최선을 다한다~"
+  },
+  "set" : 257
 }

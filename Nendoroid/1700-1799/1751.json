@@ -1,20 +1,20 @@
 {
-  "num": "1751",
-  "name": {
-    "ko": "시에스타",
-    "ja": "ねんどろいど シエスタ (ねんどろいど しえすた)",
-    "en": "Nendoroid Siesta"
+  "gender" : "F",
+  "gsc_productNum" : 12016,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211117/12016/92222/large/90f48e7e316b2f13817a51e10e5d5295.jpg",
+  "name" : {
+    "en" : "Nendoroid Siesta",
+    "ja" : "ねんどろいど シエスタ (ねんどろいど しえすた)",
+    "ko" : "시에스타"
   },
-  "series": {
-    "ko": "탐정은 이미 죽었다",
-    "ja": "探偵はもう、死んでいる。",
-    "en": "The Detective is Already Dead"
-  },
-  "gsc_productNum": 12016,
-  "price": 5700,
-  "release_date": [
+  "num" : "1751",
+  "price" : 5700,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211117/12016/92222/large/90f48e7e316b2f13817a51e10e5d5295.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "The Detective is Already Dead",
+    "ja" : "探偵はもう、死んでいる。",
+    "ko" : "탐정은 이미 죽었다"
+  }
 }

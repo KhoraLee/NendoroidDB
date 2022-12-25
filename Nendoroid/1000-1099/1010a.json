@@ -1,20 +1,20 @@
 {
-  "num": "1010a",
-  "name": {
-    "ko": "미키 마우스 1928 Ver.(흑백)",
-    "ja": "ねんどろいど ミッキーマウス 1928 Ver.（シロクロ） (ねんどろいど みっきーまうす 1928 Ver.（しろくろ）)",
-    "en": "Nendoroid Mickey Mouse: 1928 Ver. (Black \u0026 White)"
+  "gsc_productNum" : 7653,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180928/7653/54877/large/949dd1b54977f66433b964c469ff963b.jpg",
+  "name" : {
+    "en" : "Nendoroid Mickey Mouse: 1928 Ver. (Black & White)",
+    "ja" : "ねんどろいど ミッキーマウス 1928 Ver.（シロクロ） (ねんどろいど みっきーまうす 1928 Ver.（しろくろ）)",
+    "ko" : "미키 마우스 1928 Ver.(흑백)"
   },
-  "series": {
-    "ko": "증기선 윌리",
-    "ja": "蒸気船ウィリー",
-    "en": "Steamboat Willie"
-  },
-  "gsc_productNum": 7653,
-  "price": 5297,
-  "release_date": [
+  "num" : "1010a",
+  "price" : 5297,
+  "release_date" : [
     "2019/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180928/7653/54877/large/949dd1b54977f66433b964c469ff963b.jpg",
-  "set": 32
+  "series" : {
+    "en" : "Steamboat Willie",
+    "ja" : "蒸気船ウィリー",
+    "ko" : "증기선 윌리"
+  },
+  "set" : 32
 }

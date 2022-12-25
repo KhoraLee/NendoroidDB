@@ -1,21 +1,21 @@
 {
-  "num": "1068-DX",
-  "name": {
-    "ko": "위무선 DX",
-    "ja": "ねんどろいど 魏無羨 DX (ねんどろいど ぎむせん DX)",
-    "en": "Nendoroid Wei Wuxian DX"
+  "gender" : "M",
+  "gsc_productNum" : 11631,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210806/11631/88556/large/799a0262cde450310cffc079a68961fd.jpg",
+  "name" : {
+    "en" : "Nendoroid Wei Wuxian DX",
+    "ja" : "ねんどろいど 魏無羨 DX (ねんどろいど ぎむせん DX)",
+    "ko" : "위무선 DX"
   },
-  "series": {
-    "ko": "마도조사",
-    "ja": "アニメ「魔道祖師」",
-    "en": "The Master of Diabolism"
-  },
-  "gsc_productNum": 11631,
-  "price": 8400,
-  "release_date": [
+  "num" : "1068-DX",
+  "price" : 8400,
+  "release_date" : [
     "2022/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210806/11631/88556/large/799a0262cde450310cffc079a68961fd.jpg",
-  "gender": "M",
-  "set": 203
+  "series" : {
+    "en" : "The Master of Diabolism",
+    "ja" : "アニメ「魔道祖師」",
+    "ko" : "마도조사"
+  },
+  "set" : 203
 }

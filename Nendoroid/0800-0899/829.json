@@ -1,21 +1,21 @@
 {
-  "num": "829",
-  "name": {
-    "ko": "가방",
-    "ja": "ねんどろいど かばん",
-    "en": "Nendoroid Kaban"
+  "gender" : "F",
+  "gsc_productNum" : 6731,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170920/6731/47643/large/7200fb5495bcf6f1f6fc84b039ea7392.jpg",
+  "name" : {
+    "en" : "Nendoroid Kaban",
+    "ja" : "ねんどろいど かばん",
+    "ko" : "가방"
   },
-  "series": {
-    "ko": "케모노 프렌즈",
-    "ja": "けものフレンズ",
-    "en": "Kemono Friends"
-  },
-  "gsc_productNum": 6731,
-  "price": 4584,
-  "release_date": [
+  "num" : "829",
+  "price" : 4584,
+  "release_date" : [
     "2018/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170920/6731/47643/large/7200fb5495bcf6f1f6fc84b039ea7392.jpg",
-  "gender": "F",
-  "set": 155
+  "series" : {
+    "en" : "Kemono Friends",
+    "ja" : "けものフレンズ",
+    "ko" : "케모노 프렌즈"
+  },
+  "set" : 155
 }

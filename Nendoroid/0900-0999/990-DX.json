@@ -1,22 +1,22 @@
 {
-  "num": "990-DX",
-  "name": {
-    "ko": "캐스터/길가메시 영기재림 Ver.",
-    "ja": "ねんどろいど キャスター/ギルガメッシュ 霊基再臨 Ver. (ねんどろいど きゃすたー/ぎるがめっしゅ れいきさいりん Ver.)",
-    "en": "Nendoroid Caster/Gilgamesh: Ascension Ver."
+  "gender" : "M",
+  "gsc_productNum" : 7591,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180904/7591/54326/large/e97a89fd0608df778d7b1660fe7a5f95.jpg",
+  "name" : {
+    "en" : "Nendoroid Caster/Gilgamesh: Ascension Ver.",
+    "ja" : "ねんどろいど キャスター/ギルガメッシュ 霊基再臨 Ver. (ねんどろいど きゃすたー/ぎるがめっしゅ れいきさいりん Ver.)",
+    "ko" : "캐스터/길가메시 영기재림 Ver."
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 7591,
-  "price": 6112,
-  "release_date": [
+  "num" : "990-DX",
+  "price" : 6112,
+  "release_date" : [
     "2019/03",
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180904/7591/54326/large/e97a89fd0608df778d7b1660fe7a5f95.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

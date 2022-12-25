@@ -1,21 +1,21 @@
 {
-  "num": "635",
-  "name": {
-    "ko": "이즈리얼",
-    "ja": "ねんどろいど エズリアル (ねんどろいど えずりある)",
-    "en": "Nendoroid Ezreal"
+  "gender" : "M",
+  "gsc_productNum" : 7671,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181005/7671/55031/large/e45c3cc3d937ce31474dfd072e639969.jpg",
+  "name" : {
+    "en" : "Nendoroid Ezreal",
+    "ja" : "ねんどろいど エズリアル (ねんどろいど えずりある)",
+    "ko" : "이즈리얼"
   },
-  "series": {
-    "ko": "리그 오브 레전드",
-    "ja": "リーグ・オブ・レジェンド",
-    "en": "League of Legends"
-  },
-  "gsc_productNum": 7671,
-  "price": -1,
-  "release_date": [
+  "num" : "635",
+  "price" : -1,
+  "release_date" : [
     "2016/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181005/7671/55031/large/e45c3cc3d937ce31474dfd072e639969.jpg",
-  "gender": "M",
-  "set": 98
+  "series" : {
+    "en" : "League of Legends",
+    "ja" : "リーグ・オブ・レジェンド",
+    "ko" : "리그 오브 레전드"
+  },
+  "set" : 98
 }

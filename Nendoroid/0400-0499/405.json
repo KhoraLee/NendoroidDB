@@ -1,21 +1,21 @@
 {
-  "num": "405",
-  "name": {
-    "ko": "콩고",
-    "ja": "ねんどろいど 金剛 (ねんどろいど こんごう)",
-    "en": "Nendoroid Kongo (ねんどろいど こんごう)"
+  "gender" : "F",
+  "gsc_productNum" : 4260,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140317/4260/28161/large/aa6e9bc808efeee484d244418204d9c5.jpg",
+  "name" : {
+    "en" : "Nendoroid Kongo (ねんどろいど こんごう)",
+    "ja" : "ねんどろいど 金剛 (ねんどろいど こんごう)",
+    "ko" : "콩고"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 4260,
-  "price": 4888,
-  "release_date": [
+  "num" : "405",
+  "price" : 4888,
+  "release_date" : [
     "2014/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140317/4260/28161/large/aa6e9bc808efeee484d244418204d9c5.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

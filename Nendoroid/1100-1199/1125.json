@@ -1,21 +1,21 @@
 {
-  "num": "1125",
-  "name": {
-    "ko": "츠루마키 코코로",
-    "ja": "ねんどろいど 弦巻こころ ステージ衣装Ver. (ねんどろいど つるまきこころ すてーじいしょうVer.)",
-    "en": "Nendoroid Kokoro Tsurumaki: Stage Outfit Ver."
+  "gender" : "F",
+  "gsc_productNum" : 8272,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190423/8272/59722/large/8d5a9065bbfb6cc066ea68cee6f46685.jpg",
+  "name" : {
+    "en" : "Nendoroid Kokoro Tsurumaki: Stage Outfit Ver.",
+    "ja" : "ねんどろいど 弦巻こころ ステージ衣装Ver. (ねんどろいど つるまきこころ すてーじいしょうVer.)",
+    "ko" : "츠루마키 코코로"
   },
-  "series": {
-    "ko": "BanG Dream!",
-    "ja": "バンドリ！ ガールズバンドパーティ！",
-    "en": "BanG Dream! Girls Band Party!"
-  },
-  "gsc_productNum": 8272,
-  "price": 5100,
-  "release_date": [
+  "num" : "1125",
+  "price" : 5100,
+  "release_date" : [
     "2019/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190423/8272/59722/large/8d5a9065bbfb6cc066ea68cee6f46685.jpg",
-  "gender": "F",
-  "set": 152
+  "series" : {
+    "en" : "BanG Dream! Girls Band Party!",
+    "ja" : "バンドリ！ ガールズバンドパーティ！",
+    "ko" : "BanG Dream!"
+  },
+  "set" : 152
 }

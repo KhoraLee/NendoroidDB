@@ -1,22 +1,22 @@
 {
-  "num": "518",
-  "name": {
-    "ko": "카슈 키요미츠",
-    "ja": "ねんどろいど 加州清光 (ねんどろいど かしゅうきよみつ)",
-    "en": "Nendoroid Kashu Kiyomitsu"
+  "gender" : "M",
+  "gsc_productNum" : 4976,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150424/4976/33304/large/9aff25c74615a134f6a71df71df40f30.jpg",
+  "name" : {
+    "en" : "Nendoroid Kashu Kiyomitsu",
+    "ja" : "ねんどろいど 加州清光 (ねんどろいど かしゅうきよみつ)",
+    "ko" : "카슈 키요미츠"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 4976,
-  "price": 4278,
-  "release_date": [
+  "num" : "518",
+  "price" : 4278,
+  "release_date" : [
     "2015/09",
     "2018/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150424/4976/33304/large/9aff25c74615a134f6a71df71df40f30.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

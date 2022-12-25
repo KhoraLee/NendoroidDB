@@ -1,21 +1,21 @@
 {
-  "num": "298",
-  "name": {
-    "ko": "메루루",
-    "ja": "ねんどろいど 星くず★うぃっち メルル (ねんどろいど ほしくず★うぃっち めるる)",
-    "en": "Nendoroid Hoshikuzu Witch Meruru (ねんどろいど ほしくず★うぃっち めるる)"
+  "gender" : "F",
+  "gsc_productNum" : 3780,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121210/3780/21861/large/66958c3af237f50c5e538e1f99ec1275.jpg",
+  "name" : {
+    "en" : "Nendoroid Hoshikuzu Witch Meruru (ねんどろいど ほしくず★うぃっち めるる)",
+    "ja" : "ねんどろいど 星くず★うぃっち メルル (ねんどろいど ほしくず★うぃっち めるる)",
+    "ko" : "메루루"
   },
-  "series": {
-    "ko": "내 여동생이 이렇게 귀여울 리가 없어",
-    "ja": "俺の妹がこんなに可愛いわけがない",
-    "en": "Ore no Imouto ga Konnani Kawaii Wake ga Nai"
-  },
-  "gsc_productNum": 3780,
-  "price": 3667,
-  "release_date": [
+  "num" : "298",
+  "price" : 3667,
+  "release_date" : [
     "2013/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121210/3780/21861/large/66958c3af237f50c5e538e1f99ec1275.jpg",
-  "gender": "F",
-  "set": 42
+  "series" : {
+    "en" : "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+    "ja" : "俺の妹がこんなに可愛いわけがない",
+    "ko" : "내 여동생이 이렇게 귀여울 리가 없어"
+  },
+  "set" : 42
 }

@@ -1,21 +1,21 @@
 {
-  "num": "484",
-  "name": {
-    "ko": "시이나 코코미",
-    "ja": "ねんどろいど 椎名心実 (ねんどろいど しいなここみ)",
-    "en": "Nendoroid Kokomi Shina (ねんどろいど しいなここみ)"
+  "gender" : "F",
+  "gsc_productNum" : 4759,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141204/4759/31601/large/01b9f44dca3f792221454776e0d92193.jpg",
+  "name" : {
+    "en" : "Nendoroid Kokomi Shina (ねんどろいど しいなここみ)",
+    "ja" : "ねんどろいど 椎名心実 (ねんどろいど しいなここみ)",
+    "ko" : "시이나 코코미"
   },
-  "series": {
-    "ko": "걸프렌드",
-    "ja": "ガールフレンド（仮）",
-    "en": "Girl Friend Beta"
-  },
-  "gsc_productNum": 4759,
-  "price": 5093,
-  "release_date": [
+  "num" : "484",
+  "price" : 5093,
+  "release_date" : [
     "2015/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141204/4759/31601/large/01b9f44dca3f792221454776e0d92193.jpg",
-  "gender": "F",
-  "set": 114
+  "series" : {
+    "en" : "Girl Friend Beta",
+    "ja" : "ガールフレンド（仮）",
+    "ko" : "걸프렌드"
+  },
+  "set" : 114
 }

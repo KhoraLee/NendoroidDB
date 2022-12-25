@@ -1,21 +1,21 @@
 {
-  "num": "905",
-  "name": {
-    "ko": "오오사카 소고",
-    "ja": "ねんどろいど 逢坂壮五 (ねんどろいど おうさかそうご)",
-    "en": "Nendoroid Sogo Osaka"
+  "gender" : "M",
+  "gsc_productNum" : 7175,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180402/7175/51178/large/9316dc7417319ffaa9424ba2776b3d49.jpg",
+  "name" : {
+    "en" : "Nendoroid Sogo Osaka",
+    "ja" : "ねんどろいど 逢坂壮五 (ねんどろいど おうさかそうご)",
+    "ko" : "오오사카 소고"
   },
-  "series": {
-    "ko": "아이돌리쉬 세븐",
-    "ja": "アイドリッシュセブン",
-    "en": "IDOLiSH7"
-  },
-  "gsc_productNum": 7175,
-  "price": 4481,
-  "release_date": [
+  "num" : "905",
+  "price" : 4481,
+  "release_date" : [
     "2018/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180402/7175/51178/large/9316dc7417319ffaa9424ba2776b3d49.jpg",
-  "gender": "M",
-  "set": 174
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  },
+  "set" : 174
 }

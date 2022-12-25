@@ -1,21 +1,21 @@
 {
-  "num": "1909",
-  "name": {
-    "ja": "ねんどろいど 早乙女芽亜里 (ねんどろいど さおとめめあり)",
-    "en": "Nendoroid Mary Saotome",
-    "ko": "사오토메 메아리"
+  "gender" : "F",
+  "gsc_productNum" : 12864,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220622/12864/100376/large/592a559d1ad0ebaf3d884654e49bb5d2.jpg",
+  "name" : {
+    "en" : "Nendoroid Mary Saotome",
+    "ja" : "ねんどろいど 早乙女芽亜里 (ねんどろいど さおとめめあり)",
+    "ko" : "사오토메 메아리"
   },
-  "series": {
-    "ja": "賭ケグルイ××",
-    "en": "KAKEGURUI xx",
-    "ko": "카케구루이 트윈"
-  },
-  "gsc_productNum": 12864,
-  "price": 6700,
-  "release_date": [
+  "num" : "1909",
+  "price" : 6700,
+  "release_date" : [
     "2023/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220622/12864/100376/large/592a559d1ad0ebaf3d884654e49bb5d2.jpg",
-  "gender": "F",
-  "set": 166
+  "series" : {
+    "en" : "KAKEGURUI xx",
+    "ja" : "賭ケグルイ××",
+    "ko" : "카케구루이 트윈"
+  },
+  "set" : 166
 }

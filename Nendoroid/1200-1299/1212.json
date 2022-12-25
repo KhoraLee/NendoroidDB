@@ -1,21 +1,21 @@
 {
-  "num": "1212",
-  "name": {
-    "ko": "젤다",
-    "ja": "ねんどろいど ゼルダ ブレス オブ ザ ワイルドVer. (ねんどろいど ぜるだ ぶれす おぶ ざ わいるどVer.)",
-    "en": "Nendoroid Zelda: Breath of the Wild Ver."
+  "gender" : "F",
+  "gsc_productNum" : 8819,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190919/8819/63926/large/b4c972e99abeb6a1a976d9e259578eeb.jpg",
+  "name" : {
+    "en" : "Nendoroid Zelda: Breath of the Wild Ver.",
+    "ja" : "ねんどろいど ゼルダ ブレス オブ ザ ワイルドVer. (ねんどろいど ぜるだ ぶれす おぶ ざ わいるどVer.)",
+    "ko" : "젤다"
   },
-  "series": {
-    "ko": "젤다의 전설",
-    "ja": "ゼルダの伝説　ブレス オブ ザ ワイルド",
-    "en": "The Legend of Zelda: Breath of the Wild"
-  },
-  "gsc_productNum": 8819,
-  "price": 5800,
-  "release_date": [
+  "num" : "1212",
+  "price" : 5800,
+  "release_date" : [
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190919/8819/63926/large/b4c972e99abeb6a1a976d9e259578eeb.jpg",
-  "gender": "F",
-  "set": 99
+  "series" : {
+    "en" : "The Legend of Zelda: Breath of the Wild",
+    "ja" : "ゼルダの伝説　ブレス オブ ザ ワイルド",
+    "ko" : "젤다의 전설"
+  },
+  "set" : 99
 }

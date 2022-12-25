@@ -1,21 +1,21 @@
 {
-  "num": "1629",
-  "name": {
-    "ko": "주기락 암살자 Ver.",
-    "ja": "ねんどろいど キラ 暗殺者Ver. (ねんどろいど きら あんさつしゃVer.)",
-    "en": "Nendoroid Qiluo Zhou: Shade Ver."
+  "gender" : "M",
+  "gsc_productNum" : 11165,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210507/11165/84317/large/9428331458a4654a8c6e921912d124a9.jpg",
+  "name" : {
+    "en" : "Nendoroid Qiluo Zhou: Shade Ver.",
+    "ja" : "ねんどろいど キラ 暗殺者Ver. (ねんどろいど きら あんさつしゃVer.)",
+    "ko" : "주기락 암살자 Ver."
   },
-  "series": {
-    "ko": "러브앤프로듀서",
-    "ja": "恋とプロデューサー～EVOL×LOVE～",
-    "en": "Love\u0026Producer"
-  },
-  "gsc_productNum": 11165,
-  "price": 5900,
-  "release_date": [
+  "num" : "1629",
+  "price" : 5900,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210507/11165/84317/large/9428331458a4654a8c6e921912d124a9.jpg",
-  "gender": "M",
-  "set": 209
+  "series" : {
+    "en" : "Love&Producer",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "set" : 209
 }

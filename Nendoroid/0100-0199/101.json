@@ -1,21 +1,21 @@
 {
-  "num": "101",
-  "name": {
-    "ko": "미오\u0026리츠 라이브 스테이지 세트",
-    "ja": "ねんどろいど けいおん！澪＆律ライブステージセット (ねんどろいど けいおん！みお＆りつらいぶすてーじせっと)",
-    "en": "Nendoroid K-ON! Mio and Ritsu: Live Stage Set (ねんどろいど けいおん！みお＆りつらいぶすてーじせっと)"
+  "gender" : "F",
+  "gsc_productNum" : 2775,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100115/2775/8836/large/08877bd6c0568ec0b2255892a15e51b3.jpg",
+  "name" : {
+    "en" : "Nendoroid K-ON! Mio and Ritsu: Live Stage Set (ねんどろいど けいおん！みお＆りつらいぶすてーじせっと)",
+    "ja" : "ねんどろいど けいおん！澪＆律ライブステージセット (ねんどろいど けいおん！みお＆りつらいぶすてーじせっと)",
+    "ko" : "미오&리츠 라이브 스테이지 세트"
   },
-  "series": {
-    "ko": "케이온!",
-    "ja": "けいおん！",
-    "en": "K-ON!"
-  },
-  "gsc_productNum": 2775,
-  "price": 8381,
-  "release_date": [
+  "num" : "101",
+  "price" : 8381,
+  "release_date" : [
     "2010/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100115/2775/8836/large/08877bd6c0568ec0b2255892a15e51b3.jpg",
-  "gender": "F",
-  "set": 27
+  "series" : {
+    "en" : "K-ON!",
+    "ja" : "けいおん！",
+    "ko" : "케이온!"
+  },
+  "set" : 27
 }

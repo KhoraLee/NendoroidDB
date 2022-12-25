@@ -1,21 +1,21 @@
 {
-  "num": "760",
-  "name": {
-    "ko": "야마토노가미 야스사다",
-    "ja": "ねんどろいど 大和守安定 (ねんどろいど やまとのかみやすさだ)",
-    "en": "Nendoroid Yamatonokami Yasusada"
+  "gender" : "M",
+  "gsc_productNum" : 6376,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170411/6376/44840/large/e9c5ff0719510e9a513ccf178c2bda9d.jpg",
+  "name" : {
+    "en" : "Nendoroid Yamatonokami Yasusada",
+    "ja" : "ねんどろいど 大和守安定 (ねんどろいど やまとのかみやすさだ)",
+    "ko" : "야마토노가미 야스사다"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 6376,
-  "price": 4584,
-  "release_date": [
+  "num" : "760",
+  "price" : 4584,
+  "release_date" : [
     "2017/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170411/6376/44840/large/e9c5ff0719510e9a513ccf178c2bda9d.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

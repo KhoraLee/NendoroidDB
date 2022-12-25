@@ -1,20 +1,20 @@
 {
-  "num": "159",
-  "name": {
-    "ko": "토투리아 헬몰트",
-    "ja": "ねんどろいど トトリ (ねんどろいど ととり)",
-    "en": "Nendoroid Totori (ねんどろいど ととり)"
+  "gender" : "F",
+  "gsc_productNum" : 3100,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110223/3100/12991/large/0df8c65fe8b16e358ee1bdf7e4a05852.jpg",
+  "name" : {
+    "en" : "Nendoroid Totori (ねんどろいど ととり)",
+    "ja" : "ねんどろいど トトリ (ねんどろいど ととり)",
+    "ko" : "토투리아 헬몰트"
   },
-  "series": {
-    "ko": "토토리의 아틀리에",
-    "ja": "トトリのアトリエ －アーランドの錬金術士2－",
-    "en": "Atelier Totori: Alchemist of Arland 2"
-  },
-  "gsc_productNum": 3100,
-  "price": 3667,
-  "release_date": [
+  "num" : "159",
+  "price" : 3667,
+  "release_date" : [
     "2011/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110223/3100/12991/large/0df8c65fe8b16e358ee1bdf7e4a05852.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Atelier Totori: Alchemist of Arland 2",
+    "ja" : "トトリのアトリエ －アーランドの錬金術士2－",
+    "ko" : "토토리의 아틀리에"
+  }
 }

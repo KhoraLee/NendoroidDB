@@ -1,20 +1,20 @@
 {
-  "num": "691",
-  "name": {
-    "ko": "레나",
-    "ja": "ねんどろいど レナ (ねんどろいど れな)",
-    "en": "Nendoroid Rena"
+  "gender" : "F",
+  "gsc_productNum" : 6057,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161111/6057/42205/large/4da8bac05aa5a6bf381694f036fc7785.jpg",
+  "name" : {
+    "en" : "Nendoroid Rena",
+    "ja" : "ねんどろいど レナ (ねんどろいど れな)",
+    "ko" : "레나"
   },
-  "series": {
-    "ko": "레갈리아 The Three Sacred Stars",
-    "ja": "レガリア The Three Sacred Stars",
-    "en": "Regalia: The Three Sacred Stars"
-  },
-  "gsc_productNum": 6057,
-  "price": 5602,
-  "release_date": [
+  "num" : "691",
+  "price" : 5602,
+  "release_date" : [
     "2017/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161111/6057/42205/large/4da8bac05aa5a6bf381694f036fc7785.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Regalia: The Three Sacred Stars",
+    "ja" : "レガリア The Three Sacred Stars",
+    "ko" : "레갈리아 The Three Sacred Stars"
+  }
 }

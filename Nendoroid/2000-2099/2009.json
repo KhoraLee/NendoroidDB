@@ -1,21 +1,21 @@
 {
-  "num": "2009",
-  "name": {
-    "ja": "ねんどろいど 不知火フレア (ねんどろいど しらぬいふれあ)",
-    "en": "Nendoroid Shiranui Flare",
-    "ko": "시라누이 후레아"
+  "gender" : "F",
+  "gsc_productNum" : 13582,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221121/13582/107662/large/2d2f553f4dab012ad2b4bb4d23fe105e.jpg",
+  "name" : {
+    "en" : "Nendoroid Shiranui Flare",
+    "ja" : "ねんどろいど 不知火フレア (ねんどろいど しらぬいふれあ)",
+    "ko" : "시라누이 후레아"
   },
-  "series": {
-    "ja": "ホロライブプロダクション",
-    "en": "hololive production",
-    "ko": "홀로라이브"
-  },
-  "gsc_productNum": 13582,
-  "price": 6900,
-  "release_date": [
+  "num" : "2009",
+  "price" : 6900,
+  "release_date" : [
     "2023/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221121/13582/107662/large/2d2f553f4dab012ad2b4bb4d23fe105e.jpg",
-  "gender": "F",
-  "set": 262
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브"
+  },
+  "set" : 262
 }

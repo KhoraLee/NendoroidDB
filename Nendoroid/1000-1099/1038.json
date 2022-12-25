@@ -1,20 +1,20 @@
 {
-  "num": "1038",
-  "name": {
-    "ko": "킹",
-    "ja": "ねんどろいど 金 (ねんどろいど きん)",
-    "en": "Nendoroid Jin"
+  "gender" : "M",
+  "gsc_productNum" : 7837,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181122/7837/56215/large/4c9510c41dfd874bf69eaa265c02dcee.jpg",
+  "name" : {
+    "en" : "Nendoroid Jin",
+    "ja" : "ねんどろいど 金 (ねんどろいど きん)",
+    "ko" : "킹"
   },
-  "series": {
-    "ko": "요철세계",
-    "ja": "凹凸世界",
-    "en": "AOTU World"
-  },
-  "gsc_productNum": 7837,
-  "price": 5093,
-  "release_date": [
+  "num" : "1038",
+  "price" : 5093,
+  "release_date" : [
     "2019/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181122/7837/56215/large/4c9510c41dfd874bf69eaa265c02dcee.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "AOTU World",
+    "ja" : "凹凸世界",
+    "ko" : "요철세계"
+  }
 }

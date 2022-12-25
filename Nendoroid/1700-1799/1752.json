@@ -1,21 +1,21 @@
 {
-  "num": "1752",
-  "name": {
-    "ko": "월청소",
-    "ja": "ねんどろいど 月清疏 (ねんどろいど げつせいそ)",
-    "en": "Nendoroid Yue Qingshu"
+  "gender" : "F",
+  "gsc_productNum" : 11996,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211112/11996/92072/large/dc677cf379ce8be00204a897e5fe23bc.jpg",
+  "name" : {
+    "en" : "Nendoroid Yue Qingshu",
+    "ja" : "ねんどろいど 月清疏 (ねんどろいど げつせいそ)",
+    "ko" : "월청소"
   },
-  "series": {
-    "ko": "선검기협전7",
-    "ja": "仙剣奇侠伝七",
-    "en": "Legend of Sword and Fairy 7"
-  },
-  "gsc_productNum": 11996,
-  "price": 6900,
-  "release_date": [
+  "num" : "1752",
+  "price" : 6900,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211112/11996/92072/large/dc677cf379ce8be00204a897e5fe23bc.jpg",
-  "gender": "F",
-  "set": 214
+  "series" : {
+    "en" : "Legend of Sword and Fairy 7",
+    "ja" : "仙剣奇侠伝七",
+    "ko" : "선검기협전7"
+  },
+  "set" : 214
 }

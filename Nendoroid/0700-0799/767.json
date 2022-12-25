@@ -1,21 +1,21 @@
 {
-  "num": "767",
-  "name": {
-    "ko": "젊은 나가토",
-    "ja": "ねんどろいど ヤング長門 (ねんどろいど やんぐながと)",
-    "en": "Nendoroid Young Nagato"
+  "gender" : "F",
+  "gsc_productNum" : 6718,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170912/6718/47522/large/a77d4a928e3bf7d372f9e9e9a325d232.jpg",
+  "name" : {
+    "en" : "Nendoroid Young Nagato",
+    "ja" : "ねんどろいど ヤング長門 (ねんどろいど やんぐながと)",
+    "ko" : "젊은 나가토"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 6718,
-  "price": 6621,
-  "release_date": [
+  "num" : "767",
+  "price" : 6621,
+  "release_date" : [
     "2017/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170912/6718/47522/large/a77d4a928e3bf7d372f9e9e9a325d232.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

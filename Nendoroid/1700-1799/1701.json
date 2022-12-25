@@ -1,21 +1,21 @@
 {
-  "num": "1701",
-  "name": {
-    "ko": "하츠네 미쿠 NT Ver.",
-    "ja": "ねんどろいど 初音ミク NT (ねんどろいど はつねみく にゅーたいぷ)",
-    "en": "Nendoroid Hatsune Miku NT"
+  "gender" : "F",
+  "gsc_productNum" : 11712,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210826/11712/89229/large/b80277daba02288dbeffb352f0af5edc.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku NT",
+    "ja" : "ねんどろいど 初音ミク NT (ねんどろいど はつねみく にゅーたいぷ)",
+    "ko" : "하츠네 미쿠 NT Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "ピアプロキャラクターズ",
-    "en": "Piapro Characters"
-  },
-  "gsc_productNum": 11712,
-  "price": 6200,
-  "release_date": [
+  "num" : "1701",
+  "price" : 6200,
+  "release_date" : [
     "2022/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210826/11712/89229/large/b80277daba02288dbeffb352f0af5edc.jpg",
-  "gender": "F",
-  "set": 10
+  "series" : {
+    "en" : "Piapro Characters",
+    "ja" : "ピアプロキャラクターズ",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
 }

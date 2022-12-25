@@ -1,22 +1,22 @@
 {
-  "num": "141",
-  "name": {
-    "ko": "콘파쿠 요우무",
-    "ja": "ねんどろいど 魂魄妖夢 (ねんどろいど こんぱくようむ)",
-    "en": "Nendoroid Youmu Konpaku (ねんどろいど こんぱくようむ)"
+  "gender" : "F",
+  "gsc_productNum" : 3011,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20101104/3011/11905/large/546dbeae776ae2d7eddc4a0306c64c21.jpg",
+  "name" : {
+    "en" : "Nendoroid Youmu Konpaku (ねんどろいど こんぱくようむ)",
+    "ja" : "ねんどろいど 魂魄妖夢 (ねんどろいど こんぱくようむ)",
+    "ko" : "콘파쿠 요우무"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方Project",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 3011,
-  "price": 3143,
-  "release_date": [
+  "num" : "141",
+  "price" : 3143,
+  "release_date" : [
     "2011/04",
     "2012/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20101104/3011/11905/large/546dbeae776ae2d7eddc4a0306c64c21.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

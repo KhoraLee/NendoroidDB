@@ -1,22 +1,22 @@
 {
-  "num": "187",
-  "name": {
-    "ko": "MEIKO",
-    "ja": "ねんどろいど MEIKO (ねんどろいど めいこ)",
-    "en": "Nendoroid MEIKO (ねんどろいど めいこ)"
+  "gender" : "F",
+  "gsc_productNum" : 3241,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110802/3241/28074/large/7f63ad96ffe091fadbb7f84948b245b3.jpg",
+  "name" : {
+    "en" : "Nendoroid MEIKO (ねんどろいど めいこ)",
+    "ja" : "ねんどろいど MEIKO (ねんどろいど めいこ)",
+    "ko" : "MEIKO"
   },
-  "series": {
-    "ko": "보컬로이드(VOCALOID)",
-    "ja": "MEIKO",
-    "en": "MEIKO"
-  },
-  "gsc_productNum": 3241,
-  "price": 3143,
-  "release_date": [
+  "num" : "187",
+  "price" : 3143,
+  "release_date" : [
     "2011/12",
     "2014/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110802/3241/28074/large/7f63ad96ffe091fadbb7f84948b245b3.jpg",
-  "gender": "F",
-  "set": 11
+  "series" : {
+    "en" : "MEIKO",
+    "ja" : "MEIKO",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 11
 }

@@ -1,21 +1,21 @@
 {
-  "num": "966",
-  "name": {
-    "ko": "키타카도 토모히사",
-    "ja": "ねんどろいど 北門倫毘沙 (ねんどろいど きたかどともひさ)",
-    "en": "Nendoroid Tomohisa Kitakado"
+  "gender" : "M",
+  "gsc_productNum" : 7468,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180724/7468/53415/large/b785248e09bbb271db296037ef06d6be.jpg",
+  "name" : {
+    "en" : "Nendoroid Tomohisa Kitakado",
+    "ja" : "ねんどろいど 北門倫毘沙 (ねんどろいど きたかどともひさ)",
+    "ko" : "키타카도 토모히사"
   },
-  "series": {
-    "ko": "B-PROJECT ~고동＊앰비셔스~",
-    "ja": "B-PROJECT ～鼓動＊アンビシャス～",
-    "en": "B-Project: ~ Kodou＊Ambitious ~"
-  },
-  "gsc_productNum": 7468,
-  "price": 5093,
-  "release_date": [
+  "num" : "966",
+  "price" : 5093,
+  "release_date" : [
     "2018/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180724/7468/53415/large/b785248e09bbb271db296037ef06d6be.jpg",
-  "gender": "M",
-  "set": 188
+  "series" : {
+    "en" : "B-Project: ~ Kodou＊Ambitious ~",
+    "ja" : "B-PROJECT ～鼓動＊アンビシャス～",
+    "ko" : "B-PROJECT ~고동＊앰비셔스~"
+  },
+  "set" : 188
 }

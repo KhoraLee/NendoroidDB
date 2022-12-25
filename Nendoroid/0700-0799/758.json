@@ -1,23 +1,23 @@
 {
-  "num": "758",
-  "name": {
-    "ko": "다크니스",
-    "ja": "ねんどろいど ダクネス (ねんどろいど だくねす)",
-    "en": "Nendoroid Darkness"
+  "gender" : "F",
+  "gsc_productNum" : 6370,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170407/6370/44778/large/607d6c186d4e02e32b02ad0c3a1749bb.jpg",
+  "name" : {
+    "en" : "Nendoroid Darkness",
+    "ja" : "ねんどろいど ダクネス (ねんどろいど だくねす)",
+    "ko" : "다크니스"
   },
-  "series": {
-    "ko": "이 멋진 세계에 축복을!",
-    "ja": "この素晴らしい世界に祝福を！2",
-    "en": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 2"
-  },
-  "gsc_productNum": 6370,
-  "price": 5900,
-  "release_date": [
+  "num" : "758",
+  "price" : 5900,
+  "release_date" : [
     "2017/10",
     "2019/12",
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170407/6370/44778/large/607d6c186d4e02e32b02ad0c3a1749bb.jpg",
-  "gender": "F",
-  "set": 132
+  "series" : {
+    "en" : "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 2",
+    "ja" : "この素晴らしい世界に祝福を！2",
+    "ko" : "이 멋진 세계에 축복을!"
+  },
+  "set" : 132
 }

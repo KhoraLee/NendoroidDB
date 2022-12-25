@@ -1,20 +1,20 @@
 {
-  "num": "240",
-  "name": {
-    "ko": "유즈리하 이노리",
-    "ja": "ねんどろいど 楪いのり (ねんどろいど ゆずりはいのり)",
-    "en": "Nendoroid Inori Yuzuriha (ねんどろいど ゆずりはいのり)"
+  "gender" : "F",
+  "gsc_productNum" : 3522,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120404/3522/17975/large/c2f51ad01db5bcdd8d32a56e21cfc072.jpg",
+  "name" : {
+    "en" : "Nendoroid Inori Yuzuriha (ねんどろいど ゆずりはいのり)",
+    "ja" : "ねんどろいど 楪いのり (ねんどろいど ゆずりはいのり)",
+    "ko" : "유즈리하 이노리"
   },
-  "series": {
-    "ko": "길티크라운",
-    "ja": "ギルティクラウン",
-    "en": "Guilty Crown"
-  },
-  "gsc_productNum": 3522,
-  "price": 3981,
-  "release_date": [
+  "num" : "240",
+  "price" : 3981,
+  "release_date" : [
     "2012/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120404/3522/17975/large/c2f51ad01db5bcdd8d32a56e21cfc072.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Guilty Crown",
+    "ja" : "ギルティクラウン",
+    "ko" : "길티크라운"
+  }
 }

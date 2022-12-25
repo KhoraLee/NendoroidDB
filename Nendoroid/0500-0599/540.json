@@ -1,24 +1,24 @@
 {
-  "num": "540",
-  "name": {
-    "ko": "츠루마루 쿠니나가",
-    "ja": "ねんどろいど 鶴丸国永 (ねんどろいど つるまるくになが)",
-    "en": "Nendoroid Tsurumaru Kuninaga"
+  "gender" : "M",
+  "gsc_productNum" : 5100,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150626/5100/34379/large/08c673530e679419339a5dd3a2368851.jpg",
+  "name" : {
+    "en" : "Nendoroid Tsurumaru Kuninaga",
+    "ja" : "ねんどろいど 鶴丸国永 (ねんどろいど つるまるくになが)",
+    "ko" : "츠루마루 쿠니나가"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 5100,
-  "price": 4481,
-  "release_date": [
+  "num" : "540",
+  "price" : 4481,
+  "release_date" : [
     "2015/12",
     "2016/11",
     "2018/02",
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150626/5100/34379/large/08c673530e679419339a5dd3a2368851.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

@@ -1,22 +1,22 @@
 {
-  "num": "1576",
-  "name": {
-    "ko": "요르하 9호 S형",
-    "ja": "ねんどろいど NieR:Automata 9S（ヨルハ九号S型） (ねんどろいど にーあ:おーとまた ないんえす（よるはきゅうごうえすがた）)",
-    "en": "Nendoroid NieR:Automata 9S (YoRHa No. 9 Type S)"
+  "gender" : "M",
+  "gsc_productNum" : 10853,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210222/10853/81503/large/8abdff48260ab5121f29f6f3c10c56c7.jpg",
+  "name" : {
+    "en" : "Nendoroid NieR:Automata 9S (YoRHa No. 9 Type S)",
+    "ja" : "ねんどろいど NieR:Automata 9S（ヨルハ九号S型） (ねんどろいど にーあ:おーとまた ないんえす（よるはきゅうごうえすがた）)",
+    "ko" : "요르하 9호 S형"
   },
-  "series": {
-    "ko": "니어 오토마타",
-    "ja": "NieR:Automata",
-    "en": "NieR:Automata"
-  },
-  "gsc_productNum": 10853,
-  "price": 6600,
-  "release_date": [
+  "num" : "1576",
+  "price" : 6600,
+  "release_date" : [
     "2021/07",
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210222/10853/81503/large/8abdff48260ab5121f29f6f3c10c56c7.jpg",
-  "gender": "M",
-  "set": 249
+  "series" : {
+    "en" : "NieR:Automata",
+    "ja" : "NieR:Automata",
+    "ko" : "니어 오토마타"
+  },
+  "set" : 249
 }

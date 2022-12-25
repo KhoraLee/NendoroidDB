@@ -1,21 +1,21 @@
 {
-  "num": "1253",
-  "name": {
-    "ko": "정원사",
-    "ja": "ねんどろいど 庭師 (ねんどろいど にわし)",
-    "en": "Nendoroid Gardener"
+  "gender" : "F",
+  "gsc_productNum" : 9425,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200413/9425/68962/large/912a4fc8e2b95233d43cfd9061529633.jpg",
+  "name" : {
+    "en" : "Nendoroid Gardener",
+    "ja" : "ねんどろいど 庭師 (ねんどろいど にわし)",
+    "ko" : "정원사"
   },
-  "series": {
-    "ko": "제5인격",
-    "ja": "identityV 第五人格",
-    "en": "Identity V"
-  },
-  "gsc_productNum": 9425,
-  "price": 5200,
-  "release_date": [
+  "num" : "1253",
+  "price" : 5200,
+  "release_date" : [
     "2020/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200413/9425/68962/large/912a4fc8e2b95233d43cfd9061529633.jpg",
-  "gender": "F",
-  "set": 230
+  "series" : {
+    "en" : "Identity V",
+    "ja" : "identityV 第五人格",
+    "ko" : "제5인격"
+  },
+  "set" : 230
 }

@@ -1,21 +1,21 @@
 {
-  "num": "790",
-  "name": {
-    "ko": "메르시 클래식 스킨 에디션",
-    "ja": "ねんどろいど マーシー クラシックスキン・エディション (ねんどろいど まーしー くらしっくすきん・えでぃしょん)",
-    "en": "Nendoroid Mercy: Classic Skin Edition"
+  "gender" : "F",
+  "gsc_productNum" : 6518,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170622/6518/46006/large/0e87beaaae049474e8dc3deb9dad680b.jpg",
+  "name" : {
+    "en" : "Nendoroid Mercy: Classic Skin Edition",
+    "ja" : "ねんどろいど マーシー クラシックスキン・エディション (ねんどろいど まーしー くらしっくすきん・えでぃしょん)",
+    "ko" : "메르시 클래식 스킨 에디션"
   },
-  "series": {
-    "ko": "오버워치",
-    "ja": "オーバーウォッチ",
-    "en": "Overwatch"
-  },
-  "gsc_productNum": 6518,
-  "price": 4991,
-  "release_date": [
+  "num" : "790",
+  "price" : 4991,
+  "release_date" : [
     "2018/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170622/6518/46006/large/0e87beaaae049474e8dc3deb9dad680b.jpg",
-  "gender": "F",
-  "set": 150
+  "series" : {
+    "en" : "Overwatch",
+    "ja" : "オーバーウォッチ",
+    "ko" : "오버워치"
+  },
+  "set" : 150
 }

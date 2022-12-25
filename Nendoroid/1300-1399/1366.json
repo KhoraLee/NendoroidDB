@@ -1,21 +1,21 @@
 {
-  "num": "1366",
-  "name": {
-    "ja": "ねんどろいど ランサー/クー・フーリン (ねんどろいど らんさー/くー・ふーりん)",
-    "en": "Nendoroid Lancer/Cú Chulainn",
-    "ko": "랜서 쿠 훌린"
+  "gender" : "M",
+  "gsc_productNum" : 12966,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220712/12966/101330/large/71a6e7b98ee7751ea10cabed06b09e1c.jpg",
+  "name" : {
+    "en" : "Nendoroid Lancer/Cú Chulainn",
+    "ja" : "ねんどろいど ランサー/クー・フーリン (ねんどろいど らんさー/くー・ふーりん)",
+    "ko" : "랜서 쿠 훌린"
   },
-  "series": {
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order",
-    "ko": "페이트 시리즈"
-  },
-  "gsc_productNum": 12966,
-  "price": 6800,
-  "release_date": [
+  "num" : "1366",
+  "price" : 6800,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220712/12966/101330/large/71a6e7b98ee7751ea10cabed06b09e1c.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

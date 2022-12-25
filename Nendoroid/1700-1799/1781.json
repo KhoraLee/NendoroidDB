@@ -1,21 +1,21 @@
 {
-  "num": "1781",
-  "name": {
-    "ko": "찬드라 날라르",
-    "ja": "ねんどろいど チャンドラ・ナラー (ねんどろいど ちゃんどら・ならー)",
-    "en": "Nendoroid Chandra Nalaar"
+  "gender" : "F",
+  "gsc_productNum" : 12090,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211203/12090/92927/large/5fd64d58d96417b9f38248ba1e59d897.jpg",
+  "name" : {
+    "en" : "Nendoroid Chandra Nalaar",
+    "ja" : "ねんどろいど チャンドラ・ナラー (ねんどろいど ちゃんどら・ならー)",
+    "ko" : "찬드라 날라르"
   },
-  "series": {
-    "ko": "매직 더 개더링",
-    "ja": "マジック:ザ・ギャザリング",
-    "en": "Magic: The Gathering"
-  },
-  "gsc_productNum": 12090,
-  "price": 8500,
-  "release_date": [
+  "num" : "1781",
+  "price" : 8500,
+  "release_date" : [
     "2023/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211203/12090/92927/large/5fd64d58d96417b9f38248ba1e59d897.jpg",
-  "gender": "F",
-  "set": 275
+  "series" : {
+    "en" : "Magic: The Gathering",
+    "ja" : "マジック:ザ・ギャザリング",
+    "ko" : "매직 더 개더링"
+  },
+  "set" : 275
 }

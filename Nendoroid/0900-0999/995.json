@@ -1,20 +1,20 @@
 {
-  "num": "995",
-  "name": {
-    "ko": "레이시아",
-    "ja": "ねんどろいど レイシア (ねんどろいど れいしあ)",
-    "en": "Nendoroid Lacia"
+  "gender" : "F",
+  "gsc_productNum" : 7640,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180926/7640/54771/large/eb7fd75e83dc48f595913cb05dfcd2fc.jpg",
+  "name" : {
+    "en" : "Nendoroid Lacia",
+    "ja" : "ねんどろいど レイシア (ねんどろいど れいしあ)",
+    "ko" : "레이시아"
   },
-  "series": {
-    "ko": "BEATLESS",
-    "ja": "BEATLESS",
-    "en": "BEATLESS"
-  },
-  "gsc_productNum": 7640,
-  "price": 5297,
-  "release_date": [
+  "num" : "995",
+  "price" : 5297,
+  "release_date" : [
     "2019/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180926/7640/54771/large/eb7fd75e83dc48f595913cb05dfcd2fc.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "BEATLESS",
+    "ja" : "BEATLESS",
+    "ko" : "BEATLESS"
+  }
 }

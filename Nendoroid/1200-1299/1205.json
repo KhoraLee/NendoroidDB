@@ -1,21 +1,21 @@
 {
-  "num": "1205",
-  "name": {
-    "ko": "타카하시 미사키",
-    "ja": "ねんどろいど 高橋美咲 (ねんどろいど たかはしみさき)",
-    "en": "Nendoroid Misaki Takahashi"
+  "gender" : "M",
+  "gsc_productNum" : 8805,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190918/8805/63746/large/bfd6b1c21eb383bf1c9cb87d5b9dbfc0.jpg",
+  "name" : {
+    "en" : "Nendoroid Misaki Takahashi",
+    "ja" : "ねんどろいど 高橋美咲 (ねんどろいど たかはしみさき)",
+    "ko" : "타카하시 미사키"
   },
-  "series": {
-    "ko": "순정 로맨티카",
-    "ja": "純情ロマンチカ",
-    "en": "Junjo Romantica"
-  },
-  "gsc_productNum": 8805,
-  "price": 5280,
-  "release_date": [
+  "num" : "1205",
+  "price" : 5280,
+  "release_date" : [
     "2020/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190918/8805/63746/large/bfd6b1c21eb383bf1c9cb87d5b9dbfc0.jpg",
-  "gender": "M",
-  "set": 224
+  "series" : {
+    "en" : "Junjo Romantica",
+    "ja" : "純情ロマンチカ",
+    "ko" : "순정 로맨티카"
+  },
+  "set" : 224
 }

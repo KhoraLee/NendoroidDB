@@ -1,20 +1,20 @@
 {
-  "num": "808",
-  "name": {
-    "ko": "아이쨩",
-    "ja": "ねんどろいど アイちゃん (ねんどろいど あいちゃん)",
-    "en": "Nendoroid Ai-chan"
+  "gender" : "F",
+  "gsc_productNum" : 6617,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170725/6617/46809/large/5ca8d982147a1addbfb7c6a7722fd234.jpg",
+  "name" : {
+    "en" : "Nendoroid Ai-chan",
+    "ja" : "ねんどろいど アイちゃん (ねんどろいど あいちゃん)",
+    "ko" : "아이쨩"
   },
-  "series": {
-    "ko": "월요일의 타와와",
-    "ja": "月曜日のたわわ",
-    "en": "Tawawa on Monday"
-  },
-  "gsc_productNum": 6617,
-  "price": 4888,
-  "release_date": [
+  "num" : "808",
+  "price" : 4888,
+  "release_date" : [
     "2018/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170725/6617/46809/large/5ca8d982147a1addbfb7c6a7722fd234.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Tawawa on Monday",
+    "ja" : "月曜日のたわわ",
+    "ko" : "월요일의 타와와"
+  }
 }

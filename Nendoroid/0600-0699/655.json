@@ -1,21 +1,21 @@
 {
-  "num": "655",
-  "name": {
-    "ko": "아키즈키",
-    "ja": "ねんどろいど 秋月 (ねんどろいど あきづき)",
-    "en": "Nendoroid Akizuki"
+  "gender" : "F",
+  "gsc_productNum" : 5789,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160708/5789/39976/large/c6f87ae313bedee56c671cf68dff41fe.jpg",
+  "name" : {
+    "en" : "Nendoroid Akizuki",
+    "ja" : "ねんどろいど 秋月 (ねんどろいど あきづき)",
+    "ko" : "아키즈키"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 5789,
-  "price": 5297,
-  "release_date": [
+  "num" : "655",
+  "price" : 5297,
+  "release_date" : [
     "2017/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160708/5789/39976/large/c6f87ae313bedee56c671cf68dff41fe.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

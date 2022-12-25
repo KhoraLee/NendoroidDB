@@ -1,21 +1,21 @@
 {
-  "num": "1829",
-  "name": {
-    "ko": "에지오 아디토레",
-    "ja": "ねんどろいど エツィオ・アウディトーレ (ねんどろいど えつぃお・あうでぃとーれ)",
-    "en": "Nendoroid Ezio Auditore"
+  "gender" : "M",
+  "gsc_productNum" : 12385,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220221/12385/95762/large/bbda0f6c753cb6334891e0343f3b09a0.jpg",
+  "name" : {
+    "en" : "Nendoroid Ezio Auditore",
+    "ja" : "ねんどろいど エツィオ・アウディトーレ (ねんどろいど えつぃお・あうでぃとーれ)",
+    "ko" : "에지오 아디토레"
   },
-  "series": {
-    "ko": "어쌔신 크리드",
-    "ja": "Assassin\u0027s Creed®",
-    "en": "Assassin\u0027s Creed®"
-  },
-  "gsc_productNum": 12385,
-  "price": 6900,
-  "release_date": [
+  "num" : "1829",
+  "price" : 6900,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220221/12385/95762/large/bbda0f6c753cb6334891e0343f3b09a0.jpg",
-  "gender": "M",
-  "set": 265
+  "series" : {
+    "en" : "Assassin's Creed®",
+    "ja" : "Assassin's Creed®",
+    "ko" : "어쌔신 크리드"
+  },
+  "set" : 265
 }

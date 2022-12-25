@@ -1,20 +1,20 @@
 {
-  "num": "715",
-  "name": {
-    "ko": "이제타",
-    "ja": "ねんどろいど イゼッタ (ねんどろいど いぜった)",
-    "en": "Nendoroid Izetta"
+  "gender" : "F",
+  "gsc_productNum" : 6142,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161220/6142/42950/large/08ed73b857bb85ac3ede195cc640de09.jpg",
+  "name" : {
+    "en" : "Nendoroid Izetta",
+    "ja" : "ねんどろいど イゼッタ (ねんどろいど いぜった)",
+    "ko" : "이제타"
   },
-  "series": {
-    "ko": "종말의 이제타",
-    "ja": "終末のイゼッタ",
-    "en": "Izetta: The Last Witch"
-  },
-  "gsc_productNum": 6142,
-  "price": 4584,
-  "release_date": [
+  "num" : "715",
+  "price" : 4584,
+  "release_date" : [
     "2017/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161220/6142/42950/large/08ed73b857bb85ac3ede195cc640de09.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Izetta: The Last Witch",
+    "ja" : "終末のイゼッタ",
+    "ko" : "종말의 이제타"
+  }
 }

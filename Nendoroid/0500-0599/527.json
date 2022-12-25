@@ -1,21 +1,21 @@
 {
-  "num": "527",
-  "name": {
-    "ko": "키누가와 미야비",
-    "ja": "ねんどろいど 鬼怒川みやび (ねんどろいど きぬがわみやび)",
-    "en": "Nendoroid Miyabi Kinugawa (ねんどろいど きぬがわみやび)"
+  "gender" : "F",
+  "gsc_productNum" : 5032,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150522/5032/33697/large/a63103d52d87adc5108cbd2075689bb7.jpg",
+  "name" : {
+    "en" : "Nendoroid Miyabi Kinugawa (ねんどろいど きぬがわみやび)",
+    "ja" : "ねんどろいど 鬼怒川みやび (ねんどろいど きぬがわみやび)",
+    "ko" : "키누가와 미야비"
   },
-  "series": {
-    "ko": "철도무스메",
-    "ja": "鉄道むすめ",
-    "en": "Tetsudou Musume"
-  },
-  "gsc_productNum": 5032,
-  "price": 4400,
-  "release_date": [
+  "num" : "527",
+  "price" : 4400,
+  "release_date" : [
     "2015/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150522/5032/33697/large/a63103d52d87adc5108cbd2075689bb7.jpg",
-  "gender": "F",
-  "set": 85
+  "series" : {
+    "en" : "Tetsudou Musume",
+    "ja" : "鉄道むすめ",
+    "ko" : "철도무스메"
+  },
+  "set" : 85
 }

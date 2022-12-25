@@ -1,21 +1,21 @@
 {
-  "num": "537",
-  "name": {
-    "ko": "N",
-    "ja": "ねんどろいど N (ねんどろいど えぬ)",
-    "en": "Nendoroid N (ねんどろいど えぬ)"
+  "gender" : "M",
+  "gsc_productNum" : 5144,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150722/5144/34748/large/c9159c7c6be25f7df2f75efc557a5454.jpg",
+  "name" : {
+    "en" : "Nendoroid N (ねんどろいど えぬ)",
+    "ja" : "ねんどろいど N (ねんどろいど えぬ)",
+    "ko" : "N"
   },
-  "series": {
-    "ko": "포켓몬스터",
-    "ja": "ポケットモンスター",
-    "en": "Pokémon"
-  },
-  "gsc_productNum": 5144,
-  "price": 5500,
-  "release_date": [
+  "num" : "537",
+  "price" : 5500,
+  "release_date" : [
     "2015/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150722/5144/34748/large/c9159c7c6be25f7df2f75efc557a5454.jpg",
-  "gender": "M",
-  "set": 103
+  "series" : {
+    "en" : "Pokémon",
+    "ja" : "ポケットモンスター",
+    "ko" : "포켓몬스터"
+  },
+  "set" : 103
 }

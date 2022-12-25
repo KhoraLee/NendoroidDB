@@ -1,21 +1,21 @@
 {
-  "num": "1310",
-  "name": {
-    "ko": "휴가 마사무네",
-    "ja": "ねんどろいど 日向正宗 (ねんどろいど ひゅうがまさむね)",
-    "en": "Nendoroid Hyuuga Masamune"
+  "gender" : "M",
+  "gsc_productNum" : 9374,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200323/9374/68477/large/cd4ebd85c11ad9a5e434679cc2334c01.jpg",
+  "name" : {
+    "en" : "Nendoroid Hyuuga Masamune",
+    "ja" : "ねんどろいど 日向正宗 (ねんどろいど ひゅうがまさむね)",
+    "ko" : "휴가 마사무네"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 9374,
-  "price": 5600,
-  "release_date": [
+  "num" : "1310",
+  "price" : 5600,
+  "release_date" : [
     "2020/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200323/9374/68477/large/cd4ebd85c11ad9a5e434679cc2334c01.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

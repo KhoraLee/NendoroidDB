@@ -1,21 +1,21 @@
 {
-  "num": "1071",
-  "name": {
-    "ko": "센고 무라마사",
-    "ja": "ねんどろいど 千子村正 (ねんどろいど せんごむらまさ)",
-    "en": "Nendoroid Sengomuramasa"
+  "gender" : "M",
+  "gsc_productNum" : 7991,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190118/7991/57425/large/ee0f30f4944cb613c3399a2818b9d649.jpg",
+  "name" : {
+    "en" : "Nendoroid Sengomuramasa",
+    "ja" : "ねんどろいど 千子村正 (ねんどろいど せんごむらまさ)",
+    "ko" : "센고 무라마사"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 7991,
-  "price": 5093,
-  "release_date": [
+  "num" : "1071",
+  "price" : 5093,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190118/7991/57425/large/ee0f30f4944cb613c3399a2818b9d649.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

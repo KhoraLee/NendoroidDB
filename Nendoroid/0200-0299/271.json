@@ -1,20 +1,20 @@
 {
-  "num": "271",
-  "name": {
-    "ko": "스에나가 미라이",
-    "ja": "ねんどろいど 末永みらい (ねんどろいど すえながみらい)",
-    "en": "Nendoroid Mirai Suenaga (ねんどろいど すえながみらい)"
+  "gender" : "F",
+  "gsc_productNum" : 3645,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120822/3645/20029/large/77d240770e2d9ac2004fc4c49201035c.jpg",
+  "name" : {
+    "en" : "Nendoroid Mirai Suenaga (ねんどろいど すえながみらい)",
+    "ja" : "ねんどろいど 末永みらい (ねんどろいど すえながみらい)",
+    "ko" : "스에나가 미라이"
   },
-  "series": {
-    "ko": "컬처 재팬",
-    "ja": "カルチャージャパン",
-    "en": "Culture Japan"
-  },
-  "gsc_productNum": 3645,
-  "price": 4190,
-  "release_date": [
+  "num" : "271",
+  "price" : 4190,
+  "release_date" : [
     "2013/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120822/3645/20029/large/77d240770e2d9ac2004fc4c49201035c.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Culture Japan",
+    "ja" : "カルチャージャパン",
+    "ko" : "컬처 재팬"
+  }
 }

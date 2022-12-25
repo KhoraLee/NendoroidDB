@@ -1,20 +1,20 @@
 {
-  "num": "048",
-  "name": {
-    "ko": "난교쿠 사쿠라",
-    "ja": "ねんどろいど 南極さくら (なんきょくさくら ねんどろいど)",
-    "en": "Nendoroid Sakura Nankyoku (なんきょくさくら ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 260,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/260/5278/large/a9c848422fdf64454ee2f14c82f03fe7.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Nankyoku (なんきょくさくら ねんどろいど)",
+    "ja" : "ねんどろいど 南極さくら (なんきょくさくら ねんどろいど)",
+    "ko" : "난교쿠 사쿠라"
   },
-  "series": {
-    "ko": "펭귄 아가씨 하트",
-    "ja": "ペンギン娘はぁと",
-    "en": "Penguin Girl Heart"
-  },
-  "gsc_productNum": 260,
-  "price": 3667,
-  "release_date": [
+  "num" : "048",
+  "price" : 3667,
+  "release_date" : [
     "2008/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/260/5278/large/a9c848422fdf64454ee2f14c82f03fe7.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Penguin Girl Heart",
+    "ja" : "ペンギン娘はぁと",
+    "ko" : "펭귄 아가씨 하트"
+  }
 }

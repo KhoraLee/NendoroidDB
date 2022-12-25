@@ -1,20 +1,20 @@
 {
-  "num": "1544",
-  "name": {
-    "ko": "사토 히나",
-    "ja": "ねんどろいど 佐藤 ひな (ねんどろいど さとう ひな)",
-    "en": "Nendoroid Hina Sato"
+  "gender" : "F",
+  "gsc_productNum" : 10631,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201222/10631/79587/large/fe76007e133efd08a860c92daa44340a.jpg",
+  "name" : {
+    "en" : "Nendoroid Hina Sato",
+    "ja" : "ねんどろいど 佐藤 ひな (ねんどろいど さとう ひな)",
+    "ko" : "사토 히나"
   },
-  "series": {
-    "ko": "신이 된 날",
-    "ja": "神様になった日",
-    "en": "The Day I Became a God"
-  },
-  "gsc_productNum": 10631,
-  "price": 5200,
-  "release_date": [
+  "num" : "1544",
+  "price" : 5200,
+  "release_date" : [
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201222/10631/79587/large/fe76007e133efd08a860c92daa44340a.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "The Day I Became a God",
+    "ja" : "神様になった日",
+    "ko" : "신이 된 날"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "396",
-  "name": {
-    "ko": "센고쿠 나데코",
-    "ja": "ねんどろいど 千石撫子 (ねんどろいど せんごくなでこ)",
-    "en": "Nendoroid Nadeko Sengoku (ねんどろいど せんごくなでこ)"
+  "gender" : "F",
+  "gsc_productNum" : 4215,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140203/4215/27847/large/737f414dc56aac3b49f15028e5e14e3a.jpg",
+  "name" : {
+    "en" : "Nendoroid Nadeko Sengoku (ねんどろいど せんごくなでこ)",
+    "ja" : "ねんどろいど 千石撫子 (ねんどろいど せんごくなでこ)",
+    "ko" : "센고쿠 나데코"
   },
-  "series": {
-    "ko": "모노가타리 시리즈",
-    "ja": "化物語",
-    "en": "Bakemonogatari"
-  },
-  "gsc_productNum": 4215,
-  "price": 3972,
-  "release_date": [
+  "num" : "396",
+  "price" : 3972,
+  "release_date" : [
     "2014/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140203/4215/27847/large/737f414dc56aac3b49f15028e5e14e3a.jpg",
-  "gender": "F",
-  "set": 83
+  "series" : {
+    "en" : "Bakemonogatari",
+    "ja" : "化物語",
+    "ko" : "모노가타리 시리즈"
+  },
+  "set" : 83
 }

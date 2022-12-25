@@ -1,20 +1,20 @@
 {
-  "num": "132",
-  "name": {
-    "ko": "아크 비숍",
-    "ja": "ねんどろいど アークビショップ (ねんどろいど あーくびしょっぷ)",
-    "en": "Nendoroid Archbishop (ねんどろいど あーくびしょっぷ)"
+  "gender" : "F",
+  "gsc_productNum" : 2961,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100907/2961/11313/large/668cfb761e3b8e4e44f0728f81f48b30.jpg",
+  "name" : {
+    "en" : "Nendoroid Archbishop (ねんどろいど あーくびしょっぷ)",
+    "ja" : "ねんどろいど アークビショップ (ねんどろいど あーくびしょっぷ)",
+    "ko" : "아크 비숍"
   },
-  "series": {
-    "ko": "라그나로크 온라인",
-    "ja": "ラグナロクオンライン",
-    "en": "Ragnarok Online"
-  },
-  "gsc_productNum": 2961,
-  "price": 3667,
-  "release_date": [
+  "num" : "132",
+  "price" : 3667,
+  "release_date" : [
     "2010/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100907/2961/11313/large/668cfb761e3b8e4e44f0728f81f48b30.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Ragnarok Online",
+    "ja" : "ラグナロクオンライン",
+    "ko" : "라그나로크 온라인"
+  }
 }

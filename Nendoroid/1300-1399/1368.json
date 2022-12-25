@@ -1,21 +1,21 @@
 {
-  "num": "1368",
-  "name": {
-    "ko": "아쿠타가와 류노스케",
-    "ja": "ねんどろいど 芥川龍之介 ヱアポートVer. (ねんどろいど あくたがわりゅうのすけ えあぽーとVer.)",
-    "en": "Nendoroid Ryunosuke Akutagawa: Airport Ver."
+  "gender" : "M",
+  "gsc_productNum" : 9581,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200528/9581/71041/large/06b6810726fd60d827d0d3c8d8c2402b.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryunosuke Akutagawa: Airport Ver.",
+    "ja" : "ねんどろいど 芥川龍之介 ヱアポートVer. (ねんどろいど あくたがわりゅうのすけ えあぽーとVer.)",
+    "ko" : "아쿠타가와 류노스케"
   },
-  "series": {
-    "ko": "문호 스트레이 독스",
-    "ja": "文豪ストレイドッグス",
-    "en": "Bungo Stray Dogs"
-  },
-  "gsc_productNum": 9581,
-  "price": 4600,
-  "release_date": [
+  "num" : "1368",
+  "price" : 4600,
+  "release_date" : [
     "2020/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200528/9581/71041/large/06b6810726fd60d827d0d3c8d8c2402b.jpg",
-  "gender": "M",
-  "set": 137
+  "series" : {
+    "en" : "Bungo Stray Dogs",
+    "ja" : "文豪ストレイドッグス",
+    "ko" : "문호 스트레이 독스"
+  },
+  "set" : 137
 }

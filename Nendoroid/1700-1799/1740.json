@@ -1,21 +1,21 @@
 {
-  "num": "1740",
-  "name": {
-    "ko": "하츠네 미쿠 매지컬 미라이 2020 Winter Festival Ver.",
-    "ja": "ねんどろいど 初音ミク マジカルミライ 2020 Winter Festival Ver. (ねんどろいど はつねみく まじかるみらい 2020 うぃんたー ふぇすてぃばる Ver.)",
-    "en": "Nendoroid Hatsune Miku: Magical Mirai 2020 Winter Festival Ver."
+  "gender" : "F",
+  "gsc_productNum" : 11761,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210909/11761/90582/large/a892281137ed4a6e6b570385af6d75f7.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Magical Mirai 2020 Winter Festival Ver.",
+    "ja" : "ねんどろいど 初音ミク マジカルミライ 2020 Winter Festival Ver. (ねんどろいど はつねみく まじかるみらい 2020 うぃんたー ふぇすてぃばる Ver.)",
+    "ko" : "하츠네 미쿠 매지컬 미라이 2020 Winter Festival Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 11761,
-  "price": 5500,
-  "release_date": [
+  "num" : "1740",
+  "price" : 5500,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210909/11761/90582/large/a892281137ed4a6e6b570385af6d75f7.jpg",
-  "gender": "F",
-  "set": 141
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 141
 }

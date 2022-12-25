@@ -1,20 +1,20 @@
 {
-  "num": "878",
-  "name": {
-    "ko": "범인",
-    "ja": "ねんどろいど 犯人 (ねんどろいど はんにん)",
-    "en": "Nendoroid Criminal"
+  "gsc_productNum" : 7007,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180123/7007/49804/large/87e58153c9d5b8e821a8efe4ee50bb6d.jpg",
+  "name" : {
+    "en" : "Nendoroid Criminal",
+    "ja" : "ねんどろいど 犯人 (ねんどろいど はんにん)",
+    "ko" : "범인"
   },
-  "series": {
-    "ko": "명탐정 코난",
-    "ja": "名探偵コナン",
-    "en": "Detective Conan"
-  },
-  "gsc_productNum": 7007,
-  "price": 4054,
-  "release_date": [
+  "num" : "878",
+  "price" : 4054,
+  "release_date" : [
     "2018/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180123/7007/49804/large/87e58153c9d5b8e821a8efe4ee50bb6d.jpg",
-  "set": 161
+  "series" : {
+    "en" : "Detective Conan",
+    "ja" : "名探偵コナン",
+    "ko" : "명탐정 코난"
+  },
+  "set" : 161
 }

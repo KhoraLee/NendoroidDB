@@ -1,21 +1,21 @@
 {
-  "num": "1607",
-  "name": {
-    "ko": "주인공",
-    "ja": "ねんどろいど P4G主人公 (ねんどろいど ぺるそなふぉー ざ ごーるでん しゅじんこう)",
-    "en": "Nendoroid P4G Hero"
+  "gender" : "M",
+  "gsc_productNum" : 11087,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210415/11087/83556/large/a2f091d345ab871c2e008e9f13fa3f67.jpg",
+  "name" : {
+    "en" : "Nendoroid P4G Hero",
+    "ja" : "ねんどろいど P4G主人公 (ねんどろいど ぺるそなふぉー ざ ごーるでん しゅじんこう)",
+    "ko" : "주인공"
   },
-  "series": {
-    "ko": "페르소나4",
-    "ja": "ペルソナ４ ザ・ゴールデン",
-    "en": "PERSONA４ GOLDEN"
-  },
-  "gsc_productNum": 11087,
-  "price": 5900,
-  "release_date": [
+  "num" : "1607",
+  "price" : 5900,
+  "release_date" : [
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210415/11087/83556/large/a2f091d345ab871c2e008e9f13fa3f67.jpg",
-  "gender": "M",
-  "set": 57
+  "series" : {
+    "en" : "PERSONA４ GOLDEN",
+    "ja" : "ペルソナ４ ザ・ゴールデン",
+    "ko" : "페르소나4"
+  },
+  "set" : 57
 }

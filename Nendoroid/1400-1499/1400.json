@@ -1,20 +1,20 @@
 {
-  "num": "1400",
-  "name": {
-    "ko": "카타리나 클라에스",
-    "ja": "ねんどろいど カタリナ・クラエス (ねんどろいど かたりな・くらえす)",
-    "en": "Nendoroid Catarina Claes"
+  "gender" : "F",
+  "gsc_productNum" : 9711,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200630/9711/71536/large/433411bc0a4f8a10ce2b31290b132ff6.jpg",
+  "name" : {
+    "en" : "Nendoroid Catarina Claes",
+    "ja" : "ねんどろいど カタリナ・クラエス (ねんどろいど かたりな・くらえす)",
+    "ko" : "카타리나 클라에스"
   },
-  "series": {
-    "ko": "여성향 게임의 파멸 플래그밖에 없는 악역 영애로 환생해버렸다...",
-    "ja": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…",
-    "en": "My Next Life as a Villainess: All Routes Lead to Doom!"
-  },
-  "gsc_productNum": 9711,
-  "price": 5100,
-  "release_date": [
+  "num" : "1400",
+  "price" : 5100,
+  "release_date" : [
     "2021/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200630/9711/71536/large/433411bc0a4f8a10ce2b31290b132ff6.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "My Next Life as a Villainess: All Routes Lead to Doom!",
+    "ja" : "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…",
+    "ko" : "여성향 게임의 파멸 플래그밖에 없는 악역 영애로 환생해버렸다..."
+  }
 }

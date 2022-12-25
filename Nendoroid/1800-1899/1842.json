@@ -1,21 +1,21 @@
 {
-  "num": "1842",
-  "name": {
-    "ko": "오로라",
-    "ja": "ねんどろいど オーロラ姫 (ねんどろいど おーろらひめ)",
-    "en": "Nendoroid Aurora"
+  "gender" : "F",
+  "gsc_productNum" : 12430,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220304/12430/96168/large/5cd92aa9c144f59843609d0bcbf7fd43.jpg",
+  "name" : {
+    "en" : "Nendoroid Aurora",
+    "ja" : "ねんどろいど オーロラ姫 (ねんどろいど おーろらひめ)",
+    "ko" : "오로라"
   },
-  "series": {
-    "ko": "잠자는 숲 속의 공주",
-    "ja": "眠れる森の美女",
-    "en": "Sleeping Beauty"
-  },
-  "gsc_productNum": 12430,
-  "price": 6400,
-  "release_date": [
+  "num" : "1842",
+  "price" : 6400,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220304/12430/96168/large/5cd92aa9c144f59843609d0bcbf7fd43.jpg",
-  "gender": "F",
-  "set": 32
+  "series" : {
+    "en" : "Sleeping Beauty",
+    "ja" : "眠れる森の美女",
+    "ko" : "잠자는 숲 속의 공주"
+  },
+  "set" : 32
 }

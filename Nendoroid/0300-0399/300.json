@@ -1,21 +1,21 @@
 {
-  "num": "300",
-  "name": {
-    "ko": "하츠네 미쿠 2.0",
-    "ja": "ねんどろいど 初音ミク 2.0 (ねんどろいど はつねみく 2.0)",
-    "en": "Nendoroid Hatsune Miku 2.0 (ねんどろいど はつねみく 2.0)"
+  "gender" : "F",
+  "gsc_productNum" : 3787,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121213/3787/28073/large/4b1574c99f68ec4711899612db8e3399.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku 2.0 (ねんどろいど はつねみく 2.0)",
+    "ja" : "ねんどろいど 初音ミク 2.0 (ねんどろいど はつねみく 2.0)",
+    "ko" : "하츠네 미쿠 2.0"
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 3787,
-  "price": 4085,
-  "release_date": [
+  "num" : "300",
+  "price" : 4085,
+  "release_date" : [
     "2014/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121213/3787/28073/large/4b1574c99f68ec4711899612db8e3399.jpg",
-  "gender": "F",
-  "set": 10
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
 }

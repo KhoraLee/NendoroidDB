@@ -1,21 +1,21 @@
 {
-  "num": "1796",
-  "name": {
-    "ko": "게롤트 : 낭인 Ver.",
-    "ja": "ねんどろいど ゲラルト 浪人Ver. (ねんどろいど げらると ろうにんVer.)",
-    "en": "Nendoroid Geralt: Ronin Ver."
+  "gender" : "M",
+  "gsc_productNum" : 12271,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220124/12271/94725/large/11bf5e718f79e7c7a58a8cf8b95746fa.jpg",
+  "name" : {
+    "en" : "Nendoroid Geralt: Ronin Ver.",
+    "ja" : "ねんどろいど ゲラルト 浪人Ver. (ねんどろいど げらると ろうにんVer.)",
+    "ko" : "게롤트 : 낭인 Ver."
   },
-  "series": {
-    "ko": "위쳐 시리즈",
-    "ja": "ウィッチャー ローニン",
-    "en": "The Witcher: Ronin"
-  },
-  "gsc_productNum": 12271,
-  "price": 5500,
-  "release_date": [
+  "num" : "1796",
+  "price" : 5500,
+  "release_date" : [
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220124/12271/94725/large/11bf5e718f79e7c7a58a8cf8b95746fa.jpg",
-  "gender": "M",
-  "set": 175
+  "series" : {
+    "en" : "The Witcher: Ronin",
+    "ja" : "ウィッチャー ローニン",
+    "ko" : "위쳐 시리즈"
+  },
+  "set" : 175
 }

@@ -1,22 +1,22 @@
 {
-  "num": "500",
-  "name": {
-    "ko": "사쿠라 미쿠 Bloomed in Japan",
-    "ja": "ねんどろいど 桜ミク Bloomed in Japan (ねんどろいど さくらみく ぶるーむど いん じゃぱん)",
-    "en": "Nendoroid Sakura Miku: Bloomed in Japan (ねんどろいど さくらみく ぶるーむど いん じゃぱん)"
+  "gender" : "F",
+  "gsc_productNum" : 4757,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141202/4757/31584/large/33c9a8612f9150d4beb28c7ee16ad181.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Miku: Bloomed in Japan (ねんどろいど さくらみく ぶるーむど いん じゃぱん)",
+    "ja" : "ねんどろいど 桜ミク Bloomed in Japan (ねんどろいど さくらみく ぶるーむど いん じゃぱん)",
+    "ko" : "사쿠라 미쿠 Bloomed in Japan"
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 4757,
-  "price": 4584,
-  "release_date": [
+  "num" : "500",
+  "price" : 4584,
+  "release_date" : [
     "2015/03",
     "2015/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141202/4757/31584/large/33c9a8612f9150d4beb28c7ee16ad181.jpg",
-  "gender": "F",
-  "set": 67
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 67
 }

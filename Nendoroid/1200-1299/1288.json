@@ -1,21 +1,21 @@
 {
-  "num": "1288",
-  "name": {
-    "ko": "시노미야 카구야",
-    "ja": "ねんどろいど 四宮かぐや (ねんどろいど しのみやかぐや)",
-    "en": "Nendoroid Kaguya Shinomiya"
+  "gender" : "F",
+  "gsc_productNum" : 9248,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200131/9248/67400/large/1d34697ea4090b519edb674b4bdd1f24.jpg",
+  "name" : {
+    "en" : "Nendoroid Kaguya Shinomiya",
+    "ja" : "ねんどろいど 四宮かぐや (ねんどろいど しのみやかぐや)",
+    "ko" : "시노미야 카구야"
   },
-  "series": {
-    "ko": "카구야 님은 고백받고 싶어",
-    "ja": "かぐや様は告らせたい ～天才たちの恋愛頭脳戦～",
-    "en": "Kaguya-sama: Love is War"
-  },
-  "gsc_productNum": 9248,
-  "price": 5610,
-  "release_date": [
+  "num" : "1288",
+  "price" : 5610,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200131/9248/67400/large/1d34697ea4090b519edb674b4bdd1f24.jpg",
-  "gender": "F",
-  "set": 233
+  "series" : {
+    "en" : "Kaguya-sama: Love is War",
+    "ja" : "かぐや様は告らせたい ～天才たちの恋愛頭脳戦～",
+    "ko" : "카구야 님은 고백받고 싶어"
+  },
+  "set" : 233
 }

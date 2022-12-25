@@ -1,20 +1,20 @@
 {
-  "num": "602",
-  "name": {
-    "ko": "시빌라",
-    "ja": "ねんどろいど シビラ (ねんどろいど しびら)",
-    "en": "Nendoroid Sybilla"
+  "gender" : "F",
+  "gsc_productNum" : 5440,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160106/5440/37198/large/f5759c5d279f76ff49c802ceca4d4583.jpg",
+  "name" : {
+    "en" : "Nendoroid Sybilla",
+    "ja" : "ねんどろいど シビラ (ねんどろいど しびら)",
+    "ko" : "시빌라"
   },
-  "series": {
-    "ko": "천년전쟁 아이기스",
-    "ja": "千年戦争アイギス",
-    "en": "Millennium War Aigis"
-  },
-  "gsc_productNum": 5440,
-  "price": 5093,
-  "release_date": [
+  "num" : "602",
+  "price" : 5093,
+  "release_date" : [
     "2016/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160106/5440/37198/large/f5759c5d279f76ff49c802ceca4d4583.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Millennium War Aigis",
+    "ja" : "千年戦争アイギス",
+    "ko" : "천년전쟁 아이기스"
+  }
 }

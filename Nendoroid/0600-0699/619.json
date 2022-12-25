@@ -1,21 +1,21 @@
 {
-  "num": "619",
-  "name": {
-    "ko": "미셸 K 데이비스 슈퍼 무버블 에디션",
-    "ja": "ねんどろいど ミッシェル・K・デイヴス スーパームーバブル・エディション (ねんどろいど みっしぇる・K・でいゔす すーぱーむーばぶる・えでぃしょん)",
-    "en": "Nendoroid Michelle K. Davis: Super Movable Edition"
+  "gender" : "F",
+  "gsc_productNum" : 5607,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160418/5607/38549/large/935472689e581a9babbf6accc61c23d8.jpg",
+  "name" : {
+    "en" : "Nendoroid Michelle K. Davis: Super Movable Edition",
+    "ja" : "ねんどろいど ミッシェル・K・デイヴス スーパームーバブル・エディション (ねんどろいど みっしぇる・K・でいゔす すーぱーむーばぶる・えでぃしょん)",
+    "ko" : "미셸 K 데이비스 슈퍼 무버블 에디션"
   },
-  "series": {
-    "ko": "테라포마스",
-    "ja": "テラフォーマーズ リベンジ",
-    "en": "TERRAFORMARS REVENGE"
-  },
-  "gsc_productNum": 5607,
-  "price": 5093,
-  "release_date": [
+  "num" : "619",
+  "price" : 5093,
+  "release_date" : [
     "2016/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160418/5607/38549/large/935472689e581a9babbf6accc61c23d8.jpg",
-  "gender": "F",
-  "set": 119
+  "series" : {
+    "en" : "TERRAFORMARS REVENGE",
+    "ja" : "テラフォーマーズ リベンジ",
+    "ko" : "테라포마스"
+  },
+  "set" : 119
 }

@@ -1,21 +1,21 @@
 {
-  "num": "564",
-  "name": {
-    "ko": "카토리",
-    "ja": "ねんどろいど 香取 (ねんどろいど かとり)",
-    "en": "Nendoroid Katori (ねんどろいど かとり)"
+  "gender" : "F",
+  "gsc_productNum" : 5239,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150918/5239/35599/large/a8b319ca3b97a197cb63c5fc67e86a6d.jpg",
+  "name" : {
+    "en" : "Nendoroid Katori (ねんどろいど かとり)",
+    "ja" : "ねんどろいど 香取 (ねんどろいど かとり)",
+    "ko" : "카토리"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 5239,
-  "price": 4584,
-  "release_date": [
+  "num" : "564",
+  "price" : 4584,
+  "release_date" : [
     "2016/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150918/5239/35599/large/a8b319ca3b97a197cb63c5fc67e86a6d.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

@@ -1,21 +1,21 @@
 {
-  "num": "590",
-  "name": {
-    "ko": "야자와 니코 연습복",
-    "ja": "ねんどろいど 矢澤にこ 練習着Ver. (ねんどろいど やざわにこ れんしゅうぎVer.)",
-    "en": "Nendoroid Nico Yazawa: Training Outfit Ver."
+  "gender" : "F",
+  "gsc_productNum" : 5392,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151208/5392/36838/large/b13d3fa31ecc2fe2256b574dbf905c21.jpg",
+  "name" : {
+    "en" : "Nendoroid Nico Yazawa: Training Outfit Ver.",
+    "ja" : "ねんどろいど 矢澤にこ 練習着Ver. (ねんどろいど やざわにこ れんしゅうぎVer.)",
+    "ko" : "야자와 니코 연습복"
   },
-  "series": {
-    "ko": "러브라이브!",
-    "ja": "ラブライブ！",
-    "en": "LoveLive!"
-  },
-  "gsc_productNum": 5392,
-  "price": 3565,
-  "release_date": [
+  "num" : "590",
+  "price" : 3565,
+  "release_date" : [
     "2016/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151208/5392/36838/large/b13d3fa31ecc2fe2256b574dbf905c21.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 105
 }

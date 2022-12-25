@@ -1,21 +1,21 @@
 {
-  "num": "786",
-  "name": {
-    "ko": "아이스 커비",
-    "ja": "ねんどろいど アイスカービィ (ねんどろいど あいすかーびぃ)",
-    "en": "Nendoroid Ice Kirby"
+  "gsc_productNum" : 6508,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170619/6508/45941/large/3ed3a5bd50878e311166559c86f26526.jpg",
+  "name" : {
+    "en" : "Nendoroid Ice Kirby",
+    "ja" : "ねんどろいど アイスカービィ (ねんどろいど あいすかーびぃ)",
+    "ko" : "아이스 커비"
   },
-  "series": {
-    "ko": "별의 커비",
-    "ja": "星のカービィ",
-    "en": "Kirby"
-  },
-  "gsc_productNum": 6508,
-  "price": 5000,
-  "release_date": [
+  "num" : "786",
+  "price" : 5000,
+  "release_date" : [
     "2017/12",
     "2020/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170619/6508/45941/large/3ed3a5bd50878e311166559c86f26526.jpg",
-  "set": 121
+  "series" : {
+    "en" : "Kirby",
+    "ja" : "星のカービィ",
+    "ko" : "별의 커비"
+  },
+  "set" : 121
 }

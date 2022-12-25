@@ -1,22 +1,22 @@
 {
-  "num": "1175",
-  "name": {
-    "ko": "브루노 부차라티",
-    "ja": "ねんどろいど ブローノ・ブチャラティ (ねんどろいど ぶろーの・ぶちゃらてぃ)",
-    "en": "Nendoroid Bruno Bucciarati"
+  "gender" : "M",
+  "gsc_productNum" : 8582,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190723/8582/62099/large/844380dff2d41d6bdd14d93b0d732b84.jpg",
+  "name" : {
+    "en" : "Nendoroid Bruno Bucciarati",
+    "ja" : "ねんどろいど ブローノ・ブチャラティ (ねんどろいど ぶろーの・ぶちゃらてぃ)",
+    "ko" : "브루노 부차라티"
   },
-  "series": {
-    "ko": "죠죠의 기묘한 모험",
-    "ja": "TVアニメ「ジョジョの奇妙な冒険 黄金の風」",
-    "en": "JoJo\u0027s Bizarre Adventure: Golden Wind"
-  },
-  "gsc_productNum": 8582,
-  "price": 5478,
-  "release_date": [
+  "num" : "1175",
+  "price" : 5478,
+  "release_date" : [
     "2020/01",
     "2023/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190723/8582/62099/large/844380dff2d41d6bdd14d93b0d732b84.jpg",
-  "gender": "M",
-  "set": 191
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure: Golden Wind",
+    "ja" : "TVアニメ「ジョジョの奇妙な冒険 黄金の風」",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 191
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1434",
-  "name": {
-    "ko": "후지와라 치카",
-    "ja": "ねんどろいど 藤原千花 (ねんどろいど ふじわらちか)",
-    "en": "Nendoroid Chika Fujiwara"
+  "gender" : "F",
+  "gsc_productNum" : 9905,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200805/9905/72994/large/a2440e3cc89153add5d5401149c42328.jpg",
+  "name" : {
+    "en" : "Nendoroid Chika Fujiwara",
+    "ja" : "ねんどろいど 藤原千花 (ねんどろいど ふじわらちか)",
+    "ko" : "후지와라 치카"
   },
-  "series": {
-    "ko": "카구야 님은 고백받고 싶어",
-    "ja": "かぐや様は告らせたい ～天才たちの恋愛頭脳戦～",
-    "en": "Kaguya-sama: Love is War"
-  },
-  "gsc_productNum": 9905,
-  "price": 6050,
-  "release_date": [
+  "num" : "1434",
+  "price" : 6050,
+  "release_date" : [
     "2021/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200805/9905/72994/large/a2440e3cc89153add5d5401149c42328.jpg",
-  "gender": "F",
-  "set": 233
+  "series" : {
+    "en" : "Kaguya-sama: Love is War",
+    "ja" : "かぐや様は告らせたい ～天才たちの恋愛頭脳戦～",
+    "ko" : "카구야 님은 고백받고 싶어"
+  },
+  "set" : 233
 }

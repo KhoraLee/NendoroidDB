@@ -1,20 +1,20 @@
 {
-  "num": "067",
-  "name": {
-    "ko": "레오나르도 박사",
-    "ja": "ねんどろいど レオナルド博士 (れおなるどはかせ ねんどろいど)",
-    "en": "Nendoroid Professor Leonardo (れおなるどはかせ ねんどろいど)"
+  "gender" : "M",
+  "gsc_productNum" : 2374,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2374/6723/large/bdac87293657c8678fdfa2674d558971.jpg",
+  "name" : {
+    "en" : "Nendoroid Professor Leonardo (れおなるどはかせ ねんどろいど)",
+    "ja" : "ねんどろいど レオナルド博士 (れおなるどはかせ ねんどろいど)",
+    "ko" : "레오나르도 박사"
   },
-  "series": {
-    "ko": "비밀결사 매의발톱단",
-    "ja": "秘密結社 鷹の爪",
-    "en": "Eagle Talon"
-  },
-  "gsc_productNum": 2374,
-  "price": 3143,
-  "release_date": [
+  "num" : "067",
+  "price" : 3143,
+  "release_date" : [
     "2009/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2374/6723/large/bdac87293657c8678fdfa2674d558971.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Eagle Talon",
+    "ja" : "秘密結社 鷹の爪",
+    "ko" : "비밀결사 매의발톱단"
+  }
 }

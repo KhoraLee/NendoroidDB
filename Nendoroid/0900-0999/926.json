@@ -1,21 +1,21 @@
 {
-  "num": "926",
-  "name": {
-    "ko": "요츠바 타마키",
-    "ja": "ねんどろいど 四葉環 (ねんどろいど よつばたまき)",
-    "en": "Nendoroid Tamaki Yotsuba"
+  "gender" : "M",
+  "gsc_productNum" : 7240,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180424/7240/51717/large/78fd133e7935ebcf0c6d9e489268ae28.jpg",
+  "name" : {
+    "en" : "Nendoroid Tamaki Yotsuba",
+    "ja" : "ねんどろいど 四葉環 (ねんどろいど よつばたまき)",
+    "ko" : "요츠바 타마키"
   },
-  "series": {
-    "ko": "아이돌리쉬 세븐",
-    "ja": "アイドリッシュセブン",
-    "en": "Idolish7"
-  },
-  "gsc_productNum": 7240,
-  "price": 4481,
-  "release_date": [
+  "num" : "926",
+  "price" : 4481,
+  "release_date" : [
     "2018/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180424/7240/51717/large/78fd133e7935ebcf0c6d9e489268ae28.jpg",
-  "gender": "M",
-  "set": 174
+  "series" : {
+    "en" : "Idolish7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  },
+  "set" : 174
 }

@@ -1,21 +1,21 @@
 {
-  "num": "098",
-  "name": {
-    "ko": "우사 미미",
-    "ja": "ねんどろいど 宇佐美々 (ねんどろいど　うさみみ )",
-    "en": "Nendoroid Mimi Usa (ねんどろいど　うさみみ)"
+  "gender" : "F",
+  "gsc_productNum" : 2740,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091124/2740/8403/large/c1449573e425df4d3ed62b0c071f48af.jpg",
+  "name" : {
+    "en" : "Nendoroid Mimi Usa (ねんどろいど　うさみみ)",
+    "ja" : "ねんどろいど 宇佐美々 (ねんどろいど　うさみみ )",
+    "ko" : "우사 미미"
   },
-  "series": {
-    "ko": "아이들의 시간",
-    "ja": "こどものじかん",
-    "en": "こどものじかん"
-  },
-  "gsc_productNum": 2740,
-  "price": 3667,
-  "release_date": [
+  "num" : "098",
+  "price" : 3667,
+  "release_date" : [
     "2010/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091124/2740/8403/large/c1449573e425df4d3ed62b0c071f48af.jpg",
-  "gender": "F",
-  "set": 18
+  "series" : {
+    "en" : "こどものじかん",
+    "ja" : "こどものじかん",
+    "ko" : "아이들의 시간"
+  },
+  "set" : 18
 }

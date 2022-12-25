@@ -1,21 +1,21 @@
 {
-  "num": "1172",
-  "name": {
-    "ko": "쿠로코 테츠야",
-    "ja": "ねんどろいど 黒子テツヤ Special Box (ねんどろいど くろこてつや すぺしゃるぼっくす)",
-    "en": "Nendoroid Tetsuya Kuroko Special Box"
+  "gender" : "M",
+  "gsc_productNum" : 8584,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190723/8584/62117/large/3c14e6cceb8fc07832623ccbeb02480e.jpg",
+  "name" : {
+    "en" : "Nendoroid Tetsuya Kuroko Special Box",
+    "ja" : "ねんどろいど 黒子テツヤ Special Box (ねんどろいど くろこてつや すぺしゃるぼっくす)",
+    "ko" : "쿠로코 테츠야"
   },
-  "series": {
-    "ko": "쿠로코의 농구",
-    "ja": "黒子のバスケ",
-    "en": "Kuroko\u0027s Basketball"
-  },
-  "gsc_productNum": 8584,
-  "price": 5700,
-  "release_date": [
+  "num" : "1172",
+  "price" : 5700,
+  "release_date" : [
     "2019/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190723/8584/62117/large/3c14e6cceb8fc07832623ccbeb02480e.jpg",
-  "gender": "M",
-  "set": 199
+  "series" : {
+    "en" : "Kuroko's Basketball",
+    "ja" : "黒子のバスケ",
+    "ko" : "쿠로코의 농구"
+  },
+  "set" : 199
 }

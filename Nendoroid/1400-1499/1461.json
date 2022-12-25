@@ -1,21 +1,21 @@
 {
-  "num": "1461",
-  "name": {
-    "ko": "에키드나",
-    "ja": "ねんどろいど エキドナ (ねんどろいど えきどな)",
-    "en": "Nendoroid Echidna"
+  "gender" : "F",
+  "gsc_productNum" : 10059,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200915/10059/74319/large/d989bf963188d45ac302f45865876bf9.jpg",
+  "name" : {
+    "en" : "Nendoroid Echidna",
+    "ja" : "ねんどろいど エキドナ (ねんどろいど えきどな)",
+    "ko" : "에키드나"
   },
-  "series": {
-    "ko": "Re: 제로부터 시작하는 이세계 생활",
-    "ja": "Re:ゼロから始める異世界生活",
-    "en": "Re:ZERO -Starting Life in Another World-"
-  },
-  "gsc_productNum": 10059,
-  "price": 5500,
-  "release_date": [
+  "num" : "1461",
+  "price" : 5500,
+  "release_date" : [
     "2021/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200915/10059/74319/large/d989bf963188d45ac302f45865876bf9.jpg",
-  "gender": "F",
-  "set": 138
+  "series" : {
+    "en" : "Re:ZERO -Starting Life in Another World-",
+    "ja" : "Re:ゼロから始める異世界生活",
+    "ko" : "Re: 제로부터 시작하는 이세계 생활"
+  },
+  "set" : 138
 }

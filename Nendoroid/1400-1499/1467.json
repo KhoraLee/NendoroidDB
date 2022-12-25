@@ -1,21 +1,21 @@
 {
-  "num": "1467",
-  "name": {
-    "ko": "킨구",
-    "ja": "ねんどろいど キングゥ (ねんどろいど きんぐぅ)",
-    "en": "Nendoroid Kingu"
+  "gender" : "M",
+  "gsc_productNum" : 10065,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200916/10065/74399/large/8723ca1edb0e2f8cb673278f664fb5b6.jpg",
+  "name" : {
+    "en" : "Nendoroid Kingu",
+    "ja" : "ねんどろいど キングゥ (ねんどろいど きんぐぅ)",
+    "ko" : "킨구"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
-    "en": "Fate/Grand Order Absolute Demonic Front: Babylonia"
-  },
-  "gsc_productNum": 10065,
-  "price": 5000,
-  "release_date": [
+  "num" : "1467",
+  "price" : 5000,
+  "release_date" : [
     "2021/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200916/10065/74399/large/8723ca1edb0e2f8cb673278f664fb5b6.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order Absolute Demonic Front: Babylonia",
+    "ja" : "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

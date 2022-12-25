@@ -1,22 +1,22 @@
 {
-  "num": "940",
-  "name": {
-    "ko": "예슈",
-    "ja": "ねんどろいど 葉修 (ねんどろいど いえしゅう)",
-    "en": "Nendoroid Ye Xiu"
+  "gender" : "M",
+  "gsc_productNum" : 7300,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180524/7300/52243/large/a61dfa5193dcd1b60e2f29a1921d035a.jpg",
+  "name" : {
+    "en" : "Nendoroid Ye Xiu",
+    "ja" : "ねんどろいど 葉修 (ねんどろいど いえしゅう)",
+    "ko" : "예슈"
   },
-  "series": {
-    "ko": "전직고수",
-    "ja": "マスターオブスキル（全職高手）",
-    "en": "The King\u0027s Avatar"
-  },
-  "gsc_productNum": 7300,
-  "price": 4584,
-  "release_date": [
+  "num" : "940",
+  "price" : 4584,
+  "release_date" : [
     "2018/11",
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180524/7300/52243/large/a61dfa5193dcd1b60e2f29a1921d035a.jpg",
-  "gender": "M",
-  "set": 184
+  "series" : {
+    "en" : "The King's Avatar",
+    "ja" : "マスターオブスキル（全職高手）",
+    "ko" : "전직고수"
+  },
+  "set" : 184
 }

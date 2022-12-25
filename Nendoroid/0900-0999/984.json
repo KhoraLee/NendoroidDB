@@ -1,22 +1,22 @@
 {
-  "num": "984",
-  "name": {
-    "ko": "리쿠",
-    "ja": "ねんどろいど リク (ねんどろいど りく)",
-    "en": "Nendoroid Riku"
+  "gender" : "M",
+  "gsc_productNum" : 7559,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180824/7559/54067/large/e7278b3619abfd12c8387dc95c862094.jpg",
+  "name" : {
+    "en" : "Nendoroid Riku",
+    "ja" : "ねんどろいど リク (ねんどろいど りく)",
+    "ko" : "리쿠"
   },
-  "series": {
-    "ko": "킹덤하츠",
-    "ja": "キングダム ハーツ",
-    "en": "Kingdom Hearts"
-  },
-  "gsc_productNum": 7559,
-  "price": 5093,
-  "release_date": [
+  "num" : "984",
+  "price" : 5093,
+  "release_date" : [
     "2019/01",
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180824/7559/54067/large/e7278b3619abfd12c8387dc95c862094.jpg",
-  "gender": "M",
-  "set": 187
+  "series" : {
+    "en" : "Kingdom Hearts",
+    "ja" : "キングダム ハーツ",
+    "ko" : "킹덤하츠"
+  },
+  "set" : 187
 }

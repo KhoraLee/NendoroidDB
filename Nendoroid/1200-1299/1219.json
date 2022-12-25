@@ -1,21 +1,21 @@
 {
-  "num": "1219",
-  "name": {
-    "ko": "이탈리아",
-    "ja": "ねんどろいど イタリア (ねんどろいど いたりあ)",
-    "en": "Nendoroid Italy"
+  "gender" : "M",
+  "gsc_productNum" : 8942,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191028/8942/64834/large/deea9a31fc6afb6fa6cd243e6330d036.jpg",
+  "name" : {
+    "en" : "Nendoroid Italy",
+    "ja" : "ねんどろいど イタリア (ねんどろいど いたりあ)",
+    "ko" : "이탈리아"
   },
-  "series": {
-    "ko": "헤타리아",
-    "ja": "ヘタリア World★Stars",
-    "en": "Hetalia World★Stars"
-  },
-  "gsc_productNum": 8942,
-  "price": 4500,
-  "release_date": [
+  "num" : "1219",
+  "price" : 4500,
+  "release_date" : [
     "2020/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191028/8942/64834/large/deea9a31fc6afb6fa6cd243e6330d036.jpg",
-  "gender": "M",
-  "set": 156
+  "series" : {
+    "en" : "Hetalia World★Stars",
+    "ja" : "ヘタリア World★Stars",
+    "ko" : "헤타리아"
+  },
+  "set" : 156
 }

@@ -1,22 +1,22 @@
 {
-  "num": "689",
-  "name": {
-    "ko": "쿠로오 테츠로",
-    "ja": "ねんどろいど 黒尾鉄朗 (ねんどろいど くろおてつろう)",
-    "en": "Nendoroid Tetsuro Kuroo"
+  "gender" : "M",
+  "gsc_productNum" : 6043,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161102/6043/42117/large/0469cb3906a372611fdeb72153dbafff.jpg",
+  "name" : {
+    "en" : "Nendoroid Tetsuro Kuroo",
+    "ja" : "ねんどろいど 黒尾鉄朗 (ねんどろいど くろおてつろう)",
+    "ko" : "쿠로오 테츠로"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "HAIKYU! 3rd Season"
-  },
-  "gsc_productNum": 6043,
-  "price": 4481,
-  "release_date": [
+  "num" : "689",
+  "price" : 4481,
+  "release_date" : [
     "2017/04",
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161102/6043/42117/large/0469cb3906a372611fdeb72153dbafff.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "HAIKYU! 3rd Season",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

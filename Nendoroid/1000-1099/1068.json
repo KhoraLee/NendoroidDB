@@ -1,22 +1,22 @@
 {
-  "num": "1068",
-  "name": {
-    "ko": "위무선",
-    "ja": "ねんどろいど 魏無羨 (ねんどろいど ぎむせん)",
-    "en": "Nendoroid Wei Wuxian"
+  "gender" : "M",
+  "gsc_productNum" : 8001,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190121/8001/57515/large/0e11b356393ee4a3c50391f5216a15f3.jpg",
+  "name" : {
+    "en" : "Nendoroid Wei Wuxian",
+    "ja" : "ねんどろいど 魏無羨 (ねんどろいど ぎむせん)",
+    "ko" : "위무선"
   },
-  "series": {
-    "ko": "마도조사",
-    "ja": "アニメ「魔道祖師」",
-    "en": "Anime The Master of Diabolism (Grandmaster of Demonic Cultivation)"
-  },
-  "gsc_productNum": 8001,
-  "price": 6300,
-  "release_date": [
+  "num" : "1068",
+  "price" : 6300,
+  "release_date" : [
     "2019/08",
     "2022/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190121/8001/57515/large/0e11b356393ee4a3c50391f5216a15f3.jpg",
-  "gender": "M",
-  "set": 203
+  "series" : {
+    "en" : "Anime The Master of Diabolism (Grandmaster of Demonic Cultivation)",
+    "ja" : "アニメ「魔道祖師」",
+    "ko" : "마도조사"
+  },
+  "set" : 203
 }

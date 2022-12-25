@@ -1,21 +1,21 @@
 {
-  "num": "153",
-  "name": {
-    "ko": "쿈 소실 Ver.",
-    "ja": "ねんどろいど キョン 消失Ver. (ねんどろいど きょん しょうしつばーじょん)",
-    "en": "Nendoroid Kyon: Disappearance Ver. (ねんどろいど きょん しょうしつばーじょん)"
+  "gender" : "M",
+  "gsc_productNum" : 3043,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20101214/3043/12322/large/d0bf853e17b91b65d759e1da02aa4435.jpg",
+  "name" : {
+    "en" : "Nendoroid Kyon: Disappearance Ver. (ねんどろいど きょん しょうしつばーじょん)",
+    "ja" : "ねんどろいど キョン 消失Ver. (ねんどろいど きょん しょうしつばーじょん)",
+    "ko" : "쿈 소실 Ver."
   },
-  "series": {
-    "ko": "스즈미야 하루히의 소실",
-    "ja": "涼宮ハルヒの消失",
-    "en": "The Disappearance of Haruhi Suzumiya"
-  },
-  "gsc_productNum": 3043,
-  "price": 3143,
-  "release_date": [
+  "num" : "153",
+  "price" : 3143,
+  "release_date" : [
     "2011/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20101214/3043/12322/large/d0bf853e17b91b65d759e1da02aa4435.jpg",
-  "gender": "M",
-  "set": 37
+  "series" : {
+    "en" : "The Disappearance of Haruhi Suzumiya",
+    "ja" : "涼宮ハルヒの消失",
+    "ko" : "스즈미야 하루히의 소실"
+  },
+  "set" : 37
 }

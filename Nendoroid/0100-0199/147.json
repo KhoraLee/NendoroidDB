@@ -1,20 +1,20 @@
 {
-  "num": "147",
-  "name": {
-    "ko": "키노시타 히데요시",
-    "ja": "ねんどろいど 木下秀吉 (ねんどろいど きのしたひでよし)",
-    "en": "Nendoroid Hideyoshi Kinoshita (ねんどろいど きのしたひでよし)"
+  "gender" : "M",
+  "gsc_productNum" : 3032,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20101201/3032/12158/large/c6a068b3264446af88cebdff551f8681.jpg",
+  "name" : {
+    "en" : "Nendoroid Hideyoshi Kinoshita (ねんどろいど きのしたひでよし)",
+    "ja" : "ねんどろいど 木下秀吉 (ねんどろいど きのしたひでよし)",
+    "ko" : "키노시타 히데요시"
   },
-  "series": {
-    "ko": "바보와 시험과 소환수(바시소)",
-    "ja": "バカとテストと召喚獣",
-    "en": "Baka to Test to Shoukanjuu"
-  },
-  "gsc_productNum": 3032,
-  "price": 3667,
-  "release_date": [
+  "num" : "147",
+  "price" : 3667,
+  "release_date" : [
     "2011/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20101201/3032/12158/large/c6a068b3264446af88cebdff551f8681.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Baka to Test to Shoukanjuu",
+    "ja" : "バカとテストと召喚獣",
+    "ko" : "바보와 시험과 소환수(바시소)"
+  }
 }

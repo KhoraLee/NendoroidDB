@@ -1,21 +1,21 @@
 {
-  "num": "1030",
-  "name": {
-    "ko": "제시 맥크리",
-    "ja": "ねんどろいど マクリー クラシックスキン・エディション (ねんどろいど まくりー くらしっくすきん・えでぃしょん)",
-    "en": "Nendoroid McCree: Classic Skin Edition"
+  "gender" : "M",
+  "gsc_productNum" : 7766,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181031/7766/55662/large/ec499ba2a4703baaabc1e4b2e8b6d3d5.jpg",
+  "name" : {
+    "en" : "Nendoroid McCree: Classic Skin Edition",
+    "ja" : "ねんどろいど マクリー クラシックスキン・エディション (ねんどろいど まくりー くらしっくすきん・えでぃしょん)",
+    "ko" : "제시 맥크리"
   },
-  "series": {
-    "ko": "오버워치",
-    "ja": "オーバーウォッチ",
-    "en": "Overwatch"
-  },
-  "gsc_productNum": 7766,
-  "price": 4991,
-  "release_date": [
+  "num" : "1030",
+  "price" : 4991,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181031/7766/55662/large/ec499ba2a4703baaabc1e4b2e8b6d3d5.jpg",
-  "gender": "M",
-  "set": 150
+  "series" : {
+    "en" : "Overwatch",
+    "ja" : "オーバーウォッチ",
+    "ko" : "오버워치"
+  },
+  "set" : 150
 }

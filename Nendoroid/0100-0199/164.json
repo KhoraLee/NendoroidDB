@@ -1,21 +1,21 @@
 {
-  "num": "164",
-  "name": {
-    "ko": "리에라",
-    "ja": "ねんどろいど リエラ (ねんどろいど りえら)",
-    "en": "Nendoroid Riela (ねんどろいど りえら)"
+  "gender" : "F",
+  "gsc_productNum" : 3104,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110228/3104/13056/large/9b149782ca9f86d442b72d0e5f47da60.jpg",
+  "name" : {
+    "en" : "Nendoroid Riela (ねんどろいど りえら)",
+    "ja" : "ねんどろいど リエラ (ねんどろいど りえら)",
+    "ko" : "리에라"
   },
-  "series": {
-    "ko": "전장의 발큐리아3",
-    "ja": "戦場のヴァルキュリア3",
-    "en": "Valkyria Chronicles 3"
-  },
-  "gsc_productNum": 3104,
-  "price": 3667,
-  "release_date": [
+  "num" : "164",
+  "price" : 3667,
+  "release_date" : [
     "2011/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110228/3104/13056/large/9b149782ca9f86d442b72d0e5f47da60.jpg",
-  "gender": "F",
-  "set": 45
+  "series" : {
+    "en" : "Valkyria Chronicles 3",
+    "ja" : "戦場のヴァルキュリア3",
+    "ko" : "전장의 발큐리아3"
+  },
+  "set" : 45
 }

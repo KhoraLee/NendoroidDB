@@ -1,21 +1,21 @@
 {
-  "num": "1711",
-  "name": {
-    "ko": "소우세이세키",
-    "ja": "ねんどろいど 蒼星石 (ねんどろいど そうせいせき)",
-    "en": "Nendoroid Souseiseki"
+  "gender" : "F",
+  "gsc_productNum" : 11767,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210909/11767/89732/large/3e6f33f4d0fe19b2e36eea31e7c3234c.jpg",
+  "name" : {
+    "en" : "Nendoroid Souseiseki",
+    "ja" : "ねんどろいど 蒼星石 (ねんどろいど そうせいせき)",
+    "ko" : "소우세이세키"
   },
-  "series": {
-    "ko": "로젠 메이든",
-    "ja": "ローゼンメイデン",
-    "en": "Rozen Maiden"
-  },
-  "gsc_productNum": 11767,
-  "price": 6500,
-  "release_date": [
+  "num" : "1711",
+  "price" : 6500,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210909/11767/89732/large/3e6f33f4d0fe19b2e36eea31e7c3234c.jpg",
-  "gender": "F",
-  "set": 88
+  "series" : {
+    "en" : "Rozen Maiden",
+    "ja" : "ローゼンメイデン",
+    "ko" : "로젠 메이든"
+  },
+  "set" : 88
 }

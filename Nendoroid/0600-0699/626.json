@@ -1,22 +1,22 @@
 {
-  "num": "626",
-  "name": {
-    "ko": "미카즈키 무네치카 Cheerful Ver.",
-    "ja": "ねんどろいど 三日月宗近 Cheerful Ver. (ねんどろいど みかづきむねちか ちあふる Ver.)",
-    "en": "Nendoroid Mikazuki Munechika: Cheerful Ver."
+  "gender" : "M",
+  "gsc_productNum" : 7612,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180912/7612/54488/large/4df23fe7c5e398af169216da10bce133.jpg",
+  "name" : {
+    "en" : "Nendoroid Mikazuki Munechika: Cheerful Ver.",
+    "ja" : "ねんどろいど 三日月宗近 Cheerful Ver. (ねんどろいど みかづきむねちか ちあふる Ver.)",
+    "ko" : "미카즈키 무네치카 Cheerful Ver."
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 7612,
-  "price": 4278,
-  "release_date": [
+  "num" : "626",
+  "price" : 4278,
+  "release_date" : [
     "2016/08",
     "2019/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180912/7612/54488/large/4df23fe7c5e398af169216da10bce133.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

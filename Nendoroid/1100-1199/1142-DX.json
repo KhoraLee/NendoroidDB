@@ -1,21 +1,21 @@
 {
-  "num": "1142-DX",
-  "name": {
-    "ko": "세이버 / 알트리아 펜드래건[얼터]\r\n신주쿠 ver. \u0026 퀴러시어 느와르",
-    "ja": "ねんどろいど セイバー/アルトリア・ペンドラゴン〔オルタ〕新宿Ver.＆キュイラッシェ・ノワール (ねんどろいど せいばー/あるとりあ・ぺんどらごん〔おるた〕しんじゅくVer.＆きゅいらっしぇ・のわーる)",
-    "en": "Nendoroid Saber/Altria Pendragon (Alter) Shinjuku Ver. \u0026 Cuirassier Noir"
+  "gender" : "F",
+  "gsc_productNum" : 8391,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190603/8391/60645/large/c4242df1b80db524e6e6c069c6d48b7d.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber/Altria Pendragon (Alter) Shinjuku Ver. & Cuirassier Noir",
+    "ja" : "ねんどろいど セイバー/アルトリア・ペンドラゴン〔オルタ〕新宿Ver.＆キュイラッシェ・ノワール (ねんどろいど せいばー/あるとりあ・ぺんどらごん〔おるた〕しんじゅくVer.＆きゅいらっしぇ・のわーる)",
+    "ko" : "세이버 / 알트리아 펜드래건[얼터]\r\n신주쿠 ver. & 퀴러시어 느와르"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 8391,
-  "price": 5800,
-  "release_date": [
+  "num" : "1142-DX",
+  "price" : 5800,
+  "release_date" : [
     "2019/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190603/8391/60645/large/c4242df1b80db524e6e6c069c6d48b7d.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

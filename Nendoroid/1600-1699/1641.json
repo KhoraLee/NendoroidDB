@@ -1,21 +1,21 @@
 {
-  "num": "1641",
-  "name": {
-    "ko": "오사",
-    "ja": "ねんどろいど 呉邪 (ねんどろいど ごじゃ)",
-    "en": "Nendoroid Wu Xie"
+  "gender" : "M",
+  "gsc_productNum" : 11287,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210529/11287/85370/large/2a6edd696c57e4668dff5856345d67fd.jpg",
+  "name" : {
+    "en" : "Nendoroid Wu Xie",
+    "ja" : "ねんどろいど 呉邪 (ねんどろいど ごじゃ)",
+    "ko" : "오사"
   },
-  "series": {
-    "ko": "도묘필기",
-    "ja": "盗墓筆記",
-    "en": "TIME RAIDERS"
-  },
-  "gsc_productNum": 11287,
-  "price": 6100,
-  "release_date": [
+  "num" : "1641",
+  "price" : 6100,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210529/11287/85370/large/2a6edd696c57e4668dff5856345d67fd.jpg",
-  "gender": "M",
-  "set": 261
+  "series" : {
+    "en" : "TIME RAIDERS",
+    "ja" : "盗墓筆記",
+    "ko" : "도묘필기"
+  },
+  "set" : 261
 }

@@ -1,20 +1,20 @@
 {
-  "num": "322",
-  "name": {
-    "ko": "미즈키 나나",
-    "ja": "ねんどろいど 水樹奈々 (ねんどろいど みずきなな)",
-    "en": "Nendoroid Nana Mizuki (ねんどろいど みずきなな)"
+  "gender" : "F",
+  "gsc_productNum" : 3915,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130520/3915/23945/large/4a360da4267850c7bc1f484d0c5ad142.jpg",
+  "name" : {
+    "en" : "Nendoroid Nana Mizuki (ねんどろいど みずきなな)",
+    "ja" : "ねんどろいど 水樹奈々 (ねんどろいど みずきなな)",
+    "ko" : "미즈키 나나"
   },
-  "series": {
-    "ko": "실존인물(성우)",
-    "ja": "水樹奈々",
-    "en": "Nana Mizuki"
-  },
-  "gsc_productNum": 3915,
-  "price": 5133,
-  "release_date": [
+  "num" : "322",
+  "price" : 5133,
+  "release_date" : [
     "2013/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130520/3915/23945/large/4a360da4267850c7bc1f484d0c5ad142.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Nana Mizuki",
+    "ja" : "水樹奈々",
+    "ko" : "실존인물(성우)"
+  }
 }

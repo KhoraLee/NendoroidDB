@@ -1,21 +1,21 @@
 {
-  "num": "362",
-  "name": {
-    "ko": "샤메이마루 아야",
-    "ja": "ねんどろいど 射命丸文 (ねんどろいど しゃめいまるあや)",
-    "en": "Nendoroid Aya Shameimaru (ねんどろいど しゃめいまるあや)"
+  "gender" : "F",
+  "gsc_productNum" : 4028,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130812/4028/25739/large/cadd424b786f9ffb7710234dbbcf2b08.jpg",
+  "name" : {
+    "en" : "Nendoroid Aya Shameimaru (ねんどろいど しゃめいまるあや)",
+    "ja" : "ねんどろいど 射命丸文 (ねんどろいど しゃめいまるあや)",
+    "ko" : "샤메이마루 아야"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方Project",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 4028,
-  "price": 3667,
-  "release_date": [
+  "num" : "362",
+  "price" : 3667,
+  "release_date" : [
     "2013/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130812/4028/25739/large/cadd424b786f9ffb7710234dbbcf2b08.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

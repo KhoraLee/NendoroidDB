@@ -1,22 +1,22 @@
 {
-  "num": "956",
-  "name": {
-    "ko": "가아라",
-    "ja": "ねんどろいど 我愛羅 (ねんどろいど があら)",
-    "en": "Nendoroid Gaara"
+  "gender" : "M",
+  "gsc_productNum" : 7379,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180625/7379/52821/large/6e376a64d08d434fd1793eb87be733bb.jpg",
+  "name" : {
+    "en" : "Nendoroid Gaara",
+    "ja" : "ねんどろいど 我愛羅 (ねんどろいど があら)",
+    "ko" : "가아라"
   },
-  "series": {
-    "ko": "나루토",
-    "ja": "NARUTO -ナルト- 疾風伝",
-    "en": "Naruto Shippuden"
-  },
-  "gsc_productNum": 7379,
-  "price": 5000,
-  "release_date": [
+  "num" : "956",
+  "price" : 5000,
+  "release_date" : [
     "2018/12",
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180625/7379/52821/large/6e376a64d08d434fd1793eb87be733bb.jpg",
-  "gender": "M",
-  "set": 144
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  },
+  "set" : 144
 }

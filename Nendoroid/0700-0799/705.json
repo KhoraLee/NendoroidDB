@@ -1,23 +1,23 @@
 {
-  "num": "705",
-  "name": {
-    "ko": "바쿠고 카츠키 히어로즈 에디션",
-    "ja": "ねんどろいど 爆豪勝己 ヒーローズ・エディション (ねんどろいど ばくごうかつき ひーろーず・えでぃしょん)",
-    "en": "Nendoroid Katsuki Bakugo: Hero\u0027s Edition"
+  "gender" : "M",
+  "gsc_productNum" : 6107,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161202/6107/42619/large/88c60ba4743d5ea9cb40eb8839a8c80e.jpg",
+  "name" : {
+    "en" : "Nendoroid Katsuki Bakugo: Hero's Edition",
+    "ja" : "ねんどろいど 爆豪勝己 ヒーローズ・エディション (ねんどろいど ばくごうかつき ひーろーず・えでぃしょん)",
+    "ko" : "바쿠고 카츠키 히어로즈 에디션"
   },
-  "series": {
-    "ko": "나의 히어로 아카데미아",
-    "ja": "僕のヒーローアカデミア",
-    "en": "My Hero Academia"
-  },
-  "gsc_productNum": 6107,
-  "price": 5297,
-  "release_date": [
+  "num" : "705",
+  "price" : 5297,
+  "release_date" : [
     "2017/06",
     "2019/01",
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161202/6107/42619/large/88c60ba4743d5ea9cb40eb8839a8c80e.jpg",
-  "gender": "M",
-  "set": 146
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 146
 }

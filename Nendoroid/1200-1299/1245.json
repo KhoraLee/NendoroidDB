@@ -1,21 +1,21 @@
 {
-  "num": "1245",
-  "name": {
-    "ko": "나츠메 타카시\u0026야옹 선생",
-    "ja": "ねんどろいど 夏目貴志＆ニャンコ先生 (ねんどろいど なつめたかし＆にゃんこせんせい)",
-    "en": "Nendoroid Takashi Natsume \u0026 Nyanko Sensei"
+  "gender" : "M",
+  "gsc_productNum" : 9009,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191121/9009/65567/large/f4823213bab5074e0c0c20ce670b2581.jpg",
+  "name" : {
+    "en" : "Nendoroid Takashi Natsume & Nyanko Sensei",
+    "ja" : "ねんどろいど 夏目貴志＆ニャンコ先生 (ねんどろいど なつめたかし＆にゃんこせんせい)",
+    "ko" : "나츠메 타카시&야옹 선생"
   },
-  "series": {
-    "ko": "나츠메 우인장",
-    "ja": "夏目友人帳",
-    "en": "Natsume Yujin-cho"
-  },
-  "gsc_productNum": 9009,
-  "price": 5000,
-  "release_date": [
+  "num" : "1245",
+  "price" : 5000,
+  "release_date" : [
     "2020/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191121/9009/65567/large/f4823213bab5074e0c0c20ce670b2581.jpg",
-  "gender": "M",
-  "set": 228
+  "series" : {
+    "en" : "Natsume Yujin-cho",
+    "ja" : "夏目友人帳",
+    "ko" : "나츠메 우인장"
+  },
+  "set" : 228
 }

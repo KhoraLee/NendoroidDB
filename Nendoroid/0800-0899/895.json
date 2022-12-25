@@ -1,20 +1,20 @@
 {
-  "num": "895",
-  "name": {
-    "ko": "가디언",
-    "ja": "ねんどろいど ガーディアン (ねんどろいど がーでぃあん)",
-    "en": "Nendoroid Guardian"
+  "gsc_productNum" : 7087,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180227/7087/50488/large/8ab91d7523e68de1a4adfe5d5acf1481.jpg",
+  "name" : {
+    "en" : "Nendoroid Guardian",
+    "ja" : "ねんどろいど ガーディアン (ねんどろいど がーでぃあん)",
+    "ko" : "가디언"
   },
-  "series": {
-    "ko": "젤다의 전설",
-    "ja": "ゼルダの伝説　ブレス オブ ザ ワイルド",
-    "en": "The Legend of Zelda: Breath of the Wild"
-  },
-  "gsc_productNum": 7087,
-  "price": 5907,
-  "release_date": [
+  "num" : "895",
+  "price" : 5907,
+  "release_date" : [
     "2018/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180227/7087/50488/large/8ab91d7523e68de1a4adfe5d5acf1481.jpg",
-  "set": 99
+  "series" : {
+    "en" : "The Legend of Zelda: Breath of the Wild",
+    "ja" : "ゼルダの伝説　ブレス オブ ザ ワイルド",
+    "ko" : "젤다의 전설"
+  },
+  "set" : 99
 }

@@ -1,22 +1,22 @@
 {
-  "num": "268",
-  "name": {
-    "ko": "아카자 아카리",
-    "ja": "ねんどろいど 赤座あかり (ねんどろいど あかざあかり)",
-    "en": "Nendoroid Akari Akaza (ねんどろいど あかざあかり)"
+  "gender" : "F",
+  "gsc_productNum" : 3644,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120820/3644/41214/large/7ca293f2688d515815e51f38f1490976.jpg",
+  "name" : {
+    "en" : "Nendoroid Akari Akaza (ねんどろいど あかざあかり)",
+    "ja" : "ねんどろいど 赤座あかり (ねんどろいど あかざあかり)",
+    "ko" : "아카자 아카리"
   },
-  "series": {
-    "ko": "유루유리",
-    "ja": "ゆるゆり♪♪",
-    "en": "YuruYuri"
-  },
-  "gsc_productNum": 3644,
-  "price": 3666,
-  "release_date": [
+  "num" : "268",
+  "price" : 3666,
+  "release_date" : [
     "2012/12",
     "2016/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120820/3644/41214/large/7ca293f2688d515815e51f38f1490976.jpg",
-  "gender": "F",
-  "set": 66
+  "series" : {
+    "en" : "YuruYuri",
+    "ja" : "ゆるゆり♪♪",
+    "ko" : "유루유리"
+  },
+  "set" : 66
 }

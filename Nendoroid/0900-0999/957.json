@@ -1,21 +1,21 @@
 {
-  "num": "957",
-  "name": {
-    "ko": "다이애나 캐번디시",
-    "ja": "ねんどろいど ダイアナ・キャベンディッシュ (ねんどろいど だいあな・きゃべんでぃっしゅ)",
-    "en": "Nendoroid Diana Cavendish"
+  "gender" : "F",
+  "gsc_productNum" : 7400,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180629/7400/52964/large/2897515e6e18525055cc585640c45eca.jpg",
+  "name" : {
+    "en" : "Nendoroid Diana Cavendish",
+    "ja" : "ねんどろいど ダイアナ・キャベンディッシュ (ねんどろいど だいあな・きゃべんでぃっしゅ)",
+    "ko" : "다이애나 캐번디시"
   },
-  "series": {
-    "ko": "리틀 위치 아카데미아",
-    "ja": "リトルウィッチアカデミア",
-    "en": "Little Witch Academia"
-  },
-  "gsc_productNum": 7400,
-  "price": 4584,
-  "release_date": [
+  "num" : "957",
+  "price" : 4584,
+  "release_date" : [
     "2018/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180629/7400/52964/large/2897515e6e18525055cc585640c45eca.jpg",
-  "gender": "F",
-  "set": 154
+  "series" : {
+    "en" : "Little Witch Academia",
+    "ja" : "リトルウィッチアカデミア",
+    "ko" : "리틀 위치 아카데미아"
+  },
+  "set" : 154
 }

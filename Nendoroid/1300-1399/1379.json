@@ -1,21 +1,21 @@
 {
-  "num": "1379",
-  "name": {
-    "ko": "블랙 위도우 엔드게임 Ver.",
-    "ja": "ねんどろいど ブラックウィドウ エンドゲーム Ver. (ねんどろいど ぶらっくうぃどう えんどげーむ Ver.)",
-    "en": "Nendoroid Black Widow: Endgame Ver."
+  "gender" : "F",
+  "gsc_productNum" : 9705,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200626/9705/71462/large/451cbf5cf16de8dd5d3535ad92e4804b.jpg",
+  "name" : {
+    "en" : "Nendoroid Black Widow: Endgame Ver.",
+    "ja" : "ねんどろいど ブラックウィドウ エンドゲーム Ver. (ねんどろいど ぶらっくうぃどう えんどげーむ Ver.)",
+    "ko" : "블랙 위도우 엔드게임 Ver."
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／エンドゲーム",
-    "en": "Avengers: Endgame"
-  },
-  "gsc_productNum": 9705,
-  "price": 5000,
-  "release_date": [
+  "num" : "1379",
+  "price" : 5000,
+  "release_date" : [
     "2020/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200626/9705/71462/large/451cbf5cf16de8dd5d3535ad92e4804b.jpg",
-  "gender": "F",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

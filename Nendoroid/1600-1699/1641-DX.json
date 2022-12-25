@@ -1,21 +1,21 @@
 {
-  "num": "1641-DX",
-  "name": {
-    "ko": "오사 DX",
-    "ja": "ねんどろいど 呉邪 DX (ねんどろいど ごじゃ DX)",
-    "en": "Nendoroid Wu Xie DX"
+  "gender" : "M",
+  "gsc_productNum" : 11286,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210529/11286/85362/large/9df7450a1752d7ca994708acd540fa5d.jpg",
+  "name" : {
+    "en" : "Nendoroid Wu Xie DX",
+    "ja" : "ねんどろいど 呉邪 DX (ねんどろいど ごじゃ DX)",
+    "ko" : "오사 DX"
   },
-  "series": {
-    "ko": "도묘필기",
-    "ja": "盗墓筆記",
-    "en": "TIME RAIDERS"
-  },
-  "gsc_productNum": 11286,
-  "price": 7800,
-  "release_date": [
+  "num" : "1641-DX",
+  "price" : 7800,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210529/11286/85362/large/9df7450a1752d7ca994708acd540fa5d.jpg",
-  "gender": "M",
-  "set": 261
+  "series" : {
+    "en" : "TIME RAIDERS",
+    "ja" : "盗墓筆記",
+    "ko" : "도묘필기"
+  },
+  "set" : 261
 }

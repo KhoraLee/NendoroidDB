@@ -1,21 +1,21 @@
 {
-  "num": "1259",
-  "name": {
-    "ko": "포리너/카츠시카 호쿠사이/호리나",
-    "ja": "ねんどろいど フォーリナー/葛飾北斎 (ねんどろいど ふぉーりなー/かつしかほくさい)",
-    "en": "Nendoroid Foreigner/Katsushika Hokusai"
+  "gender" : "F",
+  "gsc_productNum" : 9091,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191213/9091/66070/large/376f6363e696280ff7cca105318749b9.jpg",
+  "name" : {
+    "en" : "Nendoroid Foreigner/Katsushika Hokusai",
+    "ja" : "ねんどろいど フォーリナー/葛飾北斎 (ねんどろいど ふぉーりなー/かつしかほくさい)",
+    "ko" : "포리너/카츠시카 호쿠사이/호리나"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 9091,
-  "price": 5800,
-  "release_date": [
+  "num" : "1259",
+  "price" : 5800,
+  "release_date" : [
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191213/9091/66070/large/376f6363e696280ff7cca105318749b9.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

@@ -1,23 +1,23 @@
 {
-  "num": "408",
-  "name": {
-    "ko": "만칸쇼쿠 마코",
-    "ja": "ねんどろいど 満艦飾マコ (ねんどろいど まんかんしょくまこ)",
-    "en": "Nendoroid Mako Mankanshoku (ねんどろいど まんかんしょくまこ)"
+  "gender" : "F",
+  "gsc_productNum" : 4299,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140326/4299/44893/large/4b8842775b235158987ad2212cea290d.jpg",
+  "name" : {
+    "en" : "Nendoroid Mako Mankanshoku (ねんどろいど まんかんしょくまこ)",
+    "ja" : "ねんどろいど 満艦飾マコ (ねんどろいど まんかんしょくまこ)",
+    "ko" : "만칸쇼쿠 마코"
   },
-  "series": {
-    "ko": "킬라킬",
-    "ja": "キルラキル",
-    "en": "KILL la KILL"
-  },
-  "gsc_productNum": 4299,
-  "price": 4278,
-  "release_date": [
+  "num" : "408",
+  "price" : 4278,
+  "release_date" : [
     "2014/08",
     "2017/09",
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140326/4299/44893/large/4b8842775b235158987ad2212cea290d.jpg",
-  "gender": "F",
-  "set": 97
+  "series" : {
+    "en" : "KILL la KILL",
+    "ja" : "キルラキル",
+    "ko" : "킬라킬"
+  },
+  "set" : 97
 }

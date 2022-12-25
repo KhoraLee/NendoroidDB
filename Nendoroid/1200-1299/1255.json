@@ -1,21 +1,21 @@
 {
-  "num": "1255",
-  "name": {
-    "ko": "이루마 쥬토",
-    "ja": "ねんどろいど 入間銃兎 (ねんどろいど いるまじゅうと)",
-    "en": "Nendoroid Jyuto Iruma"
+  "gender" : "M",
+  "gsc_productNum" : 9126,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191220/9126/66339/large/41f7cc236931e8b6411b58f3c26cadfe.jpg",
+  "name" : {
+    "en" : "Nendoroid Jyuto Iruma",
+    "ja" : "ねんどろいど 入間銃兎 (ねんどろいど いるまじゅうと)",
+    "ko" : "이루마 쥬토"
   },
-  "series": {
-    "ko": "히프노시스 마이크",
-    "ja": "ヒプノシスマイク -Division Rap Battle-",
-    "en": "Hypnosis Mic -Division Rap Battle-"
-  },
-  "gsc_productNum": 9126,
-  "price": 6050,
-  "release_date": [
+  "num" : "1255",
+  "price" : 6050,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191220/9126/66339/large/41f7cc236931e8b6411b58f3c26cadfe.jpg",
-  "gender": "M",
-  "set": 225
+  "series" : {
+    "en" : "Hypnosis Mic -Division Rap Battle-",
+    "ja" : "ヒプノシスマイク -Division Rap Battle-",
+    "ko" : "히프노시스 마이크"
+  },
+  "set" : 225
 }

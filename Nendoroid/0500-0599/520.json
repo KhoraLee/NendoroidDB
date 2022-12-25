@@ -1,21 +1,21 @@
 {
-  "num": "520",
-  "name": {
-    "ko": "야마토",
-    "ja": "ねんどろいど 大和 (ねんどろいど やまと)",
-    "en": "Nendoroid Yamato (ねんどろいど やまと)"
+  "gender" : "F",
+  "gsc_productNum" : 5000,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150511/5000/33460/large/8bd5d695a9a3b89fb4b7c23fa4555b4b.jpg",
+  "name" : {
+    "en" : "Nendoroid Yamato (ねんどろいど やまと)",
+    "ja" : "ねんどろいど 大和 (ねんどろいど やまと)",
+    "ko" : "야마토"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 5000,
-  "price": 7944,
-  "release_date": [
+  "num" : "520",
+  "price" : 7944,
+  "release_date" : [
     "2015/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150511/5000/33460/large/8bd5d695a9a3b89fb4b7c23fa4555b4b.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

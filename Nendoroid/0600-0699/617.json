@@ -1,22 +1,22 @@
 {
-  "num": "617",
-  "name": {
-    "ko": "헤시키리 하세베",
-    "ja": "ねんどろいど へし切長谷部 (ねんどろいど へしきりはせべ)",
-    "en": "Nendoroid Heshikiri Hasebe"
+  "gender" : "M",
+  "gsc_productNum" : 5645,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160425/5645/38819/large/a62d58953d92f30b215e543f210fb8e3.jpg",
+  "name" : {
+    "en" : "Nendoroid Heshikiri Hasebe",
+    "ja" : "ねんどろいど へし切長谷部 (ねんどろいど へしきりはせべ)",
+    "ko" : "헤시키리 하세베"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 5645,
-  "price": 4278,
-  "release_date": [
+  "num" : "617",
+  "price" : 4278,
+  "release_date" : [
     "2016/09",
     "2018/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160425/5645/38819/large/a62d58953d92f30b215e543f210fb8e3.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

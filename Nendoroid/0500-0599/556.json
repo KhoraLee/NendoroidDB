@@ -1,20 +1,20 @@
 {
-  "num": "556",
-  "name": {
-    "ko": "록맨",
-    "ja": "ねんどろいど ロックマン (ねんどろいど ろっくまん)",
-    "en": "Nendoroid Mega Man (ねんどろいど ろっくまん)"
+  "gsc_productNum" : 5208,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150828/5208/35323/large/3c6cbb3d1063b0a69c592c694a30656e.jpg",
+  "name" : {
+    "en" : "Nendoroid Mega Man (ねんどろいど ろっくまん)",
+    "ja" : "ねんどろいど ロックマン (ねんどろいど ろっくまん)",
+    "ko" : "록맨"
   },
-  "series": {
-    "ko": "록맨 시리즈",
-    "ja": "ロックマン",
-    "en": "Mega Man"
-  },
-  "gsc_productNum": 5208,
-  "price": 4888,
-  "release_date": [
+  "num" : "556",
+  "price" : 4888,
+  "release_date" : [
     "2016/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150828/5208/35323/large/3c6cbb3d1063b0a69c592c694a30656e.jpg",
-  "set": 122
+  "series" : {
+    "en" : "Mega Man",
+    "ja" : "ロックマン",
+    "ko" : "록맨 시리즈"
+  },
+  "set" : 122
 }

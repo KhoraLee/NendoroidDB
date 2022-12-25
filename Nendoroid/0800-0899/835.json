@@ -1,22 +1,22 @@
 {
-  "num": "835",
-  "name": {
-    "ko": "수시 만바바란",
-    "ja": "ねんどろいど スーシィ・マンババラン (ねんどろいど すーしぃ・まんばばらん)",
-    "en": "Nendoroid Sucy Manbavaran"
+  "gender" : "F",
+  "gsc_productNum" : 6787,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171011/6787/48089/large/4e5c0840f595585c81207c142cc19e3c.jpg",
+  "name" : {
+    "en" : "Nendoroid Sucy Manbavaran",
+    "ja" : "ねんどろいど スーシィ・マンババラン (ねんどろいど すーしぃ・まんばばらん)",
+    "ko" : "수시 만바바란"
   },
-  "series": {
-    "ko": "리틀 위치 아카데미아",
-    "ja": "リトルウィッチアカデミア",
-    "en": "Little Witch Academia"
-  },
-  "gsc_productNum": 6787,
-  "price": 4584,
-  "release_date": [
+  "num" : "835",
+  "price" : 4584,
+  "release_date" : [
     "2018/04",
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171011/6787/48089/large/4e5c0840f595585c81207c142cc19e3c.jpg",
-  "gender": "F",
-  "set": 154
+  "series" : {
+    "en" : "Little Witch Academia",
+    "ja" : "リトルウィッチアカデミア",
+    "ko" : "리틀 위치 아카데미아"
+  },
+  "set" : 154
 }

@@ -1,21 +1,21 @@
 {
-  "num": "958",
-  "name": {
-    "ko": "신카이 카나타",
-    "ja": "ねんどろいど 深海奏汰 (ねんどろいど しんかいかなた)",
-    "en": "Nendoroid Kanata Shinkai"
+  "gender" : "M",
+  "gsc_productNum" : 7401,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180629/7401/52972/large/717fda12f21a81f71141e1c22abff697.jpg",
+  "name" : {
+    "en" : "Nendoroid Kanata Shinkai",
+    "ja" : "ねんどろいど 深海奏汰 (ねんどろいど しんかいかなた)",
+    "ko" : "신카이 카나타"
   },
-  "series": {
-    "ko": "앙상블 스타즈!",
-    "ja": "あんさんぶるスターズ！",
-    "en": "Ensemble Stars!"
-  },
-  "gsc_productNum": 7401,
-  "price": 4584,
-  "release_date": [
+  "num" : "958",
+  "price" : 4584,
+  "release_date" : [
     "2019/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180629/7401/52972/large/717fda12f21a81f71141e1c22abff697.jpg",
-  "gender": "M",
-  "set": 181
+  "series" : {
+    "en" : "Ensemble Stars!",
+    "ja" : "あんさんぶるスターズ！",
+    "ko" : "앙상블 스타즈!"
+  },
+  "set" : 181
 }

@@ -1,21 +1,21 @@
 {
-  "num": "316",
-  "name": {
-    "ko": "카이 토시키",
-    "ja": "ねんどろいど 櫂トシキ (ねんどろいど かいとしき)",
-    "en": "Nendoroid Toshiki Kai (ねんどろいど かいとしき)"
+  "gender" : "M",
+  "gsc_productNum" : 3856,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130306/3856/22942/large/bbc70c6c66f2898bf816af2764ac2658.jpg",
+  "name" : {
+    "en" : "Nendoroid Toshiki Kai (ねんどろいど かいとしき)",
+    "ja" : "ねんどろいど 櫂トシキ (ねんどろいど かいとしき)",
+    "ko" : "카이 토시키"
   },
-  "series": {
-    "ko": "카드파이트!! 뱅가드",
-    "ja": "カードファイト!!ヴァンガード",
-    "en": "Cardfight!! Vanguard"
-  },
-  "gsc_productNum": 3856,
-  "price": 3981,
-  "release_date": [
+  "num" : "316",
+  "price" : 3981,
+  "release_date" : [
     "2013/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130306/3856/22942/large/bbc70c6c66f2898bf816af2764ac2658.jpg",
-  "gender": "M",
-  "set": 71
+  "series" : {
+    "en" : "Cardfight!! Vanguard",
+    "ja" : "カードファイト!!ヴァンガード",
+    "ko" : "카드파이트!! 뱅가드"
+  },
+  "set" : 71
 }

@@ -1,21 +1,21 @@
 {
-  "num": "331",
-  "name": {
-    "ko": "냐루코 메이드 Ver.",
-    "ja": "ねんどろいど ニャル子 冥土Ver. (ねんどろいど にゃるこ めいどVer.)",
-    "en": "Nendoroid Nyaruko: Maid Ver. (ねんどろいど にゃるこ めいどVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3948,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130607/3948/24421/large/e94add8e4ad5b54730ca4ba3b72e1c7f.jpg",
+  "name" : {
+    "en" : "Nendoroid Nyaruko: Maid Ver. (ねんどろいど にゃるこ めいどVer.)",
+    "ja" : "ねんどろいど ニャル子 冥土Ver. (ねんどろいど にゃるこ めいどVer.)",
+    "ko" : "냐루코 메이드 Ver."
   },
-  "series": {
-    "ko": "기어와라! 냐루코양",
-    "ja": "這いよれ！ニャル子さんW",
-    "en": "Haiyore! Nyaruko-san W"
-  },
-  "gsc_productNum": 3948,
-  "price": 3667,
-  "release_date": [
+  "num" : "331",
+  "price" : 3667,
+  "release_date" : [
     "2013/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130607/3948/24421/large/e94add8e4ad5b54730ca4ba3b72e1c7f.jpg",
-  "gender": "F",
-  "set": 62
+  "series" : {
+    "en" : "Haiyore! Nyaruko-san W",
+    "ja" : "這いよれ！ニャル子さんW",
+    "ko" : "기어와라! 냐루코양"
+  },
+  "set" : 62
 }

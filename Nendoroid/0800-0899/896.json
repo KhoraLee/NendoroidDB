@@ -1,21 +1,21 @@
 {
-  "num": "896",
-  "name": {
-    "ko": "치가사키 이타루",
-    "ja": "ねんどろいど 茅ヶ崎至 (ねんどろいど ちがさきいたる)",
-    "en": "Nendoroid Itaru Chigasaki"
+  "gender" : "M",
+  "gsc_productNum" : 7111,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180312/7111/50714/large/e43a3cda20cbcec0bb6fb752bcebc7d4.jpg",
+  "name" : {
+    "en" : "Nendoroid Itaru Chigasaki",
+    "ja" : "ねんどろいど 茅ヶ崎至 (ねんどろいど ちがさきいたる)",
+    "ko" : "치가사키 이타루"
   },
-  "series": {
-    "ko": "A3!",
-    "ja": "A3!",
-    "en": "A3!"
-  },
-  "gsc_productNum": 7111,
-  "price": 4584,
-  "release_date": [
+  "num" : "896",
+  "price" : 4584,
+  "release_date" : [
     "2018/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180312/7111/50714/large/e43a3cda20cbcec0bb6fb752bcebc7d4.jpg",
-  "gender": "M",
-  "set": 165
+  "series" : {
+    "en" : "A3!",
+    "ja" : "A3!",
+    "ko" : "A3!"
+  },
+  "set" : 165
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1342",
-  "name": {
-    "ko": "심검심",
-    "ja": "ねんどろいど 沈剣心 (ねんどろいど ちんけんしん)",
-    "en": "Nendoroid JianXin Shen"
+  "gender" : "M",
+  "gsc_productNum" : 10492,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201204/10492/78217/large/f4a40624b72d023f93d40a90deca40dc.jpg",
+  "name" : {
+    "en" : "Nendoroid JianXin Shen",
+    "ja" : "ねんどろいど 沈剣心 (ねんどろいど ちんけんしん)",
+    "ko" : "심검심"
   },
-  "series": {
-    "ko": "검망3 : 손끝강호",
-    "ja": "剣網3",
-    "en": "Jian Wang 3"
-  },
-  "gsc_productNum": 10492,
-  "price": 6200,
-  "release_date": [
+  "num" : "1342",
+  "price" : 6200,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201204/10492/78217/large/f4a40624b72d023f93d40a90deca40dc.jpg",
-  "gender": "M",
-  "set": 215
+  "series" : {
+    "en" : "Jian Wang 3",
+    "ja" : "剣網3",
+    "ko" : "검망3 : 손끝강호"
+  },
+  "set" : 215
 }

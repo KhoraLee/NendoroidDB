@@ -1,20 +1,20 @@
 {
-  "num": "1355",
-  "name": {
-    "ko": "오키타 소우지",
-    "ja": "ねんどろいど 沖田総司 (ねんどろいど おきたそうじ)",
-    "en": "Nendoroid Souji Okita"
+  "gender" : "M",
+  "gsc_productNum" : 9529,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200520/9529/69842/large/95b2fd74b510828c1e08290437321ff2.jpg",
+  "name" : {
+    "en" : "Nendoroid Souji Okita",
+    "ja" : "ねんどろいど 沖田総司 (ねんどろいど おきたそうじ)",
+    "ko" : "오키타 소우지"
   },
-  "series": {
-    "ko": "박앵귀",
-    "ja": "薄桜鬼 真改",
-    "en": "Hakuoki: Shinkai"
-  },
-  "gsc_productNum": 9529,
-  "price": 5300,
-  "release_date": [
+  "num" : "1355",
+  "price" : 5300,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200520/9529/69842/large/95b2fd74b510828c1e08290437321ff2.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Hakuoki: Shinkai",
+    "ja" : "薄桜鬼 真改",
+    "ko" : "박앵귀"
+  }
 }

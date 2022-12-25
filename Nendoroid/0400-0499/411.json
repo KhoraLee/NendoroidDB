@@ -1,21 +1,21 @@
 {
-  "num": "411",
-  "name": {
-    "ko": "아리",
-    "ja": "ねんどろいど アーリ (ねんどろいど あーり)",
-    "en": "Nendoroid Ahri"
+  "gender" : "F",
+  "gsc_productNum" : 7670,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181005/7670/55025/large/f6c0b4c947a5eaea6dac326be42c10db.jpg",
+  "name" : {
+    "en" : "Nendoroid Ahri",
+    "ja" : "ねんどろいど アーリ (ねんどろいど あーり)",
+    "ko" : "아리"
   },
-  "series": {
-    "ko": "리그 오브 레전드",
-    "ja": "リーグ・オブ・レジェンド",
-    "en": "League of Legends"
-  },
-  "gsc_productNum": 7670,
-  "price": -1,
-  "release_date": [
+  "num" : "411",
+  "price" : -1,
+  "release_date" : [
     "2014/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181005/7670/55025/large/f6c0b4c947a5eaea6dac326be42c10db.jpg",
-  "gender": "F",
-  "set": 98
+  "series" : {
+    "en" : "League of Legends",
+    "ja" : "リーグ・オブ・レジェンド",
+    "ko" : "리그 오브 레전드"
+  },
+  "set" : 98
 }

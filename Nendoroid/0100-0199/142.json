@@ -1,21 +1,21 @@
 {
-  "num": "142",
-  "name": {
-    "ko": "코우사카 키리노",
-    "ja": "ねんどろいど 高坂桐乃 (ねんどろいど こうさかきりの)",
-    "en": "Nendoroid Kirino Kousaka (ねんどろいど こうさかきりの)"
+  "gender" : "F",
+  "gsc_productNum" : 3012,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20101104/3012/11914/large/ead18616d574e08302c0b659fb7fa864.jpg",
+  "name" : {
+    "en" : "Nendoroid Kirino Kousaka (ねんどろいど こうさかきりの)",
+    "ja" : "ねんどろいど 高坂桐乃 (ねんどろいど こうさかきりの)",
+    "ko" : "코우사카 키리노"
   },
-  "series": {
-    "ko": "내 여동생이 이렇게 귀여울 리가 없어",
-    "ja": "俺の妹がこんなに可愛いわけがない",
-    "en": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai"
-  },
-  "gsc_productNum": 3012,
-  "price": 3667,
-  "release_date": [
+  "num" : "142",
+  "price" : 3667,
+  "release_date" : [
     "2011/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20101104/3012/11914/large/ead18616d574e08302c0b659fb7fa864.jpg",
-  "gender": "F",
-  "set": 42
+  "series" : {
+    "en" : "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
+    "ja" : "俺の妹がこんなに可愛いわけがない",
+    "ko" : "내 여동생이 이렇게 귀여울 리가 없어"
+  },
+  "set" : 42
 }

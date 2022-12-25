@@ -1,22 +1,22 @@
 {
-  "num": "1166",
-  "name": {
-    "ko": "허묵",
-    "ja": "ねんどろいど シモン (ねんどろいど しもん)",
-    "en": "Nendoroid Mo Xu"
+  "gender" : "M",
+  "gsc_productNum" : 8521,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190705/8521/61667/large/79e347961990edcb2a69c9e896ca4149.jpg",
+  "name" : {
+    "en" : "Nendoroid Mo Xu",
+    "ja" : "ねんどろいど シモン (ねんどろいど しもん)",
+    "ko" : "허묵"
   },
-  "series": {
-    "ko": "러브앤프로듀서",
-    "ja": "恋とプロデューサー～EVOL×LOVE～",
-    "en": "Mr. Love: Queen\u0027s Choice"
-  },
-  "gsc_productNum": 8521,
-  "price": 5500,
-  "release_date": [
+  "num" : "1166",
+  "price" : 5500,
+  "release_date" : [
     "2020/03",
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190705/8521/61667/large/79e347961990edcb2a69c9e896ca4149.jpg",
-  "gender": "M",
-  "set": 209
+  "series" : {
+    "en" : "Mr. Love: Queen's Choice",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "set" : 209
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1995",
-  "name": {
-    "ja": "ねんどろいど トウカイテイオー (ねんどろいど とうかいていおー)",
-    "en": "Nendoroid Tokai Teio",
-    "ko": "토카이 테이오"
+  "gender" : "F",
+  "gsc_productNum" : 13500,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221104/13500/107542/large/3f1102899be5e6a0025c60168ba421dd.jpg",
+  "name" : {
+    "en" : "Nendoroid Tokai Teio",
+    "ja" : "ねんどろいど トウカイテイオー (ねんどろいど とうかいていおー)",
+    "ko" : "토카이 테이오"
   },
-  "series": {
-    "ja": "ウマ娘 プリティーダービー",
-    "en": "Umamusume: Pretty Derby",
-    "ko": "우마무스메: 프리티 더비"
-  },
-  "gsc_productNum": 13500,
-  "price": 7500,
-  "release_date": [
+  "num" : "1995",
+  "price" : 7500,
+  "release_date" : [
     "2023/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221104/13500/107542/large/3f1102899be5e6a0025c60168ba421dd.jpg",
-  "gender": "F",
-  "set": 193
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메: 프리티 더비"
+  },
+  "set" : 193
 }

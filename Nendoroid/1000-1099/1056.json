@@ -1,21 +1,21 @@
 {
-  "num": "1056",
-  "name": {
-    "ko": "아처/아르주나",
-    "ja": "ねんどろいど アーチャー/アルジュナ (ねんどろいど あーちゃー/あるじゅな)",
-    "en": "Nendoroid Archer/Arjuna"
+  "gender" : "M",
+  "gsc_productNum" : 7917,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181218/7917/56869/large/b55f2a420f14703882d3ceecc35005d2.jpg",
+  "name" : {
+    "en" : "Nendoroid Archer/Arjuna",
+    "ja" : "ねんどろいど アーチャー/アルジュナ (ねんどろいど あーちゃー/あるじゅな)",
+    "ko" : "아처/아르주나"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 7917,
-  "price": 5297,
-  "release_date": [
+  "num" : "1056",
+  "price" : 5297,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181218/7917/56869/large/b55f2a420f14703882d3ceecc35005d2.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1859",
-  "name": {
-    "ko": "사가",
-    "ja": "ねんどろいど サガ (ねんどろいど さが)",
-    "en": "Nendoroid Saga"
+  "gender" : "F",
+  "gsc_productNum" : 12476,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220317/12476/96643/large/716d455306f51c217d73716a1b77a63a.jpg",
+  "name" : {
+    "en" : "Nendoroid Saga",
+    "ja" : "ねんどろいど サガ (ねんどろいど さが)",
+    "ko" : "사가"
   },
-  "series": {
-    "ko": "명일방주",
-    "ja": "アークナイツ",
-    "en": "Arknights"
-  },
-  "gsc_productNum": 12476,
-  "price": 6800,
-  "release_date": [
+  "num" : "1859",
+  "price" : 6800,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220317/12476/96643/large/716d455306f51c217d73716a1b77a63a.jpg",
-  "gender": "F",
-  "set": 216
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 216
 }

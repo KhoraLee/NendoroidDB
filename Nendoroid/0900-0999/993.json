@@ -1,21 +1,21 @@
 {
-  "num": "993",
-  "name": {
-    "ko": "헌터♀ 레우스",
-    "ja": "ねんどろいど ハンター♀ レウス・エディション (ねんどろいど はんたー♀ れうす・えでぃしょん)",
-    "en": "Nendoroid Hunter: Female Rathalos Armor Edition"
+  "gender" : "M",
+  "gsc_productNum" : 7590,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180904/7590/54346/large/68b1ccba6b10f22a95e38a7b11b1df0d.jpg",
+  "name" : {
+    "en" : "Nendoroid Hunter: Female Rathalos Armor Edition",
+    "ja" : "ねんどろいど ハンター♀ レウス・エディション (ねんどろいど はんたー♀ れうす・えでぃしょん)",
+    "ko" : "헌터♀ 레우스"
   },
-  "series": {
-    "ko": "몬스터 헌터",
-    "ja": "モンスターハンター：ワールド",
-    "en": "MONSTER HUNTER: WORLD"
-  },
-  "gsc_productNum": 7590,
-  "price": 5602,
-  "release_date": [
+  "num" : "993",
+  "price" : 5602,
+  "release_date" : [
     "2019/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180904/7590/54346/large/68b1ccba6b10f22a95e38a7b11b1df0d.jpg",
-  "gender": "M",
-  "set": 64
+  "series" : {
+    "en" : "MONSTER HUNTER: WORLD",
+    "ja" : "モンスターハンター：ワールド",
+    "ko" : "몬스터 헌터"
+  },
+  "set" : 64
 }

@@ -1,21 +1,21 @@
 {
-  "num": "992",
-  "name": {
-    "ko": "테데자 리제",
-    "ja": "ねんどろいど リゼ (ねんどろいど りぜ)",
-    "en": "Nendoroid Rize"
+  "gender" : "F",
+  "gsc_productNum" : 7582,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180831/7582/54263/large/2ca45a955d3afdfb5797fc242115db2b.jpg",
+  "name" : {
+    "en" : "Nendoroid Rize",
+    "ja" : "ねんどろいど リゼ (ねんどろいど りぜ)",
+    "ko" : "테데자 리제"
   },
-  "series": {
-    "ko": "주문은 토끼입니까?",
-    "ja": "ご注文はうさぎですか？？",
-    "en": "Is the Order a Rabbit?"
-  },
-  "gsc_productNum": 7582,
-  "price": 4685,
-  "release_date": [
+  "num" : "992",
+  "price" : 4685,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180831/7582/54263/large/2ca45a955d3afdfb5797fc242115db2b.jpg",
-  "gender": "F",
-  "set": 123
+  "series" : {
+    "en" : "Is the Order a Rabbit?",
+    "ja" : "ご注文はうさぎですか？？",
+    "ko" : "주문은 토끼입니까?"
+  },
+  "set" : 123
 }

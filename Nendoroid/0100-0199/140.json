@@ -1,21 +1,21 @@
 {
-  "num": "140",
-  "name": {
-    "ko": "아사쿠라 네무",
-    "ja": "ねんどろいど 朝倉音夢 (ねんどろいど あさくらねむ)",
-    "en": "Nendoroid Nemu Asakura (ねんどろいど あさくらねむ)"
+  "gender" : "F",
+  "gsc_productNum" : 3008,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20101027/3008/11857/large/62ce6381e742ef1462bf06327669a1a7.jpg",
+  "name" : {
+    "en" : "Nendoroid Nemu Asakura (ねんどろいど あさくらねむ)",
+    "ja" : "ねんどろいど 朝倉音夢 (ねんどろいど あさくらねむ)",
+    "ko" : "아사쿠라 네무"
   },
-  "series": {
-    "ko": "다카포",
-    "ja": "D.C.～ダ・カーポ～",
-    "en": "D.C ~Da Capo~"
-  },
-  "gsc_productNum": 3008,
-  "price": 3667,
-  "release_date": [
+  "num" : "140",
+  "price" : 3667,
+  "release_date" : [
     "2011/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20101027/3008/11857/large/62ce6381e742ef1462bf06327669a1a7.jpg",
-  "gender": "F",
-  "set": 21
+  "series" : {
+    "en" : "D.C ~Da Capo~",
+    "ja" : "D.C.～ダ・カーポ～",
+    "ko" : "다카포"
+  },
+  "set" : 21
 }

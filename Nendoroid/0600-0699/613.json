@@ -1,21 +1,21 @@
 {
-  "num": "613",
-  "name": {
-    "ko": "페코쨩",
-    "ja": "ねんどろいど ペコちゃん (ねんどろいど ぺこちゃん)",
-    "en": "Nendoroid Peko-chan"
+  "gender" : "F",
+  "gsc_productNum" : 5546,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160315/5546/38044/large/e0426a15efa101d9d1aefdc13e6d0047.jpg",
+  "name" : {
+    "en" : "Nendoroid Peko-chan",
+    "ja" : "ねんどろいど ペコちゃん (ねんどろいど ぺこちゃん)",
+    "ko" : "페코쨩"
   },
-  "series": {
-    "ko": "후지야 페코쨩",
-    "ja": "不二家 ペコちゃん",
-    "en": "Fujiya Peko-chan"
-  },
-  "gsc_productNum": 5546,
-  "price": 4584,
-  "release_date": [
+  "num" : "613",
+  "price" : 4584,
+  "release_date" : [
     "2016/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160315/5546/38044/large/e0426a15efa101d9d1aefdc13e6d0047.jpg",
-  "gender": "F",
-  "set": 128
+  "series" : {
+    "en" : "Fujiya Peko-chan",
+    "ja" : "不二家 ペコちゃん",
+    "ko" : "후지야 페코쨩"
+  },
+  "set" : 128
 }

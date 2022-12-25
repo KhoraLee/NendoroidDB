@@ -1,23 +1,23 @@
 {
-  "num": "642",
-  "name": {
-    "ko": "알베도",
-    "ja": "ねんどろいど アルベド (ねんどろいど あるべど)",
-    "en": "Nendoroid Albedo"
+  "gender" : "F",
+  "gsc_productNum" : 5751,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160617/5751/39654/large/dda7943cf900769c182c7edbd1ae84ec.jpg",
+  "name" : {
+    "en" : "Nendoroid Albedo",
+    "ja" : "ねんどろいど アルベド (ねんどろいど あるべど)",
+    "ko" : "알베도"
   },
-  "series": {
-    "ko": "오버로드",
-    "ja": "オーバーロード",
-    "en": "OVERLORD"
-  },
-  "gsc_productNum": 5751,
-  "price": 5093,
-  "release_date": [
+  "num" : "642",
+  "price" : 5093,
+  "release_date" : [
     "2017/01",
     "2019/03",
     "2023/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160617/5751/39654/large/dda7943cf900769c182c7edbd1ae84ec.jpg",
-  "gender": "F",
-  "set": 133
+  "series" : {
+    "en" : "OVERLORD",
+    "ja" : "オーバーロード",
+    "ko" : "오버로드"
+  },
+  "set" : 133
 }

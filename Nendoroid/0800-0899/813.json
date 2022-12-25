@@ -1,21 +1,21 @@
 {
-  "num": "813",
-  "name": {
-    "ko": "무츠",
-    "ja": "ねんどろいど 陸奥 (ねんどろいど むつ)",
-    "en": "Nendoroid Mutsu"
+  "gender" : "F",
+  "gsc_productNum" : 6644,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170808/6644/47006/large/8b76b267ec492bebe27682b1c6426769.jpg",
+  "name" : {
+    "en" : "Nendoroid Mutsu",
+    "ja" : "ねんどろいど 陸奥 (ねんどろいど むつ)",
+    "ko" : "무츠"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 6644,
-  "price": 6519,
-  "release_date": [
+  "num" : "813",
+  "price" : 6519,
+  "release_date" : [
     "2018/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170808/6644/47006/large/8b76b267ec492bebe27682b1c6426769.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

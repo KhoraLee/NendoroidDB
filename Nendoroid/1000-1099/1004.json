@@ -1,21 +1,21 @@
 {
-  "num": "1004",
-  "name": {
-    "ko": "쿠로세 리쿠",
-    "ja": "ねんどろいど 黒瀬陸 (ねんどろいど くろせりく)",
-    "en": "Nendoroid Kurose Riku"
+  "gender" : "M",
+  "gsc_productNum" : 7643,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180926/7643/54792/large/ab16ac7cc75fe2c917f2ac05fdc6c688.jpg",
+  "name" : {
+    "en" : "Nendoroid Kurose Riku",
+    "ja" : "ねんどろいど 黒瀬陸 (ねんどろいど くろせりく)",
+    "ko" : "쿠로세 리쿠"
   },
-  "series": {
-    "ko": "텐카운트",
-    "ja": "テンカウント",
-    "en": "TEN COUNT"
-  },
-  "gsc_productNum": 7643,
-  "price": 4888,
-  "release_date": [
+  "num" : "1004",
+  "price" : 4888,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180926/7643/54792/large/ab16ac7cc75fe2c917f2ac05fdc6c688.jpg",
-  "gender": "M",
-  "set": 195
+  "series" : {
+    "en" : "TEN COUNT",
+    "ja" : "テンカウント",
+    "ko" : "텐카운트"
+  },
+  "set" : 195
 }

@@ -1,21 +1,21 @@
 {
-  "num": "054b",
-  "name": {
-    "ko": "히이라기 츠카사 통상 Ver.",
-    "ja": "ねんどろいど　柊つかさ　通常Ver. (ひいらぎつかさ つうじょうばーじょん　ねんどろいど)",
-    "en": "Nendoroid Tsukasa Hiiragi Normal Ver. (ひいらぎつかさ つうじょうばーじょん　ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 2206,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2206/6096/large/2580c330e881e0412c2c359fc9ad9913.jpg",
+  "name" : {
+    "en" : "Nendoroid Tsukasa Hiiragi Normal Ver. (ひいらぎつかさ つうじょうばーじょん　ねんどろいど)",
+    "ja" : "ねんどろいど　柊つかさ　通常Ver. (ひいらぎつかさ つうじょうばーじょん　ねんどろいど)",
+    "ko" : "히이라기 츠카사 통상 Ver."
   },
-  "series": {
-    "ko": "럭키스타",
-    "ja": "TVアニメ らき☆すた",
-    "en": "Lucky Star"
-  },
-  "gsc_productNum": 2206,
-  "price": 3667,
-  "release_date": [
+  "num" : "054b",
+  "price" : 3667,
+  "release_date" : [
     "2009/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2206/6096/large/2580c330e881e0412c2c359fc9ad9913.jpg",
-  "gender": "F",
-  "set": 9
+  "series" : {
+    "en" : "Lucky Star",
+    "ja" : "TVアニメ らき☆すた",
+    "ko" : "럭키스타"
+  },
+  "set" : 9
 }

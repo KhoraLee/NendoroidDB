@@ -1,21 +1,21 @@
 {
-  "num": "962",
-  "name": {
-    "ko": "캣우먼 센코쿠 에디션",
-    "ja": "ねんどろいど キャットウーマン ニンジャ・エディション (ねんどろいど きゃっとうーまん にんじゃ・えでぃしょん)",
-    "en": "Nendoroid Catwoman: Ninja Edition"
+  "gender" : "F",
+  "gsc_productNum" : 7463,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180720/7463/53375/large/1e55fb0cc25724e459d44098167a7daf.jpg",
+  "name" : {
+    "en" : "Nendoroid Catwoman: Ninja Edition",
+    "ja" : "ねんどろいど キャットウーマン ニンジャ・エディション (ねんどろいど きゃっとうーまん にんじゃ・えでぃしょん)",
+    "ko" : "캣우먼 센코쿠 에디션"
   },
-  "series": {
-    "ko": "닌자 배트맨",
-    "ja": "ニンジャバットマン",
-    "en": "Batman Ninja"
-  },
-  "gsc_productNum": 7463,
-  "price": 5297,
-  "release_date": [
+  "num" : "962",
+  "price" : 5297,
+  "release_date" : [
     "2019/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180720/7463/53375/large/1e55fb0cc25724e459d44098167a7daf.jpg",
-  "gender": "F",
-  "set": 186
+  "series" : {
+    "en" : "Batman Ninja",
+    "ja" : "ニンジャバットマン",
+    "ko" : "닌자 배트맨"
+  },
+  "set" : 186
 }

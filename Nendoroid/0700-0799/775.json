@@ -1,22 +1,22 @@
 {
-  "num": "775",
-  "name": {
-    "ko": "엘빈 스미스",
-    "ja": "ねんどろいど エルヴィン・スミス (ねんどろいど えるゔぃん・すみす)",
-    "en": "Nendoroid Erwin Smith"
+  "gender" : "M",
+  "gsc_productNum" : 6468,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170526/6468/45615/large/a3afdbb463a534374c778eca224b2589.jpg",
+  "name" : {
+    "en" : "Nendoroid Erwin Smith",
+    "ja" : "ねんどろいど エルヴィン・スミス (ねんどろいど えるゔぃん・すみす)",
+    "ko" : "엘빈 스미스"
   },
-  "series": {
-    "ko": "진격의 거인",
-    "ja": "進撃の巨人",
-    "en": "Attack on Titan"
-  },
-  "gsc_productNum": 6468,
-  "price": 4888,
-  "release_date": [
+  "num" : "775",
+  "price" : 4888,
+  "release_date" : [
     "2018/01",
     "2023/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170526/6468/45615/large/a3afdbb463a534374c778eca224b2589.jpg",
-  "gender": "M",
-  "set": 87
+  "series" : {
+    "en" : "Attack on Titan",
+    "ja" : "進撃の巨人",
+    "ko" : "진격의 거인"
+  },
+  "set" : 87
 }

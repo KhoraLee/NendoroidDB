@@ -1,21 +1,21 @@
 {
-  "num": "1126",
-  "name": {
-    "ko": "유지오",
-    "ja": "ねんどろいど ユージオ (ねんどろいど ゆーじお)",
-    "en": "Nendoroid Eugeo"
+  "gender" : "M",
+  "gsc_productNum" : 8271,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190423/8271/59880/large/813e4a21de34758d0821d39e60cc787e.jpg",
+  "name" : {
+    "en" : "Nendoroid Eugeo",
+    "ja" : "ねんどろいど ユージオ (ねんどろいど ゆーじお)",
+    "ko" : "유지오"
   },
-  "series": {
-    "ko": "소드 아트 온라인",
-    "ja": "ソードアート・オンライン アリシゼーション",
-    "en": "Sword Art Online: Alicization"
-  },
-  "gsc_productNum": 8271,
-  "price": 5000,
-  "release_date": [
+  "num" : "1126",
+  "price" : 5000,
+  "release_date" : [
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190423/8271/59880/large/813e4a21de34758d0821d39e60cc787e.jpg",
-  "gender": "M",
-  "set": 70
+  "series" : {
+    "en" : "Sword Art Online: Alicization",
+    "ja" : "ソードアート・オンライン アリシゼーション",
+    "ko" : "소드 아트 온라인"
+  },
+  "set" : 70
 }

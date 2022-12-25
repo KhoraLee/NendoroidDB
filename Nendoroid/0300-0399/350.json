@@ -1,21 +1,21 @@
 {
-  "num": "350",
-  "name": {
-    "ko": "란카 리",
-    "ja": "ねんどろいど ランカ・リー (ねんどろいど らんか・りー)",
-    "en": "Nendoroid Ranka Lee (ねんどろいど らんか・りー)"
+  "gender" : "F",
+  "gsc_productNum" : 3989,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130712/3989/25091/large/804fa8590059967da88348455f40a9a3.jpg",
+  "name" : {
+    "en" : "Nendoroid Ranka Lee (ねんどろいど らんか・りー)",
+    "ja" : "ねんどろいど ランカ・リー (ねんどろいど らんか・りー)",
+    "ko" : "란카 리"
   },
-  "series": {
-    "ko": "마크로스 프런티어",
-    "ja": "マクロスF（フロンティア）",
-    "en": "Macross Frontier"
-  },
-  "gsc_productNum": 3989,
-  "price": 3667,
-  "release_date": [
+  "num" : "350",
+  "price" : 3667,
+  "release_date" : [
     "2013/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130712/3989/25091/large/804fa8590059967da88348455f40a9a3.jpg",
-  "gender": "F",
-  "set": 82
+  "series" : {
+    "en" : "Macross Frontier",
+    "ja" : "マクロスF（フロンティア）",
+    "ko" : "마크로스 프런티어"
+  },
+  "set" : 82
 }

@@ -1,21 +1,21 @@
 {
-  "num": "113",
-  "name": {
-    "ko": "아네가사키 네네",
-    "ja": "ねんどろいど 姉ヶ崎寧々 (ねんどろいど あねがさきねね)",
-    "en": "Nendoroid Nene Anegasaki (ねんどろいど あねがさきねね)"
+  "gender" : "F",
+  "gsc_productNum" : 2897,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100628/2897/10566/large/b0921c2600b4c70909cb082d206f81a7.jpg",
+  "name" : {
+    "en" : "Nendoroid Nene Anegasaki (ねんどろいど あねがさきねね)",
+    "ja" : "ねんどろいど 姉ヶ崎寧々 (ねんどろいど あねがさきねね)",
+    "ko" : "아네가사키 네네"
   },
-  "series": {
-    "ko": "러브 플러스",
-    "ja": "ラブプラス",
-    "en": "Love Plus"
-  },
-  "gsc_productNum": 2897,
-  "price": 3667,
-  "release_date": [
+  "num" : "113",
+  "price" : 3667,
+  "release_date" : [
     "2010/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100628/2897/10566/large/b0921c2600b4c70909cb082d206f81a7.jpg",
-  "gender": "F",
-  "set": 34
+  "series" : {
+    "en" : "Love Plus",
+    "ja" : "ラブプラス",
+    "ko" : "러브 플러스"
+  },
+  "set" : 34
 }

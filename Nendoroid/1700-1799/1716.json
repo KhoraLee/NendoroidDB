@@ -1,20 +1,20 @@
 {
-  "num": "1716",
-  "name": {
-    "ko": "스파이더맨",
-    "ja": "ねんどろいど スパイダーマン (東映バージョン) (ねんどろいど すぱいだーまん (とうえいばーじょん))",
-    "en": "Nendoroid Spider-Man (Toei Version)"
+  "gender" : "M",
+  "gsc_productNum" : 11791,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210916/11791/89980/large/d036cc9d88850d2642221848f2d1506e.jpg",
+  "name" : {
+    "en" : "Nendoroid Spider-Man (Toei Version)",
+    "ja" : "ねんどろいど スパイダーマン (東映バージョン) (ねんどろいど すぱいだーまん (とうえいばーじょん))",
+    "ko" : "스파이더맨"
   },
-  "series": {
-    "ko": "특촬 스파이더맨",
-    "ja": "『スパイダーマン』東映TVシリーズ",
-    "en": "Toei TV Series \"Spider-Man\""
-  },
-  "gsc_productNum": 11791,
-  "price": 8000,
-  "release_date": [
+  "num" : "1716",
+  "price" : 8000,
+  "release_date" : [
     "2022/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210916/11791/89980/large/d036cc9d88850d2642221848f2d1506e.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Toei TV Series \"Spider-Man\"",
+    "ja" : "『スパイダーマン』東映TVシリーズ",
+    "ko" : "특촬 스파이더맨"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1534",
-  "name": {
-    "ko": "오가타 하쿠노스케",
-    "ja": "ねんどろいど 尾形百之助 (ねんどろいど おがたひゃくのすけ)",
-    "en": "Nendoroid Hyakunosuke Ogata"
+  "gender" : "M",
+  "gsc_productNum" : 10562,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201215/10562/78939/large/d689ddc185f1b514441438e106a55113.jpg",
+  "name" : {
+    "en" : "Nendoroid Hyakunosuke Ogata",
+    "ja" : "ねんどろいど 尾形百之助 (ねんどろいど おがたひゃくのすけ)",
+    "ko" : "오가타 하쿠노스케"
   },
-  "series": {
-    "ko": "골든 카무이",
-    "ja": "TVアニメ『ゴールデンカムイ』",
-    "en": "Golden Kamuy"
-  },
-  "gsc_productNum": 10562,
-  "price": 5500,
-  "release_date": [
+  "num" : "1534",
+  "price" : 5500,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201215/10562/78939/large/d689ddc185f1b514441438e106a55113.jpg",
-  "gender": "M",
-  "set": 172
+  "series" : {
+    "en" : "Golden Kamuy",
+    "ja" : "TVアニメ『ゴールデンカムイ』",
+    "ko" : "골든 카무이"
+  },
+  "set" : 172
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1620",
-  "name": {
-    "ko": "말레우스 드라코니아",
-    "ja": "ねんどろいど マレウス・ドラコニア (ねんどろいど まれうす・どらこにあ)",
-    "en": "Nendoroid Malleus Draconia"
+  "gsc_productNum" : 11190,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210513/11190/84613/large/5e0b48b3615d4f34ee948d93af1abd6b.jpg",
+  "name" : {
+    "en" : "Nendoroid Malleus Draconia",
+    "ja" : "ねんどろいど マレウス・ドラコニア (ねんどろいど まれうす・どらこにあ)",
+    "ko" : "말레우스 드라코니아"
   },
-  "series": {
-    "ko": "디즈니 트위스티드 원더랜드",
-    "ja": "『ディズニー ツイステッドワンダーランド』",
-    "en": "Disney Twisted-Wonderland"
-  },
-  "gsc_productNum": 11190,
-  "price": 6600,
-  "release_date": [
+  "num" : "1620",
+  "price" : 6600,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210513/11190/84613/large/5e0b48b3615d4f34ee948d93af1abd6b.jpg",
-  "set": 250
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 250
 }

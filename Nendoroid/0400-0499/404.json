@@ -1,21 +1,21 @@
 {
-  "num": "404",
-  "name": {
-    "ko": "하네카와 츠바사",
-    "ja": "ねんどろいど 羽川翼 (ねんどろいど はねかわつばさ)",
-    "en": "Nendoroid Tsubasa Hanekawa (ねんどろいど はねかわつばさ)"
+  "gender" : "F",
+  "gsc_productNum" : 4257,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140317/4257/28141/large/a29206aed3b51e8b6a8e195481f43ea6.jpg",
+  "name" : {
+    "en" : "Nendoroid Tsubasa Hanekawa (ねんどろいど はねかわつばさ)",
+    "ja" : "ねんどろいど 羽川翼 (ねんどろいど はねかわつばさ)",
+    "ko" : "하네카와 츠바사"
   },
-  "series": {
-    "ko": "모노가타리 시리즈",
-    "ja": "化物語",
-    "en": "Bakemonogatari"
-  },
-  "gsc_productNum": 4257,
-  "price": 3972,
-  "release_date": [
+  "num" : "404",
+  "price" : 3972,
+  "release_date" : [
     "2014/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140317/4257/28141/large/a29206aed3b51e8b6a8e195481f43ea6.jpg",
-  "gender": "F",
-  "set": 83
+  "series" : {
+    "en" : "Bakemonogatari",
+    "ja" : "化物語",
+    "ko" : "모노가타리 시리즈"
+  },
+  "set" : 83
 }

@@ -1,21 +1,21 @@
 {
-  "num": "849",
-  "name": {
-    "ko": "카츠키 유리 사복 Ver.",
-    "ja": "ねんどろいど 勝生勇利 私服Ver. (ねんどろいど かつきゆうり しふくVer.)",
-    "en": "Nendoroid Yuri Katsuki: Casual Ver."
+  "gender" : "M",
+  "gsc_productNum" : 6862,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171114/6862/48678/large/8ad06156b28e740e51bc30f680eb48b3.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuri Katsuki: Casual Ver.",
+    "ja" : "ねんどろいど 勝生勇利 私服Ver. (ねんどろいど かつきゆうり しふくVer.)",
+    "ko" : "카츠키 유리 사복 Ver."
   },
-  "series": {
-    "ko": "유리!!! on ICE",
-    "ja": "ユーリ!!! on ICE",
-    "en": "YURI ON ICE"
-  },
-  "gsc_productNum": 6862,
-  "price": 4278,
-  "release_date": [
+  "num" : "849",
+  "price" : 4278,
+  "release_date" : [
     "2018/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171114/6862/48678/large/8ad06156b28e740e51bc30f680eb48b3.jpg",
-  "gender": "M",
-  "set": 151
+  "series" : {
+    "en" : "YURI ON ICE",
+    "ja" : "ユーリ!!! on ICE",
+    "ko" : "유리!!! on ICE"
+  },
+  "set" : 151
 }

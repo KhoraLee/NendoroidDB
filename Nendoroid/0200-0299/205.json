@@ -1,21 +1,21 @@
 {
-  "num": "205",
-  "name": {
-    "ko": "샬롯 E. 예거",
-    "ja": "ねんどろいど シャーロット・E・イェーガー (ねんどろいど しゃーろっと・E・いぇーがー)",
-    "en": "Nendoroid Charlotte E. Yeager (ねんどろいど しゃーろっと・E・いぇーがー)"
+  "gender" : "F",
+  "gsc_productNum" : 3327,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111026/3327/15954/large/a964f05e0053075c3c3f18dd8f289acc.jpg",
+  "name" : {
+    "en" : "Nendoroid Charlotte E. Yeager (ねんどろいど しゃーろっと・E・いぇーがー)",
+    "ja" : "ねんどろいど シャーロット・E・イェーガー (ねんどろいど しゃーろっと・E・いぇーがー)",
+    "ko" : "샬롯 E. 예거"
   },
-  "series": {
-    "ko": "스트라이크 위치스",
-    "ja": "ストライクウィッチーズ",
-    "en": "Strike Witches"
-  },
-  "gsc_productNum": 3327,
-  "price": 4190,
-  "release_date": [
+  "num" : "205",
+  "price" : 4190,
+  "release_date" : [
     "2012/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111026/3327/15954/large/a964f05e0053075c3c3f18dd8f289acc.jpg",
-  "gender": "F",
-  "set": 16
+  "series" : {
+    "en" : "Strike Witches",
+    "ja" : "ストライクウィッチーズ",
+    "ko" : "스트라이크 위치스"
+  },
+  "set" : 16
 }

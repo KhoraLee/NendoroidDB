@@ -1,20 +1,20 @@
 {
-  "num": "1619",
-  "name": {
-    "ko": "도미자 마유미",
-    "ja": "ねんどろいど 瞳島眉美 (ねんどろいど どうじままゆみ)",
-    "en": "Nendoroid Mayumi Doujima"
+  "gender" : "M",
+  "gsc_productNum" : 11131,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210422/11131/83981/large/ae4dd882f2a352de3c1615f1a4dfe3e0.jpg",
+  "name" : {
+    "en" : "Nendoroid Mayumi Doujima",
+    "ja" : "ねんどろいど 瞳島眉美 (ねんどろいど どうじままゆみ)",
+    "ko" : "도미자 마유미"
   },
-  "series": {
-    "ko": "미소년 탐정단",
-    "ja": "美少年探偵団",
-    "en": "Pretty Boy Detective Club"
-  },
-  "gsc_productNum": 11131,
-  "price": 5500,
-  "release_date": [
+  "num" : "1619",
+  "price" : 5500,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210422/11131/83981/large/ae4dd882f2a352de3c1615f1a4dfe3e0.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Pretty Boy Detective Club",
+    "ja" : "美少年探偵団",
+    "ko" : "미소년 탐정단"
+  }
 }

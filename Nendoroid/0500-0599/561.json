@@ -1,21 +1,21 @@
 {
-  "num": "561",
-  "name": {
-    "ko": "에이라 일마타르 유틸라이넨",
-    "ja": "ねんどろいど エイラ・イルマタル・ユーティライネン (ねんどろいど えいら・いるまたる・ゆーてぃらいねん)",
-    "en": "Nendoroid Eila Ilmatar Juutilainen"
+  "gender" : "F",
+  "gsc_productNum" : 5221,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150908/5221/35435/large/bdf7dbc7f6417a3e4fb71671b3065ecd.jpg",
+  "name" : {
+    "en" : "Nendoroid Eila Ilmatar Juutilainen",
+    "ja" : "ねんどろいど エイラ・イルマタル・ユーティライネン (ねんどろいど えいら・いるまたる・ゆーてぃらいねん)",
+    "ko" : "에이라 일마타르 유틸라이넨"
   },
-  "series": {
-    "ko": "스트라이크 위치스",
-    "ja": "ストライクウィッチーズ2",
-    "en": "Strike Witches 2"
-  },
-  "gsc_productNum": 5221,
-  "price": 4620,
-  "release_date": [
+  "num" : "561",
+  "price" : 4620,
+  "release_date" : [
     "2016/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150908/5221/35435/large/bdf7dbc7f6417a3e4fb71671b3065ecd.jpg",
-  "gender": "F",
-  "set": 16
+  "series" : {
+    "en" : "Strike Witches 2",
+    "ja" : "ストライクウィッチーズ2",
+    "ko" : "스트라이크 위치스"
+  },
+  "set" : 16
 }

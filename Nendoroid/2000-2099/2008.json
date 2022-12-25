@@ -1,21 +1,21 @@
 {
-  "num": "2008",
-  "name": {
-    "ja": "ねんどろいど 白銀ノエル (ねんどろいど しろがねのえる)",
-    "en": "Nendoroid Shirogane Noel",
-    "ko": "시로가네 노엘"
+  "gender" : "F",
+  "gsc_productNum" : 13581,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221121/13581/107548/large/72a9abddac3a72fe58117c20f6247f3a.jpg",
+  "name" : {
+    "en" : "Nendoroid Shirogane Noel",
+    "ja" : "ねんどろいど 白銀ノエル (ねんどろいど しろがねのえる)",
+    "ko" : "시로가네 노엘"
   },
-  "series": {
-    "ja": "ホロライブプロダクション",
-    "en": "hololive production",
-    "ko": "홀로라이브"
-  },
-  "gsc_productNum": 13581,
-  "price": 6900,
-  "release_date": [
+  "num" : "2008",
+  "price" : 6900,
+  "release_date" : [
     "2023/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221121/13581/107548/large/72a9abddac3a72fe58117c20f6247f3a.jpg",
-  "gender": "F",
-  "set": 262
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브"
+  },
+  "set" : 262
 }

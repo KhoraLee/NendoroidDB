@@ -1,21 +1,21 @@
 {
-  "num": "1303",
-  "name": {
-    "ko": "록리",
-    "ja": "ねんどろいど ロック・リー (ねんどろいど ろっく・りー)",
-    "en": "Nendoroid Rock Lee"
+  "gender" : "M",
+  "gsc_productNum" : 9331,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200305/9331/68161/large/f68fd500b77162d931f9a9c98ef6221c.jpg",
+  "name" : {
+    "en" : "Nendoroid Rock Lee",
+    "ja" : "ねんどろいど ロック・リー (ねんどろいど ろっく・りー)",
+    "ko" : "록리"
   },
-  "series": {
-    "ko": "나루토",
-    "ja": "NARUTO -ナルト- 疾風伝",
-    "en": "Naruto Shippuden"
-  },
-  "gsc_productNum": 9331,
-  "price": 5500,
-  "release_date": [
+  "num" : "1303",
+  "price" : 5500,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200305/9331/68161/large/f68fd500b77162d931f9a9c98ef6221c.jpg",
-  "gender": "M",
-  "set": 144
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  },
+  "set" : 144
 }

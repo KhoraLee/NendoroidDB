@@ -1,20 +1,20 @@
 {
-  "num": "1918",
-  "name": {
-    "ja": "ねんどろいど 重楼 (ねんどろいど じゅうろう)",
-    "en": "Nendoroid Chong Lou",
-    "ko": "중루"
+  "gender" : "M",
+  "gsc_productNum" : 12958,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220711/12958/101307/large/538d7fc49f8dc94dd899869cf0e8061b.jpg",
+  "name" : {
+    "en" : "Nendoroid Chong Lou",
+    "ja" : "ねんどろいど 重楼 (ねんどろいど じゅうろう)",
+    "ko" : "중루"
   },
-  "series": {
-    "ja": "仙剣奇侠伝",
-    "en": "Legend of Sword and Fairy",
-    "ko": "선검기협전"
-  },
-  "gsc_productNum": 12958,
-  "price": 7800,
-  "release_date": [
+  "num" : "1918",
+  "price" : 7800,
+  "release_date" : [
     "2023/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220711/12958/101307/large/538d7fc49f8dc94dd899869cf0e8061b.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Legend of Sword and Fairy",
+    "ja" : "仙剣奇侠伝",
+    "ko" : "선검기협전"
+  }
 }

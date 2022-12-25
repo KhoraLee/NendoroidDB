@@ -1,21 +1,21 @@
 {
-  "num": "1618-DX",
-  "name": {
-    "ko": "팔콘 DX",
-    "ja": "ねんどろいど キャプテン・アメリカ (サム・ウィルソン) DX (ねんどろいど きゃぷてん・あめりか (さむ・うぃるそん) DX)",
-    "en": "Nendoroid Captain America (Sam Wilson) DX"
+  "gender" : "M",
+  "gsc_productNum" : 11127,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210422/11127/89520/large/5e3cbf016dec4da094000ff720571147.jpg",
+  "name" : {
+    "en" : "Nendoroid Captain America (Sam Wilson) DX",
+    "ja" : "ねんどろいど キャプテン・アメリカ (サム・ウィルソン) DX (ねんどろいど きゃぷてん・あめりか (さむ・うぃるそん) DX)",
+    "ko" : "팔콘 DX"
   },
-  "series": {
-    "ko": "팔콘과 윈터솔져",
-    "ja": "ファルコン\u0026ウィンター・ソルジャー",
-    "en": "The Falcon and The Winter Soldier"
-  },
-  "gsc_productNum": 11127,
-  "price": 8000,
-  "release_date": [
+  "num" : "1618-DX",
+  "price" : 8000,
+  "release_date" : [
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210422/11127/89520/large/5e3cbf016dec4da094000ff720571147.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "The Falcon and The Winter Soldier",
+    "ja" : "ファルコン&ウィンター・ソルジャー",
+    "ko" : "팔콘과 윈터솔져"
+  },
+  "set" : 63
 }

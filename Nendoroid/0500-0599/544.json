@@ -1,18 +1,14 @@
 {
-  "num": "544",
-  "name": {
-    "ko": "커비",
-    "ja": "ねんどろいど カービィ (ねんどろいど かーびぃ)",
-    "en": "Nendoroid Kirby"
+  "gsc_productNum" : 5207,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150828/5207/45989/large/83f08ef3e28ea6d6f9180fc7c6df86eb.jpg",
+  "name" : {
+    "en" : "Nendoroid Kirby",
+    "ja" : "ねんどろいど カービィ (ねんどろいど かーびぃ)",
+    "ko" : "커비"
   },
-  "series": {
-    "ko": "별의 커비",
-    "ja": "星のカービィ",
-    "en": "Kirby"
-  },
-  "gsc_productNum": 5207,
-  "price": 4584,
-  "release_date": [
+  "num" : "544",
+  "price" : 4584,
+  "release_date" : [
     "2016/01",
     "2016/06",
     "2017/12",
@@ -20,6 +16,10 @@
     "2020/08",
     "2021/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150828/5207/45989/large/83f08ef3e28ea6d6f9180fc7c6df86eb.jpg",
-  "set": 121
+  "series" : {
+    "en" : "Kirby",
+    "ja" : "星のカービィ",
+    "ko" : "별의 커비"
+  },
+  "set" : 121
 }

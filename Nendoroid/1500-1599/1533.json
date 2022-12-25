@@ -1,21 +1,21 @@
 {
-  "num": "1533",
-  "name": {
-    "ko": "키노모토 사쿠라 Always Together\r\n~ Pinky Promise ~",
-    "ja": "ねんどろいど 木之本桜 Always Together ～ Pinky Promise ～ (ねんどろいど きのもとさくら おーるうぇいず とぅぎゃざー ～ ぴんきー ぷろみす ～)",
-    "en": "Nendoroid Sakura Kinomoto: Always Together ~Pinky Promise~"
+  "gender" : "F",
+  "gsc_productNum" : 10498,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201207/10498/78298/large/d253c61059d59ed8458a00e0f7362154.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Kinomoto: Always Together ~Pinky Promise~",
+    "ja" : "ねんどろいど 木之本桜 Always Together ～ Pinky Promise ～ (ねんどろいど きのもとさくら おーるうぇいず とぅぎゃざー ～ ぴんきー ぷろみす ～)",
+    "ko" : "키노모토 사쿠라 Always Together\r\n~ Pinky Promise ~"
   },
-  "series": {
-    "ko": "카드캡터 사쿠라",
-    "ja": "カードキャプターさくら",
-    "en": "Cardcaptor Sakura"
-  },
-  "gsc_productNum": 10498,
-  "price": 6500,
-  "release_date": [
+  "num" : "1533",
+  "price" : 6500,
+  "release_date" : [
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201207/10498/78298/large/d253c61059d59ed8458a00e0f7362154.jpg",
-  "gender": "F",
-  "set": 94
+  "series" : {
+    "en" : "Cardcaptor Sakura",
+    "ja" : "カードキャプターさくら",
+    "ko" : "카드캡터 사쿠라"
+  },
+  "set" : 94
 }

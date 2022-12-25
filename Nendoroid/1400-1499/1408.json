@@ -1,22 +1,22 @@
 {
-  "num": "1408",
-  "name": {
-    "ko": "토미오카 기유",
-    "ja": "ねんどろいど 冨岡義勇 (ねんどろいど とみおかぎゆう)",
-    "en": "Nendoroid Giyu Tomioka"
+  "gender" : "M",
+  "gsc_productNum" : 9778,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200715/9778/71978/large/fcd76aa622428e1a045356c24cc7a1de.jpg",
+  "name" : {
+    "en" : "Nendoroid Giyu Tomioka",
+    "ja" : "ねんどろいど 冨岡義勇 (ねんどろいど とみおかぎゆう)",
+    "ko" : "토미오카 기유"
   },
-  "series": {
-    "ko": "귀멸의 칼날",
-    "ja": "鬼滅の刃",
-    "en": "Demon Slayer: Kimetsu no Yaiba"
-  },
-  "gsc_productNum": 9778,
-  "price": 5900,
-  "release_date": [
+  "num" : "1408",
+  "price" : 5900,
+  "release_date" : [
     "2021/01",
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200715/9778/71978/large/fcd76aa622428e1a045356c24cc7a1de.jpg",
-  "gender": "M",
-  "set": 222
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "set" : 222
 }

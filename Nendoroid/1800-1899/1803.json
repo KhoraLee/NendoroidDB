@@ -1,21 +1,21 @@
 {
-  "num": "1803",
-  "name": {
-    "ko": "슈가",
-    "ja": "ねんどろいど SUGA",
-    "en": "Nendoroid SUGA"
+  "gender" : "M",
+  "gsc_productNum" : 12184,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211227/12184/93839/large/a8404176e38782ce320012051f8aed35.jpg",
+  "name" : {
+    "en" : "Nendoroid SUGA",
+    "ja" : "ねんどろいど SUGA",
+    "ko" : "슈가"
   },
-  "series": {
-    "ko": "방탄소년단",
-    "ja": "TinyTAN",
-    "en": "TinyTAN"
-  },
-  "gsc_productNum": 12184,
-  "price": 5000,
-  "release_date": [
+  "num" : "1803",
+  "price" : 5000,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211227/12184/93839/large/a8404176e38782ce320012051f8aed35.jpg",
-  "gender": "M",
-  "set": 282
+  "series" : {
+    "en" : "TinyTAN",
+    "ja" : "TinyTAN",
+    "ko" : "방탄소년단"
+  },
+  "set" : 282
 }

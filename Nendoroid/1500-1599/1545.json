@@ -1,21 +1,21 @@
 {
-  "num": "1545",
-  "name": {
-    "ko": "수수께끼의 히로인 X[얼터]",
-    "ja": "ねんどろいど バーサーカー/謎のヒロインX〔オルタ〕 (ねんどろいど ばーさーかー/なぞのひろいんえっくす〔おるた〕)",
-    "en": "Nendoroid Berserker/Mysterious Heroine X (Alter)"
+  "gender" : "F",
+  "gsc_productNum" : 10629,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201222/10629/79338/large/ce044da3d83ae2d2b1178fe4fe5412af.jpg",
+  "name" : {
+    "en" : "Nendoroid Berserker/Mysterious Heroine X (Alter)",
+    "ja" : "ねんどろいど バーサーカー/謎のヒロインX〔オルタ〕 (ねんどろいど ばーさーかー/なぞのひろいんえっくす〔おるた〕)",
+    "ko" : "수수께끼의 히로인 X[얼터]"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 10629,
-  "price": 5800,
-  "release_date": [
+  "num" : "1545",
+  "price" : 5800,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201222/10629/79338/large/ce044da3d83ae2d2b1178fe4fe5412af.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

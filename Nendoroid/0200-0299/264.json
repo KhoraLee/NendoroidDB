@@ -1,21 +1,21 @@
 {
-  "num": "264",
-  "name": {
-    "ko": "렌",
-    "ja": "ねんどろいど レン (ねんどろいど れん)",
-    "en": "Nendoroid Renne (ねんどろいど れん)"
+  "gender" : "F",
+  "gsc_productNum" : 3620,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120723/3620/19651/large/0a210fd55e4f972b922caffb101dfce6.jpg",
+  "name" : {
+    "en" : "Nendoroid Renne (ねんどろいど れん)",
+    "ja" : "ねんどろいど レン (ねんどろいど れん)",
+    "ko" : "렌"
   },
-  "series": {
-    "ko": "영웅전설 하늘의 궤적 SC",
-    "ja": "英雄伝説 空の軌跡SC",
-    "en": "The Legend of Heroes: Trails in the Sky - Second Chapter"
-  },
-  "gsc_productNum": 3620,
-  "price": 3667,
-  "release_date": [
+  "num" : "264",
+  "price" : 3667,
+  "release_date" : [
     "2012/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120723/3620/19651/large/0a210fd55e4f972b922caffb101dfce6.jpg",
-  "gender": "F",
-  "set": 56
+  "series" : {
+    "en" : "The Legend of Heroes: Trails in the Sky - Second Chapter",
+    "ja" : "英雄伝説 空の軌跡SC",
+    "ko" : "영웅전설 하늘의 궤적 SC"
+  },
+  "set" : 56
 }

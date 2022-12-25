@@ -1,22 +1,22 @@
 {
-  "num": "639",
-  "name": {
-    "ko": "스즈카제 아오바",
-    "ja": "ねんどろいど 涼風青葉 (ねんどろいど すずかぜあおば)",
-    "en": "Nendoroid Aoba Suzukaze"
+  "gender" : "F",
+  "gsc_productNum" : 5717,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160607/5717/39432/large/4edeba152f34a65d7b77a37e41ccc8b4.jpg",
+  "name" : {
+    "en" : "Nendoroid Aoba Suzukaze",
+    "ja" : "ねんどろいど 涼風青葉 (ねんどろいど すずかぜあおば)",
+    "ko" : "스즈카제 아오바"
   },
-  "series": {
-    "ko": "NEW GAME!",
-    "ja": "NEW GAME!",
-    "en": "NEW GAME!"
-  },
-  "gsc_productNum": 5717,
-  "price": 4481,
-  "release_date": [
+  "num" : "639",
+  "price" : 4481,
+  "release_date" : [
     "2016/10",
     "2018/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160607/5717/39432/large/4edeba152f34a65d7b77a37e41ccc8b4.jpg",
-  "gender": "F",
-  "set": 134
+  "series" : {
+    "en" : "NEW GAME!",
+    "ja" : "NEW GAME!",
+    "ko" : "NEW GAME!"
+  },
+  "set" : 134
 }

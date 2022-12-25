@@ -1,19 +1,19 @@
 {
-  "num": "1297",
-  "name": {
-    "ko": "스파이크",
-    "ja": "ねんどろいど スパイク (ねんどろいど すぱいく)",
-    "en": "Nendoroid Spike"
+  "gsc_productNum" : 9315,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200228/9315/67993/large/da675883d0020453076d14c2bd047a40.jpg",
+  "name" : {
+    "en" : "Nendoroid Spike",
+    "ja" : "ねんどろいど スパイク (ねんどろいど すぱいく)",
+    "ko" : "스파이크"
   },
-  "series": {
-    "ko": "브롤 스타즈",
-    "ja": "ブロスタ",
-    "en": "Brawl Stars"
-  },
-  "gsc_productNum": 9315,
-  "price": 5500,
-  "release_date": [
+  "num" : "1297",
+  "price" : 5500,
+  "release_date" : [
     "2020/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200228/9315/67993/large/da675883d0020453076d14c2bd047a40.jpg"
+  "series" : {
+    "en" : "Brawl Stars",
+    "ja" : "ブロスタ",
+    "ko" : "브롤 스타즈"
+  }
 }

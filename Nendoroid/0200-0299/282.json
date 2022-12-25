@@ -1,21 +1,21 @@
 {
-  "num": "282",
-  "name": {
-    "ko": "아사마 토모 제복 Ver.",
-    "ja": "ねんどろいど 浅間・智 制服Ver. (ねんどろいど あさま・とも せいふくVer.)",
-    "en": "Nendoroid Tomo Asama: Uniform ver. (ねんどろいど あさま・とも せいふくVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3774,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121204/3774/21767/large/2053f921c9bd50cfdd19a50a77209469.jpg",
+  "name" : {
+    "en" : "Nendoroid Tomo Asama: Uniform ver. (ねんどろいど あさま・とも せいふくVer.)",
+    "ja" : "ねんどろいど 浅間・智 制服Ver. (ねんどろいど あさま・とも せいふくVer.)",
+    "ko" : "아사마 토모 제복 Ver."
   },
-  "series": {
-    "ko": "경계선상의 호라이즌",
-    "ja": "境界線上のホライゾン PORTABLE",
-    "en": "Horizon in the Middle of Nowhere"
-  },
-  "gsc_productNum": 3774,
-  "price": 10978,
-  "release_date": [
+  "num" : "282",
+  "price" : 10978,
+  "release_date" : [
     "2013/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121204/3774/21767/large/2053f921c9bd50cfdd19a50a77209469.jpg",
-  "gender": "F",
-  "set": 69
+  "series" : {
+    "en" : "Horizon in the Middle of Nowhere",
+    "ja" : "境界線上のホライゾン PORTABLE",
+    "ko" : "경계선상의 호라이즌"
+  },
+  "set" : 69
 }

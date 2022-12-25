@@ -1,21 +1,21 @@
 {
-  "num": "168a",
-  "name": {
-    "ko": "아이리",
-    "ja": "ねんどろいど アイリ (ねんどろいど あいり)",
-    "en": "Nendoroid Airi (ねんどろいど あいり)"
+  "gender" : "F",
+  "gsc_productNum" : 3111,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110309/3111/13175/large/ec0e6b9c295cb109fb598b1d9ba76bc4.jpg",
+  "name" : {
+    "en" : "Nendoroid Airi (ねんどろいど あいり)",
+    "ja" : "ねんどろいど アイリ (ねんどろいど あいり)",
+    "ko" : "아이리"
   },
-  "series": {
-    "ko": "퀸즈 블레이드",
-    "ja": "クイーンズブレイド",
-    "en": "Queen\u0027s Blade"
-  },
-  "gsc_productNum": 3111,
-  "price": 3667,
-  "release_date": [
+  "num" : "168a",
+  "price" : 3667,
+  "release_date" : [
     "2011/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110309/3111/13175/large/ec0e6b9c295cb109fb598b1d9ba76bc4.jpg",
-  "gender": "F",
-  "set": 35
+  "series" : {
+    "en" : "Queen's Blade",
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
 }

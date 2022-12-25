@@ -1,21 +1,21 @@
 {
-  "num": "1672b",
-  "name": {
-    "ko": "블라디레나 밀리제:블러디 레지나 Ver.",
-    "ja": "ねんどろいど ヴラディレーナ・ミリーゼ ブラッディレジーナVer. (ねんどろいど ゔらでぃれーな・みりーぜ ぶらっでぃれじーなVer.)",
-    "en": "Nendoroid Vladilena Milizé: Bloody Regina Ver."
+  "gender" : "F",
+  "gsc_productNum" : 12431,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220304/12431/96177/large/81ebd12f72b065f1154f8805ec8e67f3.jpg",
+  "name" : {
+    "en" : "Nendoroid Vladilena Milizé: Bloody Regina Ver.",
+    "ja" : "ねんどろいど ヴラディレーナ・ミリーゼ ブラッディレジーナVer. (ねんどろいど ゔらでぃれーな・みりーぜ ぶらっでぃれじーなVer.)",
+    "ko" : "블라디레나 밀리제:블러디 레지나 Ver."
   },
-  "series": {
-    "ko": "86 -에이티식스-",
-    "ja": "８６―エイティシックス―",
-    "en": "86 EIGHTY-SIX"
-  },
-  "gsc_productNum": 12431,
-  "price": 5900,
-  "release_date": [
+  "num" : "1672b",
+  "price" : 5900,
+  "release_date" : [
     "2023/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220304/12431/96177/large/81ebd12f72b065f1154f8805ec8e67f3.jpg",
-  "gender": "F",
-  "set": 267
+  "series" : {
+    "en" : "86 EIGHTY-SIX",
+    "ja" : "８６―エイティシックス―",
+    "ko" : "86 -에이티식스-"
+  },
+  "set" : 267
 }

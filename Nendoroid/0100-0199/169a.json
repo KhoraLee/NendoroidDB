@@ -1,21 +1,21 @@
 {
-  "num": "169a",
-  "name": {
-    "ko": "니크스",
-    "ja": "ねんどろいど ニクス (ねんどろいど にくす)",
-    "en": "Nendoroid Nyx (ねんどろいど にくす)"
+  "gender" : "F",
+  "gsc_productNum" : 3126,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110331/3126/13415/large/c6b0e825e668528b0d95132f6ab60d6d.jpg",
+  "name" : {
+    "en" : "Nendoroid Nyx (ねんどろいど にくす)",
+    "ja" : "ねんどろいど ニクス (ねんどろいど にくす)",
+    "ko" : "니크스"
   },
-  "series": {
-    "ko": "퀸즈 블레이드",
-    "ja": "クイーンズブレイド",
-    "en": "Queen\u0027s Blade"
-  },
-  "gsc_productNum": 3126,
-  "price": 3667,
-  "release_date": [
+  "num" : "169a",
+  "price" : 3667,
+  "release_date" : [
     "2011/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110331/3126/13415/large/c6b0e825e668528b0d95132f6ab60d6d.jpg",
-  "gender": "F",
-  "set": 35
+  "series" : {
+    "en" : "Queen's Blade",
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
 }

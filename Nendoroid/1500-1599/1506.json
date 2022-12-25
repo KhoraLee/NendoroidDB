@@ -1,21 +1,21 @@
 {
-  "num": "1506",
-  "name": {
-    "ko": "후시구로 메구미",
-    "ja": "ねんどろいど 伏黒恵 (ねんどろいど ふしぐろめぐみ)",
-    "en": "Nendoroid Megumi Fushiguro"
+  "gender" : "M",
+  "gsc_productNum" : 10413,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201119/10413/77531/large/5a9294c11fe471da3e084100331c1640.jpg",
+  "name" : {
+    "en" : "Nendoroid Megumi Fushiguro",
+    "ja" : "ねんどろいど 伏黒恵 (ねんどろいど ふしぐろめぐみ)",
+    "ko" : "후시구로 메구미"
   },
-  "series": {
-    "ko": "주술회전",
-    "ja": "呪術廻戦",
-    "en": "Jujutsu Kaisen"
-  },
-  "gsc_productNum": 10413,
-  "price": 5300,
-  "release_date": [
+  "num" : "1506",
+  "price" : 5300,
+  "release_date" : [
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201119/10413/77531/large/5a9294c11fe471da3e084100331c1640.jpg",
-  "gender": "M",
-  "set": 251
+  "series" : {
+    "en" : "Jujutsu Kaisen",
+    "ja" : "呪術廻戦",
+    "ko" : "주술회전"
+  },
+  "set" : 251
 }

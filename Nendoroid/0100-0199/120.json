@@ -1,20 +1,20 @@
 {
-  "num": "120",
-  "name": {
-    "ko": "네코 알퀘이드 얼티메이트 에디션",
-    "ja": "ねんどろいど ネコアルク　アルティメット・エディション (ねんどろいど ねこあるく　あるてぃめっと・えでぃしょん)",
-    "en": "Nendoroid Neko Arc: Ultimate Version (ねんどろいど ねこあるく　あるてぃめっと・えでぃしょん)"
+  "gsc_productNum" : 2889,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100621/2889/10543/large/1706fd3e7940c05955d631d7b0a01e54.jpg",
+  "name" : {
+    "en" : "Nendoroid Neko Arc: Ultimate Version (ねんどろいど ねこあるく　あるてぃめっと・えでぃしょん)",
+    "ja" : "ねんどろいど ネコアルク　アルティメット・エディション (ねんどろいど ねこあるく　あるてぃめっと・えでぃしょん)",
+    "ko" : "네코 알퀘이드 얼티메이트 에디션"
   },
-  "series": {
-    "ko": "MELTY BLOOD",
-    "ja": "MELTY BLOOD",
-    "en": "MELTY BLOOD"
-  },
-  "gsc_productNum": 2889,
-  "price": 3143,
-  "release_date": [
+  "num" : "120",
+  "price" : 3143,
+  "release_date" : [
     "2010/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100621/2889/10543/large/1706fd3e7940c05955d631d7b0a01e54.jpg",
-  "set": 1
+  "series" : {
+    "en" : "MELTY BLOOD",
+    "ja" : "MELTY BLOOD",
+    "ko" : "MELTY BLOOD"
+  },
+  "set" : 1
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1902",
-  "name": {
-    "ja": "ねんどろいど アーニャ・フォージャー (ねんどろいど あーにゃ・ふぉーじゃー)",
-    "en": "Nendoroid Anya Forger",
-    "ko": "아냐 포저"
+  "gender" : "F",
+  "gsc_productNum" : 12801,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220609/12801/99719/large/b5e1cf0bb0cf939d2dae0cb06240fb0e.jpg",
+  "name" : {
+    "en" : "Nendoroid Anya Forger",
+    "ja" : "ねんどろいど アーニャ・フォージャー (ねんどろいど あーにゃ・ふぉーじゃー)",
+    "ko" : "아냐 포저"
   },
-  "series": {
-    "ja": "SPY×FAMILY",
-    "en": "SPY x FAMILY",
-    "ko": "스파이 패밀리"
-  },
-  "gsc_productNum": 12801,
-  "price": 6500,
-  "release_date": [
+  "num" : "1902",
+  "price" : 6500,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220609/12801/99719/large/b5e1cf0bb0cf939d2dae0cb06240fb0e.jpg",
-  "gender": "F",
-  "set": 290
+  "series" : {
+    "en" : "SPY x FAMILY",
+    "ja" : "SPY×FAMILY",
+    "ko" : "스파이 패밀리"
+  },
+  "set" : 290
 }

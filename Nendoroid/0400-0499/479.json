@@ -1,22 +1,22 @@
 {
-  "num": "479",
-  "name": {
-    "ko": "코시노 쿄코",
-    "ja": "ねんどろいど 歳納京子 (ねんどろいど としのうきょうこ)",
-    "en": "Nendoroid Kyoko Toshino (ねんどろいど としのうきょうこ)"
+  "gender" : "F",
+  "gsc_productNum" : 4745,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141126/4745/31495/large/2487b18a7292f4cc1c77da27d9da245a.jpg",
+  "name" : {
+    "en" : "Nendoroid Kyoko Toshino (ねんどろいど としのうきょうこ)",
+    "ja" : "ねんどろいど 歳納京子 (ねんどろいど としのうきょうこ)",
+    "ko" : "코시노 쿄코"
   },
-  "series": {
-    "ko": "유루유리",
-    "ja": "ゆるゆり なちゅやちゅみ！",
-    "en": "YuruYuri Nachuyachumi!"
-  },
-  "gsc_productNum": 4745,
-  "price": 3972,
-  "release_date": [
+  "num" : "479",
+  "price" : 3972,
+  "release_date" : [
     "2015/04",
     "2016/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141126/4745/31495/large/2487b18a7292f4cc1c77da27d9da245a.jpg",
-  "gender": "F",
-  "set": 66
+  "series" : {
+    "en" : "YuruYuri Nachuyachumi!",
+    "ja" : "ゆるゆり なちゅやちゅみ！",
+    "ko" : "유루유리"
+  },
+  "set" : 66
 }

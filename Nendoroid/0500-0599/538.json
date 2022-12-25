@@ -1,21 +1,21 @@
 {
-  "num": "538",
-  "name": {
-    "ko": "라이덴 MGS2 Ver.",
-    "ja": "ねんどろいど 雷電 MGS2 Ver. (ねんどろいど らいでん MGS2Ver.)",
-    "en": "Nendoroid Raiden: MGS2 Ver. (ねんどろいど らいでん MGS2Ver.)"
+  "gender" : "M",
+  "gsc_productNum" : 5114,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150707/5114/34475/large/e5a72041d0b6a403921b9612c7df9c20.jpg",
+  "name" : {
+    "en" : "Nendoroid Raiden: MGS2 Ver. (ねんどろいど らいでん MGS2Ver.)",
+    "ja" : "ねんどろいど 雷電 MGS2 Ver. (ねんどろいど らいでん MGS2Ver.)",
+    "ko" : "라이덴 MGS2 Ver."
   },
-  "series": {
-    "ko": "메탈기어 솔리드",
-    "ja": "METAL GEAR SOLID2: SONS OF LIBERTY",
-    "en": "METAL GEAR SOLID 2: SONS OF LIBERTY"
-  },
-  "gsc_productNum": 5114,
-  "price": 5093,
-  "release_date": [
+  "num" : "538",
+  "price" : 5093,
+  "release_date" : [
     "2015/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150707/5114/34475/large/e5a72041d0b6a403921b9612c7df9c20.jpg",
-  "gender": "M",
-  "set": 107
+  "series" : {
+    "en" : "METAL GEAR SOLID 2: SONS OF LIBERTY",
+    "ja" : "METAL GEAR SOLID2: SONS OF LIBERTY",
+    "ko" : "메탈기어 솔리드"
+  },
+  "set" : 107
 }

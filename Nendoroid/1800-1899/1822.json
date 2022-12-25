@@ -1,20 +1,20 @@
 {
-  "num": "1822",
-  "name": {
-    "ko": "오로라 스야리스 카이민 공주",
-    "ja": "ねんどろいど スヤリス姫 (ねんどろいど すやりすひめ)",
-    "en": "Nendoroid Princess Syalis"
+  "gender" : "F",
+  "gsc_productNum" : 12335,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220215/12335/95322/large/ed8294fe316727cdd655c556e25a0de3.jpg",
+  "name" : {
+    "en" : "Nendoroid Princess Syalis",
+    "ja" : "ねんどろいど スヤリス姫 (ねんどろいど すやりすひめ)",
+    "ko" : "오로라 스야리스 카이민 공주"
   },
-  "series": {
-    "ko": "마왕성에서 잘 자요",
-    "ja": "魔王城でおやすみ",
-    "en": "Sleepy Princess in the Demon Castle"
-  },
-  "gsc_productNum": 12335,
-  "price": 7300,
-  "release_date": [
+  "num" : "1822",
+  "price" : 7300,
+  "release_date" : [
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220215/12335/95322/large/ed8294fe316727cdd655c556e25a0de3.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Sleepy Princess in the Demon Castle",
+    "ja" : "魔王城でおやすみ",
+    "ko" : "마왕성에서 잘 자요"
+  }
 }

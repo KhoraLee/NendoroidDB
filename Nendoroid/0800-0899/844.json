@@ -1,21 +1,21 @@
 {
-  "num": "844",
-  "name": {
-    "ko": "알파카 수리",
-    "ja": "ねんどろいど アルパカ・スリ (ねんどろいど あるぱか・すり)",
-    "en": "Nendoroid Alpaca Suri"
+  "gender" : "F",
+  "gsc_productNum" : 6848,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171107/6848/48585/large/6dccc9f4e3ff91c14d6269071ea9a03d.jpg",
+  "name" : {
+    "en" : "Nendoroid Alpaca Suri",
+    "ja" : "ねんどろいど アルパカ・スリ (ねんどろいど あるぱか・すり)",
+    "ko" : "알파카 수리"
   },
-  "series": {
-    "ko": "케모노 프렌즈",
-    "ja": "けものフレンズ",
-    "en": "Kemono Friends"
-  },
-  "gsc_productNum": 6848,
-  "price": 4584,
-  "release_date": [
+  "num" : "844",
+  "price" : 4584,
+  "release_date" : [
     "2018/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171107/6848/48585/large/6dccc9f4e3ff91c14d6269071ea9a03d.jpg",
-  "gender": "F",
-  "set": 155
+  "series" : {
+    "en" : "Kemono Friends",
+    "ja" : "けものフレンズ",
+    "ko" : "케모노 프렌즈"
+  },
+  "set" : 155
 }

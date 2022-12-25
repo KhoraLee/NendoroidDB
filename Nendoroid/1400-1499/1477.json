@@ -1,21 +1,21 @@
 {
-  "num": "1477",
-  "name": {
-    "ko": "라이프라인",
-    "ja": "ねんどろいど ライフライン (ねんどろいど らいふらいん)",
-    "en": "Nendoroid Lifeline"
+  "gender" : "F",
+  "gsc_productNum" : 10176,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201002/10176/77136/large/d15b33b1142e8331112d008d3abd18e5.jpg",
+  "name" : {
+    "en" : "Nendoroid Lifeline",
+    "ja" : "ねんどろいど ライフライン (ねんどろいど らいふらいん)",
+    "ko" : "라이프라인"
   },
-  "series": {
-    "ko": "Apex 레전드",
-    "ja": "エーペックスレジェンズ",
-    "en": "Apex Legends"
-  },
-  "gsc_productNum": 10176,
-  "price": 6100,
-  "release_date": [
+  "num" : "1477",
+  "price" : 6100,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201002/10176/77136/large/d15b33b1142e8331112d008d3abd18e5.jpg",
-  "gender": "F",
-  "set": 240
+  "series" : {
+    "en" : "Apex Legends",
+    "ja" : "エーペックスレジェンズ",
+    "ko" : "Apex 레전드"
+  },
+  "set" : 240
 }

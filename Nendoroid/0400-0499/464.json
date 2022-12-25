@@ -1,22 +1,22 @@
 {
-  "num": "464",
-  "name": {
-    "ko": "아야세 에리",
-    "ja": "ねんどろいど 絢瀬絵里 (ねんどろいど あやせえり)",
-    "en": "Nendoroid Eli Ayase (ねんどろいど あやせえり)"
+  "gender" : "F",
+  "gsc_productNum" : 4688,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141017/4688/30984/large/7b856de97b4668721ee2e00f36884bff.jpg",
+  "name" : {
+    "en" : "Nendoroid Eli Ayase (ねんどろいど あやせえり)",
+    "ja" : "ねんどろいど 絢瀬絵里 (ねんどろいど あやせえり)",
+    "ko" : "아야세 에리"
   },
-  "series": {
-    "ko": "러브라이브!",
-    "ja": "ラブライブ！",
-    "en": "LoveLive!"
-  },
-  "gsc_productNum": 4688,
-  "price": 3565,
-  "release_date": [
+  "num" : "464",
+  "price" : 3565,
+  "release_date" : [
     "2015/03",
     "2015/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141017/4688/30984/large/7b856de97b4668721ee2e00f36884bff.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 105
 }

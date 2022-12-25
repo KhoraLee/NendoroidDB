@@ -1,21 +1,21 @@
 {
-  "num": "1105",
-  "name": {
-    "ko": "앨리스 신서시스 서티",
-    "ja": "ねんどろいど アリス・シンセシス・サーティ (ねんどろいど ありす・しんせしす・さーてぃ)",
-    "en": "Nendoroid Alice Synthesis Thirty"
+  "gender" : "F",
+  "gsc_productNum" : 8175,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190319/8175/58941/large/7cdf8054fc86231e32f3b7aa02f1b4ce.jpg",
+  "name" : {
+    "en" : "Nendoroid Alice Synthesis Thirty",
+    "ja" : "ねんどろいど アリス・シンセシス・サーティ (ねんどろいど ありす・しんせしす・さーてぃ)",
+    "ko" : "앨리스 신서시스 서티"
   },
-  "series": {
-    "ko": "소드 아트 온라인",
-    "ja": "ソードアート・オンライン アリシゼーション",
-    "en": "Sword Art Online: Alicization"
-  },
-  "gsc_productNum": 8175,
-  "price": 5602,
-  "release_date": [
+  "num" : "1105",
+  "price" : 5602,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190319/8175/58941/large/7cdf8054fc86231e32f3b7aa02f1b4ce.jpg",
-  "gender": "F",
-  "set": 70
+  "series" : {
+    "en" : "Sword Art Online: Alicization",
+    "ja" : "ソードアート・オンライン アリシゼーション",
+    "ko" : "소드 아트 온라인"
+  },
+  "set" : 70
 }

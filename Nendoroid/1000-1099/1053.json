@@ -1,22 +1,22 @@
 {
-  "num": "1053",
-  "name": {
-    "ko": "레그",
-    "ja": "ねんどろいど レグ (ねんどろいど れぐ)",
-    "en": "Nendoroid Reg"
+  "gender" : "M",
+  "gsc_productNum" : 7903,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181214/7903/57046/large/01510bbab7d134f4f76afab3fb34481d.jpg",
+  "name" : {
+    "en" : "Nendoroid Reg",
+    "ja" : "ねんどろいど レグ (ねんどろいど れぐ)",
+    "ko" : "레그"
   },
-  "series": {
-    "ko": "메이드 인 어비스",
-    "ja": "メイドインアビス",
-    "en": "Made in Abyss"
-  },
-  "gsc_productNum": 7903,
-  "price": 6009,
-  "release_date": [
+  "num" : "1053",
+  "price" : 6009,
+  "release_date" : [
     "2019/08",
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181214/7903/57046/large/01510bbab7d134f4f76afab3fb34481d.jpg",
-  "gender": "M",
-  "set": 183
+  "series" : {
+    "en" : "Made in Abyss",
+    "ja" : "メイドインアビス",
+    "ko" : "메이드 인 어비스"
+  },
+  "set" : 183
 }

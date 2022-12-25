@@ -1,21 +1,21 @@
 {
-  "num": "572",
-  "name": {
-    "ko": "니시키노 마키 연습복",
-    "ja": "ねんどろいど 西木野真姫 練習着Ver. (ねんどろいど にしきのまき れんしゅうぎVer.)",
-    "en": "Nendoroid Maki Nishikino: Training Outfit Ver. (ねんどろいど にしきのまき れんしゅうぎVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 5269,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151009/5269/35828/large/c0c263b2760ed44f40d97fe8dd86ffcc.jpg",
+  "name" : {
+    "en" : "Nendoroid Maki Nishikino: Training Outfit Ver. (ねんどろいど にしきのまき れんしゅうぎVer.)",
+    "ja" : "ねんどろいど 西木野真姫 練習着Ver. (ねんどろいど にしきのまき れんしゅうぎVer.)",
+    "ko" : "니시키노 마키 연습복"
   },
-  "series": {
-    "ko": "러브라이브!",
-    "ja": "ラブライブ！",
-    "en": "LoveLive!"
-  },
-  "gsc_productNum": 5269,
-  "price": 3565,
-  "release_date": [
+  "num" : "572",
+  "price" : 3565,
+  "release_date" : [
     "2016/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151009/5269/35828/large/c0c263b2760ed44f40d97fe8dd86ffcc.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 105
 }

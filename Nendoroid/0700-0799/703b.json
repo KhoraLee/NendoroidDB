@@ -1,21 +1,21 @@
 {
-  "num": "703b",
-  "name": {
-    "ko": "구다코 복각 라이트판",
-    "ja": "ねんどろいど マスター/主人公 女 復刻 ライト版 (ねんどろいど ますたー/しゅじんこう おんな ふっこく らいとばん)",
-    "en": "Nendoroid Master/Female Protagonist: Light Edition"
+  "gender" : "F",
+  "gsc_productNum" : 9243,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200131/9243/67389/large/770733b2c97f14bae8f9bfa6d03b7b05.jpg",
+  "name" : {
+    "en" : "Nendoroid Master/Female Protagonist: Light Edition",
+    "ja" : "ねんどろいど マスター/主人公 女 復刻 ライト版 (ねんどろいど ますたー/しゅじんこう おんな ふっこく らいとばん)",
+    "ko" : "구다코 복각 라이트판"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 9243,
-  "price": 4000,
-  "release_date": [
+  "num" : "703b",
+  "price" : 4000,
+  "release_date" : [
     "2020/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200131/9243/67389/large/770733b2c97f14bae8f9bfa6d03b7b05.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

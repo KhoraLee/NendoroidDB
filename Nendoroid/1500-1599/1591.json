@@ -1,21 +1,21 @@
 {
-  "num": "1591",
-  "name": {
-    "ko": "니시노야 유 카라스노 고교 Ver.",
-    "ja": "ねんどろいど 西谷夕 新生烏野Ver. (ねんどろいど にしのやゆう しんせいからすのVer.)",
-    "en": "Nendoroid Yu Nishinoya: The New Karasuno Ver."
+  "gender" : "M",
+  "gsc_productNum" : 10927,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210315/10927/82196/large/45228c17122b212839e7bb2bbda86c65.jpg",
+  "name" : {
+    "en" : "Nendoroid Yu Nishinoya: The New Karasuno Ver.",
+    "ja" : "ねんどろいど 西谷夕 新生烏野Ver. (ねんどろいど にしのやゆう しんせいからすのVer.)",
+    "ko" : "니시노야 유 카라스노 고교 Ver."
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!! TO THE TOP",
-    "en": "HAIKYU!! TO THE TOP"
-  },
-  "gsc_productNum": 10927,
-  "price": 4278,
-  "release_date": [
+  "num" : "1591",
+  "price" : 4278,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210315/10927/82196/large/45228c17122b212839e7bb2bbda86c65.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "HAIKYU!! TO THE TOP",
+    "ja" : "ハイキュー!! TO THE TOP",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

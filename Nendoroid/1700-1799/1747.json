@@ -1,21 +1,21 @@
 {
-  "num": "1747",
-  "name": {
-    "ko": "포리너 / 양귀비",
-    "ja": "ねんどろいど フォーリナー/楊貴妃 (ふぉーりなー/ようきひ)",
-    "en": "Nendoroid Foreigner/Yang Guifei"
+  "gender" : "F",
+  "gsc_productNum" : 11982,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211108/11982/91893/large/ec81eccd2bbeaa67ba086d592882df68.jpg",
+  "name" : {
+    "en" : "Nendoroid Foreigner/Yang Guifei",
+    "ja" : "ねんどろいど フォーリナー/楊貴妃 (ふぉーりなー/ようきひ)",
+    "ko" : "포리너 / 양귀비"
   },
-  "series": {
-    "ko": "Fate/Grand Order",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 11982,
-  "price": 7500,
-  "release_date": [
+  "num" : "1747",
+  "price" : 7500,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211108/11982/91893/large/ec81eccd2bbeaa67ba086d592882df68.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "Fate/Grand Order"
+  },
+  "set" : 2
 }

@@ -1,22 +1,22 @@
 {
-  "num": "502",
-  "name": {
-    "ko": "다스 베이더",
-    "ja": "ねんどろいど ダース・ベイダー (ねんどろいど だーす・べいだー)",
-    "en": "Nendoroid Darth Vader (ねんどろいど だーす・べいだー)"
+  "gender" : "M",
+  "gsc_productNum" : 4864,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150224/4864/32441/large/b1252bd34af3e83747761a88b9bde289.jpg",
+  "name" : {
+    "en" : "Nendoroid Darth Vader (ねんどろいど だーす・べいだー)",
+    "ja" : "ねんどろいど ダース・ベイダー (ねんどろいど だーす・べいだー)",
+    "ko" : "다스 베이더"
   },
-  "series": {
-    "ko": "스타워즈",
-    "ja": "スターウォーズ エピソード4",
-    "en": "Star Wars Episode 4: A New Hope"
-  },
-  "gsc_productNum": 4864,
-  "price": 4888,
-  "release_date": [
+  "num" : "502",
+  "price" : 4888,
+  "release_date" : [
     "2015/10",
     "2017/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150224/4864/32441/large/b1252bd34af3e83747761a88b9bde289.jpg",
-  "gender": "M",
-  "set": 115
+  "series" : {
+    "en" : "Star Wars Episode 4: A New Hope",
+    "ja" : "スターウォーズ エピソード4",
+    "ko" : "스타워즈"
+  },
+  "set" : 115
 }

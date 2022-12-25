@@ -1,22 +1,22 @@
 {
-  "num": "904",
-  "name": {
-    "ko": "아처/이슈타르",
-    "ja": "ねんどろいど アーチャー/イシュタル (ねんどろいど あーちゃー/いしゅたる)",
-    "en": "Nendoroid Archer/Ishtar"
+  "gender" : "F",
+  "gsc_productNum" : 7145,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180323/7145/51006/large/bdb713ca55261babf92ac9e7ad39346d.jpg",
+  "name" : {
+    "en" : "Nendoroid Archer/Ishtar",
+    "ja" : "ねんどろいど アーチャー/イシュタル (ねんどろいど あーちゃー/いしゅたる)",
+    "ko" : "아처/이슈타르"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 7145,
-  "price": 6926,
-  "release_date": [
+  "num" : "904",
+  "price" : 6926,
+  "release_date" : [
     "2018/10",
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180323/7145/51006/large/bdb713ca55261babf92ac9e7ad39346d.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

@@ -1,21 +1,21 @@
 {
-  "num": "891",
-  "name": {
-    "ko": "닛카리 아오에",
-    "ja": "ねんどろいど にっかり青江 (ねんどろいど にっかりあおえ)",
-    "en": "Nendoroid Nikkari Aoe"
+  "gender" : "M",
+  "gsc_productNum" : 7053,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180214/7053/50203/large/ddde211572d67fd411e520c1c291c541.jpg",
+  "name" : {
+    "en" : "Nendoroid Nikkari Aoe",
+    "ja" : "ねんどろいど にっかり青江 (ねんどろいど にっかりあおえ)",
+    "ko" : "닛카리 아오에"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 7053,
-  "price": 4685,
-  "release_date": [
+  "num" : "891",
+  "price" : 4685,
+  "release_date" : [
     "2018/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180214/7053/50203/large/ddde211572d67fd411e520c1c291c541.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

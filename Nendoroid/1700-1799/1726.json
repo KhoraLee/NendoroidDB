@@ -1,21 +1,21 @@
 {
-  "num": "1726",
-  "name": {
-    "ko": "우치하 이타치 암부 Ver.",
-    "ja": "ねんどろいど うちはイタチ暗部Ver. (ねんどろいど うちはいたちあんぶVer.)",
-    "en": "Nendoroid Itachi Uchiha: Anbu Black Ops Ver."
+  "gender" : "M",
+  "gsc_productNum" : 11851,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211002/11851/91231/large/be568093d50c87f99e31505587e06f41.jpg",
+  "name" : {
+    "en" : "Nendoroid Itachi Uchiha: Anbu Black Ops Ver.",
+    "ja" : "ねんどろいど うちはイタチ暗部Ver. (ねんどろいど うちはいたちあんぶVer.)",
+    "ko" : "우치하 이타치 암부 Ver."
   },
-  "series": {
-    "ko": "나루토",
-    "ja": "NARUTO -ナルト- 疾風伝",
-    "en": "Naruto Shippuden"
-  },
-  "gsc_productNum": 11851,
-  "price": 6500,
-  "release_date": [
+  "num" : "1726",
+  "price" : 6500,
+  "release_date" : [
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211002/11851/91231/large/be568093d50c87f99e31505587e06f41.jpg",
-  "gender": "M",
-  "set": 144
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  },
+  "set" : 144
 }

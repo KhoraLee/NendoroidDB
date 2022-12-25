@@ -1,21 +1,21 @@
 {
-  "num": "1524",
-  "name": {
-    "ko": "나미카제 미나토",
-    "ja": "ねんどろいど 波風ミナト (ねんどろいど なみかぜみなと)",
-    "en": "Nendoroid Minato Namikaze"
+  "gender" : "M",
+  "gsc_productNum" : 10411,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201118/10411/78082/large/dda944a455357c66c91a36e9050e8db7.jpg",
+  "name" : {
+    "en" : "Nendoroid Minato Namikaze",
+    "ja" : "ねんどろいど 波風ミナト (ねんどろいど なみかぜみなと)",
+    "ko" : "나미카제 미나토"
   },
-  "series": {
-    "ko": "나루토",
-    "ja": "NARUTO -ナルト- 疾風伝",
-    "en": "Naruto Shippuden"
-  },
-  "gsc_productNum": 10411,
-  "price": -1,
-  "release_date": [
+  "num" : "1524",
+  "price" : -1,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201118/10411/78082/large/dda944a455357c66c91a36e9050e8db7.jpg",
-  "gender": "M",
-  "set": 144
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  },
+  "set" : 144
 }

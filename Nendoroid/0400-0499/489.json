@@ -1,24 +1,24 @@
 {
-  "num": "489",
-  "name": {
-    "ko": "카게야마 토비오",
-    "ja": "ねんどろいど 影山飛雄 (ねんどろいど かげやまとびお)",
-    "en": "Nendoroid Tobio Kageyama"
+  "gender" : "M",
+  "gsc_productNum" : 4780,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141216/4780/31784/large/a64c444f9b79846f4ec54bce66a983af.jpg",
+  "name" : {
+    "en" : "Nendoroid Tobio Kageyama",
+    "ja" : "ねんどろいど 影山飛雄 (ねんどろいど かげやまとびお)",
+    "ko" : "카게야마 토비오"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "Haikyu!!"
-  },
-  "gsc_productNum": 4780,
-  "price": 4074,
-  "release_date": [
+  "num" : "489",
+  "price" : 4074,
+  "release_date" : [
     "2015/05",
     "2016/01",
     "2017/05",
     "2021/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141216/4780/31784/large/a64c444f9b79846f4ec54bce66a983af.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

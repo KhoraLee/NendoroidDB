@@ -1,21 +1,21 @@
 {
-  "num": "076",
-  "name": {
-    "ko": "리안논",
-    "ja": "ねんどろいど リアンノン (りあんのん ねんどろいど)",
-    "en": "Nendoroid Riannon (りあんのん ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 2495,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2495/7194/large/7da05dc0bb9462f19155e8d450e9663a.jpg",
+  "name" : {
+    "en" : "Nendoroid Riannon (りあんのん ねんどろいど)",
+    "ja" : "ねんどろいど リアンノン (りあんのん ねんどろいど)",
+    "ko" : "리안논"
   },
-  "series": {
-    "ko": "티어즈 투 티아라",
-    "ja": "ティアーズ・トゥ・ティアラ",
-    "en": "Tears To Tiara"
-  },
-  "gsc_productNum": 2495,
-  "price": 3667,
-  "release_date": [
+  "num" : "076",
+  "price" : 3667,
+  "release_date" : [
     "2009/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2495/7194/large/7da05dc0bb9462f19155e8d450e9663a.jpg",
-  "gender": "F",
-  "set": 24
+  "series" : {
+    "en" : "Tears To Tiara",
+    "ja" : "ティアーズ・トゥ・ティアラ",
+    "ko" : "티어즈 투 티아라"
+  },
+  "set" : 24
 }

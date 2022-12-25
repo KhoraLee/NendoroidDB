@@ -1,21 +1,21 @@
 {
-  "num": "357",
-  "name": {
-    "ko": "프론",
-    "ja": "ねんどろいど フロン (ねんどろいど ふろん)",
-    "en": "Nendoroid Flonne (ねんどろいど ふろん)"
+  "gender" : "F",
+  "gsc_productNum" : 4002,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130724/4002/25290/large/9b8fefd75de95a89119a629cc4235451.jpg",
+  "name" : {
+    "en" : "Nendoroid Flonne (ねんどろいど ふろん)",
+    "ja" : "ねんどろいど フロン (ねんどろいど ふろん)",
+    "ko" : "프론"
   },
-  "series": {
-    "ko": "마계전기 디스가이아",
-    "ja": "魔界戦記ディスガイア",
-    "en": "Disgaea"
-  },
-  "gsc_productNum": 4002,
-  "price": 3667,
-  "release_date": [
+  "num" : "357",
+  "price" : 3667,
+  "release_date" : [
     "2014/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130724/4002/25290/large/9b8fefd75de95a89119a629cc4235451.jpg",
-  "gender": "F",
-  "set": 25
+  "series" : {
+    "en" : "Disgaea",
+    "ja" : "魔界戦記ディスガイア",
+    "ko" : "마계전기 디스가이아"
+  },
+  "set" : 25
 }

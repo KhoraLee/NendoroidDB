@@ -1,22 +1,22 @@
 {
-  "num": "1475",
-  "name": {
-    "ko": "YoRHa No.2 Type B(Battler)",
-    "ja": "ねんどろいど NieR:Automata 2B（ヨルハ二号B型） (ねんどろいど にーあ:おーとまた とぅーびー（よるはにごうびーがた）)",
-    "en": "Nendoroid NieR:Automata 2B (YoRHa No.2 Type B)"
+  "gender" : "F",
+  "gsc_productNum" : 10131,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200925/10131/74969/large/d766bf90279bcfd7bb1a6714b0fef45c.jpg",
+  "name" : {
+    "en" : "Nendoroid NieR:Automata 2B (YoRHa No.2 Type B)",
+    "ja" : "ねんどろいど NieR:Automata 2B（ヨルハ二号B型） (ねんどろいど にーあ:おーとまた とぅーびー（よるはにごうびーがた）)",
+    "ko" : "YoRHa No.2 Type B(Battler)"
   },
-  "series": {
-    "ko": "니어 오토마타",
-    "ja": "NieR:Automata",
-    "en": "NieR:Automata"
-  },
-  "gsc_productNum": 10131,
-  "price": 6200,
-  "release_date": [
+  "num" : "1475",
+  "price" : 6200,
+  "release_date" : [
     "2021/02",
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200925/10131/74969/large/d766bf90279bcfd7bb1a6714b0fef45c.jpg",
-  "gender": "F",
-  "set": 249
+  "series" : {
+    "en" : "NieR:Automata",
+    "ja" : "NieR:Automata",
+    "ko" : "니어 오토마타"
+  },
+  "set" : 249
 }

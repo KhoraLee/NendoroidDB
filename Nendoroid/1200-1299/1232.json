@@ -1,21 +1,21 @@
 {
-  "num": "1232",
-  "name": {
-    "ko": "오로치마루",
-    "ja": "ねんどろいど 大蛇丸 (ねんどろいど おろちまる)",
-    "en": "Nendoroid Orochimaru"
+  "gender" : "M",
+  "gsc_productNum" : 8949,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191031/8949/64924/large/bc520084a6f5b16fbb4ec71136ce1f1d.jpg",
+  "name" : {
+    "en" : "Nendoroid Orochimaru",
+    "ja" : "ねんどろいど 大蛇丸 (ねんどろいど おろちまる)",
+    "ko" : "오로치마루"
   },
-  "series": {
-    "ko": "나루토",
-    "ja": "NARUTO -ナルト- 疾風伝",
-    "en": "Naruto Shippuden"
-  },
-  "gsc_productNum": 8949,
-  "price": 5000,
-  "release_date": [
+  "num" : "1232",
+  "price" : 5000,
+  "release_date" : [
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191031/8949/64924/large/bc520084a6f5b16fbb4ec71136ce1f1d.jpg",
-  "gender": "M",
-  "set": 144
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  },
+  "set" : 144
 }

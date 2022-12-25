@@ -1,22 +1,22 @@
 {
-  "num": "1277-DX",
-  "name": {
-    "ko": "토르 엔드게임 DX Ver.",
-    "ja": "ねんどろいど ソー エンドゲームVer. DX (ねんどろいど そー えんどげーむVer. DX)",
-    "en": "Nendoroid Thor: Endgame Ver. DX"
+  "gender" : "M",
+  "gsc_productNum" : 9157,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200109/9157/66695/large/71593fb51775f39605bd979c6c0b8278.jpg",
+  "name" : {
+    "en" : "Nendoroid Thor: Endgame Ver. DX",
+    "ja" : "ねんどろいど ソー エンドゲームVer. DX (ねんどろいど そー えんどげーむVer. DX)",
+    "ko" : "토르 엔드게임 DX Ver."
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／エンドゲーム",
-    "en": "Avengers: Endgame"
-  },
-  "gsc_productNum": 9157,
-  "price": 8000,
-  "release_date": [
+  "num" : "1277-DX",
+  "price" : 8000,
+  "release_date" : [
     "2020/06",
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200109/9157/66695/large/71593fb51775f39605bd979c6c0b8278.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

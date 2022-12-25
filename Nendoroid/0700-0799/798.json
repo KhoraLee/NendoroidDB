@@ -1,22 +1,22 @@
 {
-  "num": "798",
-  "name": {
-    "ko": "호토 코코아",
-    "ja": "ねんどろいど ココア (ねんどろいど ここあ)",
-    "en": "Nendoroid Cocoa"
+  "gender" : "F",
+  "gsc_productNum" : 6597,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170721/6597/46678/large/c089f076dc7a317ccce16bd0c555a4a6.jpg",
+  "name" : {
+    "en" : "Nendoroid Cocoa",
+    "ja" : "ねんどろいど ココア (ねんどろいど ここあ)",
+    "ko" : "호토 코코아"
   },
-  "series": {
-    "ko": "주문은 토끼입니까?",
-    "ja": "ご注文はうさぎですか？？",
-    "en": "Is the Order a Rabbit??"
-  },
-  "gsc_productNum": 6597,
-  "price": 4800,
-  "release_date": [
+  "num" : "798",
+  "price" : 4800,
+  "release_date" : [
     "2017/12",
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170721/6597/46678/large/c089f076dc7a317ccce16bd0c555a4a6.jpg",
-  "gender": "F",
-  "set": 123
+  "series" : {
+    "en" : "Is the Order a Rabbit??",
+    "ja" : "ご注文はうさぎですか？？",
+    "ko" : "주문은 토끼입니까?"
+  },
+  "set" : 123
 }

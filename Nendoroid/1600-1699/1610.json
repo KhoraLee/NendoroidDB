@@ -1,21 +1,21 @@
 {
-  "num": "1610",
-  "name": {
-    "ko": "미사카 미코토 대패성제 Ver.",
-    "ja": "ねんどろいど 御坂美琴 大覇星祭Ver. (ねんどろいど みさかみこと だいはせいさいVer.)",
-    "en": "Nendoroid Mikoto Misaka: Daihasei Festival Ver."
+  "gender" : "F",
+  "gsc_productNum" : 11108,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210420/11108/83806/large/db70272aee1b170eefd15197d177fc6b.jpg",
+  "name" : {
+    "en" : "Nendoroid Mikoto Misaka: Daihasei Festival Ver.",
+    "ja" : "ねんどろいど 御坂美琴 大覇星祭Ver. (ねんどろいど みさかみこと だいはせいさいVer.)",
+    "ko" : "미사카 미코토 대패성제 Ver."
   },
-  "series": {
-    "ko": "어떤 과학의 초전자포",
-    "ja": "とある科学の超電磁砲T",
-    "en": "A Certain Scientific Railgun T"
-  },
-  "gsc_productNum": 11108,
-  "price": 5500,
-  "release_date": [
+  "num" : "1610",
+  "price" : 5500,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210420/11108/83806/large/db70272aee1b170eefd15197d177fc6b.jpg",
-  "gender": "F",
-  "set": 84
+  "series" : {
+    "en" : "A Certain Scientific Railgun T",
+    "ja" : "とある科学の超電磁砲T",
+    "ko" : "어떤 과학의 초전자포"
+  },
+  "set" : 84
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1497-DX",
-  "name": {
-    "ko": "스파이더맨 엔드게임 DX Ver.",
-    "ja": "ねんどろいど アイアン・スパイダー エンドゲーム Ver. DX (ねんどろいど あいあん・すぱいだー えんどげーむ Ver. DX)",
-    "en": "Nendoroid Iron Spider: Endgame Ver. DX"
+  "gender" : "M",
+  "gsc_productNum" : 10235,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201015/10235/75876/large/88fb9d7ed7b1b8953235658327bcf7be.jpg",
+  "name" : {
+    "en" : "Nendoroid Iron Spider: Endgame Ver. DX",
+    "ja" : "ねんどろいど アイアン・スパイダー エンドゲーム Ver. DX (ねんどろいど あいあん・すぱいだー えんどげーむ Ver. DX)",
+    "ko" : "스파이더맨 엔드게임 DX Ver."
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／エンドゲーム",
-    "en": "Avengers:Endgame"
-  },
-  "gsc_productNum": 10235,
-  "price": 8500,
-  "release_date": [
+  "num" : "1497-DX",
+  "price" : 8500,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201015/10235/75876/large/88fb9d7ed7b1b8953235658327bcf7be.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers:Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

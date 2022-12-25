@@ -1,20 +1,20 @@
 {
-  "num": "1697-DX",
-  "name": {
-    "ko": "시라누이 DX",
-    "ja": "ねんどろいど 白野威 DX Ver. (ねんどろいど しらぬい DX Ver.)",
-    "en": "Nendoroid Shiranui DX Ver."
+  "gsc_productNum" : 11628,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210806/11628/88803/large/903fd311929781f085bc35df7592c3f9.jpg",
+  "name" : {
+    "en" : "Nendoroid Shiranui DX Ver.",
+    "ja" : "ねんどろいど 白野威 DX Ver. (ねんどろいど しらぬい DX Ver.)",
+    "ko" : "시라누이 DX"
   },
-  "series": {
-    "ko": "오오카미",
-    "ja": "大神",
-    "en": "Okami"
-  },
-  "gsc_productNum": 11628,
-  "price": 8800,
-  "release_date": [
+  "num" : "1697-DX",
+  "price" : 8800,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210806/11628/88803/large/903fd311929781f085bc35df7592c3f9.jpg",
-  "set": 239
+  "series" : {
+    "en" : "Okami",
+    "ja" : "大神",
+    "ko" : "오오카미"
+  },
+  "set" : 239
 }

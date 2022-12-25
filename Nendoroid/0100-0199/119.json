@@ -1,18 +1,18 @@
 {
-  "num": "119",
-  "name": {
-    "ko": "와쿠츠 토모",
-    "ja": "ねんどろいど 和久津 智 (ねんどろいど わくつ とも)"
+  "gender" : "F",
+  "gsc_productNum" : 3412,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111208/3412/16508/large/a7fc5189b6d81c91aabf2d5dad11eab8.jpg",
+  "name" : {
+    "ja" : "ねんどろいど 和久津 智 (ねんどろいど わくつ とも)",
+    "ko" : "와쿠츠 토모"
   },
-  "series": {
-    "ko": "루이는 토모를 부른다",
-    "ja": "るいは智を呼ぶファンディスク-明日のむこうに視える風-"
-  },
-  "gsc_productNum": 3412,
-  "price": 9680,
-  "release_date": [
+  "num" : "119",
+  "price" : 9680,
+  "release_date" : [
     "2010/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111208/3412/16508/large/a7fc5189b6d81c91aabf2d5dad11eab8.jpg",
-  "gender": "F"
+  "series" : {
+    "ja" : "るいは智を呼ぶファンディスク-明日のむこうに視える風-",
+    "ko" : "루이는 토모를 부른다"
+  }
 }

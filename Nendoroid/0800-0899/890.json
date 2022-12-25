@@ -1,20 +1,20 @@
 {
-  "num": "890",
-  "name": {
-    "ko": "키노 \u0026 에르메스",
-    "ja": "ねんどろいど キノ＆エルメス (ねんどろいど きの＆えるめす)",
-    "en": "Nendoroid Kino \u0026 Hermes"
+  "gender" : "F",
+  "gsc_productNum" : 7038,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180206/7038/50047/large/3bd8f7d1362c98824fab4f018b88bfd7.jpg",
+  "name" : {
+    "en" : "Nendoroid Kino & Hermes",
+    "ja" : "ねんどろいど キノ＆エルメス (ねんどろいど きの＆えるめす)",
+    "ko" : "키노 & 에르메스"
   },
-  "series": {
-    "ko": "키노의 여행",
-    "ja": "キノの旅",
-    "en": "Kino\u0027s Journey"
-  },
-  "gsc_productNum": 7038,
-  "price": 5602,
-  "release_date": [
+  "num" : "890",
+  "price" : 5602,
+  "release_date" : [
     "2018/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180206/7038/50047/large/3bd8f7d1362c98824fab4f018b88bfd7.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Kino's Journey",
+    "ja" : "キノの旅",
+    "ko" : "키노의 여행"
+  }
 }

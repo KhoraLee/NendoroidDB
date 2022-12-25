@@ -1,21 +1,21 @@
 {
-  "num": "1052",
-  "name": {
-    "ko": "토요사키 에나",
-    "ja": "ねんどろいど 豊崎恵那 (ねんどろいど とよさきえな)",
-    "en": "Nendoroid Ena Toyosaki"
+  "gender" : "F",
+  "gsc_productNum" : 7914,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181214/7914/56805/large/0f148bbaa5058b007f053b619c3f9468.jpg",
+  "name" : {
+    "en" : "Nendoroid Ena Toyosaki",
+    "ja" : "ねんどろいど 豊崎恵那 (ねんどろいど とよさきえな)",
+    "ko" : "토요사키 에나"
   },
-  "series": {
-    "ko": "리틀 아머리",
-    "ja": "リトルアーモリー",
-    "en": "Little Armory"
-  },
-  "gsc_productNum": 7914,
-  "price": 5720,
-  "release_date": [
+  "num" : "1052",
+  "price" : 5720,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181214/7914/56805/large/0f148bbaa5058b007f053b619c3f9468.jpg",
-  "gender": "F",
-  "set": 164
+  "series" : {
+    "en" : "Little Armory",
+    "ja" : "リトルアーモリー",
+    "ko" : "리틀 아머리"
+  },
+  "set" : 164
 }

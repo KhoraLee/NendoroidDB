@@ -1,21 +1,21 @@
 {
-  "num": "884",
-  "name": {
-    "ko": "흑의 라이더",
-    "ja": "ねんどろいど “黒”のライダー (ねんどろいど “くろ”のらいだー)",
-    "en": "Nendoroid Rider of \"Black\""
+  "gender" : "M",
+  "gsc_productNum" : 7024,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180130/7024/49925/large/10ac84d80a7d6e13599bac3331932f1b.jpg",
+  "name" : {
+    "en" : "Nendoroid Rider of \"Black\"",
+    "ja" : "ねんどろいど “黒”のライダー (ねんどろいど “くろ”のらいだー)",
+    "ko" : "흑의 라이더"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Apocrypha",
-    "en": "Fate/Apocrypha"
-  },
-  "gsc_productNum": 7024,
-  "price": 5297,
-  "release_date": [
+  "num" : "884",
+  "price" : 5297,
+  "release_date" : [
     "2018/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180130/7024/49925/large/10ac84d80a7d6e13599bac3331932f1b.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Apocrypha",
+    "ja" : "Fate/Apocrypha",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

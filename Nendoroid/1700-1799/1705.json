@@ -1,21 +1,21 @@
 {
-  "num": "1705",
-  "name": {
-    "ko": "카이네",
-    "ja": "ねんどろいど NieR Replicant ver.1.22474487139... カイネ (ねんどろいど にーあ れぷりかんと ver.1.22474487139... かいね)",
-    "en": "Nendoroid NieR Replicant ver. 1.22474487139... Kainé"
+  "gender" : "A",
+  "gsc_productNum" : 11774,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210910/11774/89797/large/f334c4a48733e81f13060f9b9c65237a.jpg",
+  "name" : {
+    "en" : "Nendoroid NieR Replicant ver. 1.22474487139... Kainé",
+    "ja" : "ねんどろいど NieR Replicant ver.1.22474487139... カイネ (ねんどろいど にーあ れぷりかんと ver.1.22474487139... かいね)",
+    "ko" : "카이네"
   },
-  "series": {
-    "ko": "니어 레플리칸트",
-    "ja": "NieR Replicant ver.1.22474487139...",
-    "en": "NieR Replicant ver. 1.22474487139..."
-  },
-  "gsc_productNum": 11774,
-  "price": 6600,
-  "release_date": [
+  "num" : "1705",
+  "price" : 6600,
+  "release_date" : [
     "2022/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210910/11774/89797/large/f334c4a48733e81f13060f9b9c65237a.jpg",
-  "gender": "A",
-  "set": 249
+  "series" : {
+    "en" : "NieR Replicant ver. 1.22474487139...",
+    "ja" : "NieR Replicant ver.1.22474487139...",
+    "ko" : "니어 레플리칸트"
+  },
+  "set" : 249
 }

@@ -1,21 +1,21 @@
 {
-  "num": "072",
-  "name": {
-    "ko": "아사쿠라 오토메",
-    "ja": "ねんどろいど 朝倉音姫 (ねんどろいど あさくらおとめ)",
-    "en": "Nendoroid Otome Asakura (ねんどろいど あさくらおとめ)"
+  "gender" : "F",
+  "gsc_productNum" : 3373,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3373/16313/large/5df92174c03b58928ab0113f2902d14e.jpg",
+  "name" : {
+    "en" : "Nendoroid Otome Asakura (ねんどろいど あさくらおとめ)",
+    "ja" : "ねんどろいど 朝倉音姫 (ねんどろいど あさくらおとめ)",
+    "ko" : "아사쿠라 오토메"
   },
-  "series": {
-    "ko": "다카포",
-    "ja": "D.C.II To You ～ダ・カーポII～トゥーユー",
-    "en": "Da Capo II To You"
-  },
-  "gsc_productNum": 3373,
-  "price": 9777,
-  "release_date": [
+  "num" : "072",
+  "price" : 9777,
+  "release_date" : [
     "2009/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3373/16313/large/5df92174c03b58928ab0113f2902d14e.jpg",
-  "gender": "F",
-  "set": 21
+  "series" : {
+    "en" : "Da Capo II To You",
+    "ja" : "D.C.II To You ～ダ・カーポII～トゥーユー",
+    "ko" : "다카포"
+  },
+  "set" : 21
 }

@@ -1,21 +1,21 @@
 {
-  "num": "399",
-  "name": {
-    "ko": "미야나가 사키",
-    "ja": "ねんどろいど 宮永咲 (ねんどろいど みやながさき)",
-    "en": "Nendoroid Saki Miyanaga (ねんどろいど みやながさき)"
+  "gender" : "F",
+  "gsc_productNum" : 4225,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140217/4225/27912/large/94b403a4919012ec2fa0ac3da8379bae.jpg",
+  "name" : {
+    "en" : "Nendoroid Saki Miyanaga (ねんどろいど みやながさき)",
+    "ja" : "ねんどろいど 宮永咲 (ねんどろいど みやながさき)",
+    "ko" : "미야나가 사키"
   },
-  "series": {
-    "ko": "사키",
-    "ja": "咲-Saki-全国編",
-    "en": "Saki: Zenkoku-hen"
-  },
-  "gsc_productNum": 4225,
-  "price": 4278,
-  "release_date": [
+  "num" : "399",
+  "price" : 4278,
+  "release_date" : [
     "2014/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140217/4225/27912/large/94b403a4919012ec2fa0ac3da8379bae.jpg",
-  "gender": "F",
-  "set": 65
+  "series" : {
+    "en" : "Saki: Zenkoku-hen",
+    "ja" : "咲-Saki-全国編",
+    "ko" : "사키"
+  },
+  "set" : 65
 }

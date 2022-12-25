@@ -1,21 +1,21 @@
 {
-  "num": "1551",
-  "name": {
-    "ko": "텍사스",
-    "ja": "ねんどろいど テキサス (ねんどろいど てきさす)",
-    "en": "Nendoroid Texas"
+  "gender" : "F",
+  "gsc_productNum" : 10657,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210108/10657/79646/large/97d0db452430e4bf07d5d16ff8881985.jpg",
+  "name" : {
+    "en" : "Nendoroid Texas",
+    "ja" : "ねんどろいど テキサス (ねんどろいど てきさす)",
+    "ko" : "텍사스"
   },
-  "series": {
-    "ko": "명일방주",
-    "ja": "アークナイツ",
-    "en": "Arknights"
-  },
-  "gsc_productNum": 10657,
-  "price": 5600,
-  "release_date": [
+  "num" : "1551",
+  "price" : 5600,
+  "release_date" : [
     "2021/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210108/10657/79646/large/97d0db452430e4bf07d5d16ff8881985.jpg",
-  "gender": "F",
-  "set": 216
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 216
 }

@@ -1,22 +1,22 @@
 {
-  "num": "583",
-  "name": {
-    "ko": "레이제이 마코",
-    "ja": "ねんどろいど 冷泉麻子 (ねんどろいど れいぜいまこ)",
-    "en": "Nendoroid Mako Reizei"
+  "gender" : "F",
+  "gsc_productNum" : 5321,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151110/5321/36307/large/9b604199bf527a458c661d7d832d5d24.jpg",
+  "name" : {
+    "en" : "Nendoroid Mako Reizei",
+    "ja" : "ねんどろいど 冷泉麻子 (ねんどろいど れいぜいまこ)",
+    "ko" : "레이제이 마코"
   },
-  "series": {
-    "ko": "걸즈 앤 판처",
-    "ja": "ガールズ＆パンツァー",
-    "en": "GIRLS und PANZER"
-  },
-  "gsc_productNum": 5321,
-  "price": 4888,
-  "release_date": [
+  "num" : "583",
+  "price" : 4888,
+  "release_date" : [
     "2016/06",
     "2017/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151110/5321/36307/large/9b604199bf527a458c661d7d832d5d24.jpg",
-  "gender": "F",
-  "set": 78
+  "series" : {
+    "en" : "GIRLS und PANZER",
+    "ja" : "ガールズ＆パンツァー",
+    "ko" : "걸즈 앤 판처"
+  },
+  "set" : 78
 }

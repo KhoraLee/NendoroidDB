@@ -1,21 +1,21 @@
 {
-  "num": "1367",
-  "name": {
-    "ko": "나카지마 아츠시 에어포트 Ver.",
-    "ja": "ねんどろいど 中島敦 ヱアポートVer. (ねんどろいど なかじまあつし えあぽーとVer.)",
-    "en": "Nendoroid Atsushi Nakajima: Airport Ver."
+  "gender" : "M",
+  "gsc_productNum" : 9580,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200528/9580/71033/large/ff140e3332b309bd25b188a9a7462dfd.jpg",
+  "name" : {
+    "en" : "Nendoroid Atsushi Nakajima: Airport Ver.",
+    "ja" : "ねんどろいど 中島敦 ヱアポートVer. (ねんどろいど なかじまあつし えあぽーとVer.)",
+    "ko" : "나카지마 아츠시 에어포트 Ver."
   },
-  "series": {
-    "ko": "문호 스트레이 독스",
-    "ja": "文豪ストレイドッグス",
-    "en": "Bungo Stray Dogs"
-  },
-  "gsc_productNum": 9580,
-  "price": 4600,
-  "release_date": [
+  "num" : "1367",
+  "price" : 4600,
+  "release_date" : [
     "2020/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200528/9580/71033/large/ff140e3332b309bd25b188a9a7462dfd.jpg",
-  "gender": "M",
-  "set": 137
+  "series" : {
+    "en" : "Bungo Stray Dogs",
+    "ja" : "文豪ストレイドッグス",
+    "ko" : "문호 스트레이 독스"
+  },
+  "set" : 137
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1182",
-  "name": {
-    "ko": "로드 엘멜로이 2세",
-    "ja": "ねんどろいど ロード・エルメロイⅡ世 (ねんどろいど ろーど・えるめろいⅡせい)",
-    "en": "Nendoroid Lord El-Melloi II"
+  "gender" : "M",
+  "gsc_productNum" : 8649,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190802/8649/62593/large/2a47c3fe4ad259070724a3eb9ee05017.jpg",
+  "name" : {
+    "en" : "Nendoroid Lord El-Melloi II",
+    "ja" : "ねんどろいど ロード・エルメロイⅡ世 (ねんどろいど ろーど・えるめろいⅡせい)",
+    "ko" : "로드 엘멜로이 2세"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "ロード・エルメロイⅡ世の事件簿",
-    "en": "Lord El-Melloi II\u0027s Case Files"
-  },
-  "gsc_productNum": 8649,
-  "price": 4800,
-  "release_date": [
+  "num" : "1182",
+  "price" : 4800,
+  "release_date" : [
     "2020/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190802/8649/62593/large/2a47c3fe4ad259070724a3eb9ee05017.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Lord El-Melloi II's Case Files",
+    "ja" : "ロード・エルメロイⅡ世の事件簿",
+    "ko" : "페이트 시리즈"
+  }
 }

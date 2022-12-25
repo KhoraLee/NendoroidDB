@@ -1,21 +1,21 @@
 {
-  "num": "1226",
-  "name": {
-    "ko": "세가와 온푸",
-    "ja": "ねんどろいど 瀬川おんぷ (ねんどろいど せがわおんぷ)",
-    "en": "Nendoroid Onpu Segawa"
+  "gender" : "F",
+  "gsc_productNum" : 8912,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191017/8912/64631/large/31891ca7e525af812fc463c19f625747.jpg",
+  "name" : {
+    "en" : "Nendoroid Onpu Segawa",
+    "ja" : "ねんどろいど 瀬川おんぷ (ねんどろいど せがわおんぷ)",
+    "ko" : "세가와 온푸"
   },
-  "series": {
-    "ko": "오자마녀 도레미",
-    "ja": "も～っと！おジャ魔女どれみ",
-    "en": "Magical DoReMi 3"
-  },
-  "gsc_productNum": 8912,
-  "price": 5500,
-  "release_date": [
+  "num" : "1226",
+  "price" : 5500,
+  "release_date" : [
     "2020/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191017/8912/64631/large/31891ca7e525af812fc463c19f625747.jpg",
-  "gender": "F",
-  "set": 212
+  "series" : {
+    "en" : "Magical DoReMi 3",
+    "ja" : "も～っと！おジャ魔女どれみ",
+    "ko" : "오자마녀 도레미"
+  },
+  "set" : 212
 }

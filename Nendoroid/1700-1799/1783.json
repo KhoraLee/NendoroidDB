@@ -1,21 +1,21 @@
 {
-  "num": "1783",
-  "name": {
-    "ko": "골드 쉽",
-    "ja": "ねんどろいど ゴールドシップ (ねんどろいど ごーるどしっぷ)",
-    "en": "Nendoroid Gold Ship"
+  "gender" : "F",
+  "gsc_productNum" : 12114,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211210/12114/93342/large/473d9e0e72964024dfdba687535f3969.jpg",
+  "name" : {
+    "en" : "Nendoroid Gold Ship",
+    "ja" : "ねんどろいど ゴールドシップ (ねんどろいど ごーるどしっぷ)",
+    "ko" : "골드 쉽"
   },
-  "series": {
-    "ko": "우마무스메: 프리티 더비",
-    "ja": "ウマ娘 プリティーダービー",
-    "en": "Umamusume: Pretty Derby"
-  },
-  "gsc_productNum": 12114,
-  "price": 5800,
-  "release_date": [
+  "num" : "1783",
+  "price" : 5800,
+  "release_date" : [
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211210/12114/93342/large/473d9e0e72964024dfdba687535f3969.jpg",
-  "gender": "F",
-  "set": 193
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메: 프리티 더비"
+  },
+  "set" : 193
 }

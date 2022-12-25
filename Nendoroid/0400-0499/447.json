@@ -1,22 +1,22 @@
 {
-  "num": "447",
-  "name": {
-    "ko": "솔리드 스네이크",
-    "ja": "ねんどろいど ソリッド・スネーク (ねんどろいど そりっど・すねーく)",
-    "en": "Nendoroid Solid Snake (ねんどろいど そりっど・すねーく)"
+  "gender" : "M",
+  "gsc_productNum" : 4530,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140730/4530/29901/large/d3b743e3c91f7ba278936815bae1ff2f.jpg",
+  "name" : {
+    "en" : "Nendoroid Solid Snake (ねんどろいど そりっど・すねーく)",
+    "ja" : "ねんどろいど ソリッド・スネーク (ねんどろいど そりっど・すねーく)",
+    "ko" : "솔리드 스네이크"
   },
-  "series": {
-    "ko": "메탈기어 솔리드",
-    "ja": "メタルギア ソリッド",
-    "en": "METAL GEAR SOLID"
-  },
-  "gsc_productNum": 4530,
-  "price": 4584,
-  "release_date": [
+  "num" : "447",
+  "price" : 4584,
+  "release_date" : [
     "2015/01",
     "2018/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140730/4530/29901/large/d3b743e3c91f7ba278936815bae1ff2f.jpg",
-  "gender": "M",
-  "set": 107
+  "series" : {
+    "en" : "METAL GEAR SOLID",
+    "ja" : "メタルギア ソリッド",
+    "ko" : "메탈기어 솔리드"
+  },
+  "set" : 107
 }

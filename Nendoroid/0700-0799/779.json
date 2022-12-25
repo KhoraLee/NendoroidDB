@@ -1,21 +1,21 @@
 {
-  "num": "779",
-  "name": {
-    "ko": "루리아 \u0026 비",
-    "ja": "ねんどろいど ルリア\u0026ビィ (ねんどろいど るりあ\u0026びぃ)",
-    "en": "Nendoroid Lyria \u0026 Vee"
+  "gender" : "F",
+  "gsc_productNum" : 6472,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170526/6472/45643/large/a0ad9bf01acf2db32de1bc108e4a6554.jpg",
+  "name" : {
+    "en" : "Nendoroid Lyria & Vee",
+    "ja" : "ねんどろいど ルリア&ビィ (ねんどろいど るりあ&びぃ)",
+    "ko" : "루리아 & 비"
   },
-  "series": {
-    "ko": "그랑블루 판타지",
-    "ja": "グランブルーファンタジー ジ・アニメーション",
-    "en": "GRANBLUE FANTASY: The Animation"
-  },
-  "gsc_productNum": 6472,
-  "price": 4991,
-  "release_date": [
+  "num" : "779",
+  "price" : 4991,
+  "release_date" : [
     "2017/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170526/6472/45643/large/a0ad9bf01acf2db32de1bc108e4a6554.jpg",
-  "gender": "F",
-  "set": 158
+  "series" : {
+    "en" : "GRANBLUE FANTASY: The Animation",
+    "ja" : "グランブルーファンタジー ジ・アニメーション",
+    "ko" : "그랑블루 판타지"
+  },
+  "set" : 158
 }

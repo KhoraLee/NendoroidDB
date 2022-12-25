@@ -1,21 +1,21 @@
 {
-  "num": "1165-DX",
-  "name": {
-    "ko": "어쌔신 / 오카다 이조 시말검 Ver.",
-    "ja": "ねんどろいど アサシン/岡田以蔵 始末剣Ver. (ねんどろいど あさしん/おかだいぞう しまつけんVer.)",
-    "en": "Nendoroid Assassin/Okada Izo: Shimatsuken Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8525,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190708/8525/61763/large/f49d95a8c841705aa42c2eee14d29b06.jpg",
+  "name" : {
+    "en" : "Nendoroid Assassin/Okada Izo: Shimatsuken Ver.",
+    "ja" : "ねんどろいど アサシン/岡田以蔵 始末剣Ver. (ねんどろいど あさしん/おかだいぞう しまつけんVer.)",
+    "ko" : "어쌔신 / 오카다 이조 시말검 Ver."
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 8525,
-  "price": 5800,
-  "release_date": [
+  "num" : "1165-DX",
+  "price" : 5800,
+  "release_date" : [
     "2019/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190708/8525/61763/large/f49d95a8c841705aa42c2eee14d29b06.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

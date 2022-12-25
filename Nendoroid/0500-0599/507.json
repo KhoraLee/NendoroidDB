@@ -1,21 +1,21 @@
 {
-  "num": "507",
-  "name": {
-    "ko": "난천",
-    "ja": "ねんどろいど シロナ (ねんどろいど しろな)",
-    "en": "Nendoroid Cynthia (ねんどろいど しろな)"
+  "gender" : "F",
+  "gsc_productNum" : 4870,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150226/4870/32483/large/7aa6fcfb56e2d9673bb1360598f56623.jpg",
+  "name" : {
+    "en" : "Nendoroid Cynthia (ねんどろいど しろな)",
+    "ja" : "ねんどろいど シロナ (ねんどろいど しろな)",
+    "ko" : "난천"
   },
-  "series": {
-    "ko": "포켓몬스터",
-    "ja": "ポケットモンスター",
-    "en": "Pokémon"
-  },
-  "gsc_productNum": 4870,
-  "price": 5500,
-  "release_date": [
+  "num" : "507",
+  "price" : 5500,
+  "release_date" : [
     "2015/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150226/4870/32483/large/7aa6fcfb56e2d9673bb1360598f56623.jpg",
-  "gender": "F",
-  "set": 103
+  "series" : {
+    "en" : "Pokémon",
+    "ja" : "ポケットモンスター",
+    "ko" : "포켓몬스터"
+  },
+  "set" : 103
 }

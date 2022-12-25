@@ -1,21 +1,21 @@
 {
-  "num": "855",
-  "name": {
-    "ko": "아마미야 마사키",
-    "ja": "ねんどろいど 雨宮雅貴 (ねんどろいど あまみやまさき)",
-    "en": "Nendoroid Masaki Amamiya"
+  "gender" : "M",
+  "gsc_productNum" : 6904,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171128/6904/48966/large/27b1620c47595d8b0282d1913a071ad3.jpg",
+  "name" : {
+    "en" : "Nendoroid Masaki Amamiya",
+    "ja" : "ねんどろいど 雨宮雅貴 (ねんどろいど あまみやまさき)",
+    "ko" : "아마미야 마사키"
   },
-  "series": {
-    "ko": "HIGH\u0026LOW g-sword",
-    "ja": "HiGH＆LOW g-sword",
-    "en": "HIGH\u0026LOW g-sword"
-  },
-  "gsc_productNum": 6904,
-  "price": 4278,
-  "release_date": [
+  "num" : "855",
+  "price" : 4278,
+  "release_date" : [
     "2018/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171128/6904/48966/large/27b1620c47595d8b0282d1913a071ad3.jpg",
-  "gender": "M",
-  "set": 163
+  "series" : {
+    "en" : "HIGH&LOW g-sword",
+    "ja" : "HiGH＆LOW g-sword",
+    "ko" : "HIGH&LOW g-sword"
+  },
+  "set" : 163
 }

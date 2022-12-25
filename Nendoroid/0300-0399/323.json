@@ -1,20 +1,20 @@
 {
-  "num": "323",
-  "name": {
-    "ko": "모노미",
-    "ja": "ねんどろいど モノミ (ねんどろいど ものみ)",
-    "en": "Nendoroid Monomi (ねんどろいど ものみ)"
+  "gsc_productNum" : 3890,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130422/3890/23557/large/61683447aaf7e77be143be47670d0d11.jpg",
+  "name" : {
+    "en" : "Nendoroid Monomi (ねんどろいど ものみ)",
+    "ja" : "ねんどろいど モノミ (ねんどろいど ものみ)",
+    "ko" : "모노미"
   },
-  "series": {
-    "ko": "단간론파",
-    "ja": "スーパーダンガンロンパ２ さよなら絶望学園",
-    "en": "Super Danganronpa 2: Sayonara Zetsubou Gakuen"
-  },
-  "gsc_productNum": 3890,
-  "price": 3143,
-  "release_date": [
+  "num" : "323",
+  "price" : 3143,
+  "release_date" : [
     "2013/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130422/3890/23557/large/61683447aaf7e77be143be47670d0d11.jpg",
-  "set": 79
+  "series" : {
+    "en" : "Super Danganronpa 2: Sayonara Zetsubou Gakuen",
+    "ja" : "スーパーダンガンロンパ２ さよなら絶望学園",
+    "ko" : "단간론파"
+  },
+  "set" : 79
 }

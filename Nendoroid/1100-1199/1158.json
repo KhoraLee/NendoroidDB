@@ -1,21 +1,21 @@
 {
-  "num": "1158",
-  "name": {
-    "ko": "어벤저/암굴왕 에드몽 당테스",
-    "ja": "ねんどろいど アヴェンジャー/巌窟王 エドモン・ダンテス (ねんどろいど あゔぇんじゃー/がんくつおう えどもん・だんてす)",
-    "en": "Nendoroid Avenger/King of the Cavern Edmond Dantès"
+  "gender" : "M",
+  "gsc_productNum" : 8452,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190620/8452/61232/large/b6e46aba39e8375c5e659fa3ab7cd861.jpg",
+  "name" : {
+    "en" : "Nendoroid Avenger/King of the Cavern Edmond Dantès",
+    "ja" : "ねんどろいど アヴェンジャー/巌窟王 エドモン・ダンテス (ねんどろいど あゔぇんじゃー/がんくつおう えどもん・だんてす)",
+    "ko" : "어벤저/암굴왕 에드몽 당테스"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 8452,
-  "price": 4500,
-  "release_date": [
+  "num" : "1158",
+  "price" : 4500,
+  "release_date" : [
     "2019/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190620/8452/61232/large/b6e46aba39e8375c5e659fa3ab7cd861.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

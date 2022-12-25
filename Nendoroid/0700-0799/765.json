@@ -1,21 +1,21 @@
 {
-  "num": "765",
-  "name": {
-    "ko": "야마구치 타다시",
-    "ja": "ねんどろいど 山口忠 (ねんどろいど やまぐちただし)",
-    "en": "Nendoroid Tadashi Yamaguchi"
+  "gender" : "M",
+  "gsc_productNum" : 6399,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170419/6399/45019/large/1c2605830044e309b93a72f24e44c456.jpg",
+  "name" : {
+    "en" : "Nendoroid Tadashi Yamaguchi",
+    "ja" : "ねんどろいど 山口忠 (ねんどろいど やまぐちただし)",
+    "ko" : "야마구치 타다시"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "Haikyu!!"
-  },
-  "gsc_productNum": 6399,
-  "price": 4278,
-  "release_date": [
+  "num" : "765",
+  "price" : 4278,
+  "release_date" : [
     "2017/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170419/6399/45019/large/1c2605830044e309b93a72f24e44c456.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

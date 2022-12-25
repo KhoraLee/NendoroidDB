@@ -1,21 +1,21 @@
 {
-  "num": "1179",
-  "name": {
-    "ko": "네로 클라우디우스 레이싱 Ver.",
-    "ja": "ねんどろいど ネロ・クラウディウス レーシングVer. (ねんどろいど せいばー/ねろ・くらうでぃうす れーしんぐVer.)",
-    "en": "Nendoroid Nero Claudius: Racing Ver."
+  "gender" : "F",
+  "gsc_productNum" : 8534,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190709/8534/66907/large/cbb73b05d97e11f41c116a34eb414bf7.jpg",
+  "name" : {
+    "en" : "Nendoroid Nero Claudius: Racing Ver.",
+    "ja" : "ねんどろいど ネロ・クラウディウス レーシングVer. (ねんどろいど せいばー/ねろ・くらうでぃうす れーしんぐVer.)",
+    "ko" : "네로 클라우디우스 레이싱 Ver."
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "GOODSMILE RACING ＆ TYPE-MOON RACING",
-    "en": "GOODSMILE RACING \u0026 TYPE-MOON RACING"
-  },
-  "gsc_productNum": 8534,
-  "price": 5500,
-  "release_date": [
+  "num" : "1179",
+  "price" : 5500,
+  "release_date" : [
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190709/8534/66907/large/cbb73b05d97e11f41c116a34eb414bf7.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "GOODSMILE RACING & TYPE-MOON RACING",
+    "ja" : "GOODSMILE RACING ＆ TYPE-MOON RACING",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

@@ -1,20 +1,20 @@
 {
-  "num": "644",
-  "name": {
-    "ko": "루루코",
-    "ja": "ねんどろいど ルル子 (ねんどろいど るるこ)",
-    "en": "Nendoroid Luluco"
+  "gender" : "F",
+  "gsc_productNum" : 5745,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160615/5745/39607/large/0632b17b689c8c10c73f6ec35c3f8c1d.jpg",
+  "name" : {
+    "en" : "Nendoroid Luluco",
+    "ja" : "ねんどろいど ルル子 (ねんどろいど るるこ)",
+    "ko" : "루루코"
   },
-  "series": {
-    "ko": "우주 패트롤 루루코",
-    "ja": "宇宙パトロールルル子",
-    "en": "Space Patrol Luluco"
-  },
-  "gsc_productNum": 5745,
-  "price": 4584,
-  "release_date": [
+  "num" : "644",
+  "price" : 4584,
+  "release_date" : [
     "2016/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160615/5745/39607/large/0632b17b689c8c10c73f6ec35c3f8c1d.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Space Patrol Luluco",
+    "ja" : "宇宙パトロールルル子",
+    "ko" : "우주 패트롤 루루코"
+  }
 }

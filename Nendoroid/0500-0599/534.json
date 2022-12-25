@@ -1,20 +1,20 @@
 {
-  "num": "534",
-  "name": {
-    "ko": "카자미 카즈키",
-    "ja": "ねんどろいど 風見一姫 (ねんどろいど かざみかずき)",
-    "en": "Nendoroid Kazuki Kazami (ねんどろいど かざみかずき)"
+  "gender" : "F",
+  "gsc_productNum" : 5079,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150616/5079/34090/large/5eb7cb5a9eeed2db80a8a361fa915ade.jpg",
+  "name" : {
+    "en" : "Nendoroid Kazuki Kazami (ねんどろいど かざみかずき)",
+    "ja" : "ねんどろいど 風見一姫 (ねんどろいど かざみかずき)",
+    "ko" : "카자미 카즈키"
   },
-  "series": {
-    "ko": "그리자이아의 과실",
-    "ja": "グリザイアの果実",
-    "en": "The Fruit of Grisaia"
-  },
-  "gsc_productNum": 5079,
-  "price": 4278,
-  "release_date": [
+  "num" : "534",
+  "price" : 4278,
+  "release_date" : [
     "2015/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150616/5079/34090/large/5eb7cb5a9eeed2db80a8a361fa915ade.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "The Fruit of Grisaia",
+    "ja" : "グリザイアの果実",
+    "ko" : "그리자이아의 과실"
+  }
 }

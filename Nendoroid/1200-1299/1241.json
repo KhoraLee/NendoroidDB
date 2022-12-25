@@ -1,20 +1,20 @@
 {
-  "num": "1241",
-  "name": {
-    "ko": "류마오신",
-    "ja": "ねんどろいど 劉昴星 (ねんどろいど りゅうまおしん)",
-    "en": "Nendoroid Liu Maoxing"
+  "gender" : "M",
+  "gsc_productNum" : 9018,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191126/9018/65583/large/6142f71d4f71ed3b751d904c16ab3e89.jpg",
+  "name" : {
+    "en" : "Nendoroid Liu Maoxing",
+    "ja" : "ねんどろいど 劉昴星 (ねんどろいど りゅうまおしん)",
+    "ko" : "류마오신"
   },
-  "series": {
-    "ko": "신 중화일미",
-    "ja": "真・中華一番！",
-    "en": "True Cooking Master Boy"
-  },
-  "gsc_productNum": 9018,
-  "price": 5000,
-  "release_date": [
+  "num" : "1241",
+  "price" : 5000,
+  "release_date" : [
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191126/9018/65583/large/6142f71d4f71ed3b751d904c16ab3e89.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "True Cooking Master Boy",
+    "ja" : "真・中華一番！",
+    "ko" : "신 중화일미"
+  }
 }

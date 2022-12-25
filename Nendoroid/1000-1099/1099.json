@@ -1,20 +1,20 @@
 {
-  "num": "1099",
-  "name": {
-    "ko": "기술단",
-    "ja": "ねんどろいど テキーズ (ねんどろいど てきーず)",
-    "en": "Nendoroid Techies"
+  "gsc_productNum" : 8206,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190327/8206/59188/large/9c22aad7159d7fb62633a8ab33203188.jpg",
+  "name" : {
+    "en" : "Nendoroid Techies",
+    "ja" : "ねんどろいど テキーズ (ねんどろいど てきーず)",
+    "ko" : "기술단"
   },
-  "series": {
-    "ko": "도타2",
-    "ja": "DOTA2",
-    "en": "DOTA 2"
-  },
-  "gsc_productNum": 8206,
-  "price": 6722,
-  "release_date": [
+  "num" : "1099",
+  "price" : 6722,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190327/8206/59188/large/9c22aad7159d7fb62633a8ab33203188.jpg",
-  "set": 129
+  "series" : {
+    "en" : "DOTA 2",
+    "ja" : "DOTA2",
+    "ko" : "도타2"
+  },
+  "set" : 129
 }

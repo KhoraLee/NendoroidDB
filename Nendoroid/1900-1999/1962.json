@@ -1,21 +1,21 @@
 {
-  "num": "1962",
-  "name": {
-    "ja": "ねんどろいど トール (ねんどろいど とーる)",
-    "en": "Nendoroid Tohru",
-    "ko": "토르"
+  "gender" : "F",
+  "gsc_productNum" : 13253,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220913/13253/104509/large/1670d29aba7f1f1a3e7e572026db8d2c.jpg",
+  "name" : {
+    "en" : "Nendoroid Tohru",
+    "ja" : "ねんどろいど トール (ねんどろいど とーる)",
+    "ko" : "토르"
   },
-  "series": {
-    "ja": "小林さんちのメイドラゴン",
-    "en": "Miss Kobayashi\u0027s Dragon Maid",
-    "ko": "코바야시네 메이드래곤"
-  },
-  "gsc_productNum": 13253,
-  "price": 7500,
-  "release_date": [
+  "num" : "1962",
+  "price" : 7500,
+  "release_date" : [
     "2023/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220913/13253/104509/large/1670d29aba7f1f1a3e7e572026db8d2c.jpg",
-  "gender": "F",
-  "set": 299
+  "series" : {
+    "en" : "Miss Kobayashi's Dragon Maid",
+    "ja" : "小林さんちのメイドラゴン",
+    "ko" : "코바야시네 메이드래곤"
+  },
+  "set" : 299
 }

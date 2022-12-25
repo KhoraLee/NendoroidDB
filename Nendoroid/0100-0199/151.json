@@ -1,21 +1,21 @@
 {
-  "num": "151",
-  "name": {
-    "ko": "마시로 모리타카",
-    "ja": "ねんどろいど 真城最高 (ねんどろいど ましろもりたか)",
-    "en": "Nendoroid Moritaka Mashiro (ねんどろいど ましろもりたか)"
+  "gender" : "M",
+  "gsc_productNum" : 3058,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20101221/3058/12475/large/317d6de1d3c12bdb2a183665e2cb2261.jpg",
+  "name" : {
+    "en" : "Nendoroid Moritaka Mashiro (ねんどろいど ましろもりたか)",
+    "ja" : "ねんどろいど 真城最高 (ねんどろいど ましろもりたか)",
+    "ko" : "마시로 모리타카"
   },
-  "series": {
-    "ko": "바쿠만",
-    "ja": "バクマン。",
-    "en": "Bakuman"
-  },
-  "gsc_productNum": 3058,
-  "price": 3981,
-  "release_date": [
+  "num" : "151",
+  "price" : 3981,
+  "release_date" : [
     "2011/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20101221/3058/12475/large/317d6de1d3c12bdb2a183665e2cb2261.jpg",
-  "gender": "M",
-  "set": 43
+  "series" : {
+    "en" : "Bakuman",
+    "ja" : "バクマン。",
+    "ko" : "바쿠만"
+  },
+  "set" : 43
 }

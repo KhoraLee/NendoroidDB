@@ -1,22 +1,22 @@
 {
-  "num": "457",
-  "name": {
-    "ko": "오노데라 코사키",
-    "ja": "ねんどろいど 小野寺小咲 (ねんどろいど おのでらこさき)",
-    "en": "Nendoroid Kosaki Onodera (ねんどろいど おのでらこさき)"
+  "gender" : "F",
+  "gsc_productNum" : 4698,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141024/4698/31064/large/e89ed213c946f3e6ec2ccb597e7a742c.jpg",
+  "name" : {
+    "en" : "Nendoroid Kosaki Onodera (ねんどろいど おのでらこさき)",
+    "ja" : "ねんどろいど 小野寺小咲 (ねんどろいど おのでらこさき)",
+    "ko" : "오노데라 코사키"
   },
-  "series": {
-    "ko": "니세코이",
-    "ja": "ニセコイ",
-    "en": "Nisekoi"
-  },
-  "gsc_productNum": 4698,
-  "price": 4074,
-  "release_date": [
+  "num" : "457",
+  "price" : 4074,
+  "release_date" : [
     "2015/02",
     "2015/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141024/4698/31064/large/e89ed213c946f3e6ec2ccb597e7a742c.jpg",
-  "gender": "F",
-  "set": 102
+  "series" : {
+    "en" : "Nisekoi",
+    "ja" : "ニセコイ",
+    "ko" : "니세코이"
+  },
+  "set" : 102
 }

@@ -1,19 +1,19 @@
 {
-  "num": "096a",
-  "name": {
-    "ko": "지에땅",
-    "ja": "ねんどろいど 海上じえいたん (ねんどろいど かいじょうじえいたん)"
+  "gender" : "F",
+  "gsc_productNum" : 3389,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111129/3389/16389/large/639b99d62c8ebff6546f084c74dac1bd.jpg",
+  "name" : {
+    "ja" : "ねんどろいど 海上じえいたん (ねんどろいど かいじょうじえいたん)",
+    "ko" : "지에땅"
   },
-  "series": {
-    "ko": "마법의 해병대원 픽셀☆마리땅",
-    "ja": "魔法の海兵隊員ぴくせる☆まりたん"
-  },
-  "gsc_productNum": 3389,
-  "price": 4714,
-  "release_date": [
+  "num" : "096a",
+  "price" : 4714,
+  "release_date" : [
     "2010/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111129/3389/16389/large/639b99d62c8ebff6546f084c74dac1bd.jpg",
-  "gender": "F",
-  "set": 15
+  "series" : {
+    "ja" : "魔法の海兵隊員ぴくせる☆まりたん",
+    "ko" : "마법의 해병대원 픽셀☆마리땅"
+  },
+  "set" : 15
 }

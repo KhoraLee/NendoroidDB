@@ -1,21 +1,21 @@
 {
-  "num": "911",
-  "name": {
-    "ko": "아라이상",
-    "ja": "ねんどろいど アライグマ (ねんどろいど あらいぐま)",
-    "en": "Nendoroid Common Raccoon"
+  "gender" : "F",
+  "gsc_productNum" : 7198,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180410/7198/51337/large/e5a175cd9b276ae61086905f395efedf.jpg",
+  "name" : {
+    "en" : "Nendoroid Common Raccoon",
+    "ja" : "ねんどろいど アライグマ (ねんどろいど あらいぐま)",
+    "ko" : "아라이상"
   },
-  "series": {
-    "ko": "케모노 프렌즈",
-    "ja": "けものフレンズ",
-    "en": "Kemono Friends"
-  },
-  "gsc_productNum": 7198,
-  "price": 4584,
-  "release_date": [
+  "num" : "911",
+  "price" : 4584,
+  "release_date" : [
     "2018/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180410/7198/51337/large/e5a175cd9b276ae61086905f395efedf.jpg",
-  "gender": "F",
-  "set": 155
+  "series" : {
+    "en" : "Kemono Friends",
+    "ja" : "けものフレンズ",
+    "ko" : "케모노 프렌즈"
+  },
+  "set" : 155
 }

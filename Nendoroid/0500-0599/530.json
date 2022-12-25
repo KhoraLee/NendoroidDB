@@ -1,21 +1,21 @@
 {
-  "num": "530",
-  "name": {
-    "ko": "토죠 노조미",
-    "ja": "ねんどろいど 東條希 (ねんどろいど とうじょうのぞみ)",
-    "en": "Nendoroid Nozomi Tojo (ねんどろいど とうじょうのぞみ)"
+  "gender" : "F",
+  "gsc_productNum" : 5053,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150605/5053/33889/large/64a4b879800fe6123caec9abb87ecd5a.jpg",
+  "name" : {
+    "en" : "Nendoroid Nozomi Tojo (ねんどろいど とうじょうのぞみ)",
+    "ja" : "ねんどろいど 東條希 (ねんどろいど とうじょうのぞみ)",
+    "ko" : "토죠 노조미"
   },
-  "series": {
-    "ko": "러브라이브!",
-    "ja": "ラブライブ！",
-    "en": "LoveLive!"
-  },
-  "gsc_productNum": 5053,
-  "price": 3565,
-  "release_date": [
+  "num" : "530",
+  "price" : 3565,
+  "release_date" : [
     "2015/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150605/5053/33889/large/64a4b879800fe6123caec9abb87ecd5a.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 105
 }

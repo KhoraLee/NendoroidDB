@@ -1,21 +1,21 @@
 {
-  "num": "830",
-  "name": {
-    "ko": "무라쿠모",
-    "ja": "ねんどろいど 叢雲 (ねんどろいど むらくも)",
-    "en": "Nendoroid Murakumo"
+  "gender" : "F",
+  "gsc_productNum" : 6749,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170926/6749/47804/large/afff79283a38327468b685f34db4529f.jpg",
+  "name" : {
+    "en" : "Nendoroid Murakumo",
+    "ja" : "ねんどろいど 叢雲 (ねんどろいど むらくも)",
+    "ko" : "무라쿠모"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 6749,
-  "price": 5907,
-  "release_date": [
+  "num" : "830",
+  "price" : 5907,
+  "release_date" : [
     "2018/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170926/6749/47804/large/afff79283a38327468b685f34db4529f.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

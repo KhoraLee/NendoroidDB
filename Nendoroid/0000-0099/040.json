@@ -1,21 +1,21 @@
 {
-  "num": "040",
-  "name": {
-    "ko": "카가미네 렌",
-    "ja": "ねんどろいど 鏡音レン (かがみねれん ねんどろいど)",
-    "en": "Nendoroid Kagamine Len (かがみねれん ねんどろいど)"
+  "gender" : "M",
+  "gsc_productNum" : 263,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/263/603/large/a01211f48fee515ed1cac25d85ed36fc.jpg",
+  "name" : {
+    "en" : "Nendoroid Kagamine Len (かがみねれん ねんどろいど)",
+    "ja" : "ねんどろいど 鏡音レン (かがみねれん ねんどろいど)",
+    "ko" : "카가미네 렌"
   },
-  "series": {
-    "ko": "보컬로이드(VOCALOID)",
-    "ja": "キャラクター・ボーカル・シリーズ02　鏡音リン・レン",
-    "en": "Character Vocal Series 02: Rin/Len Kagamine"
-  },
-  "gsc_productNum": 263,
-  "price": 3143,
-  "release_date": [
+  "num" : "040",
+  "price" : 3143,
+  "release_date" : [
     "2013/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/263/603/large/a01211f48fee515ed1cac25d85ed36fc.jpg",
-  "gender": "M",
-  "set": 11
+  "series" : {
+    "en" : "Character Vocal Series 02: Rin/Len Kagamine",
+    "ja" : "キャラクター・ボーカル・シリーズ02　鏡音リン・レン",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 11
 }

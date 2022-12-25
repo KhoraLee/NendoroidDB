@@ -1,21 +1,21 @@
 {
-  "num": "283",
-  "name": {
-    "ko": "아스나",
-    "ja": "ねんどろいど アスナ (ねんどろいど あすな)",
-    "en": "Nendoroid Asuna (ねんどろいど あすな)"
+  "gender" : "F",
+  "gsc_productNum" : 3710,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121011/3710/20832/large/15abf5928d9e3887440e7ac784b5dff6.jpg",
+  "name" : {
+    "en" : "Nendoroid Asuna (ねんどろいど あすな)",
+    "ja" : "ねんどろいど アスナ (ねんどろいど あすな)",
+    "ko" : "아스나"
   },
-  "series": {
-    "ko": "소드 아트 온라인",
-    "ja": "ソードアート・オンライン",
-    "en": "Sword Art Online"
-  },
-  "gsc_productNum": 3710,
-  "price": 3667,
-  "release_date": [
+  "num" : "283",
+  "price" : 3667,
+  "release_date" : [
     "2013/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121011/3710/20832/large/15abf5928d9e3887440e7ac784b5dff6.jpg",
-  "gender": "F",
-  "set": 70
+  "series" : {
+    "en" : "Sword Art Online",
+    "ja" : "ソードアート・オンライン",
+    "ko" : "소드 아트 온라인"
+  },
+  "set" : 70
 }

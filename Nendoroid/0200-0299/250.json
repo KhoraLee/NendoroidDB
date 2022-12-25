@@ -1,21 +1,21 @@
 {
-  "num": "250",
-  "name": {
-    "ko": "세이버 10th ANNIIVERSARY 에디션",
-    "ja": "ねんどろいど セイバー 10th ANNIVERSARY・エディション (ねんどろいど せいばー 10th ANNIVERSARY・えでぃしょん)",
-    "en": "Nendoroid Saber : 10th ANNIVERSARY Edition (ねんどろいど せいばー 10th ANNIVERSARY・えでぃしょん)"
+  "gender" : "F",
+  "gsc_productNum" : 3585,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120619/3585/18970/large/fc8774b69d007545e6747d8b9357d186.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber : 10th ANNIVERSARY Edition (ねんどろいど せいばー 10th ANNIVERSARY・えでぃしょん)",
+    "ja" : "ねんどろいど セイバー 10th ANNIVERSARY・エディション (ねんどろいど せいばー 10th ANNIVERSARY・えでぃしょん)",
+    "ko" : "세이버 10th ANNIIVERSARY 에디션"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/stay night",
-    "en": "Fate/stay night"
-  },
-  "gsc_productNum": 3585,
-  "price": 4190,
-  "release_date": [
+  "num" : "250",
+  "price" : 4190,
+  "release_date" : [
     "2012/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120619/3585/18970/large/fc8774b69d007545e6747d8b9357d186.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/stay night",
+    "ja" : "Fate/stay night",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

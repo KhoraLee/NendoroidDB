@@ -1,21 +1,21 @@
 {
-  "num": "1830",
-  "name": {
-    "ko": "우즈이 텐겐",
-    "ja": "ねんどろいど 宇髄天元 (ねんどろいど うずいてんげん)",
-    "en": "Nendoroid Tengen Uzui"
+  "gender" : "M",
+  "gsc_productNum" : 12366,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220218/12366/95609/large/d722df320df551d8a82004df19c92ab9.jpg",
+  "name" : {
+    "en" : "Nendoroid Tengen Uzui",
+    "ja" : "ねんどろいど 宇髄天元 (ねんどろいど うずいてんげん)",
+    "ko" : "우즈이 텐겐"
   },
-  "series": {
-    "ko": "귀멸의 칼날",
-    "ja": "鬼滅の刃",
-    "en": "Demon Slayer: Kimetsu no Yaiba"
-  },
-  "gsc_productNum": 12366,
-  "price": 6500,
-  "release_date": [
+  "num" : "1830",
+  "price" : 6500,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220218/12366/95609/large/d722df320df551d8a82004df19c92ab9.jpg",
-  "gender": "M",
-  "set": 222
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "set" : 222
 }

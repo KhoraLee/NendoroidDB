@@ -1,21 +1,21 @@
 {
-  "num": "687",
-  "name": {
-    "ko": "사카모토 미오",
-    "ja": "ねんどろいど 坂本美緒 (ねんどろいど さかもとみお)",
-    "en": "Nendoroid Mio Sakamoto"
+  "gender" : "F",
+  "gsc_productNum" : 6024,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161021/6024/41934/large/92a289c642185ac0cde30d362976e8d0.jpg",
+  "name" : {
+    "en" : "Nendoroid Mio Sakamoto",
+    "ja" : "ねんどろいど 坂本美緒 (ねんどろいど さかもとみお)",
+    "ko" : "사카모토 미오"
   },
-  "series": {
-    "ko": "스트라이크 위치스",
-    "ja": "ストライクウィッチーズ2",
-    "en": "Strike Witches 2"
-  },
-  "gsc_productNum": 6024,
-  "price": 5280,
-  "release_date": [
+  "num" : "687",
+  "price" : 5280,
+  "release_date" : [
     "2017/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161021/6024/41934/large/92a289c642185ac0cde30d362976e8d0.jpg",
-  "gender": "F",
-  "set": 16
+  "series" : {
+    "en" : "Strike Witches 2",
+    "ja" : "ストライクウィッチーズ2",
+    "ko" : "스트라이크 위치스"
+  },
+  "set" : 16
 }

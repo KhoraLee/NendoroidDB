@@ -1,21 +1,21 @@
 {
-  "num": "1049",
-  "name": {
-    "ko": "루시우",
-    "ja": "ねんどろいど ルシオ クラシックスキン・エディション (ねんどろいど るしお くらしっくすきん・えでぃしょん)",
-    "en": "Nendoroid Lúcio: Classic Skin Edition"
+  "gender" : "M",
+  "gsc_productNum" : 7864,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181130/7864/56458/large/0426e6797ff624a7bac504f5b4e1bc9e.jpg",
+  "name" : {
+    "en" : "Nendoroid Lúcio: Classic Skin Edition",
+    "ja" : "ねんどろいど ルシオ クラシックスキン・エディション (ねんどろいど るしお くらしっくすきん・えでぃしょん)",
+    "ko" : "루시우"
   },
-  "series": {
-    "ko": "오버워치",
-    "ja": "オーバーウォッチ",
-    "en": "Overwatch"
-  },
-  "gsc_productNum": 7864,
-  "price": 4991,
-  "release_date": [
+  "num" : "1049",
+  "price" : 4991,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181130/7864/56458/large/0426e6797ff624a7bac504f5b4e1bc9e.jpg",
-  "gender": "M",
-  "set": 150
+  "series" : {
+    "en" : "Overwatch",
+    "ja" : "オーバーウォッチ",
+    "ko" : "오버워치"
+  },
+  "set" : 150
 }

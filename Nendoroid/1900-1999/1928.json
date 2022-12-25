@@ -1,20 +1,20 @@
 {
-  "num": "1928",
-  "name": {
-    "ja": "ねんどろいど リビッツ (ねんどろいど りびっつ)",
-    "en": "Nendoroid Sackboy",
-    "ko": "색보이"
+  "gender" : "M",
+  "gsc_productNum" : 13089,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220809/13089/102617/large/79a3d22b8ccb2bb8d0d599f66fc9b5fd.jpg",
+  "name" : {
+    "en" : "Nendoroid Sackboy",
+    "ja" : "ねんどろいど リビッツ (ねんどろいど りびっつ)",
+    "ko" : "색보이"
   },
-  "series": {
-    "ja": "リトルビッグプラネット",
-    "en": "LittleBigPlanet",
-    "ko": "리틀빅플래닛"
-  },
-  "gsc_productNum": 13089,
-  "price": 7500,
-  "release_date": [
+  "num" : "1928",
+  "price" : 7500,
+  "release_date" : [
     "2023/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220809/13089/102617/large/79a3d22b8ccb2bb8d0d599f66fc9b5fd.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "LittleBigPlanet",
+    "ja" : "リトルビッグプラネット",
+    "ko" : "리틀빅플래닛"
+  }
 }

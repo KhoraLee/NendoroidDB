@@ -1,23 +1,23 @@
 {
-  "num": "563",
-  "name": {
-    "ko": "오이카와 토오루",
-    "ja": "ねんどろいど 及川徹 (ねんどろいど おいかわとおる)",
-    "en": "Nendoroid Toru Oikawa"
+  "gender" : "M",
+  "gsc_productNum" : 5222,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150910/5222/35456/large/976e1ed002159c3aef30d79a8cc4cf39.jpg",
+  "name" : {
+    "en" : "Nendoroid Toru Oikawa",
+    "ja" : "ねんどろいど 及川徹 (ねんどろいど おいかわとおる)",
+    "ko" : "오이카와 토오루"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!! セカンドシーズン",
-    "en": "Haikyu!! Second Season"
-  },
-  "gsc_productNum": 5222,
-  "price": 4074,
-  "release_date": [
+  "num" : "563",
+  "price" : 4074,
+  "release_date" : [
     "2016/01",
     "2017/05",
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150910/5222/35456/large/976e1ed002159c3aef30d79a8cc4cf39.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!! Second Season",
+    "ja" : "ハイキュー!! セカンドシーズン",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

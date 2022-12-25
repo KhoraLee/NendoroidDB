@@ -1,20 +1,20 @@
 {
-  "num": "369",
-  "name": {
-    "ko": "T.M.Revolution",
-    "ja": "ねんどろいど T.M.Revolution (ねんどろいど てぃー・えむ・れぼりゅーしょん)",
-    "en": "Nendoroid T.M. Revolution (ねんどろいど てぃー・えむ・れぼりゅーしょん)"
+  "gender" : "M",
+  "gsc_productNum" : 4054,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130909/4054/26170/large/6ab1a2054f64c0014972be8a0f70ee3a.jpg",
+  "name" : {
+    "en" : "Nendoroid T.M. Revolution (ねんどろいど てぃー・えむ・れぼりゅーしょん)",
+    "ja" : "ねんどろいど T.M.Revolution (ねんどろいど てぃー・えむ・れぼりゅーしょん)",
+    "ko" : "T.M.Revolution"
   },
-  "series": {
-    "ko": "T.M.Revolution",
-    "ja": "T.M.Revolution",
-    "en": "T.M Revolution"
-  },
-  "gsc_productNum": 4054,
-  "price": 5133,
-  "release_date": [
+  "num" : "369",
+  "price" : 5133,
+  "release_date" : [
     "2013/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130909/4054/26170/large/6ab1a2054f64c0014972be8a0f70ee3a.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "T.M Revolution",
+    "ja" : "T.M.Revolution",
+    "ko" : "T.M.Revolution"
+  }
 }

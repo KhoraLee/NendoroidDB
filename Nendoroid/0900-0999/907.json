@@ -1,22 +1,22 @@
 {
-  "num": "907",
-  "name": {
-    "ko": "게롤트",
-    "ja": "ねんどろいど ゲラルト (ねんどろいど げらると)",
-    "en": "Nendoroid Geralt"
+  "gender" : "M",
+  "gsc_productNum" : 7197,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180410/7197/51363/large/b03d365d61bc17e4c139ab59614208c0.jpg",
+  "name" : {
+    "en" : "Nendoroid Geralt",
+    "ja" : "ねんどろいど ゲラルト (ねんどろいど げらると)",
+    "ko" : "게롤트"
   },
-  "series": {
-    "ko": "위쳐 시리즈",
-    "ja": "ウィッチャー3 ワイルドハント",
-    "en": "The Witcher 3: Wild Hunt"
-  },
-  "gsc_productNum": 7197,
-  "price": 5297,
-  "release_date": [
+  "num" : "907",
+  "price" : 5297,
+  "release_date" : [
     "2018/09",
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180410/7197/51363/large/b03d365d61bc17e4c139ab59614208c0.jpg",
-  "gender": "M",
-  "set": 175
+  "series" : {
+    "en" : "The Witcher 3: Wild Hunt",
+    "ja" : "ウィッチャー3 ワイルドハント",
+    "ko" : "위쳐 시리즈"
+  },
+  "set" : 175
 }

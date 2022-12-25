@@ -1,21 +1,21 @@
 {
-  "num": "202",
-  "name": {
-    "ko": "KAITO 응원 Ver.",
-    "ja": "ねんどろいど KAITO 応援Ver. (ねんどろいど かいと おうえんVer.)",
-    "en": "Nendoroid KAITO: Cheerful Ver. (ねんどろいど かいと おうえんVer.)"
+  "gender" : "M",
+  "gsc_productNum" : 3305,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110930/3305/15740/large/c69fbe12eaf3d6273a8b0021b448e929.jpg",
+  "name" : {
+    "en" : "Nendoroid KAITO: Cheerful Ver. (ねんどろいど かいと おうえんVer.)",
+    "ja" : "ねんどろいど KAITO 応援Ver. (ねんどろいど かいと おうえんVer.)",
+    "ko" : "KAITO 응원 Ver."
   },
-  "series": {
-    "ko": "보컬로이드(VOCALOID)",
-    "ja": "KAITO",
-    "en": "KAITO"
-  },
-  "gsc_productNum": 3305,
-  "price": 3143,
-  "release_date": [
+  "num" : "202",
+  "price" : 3143,
+  "release_date" : [
     "2012/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110930/3305/15740/large/c69fbe12eaf3d6273a8b0021b448e929.jpg",
-  "gender": "M",
-  "set": 11
+  "series" : {
+    "en" : "KAITO",
+    "ja" : "KAITO",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 11
 }

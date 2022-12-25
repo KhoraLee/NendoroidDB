@@ -1,21 +1,21 @@
 {
-  "num": "1165",
-  "name": {
-    "ko": "어쌔신/오카다 이조",
-    "ja": "ねんどろいど アサシン/岡田以蔵 (ねんどろいど あさしん/おかだいぞう)",
-    "en": "Nendoroid Assassin/Okada Izo"
+  "gender" : "M",
+  "gsc_productNum" : 8526,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190708/8526/61759/large/6b47d6b8b629d77b78100a80d1a23a12.jpg",
+  "name" : {
+    "en" : "Nendoroid Assassin/Okada Izo",
+    "ja" : "ねんどろいど アサシン/岡田以蔵 (ねんどろいど あさしん/おかだいぞう)",
+    "ko" : "어쌔신/오카다 이조"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 8526,
-  "price": 4600,
-  "release_date": [
+  "num" : "1165",
+  "price" : 4600,
+  "release_date" : [
     "2019/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190708/8526/61759/large/6b47d6b8b629d77b78100a80d1a23a12.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

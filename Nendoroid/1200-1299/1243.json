@@ -1,21 +1,21 @@
 {
-  "num": "1243",
-  "name": {
-    "ko": "소라 긴코",
-    "ja": "ねんどろいど 空銀子 (ねんどろいど そらぎんこ)",
-    "en": "Nendoroid Ginko Sora"
+  "gender" : "F",
+  "gsc_productNum" : 9017,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191126/9017/65590/large/32f4cd58b76f361c87ac1763dc2f8ec1.jpg",
+  "name" : {
+    "en" : "Nendoroid Ginko Sora",
+    "ja" : "ねんどろいど 空銀子 (ねんどろいど そらぎんこ)",
+    "ko" : "소라 긴코"
   },
-  "series": {
-    "ko": "용왕이 하는 일!",
-    "ja": "りゅうおうのおしごと！",
-    "en": "The Ryuo\u0027s Work is Never Done!"
-  },
-  "gsc_productNum": 9017,
-  "price": 5500,
-  "release_date": [
+  "num" : "1243",
+  "price" : 5500,
+  "release_date" : [
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191126/9017/65590/large/32f4cd58b76f361c87ac1763dc2f8ec1.jpg",
-  "gender": "F",
-  "set": 168
+  "series" : {
+    "en" : "The Ryuo's Work is Never Done!",
+    "ja" : "りゅうおうのおしごと！",
+    "ko" : "용왕이 하는 일!"
+  },
+  "set" : 168
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1966",
-  "name": {
-    "ja": "ねんどろいど フー・F (ねんどろいど ふー・ふぁいたーず)",
-    "en": "Nendoroid Foo · F",
-    "ko": "푸 파이터즈"
+  "gender" : "F",
+  "gsc_productNum" : 13271,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220916/13271/104533/large/dc0be6238f83985d1a8fe061edd3b208.jpg",
+  "name" : {
+    "en" : "Nendoroid Foo · F",
+    "ja" : "ねんどろいど フー・F (ねんどろいど ふー・ふぁいたーず)",
+    "ko" : "푸 파이터즈"
   },
-  "series": {
-    "ja": "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』",
-    "en": "JoJo\u0027s Bizarre Adventure: Stone Ocean",
-    "ko": "죠죠의 기묘한 모험: 스톤 오션"
-  },
-  "gsc_productNum": 13271,
-  "price": 5478,
-  "release_date": [
+  "num" : "1966",
+  "price" : 5478,
+  "release_date" : [
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220916/13271/104533/large/dc0be6238f83985d1a8fe061edd3b208.jpg",
-  "gender": "F",
-  "set": 191
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure: Stone Ocean",
+    "ja" : "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』",
+    "ko" : "죠죠의 기묘한 모험: 스톤 오션"
+  },
+  "set" : 191
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1815",
-  "name": {
-    "ko": "쿠죠 죠린",
-    "ja": "ねんどろいど 空条徐倫 (ねんどろいど くうじょうジョリーン)",
-    "en": "Nendoroid Jolyne Cujoh"
+  "gender" : "F",
+  "gsc_productNum" : 12240,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220118/12240/94529/large/145b015d1a56f70a90052eaa379c75ba.jpg",
+  "name" : {
+    "en" : "Nendoroid Jolyne Cujoh",
+    "ja" : "ねんどろいど 空条徐倫 (ねんどろいど くうじょうジョリーン)",
+    "ko" : "쿠죠 죠린"
   },
-  "series": {
-    "ko": "죠죠의 기묘한 모험",
-    "ja": "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』",
-    "en": "JoJo’s Bizarre Adventure: Stone Ocean"
-  },
-  "gsc_productNum": 12240,
-  "price": 5478,
-  "release_date": [
+  "num" : "1815",
+  "price" : 5478,
+  "release_date" : [
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220118/12240/94529/large/145b015d1a56f70a90052eaa379c75ba.jpg",
-  "gender": "F",
-  "set": 191
+  "series" : {
+    "en" : "JoJo’s Bizarre Adventure: Stone Ocean",
+    "ja" : "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 191
 }

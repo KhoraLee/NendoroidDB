@@ -1,21 +1,21 @@
 {
-  "num": "1057",
-  "name": {
-    "ko": "테레사 마법소녀 TeRiRi Ver.",
-    "ja": "ねんどろいど テレサ 魔法少女TeRiRi Ver. (ねんどろいど てれさ まほうしょうじょTeRiRi Ver.)",
-    "en": "Nendoroid Theresa: Magical Girl TeRiRi Ver."
+  "gender" : "F",
+  "gsc_productNum" : 7944,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181221/7944/57063/large/a48383c8b36ce8bb5674c651736bd6b8.jpg",
+  "name" : {
+    "en" : "Nendoroid Theresa: Magical Girl TeRiRi Ver.",
+    "ja" : "ねんどろいど テレサ 魔法少女TeRiRi Ver. (ねんどろいど てれさ まほうしょうじょTeRiRi Ver.)",
+    "ko" : "테레사 마법소녀 TeRiRi Ver."
   },
-  "series": {
-    "ko": "붕괴 3rd",
-    "ja": "崩壊3rd",
-    "en": "Honkai Impact 3rd"
-  },
-  "gsc_productNum": 7944,
-  "price": 5907,
-  "release_date": [
+  "num" : "1057",
+  "price" : 5907,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181221/7944/57063/large/a48383c8b36ce8bb5674c651736bd6b8.jpg",
-  "gender": "F",
-  "set": 176
+  "series" : {
+    "en" : "Honkai Impact 3rd",
+    "ja" : "崩壊3rd",
+    "ko" : "붕괴 3rd"
+  },
+  "set" : 176
 }

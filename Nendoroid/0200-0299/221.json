@@ -1,21 +1,21 @@
 {
-  "num": "221",
-  "name": {
-    "ko": "나나사키 아이",
-    "ja": "ねんどろいど 七咲逢 (ねんどろいど ななさきあい)",
-    "en": "Nendoroid Ai Nanasaki (ねんどろいど ななさきあい)"
+  "gender" : "F",
+  "gsc_productNum" : 3430,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120112/3430/16817/large/72d5a1b43e842cf702f0f08821cbe289.jpg",
+  "name" : {
+    "en" : "Nendoroid Ai Nanasaki (ねんどろいど ななさきあい)",
+    "ja" : "ねんどろいど 七咲逢 (ねんどろいど ななさきあい)",
+    "ko" : "나나사키 아이"
   },
-  "series": {
-    "ko": "아마가미 SS",
-    "ja": "アマガミSS",
-    "en": "Amagami SS"
-  },
-  "gsc_productNum": 3430,
-  "price": 3667,
-  "release_date": [
+  "num" : "221",
+  "price" : 3667,
+  "release_date" : [
     "2012/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120112/3430/16817/large/72d5a1b43e842cf702f0f08821cbe289.jpg",
-  "gender": "F",
-  "set": 52
+  "series" : {
+    "en" : "Amagami SS",
+    "ja" : "アマガミSS",
+    "ko" : "아마가미 SS"
+  },
+  "set" : 52
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1858",
-  "name": {
-    "ko": "쿠로미",
-    "ja": "ねんどろいど クロミ (ねんどろいど くろみ)",
-    "en": "Nendoroid Kuromi"
+  "gender" : "F",
+  "gsc_productNum" : 12499,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220324/12499/97088/large/0ef15b385a2f7a7960649ff18e4d1535.jpg",
+  "name" : {
+    "en" : "Nendoroid Kuromi",
+    "ja" : "ねんどろいど クロミ (ねんどろいど くろみ)",
+    "ko" : "쿠로미"
   },
-  "series": {
-    "ko": "부탁해! 마이멜로디",
-    "ja": "おねがいマイメロディ",
-    "en": "Onegai My Melody"
-  },
-  "gsc_productNum": 12499,
-  "price": 5500,
-  "release_date": [
+  "num" : "1858",
+  "price" : 5500,
+  "release_date" : [
     "2023/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220324/12499/97088/large/0ef15b385a2f7a7960649ff18e4d1535.jpg",
-  "gender": "F",
-  "set": 287
+  "series" : {
+    "en" : "Onegai My Melody",
+    "ja" : "おねがいマイメロディ",
+    "ko" : "부탁해! 마이멜로디"
+  },
+  "set" : 287
 }

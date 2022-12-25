@@ -1,21 +1,21 @@
 {
-  "num": "1685",
-  "name": {
-    "ko": "판나코타 푸고",
-    "ja": "ねんどろいど パンナコッタ・フーゴ (ねんどろいど ぱんなこった・ふーご)",
-    "en": "Nendoroid Pannacotta Fugo"
+  "gender" : "M",
+  "gsc_productNum" : 11548,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210726/11548/88126/large/c8914f5ce7bf59a0e84c029e8498d33b.jpg",
+  "name" : {
+    "en" : "Nendoroid Pannacotta Fugo",
+    "ja" : "ねんどろいど パンナコッタ・フーゴ (ねんどろいど ぱんなこった・ふーご)",
+    "ko" : "판나코타 푸고"
   },
-  "series": {
-    "ko": "죠죠의 기묘한 모험",
-    "ja": "TVアニメ『ジョジョの奇妙な冒険 黄金の風』",
-    "en": "JoJo\u0027s Bizarre Adventure: Golden Wind"
-  },
-  "gsc_productNum": 11548,
-  "price": 5478,
-  "release_date": [
+  "num" : "1685",
+  "price" : 5478,
+  "release_date" : [
     "2022/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210726/11548/88126/large/c8914f5ce7bf59a0e84c029e8498d33b.jpg",
-  "gender": "M",
-  "set": 191
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure: Golden Wind",
+    "ja" : "TVアニメ『ジョジョの奇妙な冒険 黄金の風』",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 191
 }

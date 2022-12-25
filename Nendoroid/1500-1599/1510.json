@@ -1,21 +1,21 @@
 {
-  "num": "1510",
-  "name": {
-    "ko": "카마도 탄지로 최종선별 Ver.",
-    "ja": "ねんどろいど 竈門炭治郎 最終選別Ver. (ねんどろいど かまどたんじろう さいしゅうせんべつVer.)",
-    "en": "Nendoroid Tanjiro Kamado: Final Selection Ver."
+  "gender" : "M",
+  "gsc_productNum" : 10258,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201021/10258/77748/large/ec49626f0564ded299a87367e56d1fd7.jpg",
+  "name" : {
+    "en" : "Nendoroid Tanjiro Kamado: Final Selection Ver.",
+    "ja" : "ねんどろいど 竈門炭治郎 最終選別Ver. (ねんどろいど かまどたんじろう さいしゅうせんべつVer.)",
+    "ko" : "카마도 탄지로 최종선별 Ver."
   },
-  "series": {
-    "ko": "귀멸의 칼날",
-    "ja": "鬼滅の刃",
-    "en": "Demon Slayer: Kimetsu no Yaiba"
-  },
-  "gsc_productNum": 10258,
-  "price": 5800,
-  "release_date": [
+  "num" : "1510",
+  "price" : 5800,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201021/10258/77748/large/ec49626f0564ded299a87367e56d1fd7.jpg",
-  "gender": "M",
-  "set": 222
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "set" : 222
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1014",
-  "name": {
-    "ko": "하네사키 아야노",
-    "ja": "ねんどろいど 羽咲綾乃 (ねんどろいど はねさきあやの)",
-    "en": "Nendoroid Ayano Hanesaki"
+  "gender" : "F",
+  "gsc_productNum" : 7674,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181010/7674/55067/large/426928689b80a07d59303dcbd2d40f60.jpg",
+  "name" : {
+    "en" : "Nendoroid Ayano Hanesaki",
+    "ja" : "ねんどろいど 羽咲綾乃 (ねんどろいど はねさきあやの)",
+    "ko" : "하네사키 아야노"
   },
-  "series": {
-    "ko": "하네배드!",
-    "ja": "はねバド！",
-    "en": "Hanebado!"
-  },
-  "gsc_productNum": 7674,
-  "price": 4584,
-  "release_date": [
+  "num" : "1014",
+  "price" : 4584,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181010/7674/55067/large/426928689b80a07d59303dcbd2d40f60.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Hanebado!",
+    "ja" : "はねバド！",
+    "ko" : "하네배드!"
+  }
 }

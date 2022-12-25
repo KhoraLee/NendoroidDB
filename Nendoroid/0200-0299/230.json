@@ -1,21 +1,21 @@
 {
-  "num": "230",
-  "name": {
-    "ko": "이나미 마히루",
-    "ja": "ねんどろいど 伊波まひる (ねんどろいど いなみまひる)",
-    "en": "Nendoroid Mahiru Inami (ねんどろいど いなみまひる)"
+  "gender" : "F",
+  "gsc_productNum" : 3462,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120207/3462/17233/large/8d0bfb997ab7e518488602aaa315d775.jpg",
+  "name" : {
+    "en" : "Nendoroid Mahiru Inami (ねんどろいど いなみまひる)",
+    "ja" : "ねんどろいど 伊波まひる (ねんどろいど いなみまひる)",
+    "ko" : "이나미 마히루"
   },
-  "series": {
-    "ko": "WORKING!!",
-    "ja": "WORKING!!",
-    "en": "WORKING!!"
-  },
-  "gsc_productNum": 3462,
-  "price": 3981,
-  "release_date": [
+  "num" : "230",
+  "price" : 3981,
+  "release_date" : [
     "2012/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120207/3462/17233/large/8d0bfb997ab7e518488602aaa315d775.jpg",
-  "gender": "F",
-  "set": 53
+  "series" : {
+    "en" : "WORKING!!",
+    "ja" : "WORKING!!",
+    "ko" : "WORKING!!"
+  },
+  "set" : 53
 }

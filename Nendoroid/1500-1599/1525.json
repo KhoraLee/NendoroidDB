@@ -1,20 +1,20 @@
 {
-  "num": "1525",
-  "name": {
-    "ko": "크림베일",
-    "ja": "ねんどろいど クリムヴェール (ねんどろいど くりむゔぇーる)",
-    "en": "Nendoroid Crimvael"
+  "gender" : "A",
+  "gsc_productNum" : 10464,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201130/10464/77973/large/f3f718f63fb3387dc38a400ac89f1f6e.jpg",
+  "name" : {
+    "en" : "Nendoroid Crimvael",
+    "ja" : "ねんどろいど クリムヴェール (ねんどろいど くりむゔぇーる)",
+    "ko" : "크림베일"
   },
-  "series": {
-    "ko": "이종족 리뷰어스",
-    "ja": "異種族レビュアーズ",
-    "en": "Interspecies Reviewers"
-  },
-  "gsc_productNum": 10464,
-  "price": 6200,
-  "release_date": [
+  "num" : "1525",
+  "price" : 6200,
+  "release_date" : [
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201130/10464/77973/large/f3f718f63fb3387dc38a400ac89f1f6e.jpg",
-  "gender": "A"
+  "series" : {
+    "en" : "Interspecies Reviewers",
+    "ja" : "異種族レビュアーズ",
+    "ko" : "이종족 리뷰어스"
+  }
 }

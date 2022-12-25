@@ -1,22 +1,22 @@
 {
-  "num": "773",
-  "name": {
-    "ko": "하나조노 타에",
-    "ja": "ねんどろいど 花園たえ (ねんどろいど はなぞのたえ)",
-    "en": "Nendoroid Tae Hanazono"
+  "gender" : "F",
+  "gsc_productNum" : 6452,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170523/6452/45494/large/a0d23182db73291edd502d981469010e.jpg",
+  "name" : {
+    "en" : "Nendoroid Tae Hanazono",
+    "ja" : "ねんどろいど 花園たえ (ねんどろいど はなぞのたえ)",
+    "ko" : "하나조노 타에"
   },
-  "series": {
-    "ko": "BanG Dream!",
-    "ja": "BanG Dream!",
-    "en": "BanG Dream!"
-  },
-  "gsc_productNum": 6452,
-  "price": 4584,
-  "release_date": [
+  "num" : "773",
+  "price" : 4584,
+  "release_date" : [
     "2017/11",
     "2019/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170523/6452/45494/large/a0d23182db73291edd502d981469010e.jpg",
-  "gender": "F",
-  "set": 152
+  "series" : {
+    "en" : "BanG Dream!",
+    "ja" : "BanG Dream!",
+    "ko" : "BanG Dream!"
+  },
+  "set" : 152
 }

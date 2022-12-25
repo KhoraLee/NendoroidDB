@@ -1,20 +1,20 @@
 {
-  "num": "146",
-  "name": {
-    "ko": "하루짱",
-    "ja": "ねんどろいど 春ちゃん (ねんどろいど はるちゃん)",
-    "en": "Nendoroid Haru-chan (ねんどろいど はるちゃん)"
+  "gender" : "F",
+  "gsc_productNum" : 3027,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20101129/3027/12101/large/254b3ab2792f252772e17254be46a5f9.jpg",
+  "name" : {
+    "en" : "Nendoroid Haru-chan (ねんどろいど はるちゃん)",
+    "ja" : "ねんどろいど 春ちゃん (ねんどろいど はるちゃん)",
+    "ko" : "하루짱"
   },
-  "series": {
-    "ko": "NHK 기상예보",
-    "ja": "春ちゃんの気象豆知識",
-    "en": "Haru-chan\u0027s Weather Trivia"
-  },
-  "gsc_productNum": 3027,
-  "price": 3981,
-  "release_date": [
+  "num" : "146",
+  "price" : 3981,
+  "release_date" : [
     "2011/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20101129/3027/12101/large/254b3ab2792f252772e17254be46a5f9.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Haru-chan's Weather Trivia",
+    "ja" : "春ちゃんの気象豆知識",
+    "ko" : "NHK 기상예보"
+  }
 }

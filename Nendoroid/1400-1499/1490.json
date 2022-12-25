@@ -1,20 +1,20 @@
 {
-  "num": "1490",
-  "name": {
-    "ko": "스티치",
-    "ja": "ねんどろいど スティッチ (ねんどろいど すてぃっち)",
-    "en": "Nendoroid Stitch"
+  "gsc_productNum" : 10253,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201020/10253/76044/large/2bd51b57ed90cbb0ef87dd1795290395.jpg",
+  "name" : {
+    "en" : "Nendoroid Stitch",
+    "ja" : "ねんどろいど スティッチ (ねんどろいど すてぃっち)",
+    "ko" : "스티치"
   },
-  "series": {
-    "ko": "릴로\u0026스티치",
-    "ja": "リロ＆スティッチ",
-    "en": "Lilo \u0026 Stitch"
-  },
-  "gsc_productNum": 10253,
-  "price": 6500,
-  "release_date": [
+  "num" : "1490",
+  "price" : 6500,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201020/10253/76044/large/2bd51b57ed90cbb0ef87dd1795290395.jpg",
-  "set": 32
+  "series" : {
+    "en" : "Lilo & Stitch",
+    "ja" : "リロ＆スティッチ",
+    "ko" : "릴로&스티치"
+  },
+  "set" : 32
 }

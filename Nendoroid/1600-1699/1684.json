@@ -1,21 +1,21 @@
 {
-  "num": "1684",
-  "name": {
-    "ko": "나란차 길가",
-    "ja": "ねんどろいど ナランチャ・ギルガ (ねんどろいど ならんちゃ・ぎるが)",
-    "en": "Nendoroid Narancia Ghirga"
+  "gender" : "M",
+  "gsc_productNum" : 11540,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210726/11540/87582/large/a66f1029a7b41d07a3e5ebf2663c406b.jpg",
+  "name" : {
+    "en" : "Nendoroid Narancia Ghirga",
+    "ja" : "ねんどろいど ナランチャ・ギルガ (ねんどろいど ならんちゃ・ぎるが)",
+    "ko" : "나란차 길가"
   },
-  "series": {
-    "ko": "죠죠의 기묘한 모험",
-    "ja": "TVアニメ『ジョジョの奇妙な冒険 黄金の風』",
-    "en": "JoJo\u0027s Bizarre Adventure: Golden Wind"
-  },
-  "gsc_productNum": 11540,
-  "price": 5478,
-  "release_date": [
+  "num" : "1684",
+  "price" : 5478,
+  "release_date" : [
     "2022/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210726/11540/87582/large/a66f1029a7b41d07a3e5ebf2663c406b.jpg",
-  "gender": "M",
-  "set": 191
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure: Golden Wind",
+    "ja" : "TVアニメ『ジョジョの奇妙な冒険 黄金の風』",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 191
 }

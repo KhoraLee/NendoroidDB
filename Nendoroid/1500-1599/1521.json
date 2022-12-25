@@ -1,21 +1,21 @@
 {
-  "num": "1521",
-  "name": {
-    "ko": "에이야퍄들라",
-    "ja": "ねんどろいど エイヤフィヤトラ (ねんどろいど えいやふぃやとら)",
-    "en": "Nendoroid Eyjafjalla"
+  "gender" : "F",
+  "gsc_productNum" : 10427,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201124/10427/77657/large/956595d07970c48b53d9561a56824204.jpg",
+  "name" : {
+    "en" : "Nendoroid Eyjafjalla",
+    "ja" : "ねんどろいど エイヤフィヤトラ (ねんどろいど えいやふぃやとら)",
+    "ko" : "에이야퍄들라"
   },
-  "series": {
-    "ko": "명일방주",
-    "ja": "アークナイツ",
-    "en": "Arknights"
-  },
-  "gsc_productNum": 10427,
-  "price": 5600,
-  "release_date": [
+  "num" : "1521",
+  "price" : 5600,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201124/10427/77657/large/956595d07970c48b53d9561a56824204.jpg",
-  "gender": "F",
-  "set": 216
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 216
 }

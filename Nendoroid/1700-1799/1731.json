@@ -1,21 +1,21 @@
 {
-  "num": "1731",
-  "name": {
-    "ko": "히메사카 노아",
-    "ja": "ねんどろいど 姫坂乃愛 (ねんどろいど ひめさかのあ)",
-    "en": "Nendoroid Noa Himesaka"
+  "gender" : "F",
+  "gsc_productNum" : 11847,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210930/11847/90981/large/76fb1f88b429f5664c1aa45f03375ec2.jpg",
+  "name" : {
+    "en" : "Nendoroid Noa Himesaka",
+    "ja" : "ねんどろいど 姫坂乃愛 (ねんどろいど ひめさかのあ)",
+    "ko" : "히메사카 노아"
   },
-  "series": {
-    "ko": "나에게 천사가 내려왔다!",
-    "ja": "私に天使が舞い降りた！プレシャス・フレンズ",
-    "en": "Wataten!: An Angel Flew Down to Me"
-  },
-  "gsc_productNum": 11847,
-  "price": 4800,
-  "release_date": [
+  "num" : "1731",
+  "price" : 4800,
+  "release_date" : [
     "2022/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210930/11847/90981/large/76fb1f88b429f5664c1aa45f03375ec2.jpg",
-  "gender": "F",
-  "set": 223
+  "series" : {
+    "en" : "Wataten!: An Angel Flew Down to Me",
+    "ja" : "私に天使が舞い降りた！プレシャス・フレンズ",
+    "ko" : "나에게 천사가 내려왔다!"
+  },
+  "set" : 223
 }

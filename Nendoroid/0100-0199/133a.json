@@ -1,21 +1,21 @@
 {
-  "num": "133a",
-  "name": {
-    "ko": "카트레아",
-    "ja": "ねんどろいど カトレア (ねんどろいど かとれあ)",
-    "en": "Nendoroid Cattleya (ねんどろいど かとれあ)"
+  "gender" : "F",
+  "gsc_productNum" : 2960,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100907/2960/11304/large/564efcbde3ebcc339ee0f991fe87ee45.jpg",
+  "name" : {
+    "en" : "Nendoroid Cattleya (ねんどろいど かとれあ)",
+    "ja" : "ねんどろいど カトレア (ねんどろいど かとれあ)",
+    "ko" : "카트레아"
   },
-  "series": {
-    "ko": "퀸즈 블레이드",
-    "ja": "クイーンズブレイド",
-    "en": "Queen\u0027s Blade"
-  },
-  "gsc_productNum": 2960,
-  "price": 4190,
-  "release_date": [
+  "num" : "133a",
+  "price" : 4190,
+  "release_date" : [
     "2010/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100907/2960/11304/large/564efcbde3ebcc339ee0f991fe87ee45.jpg",
-  "gender": "F",
-  "set": 35
+  "series" : {
+    "en" : "Queen's Blade",
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
 }

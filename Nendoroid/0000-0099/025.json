@@ -1,21 +1,21 @@
 {
-  "num": "025",
-  "name": {
-    "ko": "코토나 엘레강스",
-    "ja": "ねんどろいど コトナ・エレガンス (ことな・えれがんす　ねんどろいど)",
-    "en": "Nendoroid Kotona Elegance (ことな・えれがんす　ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 638,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/638/983/large/ce8c3c10673d0e751ca0e26fc4440d9d.jpg",
+  "name" : {
+    "en" : "Nendoroid Kotona Elegance (ことな・えれがんす　ねんどろいど)",
+    "ja" : "ねんどろいど コトナ・エレガンス (ことな・えれがんす　ねんどろいど)",
+    "ko" : "코토나 엘레강스"
   },
-  "series": {
-    "ko": "조이드 제네시스",
-    "ja": "ゾイドジェネシス",
-    "en": "Zoids Genesis"
-  },
-  "gsc_productNum": 638,
-  "price": 4190,
-  "release_date": [
+  "num" : "025",
+  "price" : 4190,
+  "release_date" : [
     "2007/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/638/983/large/ce8c3c10673d0e751ca0e26fc4440d9d.jpg",
-  "gender": "F",
-  "set": 8
+  "series" : {
+    "en" : "Zoids Genesis",
+    "ja" : "ゾイドジェネシス",
+    "ko" : "조이드 제네시스"
+  },
+  "set" : 8
 }

@@ -1,21 +1,21 @@
 {
-  "num": "456",
-  "name": {
-    "ko": "악마 호무라",
-    "ja": "ねんどろいど 悪魔ほむら (ねんどろいど あくまほむら)",
-    "en": "Nendoroid Devil Homura (ねんどろいど あくまほむら)"
+  "gender" : "F",
+  "gsc_productNum" : 4624,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140924/4624/30579/large/ac67a005b2762d6611c745079df1c70b.jpg",
+  "name" : {
+    "en" : "Nendoroid Devil Homura (ねんどろいど あくまほむら)",
+    "ja" : "ねんどろいど 悪魔ほむら (ねんどろいど あくまほむら)",
+    "ko" : "악마 호무라"
   },
-  "series": {
-    "ko": "마법소녀 마도카 마기카",
-    "ja": "劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語",
-    "en": "Puella Magi Madoka Magica The Movie -Rebellion-"
-  },
-  "gsc_productNum": 4624,
-  "price": 4584,
-  "release_date": [
+  "num" : "456",
+  "price" : 4584,
+  "release_date" : [
     "2015/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140924/4624/30579/large/ac67a005b2762d6611c745079df1c70b.jpg",
-  "gender": "F",
-  "set": 46
+  "series" : {
+    "en" : "Puella Magi Madoka Magica The Movie -Rebellion-",
+    "ja" : "劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語",
+    "ko" : "마법소녀 마도카 마기카"
+  },
+  "set" : 46
 }

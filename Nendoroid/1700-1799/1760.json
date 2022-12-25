@@ -1,20 +1,20 @@
 {
-  "num": "1760",
-  "name": {
-    "ko": "이가라시 후타바",
-    "ja": "ねんどろいど 五十嵐 双葉 (ねんどろいど いがらし ふたば)",
-    "en": "Nendoroid Futaba Igarashi"
+  "gender" : "F",
+  "gsc_productNum" : 12017,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211117/12017/92235/large/a4d280d4aca310cc9b4734076241d22a.jpg",
+  "name" : {
+    "en" : "Nendoroid Futaba Igarashi",
+    "ja" : "ねんどろいど 五十嵐 双葉 (ねんどろいど いがらし ふたば)",
+    "ko" : "이가라시 후타바"
   },
-  "series": {
-    "ko": "선배가 짜증나는 후배이야기",
-    "ja": "先輩がうざい後輩の話",
-    "en": "My Senpai Is Annoying"
-  },
-  "gsc_productNum": 12017,
-  "price": 5500,
-  "release_date": [
+  "num" : "1760",
+  "price" : 5500,
+  "release_date" : [
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211117/12017/92235/large/a4d280d4aca310cc9b4734076241d22a.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "My Senpai Is Annoying",
+    "ja" : "先輩がうざい後輩の話",
+    "ko" : "선배가 짜증나는 후배이야기"
+  }
 }

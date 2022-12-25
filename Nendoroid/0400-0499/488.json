@@ -1,21 +1,21 @@
 {
-  "num": "488",
-  "name": {
-    "ko": "타치바나 마리카",
-    "ja": "ねんどろいど 橘万里花 (ねんどろいど たちばなまりか)",
-    "en": "Nendoroid Marika Tachibana (ねんどろいど たちばなまりか)"
+  "gender" : "F",
+  "gsc_productNum" : 4779,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141216/4779/31776/large/34dd5a76ef3bc720e1fc03cbdde1696f.jpg",
+  "name" : {
+    "en" : "Nendoroid Marika Tachibana (ねんどろいど たちばなまりか)",
+    "ja" : "ねんどろいど 橘万里花 (ねんどろいど たちばなまりか)",
+    "ko" : "타치바나 마리카"
   },
-  "series": {
-    "ko": "니세코이",
-    "ja": "ニセコイ",
-    "en": "Nisekoi"
-  },
-  "gsc_productNum": 4779,
-  "price": 4278,
-  "release_date": [
+  "num" : "488",
+  "price" : 4278,
+  "release_date" : [
     "2015/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141216/4779/31776/large/34dd5a76ef3bc720e1fc03cbdde1696f.jpg",
-  "gender": "F",
-  "set": 102
+  "series" : {
+    "en" : "Nisekoi",
+    "ja" : "ニセコイ",
+    "ko" : "니세코이"
+  },
+  "set" : 102
 }

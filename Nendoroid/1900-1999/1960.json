@@ -1,21 +1,21 @@
 {
-  "num": "1960",
-  "name": {
-    "ja": "ねんどろいど 壱原侑子 (ねんどろいど いちはらゆうこ)",
-    "en": "Nendoroid Yuko Ichihara",
-    "ko": "이치하라 유코"
+  "gender" : "F",
+  "gsc_productNum" : 13482,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221102/13482/106662/large/2bcc578ea18d7bc5ed6742e43476d897.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuko Ichihara",
+    "ja" : "ねんどろいど 壱原侑子 (ねんどろいど いちはらゆうこ)",
+    "ko" : "이치하라 유코"
   },
-  "series": {
-    "ja": "xxxHOLiC",
-    "en": "xxxHOLiC",
-    "ko": "xxx홀릭"
-  },
-  "gsc_productNum": 13482,
-  "price": 7500,
-  "release_date": [
+  "num" : "1960",
+  "price" : 7500,
+  "release_date" : [
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221102/13482/106662/large/2bcc578ea18d7bc5ed6742e43476d897.jpg",
-  "gender": "F",
-  "set": 298
+  "series" : {
+    "en" : "xxxHOLiC",
+    "ja" : "xxxHOLiC",
+    "ko" : "xxx홀릭"
+  },
+  "set" : 298
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1597",
-  "name": {
-    "ko": "미야무라 이즈미",
-    "ja": "ねんどろいど 宮村伊澄 (ねんどろいど みやむらいずみ)",
-    "en": "Nendoroid Izumi Miyamura"
+  "gender" : "M",
+  "gsc_productNum" : 10961,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210323/10961/82574/large/f7a0aef309950c40c28d35f8891f90c0.jpg",
+  "name" : {
+    "en" : "Nendoroid Izumi Miyamura",
+    "ja" : "ねんどろいど 宮村伊澄 (ねんどろいど みやむらいずみ)",
+    "ko" : "미야무라 이즈미"
   },
-  "series": {
-    "ko": "호리미야",
-    "ja": "ホリミヤ",
-    "en": "Horimiya"
-  },
-  "gsc_productNum": 10961,
-  "price": 5400,
-  "release_date": [
+  "num" : "1597",
+  "price" : 5400,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210323/10961/82574/large/f7a0aef309950c40c28d35f8891f90c0.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Horimiya",
+    "ja" : "ホリミヤ",
+    "ko" : "호리미야"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1581",
-  "name": {
-    "ko": "빌 셴하이트",
-    "ja": "ねんどろいど ヴィル・シェーンハイト (ねんどろいど ゔぃる・しぇーんはいと)",
-    "en": "Nendoroid Vil Schoenheit"
+  "gender" : "F",
+  "gsc_productNum" : 10865,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210225/10865/81881/large/079f865247996473fada797ca8ee522d.jpg",
+  "name" : {
+    "en" : "Nendoroid Vil Schoenheit",
+    "ja" : "ねんどろいど ヴィル・シェーンハイト (ねんどろいど ゔぃる・しぇーんはいと)",
+    "ko" : "빌 셴하이트"
   },
-  "series": {
-    "ko": "디즈니 트위스티드 원더랜드",
-    "ja": "『ディズニー ツイステッドワンダーランド』",
-    "en": "Disney Twisted-Wonderland"
-  },
-  "gsc_productNum": 10865,
-  "price": 6200,
-  "release_date": [
+  "num" : "1581",
+  "price" : 6200,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210225/10865/81881/large/079f865247996473fada797ca8ee522d.jpg",
-  "gender": "F",
-  "set": 250
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 250
 }

@@ -1,22 +1,22 @@
 {
-  "num": "841",
-  "name": {
-    "ko": "히게키리",
-    "ja": "ねんどろいど 髭切 (ねんどろいど ひげきり)",
-    "en": "Nendoroid Higekiri"
+  "gender" : "M",
+  "gsc_productNum" : 6826,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171026/6826/48401/large/971eb4b9f1b79b1dcf1f2730d24611a0.jpg",
+  "name" : {
+    "en" : "Nendoroid Higekiri",
+    "ja" : "ねんどろいど 髭切 (ねんどろいど ひげきり)",
+    "ko" : "히게키리"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 6826,
-  "price": 4800,
-  "release_date": [
+  "num" : "841",
+  "price" : 4800,
+  "release_date" : [
     "2018/06",
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171026/6826/48401/large/971eb4b9f1b79b1dcf1f2730d24611a0.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

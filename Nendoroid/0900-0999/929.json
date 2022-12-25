@@ -1,22 +1,22 @@
 {
-  "num": "929",
-  "name": {
-    "ko": "키리마 샤로",
-    "ja": "ねんどろいど シャロ (ねんどろいど しゃろ)",
-    "en": "Nendoroid Syaro"
+  "gender" : "F",
+  "gsc_productNum" : 7261,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180508/7261/51858/large/613f614845b308ab78d605d60a6c2845.jpg",
+  "name" : {
+    "en" : "Nendoroid Syaro",
+    "ja" : "ねんどろいど シャロ (ねんどろいど しゃろ)",
+    "ko" : "키리마 샤로"
   },
-  "series": {
-    "ko": "주문은 토끼입니까?",
-    "ja": "ご注文はうさぎですか？？",
-    "en": "Is the Order a Rabbit??"
-  },
-  "gsc_productNum": 7261,
-  "price": 4800,
-  "release_date": [
+  "num" : "929",
+  "price" : 4800,
+  "release_date" : [
     "2018/12",
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180508/7261/51858/large/613f614845b308ab78d605d60a6c2845.jpg",
-  "gender": "F",
-  "set": 123
+  "series" : {
+    "en" : "Is the Order a Rabbit??",
+    "ja" : "ご注文はうさぎですか？？",
+    "ko" : "주문은 토끼입니까?"
+  },
+  "set" : 123
 }

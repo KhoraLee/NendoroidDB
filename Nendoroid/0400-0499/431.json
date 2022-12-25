@@ -1,21 +1,21 @@
 {
-  "num": "431",
-  "name": {
-    "ko": "오오이",
-    "ja": "ねんどろいど 大井 (ねんどろいど おおい)",
-    "en": "Nendoroid Ooi (ねんどろいど おおい)"
+  "gender" : "F",
+  "gsc_productNum" : 4452,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140616/4452/29258/large/6d626e577f795ef125280e5c41c766de.jpg",
+  "name" : {
+    "en" : "Nendoroid Ooi (ねんどろいど おおい)",
+    "ja" : "ねんどろいど 大井 (ねんどろいど おおい)",
+    "ko" : "오오이"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 4452,
-  "price": 4584,
-  "release_date": [
+  "num" : "431",
+  "price" : 4584,
+  "release_date" : [
     "2014/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140616/4452/29258/large/6d626e577f795ef125280e5c41c766de.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

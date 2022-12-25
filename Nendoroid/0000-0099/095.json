@@ -1,21 +1,21 @@
 {
-  "num": "095",
-  "name": {
-    "ko": "타카마치 나노하 극장판 Ver.",
-    "ja": "ねんどろいど 高町なのは The MOVIE 1st Ver. (ねんどろいど たかまちなのは ざ むーびー ふぁーすと ばーじょん)",
-    "en": "Nendoroid Nanoha Takamachi: The MOVIE 1st Ver. (ねんどろいど たかまちなのは ざ むーびー ふぁーすと ばーじょん)"
+  "gender" : "F",
+  "gsc_productNum" : 2729,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091109/2729/8270/large/6ad60c47625ad8bacfda8f296df19b4b.jpg",
+  "name" : {
+    "en" : "Nendoroid Nanoha Takamachi: The MOVIE 1st Ver. (ねんどろいど たかまちなのは ざ むーびー ふぁーすと ばーじょん)",
+    "ja" : "ねんどろいど 高町なのは The MOVIE 1st Ver. (ねんどろいど たかまちなのは ざ むーびー ふぁーすと ばーじょん)",
+    "ko" : "타카마치 나노하 극장판 Ver."
   },
-  "series": {
-    "ko": "마법소녀 리리컬 나노하",
-    "ja": "魔法少女リリカルなのは The MOVIE 1st",
-    "en": "Magical Girl Lyrical Nanoha The MOVIE 1st"
-  },
-  "gsc_productNum": 2729,
-  "price": 3667,
-  "release_date": [
+  "num" : "095",
+  "price" : 3667,
+  "release_date" : [
     "2010/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091109/2729/8270/large/6ad60c47625ad8bacfda8f296df19b4b.jpg",
-  "gender": "F",
-  "set": 30
+  "series" : {
+    "en" : "Magical Girl Lyrical Nanoha The MOVIE 1st",
+    "ja" : "魔法少女リリカルなのは The MOVIE 1st",
+    "ko" : "마법소녀 리리컬 나노하"
+  },
+  "set" : 30
 }

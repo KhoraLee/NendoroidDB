@@ -1,20 +1,20 @@
 {
-  "num": "1997",
-  "name": {
-    "ja": "ねんどろいど フラン (ねんどろいど ふらん)",
-    "en": "Nendoroid Fran",
-    "ko": "프란"
+  "gender" : "F",
+  "gsc_productNum" : 13586,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221121/13586/107585/large/4b3828efd8cc8b3522d960749714f45e.jpg",
+  "name" : {
+    "en" : "Nendoroid Fran",
+    "ja" : "ねんどろいど フラン (ねんどろいど ふらん)",
+    "ko" : "프란"
   },
-  "series": {
-    "ja": "転生したら剣でした",
-    "en": "Reincarnated as a Sword",
-    "ko": "전생했더니 검이었습니다"
-  },
-  "gsc_productNum": 13586,
-  "price": 7900,
-  "release_date": [
+  "num" : "1997",
+  "price" : 7900,
+  "release_date" : [
     "2023/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221121/13586/107585/large/4b3828efd8cc8b3522d960749714f45e.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Reincarnated as a Sword",
+    "ja" : "転生したら剣でした",
+    "ko" : "전생했더니 검이었습니다"
+  }
 }

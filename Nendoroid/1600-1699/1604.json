@@ -1,21 +1,21 @@
 {
-  "num": "1604",
-  "name": {
-    "ko": "이데아 슈라우드",
-    "ja": "ねんどろいど イデア・シュラウド (ねんどろいど いであ・しゅらうど)",
-    "en": "Nendoroid Idia Shroud"
+  "gender" : "M",
+  "gsc_productNum" : 11009,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210331/11009/82958/large/d0b0d91f4c8b1742078e6c93eb7bd9ac.jpg",
+  "name" : {
+    "en" : "Nendoroid Idia Shroud",
+    "ja" : "ねんどろいど イデア・シュラウド (ねんどろいど いであ・しゅらうど)",
+    "ko" : "이데아 슈라우드"
   },
-  "series": {
-    "ko": "디즈니 트위스티드 원더랜드",
-    "ja": "『ディズニー ツイステッドワンダーランド』",
-    "en": "Disney Twisted-Wonderland"
-  },
-  "gsc_productNum": 11009,
-  "price": 6200,
-  "release_date": [
+  "num" : "1604",
+  "price" : 6200,
+  "release_date" : [
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210331/11009/82958/large/d0b0d91f4c8b1742078e6c93eb7bd9ac.jpg",
-  "gender": "M",
-  "set": 250
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 250
 }

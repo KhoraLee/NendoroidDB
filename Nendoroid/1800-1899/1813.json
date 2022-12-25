@@ -1,21 +1,21 @@
 {
-  "num": "1813",
-  "name": {
-    "ko": "드라켄 (켄 류구지)",
-    "ja": "ねんどろいど ドラケン（龍宮寺 堅） (ねんどろいど どらけん（りゅうぐうじ けん）)",
-    "en": "Nendoroid Draken (Ken Ryuguji)"
+  "gender" : "M",
+  "gsc_productNum" : 12296,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220128/12296/94991/large/67d19215fa87aee1395ae9cad8524db1.jpg",
+  "name" : {
+    "en" : "Nendoroid Draken (Ken Ryuguji)",
+    "ja" : "ねんどろいど ドラケン（龍宮寺 堅） (ねんどろいど どらけん（りゅうぐうじ けん）)",
+    "ko" : "드라켄 (켄 류구지)"
   },
-  "series": {
-    "ko": "도쿄 리벤저스",
-    "ja": "東京リベンジャーズ",
-    "en": "Tokyo Revengers"
-  },
-  "gsc_productNum": 12296,
-  "price": 5500,
-  "release_date": [
+  "num" : "1813",
+  "price" : 5500,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220128/12296/94991/large/67d19215fa87aee1395ae9cad8524db1.jpg",
-  "gender": "M",
-  "set": 266
+  "series" : {
+    "en" : "Tokyo Revengers",
+    "ja" : "東京リベンジャーズ",
+    "ko" : "도쿄 리벤저스"
+  },
+  "set" : 266
 }

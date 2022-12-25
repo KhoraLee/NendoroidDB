@@ -1,21 +1,21 @@
 {
-  "num": "577",
-  "name": {
-    "ko": "아키츠시마",
-    "ja": "ねんどろいど 秋津洲 (ねんどろいど あきつしま)",
-    "en": "Nendoroid Akitsushima"
+  "gender" : "F",
+  "gsc_productNum" : 5306,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151102/5306/36182/large/5d3ad95facf4d106f14be3c68e812aeb.jpg",
+  "name" : {
+    "en" : "Nendoroid Akitsushima",
+    "ja" : "ねんどろいど 秋津洲 (ねんどろいど あきつしま)",
+    "ko" : "아키츠시마"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 5306,
-  "price": 5602,
-  "release_date": [
+  "num" : "577",
+  "price" : 5602,
+  "release_date" : [
     "2016/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151102/5306/36182/large/5d3ad95facf4d106f14be3c68e812aeb.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

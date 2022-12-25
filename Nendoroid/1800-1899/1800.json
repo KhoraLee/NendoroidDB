@@ -1,22 +1,22 @@
 {
-  "num": "1800",
-  "name": {
-    "ko": "유키 미쿠 Grand Voyage Ver.",
-    "ja": "ねんどろいど 雪ミク Grand Voyage Ver. (ねんどろいど ゆきみく ぐらんど ぼやーじゅVer.)",
-    "en": "Nendoroid Snow Miku: Grand Voyage Ver."
+  "gender" : "F",
+  "gsc_productNum" : 12151,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211220/12151/93552/large/92d0dac28db3196214344f93eae246aa.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow Miku: Grand Voyage Ver.",
+    "ja" : "ねんどろいど 雪ミク Grand Voyage Ver. (ねんどろいど ゆきみく ぐらんど ぼやーじゅVer.)",
+    "ko" : "유키 미쿠 Grand Voyage Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 12151,
-  "price": 5800,
-  "release_date": [
+  "num" : "1800",
+  "price" : 5800,
+  "release_date" : [
     "2022/02",
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211220/12151/93552/large/92d0dac28db3196214344f93eae246aa.jpg",
-  "gender": "F",
-  "set": 31
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 31
 }

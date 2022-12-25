@@ -1,21 +1,21 @@
 {
-  "num": "656",
-  "name": {
-    "ko": "카시마",
-    "ja": "ねんどろいど 鹿島 (ねんどろいど かしま)",
-    "en": "Nendoroid Kashima"
+  "gender" : "F",
+  "gsc_productNum" : 5802,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160715/5802/40063/large/951cdb35e2bd2fd56c925bb67e4b2b4d.jpg",
+  "name" : {
+    "en" : "Nendoroid Kashima",
+    "ja" : "ねんどろいど 鹿島 (ねんどろいど かしま)",
+    "ko" : "카시마"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 5802,
-  "price": 5297,
-  "release_date": [
+  "num" : "656",
+  "price" : 5297,
+  "release_date" : [
     "2016/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160715/5802/40063/large/951cdb35e2bd2fd56c925bb67e4b2b4d.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

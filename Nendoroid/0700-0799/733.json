@@ -1,23 +1,23 @@
 {
-  "num": "733",
-  "name": {
-    "ko": "링크 브레스 오브 더 와일드 Ver.",
-    "ja": "ねんどろいど リンク ブレス オブ ザ ワイルドVer. (ねんどろいど りんく ぶれす おぶ ざ わいるどVer.)",
-    "en": "Nendoroid Link: Breath of the Wild Ver."
+  "gender" : "M",
+  "gsc_productNum" : 6213,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170126/6213/43486/large/818a6e3058179cf1c54dc622b44b318d.jpg",
+  "name" : {
+    "en" : "Nendoroid Link: Breath of the Wild Ver.",
+    "ja" : "ねんどろいど リンク ブレス オブ ザ ワイルドVer. (ねんどろいど りんく ぶれす おぶ ざ わいるどVer.)",
+    "ko" : "링크 브레스 오브 더 와일드 Ver."
   },
-  "series": {
-    "ko": "젤다의 전설",
-    "ja": "ゼルダの伝説　ブレス オブ ザ ワイルド",
-    "en": "The Legend of Zelda: Breath of the Wild"
-  },
-  "gsc_productNum": 6213,
-  "price": 5600,
-  "release_date": [
+  "num" : "733",
+  "price" : 5600,
+  "release_date" : [
     "2017/07",
     "2018/09",
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170126/6213/43486/large/818a6e3058179cf1c54dc622b44b318d.jpg",
-  "gender": "M",
-  "set": 99
+  "series" : {
+    "en" : "The Legend of Zelda: Breath of the Wild",
+    "ja" : "ゼルダの伝説　ブレス オブ ザ ワイルド",
+    "ko" : "젤다의 전설"
+  },
+  "set" : 99
 }

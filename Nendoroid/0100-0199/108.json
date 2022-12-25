@@ -1,21 +1,21 @@
 {
-  "num": "108",
-  "name": {
-    "ko": "프란체스카 루키니",
-    "ja": "ねんどろいど フランチェスカ・ルッキーニ (ねんどろいど ふらんちぇすか・るっきーに)",
-    "en": "Nendoroid Francesca Lucchini (ねんどろいど ふらんちぇすか・るっきーに)"
+  "gender" : "F",
+  "gsc_productNum" : 2826,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100310/2826/9581/large/cfa201ca821ecc259e67755019da16ed.jpg",
+  "name" : {
+    "en" : "Nendoroid Francesca Lucchini (ねんどろいど ふらんちぇすか・るっきーに)",
+    "ja" : "ねんどろいど フランチェスカ・ルッキーニ (ねんどろいど ふらんちぇすか・るっきーに)",
+    "ko" : "프란체스카 루키니"
   },
-  "series": {
-    "ko": "스트라이크 위치스",
-    "ja": "ストライクウィッチーズ",
-    "en": "Strike Witches"
-  },
-  "gsc_productNum": 2826,
-  "price": 4190,
-  "release_date": [
+  "num" : "108",
+  "price" : 4190,
+  "release_date" : [
     "2010/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100310/2826/9581/large/cfa201ca821ecc259e67755019da16ed.jpg",
-  "gender": "F",
-  "set": 16
+  "series" : {
+    "en" : "Strike Witches",
+    "ja" : "ストライクウィッチーズ",
+    "ko" : "스트라이크 위치스"
+  },
+  "set" : 16
 }

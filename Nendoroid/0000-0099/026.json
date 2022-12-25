@@ -1,21 +1,21 @@
 {
-  "num": "026",
-  "name": {
-    "ko": "레 미이",
-    "ja": "ねんどろいど レ・ミィ (れ・みぃ ねんどろいど)",
-    "en": "Nendoroid Rei Mii (れ・みぃ ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 402,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/402/403/large/8448d236c46825d873126b4c50cf2821.jpg",
+  "name" : {
+    "en" : "Nendoroid Rei Mii (れ・みぃ ねんどろいど)",
+    "ja" : "ねんどろいど レ・ミィ (れ・みぃ ねんどろいど)",
+    "ko" : "레 미이"
   },
-  "series": {
-    "ko": "조이드 제네시스",
-    "ja": "ゾイドジェネシス",
-    "en": "Zoids Genesis"
-  },
-  "gsc_productNum": 402,
-  "price": 4190,
-  "release_date": [
+  "num" : "026",
+  "price" : 4190,
+  "release_date" : [
     "2008/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/402/403/large/8448d236c46825d873126b4c50cf2821.jpg",
-  "gender": "F",
-  "set": 8
+  "series" : {
+    "en" : "Zoids Genesis",
+    "ja" : "ゾイドジェネシス",
+    "ko" : "조이드 제네시스"
+  },
+  "set" : 8
 }

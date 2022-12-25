@@ -1,20 +1,20 @@
 {
-  "num": "1045",
-  "name": {
-    "ko": "펑 바오바오",
-    "ja": "ねんどろいど 馮宝宝 (ねんどろいど ふうほうほう)",
-    "en": "Nendoroid Feng Baobao"
+  "gender" : "F",
+  "gsc_productNum" : 7907,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181214/7907/56764/large/a5087506ddc97eaba5bcf77a79320cd1.jpg",
+  "name" : {
+    "en" : "Nendoroid Feng Baobao",
+    "ja" : "ねんどろいど 馮宝宝 (ねんどろいど ふうほうほう)",
+    "ko" : "펑 바오바오"
   },
-  "series": {
-    "ko": "일인지하 the outcast",
-    "ja": "一人之下 the outcast",
-    "en": "The Outcast"
-  },
-  "gsc_productNum": 7907,
-  "price": 4584,
-  "release_date": [
+  "num" : "1045",
+  "price" : 4584,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181214/7907/56764/large/a5087506ddc97eaba5bcf77a79320cd1.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "The Outcast",
+    "ja" : "一人之下 the outcast",
+    "ko" : "일인지하 the outcast"
+  }
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1668",
-  "name": {
-    "ko": "도날드 덕",
-    "ja": "ねんどろいど ドナルドダック (ねんどろいど どなるどだっく)",
-    "en": "Nendoroid Donald Duck"
+  "gsc_productNum" : 11386,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210623/11386/86232/large/ad5cfcefbee044e4198e0966ec348350.jpg",
+  "name" : {
+    "en" : "Nendoroid Donald Duck",
+    "ja" : "ねんどろいど ドナルドダック (ねんどろいど どなるどだっく)",
+    "ko" : "도날드 덕"
   },
-  "series": {
-    "ko": "디즈니 캐릭터",
-    "ja": "ドナルドダック",
-    "en": "Donald Duck"
-  },
-  "gsc_productNum": 11386,
-  "price": 7500,
-  "release_date": [
+  "num" : "1668",
+  "price" : 7500,
+  "release_date" : [
     "2022/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210623/11386/86232/large/ad5cfcefbee044e4198e0966ec348350.jpg",
-  "set": 32
+  "series" : {
+    "en" : "Donald Duck",
+    "ja" : "ドナルドダック",
+    "ko" : "디즈니 캐릭터"
+  },
+  "set" : 32
 }

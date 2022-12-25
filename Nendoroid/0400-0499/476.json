@@ -1,21 +1,21 @@
 {
-  "num": "476",
-  "name": {
-    "ko": "황 링인",
-    "ja": "ねんどろいど 凰鈴音 (ねんどろいど ふぁんりんいん)",
-    "en": "Nendoroid Lingyin Huang (ねんどろいど ふぁんりんいん)"
+  "gender" : "F",
+  "gsc_productNum" : 4722,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141111/4722/31307/large/108457dc0d0d6b94c9a0b3b19f8b4501.jpg",
+  "name" : {
+    "en" : "Nendoroid Lingyin Huang (ねんどろいど ふぁんりんいん)",
+    "ja" : "ねんどろいど 凰鈴音 (ねんどろいど ふぁんりんいん)",
+    "ko" : "황 링인"
   },
-  "series": {
-    "ko": "인피니트 스트라토스",
-    "ja": "IS \u003cインフィニット・ストラトス\u003e",
-    "en": "IS \u003cInfinite Stratos\u003e"
-  },
-  "gsc_productNum": 4722,
-  "price": 4400,
-  "release_date": [
+  "num" : "476",
+  "price" : 4400,
+  "release_date" : [
     "2015/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141111/4722/31307/large/108457dc0d0d6b94c9a0b3b19f8b4501.jpg",
-  "gender": "F",
-  "set": 77
+  "series" : {
+    "en" : "IS <Infinite Stratos>",
+    "ja" : "IS <インフィニット・ストラトス>",
+    "ko" : "인피니트 스트라토스"
+  },
+  "set" : 77
 }

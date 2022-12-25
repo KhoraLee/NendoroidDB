@@ -1,21 +1,21 @@
 {
-  "num": "1626",
-  "name": {
-    "ko": "엘사 에필로그 드레스 Ver.",
-    "ja": "ねんどろいど エルサ Epilogue Dress Ver. (ねんどろいど えるさ えぴろーぐ どれす Ver.)",
-    "en": "Nendoroid Elsa: Epilogue Dress Ver."
+  "gender" : "F",
+  "gsc_productNum" : 11012,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210401/11012/82995/large/4db7a5027d5abe535458a631260e86f0.jpg",
+  "name" : {
+    "en" : "Nendoroid Elsa: Epilogue Dress Ver.",
+    "ja" : "ねんどろいど エルサ Epilogue Dress Ver. (ねんどろいど えるさ えぴろーぐ どれす Ver.)",
+    "ko" : "엘사 에필로그 드레스 Ver."
   },
-  "series": {
-    "ko": "겨울왕국",
-    "ja": "アナと雪の女王２",
-    "en": "Frozen 2"
-  },
-  "gsc_productNum": 11012,
-  "price": 5900,
-  "release_date": [
+  "num" : "1626",
+  "price" : 5900,
+  "release_date" : [
     "2022/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210401/11012/82995/large/4db7a5027d5abe535458a631260e86f0.jpg",
-  "gender": "F",
-  "set": 32
+  "series" : {
+    "en" : "Frozen 2",
+    "ja" : "アナと雪の女王２",
+    "ko" : "겨울왕국"
+  },
+  "set" : 32
 }

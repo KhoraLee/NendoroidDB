@@ -1,20 +1,20 @@
 {
-  "num": "838",
-  "name": {
-    "ko": "겐지",
-    "ja": "ねんどろいど ゲンジ クラシックスキン・エディション (ねんどろいど げんじ くらしっくすきん・えでぃしょん)",
-    "en": "Nendoroid Genji: Classic Skin Edition"
+  "gsc_productNum" : 6606,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170724/6606/48029/large/3463a8ab41638d6b82e3c3c8386fb040.jpg",
+  "name" : {
+    "en" : "Nendoroid Genji: Classic Skin Edition",
+    "ja" : "ねんどろいど ゲンジ クラシックスキン・エディション (ねんどろいど げんじ くらしっくすきん・えでぃしょん)",
+    "ko" : "겐지"
   },
-  "series": {
-    "ko": "오버워치",
-    "ja": "オーバーウォッチ",
-    "en": "Overwatch"
-  },
-  "gsc_productNum": 6606,
-  "price": 4991,
-  "release_date": [
+  "num" : "838",
+  "price" : 4991,
+  "release_date" : [
     "2018/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170724/6606/48029/large/3463a8ab41638d6b82e3c3c8386fb040.jpg",
-  "set": 150
+  "series" : {
+    "en" : "Overwatch",
+    "ja" : "オーバーウォッチ",
+    "ko" : "오버워치"
+  },
+  "set" : 150
 }

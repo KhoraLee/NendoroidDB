@@ -1,20 +1,20 @@
 {
-  "num": "1697",
-  "name": {
-    "ko": "시라누이",
-    "ja": "ねんどろいど 白野威 (ねんどろいど しらぬい)",
-    "en": "Nendoroid Shiranui"
+  "gsc_productNum" : 11627,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210806/11627/88804/large/ff08947fb44b38cc8956f6a27d84a13a.jpg",
+  "name" : {
+    "en" : "Nendoroid Shiranui",
+    "ja" : "ねんどろいど 白野威 (ねんどろいど しらぬい)",
+    "ko" : "시라누이"
   },
-  "series": {
-    "ko": "오오카미",
-    "ja": "大神",
-    "en": "Okami"
-  },
-  "gsc_productNum": 11627,
-  "price": 7000,
-  "release_date": [
+  "num" : "1697",
+  "price" : 7000,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210806/11627/88804/large/ff08947fb44b38cc8956f6a27d84a13a.jpg",
-  "set": 239
+  "series" : {
+    "en" : "Okami",
+    "ja" : "大神",
+    "ko" : "오오카미"
+  },
+  "set" : 239
 }

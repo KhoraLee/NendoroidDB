@@ -1,21 +1,21 @@
 {
-  "num": "1523",
-  "name": {
-    "ko": "나카노 요츠바",
-    "ja": "ねんどろいど 中野四葉 (ねんどろいど なかのよつば)",
-    "en": "Nendoroid Yotsuba Nakano"
+  "gender" : "F",
+  "gsc_productNum" : 10496,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201204/10496/78277/large/6de7a50eeaa2dea38ff7f42501722ff7.jpg",
+  "name" : {
+    "en" : "Nendoroid Yotsuba Nakano",
+    "ja" : "ねんどろいど 中野四葉 (ねんどろいど なかのよつば)",
+    "ko" : "나카노 요츠바"
   },
-  "series": {
-    "ko": "5등분의 신부",
-    "ja": "五等分の花嫁",
-    "en": "The Quintessential Quintuplets"
-  },
-  "gsc_productNum": 10496,
-  "price": 4800,
-  "release_date": [
+  "num" : "1523",
+  "price" : 4800,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201204/10496/78277/large/6de7a50eeaa2dea38ff7f42501722ff7.jpg",
-  "gender": "F",
-  "set": 235
+  "series" : {
+    "en" : "The Quintessential Quintuplets",
+    "ja" : "五等分の花嫁",
+    "ko" : "5등분의 신부"
+  },
+  "set" : 235
 }

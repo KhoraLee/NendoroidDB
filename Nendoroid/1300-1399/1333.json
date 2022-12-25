@@ -1,22 +1,22 @@
 {
-  "num": "1333",
-  "name": {
-    "ko": "토가 히미코",
-    "ja": "ねんどろいど トガヒミコ (ねんどろいど とがひみこ)",
-    "en": "Nendoroid Himiko Toga"
+  "gender" : "F",
+  "gsc_productNum" : 9459,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200427/9459/69268/large/b9db0dd46cbd46b9bba91bac4fbe120f.jpg",
+  "name" : {
+    "en" : "Nendoroid Himiko Toga",
+    "ja" : "ねんどろいど トガヒミコ (ねんどろいど とがひみこ)",
+    "ko" : "토가 히미코"
   },
-  "series": {
-    "ko": "나의 히어로 아카데미아",
-    "ja": "僕のヒーローアカデミア",
-    "en": "My Hero Academia"
-  },
-  "gsc_productNum": 9459,
-  "price": 5500,
-  "release_date": [
+  "num" : "1333",
+  "price" : 5500,
+  "release_date" : [
     "2020/11",
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200427/9459/69268/large/b9db0dd46cbd46b9bba91bac4fbe120f.jpg",
-  "gender": "F",
-  "set": 146
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 146
 }

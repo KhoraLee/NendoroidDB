@@ -1,21 +1,21 @@
 {
-  "num": "1491",
-  "name": {
-    "ko": "세이버/오키타 소지",
-    "ja": "ねんどろいど セイバー/沖田総司 (ねんどろいど せいばー/おきたそうじ)",
-    "en": "Nendoroid Saber/Okita Souji"
+  "gender" : "F",
+  "gsc_productNum" : 10284,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201022/10284/76250/large/4f173831ba508219ef9191a0a46890eb.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber/Okita Souji",
+    "ja" : "ねんどろいど セイバー/沖田総司 (ねんどろいど せいばー/おきたそうじ)",
+    "ko" : "세이버/오키타 소지"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 10284,
-  "price": 4800,
-  "release_date": [
+  "num" : "1491",
+  "price" : 4800,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201022/10284/76250/large/4f173831ba508219ef9191a0a46890eb.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

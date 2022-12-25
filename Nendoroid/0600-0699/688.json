@@ -1,21 +1,21 @@
 {
-  "num": "688",
-  "name": {
-    "ko": "아이오와",
-    "ja": "ねんどろいど Iowa（アイオワ） (ねんどろいど あいおわ)",
-    "en": "Nendoroid Iowa"
+  "gender" : "F",
+  "gsc_productNum" : 6037,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161101/6037/42060/large/125c62995d06e6eee14a832a16330a48.jpg",
+  "name" : {
+    "en" : "Nendoroid Iowa",
+    "ja" : "ねんどろいど Iowa（アイオワ） (ねんどろいど あいおわ)",
+    "ko" : "아이오와"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 6037,
-  "price": 7944,
-  "release_date": [
+  "num" : "688",
+  "price" : 7944,
+  "release_date" : [
     "2017/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161101/6037/42060/large/125c62995d06e6eee14a832a16330a48.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

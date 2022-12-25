@@ -1,20 +1,20 @@
 {
-  "num": "873",
-  "name": {
-    "ko": "로쿠도 린네",
-    "ja": "ねんどろいど 六道りんね (ねんどろいど ろくどうりんね)",
-    "en": "Nendoroid Rinne Rokudo"
+  "gender" : "M",
+  "gsc_productNum" : 7003,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180119/7003/49769/large/b22b74837eb28daa30891490ee735d35.jpg",
+  "name" : {
+    "en" : "Nendoroid Rinne Rokudo",
+    "ja" : "ねんどろいど 六道りんね (ねんどろいど ろくどうりんね)",
+    "ko" : "로쿠도 린네"
   },
-  "series": {
-    "ko": "경계의 린네",
-    "ja": "境界のRINNE",
-    "en": "Rin-ne"
-  },
-  "gsc_productNum": 7003,
-  "price": 4888,
-  "release_date": [
+  "num" : "873",
+  "price" : 4888,
+  "release_date" : [
     "2018/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180119/7003/49769/large/b22b74837eb28daa30891490ee735d35.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Rin-ne",
+    "ja" : "境界のRINNE",
+    "ko" : "경계의 린네"
+  }
 }

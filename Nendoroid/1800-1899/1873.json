@@ -1,20 +1,20 @@
 {
-  "num": "1873",
-  "name": {
-    "ko": "가위손 에드워드 시저핸드",
-    "ja": "ねんどろいど エドワード・シザーハンズ (ねんどろいど えどわーど・しざーはんず)",
-    "en": "Nendoroid Edward Scissorhands"
+  "gender" : "M",
+  "gsc_productNum" : 12630,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220425/12630/98195/large/94b760c2b84b7df703fa6e17fbde7e33.jpg",
+  "name" : {
+    "en" : "Nendoroid Edward Scissorhands",
+    "ja" : "ねんどろいど エドワード・シザーハンズ (ねんどろいど えどわーど・しざーはんず)",
+    "ko" : "가위손 에드워드 시저핸드"
   },
-  "series": {
-    "ko": "가위손",
-    "ja": "シザーハンズ",
-    "en": "Edward Scissorhands"
-  },
-  "gsc_productNum": 12630,
-  "price": 9000,
-  "release_date": [
+  "num" : "1873",
+  "price" : 9000,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220425/12630/98195/large/94b760c2b84b7df703fa6e17fbde7e33.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Edward Scissorhands",
+    "ja" : "シザーハンズ",
+    "ko" : "가위손"
+  }
 }

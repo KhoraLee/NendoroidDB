@@ -1,21 +1,21 @@
 {
-  "num": "115",
-  "name": {
-    "ko": "레밀리아 스칼렛",
-    "ja": "ねんどろいど レミリア・スカーレット (ねんどろいど れみりあ・すかーれっと)",
-    "en": "Nendoroid Remilia Scarlet (ねんどろいど れみりあ・すかーれっと)"
+  "gender" : "F",
+  "gsc_productNum" : 2859,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100422/2859/9982/large/cff722dec1980b10eaea705981492ffb.jpg",
+  "name" : {
+    "en" : "Nendoroid Remilia Scarlet (ねんどろいど れみりあ・すかーれっと)",
+    "ja" : "ねんどろいど レミリア・スカーレット (ねんどろいど れみりあ・すかーれっと)",
+    "ko" : "레밀리아 스칼렛"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方Project",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 2859,
-  "price": 3143,
-  "release_date": [
+  "num" : "115",
+  "price" : 3143,
+  "release_date" : [
     "2010/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100422/2859/9982/large/cff722dec1980b10eaea705981492ffb.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

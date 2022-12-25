@@ -1,21 +1,21 @@
 {
-  "num": "305",
-  "name": {
-    "ko": "후지와라노 모코우",
-    "ja": "ねんどろいど 藤原妹紅 (ねんどろいど ふじわらのもこう)",
-    "en": "Nendoroid Fujiwara no Mokou (ねんどろいど ふじわらのもこう)"
+  "gender" : "F",
+  "gsc_productNum" : 3819,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130115/3819/22371/large/17e327ee48f96b18efabd58716dc8729.jpg",
+  "name" : {
+    "en" : "Nendoroid Fujiwara no Mokou (ねんどろいど ふじわらのもこう)",
+    "ja" : "ねんどろいど 藤原妹紅 (ねんどろいど ふじわらのもこう)",
+    "ko" : "후지와라노 모코우"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方プロジェクト",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 3819,
-  "price": 3667,
-  "release_date": [
+  "num" : "305",
+  "price" : 3667,
+  "release_date" : [
     "2013/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130115/3819/22371/large/17e327ee48f96b18efabd58716dc8729.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方プロジェクト",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

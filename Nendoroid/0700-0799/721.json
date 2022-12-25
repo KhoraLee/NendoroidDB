@@ -1,21 +1,21 @@
 {
-  "num": "721",
-  "name": {
-    "ko": "사와무라 스펜서 에리리",
-    "ja": "ねんどろいど 澤村・スペンサー・英梨々 (ねんどろいど さわむら・すぺんさー・えりり)",
-    "en": "Nendoroid Eriri Spencer Sawamura"
+  "gender" : "F",
+  "gsc_productNum" : 6161,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170105/6161/43088/large/645ba5981d11c002f5b1c52df4afbbb6.jpg",
+  "name" : {
+    "en" : "Nendoroid Eriri Spencer Sawamura",
+    "ja" : "ねんどろいど 澤村・スペンサー・英梨々 (ねんどろいど さわむら・すぺんさー・えりり)",
+    "ko" : "사와무라 스펜서 에리리"
   },
-  "series": {
-    "ko": "시원찮은 그녀를 위한 육성방법",
-    "ja": "冴えない彼女の育てかた♭",
-    "en": "Saekano: How to Raise a Boring Girlfriend ♭"
-  },
-  "gsc_productNum": 6161,
-  "price": 4584,
-  "release_date": [
+  "num" : "721",
+  "price" : 4584,
+  "release_date" : [
     "2017/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170105/6161/43088/large/645ba5981d11c002f5b1c52df4afbbb6.jpg",
-  "gender": "F",
-  "set": 147
+  "series" : {
+    "en" : "Saekano: How to Raise a Boring Girlfriend ♭",
+    "ja" : "冴えない彼女の育てかた♭",
+    "ko" : "시원찮은 그녀를 위한 육성방법"
+  },
+  "set" : 147
 }

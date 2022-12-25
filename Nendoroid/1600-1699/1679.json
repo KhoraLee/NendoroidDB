@@ -1,21 +1,21 @@
 {
-  "num": "1679",
-  "name": {
-    "ko": "쏜즈",
-    "ja": "ねんどろいど ソーンズ (ねんどろいど そーんず)",
-    "en": "Nendoroid Thorns"
+  "gender" : "M",
+  "gsc_productNum" : 11510,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210719/11510/87372/large/dc37ac74217c617a2d56493dfd4669a8.jpg",
+  "name" : {
+    "en" : "Nendoroid Thorns",
+    "ja" : "ねんどろいど ソーンズ (ねんどろいど そーんず)",
+    "ko" : "쏜즈"
   },
-  "series": {
-    "ko": "명일방주",
-    "ja": "アークナイツ",
-    "en": "Arknights"
-  },
-  "gsc_productNum": 11510,
-  "price": 6500,
-  "release_date": [
+  "num" : "1679",
+  "price" : 6500,
+  "release_date" : [
     "2022/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210719/11510/87372/large/dc37ac74217c617a2d56493dfd4669a8.jpg",
-  "gender": "M",
-  "set": 216
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 216
 }

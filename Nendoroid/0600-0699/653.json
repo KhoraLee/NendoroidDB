@@ -1,23 +1,23 @@
 {
-  "num": "653",
-  "name": {
-    "ko": "시로",
-    "ja": "ねんどろいど 白 (ねんどろいど しろ)",
-    "en": "Nendoroid Shiro"
+  "gender" : "F",
+  "gsc_productNum" : 5793,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160712/5793/40004/large/cfa418102dbfbdc13e2fd8e79a1e8c64.jpg",
+  "name" : {
+    "en" : "Nendoroid Shiro",
+    "ja" : "ねんどろいど 白 (ねんどろいど しろ)",
+    "ko" : "시로"
   },
-  "series": {
-    "ko": "노게임 노라이프",
-    "ja": "ノーゲーム・ノーライフ",
-    "en": "No Game No Life"
-  },
-  "gsc_productNum": 5793,
-  "price": 4584,
-  "release_date": [
+  "num" : "653",
+  "price" : 4584,
+  "release_date" : [
     "2016/12",
     "2018/09",
     "2023/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160712/5793/40004/large/cfa418102dbfbdc13e2fd8e79a1e8c64.jpg",
-  "gender": "F",
-  "set": 136
+  "series" : {
+    "en" : "No Game No Life",
+    "ja" : "ノーゲーム・ノーライフ",
+    "ko" : "노게임 노라이프"
+  },
+  "set" : 136
 }

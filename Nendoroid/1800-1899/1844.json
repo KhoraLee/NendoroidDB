@@ -1,21 +1,21 @@
 {
-  "num": "1844",
-  "name": {
-    "ko": "판다",
-    "ja": "ねんどろいど パンダ (ねんどろいど ぱんだ)",
-    "en": "Nendoroid Panda"
+  "gender" : "M",
+  "gsc_productNum" : 12460,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220314/12460/96483/large/c52c14137b1824ccdf37115108023f9f.jpg",
+  "name" : {
+    "en" : "Nendoroid Panda",
+    "ja" : "ねんどろいど パンダ (ねんどろいど ぱんだ)",
+    "ko" : "판다"
   },
-  "series": {
-    "ko": "주술회전",
-    "ja": "呪術廻戦",
-    "en": "Jujutsu Kaisen"
-  },
-  "gsc_productNum": 12460,
-  "price": 6100,
-  "release_date": [
+  "num" : "1844",
+  "price" : 6100,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220314/12460/96483/large/c52c14137b1824ccdf37115108023f9f.jpg",
-  "gender": "M",
-  "set": 251
+  "series" : {
+    "en" : "Jujutsu Kaisen",
+    "ja" : "呪術廻戦",
+    "ko" : "주술회전"
+  },
+  "set" : 251
 }

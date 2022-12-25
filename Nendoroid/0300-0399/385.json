@@ -1,21 +1,21 @@
 {
-  "num": "385",
-  "name": {
-    "ko": "아이기스 P3 에디션",
-    "ja": "ねんどろいど アイギス P3・エディション (ねんどろいど あいぎす P3・えでぃしょん)",
-    "en": "Nendoroid Aigis: P3 Edition (ねんどろいど あいぎす P3・えでぃしょん)"
+  "gender" : "F",
+  "gsc_productNum" : 4132,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131122/4132/27194/large/d2089e180208f8ad6f9bf043ae1ca5f4.jpg",
+  "name" : {
+    "en" : "Nendoroid Aigis: P3 Edition (ねんどろいど あいぎす P3・えでぃしょん)",
+    "ja" : "ねんどろいど アイギス P3・エディション (ねんどろいど あいぎす P3・えでぃしょん)",
+    "ko" : "아이기스 P3 에디션"
   },
-  "series": {
-    "ko": "페르소나3",
-    "ja": "ペルソナ3",
-    "en": "Persona 3"
-  },
-  "gsc_productNum": 4132,
-  "price": 4074,
-  "release_date": [
+  "num" : "385",
+  "price" : 4074,
+  "release_date" : [
     "2014/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20131122/4132/27194/large/d2089e180208f8ad6f9bf043ae1ca5f4.jpg",
-  "gender": "F",
-  "set": 57
+  "series" : {
+    "en" : "Persona 3",
+    "ja" : "ペルソナ3",
+    "ko" : "페르소나3"
+  },
+  "set" : 57
 }

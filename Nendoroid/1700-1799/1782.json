@@ -1,21 +1,21 @@
 {
-  "num": "1782",
-  "name": {
-    "ko": "눈사람 마법사",
-    "ja": "ねんどろいど 雪だるまメイジちゃん (ねんどろいど ゆきだるまめいじちゃん)",
-    "en": "Nendoroid Snowmage"
+  "gender" : "F",
+  "gsc_productNum" : 12082,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211203/12082/93102/large/8874faaf92ad943f140836f0204be965.jpg",
+  "name" : {
+    "en" : "Nendoroid Snowmage",
+    "ja" : "ねんどろいど 雪だるまメイジちゃん (ねんどろいど ゆきだるまめいじちゃん)",
+    "ko" : "눈사람 마법사"
   },
-  "series": {
-    "ko": "던전 앤 파이터",
-    "ja": "アラド戦記",
-    "en": "Dungeon Fighter Online"
-  },
-  "gsc_productNum": 12082,
-  "price": 6200,
-  "release_date": [
+  "num" : "1782",
+  "price" : 6200,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211203/12082/93102/large/8874faaf92ad943f140836f0204be965.jpg",
-  "gender": "F",
-  "set": 167
+  "series" : {
+    "en" : "Dungeon Fighter Online",
+    "ja" : "アラド戦記",
+    "ko" : "던전 앤 파이터"
+  },
+  "set" : 167
 }

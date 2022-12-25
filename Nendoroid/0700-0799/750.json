@@ -1,21 +1,21 @@
 {
-  "num": "750",
-  "name": {
-    "ko": "키리토\u0026아스나 O.S Ver.",
-    "ja": "ねんどろいど キリト＆アスナ O.S Ver. (ねんどろいど きりと＆あすな おーでぃなる・すけーる ver.)",
-    "en": "Nendoroid Kirito \u0026 Asuna: O.S Ver."
+  "gender" : "M&F",
+  "gsc_productNum" : 6475,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170529/6475/45684/large/0dafe2d4b024f2f83027e578aa46fd31.jpg",
+  "name" : {
+    "en" : "Nendoroid Kirito & Asuna: O.S Ver.",
+    "ja" : "ねんどろいど キリト＆アスナ O.S Ver. (ねんどろいど きりと＆あすな おーでぃなる・すけーる ver.)",
+    "ko" : "키리토&아스나 O.S Ver."
   },
-  "series": {
-    "ko": "소드 아트 온라인",
-    "ja": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
-    "en": "Sword Art Online The Movie: Ordinal Scale"
-  },
-  "gsc_productNum": 6475,
-  "price": 5602,
-  "release_date": [
+  "num" : "750",
+  "price" : 5602,
+  "release_date" : [
     "2017/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170529/6475/45684/large/0dafe2d4b024f2f83027e578aa46fd31.jpg",
-  "gender": "M\u0026F",
-  "set": 70
+  "series" : {
+    "en" : "Sword Art Online The Movie: Ordinal Scale",
+    "ja" : "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+    "ko" : "소드 아트 온라인"
+  },
+  "set" : 70
 }

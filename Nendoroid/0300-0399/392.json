@@ -1,21 +1,21 @@
 {
-  "num": "392",
-  "name": {
-    "ko": "아이언 패트리어트 히어로즈 에디션",
-    "ja": "ねんどろいど アイアン・パトリオット ヒーローズ・エディション (ねんどろいど あいあん・ぱとりおっと ひーろーず・えでぃしょん)",
-    "en": "Nendoroid Iron Patriot: Hero\u0027s Edition (ねんどろいど あいあん・ぱとりおっと ひーろーず・えでぃしょん)"
+  "gender" : "M",
+  "gsc_productNum" : 4174,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131225/4174/27539/large/d65288d9ed23213c2230dfc6344fcdb8.jpg",
+  "name" : {
+    "en" : "Nendoroid Iron Patriot: Hero's Edition (ねんどろいど あいあん・ぱとりおっと ひーろーず・えでぃしょん)",
+    "ja" : "ねんどろいど アイアン・パトリオット ヒーローズ・エディション (ねんどろいど あいあん・ぱとりおっと ひーろーず・えでぃしょん)",
+    "ko" : "아이언 패트리어트 히어로즈 에디션"
   },
-  "series": {
-    "ko": "아이언맨3",
-    "ja": "アイアンマン3",
-    "en": "Iron Man 3"
-  },
-  "gsc_productNum": 4174,
-  "price": 4584,
-  "release_date": [
+  "num" : "392",
+  "price" : 4584,
+  "release_date" : [
     "2014/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20131225/4174/27539/large/d65288d9ed23213c2230dfc6344fcdb8.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Iron Man 3",
+    "ja" : "アイアンマン3",
+    "ko" : "아이언맨3"
+  },
+  "set" : 63
 }

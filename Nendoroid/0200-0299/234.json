@@ -1,21 +1,21 @@
 {
-  "num": "234",
-  "name": {
-    "ko": "잭 프로스트",
-    "ja": "ねんどろいど ジャックフロスト (ねんどろいど じゃっくふろすと)",
-    "en": "Nendoroid Jack Frost"
+  "gsc_productNum" : 3489,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120309/3489/52826/large/3ff2cb3dff9b35574eb84af55edff822.jpg",
+  "name" : {
+    "en" : "Nendoroid Jack Frost",
+    "ja" : "ねんどろいど ジャックフロスト (ねんどろいど じゃっくふろすと)",
+    "ko" : "잭 프로스트"
   },
-  "series": {
-    "ko": "진 여신전생",
-    "ja": "真・女神転生",
-    "en": "Shin Megami Tensei"
-  },
-  "gsc_productNum": 3489,
-  "price": 4074,
-  "release_date": [
+  "num" : "234",
+  "price" : 4074,
+  "release_date" : [
     "2012/06",
     "2018/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120309/3489/52826/large/3ff2cb3dff9b35574eb84af55edff822.jpg",
-  "set": 54
+  "series" : {
+    "en" : "Shin Megami Tensei",
+    "ja" : "真・女神転生",
+    "ko" : "진 여신전생"
+  },
+  "set" : 54
 }

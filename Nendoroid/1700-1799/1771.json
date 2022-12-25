@@ -1,21 +1,21 @@
 {
-  "num": "1771",
-  "name": {
-    "ko": "센지 무라마사",
-    "ja": "ねんどろいど セイバー/千子村正 (ねんどろいど せいばー/せんじむらまさ)",
-    "en": "Nendoroid Saber/Senji Muramasa"
+  "gender" : "M",
+  "gsc_productNum" : 12055,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211126/12055/92578/large/5a652d10c39d960061259be583d5926b.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber/Senji Muramasa",
+    "ja" : "ねんどろいど セイバー/千子村正 (ねんどろいど せいばー/せんじむらまさ)",
+    "ko" : "센지 무라마사"
   },
-  "series": {
-    "ko": "Fate/Frand Order",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 12055,
-  "price": 6500,
-  "release_date": [
+  "num" : "1771",
+  "price" : 6500,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211126/12055/92578/large/5a652d10c39d960061259be583d5926b.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "Fate/Frand Order"
+  },
+  "set" : 2
 }

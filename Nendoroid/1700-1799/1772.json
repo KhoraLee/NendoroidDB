@@ -1,21 +1,21 @@
 {
-  "num": "1772",
-  "name": {
-    "ko": "메르티 메르로마르크",
-    "ja": "ねんどろいど メルティ (ねんどろいど めるてぃ)",
-    "en": "Nendoroid Melty"
+  "gender" : "F",
+  "gsc_productNum" : 12067,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211130/12067/92670/large/1851e3f0594e57b49786607e9dd7d9df.jpg",
+  "name" : {
+    "en" : "Nendoroid Melty",
+    "ja" : "ねんどろいど メルティ (ねんどろいど めるてぃ)",
+    "ko" : "메르티 메르로마르크"
   },
-  "series": {
-    "ko": "방패 용사 성공담",
-    "ja": "盾の勇者の成り上がり Season2",
-    "en": "The Rising of the Shield Hero Season 2"
-  },
-  "gsc_productNum": 12067,
-  "price": 5900,
-  "release_date": [
+  "num" : "1772",
+  "price" : 5900,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211130/12067/92670/large/1851e3f0594e57b49786607e9dd7d9df.jpg",
-  "gender": "F",
-  "set": 213
+  "series" : {
+    "en" : "The Rising of the Shield Hero Season 2",
+    "ja" : "盾の勇者の成り上がり Season2",
+    "ko" : "방패 용사 성공담"
+  },
+  "set" : 213
 }

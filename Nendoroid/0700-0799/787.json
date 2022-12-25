@@ -1,22 +1,22 @@
 {
-  "num": "787",
-  "name": {
-    "ko": "야마부키 사아야",
-    "ja": "ねんどろいど 山吹沙綾 (ねんどろいど やまぶきさあや)",
-    "en": "Nendoroid Sāya Yamabuki"
+  "gender" : "F",
+  "gsc_productNum" : 6531,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170627/6531/46103/large/2dff7c3c4de2347fab157da5a57c986b.jpg",
+  "name" : {
+    "en" : "Nendoroid Sāya Yamabuki",
+    "ja" : "ねんどろいど 山吹沙綾 (ねんどろいど やまぶきさあや)",
+    "ko" : "야마부키 사아야"
   },
-  "series": {
-    "ko": "BanG Dream!",
-    "ja": "BanG Dream!",
-    "en": "BanG Dream!"
-  },
-  "gsc_productNum": 6531,
-  "price": 6315,
-  "release_date": [
+  "num" : "787",
+  "price" : 6315,
+  "release_date" : [
     "2018/01",
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170627/6531/46103/large/2dff7c3c4de2347fab157da5a57c986b.jpg",
-  "gender": "F",
-  "set": 152
+  "series" : {
+    "en" : "BanG Dream!",
+    "ja" : "BanG Dream!",
+    "ko" : "BanG Dream!"
+  },
+  "set" : 152
 }

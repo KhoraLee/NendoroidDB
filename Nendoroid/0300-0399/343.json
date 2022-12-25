@@ -1,21 +1,21 @@
 {
-  "num": "343",
-  "name": {
-    "ko": "페이리스 냥냥",
-    "ja": "ねんどろいど フェイリス・ニャンニャン (ねんどろいど ふぇいりす・にゃんにゃん)",
-    "en": "Nendoroid Faris Nyannyan (ねんどろいど ふぇいりす・にゃんにゃん)"
+  "gender" : "F",
+  "gsc_productNum" : 3940,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130603/3940/24330/large/8125fce22ca311174d3a1b2ea7b42f7c.jpg",
+  "name" : {
+    "en" : "Nendoroid Faris Nyannyan (ねんどろいど ふぇいりす・にゃんにゃん)",
+    "ja" : "ねんどろいど フェイリス・ニャンニャン (ねんどろいど ふぇいりす・にゃんにゃん)",
+    "ko" : "페이리스 냥냥"
   },
-  "series": {
-    "ko": "슈타인즈 게이트",
-    "ja": "シュタインズ・ゲート",
-    "en": "STEINS;GATE"
-  },
-  "gsc_productNum": 3940,
-  "price": 3981,
-  "release_date": [
+  "num" : "343",
+  "price" : 3981,
+  "release_date" : [
     "2013/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130603/3940/24330/large/8125fce22ca311174d3a1b2ea7b42f7c.jpg",
-  "gender": "F",
-  "set": 40
+  "series" : {
+    "en" : "STEINS;GATE",
+    "ja" : "シュタインズ・ゲート",
+    "ko" : "슈타인즈 게이트"
+  },
+  "set" : 40
 }

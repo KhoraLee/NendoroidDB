@@ -1,20 +1,20 @@
 {
-  "num": "1454",
-  "name": {
-    "ko": "우자키 하나",
-    "ja": "ねんどろいど 宇崎花 (ねんどろいど うざきはな)",
-    "en": "Nendoroid Hana Uzaki"
+  "gender" : "F",
+  "gsc_productNum" : 10018,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200904/10018/73988/large/c552e5294eff196b5cba4fa5d4b73405.jpg",
+  "name" : {
+    "en" : "Nendoroid Hana Uzaki",
+    "ja" : "ねんどろいど 宇崎花 (ねんどろいど うざきはな)",
+    "ko" : "우자키 하나"
   },
-  "series": {
-    "ko": "우자키 양은 놀고 싶어!",
-    "ja": "宇崎ちゃんは遊びたい！",
-    "en": "Uzaki-chan Wants to Hang Out!"
-  },
-  "gsc_productNum": 10018,
-  "price": 5700,
-  "release_date": [
+  "num" : "1454",
+  "price" : 5700,
+  "release_date" : [
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200904/10018/73988/large/c552e5294eff196b5cba4fa5d4b73405.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Uzaki-chan Wants to Hang Out!",
+    "ja" : "宇崎ちゃんは遊びたい！",
+    "ko" : "우자키 양은 놀고 싶어!"
+  }
 }

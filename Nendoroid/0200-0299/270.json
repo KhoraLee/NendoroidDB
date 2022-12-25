@@ -1,21 +1,21 @@
 {
-  "num": "270",
-  "name": {
-    "ko": "박사",
-    "ja": "ねんどろいど はかせ (ねんどろいど はかせ)",
-    "en": "Nendoroid Hakase (ねんどろいど はかせ)"
+  "gender" : "F",
+  "gsc_productNum" : 3639,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120816/3639/19893/large/b1e28ec54eabc6a86d9e19d5026c9e95.jpg",
+  "name" : {
+    "en" : "Nendoroid Hakase (ねんどろいど はかせ)",
+    "ja" : "ねんどろいど はかせ (ねんどろいど はかせ)",
+    "ko" : "박사"
   },
-  "series": {
-    "ko": "일상",
-    "ja": "日常",
-    "en": "Nichijou"
-  },
-  "gsc_productNum": 3639,
-  "price": 3667,
-  "release_date": [
+  "num" : "270",
+  "price" : 3667,
+  "release_date" : [
     "2012/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120816/3639/19893/large/b1e28ec54eabc6a86d9e19d5026c9e95.jpg",
-  "gender": "F",
-  "set": 58
+  "series" : {
+    "en" : "Nichijou",
+    "ja" : "日常",
+    "ko" : "일상"
+  },
+  "set" : 58
 }

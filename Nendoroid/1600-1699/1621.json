@@ -1,21 +1,21 @@
 {
-  "num": "1621",
-  "name": {
-    "ko": "영국",
-    "ja": "ねんどろいど イギリス (ねんどろいど いぎりす)",
-    "en": "Nendoroid UK"
+  "gender" : "M",
+  "gsc_productNum" : 11103,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210419/11103/83747/large/969fca3c02d747a27203252f9195a2c5.jpg",
+  "name" : {
+    "en" : "Nendoroid UK",
+    "ja" : "ねんどろいど イギリス (ねんどろいど いぎりす)",
+    "ko" : "영국"
   },
-  "series": {
-    "ko": "헤타리아",
-    "ja": "ヘタリア World★Stars",
-    "en": "Hetalia World★Stars"
-  },
-  "gsc_productNum": 11103,
-  "price": 4600,
-  "release_date": [
+  "num" : "1621",
+  "price" : 4600,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210419/11103/83747/large/969fca3c02d747a27203252f9195a2c5.jpg",
-  "gender": "M",
-  "set": 156
+  "series" : {
+    "en" : "Hetalia World★Stars",
+    "ja" : "ヘタリア World★Stars",
+    "ko" : "헤타리아"
+  },
+  "set" : 156
 }

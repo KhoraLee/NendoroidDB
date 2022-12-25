@@ -1,21 +1,21 @@
 {
-  "num": "1471",
-  "name": {
-    "ko": "베이루오",
-    "ja": "ねんどろいど 北洛 (ねんどろいど べー・ろ)",
-    "en": "Nendoroid Beiluo"
+  "gender" : "M",
+  "gsc_productNum" : 10240,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201016/10240/75905/large/0b268ce150744763afc1efb97224f232.jpg",
+  "name" : {
+    "en" : "Nendoroid Beiluo",
+    "ja" : "ねんどろいど 北洛 (ねんどろいど べー・ろ)",
+    "ko" : "베이루오"
   },
-  "series": {
-    "ko": "고검기담3",
-    "ja": "古剣奇譚三",
-    "en": "Gujian 3"
-  },
-  "gsc_productNum": 10240,
-  "price": 5300,
-  "release_date": [
+  "num" : "1471",
+  "price" : 5300,
+  "release_date" : [
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201016/10240/75905/large/0b268ce150744763afc1efb97224f232.jpg",
-  "gender": "M",
-  "set": 247
+  "series" : {
+    "en" : "Gujian 3",
+    "ja" : "古剣奇譚三",
+    "ko" : "고검기담3"
+  },
+  "set" : 247
 }

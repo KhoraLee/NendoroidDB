@@ -1,21 +1,21 @@
 {
-  "num": "1977",
-  "name": {
-    "ja": "ねんどろいど ダイワスカーレット (ねんどろいど だいわすかーれっと)",
-    "en": "Nendoroid Daiwa Scarlet",
-    "ko": "다이와 스칼렛"
+  "gender" : "F",
+  "gsc_productNum" : 13369,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221005/13369/105671/large/c3ba5a03bd791039fbc08b4f080873fa.jpg",
+  "name" : {
+    "en" : "Nendoroid Daiwa Scarlet",
+    "ja" : "ねんどろいど ダイワスカーレット (ねんどろいど だいわすかーれっと)",
+    "ko" : "다이와 스칼렛"
   },
-  "series": {
-    "ja": "ウマ娘 プリティーダービー",
-    "en": "Umamusume: Pretty Derby",
-    "ko": "우마무스메: 프리티 더비"
-  },
-  "gsc_productNum": 13369,
-  "price": 6800,
-  "release_date": [
+  "num" : "1977",
+  "price" : 6800,
+  "release_date" : [
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221005/13369/105671/large/c3ba5a03bd791039fbc08b4f080873fa.jpg",
-  "gender": "F",
-  "set": 193
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메: 프리티 더비"
+  },
+  "set" : 193
 }

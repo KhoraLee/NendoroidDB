@@ -1,22 +1,22 @@
 {
-  "num": "557",
-  "name": {
-    "ko": "쇼쿠다이키리 미츠타다",
-    "ja": "ねんどろいど 燭台切光忠 (ねんどろいど しょくだいきりみつただ)",
-    "en": "Nendoroid Shokudaikiri Mitsutada (ねんどろいど しょくだいきりみつただ)"
+  "gender" : "M",
+  "gsc_productNum" : 5201,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150825/5201/35265/large/233a79550a8b3d39438223aad5aec6db.jpg",
+  "name" : {
+    "en" : "Nendoroid Shokudaikiri Mitsutada (ねんどろいど しょくだいきりみつただ)",
+    "ja" : "ねんどろいど 燭台切光忠 (ねんどろいど しょくだいきりみつただ)",
+    "ko" : "쇼쿠다이키리 미츠타다"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 5201,
-  "price": 4278,
-  "release_date": [
+  "num" : "557",
+  "price" : 4278,
+  "release_date" : [
     "2016/03",
     "2018/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150825/5201/35265/large/233a79550a8b3d39438223aad5aec6db.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

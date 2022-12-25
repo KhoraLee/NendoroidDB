@@ -1,20 +1,20 @@
 {
-  "num": "1133",
-  "name": {
-    "ko": "로로나",
-    "ja": "ねんどろいど ロロナ (ねんどろいど ろろな)",
-    "en": "Nendoroid Rorona"
+  "gender" : "F",
+  "gsc_productNum" : 8332,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190514/8332/60169/large/e4d8cde3cbbd6f1707bb222966dd60d4.jpg",
+  "name" : {
+    "en" : "Nendoroid Rorona",
+    "ja" : "ねんどろいど ロロナ (ねんどろいど ろろな)",
+    "ko" : "로로나"
   },
-  "series": {
-    "ko": "로로나의 아틀리에",
-    "ja": "ロロナのアトリエ 〜アーランドの錬金術士〜",
-    "en": "Atelier Rorona: The Alchemist of Arland"
-  },
-  "gsc_productNum": 8332,
-  "price": 5280,
-  "release_date": [
+  "num" : "1133",
+  "price" : 5280,
+  "release_date" : [
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190514/8332/60169/large/e4d8cde3cbbd6f1707bb222966dd60d4.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Atelier Rorona: The Alchemist of Arland",
+    "ja" : "ロロナのアトリエ 〜アーランドの錬金術士〜",
+    "ko" : "로로나의 아틀리에"
+  }
 }

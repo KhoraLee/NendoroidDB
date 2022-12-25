@@ -1,21 +1,21 @@
 {
-  "num": "497",
-  "name": {
-    "ko": "샤를로트 뒤누아",
-    "ja": "ねんどろいど シャルロット・デュノア (ねんどろいど しゃるろっと・でゅのあ)",
-    "en": "Nendoroid Charlotte Dunois (ねんどろいど しゃるろっと・でゅのあ)"
+  "gender" : "F",
+  "gsc_productNum" : 4932,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150407/4932/32981/large/ee901eedadb5e2c021600186ee066bec.jpg",
+  "name" : {
+    "en" : "Nendoroid Charlotte Dunois (ねんどろいど しゃるろっと・でゅのあ)",
+    "ja" : "ねんどろいど シャルロット・デュノア (ねんどろいど しゃるろっと・でゅのあ)",
+    "ko" : "샤를로트 뒤누아"
   },
-  "series": {
-    "ko": "인피니트 스트라토스",
-    "ja": "IS \u003cインフィニット・ストラトス\u003e",
-    "en": "IS \u003cInfinite Stratos\u003e"
-  },
-  "gsc_productNum": 4932,
-  "price": 4278,
-  "release_date": [
+  "num" : "497",
+  "price" : 4278,
+  "release_date" : [
     "2015/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150407/4932/32981/large/ee901eedadb5e2c021600186ee066bec.jpg",
-  "gender": "F",
-  "set": 77
+  "series" : {
+    "en" : "IS <Infinite Stratos>",
+    "ja" : "IS <インフィニット・ストラトス>",
+    "ko" : "인피니트 스트라토스"
+  },
+  "set" : 77
 }

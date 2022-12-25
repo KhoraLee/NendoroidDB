@@ -1,21 +1,21 @@
 {
-  "num": "314",
-  "name": {
-    "ko": "세실리아 올코트",
-    "ja": "ねんどろいど セシリア・オルコット (ねんどろいど せしりあ・おるこっと)",
-    "en": "Nendoroid Cecilia Alcott (ねんどろいど せしりあ・おるこっと)"
+  "gender" : "F",
+  "gsc_productNum" : 3850,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130225/3850/22831/large/51ba8c6b071566755a3ee4f10162de88.jpg",
+  "name" : {
+    "en" : "Nendoroid Cecilia Alcott (ねんどろいど せしりあ・おるこっと)",
+    "ja" : "ねんどろいど セシリア・オルコット (ねんどろいど せしりあ・おるこっと)",
+    "ko" : "세실리아 올코트"
   },
-  "series": {
-    "ko": "인피니트 스트라토스",
-    "ja": "IS \u003cインフィニット・ストラトス\u003e",
-    "en": "IS \u003cInfinite Stratos\u003e"
-  },
-  "gsc_productNum": 3850,
-  "price": 3667,
-  "release_date": [
+  "num" : "314",
+  "price" : 3667,
+  "release_date" : [
     "2013/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130225/3850/22831/large/51ba8c6b071566755a3ee4f10162de88.jpg",
-  "gender": "F",
-  "set": 77
+  "series" : {
+    "en" : "IS <Infinite Stratos>",
+    "ja" : "IS <インフィニット・ストラトス>",
+    "ko" : "인피니트 스트라토스"
+  },
+  "set" : 77
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1634",
-  "name": {
-    "ko": "엔마 아이",
-    "ja": "ねんどろいど 閻魔あい (ねんどろいど えんまあい)",
-    "en": "Nendoroid Ai Enma"
+  "gender" : "F",
+  "gsc_productNum" : 11344,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210614/11344/85852/large/916b65c340c7c151e776f4af396b2dce.jpg",
+  "name" : {
+    "en" : "Nendoroid Ai Enma",
+    "ja" : "ねんどろいど 閻魔あい (ねんどろいど えんまあい)",
+    "ko" : "엔마 아이"
   },
-  "series": {
-    "ko": "지옥소녀",
-    "ja": "地獄少女 宵伽",
-    "en": "Hell Girl: Fourth Twilight"
-  },
-  "gsc_productNum": 11344,
-  "price": 5500,
-  "release_date": [
+  "num" : "1634",
+  "price" : 5500,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210614/11344/85852/large/916b65c340c7c151e776f4af396b2dce.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Hell Girl: Fourth Twilight",
+    "ja" : "地獄少女 宵伽",
+    "ko" : "지옥소녀"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1195",
-  "name": {
-    "ko": "호시노 히나타",
-    "ja": "ねんどろいど 星野ひなた (ねんどろいど ほしのひなた)",
-    "en": "Nendoroid Hinata Hoshino"
+  "gender" : "F",
+  "gsc_productNum" : 8720,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190823/8720/63050/large/040106cf6ca1ac78cc7ddeacee5fb79b.jpg",
+  "name" : {
+    "en" : "Nendoroid Hinata Hoshino",
+    "ja" : "ねんどろいど 星野ひなた (ねんどろいど ほしのひなた)",
+    "ko" : "호시노 히나타"
   },
-  "series": {
-    "ko": "나에게 천사가 내려왔다!",
-    "ja": "私に天使が舞い降りた！",
-    "en": "Wataten!: An Angel Flew Down to Me"
-  },
-  "gsc_productNum": 8720,
-  "price": 4600,
-  "release_date": [
+  "num" : "1195",
+  "price" : 4600,
+  "release_date" : [
     "2020/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190823/8720/63050/large/040106cf6ca1ac78cc7ddeacee5fb79b.jpg",
-  "gender": "F",
-  "set": 223
+  "series" : {
+    "en" : "Wataten!: An Angel Flew Down to Me",
+    "ja" : "私に天使が舞い降りた！",
+    "ko" : "나에게 천사가 내려왔다!"
+  },
+  "set" : 223
 }

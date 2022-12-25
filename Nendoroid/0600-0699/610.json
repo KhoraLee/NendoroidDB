@@ -1,20 +1,20 @@
 {
-  "num": "610",
-  "name": {
-    "ko": "시안",
-    "ja": "ねんどろいど シアン (ねんどろいど しあん)",
-    "en": "Nendoroid Cyan"
+  "gender" : "F",
+  "gsc_productNum" : 5524,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160301/5524/37889/large/3b7ee5f505663ee81a7d6bea7d491319.jpg",
+  "name" : {
+    "en" : "Nendoroid Cyan",
+    "ja" : "ねんどろいど シアン (ねんどろいど しあん)",
+    "ko" : "시안"
   },
-  "series": {
-    "ko": "SHOW BY ROCK!!",
-    "ja": "SHOW BY ROCK!!",
-    "en": "SHOW BY ROCK!!"
-  },
-  "gsc_productNum": 5524,
-  "price": 4584,
-  "release_date": [
+  "num" : "610",
+  "price" : 4584,
+  "release_date" : [
     "2016/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160301/5524/37889/large/3b7ee5f505663ee81a7d6bea7d491319.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "SHOW BY ROCK!!",
+    "ja" : "SHOW BY ROCK!!",
+    "ko" : "SHOW BY ROCK!!"
+  }
 }

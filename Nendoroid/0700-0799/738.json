@@ -1,21 +1,21 @@
 {
-  "num": "738",
-  "name": {
-    "ko": "카스미가오카 우타하",
-    "ja": "ねんどろいど 霞ヶ丘詩羽 (ねんどろいど かすみがおかうたは)",
-    "en": "Nendoroid Utaha Kasumigaoka"
+  "gender" : "F",
+  "gsc_productNum" : 6243,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170206/6243/43697/large/b24e09154a1fa34d7ecdb20388562beb.jpg",
+  "name" : {
+    "en" : "Nendoroid Utaha Kasumigaoka",
+    "ja" : "ねんどろいど 霞ヶ丘詩羽 (ねんどろいど かすみがおかうたは)",
+    "ko" : "카스미가오카 우타하"
   },
-  "series": {
-    "ko": "시원찮은 그녀를 위한 육성방법",
-    "ja": "冴えない彼女の育てかた♭",
-    "en": "Saekano: How to Raise a Boring Girlfriend ♭"
-  },
-  "gsc_productNum": 6243,
-  "price": 4584,
-  "release_date": [
+  "num" : "738",
+  "price" : 4584,
+  "release_date" : [
     "2017/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170206/6243/43697/large/b24e09154a1fa34d7ecdb20388562beb.jpg",
-  "gender": "F",
-  "set": 147
+  "series" : {
+    "en" : "Saekano: How to Raise a Boring Girlfriend ♭",
+    "ja" : "冴えない彼女の育てかた♭",
+    "ko" : "시원찮은 그녀를 위한 육성방법"
+  },
+  "set" : 147
 }

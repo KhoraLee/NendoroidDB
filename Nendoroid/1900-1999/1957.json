@@ -1,21 +1,21 @@
 {
-  "num": "1957",
-  "name": {
-    "ja": "ねんどろいど ツインターボ (ねんどろいど ついんたーぼ)",
-    "en": "Nendoroid Twin Turbo",
-    "ko": "트윈 터보"
+  "gender" : "F",
+  "gsc_productNum" : 13116,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220818/13116/104194/large/fb9671df0755d0fca5570272a838ffd1.jpg",
+  "name" : {
+    "en" : "Nendoroid Twin Turbo",
+    "ja" : "ねんどろいど ツインターボ (ねんどろいど ついんたーぼ)",
+    "ko" : "트윈 터보"
   },
-  "series": {
-    "ja": "ウマ娘 プリティーダービー",
-    "en": "Umamusume: Pretty Derby",
-    "ko": "우마무스메: 프리티 더비"
-  },
-  "gsc_productNum": 13116,
-  "price": 6800,
-  "release_date": [
+  "num" : "1957",
+  "price" : 6800,
+  "release_date" : [
     "2023/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220818/13116/104194/large/fb9671df0755d0fca5570272a838ffd1.jpg",
-  "gender": "F",
-  "set": 193
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메: 프리티 더비"
+  },
+  "set" : 193
 }

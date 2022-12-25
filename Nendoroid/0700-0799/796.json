@@ -1,22 +1,22 @@
 {
-  "num": "796",
-  "name": {
-    "ko": "알폰스 엘릭",
-    "ja": "ねんどろいど アルフォンス・エルリック (ねんどろいど あるふぉんす・えるりっく)",
-    "en": "Nendoroid Alphonse Elric"
+  "gender" : "M",
+  "gsc_productNum" : 6586,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170714/6586/46539/large/e203179360a6996fea501ba291c55e7e.jpg",
+  "name" : {
+    "en" : "Nendoroid Alphonse Elric",
+    "ja" : "ねんどろいど アルフォンス・エルリック (ねんどろいど あるふぉんす・えるりっく)",
+    "ko" : "알폰스 엘릭"
   },
-  "series": {
-    "ko": "강철의 연금술사",
-    "ja": "鋼の錬金術師 FULLMETAL ALCHEMIST",
-    "en": "Fullmetal Alchemist: Brotherhood"
-  },
-  "gsc_productNum": 6586,
-  "price": 5900,
-  "release_date": [
+  "num" : "796",
+  "price" : 5900,
+  "release_date" : [
     "2018/01",
     "2020/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170714/6586/46539/large/e203179360a6996fea501ba291c55e7e.jpg",
-  "gender": "M",
-  "set": 159
+  "series" : {
+    "en" : "Fullmetal Alchemist: Brotherhood",
+    "ja" : "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "ko" : "강철의 연금술사"
+  },
+  "set" : 159
 }

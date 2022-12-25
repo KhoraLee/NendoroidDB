@@ -1,21 +1,21 @@
 {
-  "num": "1707",
-  "name": {
-    "ko": "토키노 소라",
-    "ja": "ねんどろいど ときのそら (ねんどろいど ときのそら)",
-    "en": "Nendoroid Tokino Sora"
+  "gender" : "F",
+  "gsc_productNum" : 11724,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210901/11724/89391/large/2d71250ca5c7ed36cd6014941cf196a7.jpg",
+  "name" : {
+    "en" : "Nendoroid Tokino Sora",
+    "ja" : "ねんどろいど ときのそら (ねんどろいど ときのそら)",
+    "ko" : "토키노 소라"
   },
-  "series": {
-    "ko": "홀로라이브",
-    "ja": "ホロライブプロダクション",
-    "en": "hololive production"
-  },
-  "gsc_productNum": 11724,
-  "price": 6300,
-  "release_date": [
+  "num" : "1707",
+  "price" : 6300,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210901/11724/89391/large/2d71250ca5c7ed36cd6014941cf196a7.jpg",
-  "gender": "F",
-  "set": 262
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브"
+  },
+  "set" : 262
 }

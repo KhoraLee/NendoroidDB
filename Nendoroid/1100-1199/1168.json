@@ -1,21 +1,21 @@
 {
-  "num": "1168",
-  "name": {
-    "ko": "세노오 아이코",
-    "ja": "ねんどろいど 妹尾あいこ (ねんどろいど せのおあいこ)",
-    "en": "Nendoroid Aiko Seno"
+  "gender" : "F",
+  "gsc_productNum" : 8512,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190703/8512/61610/large/6b09507bf543ce06c2f58335f7a70a17.jpg",
+  "name" : {
+    "en" : "Nendoroid Aiko Seno",
+    "ja" : "ねんどろいど 妹尾あいこ (ねんどろいど せのおあいこ)",
+    "ko" : "세노오 아이코"
   },
-  "series": {
-    "ko": "오쟈마녀 도레미",
-    "ja": "も～っと！おジャ魔女どれみ",
-    "en": "Magical DoReMi 3"
-  },
-  "gsc_productNum": 8512,
-  "price": 5500,
-  "release_date": [
+  "num" : "1168",
+  "price" : 5500,
+  "release_date" : [
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190703/8512/61610/large/6b09507bf543ce06c2f58335f7a70a17.jpg",
-  "gender": "F",
-  "set": 212
+  "series" : {
+    "en" : "Magical DoReMi 3",
+    "ja" : "も～っと！おジャ魔女どれみ",
+    "ko" : "오쟈마녀 도레미"
+  },
+  "set" : 212
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1980",
-  "name": {
-    "ja": "ねんどろいど 貞子 (ねんどろいど さだこ)",
-    "en": "Nendoroid Sadako",
-    "ko": "사다코"
+  "gender" : "F",
+  "gsc_productNum" : 13452,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221024/13452/106350/large/0c44e259470b7050b66d8c22f74a85b9.jpg",
+  "name" : {
+    "en" : "Nendoroid Sadako",
+    "ja" : "ねんどろいど 貞子 (ねんどろいど さだこ)",
+    "ko" : "사다코"
   },
-  "series": {
-    "ja": "キャラクター貞子",
-    "en": "Sadako (Character)",
-    "ko": "사다코(캐릭터)"
-  },
-  "gsc_productNum": 13452,
-  "price": 7800,
-  "release_date": [
+  "num" : "1980",
+  "price" : 7800,
+  "release_date" : [
     "2023/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221024/13452/106350/large/0c44e259470b7050b66d8c22f74a85b9.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Sadako (Character)",
+    "ja" : "キャラクター貞子",
+    "ko" : "사다코(캐릭터)"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1976",
-  "name": {
-    "ja": "ねんどろいど ペルシカ (ねんどろいど ぺるしか)",
-    "en": "Nendoroid Persicaria",
-    "ko": "페르시카리아"
+  "gender" : "F",
+  "gsc_productNum" : 13355,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221003/13355/105390/large/4d4760924a48db2a9cb38b36d139466d.jpg",
+  "name" : {
+    "en" : "Nendoroid Persicaria",
+    "ja" : "ねんどろいど ペルシカ (ねんどろいど ぺるしか)",
+    "ko" : "페르시카리아"
   },
-  "series": {
-    "ja": "ニューラルクラウド",
-    "en": "NeuralCloud",
-    "ko": "뉴럴 클라우드"
-  },
-  "gsc_productNum": 13355,
-  "price": 8600,
-  "release_date": [
+  "num" : "1976",
+  "price" : 8600,
+  "release_date" : [
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221003/13355/105390/large/4d4760924a48db2a9cb38b36d139466d.jpg",
-  "gender": "F",
-  "set": 210
+  "series" : {
+    "en" : "NeuralCloud",
+    "ja" : "ニューラルクラウド",
+    "ko" : "뉴럴 클라우드"
+  },
+  "set" : 210
 }

@@ -1,19 +1,19 @@
 {
-  "num": "139",
-  "name": {
-    "ko": "아미땅",
-    "ja": "ねんどろいど あーみーさん (ねんどろいど あーみーさん)"
+  "gender" : "F",
+  "gsc_productNum" : 3383,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3383/16335/large/eb32623684c1806f09fa9e92c823f809.jpg",
+  "name" : {
+    "ja" : "ねんどろいど あーみーさん (ねんどろいど あーみーさん)",
+    "ko" : "아미땅"
   },
-  "series": {
-    "ko": "마법의 해병대원 픽셀☆마리땅",
-    "ja": "魔法の海兵隊員ぴくせる☆まりたん"
-  },
-  "gsc_productNum": 3383,
-  "price": 3667,
-  "release_date": [
+  "num" : "139",
+  "price" : 3667,
+  "release_date" : [
     "2011/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3383/16335/large/eb32623684c1806f09fa9e92c823f809.jpg",
-  "gender": "F",
-  "set": 15
+  "series" : {
+    "ja" : "魔法の海兵隊員ぴくせる☆まりたん",
+    "ko" : "마법의 해병대원 픽셀☆마리땅"
+  },
+  "set" : 15
 }

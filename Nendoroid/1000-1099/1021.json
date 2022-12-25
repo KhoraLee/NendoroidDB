@@ -1,21 +1,21 @@
 {
-  "num": "1021",
-  "name": {
-    "ko": "미야케 히나타",
-    "ja": "ねんどろいど 三宅日向 (ねんどろいど みやけひなた)",
-    "en": "Nendoroid Hinata Miyake"
+  "gender" : "F",
+  "gsc_productNum" : 7725,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181019/7725/55322/large/7bf9ef457d0a89e8034ef7ee00a8c805.jpg",
+  "name" : {
+    "en" : "Nendoroid Hinata Miyake",
+    "ja" : "ねんどろいど 三宅日向 (ねんどろいど みやけひなた)",
+    "ko" : "미야케 히나타"
   },
-  "series": {
-    "ko": "우주보다 먼 곳",
-    "ja": "宇宙よりも遠い場所",
-    "en": "A Place Further Than the Universe"
-  },
-  "gsc_productNum": 7725,
-  "price": 5093,
-  "release_date": [
+  "num" : "1021",
+  "price" : 5093,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181019/7725/55322/large/7bf9ef457d0a89e8034ef7ee00a8c805.jpg",
-  "gender": "F",
-  "set": 196
+  "series" : {
+    "en" : "A Place Further Than the Universe",
+    "ja" : "宇宙よりも遠い場所",
+    "ko" : "우주보다 먼 곳"
+  },
+  "set" : 196
 }

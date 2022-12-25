@@ -1,21 +1,21 @@
 {
-  "num": "1603",
-  "name": {
-    "ko": "모스티마",
-    "ja": "ねんどろいど モスティマ (ねんどろいど もすてぃま)",
-    "en": "Nendoroid Mostima"
+  "gender" : "F",
+  "gsc_productNum" : 11243,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210521/11243/84990/large/3caf0f4dc2b7610cf01a1255adc171f2.jpg",
+  "name" : {
+    "en" : "Nendoroid Mostima",
+    "ja" : "ねんどろいど モスティマ (ねんどろいど もすてぃま)",
+    "ko" : "모스티마"
   },
-  "series": {
-    "ko": "명일방주",
-    "ja": "アークナイツ",
-    "en": "Arknights"
-  },
-  "gsc_productNum": 11243,
-  "price": 6300,
-  "release_date": [
+  "num" : "1603",
+  "price" : 6300,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210521/11243/84990/large/3caf0f4dc2b7610cf01a1255adc171f2.jpg",
-  "gender": "F",
-  "set": 216
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 216
 }

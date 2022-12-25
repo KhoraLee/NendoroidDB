@@ -1,21 +1,21 @@
 {
-  "num": "552",
-  "name": {
-    "ko": "샤나 V. 리트뱌크",
-    "ja": "ねんどろいど サーニャ・V・リトヴャク (ねんどろいど さーにゃ・ぶい・りとう゛ゃく)",
-    "en": "Nendoroid Sanya V. Litvyak (ねんどろいど さーにゃ・ぶい・りとう゛ゃく)"
+  "gender" : "F",
+  "gsc_productNum" : 5199,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150824/5199/35241/large/1ea425abb38b54835fdc468859a5804c.jpg",
+  "name" : {
+    "en" : "Nendoroid Sanya V. Litvyak (ねんどろいど さーにゃ・ぶい・りとう゛ゃく)",
+    "ja" : "ねんどろいど サーニャ・V・リトヴャク (ねんどろいど さーにゃ・ぶい・りとう゛ゃく)",
+    "ko" : "샤나 V. 리트뱌크"
   },
-  "series": {
-    "ko": "스트라이크 위치스",
-    "ja": "ストライクウィッチーズ2",
-    "en": "Strike Witches 2"
-  },
-  "gsc_productNum": 5199,
-  "price": 5280,
-  "release_date": [
+  "num" : "552",
+  "price" : 5280,
+  "release_date" : [
     "2016/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150824/5199/35241/large/1ea425abb38b54835fdc468859a5804c.jpg",
-  "gender": "F",
-  "set": 16
+  "series" : {
+    "en" : "Strike Witches 2",
+    "ja" : "ストライクウィッチーズ2",
+    "ko" : "스트라이크 위치스"
+  },
+  "set" : 16
 }

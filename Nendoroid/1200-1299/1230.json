@@ -1,21 +1,21 @@
 {
-  "num": "1230",
-  "name": {
-    "ko": "아이언맨 Mk85 엔드게임 Ver.",
-    "ja": "ねんどろいど アイアンマン マーク85 エンドゲームVer. (ねんどろいど あいあんまん まーく85 えんどげーむVer.)",
-    "en": "Nendoroid Iron Man Mark 85: Endgame Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8975,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191113/8975/65142/large/98682c094d5ebb8ce58b2e2675021404.jpg",
+  "name" : {
+    "en" : "Nendoroid Iron Man Mark 85: Endgame Ver.",
+    "ja" : "ねんどろいど アイアンマン マーク85 エンドゲームVer. (ねんどろいど あいあんまん まーく85 えんどげーむVer.)",
+    "ko" : "아이언맨 Mk85 엔드게임 Ver."
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／エンドゲーム",
-    "en": "Avengers: Endgame"
-  },
-  "gsc_productNum": 8975,
-  "price": 4800,
-  "release_date": [
+  "num" : "1230",
+  "price" : 4800,
+  "release_date" : [
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191113/8975/65142/large/98682c094d5ebb8ce58b2e2675021404.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

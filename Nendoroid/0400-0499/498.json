@@ -1,20 +1,20 @@
 {
-  "num": "498",
-  "name": {
-    "ko": "노엘",
-    "ja": "ねんどろいど ノエル (ねんどろいど のえる)",
-    "en": "Nendoroid Noel (Sora no Method)"
+  "gender" : "F",
+  "gsc_productNum" : 4828,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150120/4828/32121/large/3fd92913068704c33e9ccfc78d7bf96c.jpg",
+  "name" : {
+    "en" : "Nendoroid Noel (Sora no Method)",
+    "ja" : "ねんどろいど ノエル (ねんどろいど のえる)",
+    "ko" : "노엘"
   },
-  "series": {
-    "ko": "천체의 메소드",
-    "ja": "天体のメソッド",
-    "en": "Celestial Method"
-  },
-  "gsc_productNum": 4828,
-  "price": 5093,
-  "release_date": [
+  "num" : "498",
+  "price" : 5093,
+  "release_date" : [
     "2015/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150120/4828/32121/large/3fd92913068704c33e9ccfc78d7bf96c.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Celestial Method",
+    "ja" : "天体のメソッド",
+    "ko" : "천체의 메소드"
+  }
 }

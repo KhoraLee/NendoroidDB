@@ -1,21 +1,21 @@
 {
-  "num": "279",
-  "name": {
-    "ko": "레온미셰리 갈레트 데 로아",
-    "ja": "ねんどろいど レオンミシェリ・ガレット・デ・ロワ (ねんどろいど れおんみしぇり・がれっと・で・ろわ)",
-    "en": "Nendoroid Leonmitchelli Galette des Rois (ねんどろいど れおんみしぇり・がれっと・で・ろわ)"
+  "gender" : "F",
+  "gsc_productNum" : 3699,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121001/3699/20710/large/ad4ab44f8579e52a221a72941fe833cc.jpg",
+  "name" : {
+    "en" : "Nendoroid Leonmitchelli Galette des Rois (ねんどろいど れおんみしぇり・がれっと・で・ろわ)",
+    "ja" : "ねんどろいど レオンミシェリ・ガレット・デ・ロワ (ねんどろいど れおんみしぇり・がれっと・で・ろわ)",
+    "ko" : "레온미셰리 갈레트 데 로아"
   },
-  "series": {
-    "ko": "DOG DAYS",
-    "ja": "DOG DAYS",
-    "en": "DOG DAYS"
-  },
-  "gsc_productNum": 3699,
-  "price": 4714,
-  "release_date": [
+  "num" : "279",
+  "price" : 4714,
+  "release_date" : [
     "2013/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121001/3699/20710/large/ad4ab44f8579e52a221a72941fe833cc.jpg",
-  "gender": "F",
-  "set": 50
+  "series" : {
+    "en" : "DOG DAYS",
+    "ja" : "DOG DAYS",
+    "ko" : "DOG DAYS"
+  },
+  "set" : 50
 }

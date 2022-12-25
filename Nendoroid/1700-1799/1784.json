@@ -1,20 +1,20 @@
 {
-  "num": "1784",
-  "name": {
-    "ko": "아서",
-    "ja": "ねんどろいど アーサー (ねんどろいど あーさー)",
-    "en": "Nendoroid Arthur"
+  "gender" : "M",
+  "gsc_productNum" : 12276,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220124/12276/94709/large/e4120f89de0b0b98e79c20ec993e214e.jpg",
+  "name" : {
+    "en" : "Nendoroid Arthur",
+    "ja" : "ねんどろいど アーサー (ねんどろいど あーさー)",
+    "ko" : "아서"
   },
-  "series": {
-    "ko": "돌아온 마계촌",
-    "ja": "帰ってきた 魔界村",
-    "en": "Ghosts \u0027n Goblins Resurrection"
-  },
-  "gsc_productNum": 12276,
-  "price": 6900,
-  "release_date": [
+  "num" : "1784",
+  "price" : 6900,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220124/12276/94709/large/e4120f89de0b0b98e79c20ec993e214e.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Ghosts 'n Goblins Resurrection",
+    "ja" : "帰ってきた 魔界村",
+    "ko" : "돌아온 마계촌"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1871",
-  "name": {
-    "ko": "네오",
-    "ja": "ねんどろいど ネオ (ねんどろいど ねお)",
-    "en": "Nendoroid Neo"
+  "gender" : "M",
+  "gsc_productNum" : 12592,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220420/12592/97753/large/9b986ef3ea5e8e8fa91c1f72a034aa04.jpg",
+  "name" : {
+    "en" : "Nendoroid Neo",
+    "ja" : "ねんどろいど ネオ (ねんどろいど ねお)",
+    "ko" : "네오"
   },
-  "series": {
-    "ko": "매트릭스",
-    "ja": "マトリックス",
-    "en": "The Matrix"
-  },
-  "gsc_productNum": 12592,
-  "price": 6200,
-  "release_date": [
+  "num" : "1871",
+  "price" : 6200,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220420/12592/97753/large/9b986ef3ea5e8e8fa91c1f72a034aa04.jpg",
-  "gender": "M",
-  "set": 288
+  "series" : {
+    "en" : "The Matrix",
+    "ja" : "マトリックス",
+    "ko" : "매트릭스"
+  },
+  "set" : 288
 }

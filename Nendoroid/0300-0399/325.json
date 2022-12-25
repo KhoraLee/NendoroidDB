@@ -1,20 +1,20 @@
 {
-  "num": "325",
-  "name": {
-    "ko": "마왕",
-    "ja": "ねんどろいど 魔王 (ねんどろいど まおう)",
-    "en": "Nendoroid Demon King (ねんどろいど まおう)"
+  "gender" : "F",
+  "gsc_productNum" : 3896,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130426/3896/23650/large/9703f7d11b9e30d191be5b9caf92e040.jpg",
+  "name" : {
+    "en" : "Nendoroid Demon King (ねんどろいど まおう)",
+    "ja" : "ねんどろいど 魔王 (ねんどろいど まおう)",
+    "ko" : "마왕"
   },
-  "series": {
-    "ko": "마오유우 마왕용사",
-    "ja": "まおゆう魔王勇者",
-    "en": "DEMON KING AND HERO"
-  },
-  "gsc_productNum": 3896,
-  "price": 3981,
-  "release_date": [
+  "num" : "325",
+  "price" : 3981,
+  "release_date" : [
     "2013/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130426/3896/23650/large/9703f7d11b9e30d191be5b9caf92e040.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "DEMON KING AND HERO",
+    "ja" : "まおゆう魔王勇者",
+    "ko" : "마오유우 마왕용사"
+  }
 }

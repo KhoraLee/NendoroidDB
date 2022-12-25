@@ -1,21 +1,21 @@
 {
-  "num": "493",
-  "name": {
-    "ko": "유키 미쿠 Snow Bell Ver.",
-    "ja": "ねんどろいど 雪ミク Snow Bell Ver. (ねんどろいど ゆきみく すのー べる Ver.)",
-    "en": "Nendoroid Snow Miku: Snow Bell Ver. (ねんどろいど ゆきみく すのー べる Ver.)"
+  "gender" : "F",
+  "gsc_productNum" : 4763,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141204/4763/31639/large/474857604ee490d89de926c82a532db2.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow Miku: Snow Bell Ver. (ねんどろいど ゆきみく すのー べる Ver.)",
+    "ja" : "ねんどろいど 雪ミク Snow Bell Ver. (ねんどろいど ゆきみく すのー べる Ver.)",
+    "ko" : "유키 미쿠 Snow Bell Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 4763,
-  "price": 4584,
-  "release_date": [
+  "num" : "493",
+  "price" : 4584,
+  "release_date" : [
     "2015/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141204/4763/31639/large/474857604ee490d89de926c82a532db2.jpg",
-  "gender": "F",
-  "set": 31
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 31
 }

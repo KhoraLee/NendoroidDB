@@ -1,21 +1,21 @@
 {
-  "num": "1324",
-  "name": {
-    "ko": "얼터 에고/멜트릴리스",
-    "ja": "ねんどろいど アルターエゴ/メルトリリス (ねんどろいど あるたーえご/めるとりりす)",
-    "en": "Nendoroid Alter Ego/Meltryllis"
+  "gender" : "F",
+  "gsc_productNum" : 9437,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200421/9437/69096/large/b3485bd82ac65c8a2a9802297e49b998.jpg",
+  "name" : {
+    "en" : "Nendoroid Alter Ego/Meltryllis",
+    "ja" : "ねんどろいど アルターエゴ/メルトリリス (ねんどろいど あるたーえご/めるとりりす)",
+    "ko" : "얼터 에고/멜트릴리스"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 9437,
-  "price": 5800,
-  "release_date": [
+  "num" : "1324",
+  "price" : 5800,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200421/9437/69096/large/b3485bd82ac65c8a2a9802297e49b998.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

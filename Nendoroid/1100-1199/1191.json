@@ -1,22 +1,22 @@
 {
-  "num": "1191",
-  "name": {
-    "ko": "아쿠타가와 류노스케",
-    "ja": "ねんどろいど 芥川龍之介 (ねんどろいど あくたがわりゅうのすけ)",
-    "en": "Nendoroid Ryunosuke Akutagawa"
+  "gender" : "M",
+  "gsc_productNum" : 8678,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190809/8678/62794/large/966a608f887c1a262ccd3056faaa1f16.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryunosuke Akutagawa",
+    "ja" : "ねんどろいど 芥川龍之介 (ねんどろいど あくたがわりゅうのすけ)",
+    "ko" : "아쿠타가와 류노스케"
   },
-  "series": {
-    "ko": "문호 스트레이 독스",
-    "ja": "文豪ストレイドッグス",
-    "en": "Bungo Stray Dogs"
-  },
-  "gsc_productNum": 8678,
-  "price": 5000,
-  "release_date": [
+  "num" : "1191",
+  "price" : 5000,
+  "release_date" : [
     "2020/03",
     "2023/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190809/8678/62794/large/966a608f887c1a262ccd3056faaa1f16.jpg",
-  "gender": "M",
-  "set": 137
+  "series" : {
+    "en" : "Bungo Stray Dogs",
+    "ja" : "文豪ストレイドッグス",
+    "ko" : "문호 스트레이 독스"
+  },
+  "set" : 137
 }

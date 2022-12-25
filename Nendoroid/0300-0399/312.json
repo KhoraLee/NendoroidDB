@@ -1,21 +1,21 @@
 {
-  "num": "312",
-  "name": {
-    "ko": "미나미 하루카",
-    "ja": "ねんどろいど 南 春香 (ねんどろいど みなみ はるか)",
-    "en": "Nendoroid Haruka Minami (ねんどろいど みなみ はるか)"
+  "gender" : "F",
+  "gsc_productNum" : 3840,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130219/3840/22715/large/f4f7b1be71b4f21858e65d842f428046.jpg",
+  "name" : {
+    "en" : "Nendoroid Haruka Minami (ねんどろいど みなみ はるか)",
+    "ja" : "ねんどろいど 南 春香 (ねんどろいど みなみ はるか)",
+    "ko" : "미나미 하루카"
   },
-  "series": {
-    "ko": "미나미가",
-    "ja": "みなみけ ただいま",
-    "en": "Minamike Tadaima"
-  },
-  "gsc_productNum": 3840,
-  "price": 3981,
-  "release_date": [
+  "num" : "312",
+  "price" : 3981,
+  "release_date" : [
     "2013/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130219/3840/22715/large/f4f7b1be71b4f21858e65d842f428046.jpg",
-  "gender": "F",
-  "set": 29
+  "series" : {
+    "en" : "Minamike Tadaima",
+    "ja" : "みなみけ ただいま",
+    "ko" : "미나미가"
+  },
+  "set" : 29
 }

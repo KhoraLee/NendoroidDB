@@ -1,20 +1,20 @@
 {
-  "num": "698",
-  "name": {
-    "ko": "네이선 드레이크",
-    "ja": "ねんどろいど ネイサン・ドレイク アドベンチャー・エディション (ねんどろいど ねいさん・どれいく あどべんちゃー・えでぃしょん)",
-    "en": "Nendoroid Nathan Drake: Adventure Edition"
+  "gender" : "M",
+  "gsc_productNum" : 6081,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161124/6081/42412/large/f7d68db6556291339dbe9bb3cccd0ca3.jpg",
+  "name" : {
+    "en" : "Nendoroid Nathan Drake: Adventure Edition",
+    "ja" : "ねんどろいど ネイサン・ドレイク アドベンチャー・エディション (ねんどろいど ねいさん・どれいく あどべんちゃー・えでぃしょん)",
+    "ko" : "네이선 드레이크"
   },
-  "series": {
-    "ko": "언차티드 시리즈",
-    "ja": "アンチャーテッド 海賊王と最後の秘宝",
-    "en": "Uncharted 4: A Thief\u0027s End"
-  },
-  "gsc_productNum": 6081,
-  "price": 4584,
-  "release_date": [
+  "num" : "698",
+  "price" : 4584,
+  "release_date" : [
     "2017/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161124/6081/42412/large/f7d68db6556291339dbe9bb3cccd0ca3.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Uncharted 4: A Thief's End",
+    "ja" : "アンチャーテッド 海賊王と最後の秘宝",
+    "ko" : "언차티드 시리즈"
+  }
 }

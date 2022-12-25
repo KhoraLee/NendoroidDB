@@ -1,21 +1,21 @@
 {
-  "num": "523",
-  "name": {
-    "ko": "KAITO 천본앵 Ver.",
-    "ja": "ねんどろいど KAITO 千本桜Ver. (ねんどろいど かいと せんぼんざくらVer.)",
-    "en": "Nendoroid KAITO: Senbonzakura Ver. (ねんどろいど かいと せんぼんざくらVer.)"
+  "gender" : "M",
+  "gsc_productNum" : 5040,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150528/5040/33797/large/f5b706787e40ed507e0ef025d02b80b3.jpg",
+  "name" : {
+    "en" : "Nendoroid KAITO: Senbonzakura Ver. (ねんどろいど かいと せんぼんざくらVer.)",
+    "ja" : "ねんどろいど KAITO 千本桜Ver. (ねんどろいど かいと せんぼんざくらVer.)",
+    "ko" : "KAITO 천본앵 Ver."
   },
-  "series": {
-    "ko": "보컬로이드(VOCALOID)",
-    "ja": "千本桜 feat. 初音ミク",
-    "en": "Senbonzakura feat. Hatsune Miku"
-  },
-  "gsc_productNum": 5040,
-  "price": 4278,
-  "release_date": [
+  "num" : "523",
+  "price" : 4278,
+  "release_date" : [
     "2015/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150528/5040/33797/large/f5b706787e40ed507e0ef025d02b80b3.jpg",
-  "gender": "M",
-  "set": 11
+  "series" : {
+    "en" : "Senbonzakura feat. Hatsune Miku",
+    "ja" : "千本桜 feat. 初音ミク",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 11
 }

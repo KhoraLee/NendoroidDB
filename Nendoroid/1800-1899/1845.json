@@ -1,20 +1,20 @@
 {
-  "num": "1845",
-  "name": {
-    "ko": "프레데터",
-    "ja": "ねんどろいど プレデター (ねんどろいど ぷれでたー)",
-    "en": "Nendoroid Predator"
+  "gender" : "M",
+  "gsc_productNum" : 12464,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220315/12464/96533/large/80976ecf96ecf7b593b2fb52a87c8cde.jpg",
+  "name" : {
+    "en" : "Nendoroid Predator",
+    "ja" : "ねんどろいど プレデター (ねんどろいど ぷれでたー)",
+    "ko" : "프레데터"
   },
-  "series": {
-    "ko": "프레데터",
-    "ja": "プレデター",
-    "en": "Predator"
-  },
-  "gsc_productNum": 12464,
-  "price": 9500,
-  "release_date": [
+  "num" : "1845",
+  "price" : 9500,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220315/12464/96533/large/80976ecf96ecf7b593b2fb52a87c8cde.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Predator",
+    "ja" : "プレデター",
+    "ko" : "프레데터"
+  }
 }

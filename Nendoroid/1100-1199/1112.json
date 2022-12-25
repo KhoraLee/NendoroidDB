@@ -1,22 +1,22 @@
 {
-  "num": "1112",
-  "name": {
-    "ko": "토도로키 쇼토 히어로즈 에디션",
-    "ja": "ねんどろいど 轟焦凍 ヒーローズ・エディション (ねんどろいど とどろきしょうと ひーろーず・えでぃしょん)",
-    "en": "Nendoroid Shoto Todoroki: Hero\u0027s Edition"
+  "gender" : "M",
+  "gsc_productNum" : 8187,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190319/8187/59024/large/c271ad6771e18d3b64180ee8f88e2837.jpg",
+  "name" : {
+    "en" : "Nendoroid Shoto Todoroki: Hero's Edition",
+    "ja" : "ねんどろいど 轟焦凍 ヒーローズ・エディション (ねんどろいど とどろきしょうと ひーろーず・えでぃしょん)",
+    "ko" : "토도로키 쇼토 히어로즈 에디션"
   },
-  "series": {
-    "ko": "나의 히어로 아카데미아",
-    "ja": "僕のヒーローアカデミア",
-    "en": "My Hero Academia"
-  },
-  "gsc_productNum": 8187,
-  "price": 5100,
-  "release_date": [
+  "num" : "1112",
+  "price" : 5100,
+  "release_date" : [
     "2019/10",
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190319/8187/59024/large/c271ad6771e18d3b64180ee8f88e2837.jpg",
-  "gender": "M",
-  "set": 146
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 146
 }

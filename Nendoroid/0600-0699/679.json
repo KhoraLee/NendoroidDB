@@ -1,21 +1,21 @@
 {
-  "num": "679",
-  "name": {
-    "ko": "페코쨩 통학 Ver.",
-    "ja": "ねんどろいど ペコちゃん 通学Ver. (ねんどろいど ぺこちゃん つうがくVer.)",
-    "en": "Nendoroid Peko-chan: School Ver."
+  "gender" : "F",
+  "gsc_productNum" : 5975,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160923/5975/41517/large/8dca5aed110cc504e0e24d120746556c.jpg",
+  "name" : {
+    "en" : "Nendoroid Peko-chan: School Ver.",
+    "ja" : "ねんどろいど ペコちゃん 通学Ver. (ねんどろいど ぺこちゃん つうがくVer.)",
+    "ko" : "페코쨩 통학 Ver."
   },
-  "series": {
-    "ko": "후지야 페코쨩",
-    "ja": "不二家 ペコちゃん",
-    "en": "Fujiya Peko-chan"
-  },
-  "gsc_productNum": 5975,
-  "price": 4888,
-  "release_date": [
+  "num" : "679",
+  "price" : 4888,
+  "release_date" : [
     "2017/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160923/5975/41517/large/8dca5aed110cc504e0e24d120746556c.jpg",
-  "gender": "F",
-  "set": 128
+  "series" : {
+    "en" : "Fujiya Peko-chan",
+    "ja" : "不二家 ペコちゃん",
+    "ko" : "후지야 페코쨩"
+  },
+  "set" : 128
 }

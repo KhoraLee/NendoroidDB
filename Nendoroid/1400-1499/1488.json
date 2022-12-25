@@ -1,21 +1,21 @@
 {
-  "num": "1488",
-  "name": {
-    "ko": "리쿠 Ⅱ Ver.",
-    "ja": "ねんどろいど リク キングダム ハーツⅡVer. (ねんどろいど りく きんぐだむ はーつⅡVer.)",
-    "en": "Nendoroid Riku: Kingdom Hearts II Ver."
+  "gender" : "M",
+  "gsc_productNum" : 10191,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201007/10191/77109/large/50fa478aad67c7af49c161169c441d0b.jpg",
+  "name" : {
+    "en" : "Nendoroid Riku: Kingdom Hearts II Ver.",
+    "ja" : "ねんどろいど リク キングダム ハーツⅡVer. (ねんどろいど りく きんぐだむ はーつⅡVer.)",
+    "ko" : "리쿠 Ⅱ Ver."
   },
-  "series": {
-    "ko": "킹덤 하츠",
-    "ja": "キングダム ハーツⅡ",
-    "en": "Kingdom Hearts II"
-  },
-  "gsc_productNum": 10191,
-  "price": 4800,
-  "release_date": [
+  "num" : "1488",
+  "price" : 4800,
+  "release_date" : [
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201007/10191/77109/large/50fa478aad67c7af49c161169c441d0b.jpg",
-  "gender": "M",
-  "set": 206
+  "series" : {
+    "en" : "Kingdom Hearts II",
+    "ja" : "キングダム ハーツⅡ",
+    "ko" : "킹덤 하츠"
+  },
+  "set" : 206
 }

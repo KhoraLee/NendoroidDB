@@ -1,21 +1,21 @@
 {
-  "num": "1799",
-  "name": {
-    "ko": "하츠네 미쿠 : 미쿠 엑스포 2021 Ver.",
-    "ja": "ねんどろいど 初音ミク MIKU EXPO 2021Ver. (ねんどろいど はつねみく みく えきすぽ 2021Ver.)",
-    "en": "Nendoroid Hatsune Miku: MIKU EXPO 2021 Ver."
+  "gender" : "F",
+  "gsc_productNum" : 12213,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220112/12213/94168/large/844784652a618f907f8ca4072bb551e8.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: MIKU EXPO 2021 Ver.",
+    "ja" : "ねんどろいど 初音ミク MIKU EXPO 2021Ver. (ねんどろいど はつねみく みく えきすぽ 2021Ver.)",
+    "ko" : "하츠네 미쿠 : 미쿠 엑스포 2021 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 12213,
-  "price": 6500,
-  "release_date": [
+  "num" : "1799",
+  "price" : 6500,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220112/12213/94168/large/844784652a618f907f8ca4072bb551e8.jpg",
-  "gender": "F",
-  "set": 10
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1860",
-  "name": {
-    "ko": "네코마타 오카유",
-    "ja": "ねんどろいど 猫又おかゆ (ねんどろいど ねこまたおかゆ)",
-    "en": "Nendoroid Nekomata Okayu"
+  "gender" : "F",
+  "gsc_productNum" : 12557,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220411/12557/97742/large/9a37c4b8baa2ca5242a7db9afc1b4b7e.jpg",
+  "name" : {
+    "en" : "Nendoroid Nekomata Okayu",
+    "ja" : "ねんどろいど 猫又おかゆ (ねんどろいど ねこまたおかゆ)",
+    "ko" : "네코마타 오카유"
   },
-  "series": {
-    "ko": "홀로라이브",
-    "ja": "ホロライブプロダクション",
-    "en": "hololive production"
-  },
-  "gsc_productNum": 12557,
-  "price": 6200,
-  "release_date": [
+  "num" : "1860",
+  "price" : 6200,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220411/12557/97742/large/9a37c4b8baa2ca5242a7db9afc1b4b7e.jpg",
-  "gender": "F",
-  "set": 262
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브"
+  },
+  "set" : 262
 }

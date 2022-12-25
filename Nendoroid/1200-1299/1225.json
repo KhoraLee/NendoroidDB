@@ -1,19 +1,19 @@
 {
-  "num": "1225",
-  "name": {
-    "ko": "페니와이즈",
-    "ja": "ねんどろいど ペニーワイズ (ねんどろいど ぺにーわいず)",
-    "en": "Nendoroid Pennywise"
+  "gsc_productNum" : 8941,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191028/8941/64826/large/14c7145e2854bf39bd5c6a79d4a8b369.jpg",
+  "name" : {
+    "en" : "Nendoroid Pennywise",
+    "ja" : "ねんどろいど ペニーワイズ (ねんどろいど ぺにーわいず)",
+    "ko" : "페니와이즈"
   },
-  "series": {
-    "ko": "그것",
-    "ja": "IT/イット “それ”が見えたら、終わり。",
-    "en": "IT"
-  },
-  "gsc_productNum": 8941,
-  "price": 5800,
-  "release_date": [
+  "num" : "1225",
+  "price" : 5800,
+  "release_date" : [
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191028/8941/64826/large/14c7145e2854bf39bd5c6a79d4a8b369.jpg"
+  "series" : {
+    "en" : "IT",
+    "ja" : "IT/イット “それ”が見えたら、終わり。",
+    "ko" : "그것"
+  }
 }

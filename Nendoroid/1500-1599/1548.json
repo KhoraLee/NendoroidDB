@@ -1,21 +1,21 @@
 {
-  "num": "1548",
-  "name": {
-    "ko": "쿠기사키 노바라",
-    "ja": "ねんどろいど 釘崎野薔薇 (ねんどろいど くぎさきのばら)",
-    "en": "Nendoroid Nobara Kugisaki"
+  "gender" : "F",
+  "gsc_productNum" : 10648,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210106/10648/79536/large/bda97e0e32f6d93a91c1e5bfa112d4bb.jpg",
+  "name" : {
+    "en" : "Nendoroid Nobara Kugisaki",
+    "ja" : "ねんどろいど 釘崎野薔薇 (ねんどろいど くぎさきのばら)",
+    "ko" : "쿠기사키 노바라"
   },
-  "series": {
-    "ko": "주술회전",
-    "ja": "呪術廻戦",
-    "en": "Jujutsu Kaisen"
-  },
-  "gsc_productNum": 10648,
-  "price": 5100,
-  "release_date": [
+  "num" : "1548",
+  "price" : 5100,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210106/10648/79536/large/bda97e0e32f6d93a91c1e5bfa112d4bb.jpg",
-  "gender": "F",
-  "set": 251
+  "series" : {
+    "en" : "Jujutsu Kaisen",
+    "ja" : "呪術廻戦",
+    "ko" : "주술회전"
+  },
+  "set" : 251
 }

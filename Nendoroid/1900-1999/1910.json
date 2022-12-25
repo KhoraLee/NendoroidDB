@@ -1,20 +1,20 @@
 {
-  "num": "1910",
-  "name": {
-    "ja": "ねんどろいど ツバキ (ねんどろいど つばき)",
-    "en": "Nendoroid Tsubaki",
-    "ko": "츠바키 쿠노이치"
+  "gender" : "F",
+  "gsc_productNum" : 12888,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220624/12888/100971/large/fd91c39339d4c6f04e30d45ba16136ce.jpg",
+  "name" : {
+    "en" : "Nendoroid Tsubaki",
+    "ja" : "ねんどろいど ツバキ (ねんどろいど つばき)",
+    "ko" : "츠바키 쿠노이치"
   },
-  "series": {
-    "ja": "くノ一ツバキの胸の内",
-    "en": "In the Heart of Kunoichi Tsubaki",
-    "ko": "츠바키의 속마음"
-  },
-  "gsc_productNum": 12888,
-  "price": 6800,
-  "release_date": [
+  "num" : "1910",
+  "price" : 6800,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220624/12888/100971/large/fd91c39339d4c6f04e30d45ba16136ce.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "In the Heart of Kunoichi Tsubaki",
+    "ja" : "くノ一ツバキの胸の内",
+    "ko" : "츠바키의 속마음"
+  }
 }

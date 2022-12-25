@@ -1,21 +1,21 @@
 {
-  "num": "1682",
-  "name": {
-    "ko": "웨펀마스터",
-    "ja": "ねんどろいど 真：ウェポンマスター (ねんどろいど しん：うぇぽんますたー)",
-    "en": "Nendoroid Neo: Blade Master"
+  "gender" : "M",
+  "gsc_productNum" : 11504,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210716/11504/87648/large/f845b1aab07ce4de789703b5129f2daf.jpg",
+  "name" : {
+    "en" : "Nendoroid Neo: Blade Master",
+    "ja" : "ねんどろいど 真：ウェポンマスター (ねんどろいど しん：うぇぽんますたー)",
+    "ko" : "웨펀마스터"
   },
-  "series": {
-    "ko": "던전 앤 파이터",
-    "ja": "アラド戦記",
-    "en": "Dungeon Fighter Online"
-  },
-  "gsc_productNum": 11504,
-  "price": 7200,
-  "release_date": [
+  "num" : "1682",
+  "price" : 7200,
+  "release_date" : [
     "2022/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210716/11504/87648/large/f845b1aab07ce4de789703b5129f2daf.jpg",
-  "gender": "M",
-  "set": 167
+  "series" : {
+    "en" : "Dungeon Fighter Online",
+    "ja" : "アラド戦記",
+    "ko" : "던전 앤 파이터"
+  },
+  "set" : 167
 }

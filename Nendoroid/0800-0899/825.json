@@ -1,21 +1,21 @@
 {
-  "num": "825",
-  "name": {
-    "ko": "니시즈미 미호 판저 자켓 \u0026 P코트 Ver.",
-    "ja": "ねんどろいど 西住みほ パンツァージャケット＆Pコート Ver. (ねんどろいど にしずみみほ ぱんつぁーじゃけっと＆ぴーこーと Ver.)",
-    "en": "Nendoroid Miho Nishizumi: Panzer Jacket \u0026 Peacoat Ver."
+  "gender" : "F",
+  "gsc_productNum" : 6715,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170912/6715/47500/large/0659aa503176e3ac898a5f6e2f3786b2.jpg",
+  "name" : {
+    "en" : "Nendoroid Miho Nishizumi: Panzer Jacket & Peacoat Ver.",
+    "ja" : "ねんどろいど 西住みほ パンツァージャケット＆Pコート Ver. (ねんどろいど にしずみみほ ぱんつぁーじゃけっと＆ぴーこーと Ver.)",
+    "ko" : "니시즈미 미호 판저 자켓 & P코트 Ver."
   },
-  "series": {
-    "ko": "걸즈 앤 판처",
-    "ja": "ガールズ＆パンツァー 最終章",
-    "en": "GIRLS und PANZER das Finale"
-  },
-  "gsc_productNum": 6715,
-  "price": 5093,
-  "release_date": [
+  "num" : "825",
+  "price" : 5093,
+  "release_date" : [
     "2018/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170912/6715/47500/large/0659aa503176e3ac898a5f6e2f3786b2.jpg",
-  "gender": "F",
-  "set": 78
+  "series" : {
+    "en" : "GIRLS und PANZER das Finale",
+    "ja" : "ガールズ＆パンツァー 最終章",
+    "ko" : "걸즈 앤 판처"
+  },
+  "set" : 78
 }

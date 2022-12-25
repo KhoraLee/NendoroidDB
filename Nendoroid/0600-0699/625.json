@@ -1,20 +1,20 @@
 {
-  "num": "625",
-  "name": {
-    "ko": "미라 펜리엣타",
-    "ja": "ねんどろいど ミラ・フェンリエッタ (ねんどろいど みら・ふぇんりえった)",
-    "en": "Nendoroid Mira Fenrietta"
+  "gender" : "F",
+  "gsc_productNum" : 5644,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160425/5644/38802/large/6e1b849a811026866f4917f74a69d434.jpg",
+  "name" : {
+    "en" : "Nendoroid Mira Fenrietta",
+    "ja" : "ねんどろいど ミラ・フェンリエッタ (ねんどろいど みら・ふぇんりえった)",
+    "ko" : "미라 펜리엣타"
   },
-  "series": {
-    "ko": "하얀고양이 프로젝트",
-    "ja": "白猫プロジェクト",
-    "en": "Shironeko Project"
-  },
-  "gsc_productNum": 5644,
-  "price": 4888,
-  "release_date": [
+  "num" : "625",
+  "price" : 4888,
+  "release_date" : [
     "2016/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160425/5644/38802/large/6e1b849a811026866f4917f74a69d434.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Shironeko Project",
+    "ja" : "白猫プロジェクト",
+    "ko" : "하얀고양이 프로젝트"
+  }
 }

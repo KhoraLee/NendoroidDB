@@ -1,21 +1,21 @@
 {
-  "num": "1135",
-  "name": {
-    "ko": "XANXUS",
-    "ja": "ねんどろいど XANXUS (ねんどろいど ざんざす)",
-    "en": "Nendoroid XANXUS"
+  "gender" : "M",
+  "gsc_productNum" : 8368,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190528/8368/60461/large/d424f7575e8c1cdd7d798fdbcd4d9a53.jpg",
+  "name" : {
+    "en" : "Nendoroid XANXUS",
+    "ja" : "ねんどろいど XANXUS (ねんどろいど ざんざす)",
+    "ko" : "XANXUS"
   },
-  "series": {
-    "ko": "가정교사 히트맨 REBORN!",
-    "ja": "家庭教師ヒットマンREBORN!",
-    "en": "Reborn!"
-  },
-  "gsc_productNum": 8368,
-  "price": 6050,
-  "release_date": [
+  "num" : "1135",
+  "price" : 6050,
+  "release_date" : [
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190528/8368/60461/large/d424f7575e8c1cdd7d798fdbcd4d9a53.jpg",
-  "gender": "M",
-  "set": 177
+  "series" : {
+    "en" : "Reborn!",
+    "ja" : "家庭教師ヒットマンREBORN!",
+    "ko" : "가정교사 히트맨 REBORN!"
+  },
+  "set" : 177
 }

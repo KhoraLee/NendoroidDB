@@ -1,20 +1,20 @@
 {
-  "num": "1912",
-  "name": {
-    "ja": "ねんどろいど アルスノトリア (ねんどろいど あるすのとりあ)",
-    "en": "Nendoroid Arsnotoria",
-    "ko": "아르스노토리아"
+  "gender" : "F",
+  "gsc_productNum" : 12918,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220630/12918/100916/large/7212bd656b341d8c87663f1f03f0efab.jpg",
+  "name" : {
+    "en" : "Nendoroid Arsnotoria",
+    "ja" : "ねんどろいど アルスノトリア (ねんどろいど あるすのとりあ)",
+    "ko" : "아르스노토리아"
   },
-  "series": {
-    "ja": "咲う アルスノトリア",
-    "en": "Smile of the Arsnotoria",
-    "ko": "웃는 아르스노토리아"
-  },
-  "gsc_productNum": 12918,
-  "price": 7500,
-  "release_date": [
+  "num" : "1912",
+  "price" : 7500,
+  "release_date" : [
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220630/12918/100916/large/7212bd656b341d8c87663f1f03f0efab.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Smile of the Arsnotoria",
+    "ja" : "咲う アルスノトリア",
+    "ko" : "웃는 아르스노토리아"
+  }
 }

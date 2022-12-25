@@ -1,20 +1,20 @@
 {
-  "num": "1320",
-  "name": {
-    "ko": "에리피요",
-    "ja": "ねんどろいど えりぴよ (ねんどろいど えりぴよ)",
-    "en": "Nendoroid Eripiyo"
+  "gender" : "F",
+  "gsc_productNum" : 9394,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200327/9394/68780/large/79d75980848c0e8eb6229a69306391a8.jpg",
+  "name" : {
+    "en" : "Nendoroid Eripiyo",
+    "ja" : "ねんどろいど えりぴよ (ねんどろいど えりぴよ)",
+    "ko" : "에리피요"
   },
-  "series": {
-    "ko": "최애가 부도칸에 가 준다면 난 죽어도 좋아",
-    "ja": "推しが武道館いってくれたら死ぬ",
-    "en": "If My Favorite Pop Idol Made It to the Budokan, I Would Die"
-  },
-  "gsc_productNum": 9394,
-  "price": 5000,
-  "release_date": [
+  "num" : "1320",
+  "price" : 5000,
+  "release_date" : [
     "2020/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200327/9394/68780/large/79d75980848c0e8eb6229a69306391a8.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "If My Favorite Pop Idol Made It to the Budokan, I Would Die",
+    "ja" : "推しが武道館いってくれたら死ぬ",
+    "ko" : "최애가 부도칸에 가 준다면 난 죽어도 좋아"
+  }
 }

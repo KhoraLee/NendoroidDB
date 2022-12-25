@@ -1,21 +1,21 @@
 {
-  "num": "1008",
-  "name": {
-    "ko": "츠나데",
-    "ja": "ねんどろいど 綱手 (ねんどろいど つなで)",
-    "en": "Nendoroid Tsunade"
+  "gender" : "F",
+  "gsc_productNum" : 7639,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180926/7639/54765/large/b19a60fac2364680857a5fe07bb98b5f.jpg",
+  "name" : {
+    "en" : "Nendoroid Tsunade",
+    "ja" : "ねんどろいど 綱手 (ねんどろいど つなで)",
+    "ko" : "츠나데"
   },
-  "series": {
-    "ko": "나루토",
-    "ja": "NARUTO -ナルト- 疾風伝",
-    "en": "Naruto Shippuden"
-  },
-  "gsc_productNum": 7639,
-  "price": 4584,
-  "release_date": [
+  "num" : "1008",
+  "price" : 4584,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180926/7639/54765/large/b19a60fac2364680857a5fe07bb98b5f.jpg",
-  "gender": "F",
-  "set": 144
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  },
+  "set" : 144
 }

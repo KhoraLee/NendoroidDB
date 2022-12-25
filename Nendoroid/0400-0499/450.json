@@ -1,22 +1,22 @@
 {
-  "num": "450",
-  "name": {
-    "ko": "코사카 호노카",
-    "ja": "ねんどろいど 高坂穂乃果 (ねんどろいど こうさかほのか)",
-    "en": "Nendoroid Honoka Kosaka (ねんどろいど こうさかほのか)"
+  "gender" : "F",
+  "gsc_productNum" : 4534,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140801/4534/29924/large/6d143b56a10427eba2f1c5a962211ad2.jpg",
+  "name" : {
+    "en" : "Nendoroid Honoka Kosaka (ねんどろいど こうさかほのか)",
+    "ja" : "ねんどろいど 高坂穂乃果 (ねんどろいど こうさかほのか)",
+    "ko" : "코사카 호노카"
   },
-  "series": {
-    "ko": "러브라이브!",
-    "ja": "ラブライブ！",
-    "en": "LoveLive!"
-  },
-  "gsc_productNum": 4534,
-  "price": 3565,
-  "release_date": [
+  "num" : "450",
+  "price" : 3565,
+  "release_date" : [
     "2014/12",
     "2015/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140801/4534/29924/large/6d143b56a10427eba2f1c5a962211ad2.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 105
 }

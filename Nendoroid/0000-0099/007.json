@@ -1,19 +1,19 @@
 {
-  "num": "007",
-  "name": {
-    "ko": "사슴벌레 츠마미\u0026죠시쨩",
-    "ja": "ねんどろいど　くわがたツマミ＆じょしちゃん (くわがたつまみ＆じょしちゃん ねんどろいど)",
-    "en": "Nendoroid Kuwagata Tsumami \u0026 Joshi-chan (くわがたつまみ＆じょしちゃん ねんどろいど)"
+  "gsc_productNum" : 609,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/609/927/large/dcbb9e5b5deba5482de1d2b1105298c6.jpg",
+  "name" : {
+    "en" : "Nendoroid Kuwagata Tsumami & Joshi-chan (くわがたつまみ＆じょしちゃん ねんどろいど)",
+    "ja" : "ねんどろいど　くわがたツマミ＆じょしちゃん (くわがたつまみ＆じょしちゃん ねんどろいど)",
+    "ko" : "사슴벌레 츠마미&죠시쨩"
   },
-  "series": {
-    "ko": "사슴벌레 츠마미",
-    "ja": "くわがたツマミ",
-    "en": "Kuwagata Tsumami"
-  },
-  "gsc_productNum": 609,
-  "price": 3143,
-  "release_date": [
+  "num" : "007",
+  "price" : 3143,
+  "release_date" : [
     "2007/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/609/927/large/dcbb9e5b5deba5482de1d2b1105298c6.jpg"
+  "series" : {
+    "en" : "Kuwagata Tsumami",
+    "ja" : "くわがたツマミ",
+    "ko" : "사슴벌레 츠마미"
+  }
 }

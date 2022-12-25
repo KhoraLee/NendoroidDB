@@ -1,20 +1,20 @@
 {
-  "num": "1637",
-  "name": {
-    "ko": "쿠사카 카바네",
-    "ja": "ねんどろいど 日下夏羽 (ねんどろいど くさかかばね)",
-    "en": "Nendoroid Kusaka Kabane"
+  "gender" : "M",
+  "gsc_productNum" : 11201,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210518/11201/84731/large/372577f11d12358856ed30a51d4a2449.jpg",
+  "name" : {
+    "en" : "Nendoroid Kusaka Kabane",
+    "ja" : "ねんどろいど 日下夏羽 (ねんどろいど くさかかばね)",
+    "ko" : "쿠사카 카바네"
   },
-  "series": {
-    "ko": "괴물사변",
-    "ja": "怪物事変",
-    "en": "Kemono Jihen"
-  },
-  "gsc_productNum": 11201,
-  "price": 5300,
-  "release_date": [
+  "num" : "1637",
+  "price" : 5300,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210518/11201/84731/large/372577f11d12358856ed30a51d4a2449.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Kemono Jihen",
+    "ja" : "怪物事変",
+    "ko" : "괴물사변"
+  }
 }

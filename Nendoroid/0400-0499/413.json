@@ -1,22 +1,22 @@
 {
-  "num": "413",
-  "name": {
-    "ko": "링크 바람의 택트 Ver.",
-    "ja": "ねんどろいど リンク 風のタクトVer. (ねんどろいど りんく かぜのたくとVer.)",
-    "en": "Nendoroid Link: The Wind Waker ver. (ねんどろいど りんく かぜのたくとVer.)"
+  "gender" : "M",
+  "gsc_productNum" : 4370,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140409/4370/28539/large/f02e6449bb268ae8ea7b7c8dd1c9ac74.jpg",
+  "name" : {
+    "en" : "Nendoroid Link: The Wind Waker ver. (ねんどろいど りんく かぜのたくとVer.)",
+    "ja" : "ねんどろいど リンク 風のタクトVer. (ねんどろいど りんく かぜのたくとVer.)",
+    "ko" : "링크 바람의 택트 Ver."
   },
-  "series": {
-    "ko": "젤다의 전설",
-    "ja": "ゼルダの伝説 風のタクトHD",
-    "en": "The Legend of Zelda: The Wind Waker HD"
-  },
-  "gsc_productNum": 4370,
-  "price": 4074,
-  "release_date": [
+  "num" : "413",
+  "price" : 4074,
+  "release_date" : [
     "2014/08",
     "2015/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140409/4370/28539/large/f02e6449bb268ae8ea7b7c8dd1c9ac74.jpg",
-  "gender": "M",
-  "set": 99
+  "series" : {
+    "en" : "The Legend of Zelda: The Wind Waker HD",
+    "ja" : "ゼルダの伝説 風のタクトHD",
+    "ko" : "젤다의 전설"
+  },
+  "set" : 99
 }

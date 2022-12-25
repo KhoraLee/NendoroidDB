@@ -1,21 +1,21 @@
 {
-  "num": "247",
-  "name": {
-    "ko": "카무이 가쿠포",
-    "ja": "ねんどろいど 神威がくぽ (ねんどろいど かむいがくぽ)",
-    "en": "Nendoroid Gackpo Kamui (ねんどろいど かむいがくぽ)"
+  "gender" : "F",
+  "gsc_productNum" : 3546,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120509/3546/18361/large/1be0a54fd4c1b1ee0d70d22716d559f6.jpg",
+  "name" : {
+    "en" : "Nendoroid Gackpo Kamui (ねんどろいど かむいがくぽ)",
+    "ja" : "ねんどろいど 神威がくぽ (ねんどろいど かむいがくぽ)",
+    "ko" : "카무이 가쿠포"
   },
-  "series": {
-    "ko": "보컬로이드(VOCALOID)",
-    "ja": "バーチャルボーカリスト がくっぽいど",
-    "en": "Virtual Vocalist Gackpoid"
-  },
-  "gsc_productNum": 3546,
-  "price": 3667,
-  "release_date": [
+  "num" : "247",
+  "price" : 3667,
+  "release_date" : [
     "2012/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120509/3546/18361/large/1be0a54fd4c1b1ee0d70d22716d559f6.jpg",
-  "gender": "F",
-  "set": 11
+  "series" : {
+    "en" : "Virtual Vocalist Gackpoid",
+    "ja" : "バーチャルボーカリスト がくっぽいど",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 11
 }

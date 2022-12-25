@@ -1,21 +1,21 @@
 {
-  "num": "1941",
-  "name": {
-    "ja": "ねんどろいど ジャミル・バイパー (ねんどろいど じゃみる・ばいぱー)",
-    "en": "Nendoroid Jamil Viper",
-    "ko": "자밀 바이퍼"
+  "gender" : "F",
+  "gsc_productNum" : 13019,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220725/13019/102062/large/c323add1d7374371903155021d93e601.jpg",
+  "name" : {
+    "en" : "Nendoroid Jamil Viper",
+    "ja" : "ねんどろいど ジャミル・バイパー (ねんどろいど じゃみる・ばいぱー)",
+    "ko" : "자밀 바이퍼"
   },
-  "series": {
-    "ja": "『ディズニー ツイステッドワンダーランド』",
-    "en": "Disney Twisted-Wonderland",
-    "ko": "디즈니 트위스티드 원더랜드"
-  },
-  "gsc_productNum": 13019,
-  "price": 6900,
-  "release_date": [
+  "num" : "1941",
+  "price" : 6900,
+  "release_date" : [
     "2023/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220725/13019/102062/large/c323add1d7374371903155021d93e601.jpg",
-  "gender": "F",
-  "set": 250
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 250
 }

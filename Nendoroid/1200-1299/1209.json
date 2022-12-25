@@ -1,20 +1,20 @@
 {
-  "num": "1209",
-  "name": {
-    "ko": "볼트 보이",
-    "ja": "ねんどろいど ボルトボーイ (ねんどろいど ぼるとぼーい)",
-    "en": "Nendoroid Vault Boy"
+  "gender" : "M",
+  "gsc_productNum" : 8774,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190906/8774/63459/large/95d04b42027110c8579bb492c1805601.jpg",
+  "name" : {
+    "en" : "Nendoroid Vault Boy",
+    "ja" : "ねんどろいど ボルトボーイ (ねんどろいど ぼるとぼーい)",
+    "ko" : "볼트 보이"
   },
-  "series": {
-    "ko": "폴아웃",
-    "ja": "Fallout",
-    "en": "Fallout"
-  },
-  "gsc_productNum": 8774,
-  "price": 5200,
-  "release_date": [
+  "num" : "1209",
+  "price" : 5200,
+  "release_date" : [
     "2020/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190906/8774/63459/large/95d04b42027110c8579bb492c1805601.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Fallout",
+    "ja" : "Fallout",
+    "ko" : "폴아웃"
+  }
 }

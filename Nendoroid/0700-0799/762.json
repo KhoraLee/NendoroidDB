@@ -1,21 +1,21 @@
 {
-  "num": "762",
-  "name": {
-    "ko": "카츠키 유리 프리 스케이팅 Ver.",
-    "ja": "ねんどろいど 勝生勇利 フリースケーティングVer. (ねんどろいど かつきゆうり ふりーすけーてぃんぐVer.)",
-    "en": "Nendoroid Yuri Katsuki: Free Skating Ver."
+  "gender" : "M",
+  "gsc_productNum" : 6476,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170529/6476/45691/large/e2741b32be57d5330a46de6697b3c200.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuri Katsuki: Free Skating Ver.",
+    "ja" : "ねんどろいど 勝生勇利 フリースケーティングVer. (ねんどろいど かつきゆうり ふりーすけーてぃんぐVer.)",
+    "ko" : "카츠키 유리 프리 스케이팅 Ver."
   },
-  "series": {
-    "ko": "유리!!! On ICE",
-    "ja": "ユーリ!!! on ICE",
-    "en": "YURI ON ICE"
-  },
-  "gsc_productNum": 6476,
-  "price": 4584,
-  "release_date": [
+  "num" : "762",
+  "price" : 4584,
+  "release_date" : [
     "2017/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170529/6476/45691/large/e2741b32be57d5330a46de6697b3c200.jpg",
-  "gender": "M",
-  "set": 151
+  "series" : {
+    "en" : "YURI ON ICE",
+    "ja" : "ユーリ!!! on ICE",
+    "ko" : "유리!!! On ICE"
+  },
+  "set" : 151
 }

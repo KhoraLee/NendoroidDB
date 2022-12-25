@@ -1,21 +1,21 @@
 {
-  "num": "1757",
-  "name": {
-    "ja": "ねんどろいど アーミヤ DX [昇格Ver.] (ねんどろいど あーみや DX [しょうかくVer.])",
-    "en": "Nendoroid Amiya DX [Promotion Ver.]",
-    "ko": "아미야 DX [프로모션 Ver.]"
+  "gender" : "F",
+  "gsc_productNum" : 13463,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221026/13463/106418/large/340306e8f935f024c079f40b30ea22ee.jpg",
+  "name" : {
+    "en" : "Nendoroid Amiya DX [Promotion Ver.]",
+    "ja" : "ねんどろいど アーミヤ DX [昇格Ver.] (ねんどろいど あーみや DX [しょうかくVer.])",
+    "ko" : "아미야 DX [프로모션 Ver.]"
   },
-  "series": {
-    "ja": "アークナイツ",
-    "en": "Arknights",
-    "ko": "명일방주"
-  },
-  "gsc_productNum": 13463,
-  "price": 9800,
-  "release_date": [
+  "num" : "1757",
+  "price" : 9800,
+  "release_date" : [
     "2023/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221026/13463/106418/large/340306e8f935f024c079f40b30ea22ee.jpg",
-  "gender": "F",
-  "set": 216
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 216
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1031",
-  "name": {
-    "ko": "캐스터/니토크리스",
-    "ja": "ねんどろいど キャスター/ニトクリス (ねんどろいど きゃすたー/にとくりす)",
-    "en": "Nendoroid Caster/Nitocris"
+  "gender" : "F",
+  "gsc_productNum" : 7799,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181113/7799/55906/large/a980bf8d0c53a2607d0c7676b9a121f7.jpg",
+  "name" : {
+    "en" : "Nendoroid Caster/Nitocris",
+    "ja" : "ねんどろいど キャスター/ニトクリス (ねんどろいど きゃすたー/にとくりす)",
+    "ko" : "캐스터/니토크리스"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 7799,
-  "price": 5907,
-  "release_date": [
+  "num" : "1031",
+  "price" : 5907,
+  "release_date" : [
     "2019/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181113/7799/55906/large/a980bf8d0c53a2607d0c7676b9a121f7.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

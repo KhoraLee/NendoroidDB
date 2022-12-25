@@ -1,21 +1,21 @@
 {
-  "num": "1407",
-  "name": {
-    "ko": "헌터♀ 진오우α Ver.",
-    "ja": "ねんどろいど ハンター♀ ジンオウα Ver. (ねんどろいど はんたー♀ じんおうα Ver.)",
-    "en": "Nendoroid Hunter: Female Zinogre Alpha Armor Ver."
+  "gender" : "F",
+  "gsc_productNum" : 10384,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201109/10384/77128/large/00589cacca8c995a50b5d0bf6008934c.jpg",
+  "name" : {
+    "en" : "Nendoroid Hunter: Female Zinogre Alpha Armor Ver.",
+    "ja" : "ねんどろいど ハンター♀ ジンオウα Ver. (ねんどろいど はんたー♀ じんおうα Ver.)",
+    "ko" : "헌터♀ 진오우α Ver."
   },
-  "series": {
-    "ko": "몬스터 헌터",
-    "ja": "モンスターハンターワールド：アイスボーン",
-    "en": "MONSTER HUNTER WORLD: ICEBORNE"
-  },
-  "gsc_productNum": 10384,
-  "price": 6800,
-  "release_date": [
+  "num" : "1407",
+  "price" : 6800,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201109/10384/77128/large/00589cacca8c995a50b5d0bf6008934c.jpg",
-  "gender": "F",
-  "set": 64
+  "series" : {
+    "en" : "MONSTER HUNTER WORLD: ICEBORNE",
+    "ja" : "モンスターハンターワールド：アイスボーン",
+    "ko" : "몬스터 헌터"
+  },
+  "set" : 64
 }

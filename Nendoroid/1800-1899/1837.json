@@ -1,21 +1,21 @@
 {
-  "num": "1837",
-  "name": {
-    "ko": "쿠로오 테츠로 세컨드 유니폼 Ver.",
-    "ja": "ねんどろいど 黒尾鉄朗 セカンドユニフォームVer. (ねんどろいど くろおてつろう せかんどゆにふぉーむVer.)",
-    "en": "Nendoroid Tetsuro Kuroo: Second Uniform Ver."
+  "gender" : "M",
+  "gsc_productNum" : 12388,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220224/12388/95810/large/e3e117308cff58143989b16fd587ffe0.jpg",
+  "name" : {
+    "en" : "Nendoroid Tetsuro Kuroo: Second Uniform Ver.",
+    "ja" : "ねんどろいど 黒尾鉄朗 セカンドユニフォームVer. (ねんどろいど くろおてつろう せかんどゆにふぉーむVer.)",
+    "ko" : "쿠로오 테츠로 세컨드 유니폼 Ver."
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "Haikyu!!"
-  },
-  "gsc_productNum": 12388,
-  "price": 4800,
-  "release_date": [
+  "num" : "1837",
+  "price" : 4800,
+  "release_date" : [
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220224/12388/95810/large/e3e117308cff58143989b16fd587ffe0.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

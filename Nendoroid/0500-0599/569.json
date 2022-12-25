@@ -1,21 +1,21 @@
 {
-  "num": "569",
-  "name": {
-    "ko": "카사네 테토",
-    "ja": "ねんどろいど 重音テト (ねんどろいど かさねてと)",
-    "en": "Nendoroid Kasane Teto (ねんどろいど かさねてと)"
+  "gender" : "F",
+  "gsc_productNum" : 5261,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151005/5261/35773/large/2ede91f033de71da24e17a72fcbf0300.jpg",
+  "name" : {
+    "en" : "Nendoroid Kasane Teto (ねんどろいど かさねてと)",
+    "ja" : "ねんどろいど 重音テト (ねんどろいど かさねてと)",
+    "ko" : "카사네 테토"
   },
-  "series": {
-    "ko": "VIPPALOID",
-    "ja": "UTAU",
-    "en": "UTAU"
-  },
-  "gsc_productNum": 5261,
-  "price": 3972,
-  "release_date": [
+  "num" : "569",
+  "price" : 3972,
+  "release_date" : [
     "2016/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151005/5261/35773/large/2ede91f033de71da24e17a72fcbf0300.jpg",
-  "gender": "F",
-  "set": 11
+  "series" : {
+    "en" : "UTAU",
+    "ja" : "UTAU",
+    "ko" : "VIPPALOID"
+  },
+  "set" : 11
 }

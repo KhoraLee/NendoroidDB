@@ -1,21 +1,21 @@
 {
-  "num": "1750",
-  "name": {
-    "ko": "이누마키 토게",
-    "ja": "ねんどろいど 狗巻棘 (ねんどろいど いぬまきとげ)",
-    "en": "Nendoroid Toge Inumaki"
+  "gender" : "M",
+  "gsc_productNum" : 11978,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211108/11978/91851/large/d8d58962a293f3f1145f34dc6116601c.jpg",
+  "name" : {
+    "en" : "Nendoroid Toge Inumaki",
+    "ja" : "ねんどろいど 狗巻棘 (ねんどろいど いぬまきとげ)",
+    "ko" : "이누마키 토게"
   },
-  "series": {
-    "ko": "주술회전",
-    "ja": "呪術廻戦",
-    "en": "Jujutsu Kaisen"
-  },
-  "gsc_productNum": 11978,
-  "price": 5300,
-  "release_date": [
+  "num" : "1750",
+  "price" : 5300,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211108/11978/91851/large/d8d58962a293f3f1145f34dc6116601c.jpg",
-  "gender": "M",
-  "set": 251
+  "series" : {
+    "en" : "Jujutsu Kaisen",
+    "ja" : "呪術廻戦",
+    "ko" : "주술회전"
+  },
+  "set" : 251
 }

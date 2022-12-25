@@ -1,21 +1,21 @@
 {
-  "num": "056b",
-  "name": {
-    "ko": "픽셀☆마리땅 강습전투 Ver.",
-    "ja": "ねんどろいど　ぴくせる☆まりたん　完了！戦闘準備Ver. (ぴくせるまりたん かんりょう！せんとうじゅんびばーじょん ねんどろいど)",
-    "en": "Nendoroid Pixel Maritan: Mission Complete! Battle Preparations Ver. (ぴくせるまりたん かんりょう！せんとうじゅんびばーじょん ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 2179,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2179/5955/large/589c9b0a31272b1615a1aa62ff253c77.jpg",
+  "name" : {
+    "en" : "Nendoroid Pixel Maritan: Mission Complete! Battle Preparations Ver. (ぴくせるまりたん かんりょう！せんとうじゅんびばーじょん ねんどろいど)",
+    "ja" : "ねんどろいど　ぴくせる☆まりたん　完了！戦闘準備Ver. (ぴくせるまりたん かんりょう！せんとうじゅんびばーじょん ねんどろいど)",
+    "ko" : "픽셀☆마리땅 강습전투 Ver."
   },
-  "series": {
-    "ko": "마법의 해병대원 픽셀☆마리땅",
-    "ja": "魔法の海兵隊員ぴくせる☆まりたん",
-    "en": "Magical Marine Pixel Maritan"
-  },
-  "gsc_productNum": 2179,
-  "price": 3667,
-  "release_date": [
+  "num" : "056b",
+  "price" : 3667,
+  "release_date" : [
     "2009/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2179/5955/large/589c9b0a31272b1615a1aa62ff253c77.jpg",
-  "gender": "F",
-  "set": 15
+  "series" : {
+    "en" : "Magical Marine Pixel Maritan",
+    "ja" : "魔法の海兵隊員ぴくせる☆まりたん",
+    "ko" : "마법의 해병대원 픽셀☆마리땅"
+  },
+  "set" : 15
 }

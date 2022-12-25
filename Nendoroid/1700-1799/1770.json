@@ -1,21 +1,21 @@
 {
-  "num": "1770",
-  "name": {
-    "ko": "트레이 클로버",
-    "ja": "ねんどろいど トレイ・クローバー (ねんどろいど とれい・くろーばー)",
-    "en": "Nendoroid Trey Clover"
+  "gender" : "M",
+  "gsc_productNum" : 12002,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211115/12002/92306/large/35633521fccfcafb55da2a6525b0a359.jpg",
+  "name" : {
+    "en" : "Nendoroid Trey Clover",
+    "ja" : "ねんどろいど トレイ・クローバー (ねんどろいど とれい・くろーばー)",
+    "ko" : "트레이 클로버"
   },
-  "series": {
-    "ko": "디즈니 트위스티드 원더랜드",
-    "ja": "『ディズニー ツイステッドワンダーランド』",
-    "en": "Disney Twisted-Wonderland"
-  },
-  "gsc_productNum": 12002,
-  "price": 6600,
-  "release_date": [
+  "num" : "1770",
+  "price" : 6600,
+  "release_date" : [
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211115/12002/92306/large/35633521fccfcafb55da2a6525b0a359.jpg",
-  "gender": "M",
-  "set": 250
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 250
 }

@@ -1,23 +1,23 @@
 {
-  "num": "390",
-  "name": {
-    "ko": "리바이 아커만",
-    "ja": "ねんどろいど リヴァイ (ねんどろいど りゔぁい)",
-    "en": "Nendoroid Levi"
+  "gender" : "M",
+  "gsc_productNum" : 4167,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131219/4167/45723/large/54febddd076f0bd0b25ac48e97aed726.jpg",
+  "name" : {
+    "en" : "Nendoroid Levi",
+    "ja" : "ねんどろいど リヴァイ (ねんどろいど りゔぁい)",
+    "ko" : "리바이 아커만"
   },
-  "series": {
-    "ko": "진격의 거인",
-    "ja": "進撃の巨人",
-    "en": "Attack on Titan"
-  },
-  "gsc_productNum": 4167,
-  "price": 5500,
-  "release_date": [
+  "num" : "390",
+  "price" : 5500,
+  "release_date" : [
     "2014/06",
     "2018/01",
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20131219/4167/45723/large/54febddd076f0bd0b25ac48e97aed726.jpg",
-  "gender": "M",
-  "set": 87
+  "series" : {
+    "en" : "Attack on Titan",
+    "ja" : "進撃の巨人",
+    "ko" : "진격의 거인"
+  },
+  "set" : 87
 }

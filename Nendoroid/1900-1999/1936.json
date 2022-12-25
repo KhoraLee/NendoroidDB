@@ -1,21 +1,21 @@
 {
-  "num": "1936",
-  "name": {
-    "ja": "ねんどろいど 韓菱紗 (ねんどろいど かんりょうさ)",
-    "en": "Nendoroid Han LingSha",
-    "ko": "칸류사"
+  "gender" : "F",
+  "gsc_productNum" : 13110,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220816/13110/102842/large/b2dd9888e2740b1225258c736e623cac.jpg",
+  "name" : {
+    "en" : "Nendoroid Han LingSha",
+    "ja" : "ねんどろいど 韓菱紗 (ねんどろいど かんりょうさ)",
+    "ko" : "칸류사"
   },
-  "series": {
-    "ja": "仙剣奇侠伝四",
-    "en": "Legend of Sword and Fairy 4",
-    "ko": "선검기협전 4"
-  },
-  "gsc_productNum": 13110,
-  "price": 8000,
-  "release_date": [
+  "num" : "1936",
+  "price" : 8000,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220816/13110/102842/large/b2dd9888e2740b1225258c736e623cac.jpg",
-  "gender": "F",
-  "set": 214
+  "series" : {
+    "en" : "Legend of Sword and Fairy 4",
+    "ja" : "仙剣奇侠伝四",
+    "ko" : "선검기협전 4"
+  },
+  "set" : 214
 }

@@ -1,21 +1,21 @@
 {
-  "num": "082",
-  "name": {
-    "ko": "아키야마 미오",
-    "ja": "ねんどろいど 秋山 澪 (ねんどろいど　あきやまみお)",
-    "en": "Nendoroid Mio Akiyama (あきやま みお ねんどろいどあきやま みお ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 2558,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2558/7463/large/b001628b4ef570bb6964ffa101b71dc1.jpg",
+  "name" : {
+    "en" : "Nendoroid Mio Akiyama (あきやま みお ねんどろいどあきやま みお ねんどろいど)",
+    "ja" : "ねんどろいど 秋山 澪 (ねんどろいど　あきやまみお)",
+    "ko" : "아키야마 미오"
   },
-  "series": {
-    "ko": "케이온!",
-    "ja": "けいおん！",
-    "en": "K-ON!"
-  },
-  "gsc_productNum": 2558,
-  "price": 3667,
-  "release_date": [
+  "num" : "082",
+  "price" : 3667,
+  "release_date" : [
     "2010/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2558/7463/large/b001628b4ef570bb6964ffa101b71dc1.jpg",
-  "gender": "F",
-  "set": 27
+  "series" : {
+    "en" : "K-ON!",
+    "ja" : "けいおん！",
+    "ko" : "케이온!"
+  },
+  "set" : 27
 }

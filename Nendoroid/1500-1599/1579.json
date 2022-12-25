@@ -1,21 +1,21 @@
 {
-  "num": "1579",
-  "name": {
-    "ko": "백혈구(1196)",
-    "ja": "ねんどろいど 白血球（1196） (ねんどろいど はっけっきゅう（1196）)",
-    "en": "Nendoroid White Blood Cell（Neutrophil）（1196）"
+  "gender" : "F",
+  "gsc_productNum" : 10847,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210222/10847/81472/large/7fa7686d553dd9bbc1c02d6798978b7d.jpg",
+  "name" : {
+    "en" : "Nendoroid White Blood Cell（Neutrophil）（1196）",
+    "ja" : "ねんどろいど 白血球（1196） (ねんどろいど はっけっきゅう（1196）)",
+    "ko" : "백혈구(1196)"
   },
-  "series": {
-    "ko": "일하는 세포 BLACK",
-    "ja": "はたらく細胞BLACK",
-    "en": "Cells at Work! Code Black"
-  },
-  "gsc_productNum": 10847,
-  "price": 5700,
-  "release_date": [
+  "num" : "1579",
+  "price" : 5700,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210222/10847/81472/large/7fa7686d553dd9bbc1c02d6798978b7d.jpg",
-  "gender": "F",
-  "set": 190
+  "series" : {
+    "en" : "Cells at Work! Code Black",
+    "ja" : "はたらく細胞BLACK",
+    "ko" : "일하는 세포 BLACK"
+  },
+  "set" : 190
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1282",
-  "name": {
-    "ko": "샘 포터 브리지스",
-    "ja": "ねんどろいど サム・ポーター・ブリッジズ (ねんどろいど さむ・ぽーたー・ぶりっじず)",
-    "en": "Nendoroid Sam Porter Bridges"
+  "gender" : "M",
+  "gsc_productNum" : 9246,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200131/9246/67460/large/9734f11d9eb71a5e7c9186102b47d745.jpg",
+  "name" : {
+    "en" : "Nendoroid Sam Porter Bridges",
+    "ja" : "ねんどろいど サム・ポーター・ブリッジズ (ねんどろいど さむ・ぽーたー・ぶりっじず)",
+    "ko" : "샘 포터 브리지스"
   },
-  "series": {
-    "ko": "데스 스트랜딩",
-    "ja": "デス・ストランディング",
-    "en": "DEATH STRANDING"
-  },
-  "gsc_productNum": 9246,
-  "price": 5200,
-  "release_date": [
+  "num" : "1282",
+  "price" : 5200,
+  "release_date" : [
     "2020/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200131/9246/67460/large/9734f11d9eb71a5e7c9186102b47d745.jpg",
-  "gender": "M",
-  "set": 232
+  "series" : {
+    "en" : "DEATH STRANDING",
+    "ja" : "デス・ストランディング",
+    "ko" : "데스 스트랜딩"
+  },
+  "set" : 232
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1328",
-  "name": {
-    "ko": "레토르트",
-    "ja": "ねんどろいど レトルト (ねんどろいど れとると)",
-    "en": "Nendoroid Retort"
+  "gender" : "M",
+  "gsc_productNum" : 9438,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200421/9438/69134/large/bf19467c1ad82afafaa78516b0e8cf69.jpg",
+  "name" : {
+    "en" : "Nendoroid Retort",
+    "ja" : "ねんどろいど レトルト (ねんどろいど れとると)",
+    "ko" : "레토르트"
   },
-  "series": {
-    "ko": "게임 실황 플레이어",
-    "ja": "レトルト",
-    "en": "Retort"
-  },
-  "gsc_productNum": 9438,
-  "price": 5300,
-  "release_date": [
+  "num" : "1328",
+  "price" : 5300,
+  "release_date" : [
     "2020/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200421/9438/69134/large/bf19467c1ad82afafaa78516b0e8cf69.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Retort",
+    "ja" : "レトルト",
+    "ko" : "게임 실황 플레이어"
+  }
 }

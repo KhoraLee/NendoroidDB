@@ -1,21 +1,21 @@
 {
-  "num": "1968",
-  "name": {
-    "ja": "ねんどろいど ルビー・ローズ・ルシードドリーム (ねんどろいど るびー・ろーず・るしーどどりーむ)",
-    "en": "Nendoroid Ruby Rose: Lucid Dream",
-    "ko": "루비 로즈: 루시드 드림"
+  "gender" : "F",
+  "gsc_productNum" : 13281,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220921/13281/104677/large/80221c98f97737c4070c3e17f711425a.jpg",
+  "name" : {
+    "en" : "Nendoroid Ruby Rose: Lucid Dream",
+    "ja" : "ねんどろいど ルビー・ローズ・ルシードドリーム (ねんどろいど るびー・ろーず・るしーどどりーむ)",
+    "ko" : "루비 로즈: 루시드 드림"
   },
-  "series": {
-    "ja": "RWBY 氷雪帝国",
-    "en": "RWBY: Ice Queendom",
-    "ko": "RWBY: 빙설제국"
-  },
-  "gsc_productNum": 13281,
-  "price": 7500,
-  "release_date": [
+  "num" : "1968",
+  "price" : 7500,
+  "release_date" : [
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220921/13281/104677/large/80221c98f97737c4070c3e17f711425a.jpg",
-  "gender": "F",
-  "set": 245
+  "series" : {
+    "en" : "RWBY: Ice Queendom",
+    "ja" : "RWBY 氷雪帝国",
+    "ko" : "RWBY: 빙설제국"
+  },
+  "set" : 245
 }

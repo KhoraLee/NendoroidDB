@@ -1,21 +1,21 @@
 {
-  "num": "378",
-  "name": {
-    "ko": "넵튠",
-    "ja": "ねんどろいど ネプテューヌ (ねんどろいど ねぷてゅーぬ)",
-    "en": "Nendoroid Neptune (ねんどろいど ねぷてゅーぬ)"
+  "gender" : "F",
+  "gsc_productNum" : 4122,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131114/4122/27121/large/e746048d1397e15408d04323d1055d48.jpg",
+  "name" : {
+    "en" : "Nendoroid Neptune (ねんどろいど ねぷてゅーぬ)",
+    "ja" : "ねんどろいど ネプテューヌ (ねんどろいど ねぷてゅーぬ)",
+    "ko" : "넵튠"
   },
-  "series": {
-    "ko": "초차원게임 넵튠",
-    "ja": "超次元ゲイム ネプテューヌ",
-    "en": "Hyperdimension Neptunia"
-  },
-  "gsc_productNum": 4122,
-  "price": 0,
-  "release_date": [
+  "num" : "378",
+  "price" : 0,
+  "release_date" : [
     "2014/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20131114/4122/27121/large/e746048d1397e15408d04323d1055d48.jpg",
-  "gender": "F",
-  "set": 90
+  "series" : {
+    "en" : "Hyperdimension Neptunia",
+    "ja" : "超次元ゲイム ネプテューヌ",
+    "ko" : "초차원게임 넵튠"
+  },
+  "set" : 90
 }

@@ -1,21 +1,21 @@
 {
-  "num": "087",
-  "name": {
-    "ko": "카난",
-    "ja": "ねんどろいど カナン (かなん ねんどろいど)",
-    "en": "Nendoroid Canaan (かなん ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 2623,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2623/7732/large/899bd1b717be5a91962da870ea20a597.jpg",
+  "name" : {
+    "en" : "Nendoroid Canaan (かなん ねんどろいど)",
+    "ja" : "ねんどろいど カナン (かなん ねんどろいど)",
+    "ko" : "카난"
   },
-  "series": {
-    "ko": "카난",
-    "ja": "CANAAN",
-    "en": "CANAAN"
-  },
-  "gsc_productNum": 2623,
-  "price": 3667,
-  "release_date": [
+  "num" : "087",
+  "price" : 3667,
+  "release_date" : [
     "2009/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2623/7732/large/899bd1b717be5a91962da870ea20a597.jpg",
-  "gender": "F",
-  "set": 28
+  "series" : {
+    "en" : "CANAAN",
+    "ja" : "CANAAN",
+    "ko" : "카난"
+  },
+  "set" : 28
 }

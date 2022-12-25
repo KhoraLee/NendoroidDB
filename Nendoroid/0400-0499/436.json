@@ -1,21 +1,21 @@
 {
-  "num": "436",
-  "name": {
-    "ko": "슈퍼 소니코 워킹 Ver.",
-    "ja": "ねんどろいど すーぱーそに子 お仕事セット (ねんどろいど すーぱーそにこ おしごとせっと)",
-    "en": "Nendoroid Super Sonico: Working Set (ねんどろいど すーぱーそにこ おしごとせっと)"
+  "gender" : "F",
+  "gsc_productNum" : 4486,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140704/4486/29497/large/71dded361f92108abe9c6b4562a8bfa3.jpg",
+  "name" : {
+    "en" : "Nendoroid Super Sonico: Working Set (ねんどろいど すーぱーそにこ おしごとせっと)",
+    "ja" : "ねんどろいど すーぱーそに子 お仕事セット (ねんどろいど すーぱーそにこ おしごとせっと)",
+    "ko" : "슈퍼 소니코 워킹 Ver."
   },
-  "series": {
-    "ko": "슈퍼 소니코",
-    "ja": "そにアニ",
-    "en": "SoniAni"
-  },
-  "gsc_productNum": 4486,
-  "price": 3769,
-  "release_date": [
+  "num" : "436",
+  "price" : 3769,
+  "release_date" : [
     "2014/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140704/4486/29497/large/71dded361f92108abe9c6b4562a8bfa3.jpg",
-  "gender": "F",
-  "set": 61
+  "series" : {
+    "en" : "SoniAni",
+    "ja" : "そにアニ",
+    "ko" : "슈퍼 소니코"
+  },
+  "set" : 61
 }

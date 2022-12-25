@@ -1,21 +1,21 @@
 {
-  "num": "338",
-  "name": {
-    "ko": "미야후지 요시카 신덴 Ver.",
-    "ja": "ねんどろいど 宮藤芳佳 震電Ver. (ねんどろいど みやふじよしか しんでんVer.)",
-    "en": "Nendoroid Yoshika Miyafuji: Shinden Ver. (ねんどろいど みやふじよしか しんでんVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3928,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130527/3928/24131/large/a00971314417b133a71d348e7fb9e2f4.jpg",
+  "name" : {
+    "en" : "Nendoroid Yoshika Miyafuji: Shinden Ver. (ねんどろいど みやふじよしか しんでんVer.)",
+    "ja" : "ねんどろいど 宮藤芳佳 震電Ver. (ねんどろいど みやふじよしか しんでんVer.)",
+    "ko" : "미야후지 요시카 신덴 Ver."
   },
-  "series": {
-    "ko": "스트라이크 위치스",
-    "ja": "ストライクウィッチーズ2",
-    "en": "Strike Witches 2"
-  },
-  "gsc_productNum": 3928,
-  "price": 4190,
-  "release_date": [
+  "num" : "338",
+  "price" : 4190,
+  "release_date" : [
     "2013/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130527/3928/24131/large/a00971314417b133a71d348e7fb9e2f4.jpg",
-  "gender": "F",
-  "set": 16
+  "series" : {
+    "en" : "Strike Witches 2",
+    "ja" : "ストライクウィッチーズ2",
+    "ko" : "스트라이크 위치스"
+  },
+  "set" : 16
 }

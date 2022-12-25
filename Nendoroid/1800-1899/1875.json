@@ -1,20 +1,20 @@
 {
-  "num": "1875",
-  "name": {
-    "ko": "송량하",
-    "ja": "ねんどろいど ソン・リャンハ (ねんどろいど そん・りゃんは)",
-    "en": "Nendoroid Ryang-Ha Song"
+  "gender" : "M",
+  "gsc_productNum" : 12658,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220427/12658/98406/large/3c8da6858b4807f1db62f9c353f0a3a9.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryang-Ha Song",
+    "ja" : "ねんどろいど ソン・リャンハ (ねんどろいど そん・りゃんは)",
+    "ko" : "송량하"
   },
-  "series": {
-    "ko": "살애",
-    "ja": "殺し愛",
-    "en": "Love of Kill"
-  },
-  "gsc_productNum": 12658,
-  "price": 6200,
-  "release_date": [
+  "num" : "1875",
+  "price" : 6200,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220427/12658/98406/large/3c8da6858b4807f1db62f9c353f0a3a9.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Love of Kill",
+    "ja" : "殺し愛",
+    "ko" : "살애"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "964",
-  "name": {
-    "ko": "오타벡 알틴",
-    "ja": "ねんどろいど オタベック・アルティン (ねんどろいど おたべっく・あるてぃん)",
-    "en": "Nendoroid Otabek Altin"
+  "gender" : "M",
+  "gsc_productNum" : 7423,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180710/7423/53137/large/5c2188280b435043af55d18f87b1b98f.jpg",
+  "name" : {
+    "en" : "Nendoroid Otabek Altin",
+    "ja" : "ねんどろいど オタベック・アルティン (ねんどろいど おたべっく・あるてぃん)",
+    "ko" : "오타벡 알틴"
   },
-  "series": {
-    "ko": "유리!!! on ICE",
-    "ja": "ユーリ!!! on ICE",
-    "en": "YURI ON ICE"
-  },
-  "gsc_productNum": 7423,
-  "price": 4584,
-  "release_date": [
+  "num" : "964",
+  "price" : 4584,
+  "release_date" : [
     "2019/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180710/7423/53137/large/5c2188280b435043af55d18f87b1b98f.jpg",
-  "gender": "M",
-  "set": 151
+  "series" : {
+    "en" : "YURI ON ICE",
+    "ja" : "ユーリ!!! on ICE",
+    "ko" : "유리!!! on ICE"
+  },
+  "set" : 151
 }

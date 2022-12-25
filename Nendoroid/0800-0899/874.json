@@ -1,21 +1,21 @@
 {
-  "num": "874",
-  "name": {
-    "ko": "유리 프리세츠키",
-    "ja": "ねんどろいど ユーリ・プリセツキー 私服Ver. (ねんどろいど ゆーり・ぷりせつきー しふくVer.)",
-    "en": "Nendoroid Yuri Plisetsky: Casual Ver."
+  "gender" : "M",
+  "gsc_productNum" : 6995,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180116/6995/49714/large/cf32032e026880164628824fff30af23.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuri Plisetsky: Casual Ver.",
+    "ja" : "ねんどろいど ユーリ・プリセツキー 私服Ver. (ねんどろいど ゆーり・ぷりせつきー しふくVer.)",
+    "ko" : "유리 프리세츠키"
   },
-  "series": {
-    "ko": "유리!!! on ICE",
-    "ja": "ユーリ!!! on ICE",
-    "en": "YURI ON ICE"
-  },
-  "gsc_productNum": 6995,
-  "price": 4278,
-  "release_date": [
+  "num" : "874",
+  "price" : 4278,
+  "release_date" : [
     "2018/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180116/6995/49714/large/cf32032e026880164628824fff30af23.jpg",
-  "gender": "M",
-  "set": 151
+  "series" : {
+    "en" : "YURI ON ICE",
+    "ja" : "ユーリ!!! on ICE",
+    "ko" : "유리!!! on ICE"
+  },
+  "set" : 151
 }

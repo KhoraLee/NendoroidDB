@@ -1,19 +1,19 @@
 {
-  "num": "008",
-  "name": {
-    "ko": "오우카쨩 공격형무장 완료 Ver.",
-    "ja": "ねんどろいど オウカちゃん攻撃型武装完了Ver. (ねんどろいど おうかちゃんこうげきがたぶそうかんりょうVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3354,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3354/16272/large/daa0e1c50d69549c164e9cadf453a032.jpg",
+  "name" : {
+    "ja" : "ねんどろいど オウカちゃん攻撃型武装完了Ver. (ねんどろいど おうかちゃんこうげきがたぶそうかんりょうVer.)",
+    "ko" : "오우카쨩 공격형무장 완료 Ver."
   },
-  "series": {
-    "ko": "니트로 플러스",
-    "ja": "ニトロウォーズ"
-  },
-  "gsc_productNum": 3354,
-  "price": 4190,
-  "release_date": [
+  "num" : "008",
+  "price" : 4190,
+  "release_date" : [
     "2007/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3354/16272/large/daa0e1c50d69549c164e9cadf453a032.jpg",
-  "gender": "F",
-  "set": 3
+  "series" : {
+    "ja" : "ニトロウォーズ",
+    "ko" : "니트로 플러스"
+  },
+  "set" : 3
 }

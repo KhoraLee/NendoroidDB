@@ -1,21 +1,21 @@
 {
-  "num": "789",
-  "name": {
-    "ko": "우시지마 와카토시",
-    "ja": "ねんどろいど 牛島若利 (ねんどろいど うしじまわかとし)",
-    "en": "Nendoroid Wakatoshi Ushijima"
+  "gender" : "M",
+  "gsc_productNum" : 6548,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170630/6548/46811/large/3bb3a93de69c5cbcdcdfd9a65baf4729.jpg",
+  "name" : {
+    "en" : "Nendoroid Wakatoshi Ushijima",
+    "ja" : "ねんどろいど 牛島若利 (ねんどろいど うしじまわかとし)",
+    "ko" : "우시지마 와카토시"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "Haikyu!!"
-  },
-  "gsc_productNum": 6548,
-  "price": 4481,
-  "release_date": [
+  "num" : "789",
+  "price" : 4481,
+  "release_date" : [
     "2017/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170630/6548/46811/large/3bb3a93de69c5cbcdcdfd9a65baf4729.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

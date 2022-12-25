@@ -1,21 +1,21 @@
 {
-  "num": "1101",
-  "name": {
-    "ko": "마키무라 카오리",
-    "ja": "ねんどろいど 槇村香 (ねんどろいど まきむらかおり)",
-    "en": "Nendoroid Kaori Makimura"
+  "gender" : "F",
+  "gsc_productNum" : 8146,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190304/8146/58748/large/6918102f7018e6fa99f263a4f1617d5f.jpg",
+  "name" : {
+    "en" : "Nendoroid Kaori Makimura",
+    "ja" : "ねんどろいど 槇村香 (ねんどろいど まきむらかおり)",
+    "ko" : "마키무라 카오리"
   },
-  "series": {
-    "ko": "시티헌터",
-    "ja": "劇場版シティーハンター＜新宿プライベート・アイズ＞",
-    "en": "City Hunter the Movie: Shinjuku Private Eyes"
-  },
-  "gsc_productNum": 8146,
-  "price": 5297,
-  "release_date": [
+  "num" : "1101",
+  "price" : 5297,
+  "release_date" : [
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190304/8146/58748/large/6918102f7018e6fa99f263a4f1617d5f.jpg",
-  "gender": "F",
-  "set": 208
+  "series" : {
+    "en" : "City Hunter the Movie: Shinjuku Private Eyes",
+    "ja" : "劇場版シティーハンター＜新宿プライベート・アイズ＞",
+    "ko" : "시티헌터"
+  },
+  "set" : 208
 }

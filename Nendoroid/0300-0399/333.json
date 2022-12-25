@@ -1,21 +1,21 @@
 {
-  "num": "333",
-  "name": {
-    "ko": "하츠네 미쿠 유카타 Ver. 여름동백",
-    "ja": "ねんどろいど 初音ミク 浴衣Ver. 夏椿 (ねんどろいど はつねみく ゆかたVer. なつつばき)",
-    "en": "Nendoroid Hatsune Miku: Yukata Ver. Natsutsubaki (ねんどろいど はつねみく ゆかたVer. なつつばき)"
+  "gender" : "F",
+  "gsc_productNum" : 3931,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130528/3931/24210/large/1f4c16a42c5a606136027c93be8775ef.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Yukata Ver. Natsutsubaki (ねんどろいど はつねみく ゆかたVer. なつつばき)",
+    "ja" : "ねんどろいど 初音ミク 浴衣Ver. 夏椿 (ねんどろいど はつねみく ゆかたVer. なつつばき)",
+    "ko" : "하츠네 미쿠 유카타 Ver. 여름동백"
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 3931,
-  "price": 3352,
-  "release_date": [
+  "num" : "333",
+  "price" : 3352,
+  "release_date" : [
     "2013/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130528/3931/24210/large/1f4c16a42c5a606136027c93be8775ef.jpg",
-  "gender": "F",
-  "set": 10
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
 }

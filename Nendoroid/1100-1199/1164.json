@@ -1,21 +1,21 @@
 {
-  "num": "1164",
-  "name": {
-    "ko": "주덕해",
-    "ja": "ねんどろいど 周澤楷 (ねんどろいど しゅうたくかい)",
-    "en": "Nendoroid Zhou Zekai"
+  "gender" : "M",
+  "gsc_productNum" : 8527,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190709/8527/61691/large/70b6bab9ddc39135c125e5c2b8909e4e.jpg",
+  "name" : {
+    "en" : "Nendoroid Zhou Zekai",
+    "ja" : "ねんどろいど 周澤楷 (ねんどろいど しゅうたくかい)",
+    "ko" : "주덕해"
   },
-  "series": {
-    "ko": "전직고수",
-    "ja": "マスターオブスキル（全職高手）",
-    "en": "The King\u0027s Avatar"
-  },
-  "gsc_productNum": 8527,
-  "price": 4800,
-  "release_date": [
+  "num" : "1164",
+  "price" : 4800,
+  "release_date" : [
     "2019/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190709/8527/61691/large/70b6bab9ddc39135c125e5c2b8909e4e.jpg",
-  "gender": "M",
-  "set": 184
+  "series" : {
+    "en" : "The King's Avatar",
+    "ja" : "マスターオブスキル（全職高手）",
+    "ko" : "전직고수"
+  },
+  "set" : 184
 }

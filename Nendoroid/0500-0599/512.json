@@ -1,21 +1,21 @@
 {
-  "num": "512",
-  "name": {
-    "ko": "시부야 린",
-    "ja": "ねんどろいど 渋谷凛 (ねんどろいど しぶやりん)",
-    "en": "Nendoroid Rin Shibuya (ねんどろいど しぶやりん)"
+  "gender" : "F",
+  "gsc_productNum" : 4924,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150401/4924/32918/large/3da10a90632a224deb190a99b19d77d5.jpg",
+  "name" : {
+    "en" : "Nendoroid Rin Shibuya (ねんどろいど しぶやりん)",
+    "ja" : "ねんどろいど 渋谷凛 (ねんどろいど しぶやりん)",
+    "ko" : "시부야 린"
   },
-  "series": {
-    "ko": "아이돌 마스터 신데렐라 걸즈",
-    "ja": "アイドルマスター シンデレラガールズ",
-    "en": "THE IDOLM@STER CINDERELLA GIRLS"
-  },
-  "gsc_productNum": 4924,
-  "price": 3769,
-  "release_date": [
+  "num" : "512",
+  "price" : 3769,
+  "release_date" : [
     "2015/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150401/4924/32918/large/3da10a90632a224deb190a99b19d77d5.jpg",
-  "gender": "F",
-  "set": 117
+  "series" : {
+    "en" : "THE IDOLM@STER CINDERELLA GIRLS",
+    "ja" : "アイドルマスター シンデレラガールズ",
+    "ko" : "아이돌 마스터 신데렐라 걸즈"
+  },
+  "set" : 117
 }

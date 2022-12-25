@@ -1,21 +1,21 @@
 {
-  "num": "854",
-  "name": {
-    "ko": "하츠네 미쿠 V4 Chinese",
-    "ja": "ねんどろいど 初音ミク V4 CHINESE (ねんどろいど はつねみく V4 ちゃいにーず)",
-    "en": "Nendoroid Hatsune Miku: V4 CHINESE"
+  "gender" : "F",
+  "gsc_productNum" : 6882,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171121/6882/48866/large/7b4503ae822b7852dc9ba19cc574235d.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: V4 CHINESE",
+    "ja" : "ねんどろいど 初音ミク V4 CHINESE (ねんどろいど はつねみく V4 ちゃいにーず)",
+    "ko" : "하츠네 미쿠 V4 Chinese"
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 6882,
-  "price": 4584,
-  "release_date": [
+  "num" : "854",
+  "price" : 4584,
+  "release_date" : [
     "2018/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171121/6882/48866/large/7b4503ae822b7852dc9ba19cc574235d.jpg",
-  "gender": "F",
-  "set": 10
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
 }

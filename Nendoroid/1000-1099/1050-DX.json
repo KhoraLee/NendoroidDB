@@ -1,20 +1,20 @@
 {
-  "num": "1050-DX",
-  "name": {
-    "ko": "그리드맨 DX Ver.",
-    "ja": "ねんどろいど グリッドマン SSSS. DX Ver. (ねんどろいど ぐりっどまん SSSS. DX Ver.)",
-    "en": "Nendoroid Gridman: SSSS. DX Ver."
+  "gsc_productNum" : 7876,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181206/7876/56598/large/686805130c95ba86e14a86bbc6ceccf0.jpg",
+  "name" : {
+    "en" : "Nendoroid Gridman: SSSS. DX Ver.",
+    "ja" : "ねんどろいど グリッドマン SSSS. DX Ver. (ねんどろいど ぐりっどまん SSSS. DX Ver.)",
+    "ko" : "그리드맨 DX Ver."
   },
-  "series": {
-    "ko": "SSSS.GRIDMAN",
-    "ja": "SSSS.GRIDMAN",
-    "en": "SSSS.GRIDMAN"
-  },
-  "gsc_productNum": 7876,
-  "price": 7334,
-  "release_date": [
+  "num" : "1050-DX",
+  "price" : 7334,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181206/7876/56598/large/686805130c95ba86e14a86bbc6ceccf0.jpg",
-  "set": 200
+  "series" : {
+    "en" : "SSSS.GRIDMAN",
+    "ja" : "SSSS.GRIDMAN",
+    "ko" : "SSSS.GRIDMAN"
+  },
+  "set" : 200
 }

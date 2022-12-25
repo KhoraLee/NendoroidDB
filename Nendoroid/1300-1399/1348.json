@@ -1,21 +1,21 @@
 {
-  "num": "1348",
-  "name": {
-    "ko": "키리사메 마리사 2.0",
-    "ja": "ねんどろいど 霧雨魔理沙2.0 (ねんどろいど きりさめまりさ2.0)",
-    "en": "Nendoroid Marisa Kirisame 2.0"
+  "gender" : "F",
+  "gsc_productNum" : 9506,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200513/9506/69681/large/054ac8a44e5b0db891574e93e47942a0.jpg",
+  "name" : {
+    "en" : "Nendoroid Marisa Kirisame 2.0",
+    "ja" : "ねんどろいど 霧雨魔理沙2.0 (ねんどろいど きりさめまりさ2.0)",
+    "ko" : "키리사메 마리사 2.0"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方Project",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 9506,
-  "price": 5500,
-  "release_date": [
+  "num" : "1348",
+  "price" : 5500,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200513/9506/69681/large/054ac8a44e5b0db891574e93e47942a0.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

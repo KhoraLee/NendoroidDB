@@ -1,21 +1,21 @@
 {
-  "num": "942",
-  "name": {
-    "ko": "렘\u0026람 어린시절 Ver.",
-    "ja": "ねんどろいど ラム＆レム 幼少期Ver. (ねんどろいど らむ＆れむ ようしょうきVer.)",
-    "en": "Nendoroid Ram \u0026 Rem: Childhood Ver."
+  "gender" : "F",
+  "gsc_productNum" : 7285,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180521/7285/52073/large/b9499cb9d22e29a412ca54c89c5ba101.jpg",
+  "name" : {
+    "en" : "Nendoroid Ram & Rem: Childhood Ver.",
+    "ja" : "ねんどろいど ラム＆レム 幼少期Ver. (ねんどろいど らむ＆れむ ようしょうきVer.)",
+    "ko" : "렘&람 어린시절 Ver."
   },
-  "series": {
-    "ko": "Re: 제로부터 시작하는 이세계 생활",
-    "ja": "Re:ゼロから始める異世界生活",
-    "en": "Re:ZERO -Starting Life in Another World-"
-  },
-  "gsc_productNum": 7285,
-  "price": 6112,
-  "release_date": [
+  "num" : "942",
+  "price" : 6112,
+  "release_date" : [
     "2018/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180521/7285/52073/large/b9499cb9d22e29a412ca54c89c5ba101.jpg",
-  "gender": "F",
-  "set": 138
+  "series" : {
+    "en" : "Re:ZERO -Starting Life in Another World-",
+    "ja" : "Re:ゼロから始める異世界生活",
+    "ko" : "Re: 제로부터 시작하는 이세계 생활"
+  },
+  "set" : 138
 }

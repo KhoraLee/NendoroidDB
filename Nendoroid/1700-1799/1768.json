@@ -1,21 +1,21 @@
 {
-  "num": "1768",
-  "name": {
-    "ko": "게토 스구루 극장판 주술회전 0 Ver.",
-    "ja": "ねんどろいど 夏油傑 劇場版 呪術廻戦 0Ver. (ねんどろいど げとうすぐる げきじょうばん じゅじゅつかいせん 0Ver.)",
-    "en": "Nendoroid Suguru Geto: Jujutsu Kaisen 0 Ver."
+  "gender" : "M",
+  "gsc_productNum" : 12046,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211124/12046/95165/large/43250b2879457089959ab1af56bcdc91.jpg",
+  "name" : {
+    "en" : "Nendoroid Suguru Geto: Jujutsu Kaisen 0 Ver.",
+    "ja" : "ねんどろいど 夏油傑 劇場版 呪術廻戦 0Ver. (ねんどろいど げとうすぐる げきじょうばん じゅじゅつかいせん 0Ver.)",
+    "ko" : "게토 스구루 극장판 주술회전 0 Ver."
   },
-  "series": {
-    "ko": "\r\n극장판 주술회전 0",
-    "ja": "劇場版 呪術廻戦 0",
-    "en": "Jujutsu Kaisen 0"
-  },
-  "gsc_productNum": 12046,
-  "price": 6600,
-  "release_date": [
+  "num" : "1768",
+  "price" : 6600,
+  "release_date" : [
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211124/12046/95165/large/43250b2879457089959ab1af56bcdc91.jpg",
-  "gender": "M",
-  "set": 251
+  "series" : {
+    "en" : "Jujutsu Kaisen 0",
+    "ja" : "劇場版 呪術廻戦 0",
+    "ko" : "\r\n극장판 주술회전 0"
+  },
+  "set" : 251
 }

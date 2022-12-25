@@ -1,23 +1,23 @@
 {
-  "num": "438",
-  "name": {
-    "ko": "키류인 사츠키",
-    "ja": "ねんどろいど 鬼龍院皐月 (ねんどろいど きりゅういんさつき)",
-    "en": "Nendoroid Satsuki Kiryuin"
+  "gender" : "F",
+  "gsc_productNum" : 4487,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140704/4487/44895/large/c9c7c3bb2ec6cfdcc17d62fd82595c42.jpg",
+  "name" : {
+    "en" : "Nendoroid Satsuki Kiryuin",
+    "ja" : "ねんどろいど 鬼龍院皐月 (ねんどろいど きりゅういんさつき)",
+    "ko" : "키류인 사츠키"
   },
-  "series": {
-    "ko": "킬라킬",
-    "ja": "キルラキル",
-    "en": "KILL la KILL"
-  },
-  "gsc_productNum": 4487,
-  "price": 4278,
-  "release_date": [
+  "num" : "438",
+  "price" : 4278,
+  "release_date" : [
     "2014/10",
     "2017/09",
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140704/4487/44895/large/c9c7c3bb2ec6cfdcc17d62fd82595c42.jpg",
-  "gender": "F",
-  "set": 97
+  "series" : {
+    "en" : "KILL la KILL",
+    "ja" : "キルラキル",
+    "ko" : "킬라킬"
+  },
+  "set" : 97
 }

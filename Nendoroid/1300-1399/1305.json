@@ -1,21 +1,21 @@
 {
-  "num": "1305",
-  "name": {
-    "ko": "해리 포터 퀴디치 Ver.",
-    "ja": "ねんどろいど ハリー・ポッター クィディッチ Ver. (ねんどろいど はりー・ぽったー くぃでぃっち Ver.)",
-    "en": "Nendoroid Harry Potter: Quidditch Ver."
+  "gender" : "M",
+  "gsc_productNum" : 9344,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200311/9344/68240/large/3bb395c1fea3f15386a98dc9c421a570.jpg",
+  "name" : {
+    "en" : "Nendoroid Harry Potter: Quidditch Ver.",
+    "ja" : "ねんどろいど ハリー・ポッター クィディッチ Ver. (ねんどろいど はりー・ぽったー くぃでぃっち Ver.)",
+    "ko" : "해리 포터 퀴디치 Ver."
   },
-  "series": {
-    "ko": "해리포터 시리즈",
-    "ja": "ハリー・ポッター",
-    "en": "Harry Potter"
-  },
-  "gsc_productNum": 9344,
-  "price": 5000,
-  "release_date": [
+  "num" : "1305",
+  "price" : 5000,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200311/9344/68240/large/3bb395c1fea3f15386a98dc9c421a570.jpg",
-  "gender": "M",
-  "set": 194
+  "series" : {
+    "en" : "Harry Potter",
+    "ja" : "ハリー・ポッター",
+    "ko" : "해리포터 시리즈"
+  },
+  "set" : 194
 }

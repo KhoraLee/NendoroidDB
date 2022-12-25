@@ -1,21 +1,21 @@
 {
-  "num": "1394",
-  "name": {
-    "ja": "ねんどろいど 蔵馬 (ねんどろいど くらま)",
-    "en": "Nendoroid Kurama",
-    "ko": "쿠라마"
+  "gender" : "M",
+  "gsc_productNum" : 13117,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220819/13117/102960/large/8a67d75ac2839938665a61ac3a7709dd.jpg",
+  "name" : {
+    "en" : "Nendoroid Kurama",
+    "ja" : "ねんどろいど 蔵馬 (ねんどろいど くらま)",
+    "ko" : "쿠라마"
   },
-  "series": {
-    "ja": "幽☆遊☆白書",
-    "en": "Yu Yu Hakusho",
-    "ko": "유유백서"
-  },
-  "gsc_productNum": 13117,
-  "price": 6700,
-  "release_date": [
+  "num" : "1394",
+  "price" : 6700,
+  "release_date" : [
     "2023/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220819/13117/102960/large/8a67d75ac2839938665a61ac3a7709dd.jpg",
-  "gender": "M",
-  "set": 226
+  "series" : {
+    "en" : "Yu Yu Hakusho",
+    "ja" : "幽☆遊☆白書",
+    "ko" : "유유백서"
+  },
+  "set" : 226
 }

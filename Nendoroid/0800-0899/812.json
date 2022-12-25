@@ -1,22 +1,22 @@
 {
-  "num": "812",
-  "name": {
-    "ko": "팅커벨",
-    "ja": "ねんどろいど ティンカー・ベル (ねんどろいど てぃんかー・べる)",
-    "en": "Nendoroid Tinker Bell"
+  "gender" : "F",
+  "gsc_productNum" : 6674,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170825/6674/47354/large/f344e493ff7f68dd1e8878334f8cf04a.jpg",
+  "name" : {
+    "en" : "Nendoroid Tinker Bell",
+    "ja" : "ねんどろいど ティンカー・ベル (ねんどろいど てぃんかー・べる)",
+    "ko" : "팅커벨"
   },
-  "series": {
-    "ko": "디즈니",
-    "ja": "ピーター・パン",
-    "en": "Peter Pan"
-  },
-  "gsc_productNum": 6674,
-  "price": 5600,
-  "release_date": [
+  "num" : "812",
+  "price" : 5600,
+  "release_date" : [
     "2018/02",
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170825/6674/47354/large/f344e493ff7f68dd1e8878334f8cf04a.jpg",
-  "gender": "F",
-  "set": 32
+  "series" : {
+    "en" : "Peter Pan",
+    "ja" : "ピーター・パン",
+    "ko" : "디즈니"
+  },
+  "set" : 32
 }

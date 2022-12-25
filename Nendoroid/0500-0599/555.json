@@ -1,22 +1,22 @@
 {
-  "num": "555",
-  "name": {
-    "ko": "애미야 시로",
-    "ja": "ねんどろいど 衛宮士郎 (ねんどろいど えみやしろう)",
-    "en": "Nendoroid Shirou Emiya"
+  "gender" : "M",
+  "gsc_productNum" : 5166,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150804/5166/34963/large/f8718786282d755aa8e27b065bf39f85.jpg",
+  "name" : {
+    "en" : "Nendoroid Shirou Emiya",
+    "ja" : "ねんどろいど 衛宮士郎 (ねんどろいど えみやしろう)",
+    "ko" : "애미야 시로"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/stay night [Unlimited Blade Works]",
-    "en": "Fate/stay night [Unlimited Blade Works]"
-  },
-  "gsc_productNum": 5166,
-  "price": 4800,
-  "release_date": [
+  "num" : "555",
+  "price" : 4800,
+  "release_date" : [
     "2015/12",
     "2020/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150804/5166/34963/large/f8718786282d755aa8e27b065bf39f85.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/stay night [Unlimited Blade Works]",
+    "ja" : "Fate/stay night [Unlimited Blade Works]",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

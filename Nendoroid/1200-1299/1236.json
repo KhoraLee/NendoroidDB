@@ -1,21 +1,21 @@
 {
-  "num": "1236",
-  "name": {
-    "ko": "토비이치 오리가미 정령 Ver.",
-    "ja": "ねんどろいど 鳶一折紙 精霊Ver. (ねんどろいど とびいちおりがみ せいれいVer.)",
-    "en": "Nendoroid Origami Tobiichi: Spirit Ver."
+  "gender" : "F",
+  "gsc_productNum" : 12569,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220412/12569/97611/large/efaec205291a5c9fee56d66e8a5c4650.jpg",
+  "name" : {
+    "en" : "Nendoroid Origami Tobiichi: Spirit Ver.",
+    "ja" : "ねんどろいど 鳶一折紙 精霊Ver. (ねんどろいど とびいちおりがみ せいれいVer.)",
+    "ko" : "토비이치 오리가미 정령 Ver."
   },
-  "series": {
-    "ko": "데이트 어 라이브",
-    "ja": "デート・ア・ライブⅣ",
-    "en": "Date A Live IV"
-  },
-  "gsc_productNum": 12569,
-  "price": 7800,
-  "release_date": [
+  "num" : "1236",
+  "price" : 7800,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220412/12569/97611/large/efaec205291a5c9fee56d66e8a5c4650.jpg",
-  "gender": "F",
-  "set": 86
+  "series" : {
+    "en" : "Date A Live IV",
+    "ja" : "デート・ア・ライブⅣ",
+    "ko" : "데이트 어 라이브"
+  },
+  "set" : 86
 }

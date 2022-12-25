@@ -1,20 +1,20 @@
 {
-  "num": "201",
-  "name": {
-    "ko": "코바야시 카무이",
-    "ja": "ねんどろいど 小林可夢偉 (ねんどろいど こばやしかむい)",
-    "en": "Nendoroid Kamui Kobayashi (ねんどろいど こばやしかむい)"
+  "gender" : "M",
+  "gsc_productNum" : 3311,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111005/3311/15694/large/3a3b8d6aedb4a68ce5c28e0cec14bffb.jpg",
+  "name" : {
+    "en" : "Nendoroid Kamui Kobayashi (ねんどろいど こばやしかむい)",
+    "ja" : "ねんどろいど 小林可夢偉 (ねんどろいど こばやしかむい)",
+    "ko" : "코바야시 카무이"
   },
-  "series": {
-    "ko": "실존인물(레이서)",
-    "ja": "小林可夢偉",
-    "en": "Kamui Kobayashi"
-  },
-  "gsc_productNum": 3311,
-  "price": 3667,
-  "release_date": [
+  "num" : "201",
+  "price" : 3667,
+  "release_date" : [
     "2012/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111005/3311/15694/large/3a3b8d6aedb4a68ce5c28e0cec14bffb.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Kamui Kobayashi",
+    "ja" : "小林可夢偉",
+    "ko" : "실존인물(레이서)"
+  }
 }

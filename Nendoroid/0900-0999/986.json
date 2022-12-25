@@ -1,21 +1,21 @@
 {
-  "num": "986",
-  "name": {
-    "ko": "시몬",
-    "ja": "ねんどろいど シモン (ねんどろいど しもん)",
-    "en": "Nendoroid Simon"
+  "gender" : "M",
+  "gsc_productNum" : 7557,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180824/7557/54052/large/a59bb3f4b7ae48f08e5e158e92798415.jpg",
+  "name" : {
+    "en" : "Nendoroid Simon",
+    "ja" : "ねんどろいど シモン (ねんどろいど しもん)",
+    "ko" : "시몬"
   },
-  "series": {
-    "ko": "천원돌파 그렌라간",
-    "ja": "天元突破グレンラガン",
-    "en": "Gurren Lagann"
-  },
-  "gsc_productNum": 7557,
-  "price": 5602,
-  "release_date": [
+  "num" : "986",
+  "price" : 5602,
+  "release_date" : [
     "2019/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180824/7557/54052/large/a59bb3f4b7ae48f08e5e158e92798415.jpg",
-  "gender": "M",
-  "set": 14
+  "series" : {
+    "en" : "Gurren Lagann",
+    "ja" : "天元突破グレンラガン",
+    "ko" : "천원돌파 그렌라간"
+  },
+  "set" : 14
 }

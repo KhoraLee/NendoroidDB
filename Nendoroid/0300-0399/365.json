@@ -1,23 +1,23 @@
 {
-  "num": "365",
-  "name": {
-    "ko": "미카사 아커만",
-    "ja": "ねんどろいど ミカサ・アッカーマン (ねんどろいど みかさ・あっかーまん)",
-    "en": "Nendoroid Mikasa Ackerman"
+  "gender" : "F",
+  "gsc_productNum" : 4048,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130828/4048/60042/large/13ed05b898fcedf094425a6062f28dd0.jpg",
+  "name" : {
+    "en" : "Nendoroid Mikasa Ackerman",
+    "ja" : "ねんどろいど ミカサ・アッカーマン (ねんどろいど みかさ・あっかーまん)",
+    "ko" : "미카사 아커만"
   },
-  "series": {
-    "ko": "진격의 거인",
-    "ja": "進撃の巨人",
-    "en": "Attack on Titan"
-  },
-  "gsc_productNum": 4048,
-  "price": 5500,
-  "release_date": [
+  "num" : "365",
+  "price" : 5500,
+  "release_date" : [
     "2014/01",
     "2019/09",
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130828/4048/60042/large/13ed05b898fcedf094425a6062f28dd0.jpg",
-  "gender": "F",
-  "set": 87
+  "series" : {
+    "en" : "Attack on Titan",
+    "ja" : "進撃の巨人",
+    "ko" : "진격의 거인"
+  },
+  "set" : 87
 }

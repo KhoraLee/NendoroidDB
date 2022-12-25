@@ -1,20 +1,20 @@
 {
-  "num": "1507",
-  "name": {
-    "ko": "일레븐",
-    "ja": "ねんどろいど イレブン (ねんどろいど いれぶん)",
-    "en": "Nendoroid Eleven"
+  "gender" : "M",
+  "gsc_productNum" : 10322,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201030/10322/85692/large/6ef2c351eb00e5f5d67add89f057cafe.jpg",
+  "name" : {
+    "en" : "Nendoroid Eleven",
+    "ja" : "ねんどろいど イレブン (ねんどろいど いれぶん)",
+    "ko" : "일레븐"
   },
-  "series": {
-    "ko": "기묘한 이야기",
-    "ja": "ストレンジャー・シングス 未知の世界",
-    "en": "Stranger Things"
-  },
-  "gsc_productNum": 10322,
-  "price": 4800,
-  "release_date": [
+  "num" : "1507",
+  "price" : 4800,
+  "release_date" : [
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201030/10322/85692/large/6ef2c351eb00e5f5d67add89f057cafe.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Stranger Things",
+    "ja" : "ストレンジャー・シングス 未知の世界",
+    "ko" : "기묘한 이야기"
+  }
 }

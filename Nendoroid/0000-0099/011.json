@@ -1,20 +1,20 @@
 {
-  "num": "011",
-  "name": {
-    "ko": "류크",
-    "ja": "ねんどろいど リューク (りゅーく ねんどろいど)",
-    "en": "Nendoroid Ryuk (りゅーく ねんどろいど)"
+  "gsc_productNum" : 398,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/398/5556/large/4f4eae73fa2ac3f5124faf413bedd7e2.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryuk (りゅーく ねんどろいど)",
+    "ja" : "ねんどろいど リューク (りゅーく ねんどろいど)",
+    "ko" : "류크"
   },
-  "series": {
-    "ko": "데스노트",
-    "ja": "DEATH NOTE",
-    "en": "DEATH NOTE"
-  },
-  "gsc_productNum": 398,
-  "price": 3143,
-  "release_date": [
+  "num" : "011",
+  "price" : 3143,
+  "release_date" : [
     "2008/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/398/5556/large/4f4eae73fa2ac3f5124faf413bedd7e2.jpg",
-  "set": 5
+  "series" : {
+    "en" : "DEATH NOTE",
+    "ja" : "DEATH NOTE",
+    "ko" : "데스노트"
+  },
+  "set" : 5
 }

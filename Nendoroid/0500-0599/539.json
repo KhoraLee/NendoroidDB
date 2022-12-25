@@ -1,21 +1,21 @@
 {
-  "num": "539",
-  "name": {
-    "ko": "하츠네 미쿠 중추명월 Ver.",
-    "ja": "ねんどろいど 初音ミク 中秋明月Ver. (ねんどろいど はつねみく ちゅうしゅうめいげつVer.)",
-    "en": "Nendoroid Hatsune Miku: Harvest Moon Ver. (ねんどろいど はつねみく ちゅうしゅうめいげつVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 5128,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150709/5128/34579/large/099b436eeb8cfc6e00e799475f63cc11.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Harvest Moon Ver. (ねんどろいど はつねみく ちゅうしゅうめいげつVer.)",
+    "ja" : "ねんどろいど 初音ミク 中秋明月Ver. (ねんどろいど はつねみく ちゅうしゅうめいげつVer.)",
+    "ko" : "하츠네 미쿠 중추명월 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 5128,
-  "price": 4278,
-  "release_date": [
+  "num" : "539",
+  "price" : 4278,
+  "release_date" : [
     "2015/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150709/5128/34579/large/099b436eeb8cfc6e00e799475f63cc11.jpg",
-  "gender": "F",
-  "set": 10
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
 }

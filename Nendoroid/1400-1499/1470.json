@@ -1,21 +1,21 @@
 {
-  "num": "1470",
-  "name": {
-    "ko": "의전 새벽의 독안룡",
-    "ja": "ねんどろいど 舞台『刀剣乱舞』義伝 暁の独眼竜 鶴丸国永 (ねんどろいど ぶたい『とうけんらんぶ』ぎでん あかつきのどくがんりゅう つるまるくになが)",
-    "en": "Nendoroid Butai Touken Ranbu Giden Akatsuki no Dokuganryu - Tsurumaru Kuninaga"
+  "gender" : "M",
+  "gsc_productNum" : 10085,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200918/10085/74547/large/6e7e67cde024dfe961742828737cea64.jpg",
+  "name" : {
+    "en" : "Nendoroid Butai Touken Ranbu Giden Akatsuki no Dokuganryu - Tsurumaru Kuninaga",
+    "ja" : "ねんどろいど 舞台『刀剣乱舞』義伝 暁の独眼竜 鶴丸国永 (ねんどろいど ぶたい『とうけんらんぶ』ぎでん あかつきのどくがんりゅう つるまるくになが)",
+    "ko" : "의전 새벽의 독안룡"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "舞台『刀剣乱舞』義伝 暁の独眼竜",
-    "en": "Butai Touken Ranbu Giden Akatsuki no Dokuganryu"
-  },
-  "gsc_productNum": 10085,
-  "price": 4500,
-  "release_date": [
+  "num" : "1470",
+  "price" : 4500,
+  "release_date" : [
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200918/10085/74547/large/6e7e67cde024dfe961742828737cea64.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Butai Touken Ranbu Giden Akatsuki no Dokuganryu",
+    "ja" : "舞台『刀剣乱舞』義伝 暁の独眼竜",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

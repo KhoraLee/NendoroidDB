@@ -1,21 +1,21 @@
 {
-  "num": "1469",
-  "name": {
-    "ko": "베디비어",
-    "ja": "ねんどろいど ベディヴィエール (ねんどろいど べでぃゔぃえーる)",
-    "en": "Nendoroid Bedivere"
+  "gender" : "M",
+  "gsc_productNum" : 10086,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200918/10086/74556/large/da20f6385d2a9929271ce1ad8fdbd73e.jpg",
+  "name" : {
+    "en" : "Nendoroid Bedivere",
+    "ja" : "ねんどろいど ベディヴィエール (ねんどろいど べでぃゔぃえーる)",
+    "ko" : "베디비어"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "劇場版「Fate/Grand Order -神聖円卓領域キャメロット-」",
-    "en": "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot"
-  },
-  "gsc_productNum": 10086,
-  "price": 5200,
-  "release_date": [
+  "num" : "1469",
+  "price" : 5200,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200918/10086/74556/large/da20f6385d2a9929271ce1ad8fdbd73e.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order THE MOVIE Divine Realm of the Round Table: Camelot",
+    "ja" : "劇場版「Fate/Grand Order -神聖円卓領域キャメロット-」",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

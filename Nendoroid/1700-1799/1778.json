@@ -1,21 +1,21 @@
 {
-  "num": "1778",
-  "name": {
-    "ko": "카가미하라 사쿠라",
-    "ja": "ねんどろいど 各務原桜 (ねんどろいど かがみはらさくら)",
-    "en": "Nendoroid Sakura Kagamihara"
+  "gender" : "F",
+  "gsc_productNum" : 12077,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211202/12077/92759/large/a5d9175a7908c1178a45724f7f470b96.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Kagamihara",
+    "ja" : "ねんどろいど 各務原桜 (ねんどろいど かがみはらさくら)",
+    "ko" : "카가미하라 사쿠라"
   },
-  "series": {
-    "ko": "유루캠△",
-    "ja": "ゆるキャン△",
-    "en": "Laid-Back Camp"
-  },
-  "gsc_productNum": 12077,
-  "price": 6600,
-  "release_date": [
+  "num" : "1778",
+  "price" : 6600,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211202/12077/92759/large/a5d9175a7908c1178a45724f7f470b96.jpg",
-  "gender": "F",
-  "set": 173
+  "series" : {
+    "en" : "Laid-Back Camp",
+    "ja" : "ゆるキャン△",
+    "ko" : "유루캠△"
+  },
+  "set" : 173
 }

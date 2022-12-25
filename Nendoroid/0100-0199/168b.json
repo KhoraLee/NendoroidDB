@@ -1,19 +1,19 @@
 {
-  "num": "168b",
-  "name": {
-    "ko": "아이리 2P컬러 Ver.",
-    "ja": "ねんどろいど アイリ 2PカラーVer. (ねんどろいど あいり ２Pからーver.)"
+  "gender" : "F",
+  "gsc_productNum" : 3393,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111129/3393/16398/large/cdd929704bab2eb79f2f44addc3086d3.jpg",
+  "name" : {
+    "ja" : "ねんどろいど アイリ 2PカラーVer. (ねんどろいど あいり ２Pからーver.)",
+    "ko" : "아이리 2P컬러 Ver."
   },
-  "series": {
-    "ko": "퀸즈 블레이드",
-    "ja": "クイーンズブレイド"
-  },
-  "gsc_productNum": 3393,
-  "price": 3667,
-  "release_date": [
+  "num" : "168b",
+  "price" : 3667,
+  "release_date" : [
     "2011/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111129/3393/16398/large/cdd929704bab2eb79f2f44addc3086d3.jpg",
-  "gender": "F",
-  "set": 35
+  "series" : {
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
 }

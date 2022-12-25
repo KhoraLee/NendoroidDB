@@ -1,22 +1,22 @@
 {
-  "num": "1113",
-  "name": {
-    "ko": "이와타니 나오후미",
-    "ja": "ねんどろいど 盾の勇者 (ねんどろいど たてのゆうしゃ)",
-    "en": "Nendoroid Shield Hero"
+  "gender" : "M",
+  "gsc_productNum" : 8210,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190327/8210/59222/large/91204c84ea03a5bba91e228acf53373b.jpg",
+  "name" : {
+    "en" : "Nendoroid Shield Hero",
+    "ja" : "ねんどろいど 盾の勇者 (ねんどろいど たてのゆうしゃ)",
+    "ko" : "이와타니 나오후미"
   },
-  "series": {
-    "ko": "방패 용사 성공담",
-    "ja": "盾の勇者の成り上がり",
-    "en": "The Rising of the Shield Hero"
-  },
-  "gsc_productNum": 8210,
-  "price": 5900,
-  "release_date": [
+  "num" : "1113",
+  "price" : 5900,
+  "release_date" : [
     "2019/10",
     "2023/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190327/8210/59222/large/91204c84ea03a5bba91e228acf53373b.jpg",
-  "gender": "M",
-  "set": 213
+  "series" : {
+    "en" : "The Rising of the Shield Hero",
+    "ja" : "盾の勇者の成り上がり",
+    "ko" : "방패 용사 성공담"
+  },
+  "set" : 213
 }

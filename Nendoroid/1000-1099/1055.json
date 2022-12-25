@@ -1,20 +1,20 @@
 {
-  "num": "1055",
-  "name": {
-    "ko": "빔 커비",
-    "ja": "ねんどろいど ビームカービィ (ねんどろいど びーむかーびぃ)",
-    "en": "Nendoroid Beam Kirby"
+  "gsc_productNum" : 7916,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181218/7916/56861/large/176f98c20bd8e1f02ab97d0e24ee2c2c.jpg",
+  "name" : {
+    "en" : "Nendoroid Beam Kirby",
+    "ja" : "ねんどろいど ビームカービィ (ねんどろいど びーむかーびぃ)",
+    "ko" : "빔 커비"
   },
-  "series": {
-    "ko": "별의 커비",
-    "ja": "星のカービィ",
-    "en": "Kirby"
-  },
-  "gsc_productNum": 7916,
-  "price": 4888,
-  "release_date": [
+  "num" : "1055",
+  "price" : 4888,
+  "release_date" : [
     "2019/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181218/7916/56861/large/176f98c20bd8e1f02ab97d0e24ee2c2c.jpg",
-  "set": 121
+  "series" : {
+    "en" : "Kirby",
+    "ja" : "星のカービィ",
+    "ko" : "별의 커비"
+  },
+  "set" : 121
 }

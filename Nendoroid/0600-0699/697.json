@@ -1,21 +1,21 @@
 {
-  "num": "697",
-  "name": {
-    "ko": "밍크",
-    "ja": "ねんどろいど ミンク (ねんどろいど みんく)",
-    "en": "Nendoroid Mink"
+  "gender" : "M",
+  "gsc_productNum" : 6083,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161125/6083/42483/large/56f6a13badcd14b49045ee896a1472f6.jpg",
+  "name" : {
+    "en" : "Nendoroid Mink",
+    "ja" : "ねんどろいど ミンク (ねんどろいど みんく)",
+    "ko" : "밍크"
   },
-  "series": {
-    "ko": "드라마티컬 머더",
-    "ja": "DRAMAtical Murder",
-    "en": "DRAMAtical Murder"
-  },
-  "gsc_productNum": 6083,
-  "price": 4888,
-  "release_date": [
+  "num" : "697",
+  "price" : 4888,
+  "release_date" : [
     "2017/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161125/6083/42483/large/56f6a13badcd14b49045ee896a1472f6.jpg",
-  "gender": "M",
-  "set": 100
+  "series" : {
+    "en" : "DRAMAtical Murder",
+    "ja" : "DRAMAtical Murder",
+    "ko" : "드라마티컬 머더"
+  },
+  "set" : 100
 }

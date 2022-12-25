@@ -1,20 +1,20 @@
 {
-  "num": "1262",
-  "name": {
-    "ko": "이시가미 센쿠",
-    "ja": "ねんどろいど 石神千空 (ねんどろいど いしがみせんくう)",
-    "en": "Nendoroid Senku Ishigami"
+  "gender" : "M",
+  "gsc_productNum" : 9106,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191217/9106/66171/large/158427a7b94a59fc584035f7627e123a.jpg",
+  "name" : {
+    "en" : "Nendoroid Senku Ishigami",
+    "ja" : "ねんどろいど 石神千空 (ねんどろいど いしがみせんくう)",
+    "ko" : "이시가미 센쿠"
   },
-  "series": {
-    "ko": "Dr. STONE",
-    "ja": "Dr.STONE",
-    "en": "Dr. STONE"
-  },
-  "gsc_productNum": 9106,
-  "price": 5500,
-  "release_date": [
+  "num" : "1262",
+  "price" : 5500,
+  "release_date" : [
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191217/9106/66171/large/158427a7b94a59fc584035f7627e123a.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Dr. STONE",
+    "ja" : "Dr.STONE",
+    "ko" : "Dr. STONE"
+  }
 }

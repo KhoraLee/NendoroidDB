@@ -1,21 +1,21 @@
 {
-  "num": "1370",
-  "name": {
-    "ko": "레이스",
-    "ja": "ねんどろいど レイス (ねんどろいど れいす)",
-    "en": "Nendoroid Wraith"
+  "gender" : "F",
+  "gsc_productNum" : 9793,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200716/9793/72592/large/f39391d43834a0805985a8e73dfbfe78.jpg",
+  "name" : {
+    "en" : "Nendoroid Wraith",
+    "ja" : "ねんどろいど レイス (ねんどろいど れいす)",
+    "ko" : "레이스"
   },
-  "series": {
-    "ko": "Apex 레전드",
-    "ja": "エーペックスレジェンズ",
-    "en": "Apex Legends"
-  },
-  "gsc_productNum": 9793,
-  "price": 5800,
-  "release_date": [
+  "num" : "1370",
+  "price" : 5800,
+  "release_date" : [
     "2021/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200716/9793/72592/large/f39391d43834a0805985a8e73dfbfe78.jpg",
-  "gender": "F",
-  "set": 240
+  "series" : {
+    "en" : "Apex Legends",
+    "ja" : "エーペックスレジェンズ",
+    "ko" : "Apex 레전드"
+  },
+  "set" : 240
 }

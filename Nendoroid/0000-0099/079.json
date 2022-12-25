@@ -1,21 +1,21 @@
 {
-  "num": "079",
-  "name": {
-    "ko": "아로운",
-    "ja": "ねんどろいど アロウン (あろうん ねんどろいど)",
-    "en": "Nendoroid Arawn (あろうん ねんどろいど)"
+  "gender" : "M",
+  "gsc_productNum" : 2508,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2508/7264/large/410663b831664532eba48620fd6cf6c8.jpg",
+  "name" : {
+    "en" : "Nendoroid Arawn (あろうん ねんどろいど)",
+    "ja" : "ねんどろいど アロウン (あろうん ねんどろいど)",
+    "ko" : "아로운"
   },
-  "series": {
-    "ko": "티어즈 투 티아라",
-    "ja": "ティアーズ・トゥ・ティアラ",
-    "en": "Tears To Tiara"
-  },
-  "gsc_productNum": 2508,
-  "price": 3667,
-  "release_date": [
+  "num" : "079",
+  "price" : 3667,
+  "release_date" : [
     "2009/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2508/7264/large/410663b831664532eba48620fd6cf6c8.jpg",
-  "gender": "M",
-  "set": 24
+  "series" : {
+    "en" : "Tears To Tiara",
+    "ja" : "ティアーズ・トゥ・ティアラ",
+    "ko" : "티어즈 투 티아라"
+  },
+  "set" : 24
 }

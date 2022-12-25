@@ -1,23 +1,23 @@
 {
-  "num": "686",
-  "name": {
-    "ko": "미도리야 이즈쿠 히어로즈 에디션",
-    "ja": "ねんどろいど 緑谷出久 ヒーローズ・エディション (ねんどろいど みどりやいずく ひーろーず・えでぃしょん)",
-    "en": "Nendoroid Izuku Midoriya: Hero\u0027s Edition"
+  "gender" : "M",
+  "gsc_productNum" : 5994,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161004/5994/41665/large/17c8261ad7e7cb09c6198504e0ad59bb.jpg",
+  "name" : {
+    "en" : "Nendoroid Izuku Midoriya: Hero's Edition",
+    "ja" : "ねんどろいど 緑谷出久 ヒーローズ・エディション (ねんどろいど みどりやいずく ひーろーず・えでぃしょん)",
+    "ko" : "미도리야 이즈쿠 히어로즈 에디션"
   },
-  "series": {
-    "ko": "나의 히어로 아카데미아",
-    "ja": "僕のヒーローアカデミア",
-    "en": "My Hero Academia"
-  },
-  "gsc_productNum": 5994,
-  "price": 4888,
-  "release_date": [
+  "num" : "686",
+  "price" : 4888,
+  "release_date" : [
     "2017/04",
     "2019/01",
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161004/5994/41665/large/17c8261ad7e7cb09c6198504e0ad59bb.jpg",
-  "gender": "M",
-  "set": 146
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 146
 }

@@ -1,22 +1,22 @@
 {
-  "num": "088",
-  "name": {
-    "ko": "미나미 치아키",
-    "ja": "ねんどろいど 南千秋 (ねんどろいど みなみちあき)",
-    "en": "Nendoroid Chiaki Minami (ねんどろいど みなみちあき)"
+  "gender" : "F",
+  "gsc_productNum" : 2635,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2635/7776/large/120d9a1553529d8ca8cba0e2783f9e71.jpg",
+  "name" : {
+    "en" : "Nendoroid Chiaki Minami (ねんどろいど みなみちあき)",
+    "ja" : "ねんどろいど 南千秋 (ねんどろいど みなみちあき)",
+    "ko" : "미나미 치아키"
   },
-  "series": {
-    "ko": "미나미가",
-    "ja": "みなみけ",
-    "en": "Minamike"
-  },
-  "gsc_productNum": 2635,
-  "price": 3667,
-  "release_date": [
+  "num" : "088",
+  "price" : 3667,
+  "release_date" : [
     "2011/08",
     "2013/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2635/7776/large/120d9a1553529d8ca8cba0e2783f9e71.jpg",
-  "gender": "F",
-  "set": 29
+  "series" : {
+    "en" : "Minamike",
+    "ja" : "みなみけ",
+    "ko" : "미나미가"
+  },
+  "set" : 29
 }

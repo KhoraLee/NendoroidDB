@@ -1,21 +1,21 @@
 {
-  "num": "284",
-  "name": {
-    "ko": "아이언맨 마크7 히어로즈 에디션",
-    "ja": "ねんどろいど アイアンマン マーク7 ヒーローズ・エディション (ねんどろいど あいあんまん まーく7 ひーろーず･えでぃしょん)",
-    "en": "Nendoroid Iron Man Mark 7: Hero\u0027s Edition (ねんどろいど あいあんまん まーく7 ひーろーず･えでぃしょん)"
+  "gender" : "M",
+  "gsc_productNum" : 3711,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121011/3711/20840/large/3c3495c1ffb15c5c9d4a62f3b44e62ee.jpg",
+  "name" : {
+    "en" : "Nendoroid Iron Man Mark 7: Hero's Edition (ねんどろいど あいあんまん まーく7 ひーろーず･えでぃしょん)",
+    "ja" : "ねんどろいど アイアンマン マーク7 ヒーローズ・エディション (ねんどろいど あいあんまん まーく7 ひーろーず･えでぃしょん)",
+    "ko" : "아이언맨 마크7 히어로즈 에디션"
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ",
-    "en": "The Avengers"
-  },
-  "gsc_productNum": 3711,
-  "price": 3981,
-  "release_date": [
+  "num" : "284",
+  "price" : 3981,
+  "release_date" : [
     "2013/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121011/3711/20840/large/3c3495c1ffb15c5c9d4a62f3b44e62ee.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "The Avengers",
+    "ja" : "アベンジャーズ",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

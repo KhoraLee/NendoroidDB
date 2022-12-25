@@ -1,20 +1,20 @@
 {
-  "num": "1287",
-  "name": {
-    "ko": "이마오오지 슌",
-    "ja": "ねんどろいど 今大路峻 (ねんどろいど いまおおじしゅん)",
-    "en": "Nendoroid Shun Imaoji"
+  "gender" : "M",
+  "gsc_productNum" : 9247,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200131/9247/67438/large/20d84c7a52917ad37a38556054bc47f9.jpg",
+  "name" : {
+    "en" : "Nendoroid Shun Imaoji",
+    "ja" : "ねんどろいど 今大路峻 (ねんどろいど いまおおじしゅん)",
+    "ko" : "이마오오지 슌"
   },
-  "series": {
-    "ko": "스탠드 마이 히어로즈",
-    "ja": "スタンドマイヒーローズ",
-    "en": "Stand My Heroes"
-  },
-  "gsc_productNum": 9247,
-  "price": 5200,
-  "release_date": [
+  "num" : "1287",
+  "price" : 5200,
+  "release_date" : [
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200131/9247/67438/large/20d84c7a52917ad37a38556054bc47f9.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Stand My Heroes",
+    "ja" : "スタンドマイヒーローズ",
+    "ko" : "스탠드 마이 히어로즈"
+  }
 }

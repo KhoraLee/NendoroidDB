@@ -1,20 +1,20 @@
 {
-  "num": "660",
-  "name": {
-    "ko": "무메이",
-    "ja": "ねんどろいど 無名 (ねんどろいど むめい)",
-    "en": "Nendoroid Mumei"
+  "gender" : "F",
+  "gsc_productNum" : 5825,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160727/5825/40294/large/5cb2eefbc2df96fc9fadf290363a82d4.jpg",
+  "name" : {
+    "en" : "Nendoroid Mumei",
+    "ja" : "ねんどろいど 無名 (ねんどろいど むめい)",
+    "ko" : "무메이"
   },
-  "series": {
-    "ko": "갑철성의 카바네리",
-    "ja": "甲鉄城のカバネリ",
-    "en": "Kabaneri of the Iron Fortress"
-  },
-  "gsc_productNum": 5825,
-  "price": 4888,
-  "release_date": [
+  "num" : "660",
+  "price" : 4888,
+  "release_date" : [
     "2016/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160727/5825/40294/large/5cb2eefbc2df96fc9fadf290363a82d4.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Kabaneri of the Iron Fortress",
+    "ja" : "甲鉄城のカバネリ",
+    "ko" : "갑철성의 카바네리"
+  }
 }

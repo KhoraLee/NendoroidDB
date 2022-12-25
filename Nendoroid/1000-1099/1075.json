@@ -1,20 +1,20 @@
 {
-  "num": "1075",
-  "name": {
-    "ko": "미키",
-    "ja": "ねんどろいど 王様（ミッキーマウス） (ねんどろいど おうさま（みっきーまうす）)",
-    "en": "Nendoroid KING MICKEY"
+  "gsc_productNum" : 8000,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190121/8000/57585/large/23b141ec5182e6348d962ff366697924.jpg",
+  "name" : {
+    "en" : "Nendoroid KING MICKEY",
+    "ja" : "ねんどろいど 王様（ミッキーマウス） (ねんどろいど おうさま（みっきーまうす）)",
+    "ko" : "미키"
   },
-  "series": {
-    "ko": "킹덤 하츠 시리즈",
-    "ja": "キングダム ハーツⅡ",
-    "en": "Kingdom Hearts II"
-  },
-  "gsc_productNum": 8000,
-  "price": 5093,
-  "release_date": [
+  "num" : "1075",
+  "price" : 5093,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190121/8000/57585/large/23b141ec5182e6348d962ff366697924.jpg",
-  "set": 206
+  "series" : {
+    "en" : "Kingdom Hearts II",
+    "ja" : "キングダム ハーツⅡ",
+    "ko" : "킹덤 하츠 시리즈"
+  },
+  "set" : 206
 }

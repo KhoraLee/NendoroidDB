@@ -1,20 +1,20 @@
 {
-  "num": "023",
-  "name": {
-    "ko": "타치코마 실버",
-    "ja": "ねんどろいど タチコマンズ・シルバー (ねんどろいど たちこまんず・しるばー)",
-    "en": "Nendoroid Tachikomans - Silver version (ねんどろいど たちこまんず・しるばー)"
+  "gsc_productNum" : 635,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/635/977/large/730750b71583d74e8b1aaf29f851f0f1.jpg",
+  "name" : {
+    "en" : "Nendoroid Tachikomans - Silver version (ねんどろいど たちこまんず・しるばー)",
+    "ja" : "ねんどろいど タチコマンズ・シルバー (ねんどろいど たちこまんず・しるばー)",
+    "ko" : "타치코마 실버"
   },
-  "series": {
-    "ko": "공각기동대",
-    "ja": "攻殻機動隊S.A.C.",
-    "en": "Ghost in The Shell S.A.C"
-  },
-  "gsc_productNum": 635,
-  "price": 4190,
-  "release_date": [
+  "num" : "023",
+  "price" : 4190,
+  "release_date" : [
     "2011/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/635/977/large/730750b71583d74e8b1aaf29f851f0f1.jpg",
-  "set": 6
+  "series" : {
+    "en" : "Ghost in The Shell S.A.C",
+    "ja" : "攻殻機動隊S.A.C.",
+    "ko" : "공각기동대"
+  },
+  "set" : 6
 }

@@ -1,21 +1,21 @@
 {
-  "num": "045",
-  "name": {
-    "ko": "노우가미 네우로",
-    "ja": "ねんどろいど 脳噛ネウロ (ねうろねんどろいど)",
-    "en": "Nendoroid Neuro Nougami (ねうろねんどろいど)"
+  "gender" : "M",
+  "gsc_productNum" : 264,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/264/5327/large/582eba06271a7c77d1d512d23536415d.jpg",
+  "name" : {
+    "en" : "Nendoroid Neuro Nougami (ねうろねんどろいど)",
+    "ja" : "ねんどろいど 脳噛ネウロ (ねうろねんどろいど)",
+    "ko" : "노우가미 네우로"
   },
-  "series": {
-    "ko": "마인탐정 네우로",
-    "ja": "魔人探偵脳噛ネウロ",
-    "en": "Demon Detective Neuro Nougami"
-  },
-  "gsc_productNum": 264,
-  "price": 3667,
-  "release_date": [
+  "num" : "045",
+  "price" : 3667,
+  "release_date" : [
     "2008/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/264/5327/large/582eba06271a7c77d1d512d23536415d.jpg",
-  "gender": "M",
-  "set": 12
+  "series" : {
+    "en" : "Demon Detective Neuro Nougami",
+    "ja" : "魔人探偵脳噛ネウロ",
+    "ko" : "마인탐정 네우로"
+  },
+  "set" : 12
 }

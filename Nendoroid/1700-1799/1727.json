@@ -1,21 +1,21 @@
 {
-  "num": "1727",
-  "name": {
-    "ko": "아리카와 윤",
-    "ja": "ねんどろいど 有川ユン (ねんどろいど ありかわゆん)",
-    "en": "Nendoroid Yun Arikawa"
+  "gender" : "M",
+  "gsc_productNum" : 11879,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211007/11879/90794/large/a05471a71bcd708a351ce88efb14c49f.jpg",
+  "name" : {
+    "en" : "Nendoroid Yun Arikawa",
+    "ja" : "ねんどろいど 有川ユン (ねんどろいど ありかわゆん)",
+    "ko" : "아리카와 윤"
   },
-  "series": {
-    "ko": "고질라: 싱귤러 포인트",
-    "ja": "ゴジラS.P＜シンギュラポイント＞",
-    "en": "Godzilla Singular Point"
-  },
-  "gsc_productNum": 11879,
-  "price": 6400,
-  "release_date": [
+  "num" : "1727",
+  "price" : 6400,
+  "release_date" : [
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211007/11879/90794/large/a05471a71bcd708a351ce88efb14c49f.jpg",
-  "gender": "M",
-  "set": 272
+  "series" : {
+    "en" : "Godzilla Singular Point",
+    "ja" : "ゴジラS.P＜シンギュラポイント＞",
+    "ko" : "고질라: 싱귤러 포인트"
+  },
+  "set" : 272
 }

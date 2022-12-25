@@ -1,20 +1,20 @@
 {
-  "num": "1670",
-  "name": {
-    "ko": "요이고시 타츠야",
-    "ja": "ねんどろいど 宵越竜哉 (ねんどろいど よいごしたつや)",
-    "en": "Nendoroid Tatsuya Yoigoshi"
+  "gender" : "M",
+  "gsc_productNum" : 11459,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210705/11459/86957/large/19441b96ca8082b72a707a4a8f71a9f1.jpg",
+  "name" : {
+    "en" : "Nendoroid Tatsuya Yoigoshi",
+    "ja" : "ねんどろいど 宵越竜哉 (ねんどろいど よいごしたつや)",
+    "ko" : "요이고시 타츠야"
   },
-  "series": {
-    "ko": "작열 카바디",
-    "ja": "灼熱カバディ",
-    "en": "Shakunetsu Kabaddi"
-  },
-  "gsc_productNum": 11459,
-  "price": 5500,
-  "release_date": [
+  "num" : "1670",
+  "price" : 5500,
+  "release_date" : [
     "2022/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210705/11459/86957/large/19441b96ca8082b72a707a4a8f71a9f1.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Shakunetsu Kabaddi",
+    "ja" : "灼熱カバディ",
+    "ko" : "작열 카바디"
+  }
 }

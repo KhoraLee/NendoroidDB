@@ -1,22 +1,22 @@
 {
-  "num": "209",
-  "name": {
-    "ko": "미키 사야카",
-    "ja": "ねんどろいど 美樹さやか (ねんどろいど みきさやか)",
-    "en": "Nendoroid Sayaka Miki (ねんどろいど みきさやか)"
+  "gender" : "F",
+  "gsc_productNum" : 3343,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111108/3343/16119/large/1c95f490c38198d11beb873278ed0254.jpg",
+  "name" : {
+    "en" : "Nendoroid Sayaka Miki (ねんどろいど みきさやか)",
+    "ja" : "ねんどろいど 美樹さやか (ねんどろいど みきさやか)",
+    "ko" : "미키 사야카"
   },
-  "series": {
-    "ko": "마법소녀 마도카 마기카",
-    "ja": "魔法少女まどか☆マギカ",
-    "en": "Puella Magi Madoka Magica"
-  },
-  "gsc_productNum": 3343,
-  "price": 3667,
-  "release_date": [
+  "num" : "209",
+  "price" : 3667,
+  "release_date" : [
     "2012/04",
     "2013/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111108/3343/16119/large/1c95f490c38198d11beb873278ed0254.jpg",
-  "gender": "F",
-  "set": 46
+  "series" : {
+    "en" : "Puella Magi Madoka Magica",
+    "ja" : "魔法少女まどか☆マギカ",
+    "ko" : "마법소녀 마도카 마기카"
+  },
+  "set" : 46
 }

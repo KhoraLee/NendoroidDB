@@ -1,21 +1,21 @@
 {
-  "num": "1282-DX",
-  "name": {
-    "ko": "샘 포터 브리지스 전설의 배달부 Ver.",
-    "ja": "ねんどろいど サム・ポーター・ブリッジズ 伝説の配達人 Ver. (ねんどろいど さむ・ぽーたー・ぶりっじず でんせつのはいたつにん Ver.)",
-    "en": "Nendoroid Sam Porter Bridges: Great Deliverer Ver."
+  "gender" : "M",
+  "gsc_productNum" : 9245,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200131/9245/67473/large/1c50ba72fbf05244767aa93e63e42025.jpg",
+  "name" : {
+    "en" : "Nendoroid Sam Porter Bridges: Great Deliverer Ver.",
+    "ja" : "ねんどろいど サム・ポーター・ブリッジズ 伝説の配達人 Ver. (ねんどろいど さむ・ぽーたー・ぶりっじず でんせつのはいたつにん Ver.)",
+    "ko" : "샘 포터 브리지스 전설의 배달부 Ver."
   },
-  "series": {
-    "ko": "데스 스트랜딩",
-    "ja": "デス・ストランディング",
-    "en": "DEATH STRANDING"
-  },
-  "gsc_productNum": 9245,
-  "price": 8800,
-  "release_date": [
+  "num" : "1282-DX",
+  "price" : 8800,
+  "release_date" : [
     "2020/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200131/9245/67473/large/1c50ba72fbf05244767aa93e63e42025.jpg",
-  "gender": "M",
-  "set": 232
+  "series" : {
+    "en" : "DEATH STRANDING",
+    "ja" : "デス・ストランディング",
+    "ko" : "데스 스트랜딩"
+  },
+  "set" : 232
 }

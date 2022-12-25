@@ -1,20 +1,20 @@
 {
-  "num": "1078",
-  "name": {
-    "ko": "유리 로웰",
-    "ja": "ねんどろいど ユーリ・ローウェル (ねんどろいど ゆーり・ろーうぇる)",
-    "en": "Nendoroid Yuri Lowell"
+  "gender" : "M",
+  "gsc_productNum" : 8047,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190131/8047/57868/large/656e1d17536236f5101b380fc688e848.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuri Lowell",
+    "ja" : "ねんどろいど ユーリ・ローウェル (ねんどろいど ゆーり・ろーうぇる)",
+    "ko" : "유리 로웰"
   },
-  "series": {
-    "ko": "테일즈 오브 베스페리아",
-    "ja": "テイルズ オブ ヴェスペリア",
-    "en": "Tales of Vesperia"
-  },
-  "gsc_productNum": 8047,
-  "price": 4888,
-  "release_date": [
+  "num" : "1078",
+  "price" : 4888,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190131/8047/57868/large/656e1d17536236f5101b380fc688e848.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Tales of Vesperia",
+    "ja" : "テイルズ オブ ヴェスペリア",
+    "ko" : "테일즈 오브 베스페리아"
+  }
 }

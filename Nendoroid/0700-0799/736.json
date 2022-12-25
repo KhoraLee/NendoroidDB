@@ -1,21 +1,21 @@
 {
-  "num": "736",
-  "name": {
-    "ko": "카츠키 유리",
-    "ja": "ねんどろいど 勝生勇利 (ねんどろいど かつきゆうり)",
-    "en": "Nendoroid Yuri Katsuki"
+  "gender" : "M",
+  "gsc_productNum" : 6231,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170201/6231/43657/large/aab26a8454529844ea88ebb0d1eec20f.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuri Katsuki",
+    "ja" : "ねんどろいど 勝生勇利 (ねんどろいど かつきゆうり)",
+    "ko" : "카츠키 유리"
   },
-  "series": {
-    "ko": "유리!!! On ICE",
-    "ja": "ユーリ!!! on ICE",
-    "en": "YURI ON ICE"
-  },
-  "gsc_productNum": 6231,
-  "price": 4584,
-  "release_date": [
+  "num" : "736",
+  "price" : 4584,
+  "release_date" : [
     "2017/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170201/6231/43657/large/aab26a8454529844ea88ebb0d1eec20f.jpg",
-  "gender": "M",
-  "set": 151
+  "series" : {
+    "en" : "YURI ON ICE",
+    "ja" : "ユーリ!!! on ICE",
+    "ko" : "유리!!! On ICE"
+  },
+  "set" : 151
 }

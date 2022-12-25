@@ -1,21 +1,21 @@
 {
-  "num": "1047",
-  "name": {
-    "ko": "버즈 라이트이어",
-    "ja": "ねんどろいど バズ・ライトイヤー スタンダードVer. (ねんどろいど ばず・らいといやー すたんだーどVer.)",
-    "en": "Nendoroid Buzz Lightyear: Standard Ver."
+  "gender" : "M",
+  "gsc_productNum" : 7882,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181207/7882/56587/large/a4588e7e025c6e55234723dfcb243a05.jpg",
+  "name" : {
+    "en" : "Nendoroid Buzz Lightyear: Standard Ver.",
+    "ja" : "ねんどろいど バズ・ライトイヤー スタンダードVer. (ねんどろいど ばず・らいといやー すたんだーどVer.)",
+    "ko" : "버즈 라이트이어"
   },
-  "series": {
-    "ko": "토이 스토리",
-    "ja": "トイ・ストーリー",
-    "en": "Toy Story"
-  },
-  "gsc_productNum": 7882,
-  "price": 4991,
-  "release_date": [
+  "num" : "1047",
+  "price" : 4991,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181207/7882/56587/large/a4588e7e025c6e55234723dfcb243a05.jpg",
-  "gender": "M",
-  "set": 32
+  "series" : {
+    "en" : "Toy Story",
+    "ja" : "トイ・ストーリー",
+    "ko" : "토이 스토리"
+  },
+  "set" : 32
 }

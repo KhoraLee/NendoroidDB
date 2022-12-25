@@ -1,20 +1,20 @@
 {
-  "num": "1725",
-  "name": {
-    "ko": "리시아 엘프리덴",
-    "ja": "ねんどろいど リーシア・エルフリーデン (ねんどろいど りーしあ・えるふりーでん)",
-    "en": "Nendoroid Liscia Elfrieden"
+  "gender" : "F",
+  "gsc_productNum" : 11723,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210831/11723/90492/large/91db9277d19fa9c1761b4cac13b371b9.jpg",
+  "name" : {
+    "en" : "Nendoroid Liscia Elfrieden",
+    "ja" : "ねんどろいど リーシア・エルフリーデン (ねんどろいど りーしあ・えるふりーでん)",
+    "ko" : "리시아 엘프리덴"
   },
-  "series": {
-    "ko": "현실주의 용사의 왕국 재건기",
-    "ja": "現実主義勇者の王国再建記",
-    "en": "How a Realist Hero Rebuilt the Kingdom"
-  },
-  "gsc_productNum": 11723,
-  "price": 5900,
-  "release_date": [
+  "num" : "1725",
+  "price" : 5900,
+  "release_date" : [
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210831/11723/90492/large/91db9277d19fa9c1761b4cac13b371b9.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "How a Realist Hero Rebuilt the Kingdom",
+    "ja" : "現実主義勇者の王国再建記",
+    "ko" : "현실주의 용사의 왕국 재건기"
+  }
 }

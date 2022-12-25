@@ -1,22 +1,22 @@
 {
-  "num": "826",
-  "name": {
-    "ko": "융융",
-    "ja": "ねんどろいど ゆんゆん",
-    "en": "Nendoroid Yunyun"
+  "gender" : "F",
+  "gsc_productNum" : 6720,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170913/6720/47618/large/545426339f9ef89fe73bfc7f29450472.jpg",
+  "name" : {
+    "en" : "Nendoroid Yunyun",
+    "ja" : "ねんどろいど ゆんゆん",
+    "ko" : "융융"
   },
-  "series": {
-    "ko": "이 멋진 세계에 축복을!",
-    "ja": "この素晴らしい世界に祝福を！2",
-    "en": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 2"
-  },
-  "gsc_productNum": 6720,
-  "price": 5900,
-  "release_date": [
+  "num" : "826",
+  "price" : 5900,
+  "release_date" : [
     "2018/05",
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170913/6720/47618/large/545426339f9ef89fe73bfc7f29450472.jpg",
-  "gender": "F",
-  "set": 132
+  "series" : {
+    "en" : "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 2",
+    "ja" : "この素晴らしい世界に祝福を！2",
+    "ko" : "이 멋진 세계에 축복을!"
+  },
+  "set" : 132
 }

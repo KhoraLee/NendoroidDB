@@ -1,21 +1,21 @@
 {
-  "num": "388",
-  "name": {
-    "ko": "타이요 아카리",
-    "ja": "ねんどろいど 太陽あかり (ねんどろいど たいようあかり)",
-    "en": "Nendoroid Akari Taiyo (ねんどろいど たいようあかり)"
+  "gender" : "F",
+  "gsc_productNum" : 4141,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131202/4141/27262/large/14830e676ce89338342def9d12cc7973.jpg",
+  "name" : {
+    "en" : "Nendoroid Akari Taiyo (ねんどろいど たいようあかり)",
+    "ja" : "ねんどろいど 太陽あかり (ねんどろいど たいようあかり)",
+    "ko" : "타이요 아카리"
   },
-  "series": {
-    "ko": "환영을 달리는 태양",
-    "ja": "幻影ヲ駆ケル太陽",
-    "en": "Day Break Illusion"
-  },
-  "gsc_productNum": 4141,
-  "price": 4278,
-  "release_date": [
+  "num" : "388",
+  "price" : 4278,
+  "release_date" : [
     "2014/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20131202/4141/27262/large/14830e676ce89338342def9d12cc7973.jpg",
-  "gender": "F",
-  "set": 91
+  "series" : {
+    "en" : "Day Break Illusion",
+    "ja" : "幻影ヲ駆ケル太陽",
+    "ko" : "환영을 달리는 태양"
+  },
+  "set" : 91
 }

@@ -1,21 +1,21 @@
 {
-  "num": "769",
-  "name": {
-    "ko": "카가미네 렌 중추명월 Ver.",
-    "ja": "ねんどろいど 鏡音レン 中秋明月Ver. (ねんどろいど かがみねれん ちゅうしゅうめいげつVer.)",
-    "en": "Nendoroid Kagamine Len: Harvest Moon Ver."
+  "gender" : "M",
+  "gsc_productNum" : 6415,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170425/6415/45182/large/ee4bb518f535f9db93a3ce24058c9cc2.jpg",
+  "name" : {
+    "en" : "Nendoroid Kagamine Len: Harvest Moon Ver.",
+    "ja" : "ねんどろいど 鏡音レン 中秋明月Ver. (ねんどろいど かがみねれん ちゅうしゅうめいげつVer.)",
+    "ko" : "카가미네 렌 중추명월 Ver."
   },
-  "series": {
-    "ko": "보컬로이드(VOCALOID)",
-    "ja": "キャラクター・ボーカル・シリーズ02 鏡音リン・レン",
-    "en": "Character Vocal Series 02: Kagamine Rin/Len"
-  },
-  "gsc_productNum": 6415,
-  "price": 4074,
-  "release_date": [
+  "num" : "769",
+  "price" : 4074,
+  "release_date" : [
     "2017/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170425/6415/45182/large/ee4bb518f535f9db93a3ce24058c9cc2.jpg",
-  "gender": "M",
-  "set": 11
+  "series" : {
+    "en" : "Character Vocal Series 02: Kagamine Rin/Len",
+    "ja" : "キャラクター・ボーカル・シリーズ02 鏡音リン・レン",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 11
 }

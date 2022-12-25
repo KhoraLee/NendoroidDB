@@ -1,20 +1,20 @@
 {
-  "num": "1405",
-  "name": {
-    "ko": "후유사카 이오리",
-    "ja": "ねんどろいど 冬坂五百里 (ねんどろいど ふゆさかいおり)",
-    "en": "Nendoroid Iori Fuyusaka"
+  "gender" : "F",
+  "gsc_productNum" : 9802,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200720/9802/72200/large/ddc4071e0dcd0f2e85eef3de63a7fdd2.jpg",
+  "name" : {
+    "en" : "Nendoroid Iori Fuyusaka",
+    "ja" : "ねんどろいど 冬坂五百里 (ねんどろいど ふゆさかいおり)",
+    "ko" : "후유사카 이오리"
   },
-  "series": {
-    "ko": "13기병방위권",
-    "ja": "十三機兵防衛圏",
-    "en": "13 Sentinels: Aegis Rim"
-  },
-  "gsc_productNum": 9802,
-  "price": 5500,
-  "release_date": [
+  "num" : "1405",
+  "price" : 5500,
+  "release_date" : [
     "2020/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200720/9802/72200/large/ddc4071e0dcd0f2e85eef3de63a7fdd2.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "13 Sentinels: Aegis Rim",
+    "ja" : "十三機兵防衛圏",
+    "ko" : "13기병방위권"
+  }
 }

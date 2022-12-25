@@ -1,21 +1,21 @@
 {
-  "num": "1138",
-  "name": {
-    "ko": "키리토 상급수검사 Ver.",
-    "ja": "ねんどろいど キリト 上級修剣士Ver. (ねんどろいど きりと じょうきゅうしゅうけんしVer.)",
-    "en": "Nendoroid Kirito: Elite Disciple Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8346,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190521/8346/60296/large/cc5565ddd8ed15f79711694d1ad63dd4.jpg",
+  "name" : {
+    "en" : "Nendoroid Kirito: Elite Disciple Ver.",
+    "ja" : "ねんどろいど キリト 上級修剣士Ver. (ねんどろいど きりと じょうきゅうしゅうけんしVer.)",
+    "ko" : "키리토 상급수검사 Ver."
   },
-  "series": {
-    "ko": "소드 아트 온라인",
-    "ja": "ソードアート・オンライン アリシゼーション",
-    "en": "Sword Art Online: Alicization"
-  },
-  "gsc_productNum": 8346,
-  "price": 5000,
-  "release_date": [
+  "num" : "1138",
+  "price" : 5000,
+  "release_date" : [
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190521/8346/60296/large/cc5565ddd8ed15f79711694d1ad63dd4.jpg",
-  "gender": "M",
-  "set": 70
+  "series" : {
+    "en" : "Sword Art Online: Alicization",
+    "ja" : "ソードアート・オンライン アリシゼーション",
+    "ko" : "소드 아트 온라인"
+  },
+  "set" : 70
 }

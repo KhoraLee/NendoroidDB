@@ -1,21 +1,21 @@
 {
-  "num": "1826",
-  "name": {
-    "ko": "샌즈",
-    "ja": "ねんどろいど サンズ (ねんどろいど さんず)",
-    "en": "Nendoroid sans"
+  "gender" : "M",
+  "gsc_productNum" : 12411,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220301/12411/96011/large/5f51e42f5176c3f12b174234bb3a523d.jpg",
+  "name" : {
+    "en" : "Nendoroid sans",
+    "ja" : "ねんどろいど サンズ (ねんどろいど さんず)",
+    "ko" : "샌즈"
   },
-  "series": {
-    "ko": "언더테일",
-    "ja": "UNDERTALE",
-    "en": "UNDERTALE"
-  },
-  "gsc_productNum": 12411,
-  "price": 5500,
-  "release_date": [
+  "num" : "1826",
+  "price" : 5500,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220301/12411/96011/large/5f51e42f5176c3f12b174234bb3a523d.jpg",
-  "gender": "M",
-  "set": 286
+  "series" : {
+    "en" : "UNDERTALE",
+    "ja" : "UNDERTALE",
+    "ko" : "언더테일"
+  },
+  "set" : 286
 }

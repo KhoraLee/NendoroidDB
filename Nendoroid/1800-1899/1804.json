@@ -1,21 +1,21 @@
 {
-  "num": "1804",
-  "name": {
-    "ko": "제이홉",
-    "ja": "ねんどろいど j-hope",
-    "en": "Nendoroid j-hope"
+  "gender" : "M",
+  "gsc_productNum" : 12185,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211227/12185/93848/large/27c1ae620e278389bef8853a92814716.jpg",
+  "name" : {
+    "en" : "Nendoroid j-hope",
+    "ja" : "ねんどろいど j-hope",
+    "ko" : "제이홉"
   },
-  "series": {
-    "ko": "방탄소년단",
-    "ja": "TinyTAN",
-    "en": "TinyTAN"
-  },
-  "gsc_productNum": 12185,
-  "price": 5000,
-  "release_date": [
+  "num" : "1804",
+  "price" : 5000,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211227/12185/93848/large/27c1ae620e278389bef8853a92814716.jpg",
-  "gender": "M",
-  "set": 282
+  "series" : {
+    "en" : "TinyTAN",
+    "ja" : "TinyTAN",
+    "ko" : "방탄소년단"
+  },
+  "set" : 282
 }

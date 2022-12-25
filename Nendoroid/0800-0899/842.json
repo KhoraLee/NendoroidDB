@@ -1,22 +1,22 @@
 {
-  "num": "842",
-  "name": {
-    "ko": "세이버/아서 펜드래건[프로토타입]",
-    "ja": "ねんどろいど セイバー/アーサー・ペンドラゴン〔プロトタイプ〕 (ねんどろいど せいばー/あーさー・ぺんどらごん〔ぷろとたいぷ〕)",
-    "en": "Nendoroid Saber/Arthur Pendragon (Prototype)"
+  "gender" : "M",
+  "gsc_productNum" : 6843,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171102/6843/48548/large/39fc1954839f1134cf2f0d9300b378e2.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber/Arthur Pendragon (Prototype)",
+    "ja" : "ねんどろいど セイバー/アーサー・ペンドラゴン〔プロトタイプ〕 (ねんどろいど せいばー/あーさー・ぺんどらごん〔ぷろとたいぷ〕)",
+    "ko" : "세이버/아서 펜드래건[프로토타입]"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 6843,
-  "price": 4600,
-  "release_date": [
+  "num" : "842",
+  "price" : 4600,
+  "release_date" : [
     "2018/05",
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171102/6843/48548/large/39fc1954839f1134cf2f0d9300b378e2.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

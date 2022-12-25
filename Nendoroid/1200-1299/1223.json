@@ -1,21 +1,21 @@
 {
-  "num": "1223",
-  "name": {
-    "ko": "아메무라 라무다",
-    "ja": "ねんどろいど 飴村乱数 (ねんどろいど あめむららむだ)",
-    "en": "Nendoroid Ramuda Amemura"
+  "gender" : "M",
+  "gsc_productNum" : 8873,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191004/8873/64338/large/7d0397fdf65c901896a4fd9e931c51ff.jpg",
+  "name" : {
+    "en" : "Nendoroid Ramuda Amemura",
+    "ja" : "ねんどろいど 飴村乱数 (ねんどろいど あめむららむだ)",
+    "ko" : "아메무라 라무다"
   },
-  "series": {
-    "ko": "히프노시스 마이크",
-    "ja": "ヒプノシスマイク -Division Rap Battle-",
-    "en": "Hypnosis Mic -Division Rap Battle-"
-  },
-  "gsc_productNum": 8873,
-  "price": 6050,
-  "release_date": [
+  "num" : "1223",
+  "price" : 6050,
+  "release_date" : [
     "2020/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191004/8873/64338/large/7d0397fdf65c901896a4fd9e931c51ff.jpg",
-  "gender": "M",
-  "set": 225
+  "series" : {
+    "en" : "Hypnosis Mic -Division Rap Battle-",
+    "ja" : "ヒプノシスマイク -Division Rap Battle-",
+    "ko" : "히프노시스 마이크"
+  },
+  "set" : 225
 }

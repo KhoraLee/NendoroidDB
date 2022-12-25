@@ -1,21 +1,21 @@
 {
-  "num": "1040",
-  "name": {
-    "ko": "키노모토 사쿠라 CLEAR Ver.",
-    "ja": "ねんどろいど 木之本桜 CLEAR Ver. (ねんどろいど きのもとさくら くりあ Ver.)",
-    "en": "Nendoroid Sakura Kinomoto: CLEAR Ver."
+  "gender" : "F",
+  "gsc_productNum" : 7845,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181127/7845/56298/large/fb3f7b23b321f75b9accfe16ed73f693.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Kinomoto: CLEAR Ver.",
+    "ja" : "ねんどろいど 木之本桜 CLEAR Ver. (ねんどろいど きのもとさくら くりあ Ver.)",
+    "ko" : "키노모토 사쿠라 CLEAR Ver."
   },
-  "series": {
-    "ko": "카드캡터 사쿠라",
-    "ja": "カードキャプターさくら クリアカード編",
-    "en": "Cardcaptor Sakura: Clear Card"
-  },
-  "gsc_productNum": 7845,
-  "price": 5093,
-  "release_date": [
+  "num" : "1040",
+  "price" : 5093,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181127/7845/56298/large/fb3f7b23b321f75b9accfe16ed73f693.jpg",
-  "gender": "F",
-  "set": 94
+  "series" : {
+    "en" : "Cardcaptor Sakura: Clear Card",
+    "ja" : "カードキャプターさくら クリアカード編",
+    "ko" : "카드캡터 사쿠라"
+  },
+  "set" : 94
 }

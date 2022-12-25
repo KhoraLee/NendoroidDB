@@ -1,21 +1,21 @@
 {
-  "num": "1015",
-  "name": {
-    "ko": "호네바미 토시로",
-    "ja": "ねんどろいど 骨喰藤四郎 (ねんどろいど ほねばみとうしろう)",
-    "en": "Nendoroid Honebami Toshiro"
+  "gender" : "M",
+  "gsc_productNum" : 7686,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181011/7686/55161/large/b9d47a8133c1d4fd41269236cb27adab.jpg",
+  "name" : {
+    "en" : "Nendoroid Honebami Toshiro",
+    "ja" : "ねんどろいど 骨喰藤四郎 (ねんどろいど ほねばみとうしろう)",
+    "ko" : "호네바미 토시로"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 7686,
-  "price": 4787,
-  "release_date": [
+  "num" : "1015",
+  "price" : 4787,
+  "release_date" : [
     "2019/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181011/7686/55161/large/b9d47a8133c1d4fd41269236cb27adab.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

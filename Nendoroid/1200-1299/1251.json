@@ -1,21 +1,21 @@
 {
-  "num": "1251",
-  "name": {
-    "ko": "나츠키 스바루",
-    "ja": "ねんどろいど ナツキ・スバル (ねんどろいど なつき・すばる)",
-    "en": "Nendoroid Subaru Natsuki"
+  "gender" : "M",
+  "gsc_productNum" : 9051,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191204/9051/65753/large/3f5e00194d260bffc5dec24ef273422f.jpg",
+  "name" : {
+    "en" : "Nendoroid Subaru Natsuki",
+    "ja" : "ねんどろいど ナツキ・スバル (ねんどろいど なつき・すばる)",
+    "ko" : "나츠키 스바루"
   },
-  "series": {
-    "ko": "Re: 제로부터 시작하는 이세계 생활",
-    "ja": "Re:ゼロから始める異世界生活",
-    "en": "Re:ZERO -Starting Life in Another World-"
-  },
-  "gsc_productNum": 9051,
-  "price": 5000,
-  "release_date": [
+  "num" : "1251",
+  "price" : 5000,
+  "release_date" : [
     "2020/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191204/9051/65753/large/3f5e00194d260bffc5dec24ef273422f.jpg",
-  "gender": "M",
-  "set": 138
+  "series" : {
+    "en" : "Re:ZERO -Starting Life in Another World-",
+    "ja" : "Re:ゼロから始める異世界生活",
+    "ko" : "Re: 제로부터 시작하는 이세계 생활"
+  },
+  "set" : 138
 }

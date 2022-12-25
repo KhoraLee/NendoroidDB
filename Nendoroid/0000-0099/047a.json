@@ -1,21 +1,21 @@
 {
-  "num": "047a",
-  "name": {
-    "ko": "샤나 염발작안 Ver.",
-    "ja": "ねんどろいど シャナ 炎髪灼眼 Ver. (しゃな えんぱつしゃくがんばーじょん ねんどろいど)",
-    "en": "Nendoroid Shana: Burning Hair and Eyes Ver. (しゃな えんぱつしゃくがんばーじょん ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 259,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/259/5284/large/ca536c1510751dfa6c1ac7cbe75968be.jpg",
+  "name" : {
+    "en" : "Nendoroid Shana: Burning Hair and Eyes Ver. (しゃな えんぱつしゃくがんばーじょん ねんどろいど)",
+    "ja" : "ねんどろいど シャナ 炎髪灼眼 Ver. (しゃな えんぱつしゃくがんばーじょん ねんどろいど)",
+    "ko" : "샤나 염발작안 Ver."
   },
-  "series": {
-    "ko": "작안의 샤나",
-    "ja": "灼眼のシャナⅡ",
-    "en": "Shakugan no Shana II"
-  },
-  "gsc_productNum": 259,
-  "price": 3667,
-  "release_date": [
+  "num" : "047a",
+  "price" : 3667,
+  "release_date" : [
     "2008/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/259/5284/large/ca536c1510751dfa6c1ac7cbe75968be.jpg",
-  "gender": "F",
-  "set": 13
+  "series" : {
+    "en" : "Shakugan no Shana II",
+    "ja" : "灼眼のシャナⅡ",
+    "ko" : "작안의 샤나"
+  },
+  "set" : 13
 }

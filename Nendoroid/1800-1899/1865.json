@@ -1,21 +1,21 @@
 {
-  "num": "1865",
-  "name": {
-    "ko": "시마 린 삼륜 바이크 Ver.",
-    "ja": "ねんどろいど 志摩リン 三輪バイクVer. (ねんどろいど しまりん さんりんばいくVer.)",
-    "en": "Nendoroid Rin Shima: Three Wheels Ver."
+  "gender" : "F",
+  "gsc_productNum" : 12566,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220412/12566/97478/large/5d2ed8c84b1f0a0630f30fda2a8597fe.jpg",
+  "name" : {
+    "en" : "Nendoroid Rin Shima: Three Wheels Ver.",
+    "ja" : "ねんどろいど 志摩リン 三輪バイクVer. (ねんどろいど しまりん さんりんばいくVer.)",
+    "ko" : "시마 린 삼륜 바이크 Ver."
   },
-  "series": {
-    "ko": "유루캠△",
-    "ja": "ゆるキャン△",
-    "en": "Laid-Back Camp"
-  },
-  "gsc_productNum": 12566,
-  "price": 7800,
-  "release_date": [
+  "num" : "1865",
+  "price" : 7800,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220412/12566/97478/large/5d2ed8c84b1f0a0630f30fda2a8597fe.jpg",
-  "gender": "F",
-  "set": 173
+  "series" : {
+    "en" : "Laid-Back Camp",
+    "ja" : "ゆるキャン△",
+    "ko" : "유루캠△"
+  },
+  "set" : 173
 }

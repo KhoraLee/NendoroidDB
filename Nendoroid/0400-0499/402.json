@@ -1,21 +1,21 @@
 {
-  "num": "402",
-  "name": {
-    "ko": "BLACK★GOLD SAW",
-    "ja": "ねんどろいど ブラックゴールドソー TV ANIMATION Ver. (ねんどろいど ぶらっくごーるどそー てれび あにめーしょん Ver.)",
-    "en": "Nendoroid Black Gold Saw: TV ANIMATION Ver. (ねんどろいど ぶらっくごーるどそー てれび あにめーしょん Ver.)"
+  "gender" : "F",
+  "gsc_productNum" : 4241,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140226/4241/28044/large/a5683c274c81b9fcb52b58c9d818240f.jpg",
+  "name" : {
+    "en" : "Nendoroid Black Gold Saw: TV ANIMATION Ver. (ねんどろいど ぶらっくごーるどそー てれび あにめーしょん Ver.)",
+    "ja" : "ねんどろいど ブラックゴールドソー TV ANIMATION Ver. (ねんどろいど ぶらっくごーるどそー てれび あにめーしょん Ver.)",
+    "ko" : "BLACK★GOLD SAW"
   },
-  "series": {
-    "ko": "BLACK★ROCK SHOOTER",
-    "ja": "TV ANIMATION BLACK ROCK SHOOTER",
-    "en": "TV ANIMATION BLACK ROCK SHOOTER"
-  },
-  "gsc_productNum": 4241,
-  "price": 4278,
-  "release_date": [
+  "num" : "402",
+  "price" : 4278,
+  "release_date" : [
     "2014/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140226/4241/28044/large/a5683c274c81b9fcb52b58c9d818240f.jpg",
-  "gender": "F",
-  "set": 33
+  "series" : {
+    "en" : "TV ANIMATION BLACK ROCK SHOOTER",
+    "ja" : "TV ANIMATION BLACK ROCK SHOOTER",
+    "ko" : "BLACK★ROCK SHOOTER"
+  },
+  "set" : 33
 }

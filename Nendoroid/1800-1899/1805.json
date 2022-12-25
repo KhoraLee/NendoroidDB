@@ -1,21 +1,21 @@
 {
-  "num": "1805",
-  "name": {
-    "ko": "지민",
-    "ja": "ねんどろいど Jimin",
-    "en": "Nendoroid Jimin"
+  "gender" : "M",
+  "gsc_productNum" : 12186,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211227/12186/93857/large/d676372b7573ba2ab9b2b56b118677ec.jpg",
+  "name" : {
+    "en" : "Nendoroid Jimin",
+    "ja" : "ねんどろいど Jimin",
+    "ko" : "지민"
   },
-  "series": {
-    "ko": "방탄소년단",
-    "ja": "TinyTAN",
-    "en": "TinyTAN"
-  },
-  "gsc_productNum": 12186,
-  "price": 5000,
-  "release_date": [
+  "num" : "1805",
+  "price" : 5000,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211227/12186/93857/large/d676372b7573ba2ab9b2b56b118677ec.jpg",
-  "gender": "M",
-  "set": 282
+  "series" : {
+    "en" : "TinyTAN",
+    "ja" : "TinyTAN",
+    "ko" : "방탄소년단"
+  },
+  "set" : 282
 }

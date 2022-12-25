@@ -1,22 +1,22 @@
 {
-  "num": "726",
-  "name": {
-    "ko": "카일로 렌",
-    "ja": "ねんどろいど カイロ・レン (ねんどろいど かいろ・れん)",
-    "en": "Nendoroid Kylo Ren"
+  "gender" : "M",
+  "gsc_productNum" : 6182,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170117/6182/43251/large/578b991ebee980d680ba243f081271e9.jpg",
+  "name" : {
+    "en" : "Nendoroid Kylo Ren",
+    "ja" : "ねんどろいど カイロ・レン (ねんどろいど かいろ・れん)",
+    "ko" : "카일로 렌"
   },
-  "series": {
-    "ko": "스타워즈",
-    "ja": "スター・ウォーズ／フォースの覚醒",
-    "en": "Star Wars: The Force Awakens"
-  },
-  "gsc_productNum": 6182,
-  "price": 5602,
-  "release_date": [
+  "num" : "726",
+  "price" : 5602,
+  "release_date" : [
     "2017/06",
     "2018/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170117/6182/43251/large/578b991ebee980d680ba243f081271e9.jpg",
-  "gender": "M",
-  "set": 115
+  "series" : {
+    "en" : "Star Wars: The Force Awakens",
+    "ja" : "スター・ウォーズ／フォースの覚醒",
+    "ko" : "스타워즈"
+  },
+  "set" : 115
 }

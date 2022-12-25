@@ -1,21 +1,21 @@
 {
-  "num": "1147",
-  "name": {
-    "ko": "무츠노카미 요시유키",
-    "ja": "ねんどろいど 陸奥守吉行 (ねんどろいど むつのかみよしゆき)",
-    "en": "Nendoroid Mutsunokami Yoshiyuki"
+  "gender" : "M",
+  "gsc_productNum" : 8433,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190614/8433/61007/large/9b00cda71a7b7af6edee89175cc8fb81.jpg",
+  "name" : {
+    "en" : "Nendoroid Mutsunokami Yoshiyuki",
+    "ja" : "ねんどろいど 陸奥守吉行 (ねんどろいど むつのかみよしゆき)",
+    "ko" : "무츠노카미 요시유키"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 8433,
-  "price": 4800,
-  "release_date": [
+  "num" : "1147",
+  "price" : 4800,
+  "release_date" : [
     "2019/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190614/8433/61007/large/9b00cda71a7b7af6edee89175cc8fb81.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

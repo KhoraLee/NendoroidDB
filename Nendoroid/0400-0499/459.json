@@ -1,21 +1,21 @@
 {
-  "num": "459",
-  "name": {
-    "ko": "아마츠카제",
-    "ja": "ねんどろいど 天津風 (ねんどろいど あまつかぜ)",
-    "en": "Nendoroid Amatsukaze (ねんどろいど あまつかぜ)"
+  "gender" : "F",
+  "gsc_productNum" : 4640,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140926/4640/30658/large/c97b62ceb950e1da6185724469824b56.jpg",
+  "name" : {
+    "en" : "Nendoroid Amatsukaze (ねんどろいど あまつかぜ)",
+    "ja" : "ねんどろいど 天津風 (ねんどろいど あまつかぜ)",
+    "ko" : "아마츠카제"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 4640,
-  "price": 4888,
-  "release_date": [
+  "num" : "459",
+  "price" : 4888,
+  "release_date" : [
     "2015/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140926/4640/30658/large/c97b62ceb950e1da6185724469824b56.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

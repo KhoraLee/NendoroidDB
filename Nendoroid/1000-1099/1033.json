@@ -1,22 +1,22 @@
 {
-  "num": "1033",
-  "name": {
-    "ko": "카쿄인 노리아키",
-    "ja": "ねんどろいど 花京院典明 (ねんどろいど かきょういんのりあき)",
-    "en": "Nendoroid Noriaki Kakyoin"
+  "gender" : "M",
+  "gsc_productNum" : 7815,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181119/7815/56053/large/ed8ba986f043b018472086dd8b43d4d7.jpg",
+  "name" : {
+    "en" : "Nendoroid Noriaki Kakyoin",
+    "ja" : "ねんどろいど 花京院典明 (ねんどろいど かきょういんのりあき)",
+    "ko" : "카쿄인 노리아키"
   },
-  "series": {
-    "ko": "죠죠의 기묘한 모험",
-    "ja": "TVアニメ『ジョジョの奇妙な冒険 スターダストクルセイダース』",
-    "en": "JoJo\u0027s Bizarre Adventure: Stardust Crusaders"
-  },
-  "gsc_productNum": 7815,
-  "price": 5478,
-  "release_date": [
+  "num" : "1033",
+  "price" : 5478,
+  "release_date" : [
     "2019/05",
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181119/7815/56053/large/ed8ba986f043b018472086dd8b43d4d7.jpg",
-  "gender": "M",
-  "set": 191
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "ja" : "TVアニメ『ジョジョの奇妙な冒険 スターダストクルセイダース』",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 191
 }

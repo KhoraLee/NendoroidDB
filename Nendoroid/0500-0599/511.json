@@ -1,23 +1,23 @@
 {
-  "num": "511",
-  "name": {
-    "ko": "미카즈키 무네치카",
-    "ja": "ねんどろいど 三日月宗近 (ねんどろいど みかづきむねちか)",
-    "en": "Nendoroid Mikazuki Munechika"
+  "gender" : "M",
+  "gsc_productNum" : 4903,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150319/4903/32749/large/fcc924074046fc37c434ac9a3a7b0222.jpg",
+  "name" : {
+    "en" : "Nendoroid Mikazuki Munechika",
+    "ja" : "ねんどろいど 三日月宗近 (ねんどろいど みかづきむねちか)",
+    "ko" : "미카즈키 무네치카"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 4903,
-  "price": 4278,
-  "release_date": [
+  "num" : "511",
+  "price" : 4278,
+  "release_date" : [
     "2015/08",
     "2015/12",
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150319/4903/32749/large/fcc924074046fc37c434ac9a3a7b0222.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

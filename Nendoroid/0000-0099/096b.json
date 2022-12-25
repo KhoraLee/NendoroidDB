@@ -1,21 +1,21 @@
 {
-  "num": "096b",
-  "name": {
-    "ko": "해상 지에땅",
-    "ja": "ねんどろいど じえいたん (ねんどろいど　じえいたん )",
-    "en": "Nendoroid Jiei-tan (ねんどろいど　じえいたん)"
+  "gender" : "F",
+  "gsc_productNum" : 2737,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091116/2737/8354/large/a430964302adacc5f1484917f468b97a.jpg",
+  "name" : {
+    "en" : "Nendoroid Jiei-tan (ねんどろいど　じえいたん)",
+    "ja" : "ねんどろいど じえいたん (ねんどろいど　じえいたん )",
+    "ko" : "해상 지에땅"
   },
-  "series": {
-    "ko": "마법의 해병대원 픽셀☆마리땅",
-    "ja": "魔法の海兵隊員ぴくせる☆まりたん",
-    "en": "Magical Marine Pixel Maritan"
-  },
-  "gsc_productNum": 2737,
-  "price": 3667,
-  "release_date": [
+  "num" : "096b",
+  "price" : 3667,
+  "release_date" : [
     "2010/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091116/2737/8354/large/a430964302adacc5f1484917f468b97a.jpg",
-  "gender": "F",
-  "set": 15
+  "series" : {
+    "en" : "Magical Marine Pixel Maritan",
+    "ja" : "魔法の海兵隊員ぴくせる☆まりたん",
+    "ko" : "마법의 해병대원 픽셀☆마리땅"
+  },
+  "set" : 15
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1089",
-  "name": {
-    "ko": "Lone Survivor",
-    "ja": "ねんどろいど The Lone Survivor (ねんどろいど ろーん・さばいばー)",
-    "en": "Nendoroid The Lone Survivor"
+  "gender" : "M",
+  "gsc_productNum" : 8079,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190214/8079/58759/large/399db7a847b49ba608d50d8f67abcfca.jpg",
+  "name" : {
+    "en" : "Nendoroid The Lone Survivor",
+    "ja" : "ねんどろいど The Lone Survivor (ねんどろいど ろーん・さばいばー)",
+    "ko" : "Lone Survivor"
   },
-  "series": {
-    "ko": "PUBG",
-    "ja": "PLAYERUNKNOWN\u0027S BATTLEGROUNDS",
-    "en": "PLAYERUNKNOWN\u0027S BATTLEGROUNDS"
-  },
-  "gsc_productNum": 8079,
-  "price": 5297,
-  "release_date": [
+  "num" : "1089",
+  "price" : 5297,
+  "release_date" : [
     "2019/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190214/8079/58759/large/399db7a847b49ba608d50d8f67abcfca.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "PLAYERUNKNOWN'S BATTLEGROUNDS",
+    "ja" : "PLAYERUNKNOWN'S BATTLEGROUNDS",
+    "ko" : "PUBG"
+  }
 }

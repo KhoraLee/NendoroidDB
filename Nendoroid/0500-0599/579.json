@@ -1,21 +1,21 @@
 {
-  "num": "579",
-  "name": {
-    "ko": "페리느 H. 끌로스떼르망",
-    "ja": "ねんどろいど ペリーヌ・クロステルマン (ねんどろいど ぺりーぬ・くろすてるまん)",
-    "en": "Nendoroid Perrine Clostermann"
+  "gender" : "F",
+  "gsc_productNum" : 5407,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151215/5407/36953/large/1ad0672dda8f89fb945d3b5eed7eac26.jpg",
+  "name" : {
+    "en" : "Nendoroid Perrine Clostermann",
+    "ja" : "ねんどろいど ペリーヌ・クロステルマン (ねんどろいど ぺりーぬ・くろすてるまん)",
+    "ko" : "페리느 H. 끌로스떼르망"
   },
-  "series": {
-    "ko": "스트라이크 위치스",
-    "ja": "ストライクウィッチーズ2",
-    "en": "Strike Witches 2"
-  },
-  "gsc_productNum": 5407,
-  "price": 5280,
-  "release_date": [
+  "num" : "579",
+  "price" : 5280,
+  "release_date" : [
     "2016/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151215/5407/36953/large/1ad0672dda8f89fb945d3b5eed7eac26.jpg",
-  "gender": "F",
-  "set": 16
+  "series" : {
+    "en" : "Strike Witches 2",
+    "ja" : "ストライクウィッチーズ2",
+    "ko" : "스트라이크 위치스"
+  },
+  "set" : 16
 }

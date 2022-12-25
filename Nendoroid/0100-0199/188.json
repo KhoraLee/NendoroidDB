@@ -1,21 +1,21 @@
 {
-  "num": "188",
-  "name": {
-    "ko": "밀피오레 F. 비스코티",
-    "ja": "ねんどろいど ミルヒオーレ・F・ ビスコッティ (ねんどろいど みるひおーれ・F・びすこってぃ)",
-    "en": "Nendoroid Millhiore F. Biscotti (ねんどろいど みるひおーれ・F・びすこってぃ)"
+  "gender" : "F",
+  "gsc_productNum" : 3246,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110808/3246/14921/large/150dff93dfdaa9a75e47e5af0f0a8f77.jpg",
+  "name" : {
+    "en" : "Nendoroid Millhiore F. Biscotti (ねんどろいど みるひおーれ・F・びすこってぃ)",
+    "ja" : "ねんどろいど ミルヒオーレ・F・ ビスコッティ (ねんどろいど みるひおーれ・F・びすこってぃ)",
+    "ko" : "밀피오레 F. 비스코티"
   },
-  "series": {
-    "ko": "DOG DAYS",
-    "ja": "DOG DAYS",
-    "en": "DOG DAYS"
-  },
-  "gsc_productNum": 3246,
-  "price": 4714,
-  "release_date": [
+  "num" : "188",
+  "price" : 4714,
+  "release_date" : [
     "2012/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110808/3246/14921/large/150dff93dfdaa9a75e47e5af0f0a8f77.jpg",
-  "gender": "F",
-  "set": 50
+  "series" : {
+    "en" : "DOG DAYS",
+    "ja" : "DOG DAYS",
+    "ko" : "DOG DAYS"
+  },
+  "set" : 50
 }

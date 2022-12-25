@@ -1,21 +1,21 @@
 {
-  "num": "1202",
-  "name": {
-    "ko": "시키나미 아스카 랑그레이",
-    "ja": "ねんどろいど 式波・アスカ・ラングレー (ねんどろいど しきなみ・あすか・らんぐれー)",
-    "en": "Nendoroid Asuka Shikinami Langley"
+  "gender" : "F",
+  "gsc_productNum" : 8773,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190906/8773/63450/large/55b990c3431fbd81f87d3ca1a6684756.jpg",
+  "name" : {
+    "en" : "Nendoroid Asuka Shikinami Langley",
+    "ja" : "ねんどろいど 式波・アスカ・ラングレー (ねんどろいど しきなみ・あすか・らんぐれー)",
+    "ko" : "시키나미 아스카 랑그레이"
   },
-  "series": {
-    "ko": "에반게리온",
-    "ja": "ヱヴァンゲリヲン新劇場版",
-    "en": "Rebuild of Evangelion"
-  },
-  "gsc_productNum": 8773,
-  "price": 5100,
-  "release_date": [
+  "num" : "1202",
+  "price" : 5100,
+  "release_date" : [
     "2020/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190906/8773/63450/large/55b990c3431fbd81f87d3ca1a6684756.jpg",
-  "gender": "F",
-  "set": 111
+  "series" : {
+    "en" : "Rebuild of Evangelion",
+    "ja" : "ヱヴァンゲリヲン新劇場版",
+    "ko" : "에반게리온"
+  },
+  "set" : 111
 }

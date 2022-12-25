@@ -1,20 +1,20 @@
 {
-  "num": "647",
-  "name": {
-    "ko": "유리",
-    "ja": "ねんどろいど 琉璃 (ねんどろいど るり)",
-    "en": "Nendoroid Liu Li"
+  "gender" : "F",
+  "gsc_productNum" : 5775,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160630/5775/39854/large/ee1b825ac15fa495e554e19ad0babf62.jpg",
+  "name" : {
+    "en" : "Nendoroid Liu Li",
+    "ja" : "ねんどろいど 琉璃 (ねんどろいど るり)",
+    "ko" : "유리"
   },
-  "series": {
-    "ko": "어린벌 B.E.E",
-    "ja": "雛蜂",
-    "en": "School Shock"
-  },
-  "gsc_productNum": 5775,
-  "price": 5093,
-  "release_date": [
+  "num" : "647",
+  "price" : 5093,
+  "release_date" : [
     "2016/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160630/5775/39854/large/ee1b825ac15fa495e554e19ad0babf62.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "School Shock",
+    "ja" : "雛蜂",
+    "ko" : "어린벌 B.E.E"
+  }
 }

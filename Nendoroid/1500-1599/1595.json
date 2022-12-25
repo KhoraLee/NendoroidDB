@@ -1,21 +1,21 @@
 {
-  "num": "1595",
-  "name": {
-    "ko": "바쿠고 카츠키 방한 코스튬 Ver.",
-    "ja": "ねんどろいど 爆豪勝己 防寒コスチュームVer. (ねんどろいど ばくごうかつき ぼうかんこすちゅーむVer.)",
-    "en": "Nendoroid Katsuki Bakugo: Winter Costume Ver."
+  "gender" : "M",
+  "gsc_productNum" : 10950,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210322/10950/82748/large/7c56131585a9022ad7879f20653c8968.jpg",
+  "name" : {
+    "en" : "Nendoroid Katsuki Bakugo: Winter Costume Ver.",
+    "ja" : "ねんどろいど 爆豪勝己 防寒コスチュームVer. (ねんどろいど ばくごうかつき ぼうかんこすちゅーむVer.)",
+    "ko" : "바쿠고 카츠키 방한 코스튬 Ver."
   },
-  "series": {
-    "ko": "나의 히어로 아카데미아",
-    "ja": "僕のヒーローアカデミア",
-    "en": "My Hero Academia"
-  },
-  "gsc_productNum": 10950,
-  "price": 5500,
-  "release_date": [
+  "num" : "1595",
+  "price" : 5500,
+  "release_date" : [
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210322/10950/82748/large/7c56131585a9022ad7879f20653c8968.jpg",
-  "gender": "M",
-  "set": 146
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 146
 }

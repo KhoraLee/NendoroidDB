@@ -1,21 +1,21 @@
 {
-  "num": "931",
-  "name": {
-    "ko": "하카제 카오루",
-    "ja": "ねんどろいど 羽風薫 (ねんどろいど はかぜかおる)",
-    "en": "Nendoroid Kaoru Hakaze"
+  "gender" : "M",
+  "gsc_productNum" : 7270,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180511/7270/51930/large/559b086915926c00c9db7f3782a2ce71.jpg",
+  "name" : {
+    "en" : "Nendoroid Kaoru Hakaze",
+    "ja" : "ねんどろいど 羽風薫 (ねんどろいど はかぜかおる)",
+    "ko" : "하카제 카오루"
   },
-  "series": {
-    "ko": "앙상블 스타즈!",
-    "ja": "あんさんぶるスターズ！",
-    "en": "Ensemble Stars!"
-  },
-  "gsc_productNum": 7270,
-  "price": 4584,
-  "release_date": [
+  "num" : "931",
+  "price" : 4584,
+  "release_date" : [
     "2018/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180511/7270/51930/large/559b086915926c00c9db7f3782a2ce71.jpg",
-  "gender": "M",
-  "set": 181
+  "series" : {
+    "en" : "Ensemble Stars!",
+    "ja" : "あんさんぶるスターズ！",
+    "ko" : "앙상블 스타즈!"
+  },
+  "set" : 181
 }

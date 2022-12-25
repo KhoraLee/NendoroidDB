@@ -1,21 +1,21 @@
 {
-  "num": "1431",
-  "name": {
-    "ko": "시키나미 아스카 랑그레이 플러그 슈트 Ver.",
-    "ja": "ねんどろいど 式波・アスカ・ラングレー プラグスーツVer. (ねんどろいど しきなみ・あすか・らんぐれー ぷらぐすーつVer.)",
-    "en": "Nendoroid Asuka Shikinami Langley: Plugsuit Ver."
+  "gender" : "F",
+  "gsc_productNum" : 9901,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200805/9901/72961/large/ca7bc3aaa73174abb29d42e2dadf10f3.jpg",
+  "name" : {
+    "en" : "Nendoroid Asuka Shikinami Langley: Plugsuit Ver.",
+    "ja" : "ねんどろいど 式波・アスカ・ラングレー プラグスーツVer. (ねんどろいど しきなみ・あすか・らんぐれー ぷらぐすーつVer.)",
+    "ko" : "시키나미 아스카 랑그레이 플러그 슈트 Ver."
   },
-  "series": {
-    "ko": "에반게리온",
-    "ja": "ヱヴァンゲリヲン新劇場版",
-    "en": "Rebuild of Evangelion"
-  },
-  "gsc_productNum": 9901,
-  "price": 5800,
-  "release_date": [
+  "num" : "1431",
+  "price" : 5800,
+  "release_date" : [
     "2021/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200805/9901/72961/large/ca7bc3aaa73174abb29d42e2dadf10f3.jpg",
-  "gender": "F",
-  "set": 111
+  "series" : {
+    "en" : "Rebuild of Evangelion",
+    "ja" : "ヱヴァンゲリヲン新劇場版",
+    "ko" : "에반게리온"
+  },
+  "set" : 111
 }

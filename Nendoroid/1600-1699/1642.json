@@ -1,21 +1,21 @@
 {
-  "num": "1642",
-  "name": {
-    "ko": "장기령",
-    "ja": "ねんどろいど 張起霊 (ねんどろいど ちょうきれい)",
-    "en": "Nendoroid Zhang Qiling"
+  "gender" : "M",
+  "gsc_productNum" : 11285,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210529/11285/85350/large/660fdb987d61b1dfb43bc1c267d82c74.jpg",
+  "name" : {
+    "en" : "Nendoroid Zhang Qiling",
+    "ja" : "ねんどろいど 張起霊 (ねんどろいど ちょうきれい)",
+    "ko" : "장기령"
   },
-  "series": {
-    "ko": "도묘필기",
-    "ja": "盗墓筆記",
-    "en": "TIME RAIDERS"
-  },
-  "gsc_productNum": 11285,
-  "price": 6100,
-  "release_date": [
+  "num" : "1642",
+  "price" : 6100,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210529/11285/85350/large/660fdb987d61b1dfb43bc1c267d82c74.jpg",
-  "gender": "M",
-  "set": 261
+  "series" : {
+    "en" : "TIME RAIDERS",
+    "ja" : "盗墓筆記",
+    "ko" : "도묘필기"
+  },
+  "set" : 261
 }

@@ -1,20 +1,20 @@
 {
-  "num": "191",
-  "name": {
-    "ko": "금빛 어둠",
-    "ja": "ねんどろいど 金色の闇 (ねんどろいど こんじきのやみ)",
-    "en": "Nendoroid Golden Darkness (ねんどろいど こんじきのやみ)"
+  "gender" : "F",
+  "gsc_productNum" : 3258,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110822/3258/15105/large/18fb0b3590f25841ac9f326157154e01.jpg",
+  "name" : {
+    "en" : "Nendoroid Golden Darkness (ねんどろいど こんじきのやみ)",
+    "ja" : "ねんどろいど 金色の闇 (ねんどろいど こんじきのやみ)",
+    "ko" : "금빛 어둠"
   },
-  "series": {
-    "ko": "투 러브 트러블",
-    "ja": "To LOVEる－とらぶる－",
-    "en": "ToLoveRU Darkness"
-  },
-  "gsc_productNum": 3258,
-  "price": 3667,
-  "release_date": [
+  "num" : "191",
+  "price" : 3667,
+  "release_date" : [
     "2012/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110822/3258/15105/large/18fb0b3590f25841ac9f326157154e01.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "ToLoveRU Darkness",
+    "ja" : "To LOVEる－とらぶる－",
+    "ko" : "투 러브 트러블"
+  }
 }

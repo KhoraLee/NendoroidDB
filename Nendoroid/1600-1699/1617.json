@@ -1,21 +1,21 @@
 {
-  "num": "1617",
-  "name": {
-    "ko": "윈터 솔져",
-    "ja": "ねんどろいど ウィンター・ソルジャー (ねんどろいど うぃんたー・そるじゃー)",
-    "en": "Nendoroid Winter Soldier"
+  "gender" : "M",
+  "gsc_productNum" : 11130,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210422/11130/83974/large/77a91d00db6cb26621735bf6a0f0606e.jpg",
+  "name" : {
+    "en" : "Nendoroid Winter Soldier",
+    "ja" : "ねんどろいど ウィンター・ソルジャー (ねんどろいど うぃんたー・そるじゃー)",
+    "ko" : "윈터 솔져"
   },
-  "series": {
-    "ko": "팔콘과 윈터솔져",
-    "ja": "ファルコン\u0026ウィンター・ソルジャー",
-    "en": "The Falcon and The Winter Soldier"
-  },
-  "gsc_productNum": 11130,
-  "price": 5000,
-  "release_date": [
+  "num" : "1617",
+  "price" : 5000,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210422/11130/83974/large/77a91d00db6cb26621735bf6a0f0606e.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "The Falcon and The Winter Soldier",
+    "ja" : "ファルコン&ウィンター・ソルジャー",
+    "ko" : "팔콘과 윈터솔져"
+  },
+  "set" : 63
 }

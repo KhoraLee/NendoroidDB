@@ -1,21 +1,21 @@
 {
-  "num": "553",
-  "name": {
-    "ko": "링크 무쥬라의 가면 3D Ver.",
-    "ja": "ねんどろいど リンク ムジュラの仮面3D Ver. (ねんどろいど りんく むじゅらのかめん3D Ver.)",
-    "en": "Nendoroid Link: Majora\u0027s Mask 3D Ver. (ねんどろいど りんく むじゅらのかめんVer.)"
+  "gender" : "M",
+  "gsc_productNum" : 5181,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150810/5181/35080/large/ab1a731b073916ec4657229295fb10de.jpg",
+  "name" : {
+    "en" : "Nendoroid Link: Majora's Mask 3D Ver. (ねんどろいど りんく むじゅらのかめんVer.)",
+    "ja" : "ねんどろいど リンク ムジュラの仮面3D Ver. (ねんどろいど りんく むじゅらのかめん3D Ver.)",
+    "ko" : "링크 무쥬라의 가면 3D Ver."
   },
-  "series": {
-    "ko": "젤다의 전설",
-    "ja": "ゼルダの伝説 ムジュラの仮面3D",
-    "en": "The Legend of Zelda: Majora\u0027s Mask 3D"
-  },
-  "gsc_productNum": 5181,
-  "price": 4584,
-  "release_date": [
+  "num" : "553",
+  "price" : 4584,
+  "release_date" : [
     "2016/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150810/5181/35080/large/ab1a731b073916ec4657229295fb10de.jpg",
-  "gender": "M",
-  "set": 99
+  "series" : {
+    "en" : "The Legend of Zelda: Majora's Mask 3D",
+    "ja" : "ゼルダの伝説 ムジュラの仮面3D",
+    "ko" : "젤다의 전설"
+  },
+  "set" : 99
 }

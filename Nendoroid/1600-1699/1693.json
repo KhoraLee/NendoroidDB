@@ -1,21 +1,21 @@
 {
-  "num": "1693",
-  "name": {
-    "ko": "토도로키 쇼토 스텔스 슈츠 Ver.",
-    "ja": "ねんどろいど 轟焦凍 ステルススーツVer. (ねんどろいど とどろきしょうと すてるすすーつVer.)",
-    "en": "Nendoroid Shoto Todoroki: Stealth Suit Ver."
+  "gender" : "M",
+  "gsc_productNum" : 11597,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210802/11597/88151/large/dd73308bc986ac010d3620ccff90321a.jpg",
+  "name" : {
+    "en" : "Nendoroid Shoto Todoroki: Stealth Suit Ver.",
+    "ja" : "ねんどろいど 轟焦凍 ステルススーツVer. (ねんどろいど とどろきしょうと すてるすすーつVer.)",
+    "ko" : "토도로키 쇼토 스텔스 슈츠 Ver."
   },
-  "series": {
-    "ko": "나의 히어로 아카데미아",
-    "ja": "僕のヒーローアカデミア THE MOVIE WORLD HEROES\u0027 MISSION",
-    "en": "My Hero Academia The Movie: World Heroes\u0027 Mission"
-  },
-  "gsc_productNum": 11597,
-  "price": 6600,
-  "release_date": [
+  "num" : "1693",
+  "price" : 6600,
+  "release_date" : [
     "2022/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210802/11597/88151/large/dd73308bc986ac010d3620ccff90321a.jpg",
-  "gender": "M",
-  "set": 146
+  "series" : {
+    "en" : "My Hero Academia The Movie: World Heroes' Mission",
+    "ja" : "僕のヒーローアカデミア THE MOVIE WORLD HEROES' MISSION",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 146
 }

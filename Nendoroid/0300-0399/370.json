@@ -1,20 +1,20 @@
 {
-  "num": "370",
-  "name": {
-    "ko": "에이미",
-    "ja": "ねんどろいど エイミー (ねんどろいど えいみー)",
-    "en": "Nendoroid Amy (ねんどろいど えいみー)"
+  "gender" : "F",
+  "gsc_productNum" : 4070,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130926/4070/26391/large/da9137d8a1bfc03f4fb9688a108f246d.jpg",
+  "name" : {
+    "en" : "Nendoroid Amy (ねんどろいど えいみー)",
+    "ja" : "ねんどろいど エイミー (ねんどろいど えいみー)",
+    "ko" : "에이미"
   },
-  "series": {
-    "ko": "취성의 가르간티아",
-    "ja": "翠星のガルガンティア",
-    "en": "Gargantia on the Verdurous Planet"
-  },
-  "gsc_productNum": 4070,
-  "price": 5029,
-  "release_date": [
+  "num" : "370",
+  "price" : 5029,
+  "release_date" : [
     "2014/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130926/4070/26391/large/da9137d8a1bfc03f4fb9688a108f246d.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Gargantia on the Verdurous Planet",
+    "ja" : "翠星のガルガンティア",
+    "ko" : "취성의 가르간티아"
+  }
 }

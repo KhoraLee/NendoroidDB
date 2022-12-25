@@ -1,22 +1,22 @@
 {
-  "num": "421",
-  "name": {
-    "ko": "키리사키 치토게",
-    "ja": "ねんどろいど 桐崎千棘 (ねんどろいど きりさきちとげ)",
-    "en": "Nendoroid Chitoge Kirisaki (ねんどろいど きりさきちとげ)"
+  "gender" : "F",
+  "gsc_productNum" : 4410,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140430/4410/28875/large/32fb005bd0a2f688f22ab542c793d16e.jpg",
+  "name" : {
+    "en" : "Nendoroid Chitoge Kirisaki (ねんどろいど きりさきちとげ)",
+    "ja" : "ねんどろいど 桐崎千棘 (ねんどろいど きりさきちとげ)",
+    "ko" : "키리사키 치토게"
   },
-  "series": {
-    "ko": "니세코이",
-    "ja": "ニセコイ",
-    "en": "Nisekoi"
-  },
-  "gsc_productNum": 4410,
-  "price": 4074,
-  "release_date": [
+  "num" : "421",
+  "price" : 4074,
+  "release_date" : [
     "2014/08",
     "2015/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140430/4410/28875/large/32fb005bd0a2f688f22ab542c793d16e.jpg",
-  "gender": "F",
-  "set": 102
+  "series" : {
+    "en" : "Nisekoi",
+    "ja" : "ニセコイ",
+    "ko" : "니세코이"
+  },
+  "set" : 102
 }

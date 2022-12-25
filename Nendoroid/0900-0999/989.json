@@ -1,23 +1,23 @@
 {
-  "num": "989",
-  "name": {
-    "ko": "주인공",
-    "ja": "ねんどろいど ジョーカー (ねんどろいど じょーかー)",
-    "en": "Nendoroid Joker"
+  "gender" : "M",
+  "gsc_productNum" : 7563,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180828/7563/54133/large/03d08de77adc55eeb7b5eff1e86e64a4.jpg",
+  "name" : {
+    "en" : "Nendoroid Joker",
+    "ja" : "ねんどろいど ジョーカー (ねんどろいど じょーかー)",
+    "ko" : "주인공"
   },
-  "series": {
-    "ko": "페르소나5",
-    "ja": "ペルソナ５",
-    "en": "Persona5"
-  },
-  "gsc_productNum": 7563,
-  "price": 4888,
-  "release_date": [
+  "num" : "989",
+  "price" : 4888,
+  "release_date" : [
     "2019/02",
     "2020/01",
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180828/7563/54133/large/03d08de77adc55eeb7b5eff1e86e64a4.jpg",
-  "gender": "M",
-  "set": 57
+  "series" : {
+    "en" : "Persona5",
+    "ja" : "ペルソナ５",
+    "ko" : "페르소나5"
+  },
+  "set" : 57
 }

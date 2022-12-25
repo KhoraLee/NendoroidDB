@@ -1,22 +1,22 @@
 {
-  "num": "1215",
-  "name": {
-    "ko": "주기락",
-    "ja": "ねんどろいど キラ (ねんどろいど きら)",
-    "en": "Nendoroid Qiluo Zhou"
+  "gender" : "M",
+  "gsc_productNum" : 8838,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190925/8838/64002/large/f76db047d96ebc83e17a768f3432df49.jpg",
+  "name" : {
+    "en" : "Nendoroid Qiluo Zhou",
+    "ja" : "ねんどろいど キラ (ねんどろいど きら)",
+    "ko" : "주기락"
   },
-  "series": {
-    "ko": "러브앤프로듀서",
-    "ja": "恋とプロデューサー～EVOL×LOVE～",
-    "en": "Mr. Love: Queen\u0027s Choice"
-  },
-  "gsc_productNum": 8838,
-  "price": 5500,
-  "release_date": [
+  "num" : "1215",
+  "price" : 5500,
+  "release_date" : [
     "2020/05",
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190925/8838/64002/large/f76db047d96ebc83e17a768f3432df49.jpg",
-  "gender": "M",
-  "set": 209
+  "series" : {
+    "en" : "Mr. Love: Queen's Choice",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "set" : 209
 }

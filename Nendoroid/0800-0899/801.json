@@ -1,22 +1,22 @@
 {
-  "num": "801",
-  "name": {
-    "ko": "타치바나 타키",
-    "ja": "ねんどろいど 立花瀧 (ねんどろいど たちばなたき)",
-    "en": "Nendoroid Taki Tachibana"
+  "gender" : "M",
+  "gsc_productNum" : 6595,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170721/6595/46627/large/b7a9c16c70abcf0567c07c91cce5f77a.jpg",
+  "name" : {
+    "en" : "Nendoroid Taki Tachibana",
+    "ja" : "ねんどろいど 立花瀧 (ねんどろいど たちばなたき)",
+    "ko" : "타치바나 타키"
   },
-  "series": {
-    "ko": "너의 이름은.",
-    "ja": "君の名は。",
-    "en": "Your Name."
-  },
-  "gsc_productNum": 6595,
-  "price": 3565,
-  "release_date": [
+  "num" : "801",
+  "price" : 3565,
+  "release_date" : [
     "2017/12",
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170721/6595/46627/large/b7a9c16c70abcf0567c07c91cce5f77a.jpg",
-  "gender": "M",
-  "set": 160
+  "series" : {
+    "en" : "Your Name.",
+    "ja" : "君の名は。",
+    "ko" : "너의 이름은."
+  },
+  "set" : 160
 }

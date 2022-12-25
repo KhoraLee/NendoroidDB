@@ -1,21 +1,21 @@
 {
-  "num": "061",
-  "name": {
-    "ko": "루이즈",
-    "ja": "ねんどろいど　ルイズ (ねんどろいど るいず)",
-    "en": "Nendoroid Louise (ねんどろいど るいず)"
+  "gender" : "F",
+  "gsc_productNum" : 2261,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2261/6263/large/17e2524693b3a3355b065f09e59f4a58.jpg",
+  "name" : {
+    "en" : "Nendoroid Louise (ねんどろいど るいず)",
+    "ja" : "ねんどろいど　ルイズ (ねんどろいど るいず)",
+    "ko" : "루이즈"
   },
-  "series": {
-    "ko": "제로의 사역마",
-    "ja": "ゼロの使い魔F",
-    "en": "The Familiar of Zero F"
-  },
-  "gsc_productNum": 2261,
-  "price": 3667,
-  "release_date": [
+  "num" : "061",
+  "price" : 3667,
+  "release_date" : [
     "2009/04",
     "2012/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2261/6263/large/17e2524693b3a3355b065f09e59f4a58.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "The Familiar of Zero F",
+    "ja" : "ゼロの使い魔F",
+    "ko" : "제로의 사역마"
+  }
 }

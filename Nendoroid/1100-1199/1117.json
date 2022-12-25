@@ -1,21 +1,21 @@
 {
-  "num": "1117",
-  "name": {
-    "ko": "밀림 나바",
-    "ja": "ねんどろいど ミリム (ねんどろいど みりむ)",
-    "en": "Nendoroid Millim"
+  "gender" : "F",
+  "gsc_productNum" : 8222,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190403/8222/59319/large/5e46b2533707b0a4c27009ea20559142.jpg",
+  "name" : {
+    "en" : "Nendoroid Millim",
+    "ja" : "ねんどろいど ミリム (ねんどろいど みりむ)",
+    "ko" : "밀림 나바"
   },
-  "series": {
-    "ko": "전생했더니 슬라임이었던 건에 대하여",
-    "ja": "転生したらスライムだった件",
-    "en": "That Time I Got Reincarnated as a Slime"
-  },
-  "gsc_productNum": 8222,
-  "price": 4888,
-  "release_date": [
+  "num" : "1117",
+  "price" : 4888,
+  "release_date" : [
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190403/8222/59319/large/5e46b2533707b0a4c27009ea20559142.jpg",
-  "gender": "F",
-  "set": 202
+  "series" : {
+    "en" : "That Time I Got Reincarnated as a Slime",
+    "ja" : "転生したらスライムだった件",
+    "ko" : "전생했더니 슬라임이었던 건에 대하여"
+  },
+  "set" : 202
 }

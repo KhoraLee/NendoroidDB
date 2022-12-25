@@ -1,22 +1,22 @@
 {
-  "num": "981",
-  "name": {
-    "ko": "시마 린",
-    "ja": "ねんどろいど 志摩リン (ねんどろいど しまりん)",
-    "en": "Nendoroid Rin Shima"
+  "gender" : "F",
+  "gsc_productNum" : 7608,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180912/7608/54558/large/94d3f0aa0c82b621e1afbf89f53e31b3.jpg",
+  "name" : {
+    "en" : "Nendoroid Rin Shima",
+    "ja" : "ねんどろいど 志摩リン (ねんどろいど しまりん)",
+    "ko" : "시마 린"
   },
-  "series": {
-    "ko": "유루캠△",
-    "ja": "ゆるキャン△",
-    "en": "Laid-Back Camp"
-  },
-  "gsc_productNum": 7608,
-  "price": 5602,
-  "release_date": [
+  "num" : "981",
+  "price" : 5602,
+  "release_date" : [
     "2019/03",
     "2021/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180912/7608/54558/large/94d3f0aa0c82b621e1afbf89f53e31b3.jpg",
-  "gender": "F",
-  "set": 173
+  "series" : {
+    "en" : "Laid-Back Camp",
+    "ja" : "ゆるキャン△",
+    "ko" : "유루캠△"
+  },
+  "set" : 173
 }

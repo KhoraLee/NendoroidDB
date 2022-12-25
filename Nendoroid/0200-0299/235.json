@@ -1,21 +1,21 @@
 {
-  "num": "235",
-  "name": {
-    "ko": "신구지 사쿠라\u0026광무 세트",
-    "ja": "ねんどろいど 真宮寺さくら\u0026光武セット (ねんどろいど しんぐうじさくら＆こうぶせっと)",
-    "en": "Nendoroid Sakura Shinguji \u0026 Koubu Set (ねんどろいど しんぐうじさくら＆こうぶせっと)"
+  "gender" : "F",
+  "gsc_productNum" : 3487,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120307/3487/17566/large/4d54816cd1f215b5e7a3eb2e19f5b5d7.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Shinguji & Koubu Set (ねんどろいど しんぐうじさくら＆こうぶせっと)",
+    "ja" : "ねんどろいど 真宮寺さくら&光武セット (ねんどろいど しんぐうじさくら＆こうぶせっと)",
+    "ko" : "신구지 사쿠라&광무 세트"
   },
-  "series": {
-    "ko": "사쿠라 대전",
-    "ja": "サクラ大戦",
-    "en": "Sakura Wars"
-  },
-  "gsc_productNum": 3487,
-  "price": 4714,
-  "release_date": [
+  "num" : "235",
+  "price" : 4714,
+  "release_date" : [
     "2012/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120307/3487/17566/large/4d54816cd1f215b5e7a3eb2e19f5b5d7.jpg",
-  "gender": "F",
-  "set": 55
+  "series" : {
+    "en" : "Sakura Wars",
+    "ja" : "サクラ大戦",
+    "ko" : "사쿠라 대전"
+  },
+  "set" : 55
 }

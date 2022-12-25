@@ -1,21 +1,21 @@
 {
-  "num": "600b",
-  "name": {
-    "ko": "세이버/알트리아 펜드래곤 진명 개방 Ver.",
-    "ja": "ねんどろいど セイバー/アルトリア・ペンドラゴン 真名開放 Ver. (ねんどろいど せいばー/あるとりあ・ぺんどらごん しんめいかいほう Ver.)",
-    "en": "Nendoroid Saber/Altria Pendragon: True Name Revealed Ver."
+  "gender" : "F",
+  "gsc_productNum" : 7614,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180914/7614/54512/large/9e0405b1369e08ffd17e9541fbbf198e.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber/Altria Pendragon: True Name Revealed Ver.",
+    "ja" : "ねんどろいど セイバー/アルトリア・ペンドラゴン 真名開放 Ver. (ねんどろいど せいばー/あるとりあ・ぺんどらごん しんめいかいほう Ver.)",
+    "ko" : "세이버/알트리아 펜드래곤 진명 개방 Ver."
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 7614,
-  "price": 4888,
-  "release_date": [
+  "num" : "600b",
+  "price" : 4888,
+  "release_date" : [
     "2019/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180914/7614/54512/large/9e0405b1369e08ffd17e9541fbbf198e.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

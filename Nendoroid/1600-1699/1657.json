@@ -1,21 +1,21 @@
 {
-  "num": "1657",
-  "name": {
-    "ko": "사라시나 루카",
-    "ja": "ねんどろいど 更科瑠夏 (ねんどろいど さらしなるか)",
-    "en": "Nendoroid Ruka Sarashina"
+  "gender" : "F",
+  "gsc_productNum" : 11331,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210610/11331/85717/large/e7611e85815801718bff6f948b4447e9.jpg",
+  "name" : {
+    "en" : "Nendoroid Ruka Sarashina",
+    "ja" : "ねんどろいど 更科瑠夏 (ねんどろいど さらしなるか)",
+    "ko" : "사라시나 루카"
   },
-  "series": {
-    "ko": "여친, 빌리겠습니다",
-    "ja": "彼女、お借りします",
-    "en": "Rent-a-Girlfriend"
-  },
-  "gsc_productNum": 11331,
-  "price": 4800,
-  "release_date": [
+  "num" : "1657",
+  "price" : 4800,
+  "release_date" : [
     "2022/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210610/11331/85717/large/e7611e85815801718bff6f948b4447e9.jpg",
-  "gender": "F",
-  "set": 248
+  "series" : {
+    "en" : "Rent-a-Girlfriend",
+    "ja" : "彼女、お借りします",
+    "ko" : "여친, 빌리겠습니다"
+  },
+  "set" : 248
 }

@@ -1,23 +1,23 @@
 {
-  "num": "1145",
-  "name": {
-    "ko": "아미야",
-    "ja": "ねんどろいど アーミヤ (ねんどろいど あーみや)",
-    "en": "Nendoroid Amiya"
+  "gender" : "F",
+  "gsc_productNum" : 8407,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190607/8407/60824/large/640051eccdb10e8a27f8efaa6d00d469.jpg",
+  "name" : {
+    "en" : "Nendoroid Amiya",
+    "ja" : "ねんどろいど アーミヤ (ねんどろいど あーみや)",
+    "ko" : "아미야"
   },
-  "series": {
-    "ko": "명일방주",
-    "ja": "アークナイツ",
-    "en": "Arknights"
-  },
-  "gsc_productNum": 8407,
-  "price": 5900,
-  "release_date": [
+  "num" : "1145",
+  "price" : 5900,
+  "release_date" : [
     "2019/12",
     "2020/09",
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190607/8407/60824/large/640051eccdb10e8a27f8efaa6d00d469.jpg",
-  "gender": "F",
-  "set": 216
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 216
 }

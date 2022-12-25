@@ -1,21 +1,21 @@
 {
-  "num": "941",
-  "name": {
-    "ko": "실더/마슈 키리에라인트 캐주얼 Ver.",
-    "ja": "ねんどろいど シールダー/マシュ・キリエライト 私服Ver. (ねんどろいど しーるだー/ましゅ・きりえらいと しふくVer.)",
-    "en": "Nendoroid Shielder/Mash Kyrielight: Casual ver."
+  "gender" : "F",
+  "gsc_productNum" : 7283,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180521/7283/52058/large/287cb9e765ac5c6673b8decfb0c0362f.jpg",
+  "name" : {
+    "en" : "Nendoroid Shielder/Mash Kyrielight: Casual ver.",
+    "ja" : "ねんどろいど シールダー/マシュ・キリエライト 私服Ver. (ねんどろいど しーるだー/ましゅ・きりえらいと しふくVer.)",
+    "ko" : "실더/마슈 키리에라인트 캐주얼 Ver."
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 7283,
-  "price": 4584,
-  "release_date": [
+  "num" : "941",
+  "price" : 4584,
+  "release_date" : [
     "2018/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180521/7283/52058/large/287cb9e765ac5c6673b8decfb0c0362f.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

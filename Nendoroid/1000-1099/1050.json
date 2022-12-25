@@ -1,20 +1,20 @@
 {
-  "num": "1050",
-  "name": {
-    "ko": "그리드맨",
-    "ja": "ねんどろいど グリッドマン SSSS.Ver. (ねんどろいど ぐりっどまん SSSS.Ver.)",
-    "en": "Nendoroid Gridman: SSSS. Ver."
+  "gsc_productNum" : 7877,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181206/7877/56604/large/d5c83998dd0280e0e2630641b2c7fe99.jpg",
+  "name" : {
+    "en" : "Nendoroid Gridman: SSSS. Ver.",
+    "ja" : "ねんどろいど グリッドマン SSSS.Ver. (ねんどろいど ぐりっどまん SSSS.Ver.)",
+    "ko" : "그리드맨"
   },
-  "series": {
-    "ko": "SSSS.GRIDMAN",
-    "ja": "SSSS.GRIDMAN",
-    "en": "SSSS.GRIDMAN"
-  },
-  "gsc_productNum": 7877,
-  "price": 5093,
-  "release_date": [
+  "num" : "1050",
+  "price" : 5093,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181206/7877/56604/large/d5c83998dd0280e0e2630641b2c7fe99.jpg",
-  "set": 200
+  "series" : {
+    "en" : "SSSS.GRIDMAN",
+    "ja" : "SSSS.GRIDMAN",
+    "ko" : "SSSS.GRIDMAN"
+  },
+  "set" : 200
 }

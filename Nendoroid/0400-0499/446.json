@@ -1,20 +1,20 @@
 {
-  "num": "446",
-  "name": {
-    "ko": "미츠미네 마시로",
-    "ja": "ねんどろいど 三峰真白 (ねんどろいど みつみねましろ)",
-    "en": "Nendoroid Mashiro Mitsumine (ねんどろいど みつみねましろ)"
+  "gender" : "F",
+  "gsc_productNum" : 4510,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140718/4510/29721/large/a0adca2885f289d5b9c8bf23963e0db2.jpg",
+  "name" : {
+    "en" : "Nendoroid Mashiro Mitsumine (ねんどろいど みつみねましろ)",
+    "ja" : "ねんどろいど 三峰真白 (ねんどろいど みつみねましろ)",
+    "ko" : "미츠미네 마시로"
   },
-  "series": {
-    "ko": "미확인으로 진행형",
-    "ja": "未確認で進行形",
-    "en": "Mikakunin de Shinkoukei"
-  },
-  "gsc_productNum": 4510,
-  "price": 4278,
-  "release_date": [
+  "num" : "446",
+  "price" : 4278,
+  "release_date" : [
     "2015/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140718/4510/29721/large/a0adca2885f289d5b9c8bf23963e0db2.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Mikakunin de Shinkoukei",
+    "ja" : "未確認で進行形",
+    "ko" : "미확인으로 진행형"
+  }
 }

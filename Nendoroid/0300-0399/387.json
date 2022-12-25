@@ -1,21 +1,21 @@
 {
-  "num": "387",
-  "name": {
-    "ko": "세이버 브라이드",
-    "ja": "ねんどろいど セイバーブライド (ねんどろいど せいばーぶらいど)",
-    "en": "Nendoroid Saber Bride (ねんどろいど せいばーぶらいど)"
+  "gender" : "F",
+  "gsc_productNum" : 4145,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131204/4145/27299/large/2776bbe49d48dcbb496209e701b6fbc6.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber Bride (ねんどろいど せいばーぶらいど)",
+    "ja" : "ねんどろいど セイバーブライド (ねんどろいど せいばーぶらいど)",
+    "ko" : "세이버 브라이드"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/EXTRA CCC",
-    "en": "Fate/EXTRA CCC"
-  },
-  "gsc_productNum": 4145,
-  "price": 4074,
-  "release_date": [
+  "num" : "387",
+  "price" : 4074,
+  "release_date" : [
     "2014/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20131204/4145/27299/large/2776bbe49d48dcbb496209e701b6fbc6.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/EXTRA CCC",
+    "ja" : "Fate/EXTRA CCC",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

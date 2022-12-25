@@ -1,20 +1,20 @@
 {
-  "num": "1076",
-  "name": {
-    "ko": "레이튼 교수",
-    "ja": "ねんどろいど レイトン教授 (ねんどろいど れいとんきょうじゅ)",
-    "en": "Nendoroid Professor Layton"
+  "gender" : "M",
+  "gsc_productNum" : 8010,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190125/8010/57600/large/5fa8fe5e2bfba55123f74267494dfc62.jpg",
+  "name" : {
+    "en" : "Nendoroid Professor Layton",
+    "ja" : "ねんどろいど レイトン教授 (ねんどろいど れいとんきょうじゅ)",
+    "ko" : "레이튼 교수"
   },
-  "series": {
-    "ko": "레이튼 시리즈",
-    "ja": "レイトン ミステリー探偵社 ～カトリーのナゾトキファイル～",
-    "en": "Layton Mystery Detective Agency: Kat\u0027s Mystery Solving Files"
-  },
-  "gsc_productNum": 8010,
-  "price": 4888,
-  "release_date": [
+  "num" : "1076",
+  "price" : 4888,
+  "release_date" : [
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190125/8010/57600/large/5fa8fe5e2bfba55123f74267494dfc62.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Layton Mystery Detective Agency: Kat's Mystery Solving Files",
+    "ja" : "レイトン ミステリー探偵社 ～カトリーのナゾトキファイル～",
+    "ko" : "레이튼 시리즈"
+  }
 }

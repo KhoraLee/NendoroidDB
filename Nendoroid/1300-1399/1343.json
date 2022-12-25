@@ -1,21 +1,21 @@
 {
-  "num": "1343",
-  "name": {
-    "ko": "아스나 창세신 스테이시아 Ver.",
-    "ja": "ねんどろいど アスナ《創世神ステイシア》 (ねんどろいど あすな《そうせいしんすていしあ》)",
-    "en": "Nendoroid Asuna [Stacia, the Goddess of Creation]"
+  "gender" : "F",
+  "gsc_productNum" : 9516,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200519/9516/69770/large/30f5cdc56f51924312c2d7bddc226708.jpg",
+  "name" : {
+    "en" : "Nendoroid Asuna [Stacia, the Goddess of Creation]",
+    "ja" : "ねんどろいど アスナ《創世神ステイシア》 (ねんどろいど あすな《そうせいしんすていしあ》)",
+    "ko" : "아스나 창세신 스테이시아 Ver."
   },
-  "series": {
-    "ko": "소드 아트 온라인",
-    "ja": "ソードアート・オンライン アリシゼーション War of Underworld",
-    "en": "Sword Art Online Alicization: War of Underworld"
-  },
-  "gsc_productNum": 9516,
-  "price": 5000,
-  "release_date": [
+  "num" : "1343",
+  "price" : 5000,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200519/9516/69770/large/30f5cdc56f51924312c2d7bddc226708.jpg",
-  "gender": "F",
-  "set": 70
+  "series" : {
+    "en" : "Sword Art Online Alicization: War of Underworld",
+    "ja" : "ソードアート・オンライン アリシゼーション War of Underworld",
+    "ko" : "소드 아트 온라인"
+  },
+  "set" : 70
 }

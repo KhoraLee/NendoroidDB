@@ -1,21 +1,21 @@
 {
-  "num": "261",
-  "name": {
-    "ko": "하츠네 미쿠 유카타 Ver.",
-    "ja": "ねんどろいど 初音ミク 浴衣Ver. (ねんどろいど はつねみく ゆかたver.)",
-    "en": "Nendoroid Hatsune Miku : Yukata Ver. (ねんどろいど はつねみく ゆかたver.)"
+  "gender" : "F",
+  "gsc_productNum" : 3643,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120816/3643/19923/large/f58a82f8a34da03da993568548b4a35a.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku : Yukata Ver. (ねんどろいど はつねみく ゆかたver.)",
+    "ja" : "ねんどろいど 初音ミク 浴衣Ver. (ねんどろいど はつねみく ゆかたver.)",
+    "ko" : "하츠네 미쿠 유카타 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 3643,
-  "price": 3143,
-  "release_date": [
+  "num" : "261",
+  "price" : 3143,
+  "release_date" : [
     "2012/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120816/3643/19923/large/f58a82f8a34da03da993568548b4a35a.jpg",
-  "gender": "F",
-  "set": 10
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
 }

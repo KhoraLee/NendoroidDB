@@ -1,21 +1,21 @@
 {
-  "num": "1814",
-  "name": {
-    "ko": "네메시스 프라임",
-    "ja": "ねんどろいど ネメシスプライム (ねんどろいど ねめしすぷらいむ)",
-    "en": "Nendoroid Nemesis Prime"
+  "gender" : "M",
+  "gsc_productNum" : 12297,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220128/12297/94946/large/637bac49d587a8f28a2a47841999fffb.jpg",
+  "name" : {
+    "en" : "Nendoroid Nemesis Prime",
+    "ja" : "ねんどろいど ネメシスプライム (ねんどろいど ねめしすぷらいむ)",
+    "ko" : "네메시스 프라임"
   },
-  "series": {
-    "ko": "트랜스포머",
-    "ja": "トランスフォーマー",
-    "en": "Transformers"
-  },
-  "gsc_productNum": 12297,
-  "price": 5500,
-  "release_date": [
+  "num" : "1814",
+  "price" : 5500,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220128/12297/94946/large/637bac49d587a8f28a2a47841999fffb.jpg",
-  "gender": "M",
-  "set": 241
+  "series" : {
+    "en" : "Transformers",
+    "ja" : "トランスフォーマー",
+    "ko" : "트랜스포머"
+  },
+  "set" : 241
 }

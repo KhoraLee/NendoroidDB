@@ -1,23 +1,23 @@
 {
-  "num": "042",
-  "name": {
-    "ko": "하츠네 미쿠 하츄네 Ver.",
-    "ja": "ねんどろいど 初音ミク はちゅねフェイスVer. (ねんどろいど はつねみく はちゅねふぇいすVer.)",
-    "en": "Nendoroid Miku Hatsune: Hachune Face Ver. (ねんどろいど はつねみく はちゅねふぇいすVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3615,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120720/3615/19605/large/4e249557d5ebb9a80acefc07782694c2.jpg",
+  "name" : {
+    "en" : "Nendoroid Miku Hatsune: Hachune Face Ver. (ねんどろいど はつねみく はちゅねふぇいすVer.)",
+    "ja" : "ねんどろいど 初音ミク はちゅねフェイスVer. (ねんどろいど はつねみく はちゅねふぇいすVer.)",
+    "ko" : "하츠네 미쿠 하츄네 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Miku Hatsune"
-  },
-  "gsc_productNum": 3615,
-  "price": 3143,
-  "release_date": [
+  "num" : "042",
+  "price" : 3143,
+  "release_date" : [
     "2008/08",
     "2012/07",
     "2013/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120720/3615/19605/large/4e249557d5ebb9a80acefc07782694c2.jpg",
-  "gender": "F",
-  "set": 10
+  "series" : {
+    "en" : "Character Vocal Series 01: Miku Hatsune",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
 }

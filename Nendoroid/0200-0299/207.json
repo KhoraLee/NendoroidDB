@@ -1,21 +1,21 @@
 {
-  "num": "207",
-  "name": {
-    "ko": "유키 미쿠 푹신푹신 코트 Ver.",
-    "ja": "ねんどろいど 雪ミク ふわふわコートVer. (ねんどろいど ゆきみく ふわふわこーとVer.)",
-    "en": "Nendoroid Snow Miku: Fluffy Coat Ver. (ねんどろいど ゆきみく ふわふわこーとVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3434,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120113/3434/16868/large/16ea5a01e3581feaf8c9fc0aefd53c66.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow Miku: Fluffy Coat Ver. (ねんどろいど ゆきみく ふわふわこーとVer.)",
+    "ja" : "ねんどろいど 雪ミク ふわふわコートVer. (ねんどろいど ゆきみく ふわふわこーとVer.)",
+    "ko" : "유키 미쿠 푹신푹신 코트 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01 : Miku Hatsune"
-  },
-  "gsc_productNum": 3434,
-  "price": 4190,
-  "release_date": [
+  "num" : "207",
+  "price" : 4190,
+  "release_date" : [
     "2012/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120113/3434/16868/large/16ea5a01e3581feaf8c9fc0aefd53c66.jpg",
-  "gender": "F",
-  "set": 31
+  "series" : {
+    "en" : "Character Vocal Series 01 : Miku Hatsune",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 31
 }

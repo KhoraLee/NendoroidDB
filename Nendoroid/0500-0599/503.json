@@ -1,21 +1,21 @@
 {
-  "num": "503",
-  "name": {
-    "ko": "타카오",
-    "ja": "ねんどろいど タカオ (ねんどろいど たかお)",
-    "en": "Nendoroid Takao (ねんどろいど たかお)"
+  "gender" : "F",
+  "gsc_productNum" : 4835,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150127/4835/32225/large/fba91383dd12b56607b6c453c7c424cf.jpg",
+  "name" : {
+    "en" : "Nendoroid Takao (ねんどろいど たかお)",
+    "ja" : "ねんどろいど タカオ (ねんどろいど たかお)",
+    "ko" : "타카오"
   },
-  "series": {
-    "ko": "푸른 강철의 아르페지오",
-    "ja": "蒼き鋼のアルペジオ -アルス・ノヴァ-",
-    "en": "Arpeggio of Blue Steel -Ars Nova-"
-  },
-  "gsc_productNum": 4835,
-  "price": 4278,
-  "release_date": [
+  "num" : "503",
+  "price" : 4278,
+  "release_date" : [
     "2015/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150127/4835/32225/large/fba91383dd12b56607b6c453c7c424cf.jpg",
-  "gender": "F",
-  "set": 101
+  "series" : {
+    "en" : "Arpeggio of Blue Steel -Ars Nova-",
+    "ja" : "蒼き鋼のアルペジオ -アルス・ノヴァ-",
+    "ko" : "푸른 강철의 아르페지오"
+  },
+  "set" : 101
 }

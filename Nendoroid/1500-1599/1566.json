@@ -1,21 +1,21 @@
 {
-  "num": "1566",
-  "name": {
-    "ko": "카림 알 아짐",
-    "ja": "ねんどろいど カリム・アルアジーム (ねんどろいど かりむ・あるあじーむ)",
-    "en": "Nendoroid Kalim Al-Asim"
+  "gender" : "M",
+  "gsc_productNum" : 10739,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210129/10739/80446/large/3a1117e7fdc47ab9180b5320c39fd8e2.jpg",
+  "name" : {
+    "en" : "Nendoroid Kalim Al-Asim",
+    "ja" : "ねんどろいど カリム・アルアジーム (ねんどろいど かりむ・あるあじーむ)",
+    "ko" : "카림 알 아짐"
   },
-  "series": {
-    "ko": "디즈니 트위스티드 원더랜드",
-    "ja": "『ディズニー ツイステッドワンダーランド』",
-    "en": "Disney Twisted-Wonderland"
-  },
-  "gsc_productNum": 10739,
-  "price": 6600,
-  "release_date": [
+  "num" : "1566",
+  "price" : 6600,
+  "release_date" : [
     "2021/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210129/10739/80446/large/3a1117e7fdc47ab9180b5320c39fd8e2.jpg",
-  "gender": "M",
-  "set": 250
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 250
 }

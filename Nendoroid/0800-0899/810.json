@@ -1,21 +1,21 @@
 {
-  "num": "810",
-  "name": {
-    "ko": "오오카네히라",
-    "ja": "ねんどろいど 大包平 (ねんどろいど おおかねひら)",
-    "en": "Nendoroid Okanehira"
+  "gender" : "M",
+  "gsc_productNum" : 6621,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170801/6621/46844/large/3a67a84cc4b96d42f44014bf9f68bea2.jpg",
+  "name" : {
+    "en" : "Nendoroid Okanehira",
+    "ja" : "ねんどろいど 大包平 (ねんどろいど おおかねひら)",
+    "ko" : "오오카네히라"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 6621,
-  "price": 4584,
-  "release_date": [
+  "num" : "810",
+  "price" : 4584,
+  "release_date" : [
     "2018/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170801/6621/46844/large/3a67a84cc4b96d42f44014bf9f68bea2.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

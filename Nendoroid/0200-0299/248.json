@@ -1,21 +1,21 @@
 {
-  "num": "248",
-  "name": {
-    "ko": "타카츠키 이치카",
-    "ja": "ねんどろいど 貴月イチカ (ねんどろいど たかつきいちか)",
-    "en": "Nendoroid Ichika Takatsuki (ねんどろいど たかつきいちか)"
+  "gender" : "F",
+  "gsc_productNum" : 3560,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120528/3560/18583/large/9cd84f1982beaac4372d78c70f5c22bd.jpg",
+  "name" : {
+    "en" : "Nendoroid Ichika Takatsuki (ねんどろいど たかつきいちか)",
+    "ja" : "ねんどろいど 貴月イチカ (ねんどろいど たかつきいちか)",
+    "ko" : "타카츠키 이치카"
   },
-  "series": {
-    "ko": "그 여름에서 기다릴게",
-    "ja": "あの夏で待ってる",
-    "en": "Waiting in the Summer"
-  },
-  "gsc_productNum": 3560,
-  "price": 3981,
-  "release_date": [
+  "num" : "248",
+  "price" : 3981,
+  "release_date" : [
     "2012/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120528/3560/18583/large/9cd84f1982beaac4372d78c70f5c22bd.jpg",
-  "gender": "F",
-  "set": 60
+  "series" : {
+    "en" : "Waiting in the Summer",
+    "ja" : "あの夏で待ってる",
+    "ko" : "그 여름에서 기다릴게"
+  },
+  "set" : 60
 }

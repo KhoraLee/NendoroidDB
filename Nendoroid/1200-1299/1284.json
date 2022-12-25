@@ -1,21 +1,21 @@
 {
-  "num": "1284",
-  "name": {
-    "ko": "헌터♀ 나르가α Ver.",
-    "ja": "ねんどろいど ハンター♀ ナルガα Ver. (ねんどろいど ハンター♀ なるがα Ver.)",
-    "en": "Nendoroid Hunter: Female Nargacuga Alpha Armor Ver."
+  "gender" : "F",
+  "gsc_productNum" : 9275,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200214/9275/67669/large/e03c209cb1761d03ebfaaf58cfd3ed5c.jpg",
+  "name" : {
+    "en" : "Nendoroid Hunter: Female Nargacuga Alpha Armor Ver.",
+    "ja" : "ねんどろいど ハンター♀ ナルガα Ver. (ねんどろいど ハンター♀ なるがα Ver.)",
+    "ko" : "헌터♀ 나르가α Ver."
   },
-  "series": {
-    "ko": "몬스터 헌터",
-    "ja": "モンスターハンターワールド：アイスボーン",
-    "en": "MONSTER HUNTER WORLD: ICEBORNE"
-  },
-  "gsc_productNum": 9275,
-  "price": 5500,
-  "release_date": [
+  "num" : "1284",
+  "price" : 5500,
+  "release_date" : [
     "2020/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200214/9275/67669/large/e03c209cb1761d03ebfaaf58cfd3ed5c.jpg",
-  "gender": "F",
-  "set": 64
+  "series" : {
+    "en" : "MONSTER HUNTER WORLD: ICEBORNE",
+    "ja" : "モンスターハンターワールド：アイスボーン",
+    "ko" : "몬스터 헌터"
+  },
+  "set" : 64
 }

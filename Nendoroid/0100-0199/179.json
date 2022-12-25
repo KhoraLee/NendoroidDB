@@ -1,20 +1,20 @@
 {
-  "num": "179",
-  "name": {
-    "ko": "쿠로누마 사와코",
-    "ja": "ねんどろいど 黒沼爽子 (ねんどろいど くろぬまさわこ)",
-    "en": "Nendoroid Sawako Kuronuma (ねんどろいど くろぬまさわこ)"
+  "gender" : "F",
+  "gsc_productNum" : 3173,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110520/3173/14008/large/87f8c402eb7138d14c954a8a838adc16.jpg",
+  "name" : {
+    "en" : "Nendoroid Sawako Kuronuma (ねんどろいど くろぬまさわこ)",
+    "ja" : "ねんどろいど 黒沼爽子 (ねんどろいど くろぬまさわこ)",
+    "ko" : "쿠로누마 사와코"
   },
-  "series": {
-    "ko": "너에게 닿기를",
-    "ja": "君に届け",
-    "en": "Kimi ni Todoke"
-  },
-  "gsc_productNum": 3173,
-  "price": 3143,
-  "release_date": [
+  "num" : "179",
+  "price" : 3143,
+  "release_date" : [
     "2011/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110520/3173/14008/large/87f8c402eb7138d14c954a8a838adc16.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Kimi ni Todoke",
+    "ja" : "君に届け",
+    "ko" : "너에게 닿기를"
+  }
 }

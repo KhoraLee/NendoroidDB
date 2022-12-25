@@ -1,20 +1,20 @@
 {
-  "num": "1673",
-  "name": {
-    "ko": "칩과 데일",
-    "ja": "ねんどろいど チップ＆デール (ねんどろいど ちっぷあんどでーる)",
-    "en": "Nendoroid Chip \u0027n Dale"
+  "gsc_productNum" : 11492,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210715/11492/87249/large/7240662aedf65ef4da14774e74b661f2.jpg",
+  "name" : {
+    "en" : "Nendoroid Chip 'n Dale",
+    "ja" : "ねんどろいど チップ＆デール (ねんどろいど ちっぷあんどでーる)",
+    "ko" : "칩과 데일"
   },
-  "series": {
-    "ko": "미키와 친구들",
-    "ja": "チップ＆デール",
-    "en": "Chip \u0027n Dale"
-  },
-  "gsc_productNum": 11492,
-  "price": 8800,
-  "release_date": [
+  "num" : "1673",
+  "price" : 8800,
+  "release_date" : [
     "2022/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210715/11492/87249/large/7240662aedf65ef4da14774e74b661f2.jpg",
-  "set": 32
+  "series" : {
+    "en" : "Chip 'n Dale",
+    "ja" : "チップ＆デール",
+    "ko" : "미키와 친구들"
+  },
+  "set" : 32
 }

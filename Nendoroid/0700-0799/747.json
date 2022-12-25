@@ -1,22 +1,22 @@
 {
-  "num": "747",
-  "name": {
-    "ko": "카가리 아츠코",
-    "ja": "ねんどろいど アツコ・カガリ (ねんどろいど あつこ・かがり)",
-    "en": "Nendoroid Atsuko Kagari"
+  "gender" : "F",
+  "gsc_productNum" : 6314,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170313/6314/44302/large/f6d280d4b06270c755a9c8e010e100aa.jpg",
+  "name" : {
+    "en" : "Nendoroid Atsuko Kagari",
+    "ja" : "ねんどろいど アツコ・カガリ (ねんどろいど あつこ・かがり)",
+    "ko" : "카가리 아츠코"
   },
-  "series": {
-    "ko": "리틀 위치 아카데미아",
-    "ja": "リトルウィッチアカデミア",
-    "en": "Little Witch Academia"
-  },
-  "gsc_productNum": 6314,
-  "price": 4584,
-  "release_date": [
+  "num" : "747",
+  "price" : 4584,
+  "release_date" : [
     "2017/09",
     "2018/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170313/6314/44302/large/f6d280d4b06270c755a9c8e010e100aa.jpg",
-  "gender": "F",
-  "set": 154
+  "series" : {
+    "en" : "Little Witch Academia",
+    "ja" : "リトルウィッチアカデミア",
+    "ko" : "리틀 위치 아카데미아"
+  },
+  "set" : 154
 }

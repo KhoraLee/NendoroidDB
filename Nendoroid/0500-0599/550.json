@@ -1,23 +1,23 @@
 {
-  "num": "550",
-  "name": {
-    "ko": "안나",
-    "ja": "ねんどろいど アナ (ねんどろいど あな)",
-    "en": "Nendoroid Anna"
+  "gender" : "F",
+  "gsc_productNum" : 5147,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150728/5147/34802/large/215f476cc25eccc2c3fbe23b7c04a9fd.jpg",
+  "name" : {
+    "en" : "Nendoroid Anna",
+    "ja" : "ねんどろいど アナ (ねんどろいど あな)",
+    "ko" : "안나"
   },
-  "series": {
-    "ko": "겨울왕국",
-    "ja": "アナと雪の女王",
-    "en": "Frozen"
-  },
-  "gsc_productNum": 5147,
-  "price": 5000,
-  "release_date": [
+  "num" : "550",
+  "price" : 5000,
+  "release_date" : [
     "2016/01",
     "2017/09",
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150728/5147/34802/large/215f476cc25eccc2c3fbe23b7c04a9fd.jpg",
-  "gender": "F",
-  "set": 32
+  "series" : {
+    "en" : "Frozen",
+    "ja" : "アナと雪の女王",
+    "ko" : "겨울왕국"
+  },
+  "set" : 32
 }

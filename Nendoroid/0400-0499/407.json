@@ -1,23 +1,23 @@
 {
-  "num": "407",
-  "name": {
-    "ko": "마토이 류코",
-    "ja": "ねんどろいど 纏流子 (ねんどろいど まといりゅうこ)",
-    "en": "Nendoroid Ryuko Matoi (ねんどろいど まといりゅうこ)"
+  "gender" : "F",
+  "gsc_productNum" : 4261,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140317/4261/44891/large/f5f9741033ef8657a8e15280be898977.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryuko Matoi (ねんどろいど まといりゅうこ)",
+    "ja" : "ねんどろいど 纏流子 (ねんどろいど まといりゅうこ)",
+    "ko" : "마토이 류코"
   },
-  "series": {
-    "ko": "킬라킬",
-    "ja": "キルラキル",
-    "en": "KILL la KILL"
-  },
-  "gsc_productNum": 4261,
-  "price": 3972,
-  "release_date": [
+  "num" : "407",
+  "price" : 3972,
+  "release_date" : [
     "2014/08",
     "2017/09",
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140317/4261/44891/large/f5f9741033ef8657a8e15280be898977.jpg",
-  "gender": "F",
-  "set": 97
+  "series" : {
+    "en" : "KILL la KILL",
+    "ja" : "キルラキル",
+    "ko" : "킬라킬"
+  },
+  "set" : 97
 }

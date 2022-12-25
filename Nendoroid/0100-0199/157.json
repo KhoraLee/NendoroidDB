@@ -1,20 +1,20 @@
 {
-  "num": "157",
-  "name": {
-    "ko": "센도 에리카",
-    "ja": "ねんどろいど 千堂瑛里華 (ねんどろいど せんどうえりか)",
-    "en": "Nendoroid Erika Sendou (ねんどろいど せんどうえりか)"
+  "gender" : "F",
+  "gsc_productNum" : 3089,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110209/3089/12863/large/c939f942b51d8321e0e16b3f7e562e25.jpg",
+  "name" : {
+    "en" : "Nendoroid Erika Sendou (ねんどろいど せんどうえりか)",
+    "ja" : "ねんどろいど 千堂瑛里華 (ねんどろいど せんどうえりか)",
+    "ko" : "센도 에리카"
   },
-  "series": {
-    "ko": "Fortune Arterial",
-    "ja": "FORTUNE ARTERIAL",
-    "en": "Fortune Arterial"
-  },
-  "gsc_productNum": 3089,
-  "price": 3667,
-  "release_date": [
+  "num" : "157",
+  "price" : 3667,
+  "release_date" : [
     "2011/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110209/3089/12863/large/c939f942b51d8321e0e16b3f7e562e25.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Fortune Arterial",
+    "ja" : "FORTUNE ARTERIAL",
+    "ko" : "Fortune Arterial"
+  }
 }

@@ -1,20 +1,20 @@
 {
-  "num": "776",
-  "name": {
-    "ko": "사쿠라코우지 루나",
-    "ja": "ねんどろいど 桜小路ルナ (ねんどろいど さくらこうじるな)",
-    "en": "Nendoroid Luna Sakurakouji"
+  "gender" : "F",
+  "gsc_productNum" : 6451,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170522/6451/45482/large/a5e53a7ad247ffac1c2011c9ba49751f.jpg",
+  "name" : {
+    "en" : "Nendoroid Luna Sakurakouji",
+    "ja" : "ねんどろいど 桜小路ルナ (ねんどろいど さくらこうじるな)",
+    "ko" : "사쿠라코우지 루나"
   },
-  "series": {
-    "ko": "달에 다가가는 소녀의 작법",
-    "ja": "月に寄りそう乙女の作法 ～ひだまりの日々～",
-    "en": "Tsuki ni Yorisou Otome no Sahou ~Hidamari no Hibi~"
-  },
-  "gsc_productNum": 6451,
-  "price": 4278,
-  "release_date": [
+  "num" : "776",
+  "price" : 4278,
+  "release_date" : [
     "2017/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170522/6451/45482/large/a5e53a7ad247ffac1c2011c9ba49751f.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Tsuki ni Yorisou Otome no Sahou ~Hidamari no Hibi~",
+    "ja" : "月に寄りそう乙女の作法 ～ひだまりの日々～",
+    "ko" : "달에 다가가는 소녀의 작법"
+  }
 }

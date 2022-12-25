@@ -1,22 +1,22 @@
 {
-  "num": "742",
-  "name": {
-    "ko": "레오나르도 워치",
-    "ja": "ねんどろいど レオナルド・ウォッチ (ねんどろいど れおなるど・うぉっち)",
-    "en": "Nendoroid Leonardo Watch"
+  "gender" : "M",
+  "gsc_productNum" : 6301,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170228/6301/44192/large/1bd86ec87393817f93ab6218756db48d.jpg",
+  "name" : {
+    "en" : "Nendoroid Leonardo Watch",
+    "ja" : "ねんどろいど レオナルド・ウォッチ (ねんどろいど れおなるど・うぉっち)",
+    "ko" : "레오나르도 워치"
   },
-  "series": {
-    "ko": "혈계전선",
-    "ja": "血界戦線 ＆ BEYOND",
-    "en": "Blood Blockade Battlefront \u0026 Beyond"
-  },
-  "gsc_productNum": 6301,
-  "price": 4888,
-  "release_date": [
+  "num" : "742",
+  "price" : 4888,
+  "release_date" : [
     "2017/09",
     "2018/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170228/6301/44192/large/1bd86ec87393817f93ab6218756db48d.jpg",
-  "gender": "M",
-  "set": 153
+  "series" : {
+    "en" : "Blood Blockade Battlefront & Beyond",
+    "ja" : "血界戦線 ＆ BEYOND",
+    "ko" : "혈계전선"
+  },
+  "set" : 153
 }

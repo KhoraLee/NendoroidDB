@@ -1,20 +1,20 @@
 {
-  "num": "1365",
-  "name": {
-    "ko": "아마테라스",
-    "ja": "ねんどろいど アマテラス (ねんどろいど あまてらす)",
-    "en": "Nendoroid Amaterasu"
+  "gsc_productNum" : 9429,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200416/9429/69072/large/90b02e31a7fddd387ecd32a6ed4c9b7f.jpg",
+  "name" : {
+    "en" : "Nendoroid Amaterasu",
+    "ja" : "ねんどろいど アマテラス (ねんどろいど あまてらす)",
+    "ko" : "아마테라스"
   },
-  "series": {
-    "ko": "오오카미",
-    "ja": "大神",
-    "en": "Okami"
-  },
-  "gsc_productNum": 9429,
-  "price": 5500,
-  "release_date": [
+  "num" : "1365",
+  "price" : 5500,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200416/9429/69072/large/90b02e31a7fddd387ecd32a6ed4c9b7f.jpg",
-  "set": 239
+  "series" : {
+    "en" : "Okami",
+    "ja" : "大神",
+    "ko" : "오오카미"
+  },
+  "set" : 239
 }

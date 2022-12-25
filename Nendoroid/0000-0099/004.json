@@ -1,19 +1,19 @@
 {
-  "num": "004",
-  "name": {
-    "ko": "메소 우사",
-    "ja": "ねんどろいど メソウサ (めそうさ　ねんどろいど)",
-    "en": "Nendoroid Mesousa (めそうさ　ねんどろいど)"
+  "gsc_productNum" : 582,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/582/874/large/db972959bc0a3f0405a568c358d12ed9.jpg",
+  "name" : {
+    "en" : "Nendoroid Mesousa (めそうさ　ねんどろいど)",
+    "ja" : "ねんどろいど メソウサ (めそうさ　ねんどろいど)",
+    "ko" : "메소 우사"
   },
-  "series": {
-    "ko": "파니포니\u0026파니포니 대쉬",
-    "ja": "ぱにぽにだっしゅ！",
-    "en": "Pani Poni Dash!"
-  },
-  "gsc_productNum": 582,
-  "price": 3143,
-  "release_date": [
+  "num" : "004",
+  "price" : 3143,
+  "release_date" : [
     "2006/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/582/874/large/db972959bc0a3f0405a568c358d12ed9.jpg"
+  "series" : {
+    "en" : "Pani Poni Dash!",
+    "ja" : "ぱにぽにだっしゅ！",
+    "ko" : "파니포니&파니포니 대쉬"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1635",
-  "name": {
-    "ko": "켈시",
-    "ja": "ねんどろいど ケルシー (ねんどろいど けるしー)",
-    "en": "Nendoroid Kal\u0027tsit"
+  "gender" : "F",
+  "gsc_productNum" : 11144,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210422/11144/86478/large/7e4612d7a909ae546991a44ef9d54408.jpg",
+  "name" : {
+    "en" : "Nendoroid Kal'tsit",
+    "ja" : "ねんどろいど ケルシー (ねんどろいど けるしー)",
+    "ko" : "켈시"
   },
-  "series": {
-    "ko": "명일방주",
-    "ja": "アークナイツ",
-    "en": "Arknights"
-  },
-  "gsc_productNum": 11144,
-  "price": 6900,
-  "release_date": [
+  "num" : "1635",
+  "price" : 6900,
+  "release_date" : [
     "2022/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210422/11144/86478/large/7e4612d7a909ae546991a44ef9d54408.jpg",
-  "gender": "F",
-  "set": 216
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 216
 }

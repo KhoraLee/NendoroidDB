@@ -1,20 +1,20 @@
 {
-  "num": "1271",
-  "name": {
-    "ko": "센코",
-    "ja": "ねんどろいど 仙狐 (ねんどろいど せんこ)",
-    "en": "Nendoroid Senko"
+  "gender" : "F",
+  "gsc_productNum" : 9189,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200120/9189/66898/large/66b690385047e77d7d0f947d3bb153d2.jpg",
+  "name" : {
+    "en" : "Nendoroid Senko",
+    "ja" : "ねんどろいど 仙狐 (ねんどろいど せんこ)",
+    "ko" : "센코"
   },
-  "series": {
-    "ko": "도우미 여우 센코 씨",
-    "ja": "世話やきキツネの仙狐さん",
-    "en": "The Helpful Fox Senko-san"
-  },
-  "gsc_productNum": 9189,
-  "price": 5500,
-  "release_date": [
+  "num" : "1271",
+  "price" : 5500,
+  "release_date" : [
     "2020/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200120/9189/66898/large/66b690385047e77d7d0f947d3bb153d2.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "The Helpful Fox Senko-san",
+    "ja" : "世話やきキツネの仙狐さん",
+    "ko" : "도우미 여우 센코 씨"
+  }
 }

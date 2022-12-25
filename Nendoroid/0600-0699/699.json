@@ -1,22 +1,22 @@
 {
-  "num": "699",
-  "name": {
-    "ko": "이와이즈미 하지메",
-    "ja": "ねんどろいど 岩泉一 (ねんどろいど いわいずみはじめ)",
-    "en": "Nendoroid Hajime Iwaizumi"
+  "gender" : "M",
+  "gsc_productNum" : 6100,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161129/6100/42547/large/f8962d08e3c4a33605f057b23dfba57f.jpg",
+  "name" : {
+    "en" : "Nendoroid Hajime Iwaizumi",
+    "ja" : "ねんどろいど 岩泉一 (ねんどろいど いわいずみはじめ)",
+    "ko" : "이와이즈미 하지메"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "Haikyu!!"
-  },
-  "gsc_productNum": 6100,
-  "price": 4481,
-  "release_date": [
+  "num" : "699",
+  "price" : 4481,
+  "release_date" : [
     "2017/05",
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161129/6100/42547/large/f8962d08e3c4a33605f057b23dfba57f.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

@@ -1,21 +1,21 @@
 {
-  "num": "953",
-  "name": {
-    "ko": "테루야스 마리아",
-    "ja": "ねんどろいど 照安鞠亜 (ねんどろいど てるやすまりあ)",
-    "en": "Nendoroid Maria Teruyasu"
+  "gender" : "F",
+  "gsc_productNum" : 7382,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180626/7382/52851/large/9f736200db0b313f7b8af90f57983430.jpg",
+  "name" : {
+    "en" : "Nendoroid Maria Teruyasu",
+    "ja" : "ねんどろいど 照安鞠亜 (ねんどろいど てるやすまりあ)",
+    "ko" : "테루야스 마리아"
   },
-  "series": {
-    "ko": "리틀 아머리",
-    "ja": "リトルアーモリー",
-    "en": "Little Armory"
-  },
-  "gsc_productNum": 7382,
-  "price": 5280,
-  "release_date": [
+  "num" : "953",
+  "price" : 5280,
+  "release_date" : [
     "2018/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180626/7382/52851/large/9f736200db0b313f7b8af90f57983430.jpg",
-  "gender": "F",
-  "set": 164
+  "series" : {
+    "en" : "Little Armory",
+    "ja" : "リトルアーモリー",
+    "ko" : "리틀 아머리"
+  },
+  "set" : 164
 }

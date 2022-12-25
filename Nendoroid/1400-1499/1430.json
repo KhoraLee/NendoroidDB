@@ -1,22 +1,22 @@
 {
-  "num": "1430",
-  "name": {
-    "ko": "다비",
-    "ja": "ねんどろいど 荼毘 (ねんどろいど だび)",
-    "en": "Nendoroid Dabi"
+  "gender" : "M",
+  "gsc_productNum" : 9893,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200803/9893/72878/large/c998528e5d67ff5c0893eeba2987f119.jpg",
+  "name" : {
+    "en" : "Nendoroid Dabi",
+    "ja" : "ねんどろいど 荼毘 (ねんどろいど だび)",
+    "ko" : "다비"
   },
-  "series": {
-    "ko": "나의 히어로 아카데미아",
-    "ja": "僕のヒーローアカデミア",
-    "en": "My Hero Academia"
-  },
-  "gsc_productNum": 9893,
-  "price": 5500,
-  "release_date": [
+  "num" : "1430",
+  "price" : 5500,
+  "release_date" : [
     "2021/03",
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200803/9893/72878/large/c998528e5d67ff5c0893eeba2987f119.jpg",
-  "gender": "M",
-  "set": 146
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 146
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1036",
-  "name": {
-    "ko": "혈소판",
-    "ja": "ねんどろいど 血小板 (ねんどろいど けっしょうばん)",
-    "en": "Nendoroid Platelet"
+  "gender" : "F",
+  "gsc_productNum" : 7831,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181122/7831/56222/large/2bd9fea4a5cb05035cc3262b2fc2da5c.jpg",
+  "name" : {
+    "en" : "Nendoroid Platelet",
+    "ja" : "ねんどろいど 血小板 (ねんどろいど けっしょうばん)",
+    "ko" : "혈소판"
   },
-  "series": {
-    "ko": "일하는 세포",
-    "ja": "はたらく細胞",
-    "en": "Cells at Work!"
-  },
-  "gsc_productNum": 7831,
-  "price": 4584,
-  "release_date": [
+  "num" : "1036",
+  "price" : 4584,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181122/7831/56222/large/2bd9fea4a5cb05035cc3262b2fc2da5c.jpg",
-  "gender": "F",
-  "set": 190
+  "series" : {
+    "en" : "Cells at Work!",
+    "ja" : "はたらく細胞",
+    "ko" : "일하는 세포"
+  },
+  "set" : 190
 }

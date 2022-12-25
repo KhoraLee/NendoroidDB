@@ -1,21 +1,21 @@
 {
-  "num": "811",
-  "name": {
-    "ko": "이짱",
-    "ja": "ねんどろいど いーちゃん",
-    "en": "Nendoroid I-chan"
+  "gender" : "M",
+  "gsc_productNum" : 6643,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170808/6643/46997/large/b869c554be379e91db1f3df696b2aa5b.jpg",
+  "name" : {
+    "en" : "Nendoroid I-chan",
+    "ja" : "ねんどろいど いーちゃん",
+    "ko" : "이짱"
   },
-  "series": {
-    "ko": "헛소리 시리즈",
-    "ja": "クビキリサイクル 青色サヴァンと戯言遣い",
-    "en": "The Beheading Cycle: The Blue Savant and the Nonsense Bearer"
-  },
-  "gsc_productNum": 6643,
-  "price": 4991,
-  "release_date": [
+  "num" : "811",
+  "price" : 4991,
+  "release_date" : [
     "2018/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170808/6643/46997/large/b869c554be379e91db1f3df696b2aa5b.jpg",
-  "gender": "M",
-  "set": 162
+  "series" : {
+    "en" : "The Beheading Cycle: The Blue Savant and the Nonsense Bearer",
+    "ja" : "クビキリサイクル 青色サヴァンと戯言遣い",
+    "ko" : "헛소리 시리즈"
+  },
+  "set" : 162
 }

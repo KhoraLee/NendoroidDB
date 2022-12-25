@@ -1,21 +1,21 @@
 {
-  "num": "604",
-  "name": {
-    "ko": "코메이지 코이시",
-    "ja": "ねんどろいど 古明地こいし (ねんどろいど こめいじこいし)",
-    "en": "Nendoroid Koishi Komeiji"
+  "gender" : "F",
+  "gsc_productNum" : 5464,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160119/5464/37365/large/3eb66e3b861da7cad648ee705437102e.jpg",
+  "name" : {
+    "en" : "Nendoroid Koishi Komeiji",
+    "ja" : "ねんどろいど 古明地こいし (ねんどろいど こめいじこいし)",
+    "ko" : "코메이지 코이시"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方Project",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 5464,
-  "price": 4584,
-  "release_date": [
+  "num" : "604",
+  "price" : 4584,
+  "release_date" : [
     "2016/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160119/5464/37365/large/3eb66e3b861da7cad648ee705437102e.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

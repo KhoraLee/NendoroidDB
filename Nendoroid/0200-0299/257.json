@@ -1,21 +1,21 @@
 {
-  "num": "257",
-  "name": {
-    "ko": "냐루코",
-    "ja": "ねんどろいど ニャル子 (ねんどろいど にゃるこ)",
-    "en": "Nendoroid Nyaruko (ねんどろいど にゃるこ)"
+  "gender" : "F",
+  "gsc_productNum" : 3586,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120620/3586/19078/large/2950ad79bcc52a4338a363c5f542be83.jpg",
+  "name" : {
+    "en" : "Nendoroid Nyaruko (ねんどろいど にゃるこ)",
+    "ja" : "ねんどろいど ニャル子 (ねんどろいど にゃるこ)",
+    "ko" : "냐루코"
   },
-  "series": {
-    "ko": "기어와라! 냐루코양",
-    "ja": "這いよれ！ニャル子さん",
-    "en": "Haiyore! Nyaruko-san"
-  },
-  "gsc_productNum": 3586,
-  "price": 3667,
-  "release_date": [
+  "num" : "257",
+  "price" : 3667,
+  "release_date" : [
     "2012/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120620/3586/19078/large/2950ad79bcc52a4338a363c5f542be83.jpg",
-  "gender": "F",
-  "set": 62
+  "series" : {
+    "en" : "Haiyore! Nyaruko-san",
+    "ja" : "這いよれ！ニャル子さん",
+    "ko" : "기어와라! 냐루코양"
+  },
+  "set" : 62
 }

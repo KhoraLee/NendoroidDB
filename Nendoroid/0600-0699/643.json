@@ -1,21 +1,21 @@
 {
-  "num": "643",
-  "name": {
-    "ko": "슈퍼맨 저스티스 에디션",
-    "ja": "ねんどろいど スーパーマン ジャスティス・エディション (ねんどろいど すーぱーまん じゃすてぃす・えでぃしょん)",
-    "en": "Nendoroid Superman: Justice Edition"
+  "gender" : "M",
+  "gsc_productNum" : 5750,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160617/5750/39645/large/7822180f48f3f7dd0d7c8381264336a6.jpg",
+  "name" : {
+    "en" : "Nendoroid Superman: Justice Edition",
+    "ja" : "ねんどろいど スーパーマン ジャスティス・エディション (ねんどろいど すーぱーまん じゃすてぃす・えでぃしょん)",
+    "ko" : "슈퍼맨 저스티스 에디션"
   },
-  "series": {
-    "ko": "배트맨 vs 슈퍼맨: 저스티스의 시작",
-    "ja": "バットマン vs スーパーマン ジャスティスの誕生",
-    "en": "Batman v Superman: Dawn of Justice"
-  },
-  "gsc_productNum": 5750,
-  "price": 4584,
-  "release_date": [
+  "num" : "643",
+  "price" : 4584,
+  "release_date" : [
     "2016/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160617/5750/39645/large/7822180f48f3f7dd0d7c8381264336a6.jpg",
-  "gender": "M",
-  "set": 131
+  "series" : {
+    "en" : "Batman v Superman: Dawn of Justice",
+    "ja" : "バットマン vs スーパーマン ジャスティスの誕生",
+    "ko" : "배트맨 vs 슈퍼맨: 저스티스의 시작"
+  },
+  "set" : 131
 }

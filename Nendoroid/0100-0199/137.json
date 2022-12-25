@@ -1,22 +1,22 @@
 {
-  "num": "137",
-  "name": {
-    "ko": "다테 마사무네",
-    "ja": "ねんどろいど 伊達政宗 (ねんどろいど だてまさむね)",
-    "en": "Nendoroid Masamune Date (ねんどろいど だてまさむね)"
+  "gender" : "M",
+  "gsc_productNum" : 2983,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100929/2983/11554/large/a7d725f85e353105c5db5f692ad14163.jpg",
+  "name" : {
+    "en" : "Nendoroid Masamune Date (ねんどろいど だてまさむね)",
+    "ja" : "ねんどろいど 伊達政宗 (ねんどろいど だてまさむね)",
+    "ko" : "다테 마사무네"
   },
-  "series": {
-    "ko": "전국 바사라",
-    "ja": "戦国BASARA",
-    "en": "Sengoku Basara"
-  },
-  "gsc_productNum": 2983,
-  "price": 3667,
-  "release_date": [
+  "num" : "137",
+  "price" : 3667,
+  "release_date" : [
     "2011/04",
     "2012/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100929/2983/11554/large/a7d725f85e353105c5db5f692ad14163.jpg",
-  "gender": "M",
-  "set": 41
+  "series" : {
+    "en" : "Sengoku Basara",
+    "ja" : "戦国BASARA",
+    "ko" : "전국 바사라"
+  },
+  "set" : 41
 }

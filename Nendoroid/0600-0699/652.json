@@ -1,21 +1,21 @@
 {
-  "num": "652",
-  "name": {
-    "ko": "소라",
-    "ja": "ねんどろいど 空(『ノーゲーム・ノーライフ プラクティカルウォーゲーム ねんどろいど 空付き特装版』同梱) (ねんどろいど そら(『のーげーむ・のーらいふ ぷらくてぃかるうぉーげーむ ねんどろいど そらつきとくそうばん』どうこん))",
-    "en": "Nendoroid Sora"
+  "gender" : "M",
+  "gsc_productNum" : 5794,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160712/5794/40012/large/12ed7c4e915c14cc6de5d0ade3782221.jpg",
+  "name" : {
+    "en" : "Nendoroid Sora",
+    "ja" : "ねんどろいど 空(『ノーゲーム・ノーライフ プラクティカルウォーゲーム ねんどろいど 空付き特装版』同梱) (ねんどろいど そら(『のーげーむ・のーらいふ ぷらくてぃかるうぉーげーむ ねんどろいど そらつきとくそうばん』どうこん))",
+    "ko" : "소라"
   },
-  "series": {
-    "ko": "노게임 노라이프",
-    "ja": "ノーゲーム・ノーライフ",
-    "en": "No Game No Life"
-  },
-  "gsc_productNum": 5794,
-  "price": 4500,
-  "release_date": [
+  "num" : "652",
+  "price" : 4500,
+  "release_date" : [
     "2016/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160712/5794/40012/large/12ed7c4e915c14cc6de5d0ade3782221.jpg",
-  "gender": "M",
-  "set": 136
+  "series" : {
+    "en" : "No Game No Life",
+    "ja" : "ノーゲーム・ノーライフ",
+    "ko" : "노게임 노라이프"
+  },
+  "set" : 136
 }

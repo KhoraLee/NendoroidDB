@@ -1,21 +1,21 @@
 {
-  "num": "135",
-  "name": {
-    "ko": "히라사와 우이",
-    "ja": "ねんどろいど 平沢 憂 (ねんどろいど ひらさわうい)",
-    "en": "Nendoroid Ui Hirasawa (ねんどろいど ひらさわうい)"
+  "gender" : "F",
+  "gsc_productNum" : 2982,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100929/2982/11547/large/dfd82d26838ee7674e048422a83a5dc7.jpg",
+  "name" : {
+    "en" : "Nendoroid Ui Hirasawa (ねんどろいど ひらさわうい)",
+    "ja" : "ねんどろいど 平沢 憂 (ねんどろいど ひらさわうい)",
+    "ko" : "히라사와 우이"
   },
-  "series": {
-    "ko": "케이온!",
-    "ja": "けいおん！",
-    "en": "K-ON!"
-  },
-  "gsc_productNum": 2982,
-  "price": 3667,
-  "release_date": [
+  "num" : "135",
+  "price" : 3667,
+  "release_date" : [
     "2011/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100929/2982/11547/large/dfd82d26838ee7674e048422a83a5dc7.jpg",
-  "gender": "F",
-  "set": 27
+  "series" : {
+    "en" : "K-ON!",
+    "ja" : "けいおん！",
+    "ko" : "케이온!"
+  },
+  "set" : 27
 }

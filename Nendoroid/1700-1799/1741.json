@@ -1,21 +1,21 @@
 {
-  "num": "1741",
-  "name": {
-    "ko": "나츠 드래그닐",
-    "ja": "ねんどろいど ナツ・ドラグニル (ねんどろいど なつ・どらぐにる)",
-    "en": "Nendoroid Natsu Dragneel"
+  "gender" : "M",
+  "gsc_productNum" : 11890,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211008/11890/90905/large/8e5f98fcc5c64a7dd806154c00fd7fb3.jpg",
+  "name" : {
+    "en" : "Nendoroid Natsu Dragneel",
+    "ja" : "ねんどろいど ナツ・ドラグニル (ねんどろいど なつ・どらぐにる)",
+    "ko" : "나츠 드래그닐"
   },
-  "series": {
-    "ko": "페어리 테일",
-    "ja": "「FAIRY TAIL」ファイナルシリーズ",
-    "en": "Fairy Tail Final Season"
-  },
-  "gsc_productNum": 11890,
-  "price": 6600,
-  "release_date": [
+  "num" : "1741",
+  "price" : 6600,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211008/11890/90905/large/8e5f98fcc5c64a7dd806154c00fd7fb3.jpg",
-  "gender": "M",
-  "set": 274
+  "series" : {
+    "en" : "Fairy Tail Final Season",
+    "ja" : "「FAIRY TAIL」ファイナルシリーズ",
+    "ko" : "페어리 테일"
+  },
+  "set" : 274
 }

@@ -1,21 +1,21 @@
 {
-  "num": "487",
-  "name": {
-    "ko": "노이즈",
-    "ja": "ねんどろいど ノイズ (ねんどろいど のいず)",
-    "en": "Nendoroid Noiz (ねんどろいど のいず)"
+  "gender" : "M",
+  "gsc_productNum" : 4773,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141211/4773/31732/large/d3a1475ac4a1551bb3a5003189478948.jpg",
+  "name" : {
+    "en" : "Nendoroid Noiz (ねんどろいど のいず)",
+    "ja" : "ねんどろいど ノイズ (ねんどろいど のいず)",
+    "ko" : "노이즈"
   },
-  "series": {
-    "ko": "드라마티컬 머더",
-    "ja": "DRAMAtical Murder",
-    "en": "DRAMAtical Murder"
-  },
-  "gsc_productNum": 4773,
-  "price": 4888,
-  "release_date": [
+  "num" : "487",
+  "price" : 4888,
+  "release_date" : [
     "2015/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141211/4773/31732/large/d3a1475ac4a1551bb3a5003189478948.jpg",
-  "gender": "M",
-  "set": 100
+  "series" : {
+    "en" : "DRAMAtical Murder",
+    "ja" : "DRAMAtical Murder",
+    "ko" : "드라마티컬 머더"
+  },
+  "set" : 100
 }

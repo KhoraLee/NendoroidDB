@@ -1,21 +1,21 @@
 {
-  "num": "236",
-  "name": {
-    "ko": "에스텔 브라이트",
-    "ja": "ねんどろいど エステル・ブライト (ねんどろいど えすてる・ぶらいと)",
-    "en": "Nendoroid Estelle Bright (ねんどろいど えすてる・ぶらいと)"
+  "gender" : "F",
+  "gsc_productNum" : 3486,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120307/3486/17558/large/f0b632a576a22d5b97a4cd15481c7206.jpg",
+  "name" : {
+    "en" : "Nendoroid Estelle Bright (ねんどろいど えすてる・ぶらいと)",
+    "ja" : "ねんどろいど エステル・ブライト (ねんどろいど えすてる・ぶらいと)",
+    "ko" : "에스텔 브라이트"
   },
-  "series": {
-    "ko": "영웅전설 하늘의 궤적 SC",
-    "ja": "英雄伝説 空の軌跡 SC",
-    "en": "The Legend of Heroes: Trails in the Sky - Second Chapter"
-  },
-  "gsc_productNum": 3486,
-  "price": 3667,
-  "release_date": [
+  "num" : "236",
+  "price" : 3667,
+  "release_date" : [
     "2012/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120307/3486/17558/large/f0b632a576a22d5b97a4cd15481c7206.jpg",
-  "gender": "F",
-  "set": 56
+  "series" : {
+    "en" : "The Legend of Heroes: Trails in the Sky - Second Chapter",
+    "ja" : "英雄伝説 空の軌跡 SC",
+    "ko" : "영웅전설 하늘의 궤적 SC"
+  },
+  "set" : 56
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1495",
-  "name": {
-    "ko": "나카노 이치카",
-    "ja": "ねんどろいど 中野一花 (ねんどろいど なかのいちか)",
-    "en": "Nendoroid Ichika Nakano"
+  "gender" : "F",
+  "gsc_productNum" : 10285,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201022/10285/76259/large/30566c95a0a1ea8b6e3ec8bad6e431d8.jpg",
+  "name" : {
+    "en" : "Nendoroid Ichika Nakano",
+    "ja" : "ねんどろいど 中野一花 (ねんどろいど なかのいちか)",
+    "ko" : "나카노 이치카"
   },
-  "series": {
-    "ko": "5등분의 신부",
-    "ja": "五等分の花嫁",
-    "en": "The Quintessential Quintuplets"
-  },
-  "gsc_productNum": 10285,
-  "price": 4800,
-  "release_date": [
+  "num" : "1495",
+  "price" : 4800,
+  "release_date" : [
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201022/10285/76259/large/30566c95a0a1ea8b6e3ec8bad6e431d8.jpg",
-  "gender": "F",
-  "set": 235
+  "series" : {
+    "en" : "The Quintessential Quintuplets",
+    "ja" : "五等分の花嫁",
+    "ko" : "5등분의 신부"
+  },
+  "set" : 235
 }

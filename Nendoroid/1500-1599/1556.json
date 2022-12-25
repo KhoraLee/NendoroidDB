@@ -1,21 +1,21 @@
 {
-  "num": "1556",
-  "name": {
-    "ko": "예잉",
-    "ja": "ねんどろいど 葉英 (ねんどろいど いえいん)",
-    "en": "Nendoroid Ying Ye"
+  "gender" : "M",
+  "gsc_productNum" : 11830,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210927/11830/91655/large/2c593db21502850e30ebee4df95cd361.jpg",
+  "name" : {
+    "en" : "Nendoroid Ying Ye",
+    "ja" : "ねんどろいど 葉英 (ねんどろいど いえいん)",
+    "ko" : "예잉"
   },
-  "series": {
-    "ko": "검망3 : 손끝강호",
-    "ja": "剣網3",
-    "en": "JX3"
-  },
-  "gsc_productNum": 11830,
-  "price": 7500,
-  "release_date": [
+  "num" : "1556",
+  "price" : 7500,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210927/11830/91655/large/2c593db21502850e30ebee4df95cd361.jpg",
-  "gender": "M",
-  "set": 215
+  "series" : {
+    "en" : "JX3",
+    "ja" : "剣網3",
+    "ko" : "검망3 : 손끝강호"
+  },
+  "set" : 215
 }

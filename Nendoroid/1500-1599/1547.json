@@ -1,21 +1,21 @@
 {
-  "num": "1547",
-  "name": {
-    "ko": "타이",
-    "ja": "ねんどろいど ダイ (ねんどろいど だい)",
-    "en": "Nendoroid Dai"
+  "gender" : "M",
+  "gsc_productNum" : 10780,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210205/10780/80843/large/c5865c5c6ad0832e1530dbe299f6fd03.jpg",
+  "name" : {
+    "en" : "Nendoroid Dai",
+    "ja" : "ねんどろいど ダイ (ねんどろいど だい)",
+    "ko" : "타이"
   },
-  "series": {
-    "ko": "타이의 대모험",
-    "ja": "ドラゴンクエスト ダイの大冒険",
-    "en": "Dragon Quest: The Legend of Dai"
-  },
-  "gsc_productNum": 10780,
-  "price": 5500,
-  "release_date": [
+  "num" : "1547",
+  "price" : 5500,
+  "release_date" : [
     "2021/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210205/10780/80843/large/c5865c5c6ad0832e1530dbe299f6fd03.jpg",
-  "gender": "M",
-  "set": 254
+  "series" : {
+    "en" : "Dragon Quest: The Legend of Dai",
+    "ja" : "ドラゴンクエスト ダイの大冒険",
+    "ko" : "타이의 대모험"
+  },
+  "set" : 254
 }

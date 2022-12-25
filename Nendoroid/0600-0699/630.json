@@ -1,24 +1,24 @@
 {
-  "num": "630",
-  "name": {
-    "ko": "아쿠아",
-    "ja": "ねんどろいど アクア (ねんどろいど あくあ)",
-    "en": "Nendoroid Aqua"
+  "gender" : "F",
+  "gsc_productNum" : 5675,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160517/5675/39059/large/565e1c753f0c320c99abb7d2952d89e1.jpg",
+  "name" : {
+    "en" : "Nendoroid Aqua",
+    "ja" : "ねんどろいど アクア (ねんどろいど あくあ)",
+    "ko" : "아쿠아"
   },
-  "series": {
-    "ko": "이 멋진 세계에 축복을!",
-    "ja": "この素晴らしい世界に祝福を！",
-    "en": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO!"
-  },
-  "gsc_productNum": 5675,
-  "price": 5900,
-  "release_date": [
+  "num" : "630",
+  "price" : 5900,
+  "release_date" : [
     "2016/11",
     "2017/10",
     "2019/12",
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160517/5675/39059/large/565e1c753f0c320c99abb7d2952d89e1.jpg",
-  "gender": "F",
-  "set": 132
+  "series" : {
+    "en" : "KONO SUBARASHII SEKAI NI SYUKUFUKU WO!",
+    "ja" : "この素晴らしい世界に祝福を！",
+    "ko" : "이 멋진 세계에 축복을!"
+  },
+  "set" : 132
 }

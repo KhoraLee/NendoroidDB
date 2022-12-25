@@ -1,20 +1,20 @@
 {
-  "num": "1233",
-  "name": {
-    "ko": "단테 DMC5 Ver.",
-    "ja": "ねんどろいど ダンテ DMC5 Ver. (ねんどろいど だんて DMC5 Ver.)",
-    "en": "Nendoroid Dante: DMC5 Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8973,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191113/8973/65125/large/87cb15498088cbf609b7dc5703841d18.jpg",
+  "name" : {
+    "en" : "Nendoroid Dante: DMC5 Ver.",
+    "ja" : "ねんどろいど ダンテ DMC5 Ver. (ねんどろいど だんて DMC5 Ver.)",
+    "ko" : "단테 DMC5 Ver."
   },
-  "series": {
-    "ko": "데빌 메이 크라이",
-    "ja": "DEVIL MAY CRY 5（デビル メイ クライ 5）",
-    "en": "Devil May Cry 5"
-  },
-  "gsc_productNum": 8973,
-  "price": 6500,
-  "release_date": [
+  "num" : "1233",
+  "price" : 6500,
+  "release_date" : [
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191113/8973/65125/large/87cb15498088cbf609b7dc5703841d18.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Devil May Cry 5",
+    "ja" : "DEVIL MAY CRY 5（デビル メイ クライ 5）",
+    "ko" : "데빌 메이 크라이"
+  }
 }

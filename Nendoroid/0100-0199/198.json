@@ -1,21 +1,21 @@
 {
-  "num": "198",
-  "name": {
-    "ko": "하쿠아",
-    "ja": "ねんどろいど ハクア (ねんどろいど はくあ)",
-    "en": "Nendoroid Haqua (ねんどろいど はくあ)"
+  "gender" : "F",
+  "gsc_productNum" : 3304,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110927/3304/15622/large/9392d1abace0cd4e187c5cac0688887d.jpg",
+  "name" : {
+    "en" : "Nendoroid Haqua (ねんどろいど はくあ)",
+    "ja" : "ねんどろいど ハクア (ねんどろいど はくあ)",
+    "ko" : "하쿠아"
   },
-  "series": {
-    "ko": "신만이 아는 세계",
-    "ja": "神のみぞ知るセカイ",
-    "en": "The World God Only Knows"
-  },
-  "gsc_productNum": 3304,
-  "price": 3981,
-  "release_date": [
+  "num" : "198",
+  "price" : 3981,
+  "release_date" : [
     "2012/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110927/3304/15622/large/9392d1abace0cd4e187c5cac0688887d.jpg",
-  "gender": "F",
-  "set": 48
+  "series" : {
+    "en" : "The World God Only Knows",
+    "ja" : "神のみぞ知るセカイ",
+    "ko" : "신만이 아는 세계"
+  },
+  "set" : 48
 }

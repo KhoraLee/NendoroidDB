@@ -1,21 +1,21 @@
 {
-  "num": "622",
-  "name": {
-    "ko": "즈이카쿠",
-    "ja": "ねんどろいど 瑞鶴 (ねんどろいど ずいかく)",
-    "en": "Nendoroid Zuikaku"
+  "gender" : "F",
+  "gsc_productNum" : 5613,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160419/5613/38619/large/5f6561a72ef999fbe92401eaa138300b.jpg",
+  "name" : {
+    "en" : "Nendoroid Zuikaku",
+    "ja" : "ねんどろいど 瑞鶴 (ねんどろいど ずいかく)",
+    "ko" : "즈이카쿠"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 5613,
-  "price": 6112,
-  "release_date": [
+  "num" : "622",
+  "price" : 6112,
+  "release_date" : [
     "2016/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160419/5613/38619/large/5f6561a72ef999fbe92401eaa138300b.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

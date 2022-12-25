@@ -1,21 +1,21 @@
 {
-  "num": "1419",
-  "name": {
-    "ko": "아야나미 레이(가칭) 플러그 슈트 Ver.",
-    "ja": "ねんどろいど アヤナミレイ（仮称） プラグスーツVer. (ねんどろいど あやなみれい（かしょう）ぷらぐすーつVer.)",
-    "en": "Nendoroid Rei Ayanami [Tentative Name]: Plugsuit Ver."
+  "gender" : "F",
+  "gsc_productNum" : 9812,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200722/9812/72295/large/f715b861e0243546d939d7ca4f3a00ff.jpg",
+  "name" : {
+    "en" : "Nendoroid Rei Ayanami [Tentative Name]: Plugsuit Ver.",
+    "ja" : "ねんどろいど アヤナミレイ（仮称） プラグスーツVer. (ねんどろいど あやなみれい（かしょう）ぷらぐすーつVer.)",
+    "ko" : "아야나미 레이(가칭) 플러그 슈트 Ver."
   },
-  "series": {
-    "ko": "에반게리온",
-    "ja": "ヱヴァンゲリヲン新劇場版",
-    "en": "Rebuild of Evangelion"
-  },
-  "gsc_productNum": 9812,
-  "price": 5800,
-  "release_date": [
+  "num" : "1419",
+  "price" : 5800,
+  "release_date" : [
     "2021/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200722/9812/72295/large/f715b861e0243546d939d7ca4f3a00ff.jpg",
-  "gender": "F",
-  "set": 111
+  "series" : {
+    "en" : "Rebuild of Evangelion",
+    "ja" : "ヱヴァンゲリヲン新劇場版",
+    "ko" : "에반게리온"
+  },
+  "set" : 111
 }

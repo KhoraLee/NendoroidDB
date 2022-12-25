@@ -1,21 +1,21 @@
 {
-  "num": "1656",
-  "name": {
-    "ko": "A2",
-    "ja": "ねんどろいど NieR:Automata A2（ヨルハA型二号） (ねんどろいど にーあ:おーとまた えーとぅ（よるはえーがたにごう）)",
-    "en": "Nendoroid NieR:Automata A2 (YoRHa Type A No. 2)"
+  "gender" : "F",
+  "gsc_productNum" : 11553,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210727/11553/87730/large/e281e55fd385b954c778d6d38a866296.jpg",
+  "name" : {
+    "en" : "Nendoroid NieR:Automata A2 (YoRHa Type A No. 2)",
+    "ja" : "ねんどろいど NieR:Automata A2（ヨルハA型二号） (ねんどろいど にーあ:おーとまた えーとぅ（よるはえーがたにごう）)",
+    "ko" : "A2"
   },
-  "series": {
-    "ko": "니어 오토마타",
-    "ja": "NieR:Automata",
-    "en": "NieR:Automata"
-  },
-  "gsc_productNum": 11553,
-  "price": 6600,
-  "release_date": [
+  "num" : "1656",
+  "price" : 6600,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210727/11553/87730/large/e281e55fd385b954c778d6d38a866296.jpg",
-  "gender": "F",
-  "set": 249
+  "series" : {
+    "en" : "NieR:Automata",
+    "ja" : "NieR:Automata",
+    "ko" : "니어 오토마타"
+  },
+  "set" : 249
 }

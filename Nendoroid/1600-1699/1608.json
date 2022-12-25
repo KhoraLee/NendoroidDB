@@ -1,21 +1,21 @@
 {
-  "num": "1608",
-  "name": {
-    "ko": "시라누이",
-    "ja": "ねんどろいど 不知火 (ねんどろいど しらぬい)",
-    "en": "Nendoroid Shiranui"
+  "gender" : "F",
+  "gsc_productNum" : 11785,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210915/11785/89904/large/fc798f289df5b570545db80a1eb9b7d4.jpg",
+  "name" : {
+    "en" : "Nendoroid Shiranui",
+    "ja" : "ねんどろいど 不知火 (ねんどろいど しらぬい)",
+    "ko" : "시라누이"
   },
-  "series": {
-    "ko": "음양사 : 백문패",
-    "ja": "陰陽師",
-    "en": "Onmyoji"
-  },
-  "gsc_productNum": 11785,
-  "price": 6200,
-  "release_date": [
+  "num" : "1608",
+  "price" : 6200,
+  "release_date" : [
     "2022/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210915/11785/89904/large/fc798f289df5b570545db80a1eb9b7d4.jpg",
-  "gender": "F",
-  "set": 180
+  "series" : {
+    "en" : "Onmyoji",
+    "ja" : "陰陽師",
+    "ko" : "음양사 : 백문패"
+  },
+  "set" : 180
 }

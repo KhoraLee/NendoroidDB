@@ -1,21 +1,21 @@
 {
-  "num": "1100",
-  "name": {
-    "ko": "레이싱 미쿠 2019 Ver.",
-    "ja": "ねんどろいど レーシングミク 2019Ver. (ねんどろいど れーしんぐみく 2019Ver.)",
-    "en": "Nendoroid Racing Miku 2019 Ver."
+  "gender" : "F",
+  "gsc_productNum" : 8140,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190304/8140/58674/large/77d70842966ca5394e2a9fcac723894d.jpg",
+  "name" : {
+    "en" : "Nendoroid Racing Miku 2019 Ver.",
+    "ja" : "ねんどろいど レーシングミク 2019Ver. (ねんどろいど れーしんぐみく 2019Ver.)",
+    "ko" : "레이싱 미쿠 2019 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "初音ミク GTプロジェクト",
-    "en": "Hatsune Miku GT Project"
-  },
-  "gsc_productNum": 8140,
-  "price": 6112,
-  "release_date": [
+  "num" : "1100",
+  "price" : 6112,
+  "release_date" : [
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190304/8140/58674/large/77d70842966ca5394e2a9fcac723894d.jpg",
-  "gender": "F",
-  "set": 23
+  "series" : {
+    "en" : "Hatsune Miku GT Project",
+    "ja" : "初音ミク GTプロジェクト",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 23
 }

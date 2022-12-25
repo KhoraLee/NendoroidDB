@@ -1,21 +1,21 @@
 {
-  "num": "1516",
-  "name": {
-    "ko": "시저 안토니오 체펠리",
-    "ja": "ねんどろいど シーザー・A・ツェペリ (ねんどろいど しーざー・A・つぇぺり)",
-    "en": "Nendoroid Caesar Anthonio Zeppeli"
+  "gender" : "M",
+  "gsc_productNum" : 10368,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201106/10368/77144/large/092f3436bb408942e1324ce3f42d5265.jpg",
+  "name" : {
+    "en" : "Nendoroid Caesar Anthonio Zeppeli",
+    "ja" : "ねんどろいど シーザー・A・ツェペリ (ねんどろいど しーざー・A・つぇぺり)",
+    "ko" : "시저 안토니오 체펠리"
   },
-  "series": {
-    "ko": "죠죠의 기묘한 모험",
-    "ja": "TVアニメ『ジョジョの奇妙な冒険』",
-    "en": "JoJo\u0027s Bizarre Adventure"
-  },
-  "gsc_productNum": 10368,
-  "price": 5478,
-  "release_date": [
+  "num" : "1516",
+  "price" : 5478,
+  "release_date" : [
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201106/10368/77144/large/092f3436bb408942e1324ce3f42d5265.jpg",
-  "gender": "M",
-  "set": 191
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure",
+    "ja" : "TVアニメ『ジョジョの奇妙な冒険』",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 191
 }

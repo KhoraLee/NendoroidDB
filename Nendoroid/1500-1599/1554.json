@@ -1,21 +1,21 @@
 {
-  "num": "1554",
-  "name": {
-    "ko": "소라 III Ver.",
-    "ja": "ねんどろいど ソラ キングダム ハーツⅢVer. (ねんどろいど そら きんぐだむ はーつⅢVer.)",
-    "en": "Nendoroid Sora: Kingdom Hearts III Ver."
+  "gender" : "M",
+  "gsc_productNum" : 10683,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210119/10683/79884/large/12dbfc5d0cc7ded7ce4b1aef6e1abee9.jpg",
+  "name" : {
+    "en" : "Nendoroid Sora: Kingdom Hearts III Ver.",
+    "ja" : "ねんどろいど ソラ キングダム ハーツⅢVer. (ねんどろいど そら きんぐだむ はーつⅢVer.)",
+    "ko" : "소라 III Ver."
   },
-  "series": {
-    "ko": "킹덤 하츠",
-    "ja": "キングダム ハーツⅢ",
-    "en": "Kingdom Hearts III"
-  },
-  "gsc_productNum": 10683,
-  "price": 6200,
-  "release_date": [
+  "num" : "1554",
+  "price" : 6200,
+  "release_date" : [
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210119/10683/79884/large/12dbfc5d0cc7ded7ce4b1aef6e1abee9.jpg",
-  "gender": "M",
-  "set": 206
+  "series" : {
+    "en" : "Kingdom Hearts III",
+    "ja" : "キングダム ハーツⅢ",
+    "ko" : "킹덤 하츠"
+  },
+  "set" : 206
 }

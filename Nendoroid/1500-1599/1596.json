@@ -1,21 +1,21 @@
 {
-  "num": "1596",
-  "name": {
-    "ko": "블랙 매지션 걸",
-    "ja": "ねんどろいど ブラック・マジシャン・ガール (ねんどろいど ぶらっく・まじしゃん・がーる)",
-    "en": "Nendoroid Dark Magician Girl"
+  "gender" : "F",
+  "gsc_productNum" : 10951,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210322/10951/82462/large/53020772affecf887a7a1677d1a20c99.jpg",
+  "name" : {
+    "en" : "Nendoroid Dark Magician Girl",
+    "ja" : "ねんどろいど ブラック・マジシャン・ガール (ねんどろいど ぶらっく・まじしゃん・がーる)",
+    "ko" : "블랙 매지션 걸"
   },
-  "series": {
-    "ko": "유희왕",
-    "ja": "遊☆戯☆王デュエルモンスターズ",
-    "en": "Yu-Gi-Oh!"
-  },
-  "gsc_productNum": 10951,
-  "price": 6500,
-  "release_date": [
+  "num" : "1596",
+  "price" : 6500,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210322/10951/82462/large/53020772affecf887a7a1677d1a20c99.jpg",
-  "gender": "F",
-  "set": 204
+  "series" : {
+    "en" : "Yu-Gi-Oh!",
+    "ja" : "遊☆戯☆王デュエルモンスターズ",
+    "ko" : "유희왕"
+  },
+  "set" : 204
 }

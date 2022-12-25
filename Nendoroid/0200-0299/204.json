@@ -1,21 +1,21 @@
 {
-  "num": "204",
-  "name": {
-    "ko": "멘마",
-    "ja": "ねんどろいど めんま (ねんどろいど めんま)",
-    "en": "Nendoroid Menma (ねんどろいど めんま)"
+  "gender" : "F",
+  "gsc_productNum" : 3326,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111026/3326/30337/large/98c0f6c1270f75a007190a05473d133d.jpg",
+  "name" : {
+    "en" : "Nendoroid Menma (ねんどろいど めんま)",
+    "ja" : "ねんどろいど めんま (ねんどろいど めんま)",
+    "ko" : "멘마"
   },
-  "series": {
-    "ko": "그날 본 꽃의 이름을 우리는 아직 모른다",
-    "ja": "あの日見た花の名前を僕達はまだ知らない。",
-    "en": "Anohana: The Flower We Saw That Day"
-  },
-  "gsc_productNum": 3326,
-  "price": 3666,
-  "release_date": [
+  "num" : "204",
+  "price" : 3666,
+  "release_date" : [
     "2012/02",
     "2014/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111026/3326/30337/large/98c0f6c1270f75a007190a05473d133d.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Anohana: The Flower We Saw That Day",
+    "ja" : "あの日見た花の名前を僕達はまだ知らない。",
+    "ko" : "그날 본 꽃의 이름을 우리는 아직 모른다"
+  }
 }

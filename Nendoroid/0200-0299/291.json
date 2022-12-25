@@ -1,21 +1,21 @@
 {
-  "num": "291",
-  "name": {
-    "ko": "세노미야 아키호",
-    "ja": "ねんどろいど 瀬乃宮あき穂 (ねんどろいど せのみやあきほ)",
-    "en": "Nendoroid Akiho Senomiya (ねんどろいど せのみやあきほ)"
+  "gender" : "F",
+  "gsc_productNum" : 3759,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121120/3759/21584/large/8d5deabf2ebcca9ac1607007916725b9.jpg",
+  "name" : {
+    "en" : "Nendoroid Akiho Senomiya (ねんどろいど せのみやあきほ)",
+    "ja" : "ねんどろいど 瀬乃宮あき穂 (ねんどろいど せのみやあきほ)",
+    "ko" : "세노미야 아키호"
   },
-  "series": {
-    "ko": "로보틱스 노츠",
-    "ja": "ロボティクス・ノーツ",
-    "en": "ROBOTICS;NOTES"
-  },
-  "gsc_productNum": 3759,
-  "price": 3667,
-  "release_date": [
+  "num" : "291",
+  "price" : 3667,
+  "release_date" : [
     "2013/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121120/3759/21584/large/8d5deabf2ebcca9ac1607007916725b9.jpg",
-  "gender": "F",
-  "set": 72
+  "series" : {
+    "en" : "ROBOTICS;NOTES",
+    "ja" : "ロボティクス・ノーツ",
+    "ko" : "로보틱스 노츠"
+  },
+  "set" : 72
 }

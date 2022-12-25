@@ -1,20 +1,20 @@
 {
-  "num": "351",
-  "name": {
-    "ko": "쿠제 히비키",
-    "ja": "ねんどろいど 久世響希 (ねんどろいど くぜひびき)",
-    "en": "Nendoroid Hibiki Kuze (ねんどろいど くぜひびき)"
+  "gender" : "M",
+  "gsc_productNum" : 4022,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130807/4022/25634/large/45b5ed4cfd01cb030d73e72791e07076.jpg",
+  "name" : {
+    "en" : "Nendoroid Hibiki Kuze (ねんどろいど くぜひびき)",
+    "ja" : "ねんどろいど 久世響希 (ねんどろいど くぜひびき)",
+    "ko" : "쿠제 히비키"
   },
-  "series": {
-    "ko": "DEVIL SURVIVOR 2 THE ANIMATION",
-    "ja": "DEVIL SURVIVOR2 THE ANIMATION",
-    "en": "DEVIL SURVIVOR 2 THE ANIMATION"
-  },
-  "gsc_productNum": 4022,
-  "price": 3981,
-  "release_date": [
+  "num" : "351",
+  "price" : 3981,
+  "release_date" : [
     "2014/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130807/4022/25634/large/45b5ed4cfd01cb030d73e72791e07076.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "DEVIL SURVIVOR 2 THE ANIMATION",
+    "ja" : "DEVIL SURVIVOR2 THE ANIMATION",
+    "ko" : "DEVIL SURVIVOR 2 THE ANIMATION"
+  }
 }

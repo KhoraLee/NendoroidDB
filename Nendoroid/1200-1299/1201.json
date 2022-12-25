@@ -1,21 +1,21 @@
 {
-  "num": "1201",
-  "name": {
-    "ko": "아케호시 스바루",
-    "ja": "ねんどろいど 明星スバル (ねんどろいど あけほしすばる)",
-    "en": "Nendoroid Subaru Akehoshi"
+  "gender" : "M",
+  "gsc_productNum" : 8784,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190910/8784/63553/large/50c4f1c32805a32de3bb6c4327fb5dec.jpg",
+  "name" : {
+    "en" : "Nendoroid Subaru Akehoshi",
+    "ja" : "ねんどろいど 明星スバル (ねんどろいど あけほしすばる)",
+    "ko" : "아케호시 스바루"
   },
-  "series": {
-    "ko": "앙상블 스타즈!",
-    "ja": "あんさんぶるスターズ！",
-    "en": "Ensemble Stars!"
-  },
-  "gsc_productNum": 8784,
-  "price": 5000,
-  "release_date": [
+  "num" : "1201",
+  "price" : 5000,
+  "release_date" : [
     "2020/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190910/8784/63553/large/50c4f1c32805a32de3bb6c4327fb5dec.jpg",
-  "gender": "M",
-  "set": 181
+  "series" : {
+    "en" : "Ensemble Stars!",
+    "ja" : "あんさんぶるスターズ！",
+    "ko" : "앙상블 스타즈!"
+  },
+  "set" : 181
 }

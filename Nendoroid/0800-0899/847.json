@@ -1,22 +1,22 @@
 {
-  "num": "847",
-  "name": {
-    "ko": "D.Va",
-    "ja": "ねんどろいど D.Va クラシックスキン・エディション (ねんどろいど でぃーば くらしっくすきん・えでぃしょん)",
-    "en": "Nendoroid D.Va: Classic Skin Edition"
+  "gender" : "F",
+  "gsc_productNum" : 6893,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171122/6893/48860/large/a05fb10fe9873b889c808dd8f5046be3.jpg",
+  "name" : {
+    "en" : "Nendoroid D.Va: Classic Skin Edition",
+    "ja" : "ねんどろいど D.Va クラシックスキン・エディション (ねんどろいど でぃーば くらしっくすきん・えでぃしょん)",
+    "ko" : "D.Va"
   },
-  "series": {
-    "ko": "오버워치",
-    "ja": "オーバーウォッチ",
-    "en": "Overwatch"
-  },
-  "gsc_productNum": 6893,
-  "price": 4991,
-  "release_date": [
+  "num" : "847",
+  "price" : 4991,
+  "release_date" : [
     "2018/07",
     "2021/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171122/6893/48860/large/a05fb10fe9873b889c808dd8f5046be3.jpg",
-  "gender": "F",
-  "set": 150
+  "series" : {
+    "en" : "Overwatch",
+    "ja" : "オーバーウォッチ",
+    "ko" : "오버워치"
+  },
+  "set" : 150
 }

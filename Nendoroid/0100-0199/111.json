@@ -1,21 +1,21 @@
 {
-  "num": "111",
-  "name": {
-    "ko": "타카네 마나카",
-    "ja": "ねんどろいど 高嶺愛花 (ねんどろいど たかねまなか)",
-    "en": "Nendoroid Manaka Takane (ねんどろいど たかねまなか)"
+  "gender" : "F",
+  "gsc_productNum" : 2842,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100406/2842/9789/large/8049072fac6d0ab561f25ec402f3dea4.jpg",
+  "name" : {
+    "en" : "Nendoroid Manaka Takane (ねんどろいど たかねまなか)",
+    "ja" : "ねんどろいど 高嶺愛花 (ねんどろいど たかねまなか)",
+    "ko" : "타카네 마나카"
   },
-  "series": {
-    "ko": "러브 플러스",
-    "ja": "ラブプラス",
-    "en": "Love Plus"
-  },
-  "gsc_productNum": 2842,
-  "price": 3667,
-  "release_date": [
+  "num" : "111",
+  "price" : 3667,
+  "release_date" : [
     "2010/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100406/2842/9789/large/8049072fac6d0ab561f25ec402f3dea4.jpg",
-  "gender": "F",
-  "set": 34
+  "series" : {
+    "en" : "Love Plus",
+    "ja" : "ラブプラス",
+    "ko" : "러브 플러스"
+  },
+  "set" : 34
 }

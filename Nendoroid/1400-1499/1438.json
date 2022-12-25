@@ -1,21 +1,21 @@
 {
-  "num": "1438",
-  "name": {
-    "ko": "할리 퀸",
-    "ja": "ねんどろいど ハーレイ・クイン バーズ・オブ・プレイVer. (ねんどろいど はーれい・くいん ばーず・おぶ・ぷれいVer.)",
-    "en": "Nendoroid Harley Quinn: Birds of Prey Ver."
+  "gender" : "F",
+  "gsc_productNum" : 9934,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200819/9934/73298/large/bc9711755b1d35c97f11c6901d07caaf.jpg",
+  "name" : {
+    "en" : "Nendoroid Harley Quinn: Birds of Prey Ver.",
+    "ja" : "ねんどろいど ハーレイ・クイン バーズ・オブ・プレイVer. (ねんどろいど はーれい・くいん ばーず・おぶ・ぷれいVer.)",
+    "ko" : "할리 퀸"
   },
-  "series": {
-    "ko": "버즈 오브 프레이",
-    "ja": "ハーレイ・クインの華麗なる覚醒 BIRDS OF PREY",
-    "en": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)"
-  },
-  "gsc_productNum": 9934,
-  "price": 5200,
-  "release_date": [
+  "num" : "1438",
+  "price" : 5200,
+  "release_date" : [
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200819/9934/73298/large/bc9711755b1d35c97f11c6901d07caaf.jpg",
-  "gender": "F",
-  "set": 242
+  "series" : {
+    "en" : "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+    "ja" : "ハーレイ・クインの華麗なる覚醒 BIRDS OF PREY",
+    "ko" : "버즈 오브 프레이"
+  },
+  "set" : 242
 }

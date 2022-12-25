@@ -1,20 +1,20 @@
 {
-  "num": "1662",
-  "name": {
-    "ko": "심주",
-    "ja": "ねんどろいど 沈周 (ねんどろいど しんしゅう)",
-    "en": "Nendoroid Shen Zhou"
+  "gender" : "M",
+  "gsc_productNum" : 11368,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210617/11368/86010/large/87f7d9a07115c6c33218b02d75dd4d61.jpg",
+  "name" : {
+    "en" : "Nendoroid Shen Zhou",
+    "ja" : "ねんどろいど 沈周 (ねんどろいど しんしゅう)",
+    "ko" : "심주"
   },
-  "series": {
-    "ko": "강남백경도",
-    "ja": "江南百景図",
-    "en": "Canal Towns"
-  },
-  "gsc_productNum": 11368,
-  "price": 6300,
-  "release_date": [
+  "num" : "1662",
+  "price" : 6300,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210617/11368/86010/large/87f7d9a07115c6c33218b02d75dd4d61.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Canal Towns",
+    "ja" : "江南百景図",
+    "ko" : "강남백경도"
+  }
 }

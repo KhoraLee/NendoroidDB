@@ -1,21 +1,21 @@
 {
-  "num": "678",
-  "name": {
-    "ko": "전율의 타츠마키",
-    "ja": "ねんどろいど 戦慄のタツマキ (ねんどろいど せんりつのたつまき)",
-    "en": "Nendoroid Tatsumaki"
+  "gender" : "F",
+  "gsc_productNum" : 5956,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160916/5956/41367/large/f56aac5cf6406cc9c70968f9610d6317.jpg",
+  "name" : {
+    "en" : "Nendoroid Tatsumaki",
+    "ja" : "ねんどろいど 戦慄のタツマキ (ねんどろいど せんりつのたつまき)",
+    "ko" : "전율의 타츠마키"
   },
-  "series": {
-    "ko": "원펀맨",
-    "ja": "ワンパンマン",
-    "en": "ONE-PUNCH MAN"
-  },
-  "gsc_productNum": 5956,
-  "price": 4888,
-  "release_date": [
+  "num" : "678",
+  "price" : 4888,
+  "release_date" : [
     "2017/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160916/5956/41367/large/f56aac5cf6406cc9c70968f9610d6317.jpg",
-  "gender": "F",
-  "set": 126
+  "series" : {
+    "en" : "ONE-PUNCH MAN",
+    "ja" : "ワンパンマン",
+    "ko" : "원펀맨"
+  },
+  "set" : 126
 }

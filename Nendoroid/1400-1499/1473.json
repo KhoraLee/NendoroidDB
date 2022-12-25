@@ -1,21 +1,21 @@
 {
-  "num": "1473",
-  "name": {
-    "ko": "미즈하라 치즈루",
-    "ja": "ねんどろいど 水原千鶴 (ねんどろいど みずはらちづる)",
-    "en": "Nendoroid Chizuru Mizuhara"
+  "gender" : "F",
+  "gsc_productNum" : 10103,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200923/10103/74810/large/6c8316d54b0ebf9114605c7b12abbb8d.jpg",
+  "name" : {
+    "en" : "Nendoroid Chizuru Mizuhara",
+    "ja" : "ねんどろいど 水原千鶴 (ねんどろいど みずはらちづる)",
+    "ko" : "미즈하라 치즈루"
   },
-  "series": {
-    "ko": "여친, 빌리겠습니다",
-    "ja": "彼女、お借りします",
-    "en": "Rent-a-Girlfriend"
-  },
-  "gsc_productNum": 10103,
-  "price": 4800,
-  "release_date": [
+  "num" : "1473",
+  "price" : 4800,
+  "release_date" : [
     "2021/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200923/10103/74810/large/6c8316d54b0ebf9114605c7b12abbb8d.jpg",
-  "gender": "F",
-  "set": 248
+  "series" : {
+    "en" : "Rent-a-Girlfriend",
+    "ja" : "彼女、お借りします",
+    "ko" : "여친, 빌리겠습니다"
+  },
+  "set" : 248
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1157",
-  "name": {
-    "ko": "우라라카 오챠코",
-    "ja": "ねんどろいど 麗日お茶子 ヒーローズ・エディション (ねんどろいど うららかおちゃこ ひーろーず・えでぃしょん)",
-    "en": "Nendoroid Ochaco Uraraka: Hero\u0027s Edition"
+  "gender" : "F",
+  "gsc_productNum" : 8420,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190612/8420/60948/large/f884ec7ba17ab4d493dc340614f5f274.jpg",
+  "name" : {
+    "en" : "Nendoroid Ochaco Uraraka: Hero's Edition",
+    "ja" : "ねんどろいど 麗日お茶子 ヒーローズ・エディション (ねんどろいど うららかおちゃこ ひーろーず・えでぃしょん)",
+    "ko" : "우라라카 오챠코"
   },
-  "series": {
-    "ko": "나의 히어로 아카데미아",
-    "ja": "僕のヒーローアカデミア",
-    "en": "My Hero Academia"
-  },
-  "gsc_productNum": 8420,
-  "price": 5000,
-  "release_date": [
+  "num" : "1157",
+  "price" : 5000,
+  "release_date" : [
     "2019/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190612/8420/60948/large/f884ec7ba17ab4d493dc340614f5f274.jpg",
-  "gender": "F",
-  "set": 146
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 146
 }

@@ -1,21 +1,21 @@
 {
-  "num": "346",
-  "name": {
-    "ko": "쿠지 아리스",
-    "ja": "ねんどろいど 久慈ありす (ねんどろいど くじありす)",
-    "en": "Nendoroid Alice Kuji (ねんどろいど くじありす)"
+  "gender" : "F",
+  "gsc_productNum" : 3981,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130709/3981/24991/large/af84036d449a8d18002e6dc527110d1a.jpg",
+  "name" : {
+    "en" : "Nendoroid Alice Kuji (ねんどろいど くじありす)",
+    "ja" : "ねんどろいど 久慈ありす (ねんどろいど くじありす)",
+    "ko" : "쿠지 아리스"
   },
-  "series": {
-    "ko": "철도무스메",
-    "ja": "鉄道むすめ",
-    "en": "Tetsudou Musume"
-  },
-  "gsc_productNum": 3981,
-  "price": 4400,
-  "release_date": [
+  "num" : "346",
+  "price" : 4400,
+  "release_date" : [
     "2013/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130709/3981/24991/large/af84036d449a8d18002e6dc527110d1a.jpg",
-  "gender": "F",
-  "set": 85
+  "series" : {
+    "en" : "Tetsudou Musume",
+    "ja" : "鉄道むすめ",
+    "ko" : "철도무스메"
+  },
+  "set" : 85
 }

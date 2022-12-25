@@ -1,22 +1,22 @@
 {
-  "num": "444",
-  "name": {
-    "ko": "야자와 니코",
-    "ja": "ねんどろいど 矢澤にこ (ねんどろいど やざわにこ)",
-    "en": "Nendoroid Nico Yazawa (ねんどろいど やざわにこ)"
+  "gender" : "F",
+  "gsc_productNum" : 4511,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140718/4511/29817/large/b6b2d12bd4acffe50dff1206184f84f7.jpg",
+  "name" : {
+    "en" : "Nendoroid Nico Yazawa (ねんどろいど やざわにこ)",
+    "ja" : "ねんどろいど 矢澤にこ (ねんどろいど やざわにこ)",
+    "ko" : "야자와 니코"
   },
-  "series": {
-    "ko": "러브라이브!",
-    "ja": "ラブライブ！",
-    "en": "LoveLive!"
-  },
-  "gsc_productNum": 4511,
-  "price": 3565,
-  "release_date": [
+  "num" : "444",
+  "price" : 3565,
+  "release_date" : [
     "2014/11",
     "2015/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140718/4511/29817/large/b6b2d12bd4acffe50dff1206184f84f7.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 105
 }

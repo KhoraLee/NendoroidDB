@@ -1,20 +1,20 @@
 {
-  "num": "320",
-  "name": {
-    "ko": "츠쿠요미 사사미",
-    "ja": "ねんどろいど 月読鎖々美 (ねんどろいど つくよみささみ)",
-    "en": "Nendoroid Sasami Tsukuyomi (ねんどろいど つくよみささみ)"
+  "gender" : "F",
+  "gsc_productNum" : 3872,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130401/3872/23245/large/fa45f3d4ee64ae74a54ec4b8103b408d.jpg",
+  "name" : {
+    "en" : "Nendoroid Sasami Tsukuyomi (ねんどろいど つくよみささみ)",
+    "ja" : "ねんどろいど 月読鎖々美 (ねんどろいど つくよみささみ)",
+    "ko" : "츠쿠요미 사사미"
   },
-  "series": {
-    "ko": "사사미양@노력하지않아",
-    "ja": "ささみさん＠がんばらない",
-    "en": "Sasami-san@Ganbaranai"
-  },
-  "gsc_productNum": 3872,
-  "price": 3981,
-  "release_date": [
+  "num" : "320",
+  "price" : 3981,
+  "release_date" : [
     "2013/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130401/3872/23245/large/fa45f3d4ee64ae74a54ec4b8103b408d.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Sasami-san@Ganbaranai",
+    "ja" : "ささみさん＠がんばらない",
+    "ko" : "사사미양@노력하지않아"
+  }
 }

@@ -1,22 +1,22 @@
 {
-  "num": "842-DX",
-  "name": {
-    "ko": "세이버/아서 펜드래건[프로토타입] 영기 재림 Ver.",
-    "ja": "ねんどろいど セイバー/アーサー・ペンドラゴン〔プロトタイプ〕　霊基再臨 Ver. (ねんどろいど せいばー/あーさー・ぺんどらごん〔ぷろとたいぷ〕　れいきさいりん Ver.)",
-    "en": "Nendoroid Saber/Arthur Pendragon (Prototype): Ascension Ver."
+  "gender" : "M",
+  "gsc_productNum" : 6844,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171102/6844/48560/large/1df67ff1c808ff26d7d55d056e82254f.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber/Arthur Pendragon (Prototype): Ascension Ver.",
+    "ja" : "ねんどろいど セイバー/アーサー・ペンドラゴン〔プロトタイプ〕　霊基再臨 Ver. (ねんどろいど せいばー/あーさー・ぺんどらごん〔ぷろとたいぷ〕　れいきさいりん Ver.)",
+    "ko" : "세이버/아서 펜드래건[프로토타입] 영기 재림 Ver."
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 6844,
-  "price": 5907,
-  "release_date": [
+  "num" : "842-DX",
+  "price" : 5907,
+  "release_date" : [
     "2018/05",
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171102/6844/48560/large/1df67ff1c808ff26d7d55d056e82254f.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

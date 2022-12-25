@@ -1,21 +1,21 @@
 {
-  "num": "554",
-  "name": {
-    "ko": "코우자쿠",
-    "ja": "ねんどろいど 紅雀 (ねんどろいど こうじゃく)",
-    "en": "Nendoroid Koujaku (ねんどろいど こうじゃく)"
+  "gender" : "M",
+  "gsc_productNum" : 5183,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150818/5183/35108/large/d20e28ec9679509dfc3350e6af601699.jpg",
+  "name" : {
+    "en" : "Nendoroid Koujaku (ねんどろいど こうじゃく)",
+    "ja" : "ねんどろいど 紅雀 (ねんどろいど こうじゃく)",
+    "ko" : "코우자쿠"
   },
-  "series": {
-    "ko": "드라마티컬 머더",
-    "ja": "DRAMAtical Murder",
-    "en": "DRAMAtical Murder"
-  },
-  "gsc_productNum": 5183,
-  "price": 4888,
-  "release_date": [
+  "num" : "554",
+  "price" : 4888,
+  "release_date" : [
     "2016/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150818/5183/35108/large/d20e28ec9679509dfc3350e6af601699.jpg",
-  "gender": "M",
-  "set": 100
+  "series" : {
+    "en" : "DRAMAtical Murder",
+    "ja" : "DRAMAtical Murder",
+    "ko" : "드라마티컬 머더"
+  },
+  "set" : 100
 }

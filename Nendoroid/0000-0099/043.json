@@ -1,19 +1,19 @@
 {
-  "num": "043",
-  "name": {
-    "ko": "가챠핀 1호",
-    "ja": "ねんどろいど ガッチャピン１号 (がっちゃぴんいちごう ねんどろいど)",
-    "en": "Nendoroid Gatchapin Mk. 1 (がっちゃぴんいちごう ねんどろいど)"
+  "gsc_productNum" : 347,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/347/5549/large/fa5f68afeb84f92f40c5edb891ecfe70.jpg",
+  "name" : {
+    "en" : "Nendoroid Gatchapin Mk. 1 (がっちゃぴんいちごう ねんどろいど)",
+    "ja" : "ねんどろいど ガッチャピン１号 (がっちゃぴんいちごう ねんどろいど)",
+    "ko" : "가챠핀 1호"
   },
-  "series": {
-    "ko": "과학닌자대 갓챠핑",
-    "ja": "科学忍者隊ガッチャピン",
-    "en": "Scientific Ninja Team Gatchapin"
-  },
-  "gsc_productNum": 347,
-  "price": 3143,
-  "release_date": [
+  "num" : "043",
+  "price" : 3143,
+  "release_date" : [
     "2008/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/347/5549/large/fa5f68afeb84f92f40c5edb891ecfe70.jpg"
+  "series" : {
+    "en" : "Scientific Ninja Team Gatchapin",
+    "ja" : "科学忍者隊ガッチャピン",
+    "ko" : "과학닌자대 갓챠핑"
+  }
 }

@@ -1,20 +1,20 @@
 {
-  "num": "255",
-  "name": {
-    "ko": "카토 마리카",
-    "ja": "ねんどろいど 加藤茉莉香 (ねんどろいど かとうまりか)",
-    "en": "Nendoroid Marika Kato (ねんどろいど かとうまりか)"
+  "gender" : "F",
+  "gsc_productNum" : 3580,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120614/3580/18957/large/2daee7bb8786eebffc231fef4c6d165a.jpg",
+  "name" : {
+    "en" : "Nendoroid Marika Kato (ねんどろいど かとうまりか)",
+    "ja" : "ねんどろいど 加藤茉莉香 (ねんどろいど かとうまりか)",
+    "ko" : "카토 마리카"
   },
-  "series": {
-    "ko": "미니스커트 우주해적",
-    "ja": "モーレツ宇宙海賊（パイレーツ）",
-    "en": "Bodacious Space Pirates"
-  },
-  "gsc_productNum": 3580,
-  "price": 3981,
-  "release_date": [
+  "num" : "255",
+  "price" : 3981,
+  "release_date" : [
     "2012/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120614/3580/18957/large/2daee7bb8786eebffc231fef4c6d165a.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Bodacious Space Pirates",
+    "ja" : "モーレツ宇宙海賊（パイレーツ）",
+    "ko" : "미니스커트 우주해적"
+  }
 }

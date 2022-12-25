@@ -1,20 +1,20 @@
 {
-  "num": "1349",
-  "name": {
-    "ko": "LBCS-001 아킬레스 미카즈키 카리나",
-    "ja": "ねんどろいど LBCS:アキレス ミカヅキ カリナ (ねんどろいど えるびーしーえす:あきれす みかづき かりな)",
-    "en": "Nendoroid LBCS: Achilles Karina Mikazuki"
+  "gender" : "F",
+  "gsc_productNum" : 9534,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200520/9534/69835/large/b76ca9f75550d989a48d273a202c837f.jpg",
+  "name" : {
+    "en" : "Nendoroid LBCS: Achilles Karina Mikazuki",
+    "ja" : "ねんどろいど LBCS:アキレス ミカヅキ カリナ (ねんどろいど えるびーしーえす:あきれす みかづき かりな)",
+    "ko" : "LBCS-001 아킬레스 미카즈키 카리나"
   },
-  "series": {
-    "ko": "장갑무스메",
-    "ja": "装甲娘 ミゼレムクライシス",
-    "en": "Soukou Musume: Mizeremu Crisis"
-  },
-  "gsc_productNum": 9534,
-  "price": 6500,
-  "release_date": [
+  "num" : "1349",
+  "price" : 6500,
+  "release_date" : [
     "2020/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200520/9534/69835/large/b76ca9f75550d989a48d273a202c837f.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Soukou Musume: Mizeremu Crisis",
+    "ja" : "装甲娘 ミゼレムクライシス",
+    "ko" : "장갑무스메"
+  }
 }

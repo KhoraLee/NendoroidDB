@@ -1,21 +1,21 @@
 {
-  "num": "1127-DX",
-  "name": {
-    "ko": "윈터솔져 어벤져스 인피니티워 에디션 DX Ver.",
-    "ja": "ねんどろいど ウィンター・ソルジャー インフィニティ・エディション DX Ver. (ねんどろいど うぃんたー・そるじゃー いんふぃにてぃ・えでぃしょん DX Ver.)",
-    "en": "Nendoroid Winter Soldier: Infinity Edition DX Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8440,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190618/8440/61096/large/f298dcf393e72ad4169298df0f0a2fa4.jpg",
+  "name" : {
+    "en" : "Nendoroid Winter Soldier: Infinity Edition DX Ver.",
+    "ja" : "ねんどろいど ウィンター・ソルジャー インフィニティ・エディション DX Ver. (ねんどろいど うぃんたー・そるじゃー いんふぃにてぃ・えでぃしょん DX Ver.)",
+    "ko" : "윈터솔져 어벤져스 인피니티워 에디션 DX Ver."
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／インフィニティ・ウォー",
-    "en": "Avengers: Infinity War"
-  },
-  "gsc_productNum": 8440,
-  "price": 8100,
-  "release_date": [
+  "num" : "1127-DX",
+  "price" : 8100,
+  "release_date" : [
     "2019/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190618/8440/61096/large/f298dcf393e72ad4169298df0f0a2fa4.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Infinity War",
+    "ja" : "アベンジャーズ／インフィニティ・ウォー",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

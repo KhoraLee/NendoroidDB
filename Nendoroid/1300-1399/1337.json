@@ -1,21 +1,21 @@
 {
-  "num": "1337",
-  "name": {
-    "ko": "라이덴 메이 뇌전여왕의 귀신갑주 Ver.",
-    "ja": "ねんどろいど 雷電芽衣 雷電女王の鬼鎧Ver. (ねんどろいど らいでんめい らいでんじょうおうのおによろいVer.)",
-    "en": "Nendoroid Raiden Mei: Lightning Empress Ver."
+  "gender" : "F",
+  "gsc_productNum" : 9500,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200508/9500/69601/large/c7e191cfe5639c735cb8df94f9b9c028.jpg",
+  "name" : {
+    "en" : "Nendoroid Raiden Mei: Lightning Empress Ver.",
+    "ja" : "ねんどろいど 雷電芽衣 雷電女王の鬼鎧Ver. (ねんどろいど らいでんめい らいでんじょうおうのおによろいVer.)",
+    "ko" : "라이덴 메이 뇌전여왕의 귀신갑주 Ver."
   },
-  "series": {
-    "ko": "붕괴 3rd",
-    "ja": "崩壊3rd",
-    "en": "Honkai Impact 3rd"
-  },
-  "gsc_productNum": 9500,
-  "price": 5000,
-  "release_date": [
+  "num" : "1337",
+  "price" : 5000,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200508/9500/69601/large/c7e191cfe5639c735cb8df94f9b9c028.jpg",
-  "gender": "F",
-  "set": 176
+  "series" : {
+    "en" : "Honkai Impact 3rd",
+    "ja" : "崩壊3rd",
+    "ko" : "붕괴 3rd"
+  },
+  "set" : 176
 }

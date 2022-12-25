@@ -1,21 +1,21 @@
 {
-  "num": "1538",
-  "name": {
-    "ko": "하츠네 미쿠 심포니 5th Anniversary Ver.",
-    "ja": "ねんどろいど 初音ミクシンフォニー 5th Anniversary Ver.",
-    "en": "Nendoroid Hatsune Miku: Symphony 5th Anniversary Ver."
+  "gender" : "F",
+  "gsc_productNum" : 10561,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201215/10561/78770/large/3bee22bd70c6ce9caf9510d909e71158.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Symphony 5th Anniversary Ver.",
+    "ja" : "ねんどろいど 初音ミクシンフォニー 5th Anniversary Ver.",
+    "ko" : "하츠네 미쿠 심포니 5th Anniversary Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 10561,
-  "price": 7800,
-  "release_date": [
+  "num" : "1538",
+  "price" : 7800,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201215/10561/78770/large/3bee22bd70c6ce9caf9510d909e71158.jpg",
-  "gender": "F",
-  "set": 10
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
 }

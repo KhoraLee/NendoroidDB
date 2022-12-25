@@ -1,21 +1,21 @@
 {
-  "num": "1314",
-  "name": {
-    "ko": "리오 포티아",
-    "ja": "ねんどろいど リオ・フォーティア (ねんどろいど りお・ふぉーてぃあ)",
-    "en": "Nendoroid Lio Fotia"
+  "gender" : "M",
+  "gsc_productNum" : 9367,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200319/9367/68589/large/953caabfd13b07306becabd0d397475d.jpg",
+  "name" : {
+    "en" : "Nendoroid Lio Fotia",
+    "ja" : "ねんどろいど リオ・フォーティア (ねんどろいど りお・ふぉーてぃあ)",
+    "ko" : "리오 포티아"
   },
-  "series": {
-    "ko": "프로메어",
-    "ja": "プロメア",
-    "en": "PROMARE"
-  },
-  "gsc_productNum": 9367,
-  "price": 4600,
-  "release_date": [
+  "num" : "1314",
+  "price" : 4600,
+  "release_date" : [
     "2020/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200319/9367/68589/large/953caabfd13b07306becabd0d397475d.jpg",
-  "gender": "M",
-  "set": 217
+  "series" : {
+    "en" : "PROMARE",
+    "ja" : "プロメア",
+    "ko" : "프로메어"
+  },
+  "set" : 217
 }

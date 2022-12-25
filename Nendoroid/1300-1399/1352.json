@@ -1,22 +1,22 @@
 {
-  "num": "1352",
-  "name": {
-    "ko": "엑시아",
-    "ja": "ねんどろいど エクシア (ねんどろいど えくしあ)",
-    "en": "Nendoroid Exusiai"
+  "gender" : "F",
+  "gsc_productNum" : 9562,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200521/9562/70304/large/aa5b338313e5787e63a7a4c6e467fe8c.jpg",
+  "name" : {
+    "en" : "Nendoroid Exusiai",
+    "ja" : "ねんどろいど エクシア (ねんどろいど えくしあ)",
+    "ko" : "엑시아"
   },
-  "series": {
-    "ko": "명일방주",
-    "ja": "アークナイツ",
-    "en": "Arknights"
-  },
-  "gsc_productNum": 9562,
-  "price": 5300,
-  "release_date": [
+  "num" : "1352",
+  "price" : 5300,
+  "release_date" : [
     "2020/12",
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200521/9562/70304/large/aa5b338313e5787e63a7a4c6e467fe8c.jpg",
-  "gender": "F",
-  "set": 216
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 216
 }

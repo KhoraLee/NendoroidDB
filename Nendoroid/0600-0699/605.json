@@ -1,23 +1,23 @@
 {
-  "num": "605",
-  "name": {
-    "ko": "코즈메 켄마",
-    "ja": "ねんどろいど 孤爪研磨 (ねんどろいど こづめけんま)",
-    "en": "Nendoroid Kenma Kozume"
+  "gender" : "M",
+  "gsc_productNum" : 5471,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160122/5471/37415/large/a779ccc29dcfc65704e9f7224071c3f7.jpg",
+  "name" : {
+    "en" : "Nendoroid Kenma Kozume",
+    "ja" : "ねんどろいど 孤爪研磨 (ねんどろいど こづめけんま)",
+    "ko" : "코즈메 켄마"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!! セカンドシーズン",
-    "en": "Haikyu!! Second Season"
-  },
-  "gsc_productNum": 5471,
-  "price": 4800,
-  "release_date": [
+  "num" : "605",
+  "price" : 4800,
+  "release_date" : [
     "2016/07",
     "2017/05",
     "2022/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160122/5471/37415/large/a779ccc29dcfc65704e9f7224071c3f7.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!! Second Season",
+    "ja" : "ハイキュー!! セカンドシーズン",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

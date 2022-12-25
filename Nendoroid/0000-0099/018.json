@@ -1,21 +1,21 @@
 {
-  "num": "018",
-  "name": {
-    "ko": "아마네 미사",
-    "ja": "ねんどろいど 弥 海砂 (Misa Amane Nendoroid)",
-    "en": "Nendoroid Misa Amane (Misa Amane Nendoroid)"
+  "gender" : "F",
+  "gsc_productNum" : 620,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/620/949/large/2416fe2c43842064aa03fcc1bb935ebd.jpg",
+  "name" : {
+    "en" : "Nendoroid Misa Amane (Misa Amane Nendoroid)",
+    "ja" : "ねんどろいど 弥 海砂 (Misa Amane Nendoroid)",
+    "ko" : "아마네 미사"
   },
-  "series": {
-    "ko": "데스노트",
-    "ja": "DEATH NOTE",
-    "en": "DEATH NOTE"
-  },
-  "gsc_productNum": 620,
-  "price": 3143,
-  "release_date": [
+  "num" : "018",
+  "price" : 3143,
+  "release_date" : [
     "2007/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/620/949/large/2416fe2c43842064aa03fcc1bb935ebd.jpg",
-  "gender": "F",
-  "set": 5
+  "series" : {
+    "en" : "DEATH NOTE",
+    "ja" : "DEATH NOTE",
+    "ko" : "데스노트"
+  },
+  "set" : 5
 }

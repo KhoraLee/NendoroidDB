@@ -1,21 +1,21 @@
 {
-  "num": "1389",
-  "name": {
-    "ja": "ねんどろいど マックス (ねんどろいど まっくす)",
-    "en": "Nendoroid Max",
-    "ko": "맥스 구프"
+  "gender" : "M",
+  "gsc_productNum" : 13442,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221024/13442/106289/large/f439540e49fa8e14e6b6351944fb1553.jpg",
+  "name" : {
+    "en" : "Nendoroid Max",
+    "ja" : "ねんどろいど マックス (ねんどろいど まっくす)",
+    "ko" : "맥스 구프"
   },
-  "series": {
-    "ja": "グーフィー・ムービー ホリデーは最高!!",
-    "en": "A Goofy Movie",
-    "ko": "디즈니"
-  },
-  "gsc_productNum": 13442,
-  "price": 8800,
-  "release_date": [
+  "num" : "1389",
+  "price" : 8800,
+  "release_date" : [
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221024/13442/106289/large/f439540e49fa8e14e6b6351944fb1553.jpg",
-  "gender": "M",
-  "set": 32
+  "series" : {
+    "en" : "A Goofy Movie",
+    "ja" : "グーフィー・ムービー ホリデーは最高!!",
+    "ko" : "디즈니"
+  },
+  "set" : 32
 }

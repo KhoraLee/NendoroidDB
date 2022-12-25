@@ -1,21 +1,21 @@
 {
-  "num": "1598",
-  "name": {
-    "ko": "라플란드",
-    "ja": "ねんどろいど ラップランド (ねんどろいど らっぷらんど)",
-    "en": "Nendoroid Lappland"
+  "gender" : "F",
+  "gsc_productNum" : 11031,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210406/11031/83153/large/fa53876148cdd39235dd3c5ba43a7393.jpg",
+  "name" : {
+    "en" : "Nendoroid Lappland",
+    "ja" : "ねんどろいど ラップランド (ねんどろいど らっぷらんど)",
+    "ko" : "라플란드"
   },
-  "series": {
-    "ko": "명일방주",
-    "ja": "アークナイツ",
-    "en": "Arknights"
-  },
-  "gsc_productNum": 11031,
-  "price": 6300,
-  "release_date": [
+  "num" : "1598",
+  "price" : 6300,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210406/11031/83153/large/fa53876148cdd39235dd3c5ba43a7393.jpg",
-  "gender": "F",
-  "set": 216
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 216
 }

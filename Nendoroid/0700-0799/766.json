@@ -1,22 +1,22 @@
 {
-  "num": "766",
-  "name": {
-    "ko": "어벤저/잔 다르크 얼터",
-    "ja": "ねんどろいど アヴェンジャー/ジャンヌ・ダルク〔オルタ〕 (ねんどろいど あゔぇんじゃー/じゃんぬ・だるく〔おるた〕)",
-    "en": "Nendoroid Avenger/Jeanne d\u0027Arc (Alter)"
+  "gender" : "F",
+  "gsc_productNum" : 6426,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170501/6426/45284/large/0b412439ae7b896ef32e8965743569d3.jpg",
+  "name" : {
+    "en" : "Nendoroid Avenger/Jeanne d'Arc (Alter)",
+    "ja" : "ねんどろいど アヴェンジャー/ジャンヌ・ダルク〔オルタ〕 (ねんどろいど あゔぇんじゃー/じゃんぬ・だるく〔おるた〕)",
+    "ko" : "어벤저/잔 다르크 얼터"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 6426,
-  "price": 4888,
-  "release_date": [
+  "num" : "766",
+  "price" : 4888,
+  "release_date" : [
     "2017/10",
     "2019/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170501/6426/45284/large/0b412439ae7b896ef32e8965743569d3.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

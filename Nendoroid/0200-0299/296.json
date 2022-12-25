@@ -1,20 +1,20 @@
 {
-  "num": "296",
-  "name": {
-    "ko": "아리스",
-    "ja": "ねんどろいど アリス (ねんどろいど ありす)",
-    "en": "Nendoroid Alice (ねんどろいど ありす)"
+  "gender" : "F",
+  "gsc_productNum" : 3786,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121212/3786/21931/large/4022a30930fd1b70e3c0a5de03f0027f.jpg",
+  "name" : {
+    "en" : "Nendoroid Alice (ねんどろいど ありす)",
+    "ja" : "ねんどろいど アリス (ねんどろいど ありす)",
+    "ko" : "아리스"
   },
-  "series": {
-    "ko": "도색대전 파이론",
-    "ja": "桃色大戦ぱいろん",
-    "en": "Momoiro Taisen Pairon"
-  },
-  "gsc_productNum": 3786,
-  "price": 3667,
-  "release_date": [
+  "num" : "296",
+  "price" : 3667,
+  "release_date" : [
     "2013/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121212/3786/21931/large/4022a30930fd1b70e3c0a5de03f0027f.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Momoiro Taisen Pairon",
+    "ja" : "桃色大戦ぱいろん",
+    "ko" : "도색대전 파이론"
+  }
 }

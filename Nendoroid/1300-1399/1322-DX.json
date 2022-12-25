@@ -1,21 +1,21 @@
 {
-  "num": "1322-DX",
-  "name": {
-    "ko": "클리프 DX",
-    "ja": "ねんどろいど クリフ DX (ねんどろいど くりふ でらっくす)",
-    "en": "Nendoroid Cliff DX"
+  "gender" : "M",
+  "gsc_productNum" : 9441,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200422/9441/69147/large/bc1619555a653b04fc103dec6efd1c7c.jpg",
+  "name" : {
+    "en" : "Nendoroid Cliff DX",
+    "ja" : "ねんどろいど クリフ DX (ねんどろいど くりふ でらっくす)",
+    "ko" : "클리프 DX"
   },
-  "series": {
-    "ko": "데스 스트랜딩",
-    "ja": "デス・ストランディング",
-    "en": "DEATH STRANDING"
-  },
-  "gsc_productNum": 9441,
-  "price": 6800,
-  "release_date": [
+  "num" : "1322-DX",
+  "price" : 6800,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200422/9441/69147/large/bc1619555a653b04fc103dec6efd1c7c.jpg",
-  "gender": "M",
-  "set": 232
+  "series" : {
+    "en" : "DEATH STRANDING",
+    "ja" : "デス・ストランディング",
+    "ko" : "데스 스트랜딩"
+  },
+  "set" : 232
 }

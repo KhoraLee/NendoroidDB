@@ -1,21 +1,21 @@
 {
-  "num": "1296-DX",
-  "name": {
-    "ko": "라이더/모지만디아스 영기재림 Ver.",
-    "ja": "ねんどろいど ライダー/オジマンディアス 霊基再臨Ver. (ねんどろいど らいだー/おじまんでぃあす れいきさいりんVer.)",
-    "en": "Nendoroid Rider/Ozymandias: Ascension Ver."
+  "gender" : "M",
+  "gsc_productNum" : 9318,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200302/9318/68022/large/e87310a95f94f8acf3cfe3ec71920805.jpg",
+  "name" : {
+    "en" : "Nendoroid Rider/Ozymandias: Ascension Ver.",
+    "ja" : "ねんどろいど ライダー/オジマンディアス 霊基再臨Ver. (ねんどろいど らいだー/おじまんでぃあす れいきさいりんVer.)",
+    "ko" : "라이더/모지만디아스 영기재림 Ver."
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 9318,
-  "price": 6500,
-  "release_date": [
+  "num" : "1296-DX",
+  "price" : 6500,
+  "release_date" : [
     "2020/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200302/9318/68022/large/e87310a95f94f8acf3cfe3ec71920805.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

@@ -1,20 +1,20 @@
 {
-  "num": "313",
-  "name": {
-    "ko": "모노쿠마",
-    "ja": "ねんどろいど モノクマ (ねんどろいど ものくま)",
-    "en": "Nendoroid Monokuma (ねんどろいど ものくま)"
+  "gsc_productNum" : 3849,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130225/3849/22823/large/bfbdb8457237150a15404fd70e952205.jpg",
+  "name" : {
+    "en" : "Nendoroid Monokuma (ねんどろいど ものくま)",
+    "ja" : "ねんどろいど モノクマ (ねんどろいど ものくま)",
+    "ko" : "모노쿠마"
   },
-  "series": {
-    "ko": "단간론파",
-    "ja": "スーパーダンガンロンパ２ さよなら絶望学園",
-    "en": "Super Danganronpa 2: Sayonara Zetsubou Gakuen"
-  },
-  "gsc_productNum": 3849,
-  "price": 3143,
-  "release_date": [
+  "num" : "313",
+  "price" : 3143,
+  "release_date" : [
     "2013/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130225/3849/22823/large/bfbdb8457237150a15404fd70e952205.jpg",
-  "set": 79
+  "series" : {
+    "en" : "Super Danganronpa 2: Sayonara Zetsubou Gakuen",
+    "ja" : "スーパーダンガンロンパ２ さよなら絶望学園",
+    "ko" : "단간론파"
+  },
+  "set" : 79
 }

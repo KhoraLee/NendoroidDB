@@ -1,21 +1,21 @@
 {
-  "num": "934",
-  "name": {
-    "ko": "간바릴리에",
-    "ja": "ねんどろいど がんばリーリエ (ねんどろいど がんばりーりえ)",
-    "en": "Nendoroid Lively Lillie"
+  "gender" : "F",
+  "gsc_productNum" : 7227,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180420/7227/52019/large/8ab042f77ebe8e42518dd22bd47e77bd.jpg",
+  "name" : {
+    "en" : "Nendoroid Lively Lillie",
+    "ja" : "ねんどろいど がんばリーリエ (ねんどろいど がんばりーりえ)",
+    "ko" : "간바릴리에"
   },
-  "series": {
-    "ko": "포켓몬스터",
-    "ja": "ポケットモンスター",
-    "en": "Pokémon"
-  },
-  "gsc_productNum": 7227,
-  "price": 4888,
-  "release_date": [
+  "num" : "934",
+  "price" : 4888,
+  "release_date" : [
     "2018/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180420/7227/52019/large/8ab042f77ebe8e42518dd22bd47e77bd.jpg",
-  "gender": "F",
-  "set": 103
+  "series" : {
+    "en" : "Pokémon",
+    "ja" : "ポケットモンスター",
+    "ko" : "포켓몬스터"
+  },
+  "set" : 103
 }

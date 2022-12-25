@@ -1,21 +1,21 @@
 {
-  "num": "478",
-  "name": {
-    "ko": "타마",
-    "ja": "ねんどろいど タマ (ねんどろいど たま)",
-    "en": "Nendoroid Tama (ねんどろいど たま)"
+  "gender" : "F",
+  "gsc_productNum" : 4725,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141117/4725/31330/large/0a08465eb16fb6a9270558fb798d56db.jpg",
+  "name" : {
+    "en" : "Nendoroid Tama (ねんどろいど たま)",
+    "ja" : "ねんどろいど タマ (ねんどろいど たま)",
+    "ko" : "타마"
   },
-  "series": {
-    "ko": "selector infected WIXOSS",
-    "ja": "selector infected WIXOSS",
-    "en": "selector infected WIXOSS"
-  },
-  "gsc_productNum": 4725,
-  "price": 4730,
-  "release_date": [
+  "num" : "478",
+  "price" : 4730,
+  "release_date" : [
     "2015/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141117/4725/31330/large/0a08465eb16fb6a9270558fb798d56db.jpg",
-  "gender": "F",
-  "set": 113
+  "series" : {
+    "en" : "selector infected WIXOSS",
+    "ja" : "selector infected WIXOSS",
+    "ko" : "selector infected WIXOSS"
+  },
+  "set" : 113
 }

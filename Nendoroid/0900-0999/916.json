@@ -1,20 +1,20 @@
 {
-  "num": "916",
-  "name": {
-    "ko": "P-보디",
-    "ja": "ねんどろいど P-Body (ねんどろいど ぴー ぼでぃ)",
-    "en": "Nendoroid P-Body"
+  "gsc_productNum" : 7201,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180410/7201/51380/large/bb5fd1ccbd0ce33039ee64cc92866e2d.jpg",
+  "name" : {
+    "en" : "Nendoroid P-Body",
+    "ja" : "ねんどろいど P-Body (ねんどろいど ぴー ぼでぃ)",
+    "ko" : "P-보디"
   },
-  "series": {
-    "ko": "포탈",
-    "ja": "Portal2",
-    "en": "Portal 2"
-  },
-  "gsc_productNum": 7201,
-  "price": 5907,
-  "release_date": [
+  "num" : "916",
+  "price" : 5907,
+  "release_date" : [
     "2018/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180410/7201/51380/large/bb5fd1ccbd0ce33039ee64cc92866e2d.jpg",
-  "set": 178
+  "series" : {
+    "en" : "Portal 2",
+    "ja" : "Portal2",
+    "ko" : "포탈"
+  },
+  "set" : 178
 }

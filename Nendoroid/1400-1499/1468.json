@@ -1,21 +1,21 @@
 {
-  "num": "1468",
-  "name": {
-    "ko": "심청추",
-    "ja": "ねんどろいど 沈清秋 (ねんどろいど しんせんしゅう)",
-    "en": "Nendoroid Shen Qingqiu"
+  "gender" : "M",
+  "gsc_productNum" : 10120,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200924/10120/74724/large/0d81d7ce2471a4a2d8c0de0fff5287aa.jpg",
+  "name" : {
+    "en" : "Nendoroid Shen Qingqiu",
+    "ja" : "ねんどろいど 沈清秋 (ねんどろいど しんせんしゅう)",
+    "ko" : "심청추"
   },
-  "series": {
-    "ko": "인사반파자구계통",
-    "ja": "穿書自救指南",
-    "en": "ChuanShuZiJiuZhiNan"
-  },
-  "gsc_productNum": 10120,
-  "price": 5800,
-  "release_date": [
+  "num" : "1468",
+  "price" : 5800,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200924/10120/74724/large/0d81d7ce2471a4a2d8c0de0fff5287aa.jpg",
-  "gender": "M",
-  "set": 246
+  "series" : {
+    "en" : "ChuanShuZiJiuZhiNan",
+    "ja" : "穿書自救指南",
+    "ko" : "인사반파자구계통"
+  },
+  "set" : 246
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1737",
-  "name": {
-    "ko": "시부야 카논",
-    "ja": "ねんどろいど 澁谷かのん (ねんどろいど しぶやかのん)",
-    "en": "Nendoroid Kanon Shibuya"
+  "gender" : "F",
+  "gsc_productNum" : 11900,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211013/11900/91004/large/da2b9836db8ea3da6f7763f008e3d19a.jpg",
+  "name" : {
+    "en" : "Nendoroid Kanon Shibuya",
+    "ja" : "ねんどろいど 澁谷かのん (ねんどろいど しぶやかのん)",
+    "ko" : "시부야 카논"
   },
-  "series": {
-    "ko": "러브라이브 슈퍼스타",
-    "ja": "ラブライブ！スーパースター!!",
-    "en": "Love Live! Superstar!!"
-  },
-  "gsc_productNum": 11900,
-  "price": 5000,
-  "release_date": [
+  "num" : "1737",
+  "price" : 5000,
+  "release_date" : [
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211013/11900/91004/large/da2b9836db8ea3da6f7763f008e3d19a.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "Love Live! Superstar!!",
+    "ja" : "ラブライブ！スーパースター!!",
+    "ko" : "러브라이브 슈퍼스타"
+  },
+  "set" : 105
 }

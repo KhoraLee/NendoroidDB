@@ -1,21 +1,21 @@
 {
-  "num": "1406",
-  "name": {
-    "ko": "이소요",
-    "ja": "ねんどろいど 李逍遙 (ねんどろいど り・しょうよう)",
-    "en": "Nendoroid Li Xiaoyao"
+  "gender" : "M",
+  "gsc_productNum" : 9738,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200707/9738/71862/large/99f1596705717b4f358c714712414018.jpg",
+  "name" : {
+    "en" : "Nendoroid Li Xiaoyao",
+    "ja" : "ねんどろいど 李逍遙 (ねんどろいど り・しょうよう)",
+    "ko" : "이소요"
   },
-  "series": {
-    "ko": "선검기협전",
-    "ja": "仙剣奇侠伝",
-    "en": "Chinese Paladin: Sword and Fairy"
-  },
-  "gsc_productNum": 9738,
-  "price": 5500,
-  "release_date": [
+  "num" : "1406",
+  "price" : 5500,
+  "release_date" : [
     "2020/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200707/9738/71862/large/99f1596705717b4f358c714712414018.jpg",
-  "gender": "M",
-  "set": 214
+  "series" : {
+    "en" : "Chinese Paladin: Sword and Fairy",
+    "ja" : "仙剣奇侠伝",
+    "ko" : "선검기협전"
+  },
+  "set" : 214
 }

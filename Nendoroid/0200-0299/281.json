@@ -1,20 +1,20 @@
 {
-  "num": "281",
-  "name": {
-    "ko": "사카이 와카나",
-    "ja": "ねんどろいど 坂井和奏 (ねんどろいど さかいわかな)",
-    "en": "Nendoroid Wakana Sakai (ねんどろいど さかいわかな)"
+  "gender" : "F",
+  "gsc_productNum" : 3698,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120928/3698/20701/large/64eb91499562414708726dacbf07a135.jpg",
+  "name" : {
+    "en" : "Nendoroid Wakana Sakai (ねんどろいど さかいわかな)",
+    "ja" : "ねんどろいど 坂井和奏 (ねんどろいど さかいわかな)",
+    "ko" : "사카이 와카나"
   },
-  "series": {
-    "ko": "TARI TARI",
-    "ja": "TARI TARI",
-    "en": "TARI TARI"
-  },
-  "gsc_productNum": 3698,
-  "price": 3667,
-  "release_date": [
+  "num" : "281",
+  "price" : 3667,
+  "release_date" : [
     "2013/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120928/3698/20701/large/64eb91499562414708726dacbf07a135.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "TARI TARI",
+    "ja" : "TARI TARI",
+    "ko" : "TARI TARI"
+  }
 }

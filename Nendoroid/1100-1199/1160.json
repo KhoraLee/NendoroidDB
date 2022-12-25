@@ -1,22 +1,22 @@
 {
-  "num": "1160",
-  "name": {
-    "ko": "야가미 라이토 2.0",
-    "ja": "ねんどろいど 夜神月 2.0 (ねんどろいど やがみらいと 2.0)",
-    "en": "Nendoroid Light Yagami 2.0"
+  "gender" : "M",
+  "gsc_productNum" : 8477,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190628/8477/61385/large/935f624978df54b3c66749b610d88d7e.jpg",
+  "name" : {
+    "en" : "Nendoroid Light Yagami 2.0",
+    "ja" : "ねんどろいど 夜神月 2.0 (ねんどろいど やがみらいと 2.0)",
+    "ko" : "야가미 라이토 2.0"
   },
-  "series": {
-    "ko": "데스노트",
-    "ja": "DEATH NOTE",
-    "en": "DEATH NOTE"
-  },
-  "gsc_productNum": 8477,
-  "price": 5200,
-  "release_date": [
+  "num" : "1160",
+  "price" : 5200,
+  "release_date" : [
     "2019/12",
     "2023/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190628/8477/61385/large/935f624978df54b3c66749b610d88d7e.jpg",
-  "gender": "M",
-  "set": 5
+  "series" : {
+    "en" : "DEATH NOTE",
+    "ja" : "DEATH NOTE",
+    "ko" : "데스노트"
+  },
+  "set" : 5
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1207",
-  "name": {
-    "ko": "야마다 이치로",
-    "ja": "ねんどろいど 山田一郎 (ねんどろいど やまだいちろう)",
-    "en": "Nendoroid Ichiro Yamada"
+  "gender" : "M",
+  "gsc_productNum" : 8775,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190906/8775/63466/large/0f9317c609d42fc6076b0060ba7694e1.jpg",
+  "name" : {
+    "en" : "Nendoroid Ichiro Yamada",
+    "ja" : "ねんどろいど 山田一郎 (ねんどろいど やまだいちろう)",
+    "ko" : "야마다 이치로"
   },
-  "series": {
-    "ko": "히프노시스 마이크",
-    "ja": "ヒプノシスマイク -Division Rap Battle-",
-    "en": "Hypnosis Mic -Division Rap Battle-"
-  },
-  "gsc_productNum": 8775,
-  "price": 5500,
-  "release_date": [
+  "num" : "1207",
+  "price" : 5500,
+  "release_date" : [
     "2020/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190906/8775/63466/large/0f9317c609d42fc6076b0060ba7694e1.jpg",
-  "gender": "M",
-  "set": 225
+  "series" : {
+    "en" : "Hypnosis Mic -Division Rap Battle-",
+    "ja" : "ヒプノシスマイク -Division Rap Battle-",
+    "ko" : "히프노시스 마이크"
+  },
+  "set" : 225
 }

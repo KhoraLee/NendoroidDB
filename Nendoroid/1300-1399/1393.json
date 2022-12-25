@@ -1,21 +1,21 @@
 {
-  "num": "1393",
-  "name": {
-    "ja": "ねんどろいど 星野みやこ (ねんどろいど ほしのみやこ)",
-    "en": "Nendoroid Miyako Hoshino",
-    "ko": "호시노 미야코"
+  "gender" : "F",
+  "gsc_productNum" : 13203,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220902/13203/103743/large/21b71acf58b6c9927289e163c0094e8e.jpg",
+  "name" : {
+    "en" : "Nendoroid Miyako Hoshino",
+    "ja" : "ねんどろいど 星野みやこ (ねんどろいど ほしのみやこ)",
+    "ko" : "호시노 미야코"
   },
-  "series": {
-    "ja": "私に天使が舞い降りた！プレシャス・フレンズ",
-    "en": "Wataten!: An Angel Flew Down to Me: Precious Friends",
-    "ko": "나에게 천사가 내려왔다!"
-  },
-  "gsc_productNum": 13203,
-  "price": 5900,
-  "release_date": [
+  "num" : "1393",
+  "price" : 5900,
+  "release_date" : [
     "2023/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220902/13203/103743/large/21b71acf58b6c9927289e163c0094e8e.jpg",
-  "gender": "F",
-  "set": 223
+  "series" : {
+    "en" : "Wataten!: An Angel Flew Down to Me: Precious Friends",
+    "ja" : "私に天使が舞い降りた！プレシャス・フレンズ",
+    "ko" : "나에게 천사가 내려왔다!"
+  },
+  "set" : 223
 }

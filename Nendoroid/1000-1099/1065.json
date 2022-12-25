@@ -1,20 +1,20 @@
 {
-  "num": "1065",
-  "name": {
-    "ko": "단보",
-    "ja": "ねんどろいど ダンボー (ねんどろいど だんぼー)",
-    "en": "Nendoroid Danboard"
+  "gsc_productNum" : 7974,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190111/7974/57300/large/92af04afd70ef342581dbc51e62bbcbc.jpg",
+  "name" : {
+    "en" : "Nendoroid Danboard",
+    "ja" : "ねんどろいど ダンボー (ねんどろいど だんぼー)",
+    "ko" : "단보"
   },
-  "series": {
-    "ko": "요츠바랑!",
-    "ja": "よつばと！",
-    "en": "YOTSUBA\u0026!"
-  },
-  "gsc_productNum": 7974,
-  "price": 3056,
-  "release_date": [
+  "num" : "1065",
+  "price" : 3056,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190111/7974/57300/large/92af04afd70ef342581dbc51e62bbcbc.jpg",
-  "set": 201
+  "series" : {
+    "en" : "YOTSUBA&!",
+    "ja" : "よつばと！",
+    "ko" : "요츠바랑!"
+  },
+  "set" : 201
 }

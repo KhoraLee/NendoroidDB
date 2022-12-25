@@ -1,21 +1,21 @@
 {
-  "num": "216",
-  "name": {
-    "ko": "유즈리자키 네로",
-    "ja": "ねんどろいど 譲崎ネロ (ねんどろいど ゆずりざきねろ)",
-    "en": "Nendoroid Nero Yuzurizaki (ねんどろいど ゆずりざきねろ)"
+  "gender" : "F",
+  "gsc_productNum" : 3411,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111207/3411/16486/large/6f752a16e12d97500165115c658c4f35.jpg",
+  "name" : {
+    "en" : "Nendoroid Nero Yuzurizaki (ねんどろいど ゆずりざきねろ)",
+    "ja" : "ねんどろいど 譲崎ネロ (ねんどろいど ゆずりざきねろ)",
+    "ko" : "유즈리자키 네로"
   },
-  "series": {
-    "ko": "탐정 오페라 밀키 홈즈",
-    "ja": "探偵オペラ ミルキィホームズ",
-    "en": "Tantei Opera Milky Holmes"
-  },
-  "gsc_productNum": 3411,
-  "price": 3667,
-  "release_date": [
+  "num" : "216",
+  "price" : 3667,
+  "release_date" : [
     "2012/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111207/3411/16486/large/6f752a16e12d97500165115c658c4f35.jpg",
-  "gender": "F",
-  "set": 36
+  "series" : {
+    "en" : "Tantei Opera Milky Holmes",
+    "ja" : "探偵オペラ ミルキィホームズ",
+    "ko" : "탐정 오페라 밀키 홈즈"
+  },
+  "set" : 36
 }

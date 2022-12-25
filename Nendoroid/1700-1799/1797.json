@@ -1,21 +1,21 @@
 {
-  "num": "1797",
-  "name": {
-    "ko": "자그레우스",
-    "ja": "ねんどろいど ザグレウス (ねんどろいど ざぐれうす)",
-    "en": "Nendoroid Zagreus"
+  "gender" : "M",
+  "gsc_productNum" : 12259,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220120/12259/94562/large/15ce15e404e3ad6e7ceedcebc8ec1ae5.jpg",
+  "name" : {
+    "en" : "Nendoroid Zagreus",
+    "ja" : "ねんどろいど ザグレウス (ねんどろいど ざぐれうす)",
+    "ko" : "자그레우스"
   },
-  "series": {
-    "ko": "하데스",
-    "ja": "ハデス",
-    "en": "Hades"
-  },
-  "gsc_productNum": 12259,
-  "price": 5500,
-  "release_date": [
+  "num" : "1797",
+  "price" : 5500,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220120/12259/94562/large/15ce15e404e3ad6e7ceedcebc8ec1ae5.jpg",
-  "gender": "M",
-  "set": 281
+  "series" : {
+    "en" : "Hades",
+    "ja" : "ハデス",
+    "ko" : "하데스"
+  },
+  "set" : 281
 }

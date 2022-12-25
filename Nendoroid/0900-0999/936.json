@@ -1,21 +1,21 @@
 {
-  "num": "936",
-  "name": {
-    "ko": "세이버/미야모토 무사시",
-    "ja": "ねんどろいど セイバー/宮本武蔵 (ねんどろいど せいばー/みやもとむさし)",
-    "en": "Nendoroid Saber/Miyamoto Musashi"
+  "gender" : "F",
+  "gsc_productNum" : 7281,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180518/7281/52037/large/b4a190c561220f51c8ead6e603eeb4a3.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber/Miyamoto Musashi",
+    "ja" : "ねんどろいど セイバー/宮本武蔵 (ねんどろいど せいばー/みやもとむさし)",
+    "ko" : "세이버/미야모토 무사시"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 7281,
-  "price": 5602,
-  "release_date": [
+  "num" : "936",
+  "price" : 5602,
+  "release_date" : [
     "2018/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180518/7281/52037/large/b4a190c561220f51c8ead6e603eeb4a3.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

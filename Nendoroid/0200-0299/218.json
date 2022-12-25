@@ -1,20 +1,20 @@
 {
-  "num": "218",
-  "name": {
-    "ko": "이누이 사나",
-    "ja": "ねんどろいど 乾紗凪 (ねんどろいど いぬいさな)",
-    "en": "Nendoroid Sana Inui (ねんどろいど いぬいさな)"
+  "gender" : "F",
+  "gsc_productNum" : 3421,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111219/3421/16625/large/f549d617be9d5e083fce238570894173.jpg",
+  "name" : {
+    "en" : "Nendoroid Sana Inui (ねんどろいど いぬいさな)",
+    "ja" : "ねんどろいど 乾紗凪 (ねんどろいど いぬいさな)",
+    "ko" : "이누이 사나"
   },
-  "series": {
-    "ko": "마시로색 심포니",
-    "ja": "ましろ色シンフォニー",
-    "en": "Mashiroiro Symphony"
-  },
-  "gsc_productNum": 3421,
-  "price": 3667,
-  "release_date": [
+  "num" : "218",
+  "price" : 3667,
+  "release_date" : [
     "2012/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111219/3421/16625/large/f549d617be9d5e083fce238570894173.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Mashiroiro Symphony",
+    "ja" : "ましろ色シンフォニー",
+    "ko" : "마시로색 심포니"
+  }
 }

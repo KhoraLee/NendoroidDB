@@ -1,21 +1,21 @@
 {
-  "num": "1695",
-  "name": {
-    "ko": "조커 1989 ver.",
-    "ja": "ねんどろいど ジョーカー 1989 Ver. (ねんどろいど じょーかー 1989 Ver.)",
-    "en": "Nendoroid The Joker: 1989 Ver."
+  "gender" : "M",
+  "gsc_productNum" : 11649,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210812/11649/88692/large/0c15be6289d78a2e57056dd8d870edc9.jpg",
+  "name" : {
+    "en" : "Nendoroid The Joker: 1989 Ver.",
+    "ja" : "ねんどろいど ジョーカー 1989 Ver. (ねんどろいど じょーかー 1989 Ver.)",
+    "ko" : "조커 1989 ver."
   },
-  "series": {
-    "ko": "배트맨",
-    "ja": "バットマン",
-    "en": "Batman"
-  },
-  "gsc_productNum": 11649,
-  "price": 6500,
-  "release_date": [
+  "num" : "1695",
+  "price" : 6500,
+  "release_date" : [
     "2022/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210812/11649/88692/large/0c15be6289d78a2e57056dd8d870edc9.jpg",
-  "gender": "M",
-  "set": 268
+  "series" : {
+    "en" : "Batman",
+    "ja" : "バットマン",
+    "ko" : "배트맨"
+  },
+  "set" : 268
 }

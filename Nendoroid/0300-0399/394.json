@@ -1,21 +1,21 @@
 {
-  "num": "394",
-  "name": {
-    "ko": "카미키타 코마리",
-    "ja": "ねんどろいど 神北小毬 (ねんどろいど かみきたこまり)",
-    "en": "Nendoroid Komari Kamikita (ねんどろいど かみきたこまり)"
+  "gender" : "F",
+  "gsc_productNum" : 4180,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140109/4180/27586/large/3768f970b23b3a3c1553c75e2985955e.jpg",
+  "name" : {
+    "en" : "Nendoroid Komari Kamikita (ねんどろいど かみきたこまり)",
+    "ja" : "ねんどろいど 神北小毬 (ねんどろいど かみきたこまり)",
+    "ko" : "카미키타 코마리"
   },
-  "series": {
-    "ko": "리틀 버스터즈!",
-    "ja": "リトルバスターズ！～Refrain～",
-    "en": "Little Busters! ~Refrain~"
-  },
-  "gsc_productNum": 4180,
-  "price": 3972,
-  "release_date": [
+  "num" : "394",
+  "price" : 3972,
+  "release_date" : [
     "2014/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140109/4180/27586/large/3768f970b23b3a3c1553c75e2985955e.jpg",
-  "gender": "F",
-  "set": 39
+  "series" : {
+    "en" : "Little Busters! ~Refrain~",
+    "ja" : "リトルバスターズ！～Refrain～",
+    "ko" : "리틀 버스터즈!"
+  },
+  "set" : 39
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1037",
-  "name": {
-    "ko": "스파이더맨 어벤져스 인피니티워 에디션",
-    "ja": "ねんどろいど アイアン・スパイダー インフィニティ・エディション (ねんどろいど あいあん・すぱいだー いんふぃにてぃ・えでぃしょん)",
-    "en": "Nendoroid Iron Spider: Infinity Edition"
+  "gender" : "M",
+  "gsc_productNum" : 7836,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181122/7836/56208/large/f4e42353ef822e9dd144be5473bb0ab5.jpg",
+  "name" : {
+    "en" : "Nendoroid Iron Spider: Infinity Edition",
+    "ja" : "ねんどろいど アイアン・スパイダー インフィニティ・エディション (ねんどろいど あいあん・すぱいだー いんふぃにてぃ・えでぃしょん)",
+    "ko" : "스파이더맨 어벤져스 인피니티워 에디션"
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／インフィニティ・ウォー",
-    "en": "Avengers: Infinity War"
-  },
-  "gsc_productNum": 7836,
-  "price": 5602,
-  "release_date": [
+  "num" : "1037",
+  "price" : 5602,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181122/7836/56208/large/f4e42353ef822e9dd144be5473bb0ab5.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Infinity War",
+    "ja" : "アベンジャーズ／インフィニティ・ウォー",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

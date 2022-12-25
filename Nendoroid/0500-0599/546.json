@@ -1,21 +1,21 @@
 {
-  "num": "546",
-  "name": {
-    "ko": "소노다 우미 연습복",
-    "ja": "ねんどろいど 園田海未 練習着Ver. (ねんどろいど そのだうみ れんしゅうぎVer.)",
-    "en": "Nendoroid Umi Sonoda: Training Outfit Ver. (ねんどろいど そのだうみ れんしゅうぎVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 5138,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150720/5138/34715/large/db0a4eb2fccd3651864bc4b7cc3a835e.jpg",
+  "name" : {
+    "en" : "Nendoroid Umi Sonoda: Training Outfit Ver. (ねんどろいど そのだうみ れんしゅうぎVer.)",
+    "ja" : "ねんどろいど 園田海未 練習着Ver. (ねんどろいど そのだうみ れんしゅうぎVer.)",
+    "ko" : "소노다 우미 연습복"
   },
-  "series": {
-    "ko": "러브라이브!",
-    "ja": "ラブライブ！",
-    "en": "LoveLive!"
-  },
-  "gsc_productNum": 5138,
-  "price": 3565,
-  "release_date": [
+  "num" : "546",
+  "price" : 3565,
+  "release_date" : [
     "2015/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150720/5138/34715/large/db0a4eb2fccd3651864bc4b7cc3a835e.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 105
 }

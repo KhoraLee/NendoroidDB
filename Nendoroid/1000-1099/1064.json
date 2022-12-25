@@ -1,21 +1,21 @@
 {
-  "num": "1064",
-  "name": {
-    "ko": "코이와이 요츠바",
-    "ja": "ねんどろいど 小岩井よつば (ねんどろいど こいわいよつば)",
-    "en": "Nendoroid Yotsuba Koiwai"
+  "gender" : "F",
+  "gsc_productNum" : 7973,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190111/7973/57292/large/9a20c5e11c99ebadaa82cb087d255f5a.jpg",
+  "name" : {
+    "en" : "Nendoroid Yotsuba Koiwai",
+    "ja" : "ねんどろいど 小岩井よつば (ねんどろいど こいわいよつば)",
+    "ko" : "코이와이 요츠바"
   },
-  "series": {
-    "ko": "요츠바랑!",
-    "ja": "よつばと！",
-    "en": "YOTSUBA\u0026!"
-  },
-  "gsc_productNum": 7973,
-  "price": 5093,
-  "release_date": [
+  "num" : "1064",
+  "price" : 5093,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190111/7973/57292/large/9a20c5e11c99ebadaa82cb087d255f5a.jpg",
-  "gender": "F",
-  "set": 201
+  "series" : {
+    "en" : "YOTSUBA&!",
+    "ja" : "よつばと！",
+    "ko" : "요츠바랑!"
+  },
+  "set" : 201
 }

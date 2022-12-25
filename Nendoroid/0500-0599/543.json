@@ -1,21 +1,21 @@
 {
-  "num": "543",
-  "name": {
-    "ko": "아이언맨 마크43 히어로즈 에디션+울트론 센트리 세트",
-    "ja": "ねんどろいど アイアンマン マーク43 ヒーローズ・エディション＋ウルトロン・セントリーセット (ねんどろいど あいあんまん まーく43 ひーろーず・えでぃしょん＋うるとろん・せんとりーせっと)",
-    "en": "Nendoroid Iron Man Mark 43: Hero’s Edition + Ultron Sentries Set (ねんどろいど あいあんまん まーく43 ひーろーず・えでぃしょん＋うるとろん・せんとりーせっと)"
+  "gender" : "M",
+  "gsc_productNum" : 5111,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150706/5111/34435/large/640ebca550e48dfc0fee1d87ef679983.jpg",
+  "name" : {
+    "en" : "Nendoroid Iron Man Mark 43: Hero’s Edition + Ultron Sentries Set (ねんどろいど あいあんまん まーく43 ひーろーず・えでぃしょん＋うるとろん・せんとりーせっと)",
+    "ja" : "ねんどろいど アイアンマン マーク43 ヒーローズ・エディション＋ウルトロン・セントリーセット (ねんどろいど あいあんまん まーく43 ひーろーず・えでぃしょん＋うるとろん・せんとりーせっと)",
+    "ko" : "아이언맨 마크43 히어로즈 에디션+울트론 센트리 세트"
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ/エイジ・オブ・ウルトロン",
-    "en": "Avengers: Age of Ultron"
-  },
-  "gsc_productNum": 5111,
-  "price": 5602,
-  "release_date": [
+  "num" : "543",
+  "price" : 5602,
+  "release_date" : [
     "2015/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150706/5111/34435/large/640ebca550e48dfc0fee1d87ef679983.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Age of Ultron",
+    "ja" : "アベンジャーズ/エイジ・オブ・ウルトロン",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

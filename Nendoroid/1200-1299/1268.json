@@ -1,21 +1,21 @@
 {
-  "num": "1268",
-  "name": {
-    "ko": "드레이코 말포이",
-    "ja": "ねんどろいど ドラコ・マルフォイ (ねんどろいど どらこ・まるふぉい)",
-    "en": "Nendoroid Draco Malfoy"
+  "gender" : "M",
+  "gsc_productNum" : 9141,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191226/9141/66741/large/ab67b78e72493c9a7676241a21c0e597.jpg",
+  "name" : {
+    "en" : "Nendoroid Draco Malfoy",
+    "ja" : "ねんどろいど ドラコ・マルフォイ (ねんどろいど どらこ・まるふぉい)",
+    "ko" : "드레이코 말포이"
   },
-  "series": {
-    "ko": "해리포터 시리즈",
-    "ja": "ハリー・ポッター",
-    "en": "Harry Potter"
-  },
-  "gsc_productNum": 9141,
-  "price": 4500,
-  "release_date": [
+  "num" : "1268",
+  "price" : 4500,
+  "release_date" : [
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191226/9141/66741/large/ab67b78e72493c9a7676241a21c0e597.jpg",
-  "gender": "M",
-  "set": 194
+  "series" : {
+    "en" : "Harry Potter",
+    "ja" : "ハリー・ポッター",
+    "ko" : "해리포터 시리즈"
+  },
+  "set" : 194
 }

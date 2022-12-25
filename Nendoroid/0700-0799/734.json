@@ -1,21 +1,21 @@
 {
-  "num": "734",
-  "name": {
-    "ko": "고통의 여왕",
-    "ja": "ねんどろいど クイーン・オブ・ペイン (ねんどろいど くいーん･おぶ･ぺいん)",
-    "en": "Nendoroid Queen of Pain"
+  "gender" : "F",
+  "gsc_productNum" : 6217,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170127/6217/43564/large/432811897e311caecc0001349dbd3ea2.jpg",
+  "name" : {
+    "en" : "Nendoroid Queen of Pain",
+    "ja" : "ねんどろいど クイーン・オブ・ペイン (ねんどろいど くいーん･おぶ･ぺいん)",
+    "ko" : "고통의 여왕"
   },
-  "series": {
-    "ko": "도타2",
-    "ja": "Dota 2",
-    "en": "DOTA 2"
-  },
-  "gsc_productNum": 6217,
-  "price": 4584,
-  "release_date": [
+  "num" : "734",
+  "price" : 4584,
+  "release_date" : [
     "2017/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170127/6217/43564/large/432811897e311caecc0001349dbd3ea2.jpg",
-  "gender": "F",
-  "set": 129
+  "series" : {
+    "en" : "DOTA 2",
+    "ja" : "Dota 2",
+    "ko" : "도타2"
+  },
+  "set" : 129
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1675",
-  "name": {
-    "ko": "태스크마스터 블랙위도우 Ver.",
-    "ja": "ねんどろいど タスクマスター Black Widow Ver. (ねんどろいど たすくますたー ぶらっく うぃどう Ver.)",
-    "en": "Nendoroid Taskmaster: Black Widow Ver."
+  "gender" : "F",
+  "gsc_productNum" : 11457,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210705/11457/86934/large/78f017893de137437aff98dbddb08c09.jpg",
+  "name" : {
+    "en" : "Nendoroid Taskmaster: Black Widow Ver.",
+    "ja" : "ねんどろいど タスクマスター Black Widow Ver. (ねんどろいど たすくますたー ぶらっく うぃどう Ver.)",
+    "ko" : "태스크마스터 블랙위도우 Ver."
   },
-  "series": {
-    "ko": "블랙위도우",
-    "ja": "ブラックウィドウ",
-    "en": "Black Widow"
-  },
-  "gsc_productNum": 11457,
-  "price": 6500,
-  "release_date": [
+  "num" : "1675",
+  "price" : 6500,
+  "release_date" : [
     "2022/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210705/11457/86934/large/78f017893de137437aff98dbddb08c09.jpg",
-  "gender": "F",
-  "set": 63
+  "series" : {
+    "en" : "Black Widow",
+    "ja" : "ブラックウィドウ",
+    "ko" : "블랙위도우"
+  },
+  "set" : 63
 }

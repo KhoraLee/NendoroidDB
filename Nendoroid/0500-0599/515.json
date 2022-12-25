@@ -1,22 +1,22 @@
 {
-  "num": "515",
-  "name": {
-    "ko": "만칸쇼쿠 마코 싸움부 특화형! 2성 극교복 Ver.",
-    "ja": "ねんどろいど 満艦飾マコ 喧嘩部特化型二つ星極制服 Ver. (ねんどろいど まんかんしょくまこ けんかぶとっかがたふたつぼしごくせいふく Ver.)",
-    "en": "Nendoroid Mako Mankanshoku: Fight Club-Spec Two-Star Goku Uniform Ver. (ねんどろいど まんかんしょくまこ けんかぶとっかがたふたつぼしごくせいふく Ver.)"
+  "gender" : "F",
+  "gsc_productNum" : 5063,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150610/5063/33996/large/66f5d120d86adda7af08a9558bd5e561.jpg",
+  "name" : {
+    "en" : "Nendoroid Mako Mankanshoku: Fight Club-Spec Two-Star Goku Uniform Ver. (ねんどろいど まんかんしょくまこ けんかぶとっかがたふたつぼしごくせいふく Ver.)",
+    "ja" : "ねんどろいど 満艦飾マコ 喧嘩部特化型二つ星極制服 Ver. (ねんどろいど まんかんしょくまこ けんかぶとっかがたふたつぼしごくせいふく Ver.)",
+    "ko" : "만칸쇼쿠 마코 싸움부 특화형! 2성 극교복 Ver."
   },
-  "series": {
-    "ko": "킬라킬",
-    "ja": "キルラキル",
-    "en": "KILL la KILL"
-  },
-  "gsc_productNum": 5063,
-  "price": 4584,
-  "release_date": [
+  "num" : "515",
+  "price" : 4584,
+  "release_date" : [
     "2015/07",
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150610/5063/33996/large/66f5d120d86adda7af08a9558bd5e561.jpg",
-  "gender": "F",
-  "set": 97
+  "series" : {
+    "en" : "KILL la KILL",
+    "ja" : "キルラキル",
+    "ko" : "킬라킬"
+  },
+  "set" : 97
 }

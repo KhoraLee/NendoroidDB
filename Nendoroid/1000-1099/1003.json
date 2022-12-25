@@ -1,21 +1,21 @@
 {
-  "num": "1003",
-  "name": {
-    "ko": "레이싱 미쿠 2013 세팡 Ver.",
-    "ja": "ねんどろいど レーシングミク 2013 セパンVer. (ねんどろいど れーしんぐみく 2013 せぱんVer.)",
-    "en": "Nendoroid Racing Miku: 2013 Sepang Ver."
+  "gender" : "F",
+  "gsc_productNum" : 7599,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180911/7599/54412/large/e0098053dbb0fe6e7f40ff3872b4c91e.jpg",
+  "name" : {
+    "en" : "Nendoroid Racing Miku: 2013 Sepang Ver.",
+    "ja" : "ねんどろいど レーシングミク 2013 セパンVer. (ねんどろいど れーしんぐみく 2013 せぱんVer.)",
+    "ko" : "레이싱 미쿠 2013 세팡 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "初音ミク GTプロジェクト",
-    "en": "Hatsune Miku GT Project"
-  },
-  "gsc_productNum": 7599,
-  "price": 5602,
-  "release_date": [
+  "num" : "1003",
+  "price" : 5602,
+  "release_date" : [
     "2019/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180911/7599/54412/large/e0098053dbb0fe6e7f40ff3872b4c91e.jpg",
-  "gender": "F",
-  "set": 23
+  "series" : {
+    "en" : "Hatsune Miku GT Project",
+    "ja" : "初音ミク GTプロジェクト",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 23
 }

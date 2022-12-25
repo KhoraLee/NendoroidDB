@@ -1,20 +1,20 @@
 {
-  "num": "022",
-  "name": {
-    "ko": "타치코마 옐로우",
-    "ja": "ねんどろいど タチコマンズ・イエロー (ねんどろいど たちこまんず・いえろー)",
-    "en": "Nendoroid Tachikomans - Yellow version (ねんどろいど たちこまんず・いえろー)"
+  "gsc_productNum" : 636,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/636/979/large/24ef8a3015a6ba405ed387e67bd4b9ea.jpg",
+  "name" : {
+    "en" : "Nendoroid Tachikomans - Yellow version (ねんどろいど たちこまんず・いえろー)",
+    "ja" : "ねんどろいど タチコマンズ・イエロー (ねんどろいど たちこまんず・いえろー)",
+    "ko" : "타치코마 옐로우"
   },
-  "series": {
-    "ko": "공각기동대",
-    "ja": "攻殻機動隊S.A.C.",
-    "en": "Ghost in The Shell S.A.C"
-  },
-  "gsc_productNum": 636,
-  "price": 4190,
-  "release_date": [
+  "num" : "022",
+  "price" : 4190,
+  "release_date" : [
     "2011/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/636/979/large/24ef8a3015a6ba405ed387e67bd4b9ea.jpg",
-  "set": 6
+  "series" : {
+    "en" : "Ghost in The Shell S.A.C",
+    "ja" : "攻殻機動隊S.A.C.",
+    "ko" : "공각기동대"
+  },
+  "set" : 6
 }

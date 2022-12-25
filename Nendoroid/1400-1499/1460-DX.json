@@ -1,21 +1,21 @@
 {
-  "num": "1460-DX",
-  "name": {
-    "ko": "오병 DX",
-    "ja": "ねんどろいど 敖丙 DX Ver. (ねんどろいど あおびん DX Ver.)",
-    "en": "Nendoroid Ao Bing DX Ver."
+  "gender" : "M",
+  "gsc_productNum" : 10688,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210119/10688/79933/large/c9120d2ca07c1dfdae7f5c0b79eb231a.jpg",
+  "name" : {
+    "en" : "Nendoroid Ao Bing DX Ver.",
+    "ja" : "ねんどろいど 敖丙 DX Ver. (ねんどろいど あおびん DX Ver.)",
+    "ko" : "오병 DX"
   },
-  "series": {
-    "ko": "나타지마동강세",
-    "ja": "哪吒之魔童降世",
-    "en": "Ne Zha"
-  },
-  "gsc_productNum": 10688,
-  "price": 6800,
-  "release_date": [
+  "num" : "1460-DX",
+  "price" : 6800,
+  "release_date" : [
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210119/10688/79933/large/c9120d2ca07c1dfdae7f5c0b79eb231a.jpg",
-  "gender": "M",
-  "set": 244
+  "series" : {
+    "en" : "Ne Zha",
+    "ja" : "哪吒之魔童降世",
+    "ko" : "나타지마동강세"
+  },
+  "set" : 244
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1712",
-  "name": {
-    "ko": "와타나베 사라사",
-    "ja": "ねんどろいど 渡辺さらさ (ねんどろいど わたなべさらさ)",
-    "en": "Nendoroid Sarasa Watanabe"
+  "gender" : "F",
+  "gsc_productNum" : 11768,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210909/11768/89739/large/5b6b9f4294c7fc7a59907a4f8e587d63.jpg",
+  "name" : {
+    "en" : "Nendoroid Sarasa Watanabe",
+    "ja" : "ねんどろいど 渡辺さらさ (ねんどろいど わたなべさらさ)",
+    "ko" : "와타나베 사라사"
   },
-  "series": {
-    "ko": "가극소녀!!",
-    "ja": "かげきしょうじょ!!",
-    "en": "Kageki Shojo!!"
-  },
-  "gsc_productNum": 11768,
-  "price": 6600,
-  "release_date": [
+  "num" : "1712",
+  "price" : 6600,
+  "release_date" : [
     "2022/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210909/11768/89739/large/5b6b9f4294c7fc7a59907a4f8e587d63.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Kageki Shojo!!",
+    "ja" : "かげきしょうじょ!!",
+    "ko" : "가극소녀!!"
+  }
 }

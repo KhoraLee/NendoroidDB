@@ -1,21 +1,21 @@
 {
-  "num": "1292",
-  "name": {
-    "ko": "UMP9",
-    "ja": "ねんどろいど UMP9 (ねんどろいど UMP9)",
-    "en": "Nendoroid UMP9"
+  "gender" : "F",
+  "gsc_productNum" : 9311,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200226/9311/67937/large/e8d8b68ef8a5656329f66b911df3fe86.jpg",
+  "name" : {
+    "en" : "Nendoroid UMP9",
+    "ja" : "ねんどろいど UMP9 (ねんどろいど UMP9)",
+    "ko" : "UMP9"
   },
-  "series": {
-    "ko": "소녀전선",
-    "ja": "ドールズフロントライン",
-    "en": "Girls\u0027 Frontline"
-  },
-  "gsc_productNum": 9311,
-  "price": 5900,
-  "release_date": [
+  "num" : "1292",
+  "price" : 5900,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200226/9311/67937/large/e8d8b68ef8a5656329f66b911df3fe86.jpg",
-  "gender": "F",
-  "set": 210
+  "series" : {
+    "en" : "Girls' Frontline",
+    "ja" : "ドールズフロントライン",
+    "ko" : "소녀전선"
+  },
+  "set" : 210
 }

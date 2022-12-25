@@ -1,21 +1,21 @@
 {
-  "num": "1623",
-  "name": {
-    "ko": "카가미하라 나데시코 솔로캠프 Ver.",
-    "ja": "ねんどろいど 各務原なでしこ ソロキャンVer. (ねんどろいど かがみはらなでしこ そろきゃんVer.)",
-    "en": "Nendoroid Nadeshiko Kagamihara: Solo Camp Ver."
+  "gender" : "F",
+  "gsc_productNum" : 11142,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210422/11142/84153/large/0086b146a9046c5ec479c5311fe86e07.jpg",
+  "name" : {
+    "en" : "Nendoroid Nadeshiko Kagamihara: Solo Camp Ver.",
+    "ja" : "ねんどろいど 各務原なでしこ ソロキャンVer. (ねんどろいど かがみはらなでしこ そろきゃんVer.)",
+    "ko" : "카가미하라 나데시코 솔로캠프 Ver."
   },
-  "series": {
-    "ko": "유루캠△",
-    "ja": "ゆるキャン△",
-    "en": "Laid-Back Camp"
-  },
-  "gsc_productNum": 11142,
-  "price": 6100,
-  "release_date": [
+  "num" : "1623",
+  "price" : 6100,
+  "release_date" : [
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210422/11142/84153/large/0086b146a9046c5ec479c5311fe86e07.jpg",
-  "gender": "F",
-  "set": 173
+  "series" : {
+    "en" : "Laid-Back Camp",
+    "ja" : "ゆるキャン△",
+    "ko" : "유루캠△"
+  },
+  "set" : 173
 }

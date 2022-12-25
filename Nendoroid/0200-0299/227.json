@@ -1,20 +1,20 @@
 {
-  "num": "227",
-  "name": {
-    "ko": "타치코마 응원 Ver.",
-    "ja": "ねんどろいど タチコマ 応援Ver. (ねんどろいど たちこま おうえんVer.)",
-    "en": "Nendoroid Tachikoma: Cheerful Ver. (ねんどろいど たちこま おうえんVer.)"
+  "gsc_productNum" : 3460,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120206/3460/17201/large/031978b579e443ddc0abe5be6b4940a2.jpg",
+  "name" : {
+    "en" : "Nendoroid Tachikoma: Cheerful Ver. (ねんどろいど たちこま おうえんVer.)",
+    "ja" : "ねんどろいど タチコマ 応援Ver. (ねんどろいど たちこま おうえんVer.)",
+    "ko" : "타치코마 응원 Ver."
   },
-  "series": {
-    "ko": "공각기동대 S.A.C.",
-    "ja": "攻殻機動隊S.A.C.",
-    "en": "Ghost in the Shell S.A.C"
-  },
-  "gsc_productNum": 3460,
-  "price": 4190,
-  "release_date": [
+  "num" : "227",
+  "price" : 4190,
+  "release_date" : [
     "2012/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120206/3460/17201/large/031978b579e443ddc0abe5be6b4940a2.jpg",
-  "set": 6
+  "series" : {
+    "en" : "Ghost in the Shell S.A.C",
+    "ja" : "攻殻機動隊S.A.C.",
+    "ko" : "공각기동대 S.A.C."
+  },
+  "set" : 6
 }

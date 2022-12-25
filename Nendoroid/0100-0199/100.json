@@ -1,21 +1,21 @@
 {
-  "num": "100",
-  "name": {
-    "ko": "미키 마우스",
-    "ja": "ねんどろいど ミッキーマウス (ねんどろいど　みっきーまうす)",
-    "en": "Nendoroid Mickey Mouse (ねんどろいど　みっきーまうす)"
+  "gsc_productNum" : 2880,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100608/2880/54124/large/38e940a6b90b8e19a9c0892294097481.jpg",
+  "name" : {
+    "en" : "Nendoroid Mickey Mouse (ねんどろいど　みっきーまうす)",
+    "ja" : "ねんどろいど ミッキーマウス (ねんどろいど　みっきーまうす)",
+    "ko" : "미키 마우스"
   },
-  "series": {
-    "ko": "디즈니",
-    "ja": "MICKEY　MOUSE",
-    "en": "MICKEY MOUSE"
-  },
-  "gsc_productNum": 2880,
-  "price": 5907,
-  "release_date": [
+  "num" : "100",
+  "price" : 5907,
+  "release_date" : [
     "2011/01",
     "2018/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100608/2880/54124/large/38e940a6b90b8e19a9c0892294097481.jpg",
-  "set": 32
+  "series" : {
+    "en" : "MICKEY MOUSE",
+    "ja" : "MICKEY　MOUSE",
+    "ko" : "디즈니"
+  },
+  "set" : 32
 }

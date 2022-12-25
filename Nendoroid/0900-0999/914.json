@@ -1,22 +1,22 @@
 {
-  "num": "914",
-  "name": {
-    "ko": "아즈마네 아사히",
-    "ja": "ねんどろいど 東峰旭 (ねんどろいど あずまねあさひ)",
-    "en": "Nendoroid Asahi Azumane"
+  "gender" : "M",
+  "gsc_productNum" : 7194,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180405/7194/51313/large/238d0333027afb9dba3179220c319bb8.jpg",
+  "name" : {
+    "en" : "Nendoroid Asahi Azumane",
+    "ja" : "ねんどろいど 東峰旭 (ねんどろいど あずまねあさひ)",
+    "ko" : "아즈마네 아사히"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "Haikyu!!"
-  },
-  "gsc_productNum": 7194,
-  "price": 4888,
-  "release_date": [
+  "num" : "914",
+  "price" : 4888,
+  "release_date" : [
     "2018/10",
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180405/7194/51313/large/238d0333027afb9dba3179220c319bb8.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

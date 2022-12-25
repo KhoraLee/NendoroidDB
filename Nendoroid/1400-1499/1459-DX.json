@@ -1,21 +1,21 @@
 {
-  "num": "1459-DX",
-  "name": {
-    "ko": "나타 DX",
-    "ja": "ねんどろいど 哪吒 DX Ver. (ねんどろいど なた DX Ver.)",
-    "en": "Nendoroid Ne Zha DX Ver."
+  "gender" : "M",
+  "gsc_productNum" : 10686,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210119/10686/79916/large/4804133bfbce7aa1f4a40bb4fd992308.jpg",
+  "name" : {
+    "en" : "Nendoroid Ne Zha DX Ver.",
+    "ja" : "ねんどろいど 哪吒 DX Ver. (ねんどろいど なた DX Ver.)",
+    "ko" : "나타 DX"
   },
-  "series": {
-    "ko": "나타지마동강세",
-    "ja": "哪吒之魔童降世",
-    "en": "Ne Zha"
-  },
-  "gsc_productNum": 10686,
-  "price": 6800,
-  "release_date": [
+  "num" : "1459-DX",
+  "price" : 6800,
+  "release_date" : [
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210119/10686/79916/large/4804133bfbce7aa1f4a40bb4fd992308.jpg",
-  "gender": "M",
-  "set": 244
+  "series" : {
+    "en" : "Ne Zha",
+    "ja" : "哪吒之魔童降世",
+    "ko" : "나타지마동강세"
+  },
+  "set" : 244
 }

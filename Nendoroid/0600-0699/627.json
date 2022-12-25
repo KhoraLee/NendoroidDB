@@ -1,20 +1,20 @@
 {
-  "num": "627",
-  "name": {
-    "ko": "클라리온",
-    "ja": "ねんどろいど クラリオン (ねんどろいど くらりおん)",
-    "en": "Nendoroid Clarion"
+  "gender" : "F",
+  "gsc_productNum" : 5648,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160426/5648/38839/large/5f61ce843209a330af779bbdb8d33019.jpg",
+  "name" : {
+    "en" : "Nendoroid Clarion",
+    "ja" : "ねんどろいど クラリオン (ねんどろいど くらりおん)",
+    "ko" : "클라리온"
   },
-  "series": {
-    "ko": "홍각의 판도라",
-    "ja": "紅殻のパンドラ",
-    "en": "Pandora in the Crimson Shell: Ghost Urn"
-  },
-  "gsc_productNum": 5648,
-  "price": 5093,
-  "release_date": [
+  "num" : "627",
+  "price" : 5093,
+  "release_date" : [
     "2016/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160426/5648/38839/large/5f61ce843209a330af779bbdb8d33019.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Pandora in the Crimson Shell: Ghost Urn",
+    "ja" : "紅殻のパンドラ",
+    "ko" : "홍각의 판도라"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "477",
-  "name": {
-    "ko": "코미나토 루우코",
-    "ja": "ねんどろいど 小湊るう子 (ねんどろいど こみなとるうこ)",
-    "en": "Nendoroid Ruko Kominato (ねんどろいど こみなとるうこ)"
+  "gender" : "F",
+  "gsc_productNum" : 4724,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141117/4724/31319/large/6ccc02a15be7049e368626c172a18cc9.jpg",
+  "name" : {
+    "en" : "Nendoroid Ruko Kominato (ねんどろいど こみなとるうこ)",
+    "ja" : "ねんどろいど 小湊るう子 (ねんどろいど こみなとるうこ)",
+    "ko" : "코미나토 루우코"
   },
-  "series": {
-    "ko": "selector infected WIXOSS",
-    "ja": "selector infected WIXOSS",
-    "en": "selector infected WIXOSS"
-  },
-  "gsc_productNum": 4724,
-  "price": 4620,
-  "release_date": [
+  "num" : "477",
+  "price" : 4620,
+  "release_date" : [
     "2015/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141117/4724/31319/large/6ccc02a15be7049e368626c172a18cc9.jpg",
-  "gender": "F",
-  "set": 113
+  "series" : {
+    "en" : "selector infected WIXOSS",
+    "ja" : "selector infected WIXOSS",
+    "ko" : "selector infected WIXOSS"
+  },
+  "set" : 113
 }

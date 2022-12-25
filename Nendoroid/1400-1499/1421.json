@@ -1,21 +1,21 @@
 {
-  "num": "1421",
-  "name": {
-    "ko": "헌터♂ 진오우α Ver.",
-    "ja": "ねんどろいど ハンター♂ ジンオウα Ver. (ねんどろいど はんたー♂ じんおうα Ver.)",
-    "en": "Nendoroid Hunter: Male Zinogre Alpha Armor Ver."
+  "gender" : "M",
+  "gsc_productNum" : 9814,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200722/9814/72311/large/f77f3590193cdb045725eee225f6f7b1.jpg",
+  "name" : {
+    "en" : "Nendoroid Hunter: Male Zinogre Alpha Armor Ver.",
+    "ja" : "ねんどろいど ハンター♂ ジンオウα Ver. (ねんどろいど はんたー♂ じんおうα Ver.)",
+    "ko" : "헌터♂ 진오우α Ver."
   },
-  "series": {
-    "ko": "몬스터 헌터",
-    "ja": "モンスターハンターワールド：アイスボーン",
-    "en": "MONSTER HUNTER WORLD: ICEBORNE"
-  },
-  "gsc_productNum": 9814,
-  "price": 6100,
-  "release_date": [
+  "num" : "1421",
+  "price" : 6100,
+  "release_date" : [
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200722/9814/72311/large/f77f3590193cdb045725eee225f6f7b1.jpg",
-  "gender": "M",
-  "set": 64
+  "series" : {
+    "en" : "MONSTER HUNTER WORLD: ICEBORNE",
+    "ja" : "モンスターハンターワールド：アイスボーン",
+    "ko" : "몬스터 헌터"
+  },
+  "set" : 64
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1214",
-  "name": {
-    "ko": "적혈구",
-    "ja": "ねんどろいど 赤血球 (ねんどろいど せっけっきゅう)",
-    "en": "Nendoroid Red Blood Cell"
+  "gender" : "F",
+  "gsc_productNum" : 8836,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190925/8836/63994/large/b17d19c9b925a5305f613d8eb8dbb91f.jpg",
+  "name" : {
+    "en" : "Nendoroid Red Blood Cell",
+    "ja" : "ねんどろいど 赤血球 (ねんどろいど せっけっきゅう)",
+    "ko" : "적혈구"
   },
-  "series": {
-    "ko": "일하는 세포",
-    "ja": "はたらく細胞",
-    "en": "Cells at Work!"
-  },
-  "gsc_productNum": 8836,
-  "price": 4800,
-  "release_date": [
+  "num" : "1214",
+  "price" : 4800,
+  "release_date" : [
     "2020/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190925/8836/63994/large/b17d19c9b925a5305f613d8eb8dbb91f.jpg",
-  "gender": "F",
-  "set": 190
+  "series" : {
+    "en" : "Cells at Work!",
+    "ja" : "はたらく細胞",
+    "ko" : "일하는 세포"
+  },
+  "set" : 190
 }

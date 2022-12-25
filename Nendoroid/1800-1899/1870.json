@@ -1,21 +1,21 @@
 {
-  "num": "1870",
-  "name": {
-    "ko": "A2: 숏헤어 Ver.",
-    "ja": "ねんどろいど NieR:Automata A2（ヨルハA型二号） ショートヘアVer. (ねんどろいど にーあ:おーとまた えーとぅ（よるはえーがたにごう） しょーとへあVer.)",
-    "en": "Nendoroid NieR:Automata A2 (YoRHa Type A No. 2): Short Hair Ver."
+  "gender" : "F",
+  "gsc_productNum" : 12732,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220523/12732/99050/large/620f617bcff64ddcf7633f0a5ed7a6b8.jpg",
+  "name" : {
+    "en" : "Nendoroid NieR:Automata A2 (YoRHa Type A No. 2): Short Hair Ver.",
+    "ja" : "ねんどろいど NieR:Automata A2（ヨルハA型二号） ショートヘアVer. (ねんどろいど にーあ:おーとまた えーとぅ（よるはえーがたにごう） しょーとへあVer.)",
+    "ko" : "A2: 숏헤어 Ver."
   },
-  "series": {
-    "ko": "니어 오토마타",
-    "ja": "NieR:Automata",
-    "en": "NieR:Automata"
-  },
-  "gsc_productNum": 12732,
-  "price": 6600,
-  "release_date": [
+  "num" : "1870",
+  "price" : 6600,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220523/12732/99050/large/620f617bcff64ddcf7633f0a5ed7a6b8.jpg",
-  "gender": "F",
-  "set": 249
+  "series" : {
+    "en" : "NieR:Automata",
+    "ja" : "NieR:Automata",
+    "ko" : "니어 오토마타"
+  },
+  "set" : 249
 }

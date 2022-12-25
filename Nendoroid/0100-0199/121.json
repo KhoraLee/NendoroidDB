@@ -1,21 +1,21 @@
 {
-  "num": "121",
-  "name": {
-    "ko": "세이버 슈퍼 무버블 에디션",
-    "ja": "ねんどろいど セイバー スーパームーバブル・エディション (ねんどろいど せいばー すーぱーむーばぶる・えでぃしょん)",
-    "en": "Nendoroid Saber: Super Movable Edition (ねんどろいど せいばー すーぱーむーばぶる・えでぃしょん)"
+  "gender" : "F",
+  "gsc_productNum" : 2886,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100621/2886/10442/large/366d11bd5ad8db4c8b629f7c0efef1f1.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber: Super Movable Edition (ねんどろいど せいばー すーぱーむーばぶる・えでぃしょん)",
+    "ja" : "ねんどろいど セイバー スーパームーバブル・エディション (ねんどろいど せいばー すーぱーむーばぶる・えでぃしょん)",
+    "ko" : "세이버 슈퍼 무버블 에디션"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/stay night",
-    "en": "Fate/stay Night"
-  },
-  "gsc_productNum": 2886,
-  "price": 4190,
-  "release_date": [
+  "num" : "121",
+  "price" : 4190,
+  "release_date" : [
     "2010/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100621/2886/10442/large/366d11bd5ad8db4c8b629f7c0efef1f1.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/stay Night",
+    "ja" : "Fate/stay night",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

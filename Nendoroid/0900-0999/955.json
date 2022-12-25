@@ -1,22 +1,22 @@
 {
-  "num": "955",
-  "name": {
-    "ko": "블랙팬서 어벤져스 인피니티 워 에디션",
-    "ja": "ねんどろいど ブラックパンサー インフィニティ・エディション (ねんどろいど ぶらっくぱんさー いんふぃにてぃ・えでぃしょん)",
-    "en": "Nendoroid Black Panther: Infinity Edition"
+  "gender" : "M",
+  "gsc_productNum" : 7422,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180710/7422/53151/large/5f988993c26fd8875e6e8f0814f3f14f.jpg",
+  "name" : {
+    "en" : "Nendoroid Black Panther: Infinity Edition",
+    "ja" : "ねんどろいど ブラックパンサー インフィニティ・エディション (ねんどろいど ぶらっくぱんさー いんふぃにてぃ・えでぃしょん)",
+    "ko" : "블랙팬서 어벤져스 인피니티 워 에디션"
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／インフィニティ・ウォー",
-    "en": "Avengers: Infinity War"
-  },
-  "gsc_productNum": 7422,
-  "price": 4278,
-  "release_date": [
+  "num" : "955",
+  "price" : 4278,
+  "release_date" : [
     "2018/12",
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180710/7422/53151/large/5f988993c26fd8875e6e8f0814f3f14f.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Infinity War",
+    "ja" : "アベンジャーズ／インフィニティ・ウォー",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

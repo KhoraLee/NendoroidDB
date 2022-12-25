@@ -1,20 +1,20 @@
 {
-  "num": "1462",
-  "name": {
-    "ko": "뉴트 스캐맨더",
-    "ja": "ねんどろいど ニュート・スキャマンダー (ねんどろいど にゅーと・すきゃまんだー)",
-    "en": "Nendoroid Newt Scamander"
+  "gender" : "M",
+  "gsc_productNum" : 10060,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200915/10060/76008/large/2e34575acbabd18c8d0bcd406984521e.jpg",
+  "name" : {
+    "en" : "Nendoroid Newt Scamander",
+    "ja" : "ねんどろいど ニュート・スキャマンダー (ねんどろいど にゅーと・すきゃまんだー)",
+    "ko" : "뉴트 스캐맨더"
   },
-  "series": {
-    "ko": "신비한 동물사전",
-    "ja": "ファンタスティック・ビースト",
-    "en": "Fantastic Beasts"
-  },
-  "gsc_productNum": 10060,
-  "price": 5200,
-  "release_date": [
+  "num" : "1462",
+  "price" : 5200,
+  "release_date" : [
     "2021/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200915/10060/76008/large/2e34575acbabd18c8d0bcd406984521e.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Fantastic Beasts",
+    "ja" : "ファンタスティック・ビースト",
+    "ko" : "신비한 동물사전"
+  }
 }

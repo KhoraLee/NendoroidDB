@@ -1,21 +1,21 @@
 {
-  "num": "057",
-  "name": {
-    "ko": "미야후지 요시카",
-    "ja": "ねんどろいど　宮藤芳佳 (みやふじよしか　ねんどろいど)",
-    "en": "Nendoroid Yoshika Miyafuji (みやふじよしか　ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 2160,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2160/5856/large/79039f4377e0d46ff784990203fb8d64.jpg",
+  "name" : {
+    "en" : "Nendoroid Yoshika Miyafuji (みやふじよしか　ねんどろいど)",
+    "ja" : "ねんどろいど　宮藤芳佳 (みやふじよしか　ねんどろいど)",
+    "ko" : "미야후지 요시카"
   },
-  "series": {
-    "ko": "스트라이크 위치스",
-    "ja": "ストライクウィッチーズ",
-    "en": "Strike Witches"
-  },
-  "gsc_productNum": 2160,
-  "price": 4190,
-  "release_date": [
+  "num" : "057",
+  "price" : 4190,
+  "release_date" : [
     "2009/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2160/5856/large/79039f4377e0d46ff784990203fb8d64.jpg",
-  "gender": "F",
-  "set": 16
+  "series" : {
+    "en" : "Strike Witches",
+    "ja" : "ストライクウィッチーズ",
+    "ko" : "스트라이크 위치스"
+  },
+  "set" : 16
 }

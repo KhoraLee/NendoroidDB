@@ -1,19 +1,19 @@
 {
-  "num": "055a",
-  "name": {
-    "ko": "타카라 미유키 콤프틱 Ver.",
-    "ja": "ねんどろいど 高良みゆき コンプティークVer. (ねんどろいど たからみゆき こんぷてぃーくVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3371,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3371/16307/large/b56c53ea477c244622e44ff4f2accc63.jpg",
+  "name" : {
+    "ja" : "ねんどろいど 高良みゆき コンプティークVer. (ねんどろいど たからみゆき こんぷてぃーくVer.)",
+    "ko" : "타카라 미유키 콤프틱 Ver."
   },
-  "series": {
-    "ko": "럭키스타",
-    "ja": "TVアニメ らき☆すた"
-  },
-  "gsc_productNum": 3371,
-  "price": 3667,
-  "release_date": [
+  "num" : "055a",
+  "price" : 3667,
+  "release_date" : [
     "2009/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3371/16307/large/b56c53ea477c244622e44ff4f2accc63.jpg",
-  "gender": "F",
-  "set": 9
+  "series" : {
+    "ja" : "TVアニメ らき☆すた",
+    "ko" : "럭키스타"
+  },
+  "set" : 9
 }

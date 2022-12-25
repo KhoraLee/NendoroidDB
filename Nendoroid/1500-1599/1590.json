@@ -1,21 +1,21 @@
 {
-  "num": "1590",
-  "name": {
-    "ko": "양 샤오롱",
-    "ja": "ねんどろいど ヤン・シャオロン",
-    "en": "Nendoroid Yang Xiao Long"
+  "gender" : "F",
+  "gsc_productNum" : 10919,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210315/10919/82254/large/4f812525a41cdffad7edfb616fc31090.jpg",
+  "name" : {
+    "en" : "Nendoroid Yang Xiao Long",
+    "ja" : "ねんどろいど ヤン・シャオロン",
+    "ko" : "양 샤오롱"
   },
-  "series": {
-    "ko": "RWBY",
-    "ja": "RWBY(ルビー)",
-    "en": "RWBY"
-  },
-  "gsc_productNum": 10919,
-  "price": 5700,
-  "release_date": [
+  "num" : "1590",
+  "price" : 5700,
+  "release_date" : [
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210315/10919/82254/large/4f812525a41cdffad7edfb616fc31090.jpg",
-  "gender": "F",
-  "set": 245
+  "series" : {
+    "en" : "RWBY",
+    "ja" : "RWBY(ルビー)",
+    "ko" : "RWBY"
+  },
+  "set" : 245
 }

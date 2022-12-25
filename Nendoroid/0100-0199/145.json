@@ -1,21 +1,21 @@
 {
-  "num": "145",
-  "name": {
-    "ko": "블랙 골드 소",
-    "ja": "ねんどろいど ブラックゴールドソー (ねんどろいど ぶらっくごーるどそー)",
-    "en": "Nendoroid Black Gold Saw (ねんどろいど ぶらっくごーるどそー)"
+  "gender" : "F",
+  "gsc_productNum" : 3024,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20101124/3024/12069/large/6704d91b44d2a4a0f0c3f50fba709422.jpg",
+  "name" : {
+    "en" : "Nendoroid Black Gold Saw (ねんどろいど ぶらっくごーるどそー)",
+    "ja" : "ねんどろいど ブラックゴールドソー (ねんどろいど ぶらっくごーるどそー)",
+    "ko" : "블랙 골드 소"
   },
-  "series": {
-    "ko": "BLACK★ROCK SHOOTER",
-    "ja": "ブラック★ロックシューター",
-    "en": "Black Rock Shooter"
-  },
-  "gsc_productNum": 3024,
-  "price": 3667,
-  "release_date": [
+  "num" : "145",
+  "price" : 3667,
+  "release_date" : [
     "2011/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20101124/3024/12069/large/6704d91b44d2a4a0f0c3f50fba709422.jpg",
-  "gender": "F",
-  "set": 33
+  "series" : {
+    "en" : "Black Rock Shooter",
+    "ja" : "ブラック★ロックシューター",
+    "ko" : "BLACK★ROCK SHOOTER"
+  },
+  "set" : 33
 }

@@ -1,21 +1,21 @@
 {
-  "num": "881",
-  "name": {
-    "ko": "영국",
-    "ja": "ねんどろいど イギリス (ねんどろいど いぎりす)",
-    "en": "Nendoroid UK"
+  "gender" : "M",
+  "gsc_productNum" : 7018,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180126/7018/49871/large/d0de7edb0b27b761e230b463a18c74c8.jpg",
+  "name" : {
+    "en" : "Nendoroid UK",
+    "ja" : "ねんどろいど イギリス (ねんどろいど いぎりす)",
+    "ko" : "영국"
   },
-  "series": {
-    "ko": "헤타리아",
-    "ja": "ヘタリア The World Twinkle",
-    "en": "Hetalia The World Twinkle"
-  },
-  "gsc_productNum": 7018,
-  "price": 4278,
-  "release_date": [
+  "num" : "881",
+  "price" : 4278,
+  "release_date" : [
     "2018/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180126/7018/49871/large/d0de7edb0b27b761e230b463a18c74c8.jpg",
-  "gender": "M",
-  "set": 156
+  "series" : {
+    "en" : "Hetalia The World Twinkle",
+    "ja" : "ヘタリア The World Twinkle",
+    "ko" : "헤타리아"
+  },
+  "set" : 156
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1954",
-  "name": {
-    "ja": "ねんどろいど ヴァレンタイン (ねんどろいど ゔぁれんたいん)",
-    "en": "Nendoroid Valentine",
-    "ko": "밸런타인"
+  "gender" : "F",
+  "gsc_productNum" : 13255,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220913/13255/104359/large/9d289d98320c1644ee269948aad45d65.jpg",
+  "name" : {
+    "en" : "Nendoroid Valentine",
+    "ja" : "ねんどろいど ヴァレンタイン (ねんどろいど ゔぁれんたいん)",
+    "ko" : "밸런타인"
   },
-  "series": {
-    "ja": "スカルガールズ",
-    "en": "Skullgirls",
-    "ko": "스컬걸즈"
-  },
-  "gsc_productNum": 13255,
-  "price": 6900,
-  "release_date": [
+  "num" : "1954",
+  "price" : 6900,
+  "release_date" : [
     "2023/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220913/13255/104359/large/9d289d98320c1644ee269948aad45d65.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Skullgirls",
+    "ja" : "スカルガールズ",
+    "ko" : "스컬걸즈"
+  }
 }

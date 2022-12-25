@@ -1,21 +1,21 @@
 {
-  "num": "1550",
-  "name": {
-    "ko": "아즐 아셴그로토",
-    "ja": "ねんどろいど アズール・アーシェングロット (ねんどろいど あずーる・あーしぇんぐろっと)",
-    "en": "Nendoroid Azul Ashengrotto"
+  "gender" : "M",
+  "gsc_productNum" : 10467,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201201/10467/78164/large/e095de5f4aea2bc636237c1ee54fd392.jpg",
+  "name" : {
+    "en" : "Nendoroid Azul Ashengrotto",
+    "ja" : "ねんどろいど アズール・アーシェングロット (ねんどろいど あずーる・あーしぇんぐろっと)",
+    "ko" : "아즐 아셴그로토"
   },
-  "series": {
-    "ko": "디즈니 트위스티드 원더랜드",
-    "ja": "『ディズニー ツイステッドワンダーランド』",
-    "en": "Disney Twisted-Wonderland"
-  },
-  "gsc_productNum": 10467,
-  "price": 6200,
-  "release_date": [
+  "num" : "1550",
+  "price" : 6200,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201201/10467/78164/large/e095de5f4aea2bc636237c1ee54fd392.jpg",
-  "gender": "M",
-  "set": 250
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 250
 }

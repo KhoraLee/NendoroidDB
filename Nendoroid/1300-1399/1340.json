@@ -1,21 +1,21 @@
 {
-  "num": "1340",
-  "name": {
-    "ko": "세타 카오루 스테이지 Ver.",
-    "ja": "ねんどろいど 瀬田薫 ステージ衣装Ver. (ねんどろいど せたかおる すてーじいしょうVer.)",
-    "en": "Nendoroid Kaoru Seta: Stage Outfit Ver."
+  "gender" : "F",
+  "gsc_productNum" : 9498,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200508/9498/69630/large/2d9084ddb453baba7422cdb1a9b35f24.jpg",
+  "name" : {
+    "en" : "Nendoroid Kaoru Seta: Stage Outfit Ver.",
+    "ja" : "ねんどろいど 瀬田薫 ステージ衣装Ver. (ねんどろいど せたかおる すてーじいしょうVer.)",
+    "ko" : "세타 카오루 스테이지 Ver."
   },
-  "series": {
-    "ko": "BanG Dream!",
-    "ja": "バンドリ！ ガールズバンドパーティ！",
-    "en": "BanG Dream! Girls Band Party!"
-  },
-  "gsc_productNum": 9498,
-  "price": 5300,
-  "release_date": [
+  "num" : "1340",
+  "price" : 5300,
+  "release_date" : [
     "2020/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200508/9498/69630/large/2d9084ddb453baba7422cdb1a9b35f24.jpg",
-  "gender": "F",
-  "set": 152
+  "series" : {
+    "en" : "BanG Dream! Girls Band Party!",
+    "ja" : "バンドリ！ ガールズバンドパーティ！",
+    "ko" : "BanG Dream!"
+  },
+  "set" : 152
 }

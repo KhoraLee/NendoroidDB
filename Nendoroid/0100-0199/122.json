@@ -1,19 +1,19 @@
 {
-  "num": "122",
-  "name": {
-    "ko": "셜록 셰린포드",
-    "ja": "ねんどろいど シャロ (ねんどろいど しゃろ)"
+  "gender" : "F",
+  "gsc_productNum" : 3378,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3378/16324/large/02a0dc3f62fb77d205073e0a52a8d526.jpg",
+  "name" : {
+    "ja" : "ねんどろいど シャロ (ねんどろいど しゃろ)",
+    "ko" : "셜록 셰린포드"
   },
-  "series": {
-    "ko": "탐정 오페라 밀키 홈즈",
-    "ja": "探偵オペラ ミルキィホームズ"
-  },
-  "gsc_productNum": 3378,
-  "price": 10780,
-  "release_date": [
+  "num" : "122",
+  "price" : 10780,
+  "release_date" : [
     "2010/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3378/16324/large/02a0dc3f62fb77d205073e0a52a8d526.jpg",
-  "gender": "F",
-  "set": 36
+  "series" : {
+    "ja" : "探偵オペラ ミルキィホームズ",
+    "ko" : "탐정 오페라 밀키 홈즈"
+  },
+  "set" : 36
 }

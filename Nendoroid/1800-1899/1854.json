@@ -1,21 +1,21 @@
 {
-  "num": "1854",
-  "name": {
-    "ko": "라비",
-    "ja": "ねんどろいど ラビ (ねんどろいど らび)",
-    "en": "Nendoroid Lavi"
+  "gender" : "M",
+  "gsc_productNum" : 12532,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220404/12532/97251/large/9c4b336fe11013a85b5d7f594faa7134.jpg",
+  "name" : {
+    "en" : "Nendoroid Lavi",
+    "ja" : "ねんどろいど ラビ (ねんどろいど らび)",
+    "ko" : "라비"
   },
-  "series": {
-    "ko": "디그레이맨",
-    "ja": "D.Gray-man",
-    "en": "D.Gray-man"
-  },
-  "gsc_productNum": 12532,
-  "price": 6300,
-  "release_date": [
+  "num" : "1854",
+  "price" : 6300,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220404/12532/97251/large/9c4b336fe11013a85b5d7f594faa7134.jpg",
-  "gender": "M",
-  "set": 259
+  "series" : {
+    "en" : "D.Gray-man",
+    "ja" : "D.Gray-man",
+    "ko" : "디그레이맨"
+  },
+  "set" : 259
 }

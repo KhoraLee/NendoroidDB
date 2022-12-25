@@ -1,20 +1,20 @@
 {
-  "num": "1242",
-  "name": {
-    "ko": "리퍼",
-    "ja": "ねんどろいど リーパー クラシックスキン・エディション (ねんどろいど りーぱー くらしっくすきん・えでぃしょん)",
-    "en": "Nendoroid Reaper: Classic Skin Edition"
+  "gsc_productNum" : 8995,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191119/8995/65335/large/08375ecd2057261f5727c364de77d503.jpg",
+  "name" : {
+    "en" : "Nendoroid Reaper: Classic Skin Edition",
+    "ja" : "ねんどろいど リーパー クラシックスキン・エディション (ねんどろいど りーぱー くらしっくすきん・えでぃしょん)",
+    "ko" : "리퍼"
   },
-  "series": {
-    "ko": "오버워치",
-    "ja": "オーバーウォッチ",
-    "en": "Overwatch"
-  },
-  "gsc_productNum": 8995,
-  "price": 5200,
-  "release_date": [
+  "num" : "1242",
+  "price" : 5200,
+  "release_date" : [
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191119/8995/65335/large/08375ecd2057261f5727c364de77d503.jpg",
-  "set": 150
+  "series" : {
+    "en" : "Overwatch",
+    "ja" : "オーバーウォッチ",
+    "ko" : "오버워치"
+  },
+  "set" : 150
 }

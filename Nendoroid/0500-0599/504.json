@@ -1,20 +1,20 @@
 {
-  "num": "504",
-  "name": {
-    "ko": "칸자키 토모요",
-    "ja": "ねんどろいど 神崎灯代 (ねんどろいど かんざきともよ)",
-    "en": "Nendoroid Tomoyo Kanzaki (ねんどろいど かんざきともよ)"
+  "gender" : "F",
+  "gsc_productNum" : 4848,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150210/4848/32319/large/dc9093a3f15219bc4b799315192124cc.jpg",
+  "name" : {
+    "en" : "Nendoroid Tomoyo Kanzaki (ねんどろいど かんざきともよ)",
+    "ja" : "ねんどろいど 神崎灯代 (ねんどろいど かんざきともよ)",
+    "ko" : "칸자키 토모요"
   },
-  "series": {
-    "ko": "이능배틀은 일상계 속에서",
-    "ja": "異能バトルは日常系のなかで",
-    "en": "Inou Battle Within Everyday Life"
-  },
-  "gsc_productNum": 4848,
-  "price": 4278,
-  "release_date": [
+  "num" : "504",
+  "price" : 4278,
+  "release_date" : [
     "2015/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150210/4848/32319/large/dc9093a3f15219bc4b799315192124cc.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Inou Battle Within Everyday Life",
+    "ja" : "異能バトルは日常系のなかで",
+    "ko" : "이능배틀은 일상계 속에서"
+  }
 }

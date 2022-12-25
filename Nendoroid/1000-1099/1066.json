@@ -1,21 +1,21 @@
 {
-  "num": "1066",
-  "name": {
-    "ko": "코가미 신야",
-    "ja": "ねんどろいど 狡噛慎也 (ねんどろいど こうがみしんや)",
-    "en": "Nendoroid Shinya Kogami"
+  "gender" : "M",
+  "gsc_productNum" : 7962,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181226/7962/57203/large/75a17c1faef29c62499cfc823ac2923f.jpg",
+  "name" : {
+    "en" : "Nendoroid Shinya Kogami",
+    "ja" : "ねんどろいど 狡噛慎也 (ねんどろいど こうがみしんや)",
+    "ko" : "코가미 신야"
   },
-  "series": {
-    "ko": "PSYCHO-PASS Sinners of the System",
-    "ja": "PSYCHO-PASS Sinners of the System",
-    "en": "PSYCHO-PASS Sinners of the System"
-  },
-  "gsc_productNum": 7962,
-  "price": 4888,
-  "release_date": [
+  "num" : "1066",
+  "price" : 4888,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181226/7962/57203/large/75a17c1faef29c62499cfc823ac2923f.jpg",
-  "gender": "M",
-  "set": 80
+  "series" : {
+    "en" : "PSYCHO-PASS Sinners of the System",
+    "ja" : "PSYCHO-PASS Sinners of the System",
+    "ko" : "PSYCHO-PASS Sinners of the System"
+  },
+  "set" : 80
 }

@@ -1,21 +1,21 @@
 {
-  "num": "977",
-  "name": {
-    "ko": "손상향",
-    "ja": "ねんどろいど 孫尚香 (ねんどろいど そんしょうこう)",
-    "en": "Nendoroid Sun Shangxiang"
+  "gender" : "F",
+  "gsc_productNum" : 7511,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180807/7511/53707/large/c121d8ec0034943258a99b8536714d8e.jpg",
+  "name" : {
+    "en" : "Nendoroid Sun Shangxiang",
+    "ja" : "ねんどろいど 孫尚香 (ねんどろいど そんしょうこう)",
+    "ko" : "손상향"
   },
-  "series": {
-    "ko": "왕자영요",
-    "ja": "王者荣耀",
-    "en": "King Of Glory"
-  },
-  "gsc_productNum": 7511,
-  "price": 5297,
-  "release_date": [
+  "num" : "977",
+  "price" : 5297,
+  "release_date" : [
     "2018/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180807/7511/53707/large/c121d8ec0034943258a99b8536714d8e.jpg",
-  "gender": "F",
-  "set": 189
+  "series" : {
+    "en" : "King Of Glory",
+    "ja" : "王者荣耀",
+    "ko" : "왕자영요"
+  },
+  "set" : 189
 }

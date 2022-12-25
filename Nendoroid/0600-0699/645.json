@@ -1,21 +1,21 @@
 {
-  "num": "645",
-  "name": {
-    "ko": "제노스 슈퍼 무버블 에디션",
-    "ja": "ねんどろいど ジェノス スーパームーバブル・エディション (ねんどろいど じぇのす すーぱーむーばぶる・えでぃしょん)",
-    "en": "Nendoroid Genos: Super Movable Edition"
+  "gender" : "M",
+  "gsc_productNum" : 5762,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160623/5762/39740/large/a9aa433ff3c894ed010e238023da4be0.jpg",
+  "name" : {
+    "en" : "Nendoroid Genos: Super Movable Edition",
+    "ja" : "ねんどろいど ジェノス スーパームーバブル・エディション (ねんどろいど じぇのす すーぱーむーばぶる・えでぃしょん)",
+    "ko" : "제노스 슈퍼 무버블 에디션"
   },
-  "series": {
-    "ko": "원펀맨",
-    "ja": "ワンパンマン",
-    "en": "ONE-PUNCH MAN"
-  },
-  "gsc_productNum": 5762,
-  "price": 4584,
-  "release_date": [
+  "num" : "645",
+  "price" : 4584,
+  "release_date" : [
     "2016/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160623/5762/39740/large/a9aa433ff3c894ed010e238023da4be0.jpg",
-  "gender": "M",
-  "set": 126
+  "series" : {
+    "en" : "ONE-PUNCH MAN",
+    "ja" : "ワンパンマン",
+    "ko" : "원펀맨"
+  },
+  "set" : 126
 }

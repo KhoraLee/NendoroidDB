@@ -1,21 +1,21 @@
 {
-  "num": "1654",
-  "name": {
-    "ko": "선지자",
-    "ja": "ねんどろいど 占い師 (ねんどろいど うらないし)",
-    "en": "Nendoroid Seer"
+  "gender" : "M",
+  "gsc_productNum" : 11332,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210610/11332/85724/large/ca37cef9d30157390e6efe916f61b3eb.jpg",
+  "name" : {
+    "en" : "Nendoroid Seer",
+    "ja" : "ねんどろいど 占い師 (ねんどろいど うらないし)",
+    "ko" : "선지자"
   },
-  "series": {
-    "ko": "제5인격",
-    "ja": "identityV 第五人格",
-    "en": "Identity V"
-  },
-  "gsc_productNum": 11332,
-  "price": 7300,
-  "release_date": [
+  "num" : "1654",
+  "price" : 7300,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210610/11332/85724/large/ca37cef9d30157390e6efe916f61b3eb.jpg",
-  "gender": "M",
-  "set": 230
+  "series" : {
+    "en" : "Identity V",
+    "ja" : "identityV 第五人格",
+    "ko" : "제5인격"
+  },
+  "set" : 230
 }

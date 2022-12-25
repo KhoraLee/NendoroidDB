@@ -1,22 +1,22 @@
 {
-  "num": "386",
-  "name": {
-    "ko": "여울 동복 Ver.",
-    "ja": "ねんどろいど しずえ 冬服Ver. (ねんどろいど しずえ ふゆふくVer.)",
-    "en": "Nendoroid Shizue (Isabelle): Winter Ver."
+  "gsc_productNum" : 4137,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131126/4137/27227/large/b692424473ee955bbffe3c98961d33f8.jpg",
+  "name" : {
+    "en" : "Nendoroid Shizue (Isabelle): Winter Ver.",
+    "ja" : "ねんどろいど しずえ 冬服Ver. (ねんどろいど しずえ ふゆふくVer.)",
+    "ko" : "여울 동복 Ver."
   },
-  "series": {
-    "ko": "동물의 숲 시리즈",
-    "ja": "とびだせ どうぶつの森",
-    "en": "Animal Crossing: New Leaf"
-  },
-  "gsc_productNum": 4137,
-  "price": 4888,
-  "release_date": [
+  "num" : "386",
+  "price" : 4888,
+  "release_date" : [
     "2014/04",
     "2018/09",
     "2020/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20131126/4137/27227/large/b692424473ee955bbffe3c98961d33f8.jpg",
-  "set": 81
+  "series" : {
+    "en" : "Animal Crossing: New Leaf",
+    "ja" : "とびだせ どうぶつの森",
+    "ko" : "동물의 숲 시리즈"
+  },
+  "set" : 81
 }

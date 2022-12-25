@@ -1,21 +1,21 @@
 {
-  "num": "1868",
-  "name": {
-    "ko": "Fate/Grand Order 랜서 / 알트리아 펜드래곤 얼터",
-    "ja": "ねんどろいど ランサー/アルトリア・ペンドラゴン〔オルタ〕 (ねんどろいど らんさー/あるとりあ・ぺんどらごん〔おるた〕)",
-    "en": "Nendoroid Lancer/Altria Pendragon (Alter)"
+  "gender" : "F",
+  "gsc_productNum" : 12568,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220412/12568/97883/large/15e3cd2407ddeaf61200b208e090efa1.jpg",
+  "name" : {
+    "en" : "Nendoroid Lancer/Altria Pendragon (Alter)",
+    "ja" : "ねんどろいど ランサー/アルトリア・ペンドラゴン〔オルタ〕 (ねんどろいど らんさー/あるとりあ・ぺんどらごん〔おるた〕)",
+    "ko" : "Fate/Grand Order 랜서 / 알트리아 펜드래곤 얼터"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 12568,
-  "price": 9500,
-  "release_date": [
+  "num" : "1868",
+  "price" : 9500,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220412/12568/97883/large/15e3cd2407ddeaf61200b208e090efa1.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

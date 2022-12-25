@@ -1,22 +1,22 @@
 {
-  "num": "1540",
-  "name": {
-    "ko": "아쿠아 Winter Ver.",
-    "ja": "ねんどろいど アクア Winter Ver. (ねんどろいど あくあ うぃんたー Ver.)",
-    "en": "Nendoroid Aqua: Winter Ver."
+  "gender" : "F",
+  "gsc_productNum" : 10691,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210119/10691/79973/large/be6b7e476dd49e8eef133da492915591.jpg",
+  "name" : {
+    "en" : "Nendoroid Aqua: Winter Ver.",
+    "ja" : "ねんどろいど アクア Winter Ver. (ねんどろいど あくあ うぃんたー Ver.)",
+    "ko" : "아쿠아 Winter Ver."
   },
-  "series": {
-    "ko": "이 멋진 세계에 축복을!",
-    "ja": "この素晴らしい世界に祝福を！",
-    "en": "KONO SUBARASHII SEKAI NI SYUKUFUKU WO!"
-  },
-  "gsc_productNum": 10691,
-  "price": 5500,
-  "release_date": [
+  "num" : "1540",
+  "price" : 5500,
+  "release_date" : [
     "2021/02",
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210119/10691/79973/large/be6b7e476dd49e8eef133da492915591.jpg",
-  "gender": "F",
-  "set": 132
+  "series" : {
+    "en" : "KONO SUBARASHII SEKAI NI SYUKUFUKU WO!",
+    "ja" : "この素晴らしい世界に祝福を！",
+    "ko" : "이 멋진 세계에 축복을!"
+  },
+  "set" : 132
 }

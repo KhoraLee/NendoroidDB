@@ -1,21 +1,21 @@
 {
-  "num": "782",
-  "name": {
-    "ko": "오하라 마리",
-    "ja": "ねんどろいど 小原鞠莉 (ねんどろいど おはらまり)",
-    "en": "Nendoroid Mari Ohara"
+  "gender" : "F",
+  "gsc_productNum" : 6497,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170609/6497/45844/large/aad14de2bd67fbaef6f3ef0fbf64d62e.jpg",
+  "name" : {
+    "en" : "Nendoroid Mari Ohara",
+    "ja" : "ねんどろいど 小原鞠莉 (ねんどろいど おはらまり)",
+    "ko" : "오하라 마리"
   },
-  "series": {
-    "ko": "러브라이브! 선샤인!!",
-    "ja": "ラブライブ！サンシャイン!!",
-    "en": "LoveLive!Sunshine!!"
-  },
-  "gsc_productNum": 6497,
-  "price": 3565,
-  "release_date": [
+  "num" : "782",
+  "price" : 3565,
+  "release_date" : [
     "2017/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170609/6497/45844/large/aad14de2bd67fbaef6f3ef0fbf64d62e.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!Sunshine!!",
+    "ja" : "ラブライブ！サンシャイン!!",
+    "ko" : "러브라이브! 선샤인!!"
+  },
+  "set" : 105
 }

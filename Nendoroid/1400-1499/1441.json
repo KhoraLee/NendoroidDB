@@ -1,21 +1,21 @@
 {
-  "num": "1441",
-  "name": {
-    "ko": "엘사 Blue dress Ver.",
-    "ja": "ねんどろいど エルサ Travel Dress Ver. (ねんどろいど えるさ Travel Dress Ver.)",
-    "en": "Nendoroid Elsa: Travel Dress Ver."
+  "gender" : "F",
+  "gsc_productNum" : 9987,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200831/9987/74335/large/30df312b51c1f0490ae4c88e0bc70959.jpg",
+  "name" : {
+    "en" : "Nendoroid Elsa: Travel Dress Ver.",
+    "ja" : "ねんどろいど エルサ Travel Dress Ver. (ねんどろいど えるさ Travel Dress Ver.)",
+    "ko" : "엘사 Blue dress Ver."
   },
-  "series": {
-    "ko": "겨울왕국",
-    "ja": "アナと雪の女王２",
-    "en": "Frozen 2"
-  },
-  "gsc_productNum": 9987,
-  "price": 5300,
-  "release_date": [
+  "num" : "1441",
+  "price" : 5300,
+  "release_date" : [
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200831/9987/74335/large/30df312b51c1f0490ae4c88e0bc70959.jpg",
-  "gender": "F",
-  "set": 32
+  "series" : {
+    "en" : "Frozen 2",
+    "ja" : "アナと雪の女王２",
+    "ko" : "겨울왕국"
+  },
+  "set" : 32
 }

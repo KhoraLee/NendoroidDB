@@ -1,19 +1,19 @@
 {
-  "num": "047b",
-  "name": {
-    "ko": "샤나 전격대왕 Ver.",
-    "ja": "ねんどろいど シャナ 電撃大王Ver. (ねんどろいど しゃな でんげきだいおうVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3367,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3367/16299/large/93d900fc91c15282b94d601b41652bac.jpg",
+  "name" : {
+    "ja" : "ねんどろいど シャナ 電撃大王Ver. (ねんどろいど しゃな でんげきだいおうVer.)",
+    "ko" : "샤나 전격대왕 Ver."
   },
-  "series": {
-    "ko": "작안의 샤나",
-    "ja": "灼眼のシャナⅡ"
-  },
-  "gsc_productNum": 3367,
-  "price": 3667,
-  "release_date": [
+  "num" : "047b",
+  "price" : 3667,
+  "release_date" : [
     "2008/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3367/16299/large/93d900fc91c15282b94d601b41652bac.jpg",
-  "gender": "F",
-  "set": 13
+  "series" : {
+    "ja" : "灼眼のシャナⅡ",
+    "ko" : "작안의 샤나"
+  },
+  "set" : 13
 }

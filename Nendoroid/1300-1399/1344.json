@@ -1,21 +1,21 @@
 {
-  "num": "1344",
-  "name": {
-    "ko": "냥코 센세",
-    "ja": "ねんどろいど ニャンコ先生 (ねんどろいど にゃんこせんせい)",
-    "en": "Nendoroid Nyanko Sensei"
+  "gender" : "M",
+  "gsc_productNum" : 12712,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220518/12712/98906/large/1df6a56362b85331ab04584d82a55449.jpg",
+  "name" : {
+    "en" : "Nendoroid Nyanko Sensei",
+    "ja" : "ねんどろいど ニャンコ先生 (ねんどろいど にゃんこせんせい)",
+    "ko" : "냥코 센세"
   },
-  "series": {
-    "ko": "나츠메 우인장",
-    "ja": "夏目友人帳",
-    "en": "Natsume Yujin-cho"
-  },
-  "gsc_productNum": 12712,
-  "price": 6300,
-  "release_date": [
+  "num" : "1344",
+  "price" : 6300,
+  "release_date" : [
     "2023/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220518/12712/98906/large/1df6a56362b85331ab04584d82a55449.jpg",
-  "gender": "M",
-  "set": 228
+  "series" : {
+    "en" : "Natsume Yujin-cho",
+    "ja" : "夏目友人帳",
+    "ko" : "나츠메 우인장"
+  },
+  "set" : 228
 }

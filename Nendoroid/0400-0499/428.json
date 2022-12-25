@@ -1,20 +1,20 @@
 {
-  "num": "428",
-  "name": {
-    "ko": "티나",
-    "ja": "ねんどろいど ティナ (ねんどろいどてぃな)",
-    "en": "Nendoroid Tina (ねんどろいどてぃな)"
+  "gender" : "F",
+  "gsc_productNum" : 4532,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140731/4532/29911/large/73dd43bcbe6be31196cfcfbe927d2f8b.jpg",
+  "name" : {
+    "en" : "Nendoroid Tina (ねんどろいどてぃな)",
+    "ja" : "ねんどろいど ティナ (ねんどろいどてぃな)",
+    "ko" : "티나"
   },
-  "series": {
-    "ko": "사랑이 필 무렵의 벚꽃철",
-    "ja": "恋がさくころ桜どき",
-    "en": "Koi ga Saku Koro Sakura Doki"
-  },
-  "gsc_productNum": 4532,
-  "price": 5093,
-  "release_date": [
+  "num" : "428",
+  "price" : 5093,
+  "release_date" : [
     "2015/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140731/4532/29911/large/73dd43bcbe6be31196cfcfbe927d2f8b.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Koi ga Saku Koro Sakura Doki",
+    "ja" : "恋がさくころ桜どき",
+    "ko" : "사랑이 필 무렵의 벚꽃철"
+  }
 }

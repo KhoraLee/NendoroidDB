@@ -1,21 +1,21 @@
 {
-  "num": "1840",
-  "name": {
-    "ko": "츠나시 류노스케",
-    "ja": "ねんどろいど 十 龍之介 (ねんどろいど つなし りゅうのすけ)",
-    "en": "Nendoroid Ryunosuke Tsunashi"
+  "gender" : "M",
+  "gsc_productNum" : 12424,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220303/12424/96131/large/0a66378ad5a5e7d0fb386350690c190d.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryunosuke Tsunashi",
+    "ja" : "ねんどろいど 十 龍之介 (ねんどろいど つなし りゅうのすけ)",
+    "ko" : "츠나시 류노스케"
   },
-  "series": {
-    "ko": "아이돌리쉬 세븐",
-    "ja": "アイドリッシュセブン",
-    "en": "IDOLiSH7"
-  },
-  "gsc_productNum": 12424,
-  "price": 5300,
-  "release_date": [
+  "num" : "1840",
+  "price" : 5300,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220303/12424/96131/large/0a66378ad5a5e7d0fb386350690c190d.jpg",
-  "gender": "M",
-  "set": 174
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  },
+  "set" : 174
 }

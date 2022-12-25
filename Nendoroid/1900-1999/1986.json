@@ -1,19 +1,21 @@
 {
-  "num": "1986",
-  "name": {
-    "ja": "ねんどろいど ラファエロ (ねんどろいど らふぁえろ)",
-    "en": "Nendoroid Raphael",
-    "ko": "라파엘"
+  "gender" : "M",
+  "gsc_productNum" : 13346,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220930/13346/105280/large/a21338c2d10a3059591581496e1ff4b4.jpg",
+  "name" : {
+    "en" : "Nendoroid Raphael",
+    "ja" : "ねんどろいど ラファエロ (ねんどろいど らふぁえろ)",
+    "ko" : "라파엘"
   },
-  "series": {
-    "ja": "ティーンエイジ・ミュータント・ニンジャ・タートルズ",
-    "en": "Teenage Mutant Ninja Turtles",
-    "ko": "닌자 거북이"
+  "num" : "1986",
+  "price" : -1,
+  "release_date" : [
+
+  ],
+  "series" : {
+    "en" : "Teenage Mutant Ninja Turtles",
+    "ja" : "ティーンエイジ・ミュータント・ニンジャ・タートルズ",
+    "ko" : "닌자 거북이"
   },
-  "gsc_productNum": 13346,
-  "price": -1,
-  "release_date": [],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220930/13346/105280/large/a21338c2d10a3059591581496e1ff4b4.jpg",
-  "gender": "M",
-  "set": 301
+  "set" : 301
 }

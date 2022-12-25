@@ -1,21 +1,21 @@
 {
-  "num": "334",
-  "name": {
-    "ko": "모리조노 릿카",
-    "ja": "ねんどろいど 森園立夏 (ねんどろいど もりぞのりっか)",
-    "en": "Nendoroid Ricca Morizono (ねんどろいど もりぞのりっか)"
+  "gender" : "F",
+  "gsc_productNum" : 3934,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130529/3934/24239/large/cf792fac6a6a1ed5694a59dfe52fd088.jpg",
+  "name" : {
+    "en" : "Nendoroid Ricca Morizono (ねんどろいど もりぞのりっか)",
+    "ja" : "ねんどろいど 森園立夏 (ねんどろいど もりぞのりっか)",
+    "ko" : "모리조노 릿카"
   },
-  "series": {
-    "ko": "다카포",
-    "ja": "D.C.Ⅲ ～ダ・カーポⅢ～",
-    "en": "D.C.III ~Da Capo III~"
-  },
-  "gsc_productNum": 3934,
-  "price": 4190,
-  "release_date": [
+  "num" : "334",
+  "price" : 4190,
+  "release_date" : [
     "2013/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130529/3934/24239/large/cf792fac6a6a1ed5694a59dfe52fd088.jpg",
-  "gender": "F",
-  "set": 21
+  "series" : {
+    "en" : "D.C.III ~Da Capo III~",
+    "ja" : "D.C.Ⅲ ～ダ・カーポⅢ～",
+    "ko" : "다카포"
+  },
+  "set" : 21
 }

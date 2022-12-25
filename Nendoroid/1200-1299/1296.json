@@ -1,21 +1,21 @@
 {
-  "num": "1296",
-  "name": {
-    "ko": "라이더/오지만디아스",
-    "ja": "ねんどろいど ライダー/オジマンディアス (ねんどろいど らいだー/おじまんでぃあす)",
-    "en": "Nendoroid Rider/Ozymandias"
+  "gender" : "M",
+  "gsc_productNum" : 9319,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200302/9319/68028/large/d0cce1b016329914279110707af5f8ec.jpg",
+  "name" : {
+    "en" : "Nendoroid Rider/Ozymandias",
+    "ja" : "ねんどろいど ライダー/オジマンディアス (ねんどろいど らいだー/おじまんでぃあす)",
+    "ko" : "라이더/오지만디아스"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 9319,
-  "price": 5000,
-  "release_date": [
+  "num" : "1296",
+  "price" : 5000,
+  "release_date" : [
     "2020/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200302/9319/68028/large/d0cce1b016329914279110707af5f8ec.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

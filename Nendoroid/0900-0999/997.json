@@ -1,21 +1,21 @@
 {
-  "num": "997",
-  "name": {
-    "ko": "스페셜 위크",
-    "ja": "ねんどろいど スペシャルウィーク (ねんどろいど すぺしゃるうぃーく)",
-    "en": "Nendoroid Special Week"
+  "gender" : "F",
+  "gsc_productNum" : 7597,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180911/7597/54461/large/6bdb7f8cc784d93b1a2bb9046b5dce65.jpg",
+  "name" : {
+    "en" : "Nendoroid Special Week",
+    "ja" : "ねんどろいど スペシャルウィーク (ねんどろいど すぺしゃるうぃーく)",
+    "ko" : "스페셜 위크"
   },
-  "series": {
-    "ko": "우마무스메: 프리티 더비",
-    "ja": "ウマ娘 プリティーダービー",
-    "en": "Umamusume: Pretty Derby"
-  },
-  "gsc_productNum": 7597,
-  "price": 5602,
-  "release_date": [
+  "num" : "997",
+  "price" : 5602,
+  "release_date" : [
     "2019/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180911/7597/54461/large/6bdb7f8cc784d93b1a2bb9046b5dce65.jpg",
-  "gender": "F",
-  "set": 193
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메: 프리티 더비"
+  },
+  "set" : 193
 }

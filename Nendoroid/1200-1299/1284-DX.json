@@ -1,21 +1,21 @@
 {
-  "num": "1284-DX",
-  "name": {
-    "ko": "헌터♀ 나르가α DX Ver. ",
-    "ja": "ねんどろいど ハンター♀ ナルガα Ver. DX (ねんどろいど はんたー♀ なるがα Ver. DX)",
-    "en": "Nendoroid Hunter: Female Nargacuga Alpha Armor Ver. DX"
+  "gender" : "F",
+  "gsc_productNum" : 9274,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200214/9274/67663/large/dd1c34e493b5aae0477d224603795be7.jpg",
+  "name" : {
+    "en" : "Nendoroid Hunter: Female Nargacuga Alpha Armor Ver. DX",
+    "ja" : "ねんどろいど ハンター♀ ナルガα Ver. DX (ねんどろいど はんたー♀ なるがα Ver. DX)",
+    "ko" : "헌터♀ 나르가α DX Ver. "
   },
-  "series": {
-    "ko": "몬스터 헌터",
-    "ja": "モンスターハンターワールド：アイスボーン",
-    "en": "MONSTER HUNTER WORLD: ICEBORNE"
-  },
-  "gsc_productNum": 9274,
-  "price": 7500,
-  "release_date": [
+  "num" : "1284-DX",
+  "price" : 7500,
+  "release_date" : [
     "2020/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200214/9274/67663/large/dd1c34e493b5aae0477d224603795be7.jpg",
-  "gender": "F",
-  "set": 64
+  "series" : {
+    "en" : "MONSTER HUNTER WORLD: ICEBORNE",
+    "ja" : "モンスターハンターワールド：アイスボーン",
+    "ko" : "몬스터 헌터"
+  },
+  "set" : 64
 }

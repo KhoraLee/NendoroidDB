@@ -1,21 +1,21 @@
 {
-  "num": "1390",
-  "name": {
-    "ja": "ねんどろいど アリス (ねんどろいど ありす)",
-    "en": "Nendoroid Alice",
-    "ko": "앨리스"
+  "gender" : "F",
+  "gsc_productNum" : 13418,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221018/13418/106161/large/b86418265c471d64db8f036b7101222c.jpg",
+  "name" : {
+    "en" : "Nendoroid Alice",
+    "ja" : "ねんどろいど アリス (ねんどろいど ありす)",
+    "ko" : "앨리스"
   },
-  "series": {
-    "ja": "ふしぎの国のアリス",
-    "en": "Alice in Wonderland",
-    "ko": "디즈니"
-  },
-  "gsc_productNum": 13418,
-  "price": 7700,
-  "release_date": [
+  "num" : "1390",
+  "price" : 7700,
+  "release_date" : [
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221018/13418/106161/large/b86418265c471d64db8f036b7101222c.jpg",
-  "gender": "F",
-  "set": 32
+  "series" : {
+    "en" : "Alice in Wonderland",
+    "ja" : "ふしぎの国のアリス",
+    "ko" : "디즈니"
+  },
+  "set" : 32
 }

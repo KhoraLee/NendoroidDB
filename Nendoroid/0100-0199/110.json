@@ -1,21 +1,21 @@
 {
-  "num": "110",
-  "name": {
-    "ko": "유이\u0026츠무기 라이브 스테이지 세트",
-    "ja": "ねんどろいど　けいおん！唯＆紬 ライブステージセット (ねんどろいど けいおん！ゆい＆つむぎ らいぶすてーじせっと)",
-    "en": "Nendoroid K-ON! Yui and Tsumugi: Live Stage Set (ねんどろいど けいおん！ゆい＆つむぎ らいぶすてーじせっと)"
+  "gender" : "F",
+  "gsc_productNum" : 2888,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100621/2888/10542/large/28442aa191d2dd8ebcab90cd818ceac6.jpg",
+  "name" : {
+    "en" : "Nendoroid K-ON! Yui and Tsumugi: Live Stage Set (ねんどろいど けいおん！ゆい＆つむぎ らいぶすてーじせっと)",
+    "ja" : "ねんどろいど　けいおん！唯＆紬 ライブステージセット (ねんどろいど けいおん！ゆい＆つむぎ らいぶすてーじせっと)",
+    "ko" : "유이&츠무기 라이브 스테이지 세트"
   },
-  "series": {
-    "ko": "케이온!",
-    "ja": "けいおん！",
-    "en": "K-ON!"
-  },
-  "gsc_productNum": 2888,
-  "price": 8381,
-  "release_date": [
+  "num" : "110",
+  "price" : 8381,
+  "release_date" : [
     "2010/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100621/2888/10542/large/28442aa191d2dd8ebcab90cd818ceac6.jpg",
-  "gender": "F",
-  "set": 27
+  "series" : {
+    "en" : "K-ON!",
+    "ja" : "けいおん！",
+    "ko" : "케이온!"
+  },
+  "set" : 27
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1606",
-  "name": {
-    "ko": "카이사",
-    "ja": "ねんどろいど カイ\u003dサ (ねんどろいど かい\u003dさ)",
-    "en": "Nendoroid Kai\u0027Sa"
+  "gender" : "F",
+  "gsc_productNum" : 11121,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210422/11121/83916/large/e656ca3b49928008f564a265b7062f32.jpg",
+  "name" : {
+    "en" : "Nendoroid Kai'Sa",
+    "ja" : "ねんどろいど カイ=サ (ねんどろいど かい=さ)",
+    "ko" : "카이사"
   },
-  "series": {
-    "ko": "리그 오브 레전드",
-    "ja": "リーグ・オブ・レジェンド",
-    "en": "League of Legends"
-  },
-  "gsc_productNum": 11121,
-  "price": 7000,
-  "release_date": [
+  "num" : "1606",
+  "price" : 7000,
+  "release_date" : [
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210422/11121/83916/large/e656ca3b49928008f564a265b7062f32.jpg",
-  "gender": "F",
-  "set": 98
+  "series" : {
+    "en" : "League of Legends",
+    "ja" : "リーグ・オブ・レジェンド",
+    "ko" : "리그 오브 레전드"
+  },
+  "set" : 98
 }

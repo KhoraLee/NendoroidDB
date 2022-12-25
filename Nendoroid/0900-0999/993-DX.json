@@ -1,21 +1,21 @@
 {
-  "num": "993-DX",
-  "name": {
-    "ko": "헌터♀ 레우스 에디션 DX Ver.",
-    "ja": "ねんどろいど ハンター♀ レウス・エディション DX Ver. (ねんどろいど はんたー♀ れうす・えでぃしょん DX Ver.)",
-    "en": "Nendoroid Hunter: Female Rathalos Armor Edition - DX Ver."
+  "gender" : "M",
+  "gsc_productNum" : 7589,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180904/7589/54313/large/6a6230f6f053fa26bb529cc26cf302fd.jpg",
+  "name" : {
+    "en" : "Nendoroid Hunter: Female Rathalos Armor Edition - DX Ver.",
+    "ja" : "ねんどろいど ハンター♀ レウス・エディション DX Ver. (ねんどろいど はんたー♀ れうす・えでぃしょん DX Ver.)",
+    "ko" : "헌터♀ 레우스 에디션 DX Ver."
   },
-  "series": {
-    "ko": "몬스터 헌터",
-    "ja": "モンスターハンター：ワールド",
-    "en": "MONSTER HUNTER: WORLD"
-  },
-  "gsc_productNum": 7589,
-  "price": 7638,
-  "release_date": [
+  "num" : "993-DX",
+  "price" : 7638,
+  "release_date" : [
     "2019/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180904/7589/54313/large/6a6230f6f053fa26bb529cc26cf302fd.jpg",
-  "gender": "M",
-  "set": 64
+  "series" : {
+    "en" : "MONSTER HUNTER: WORLD",
+    "ja" : "モンスターハンター：ワールド",
+    "ko" : "몬스터 헌터"
+  },
+  "set" : 64
 }

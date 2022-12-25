@@ -1,21 +1,21 @@
 {
-  "num": "1529",
-  "name": {
-    "ko": "와이스 슈니이",
-    "ja": "ねんどろいど ワイス・シュニー (ねんどろいど わいす・しゅにー)",
-    "en": "Nendoroid Weiss Schnee"
+  "gender" : "F",
+  "gsc_productNum" : 10500,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201207/10500/78327/large/93ae85561cc35f82202ab5ef36098623.jpg",
+  "name" : {
+    "en" : "Nendoroid Weiss Schnee",
+    "ja" : "ねんどろいど ワイス・シュニー (ねんどろいど わいす・しゅにー)",
+    "ko" : "와이스 슈니이"
   },
-  "series": {
-    "ko": "RWBY",
-    "ja": "RWBY(ルビー)",
-    "en": "RWBY"
-  },
-  "gsc_productNum": 10500,
-  "price": 5200,
-  "release_date": [
+  "num" : "1529",
+  "price" : 5200,
+  "release_date" : [
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201207/10500/78327/large/93ae85561cc35f82202ab5ef36098623.jpg",
-  "gender": "F",
-  "set": 245
+  "series" : {
+    "en" : "RWBY",
+    "ja" : "RWBY(ルビー)",
+    "ko" : "RWBY"
+  },
+  "set" : 245
 }

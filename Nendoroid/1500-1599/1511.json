@@ -1,21 +1,21 @@
 {
-  "num": "1511",
-  "name": {
-    "ko": "하츠네 미쿠 매지컬 미라이 2020 여름축제 Ver.",
-    "ja": "ねんどろいど 初音ミク マジカルミライ 2020 夏祭りVer. (ねんどろいど はつねみく まじかるみらい 2020 なつまつりVer.)",
-    "en": "Nendoroid Hatsune Miku: Magical Mirai 2020 Summer Festival Ver."
+  "gender" : "F",
+  "gsc_productNum" : 10310,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201027/10310/78041/large/3839c09eb982eb40dd1653aa6a8d7a8d.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Magical Mirai 2020 Summer Festival Ver.",
+    "ja" : "ねんどろいど 初音ミク マジカルミライ 2020 夏祭りVer. (ねんどろいど はつねみく まじかるみらい 2020 なつまつりVer.)",
+    "ko" : "하츠네 미쿠 매지컬 미라이 2020 여름축제 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 10310,
-  "price": 5500,
-  "release_date": [
+  "num" : "1511",
+  "price" : 5500,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201027/10310/78041/large/3839c09eb982eb40dd1653aa6a8d7a8d.jpg",
-  "gender": "F",
-  "set": 141
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 141
 }

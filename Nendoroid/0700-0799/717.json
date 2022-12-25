@@ -1,21 +1,21 @@
 {
-  "num": "717",
-  "name": {
-    "ko": "사요 사몬지",
-    "ja": "ねんどろいど 小夜左文字 (ねんどろいど さよさもんじ)",
-    "en": "Nendoroid Sayosamonji"
+  "gender" : "M",
+  "gsc_productNum" : 6154,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161221/6154/43058/large/74c283c72d43e31c65823eb5f6873e97.jpg",
+  "name" : {
+    "en" : "Nendoroid Sayosamonji",
+    "ja" : "ねんどろいど 小夜左文字 (ねんどろいど さよさもんじ)",
+    "ko" : "사요 사몬지"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 6154,
-  "price": 4685,
-  "release_date": [
+  "num" : "717",
+  "price" : 4685,
+  "release_date" : [
     "2017/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161221/6154/43058/large/74c283c72d43e31c65823eb5f6873e97.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

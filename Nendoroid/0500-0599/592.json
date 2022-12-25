@@ -1,23 +1,23 @@
 {
-  "num": "592",
-  "name": {
-    "ko": "니시노야 유",
-    "ja": "ねんどろいど 西谷夕 (ねんどろいど にしのやゆう)",
-    "en": "Nendoroid Yu Nishinoya"
+  "gender" : "M",
+  "gsc_productNum" : 5367,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151127/5367/52274/large/6fc0b106631fe379e54bdb9e32eec459.jpg",
+  "name" : {
+    "en" : "Nendoroid Yu Nishinoya",
+    "ja" : "ねんどろいど 西谷夕 (ねんどろいど にしのやゆう)",
+    "ko" : "니시노야 유"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!! セカンドシーズン",
-    "en": "Haikyu!! Second Season"
-  },
-  "gsc_productNum": 5367,
-  "price": 4278,
-  "release_date": [
+  "num" : "592",
+  "price" : 4278,
+  "release_date" : [
     "2016/05",
     "2018/11",
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151127/5367/52274/large/6fc0b106631fe379e54bdb9e32eec459.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!! Second Season",
+    "ja" : "ハイキュー!! セカンドシーズン",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

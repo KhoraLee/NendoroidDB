@@ -1,21 +1,21 @@
 {
-  "num": "1188",
-  "name": {
-    "ko": "마도학자",
-    "ja": "ねんどろいど ジーニーウィズ (ねんどろいど じーにーうぃず)",
-    "en": "Nendoroid Geniewiz"
+  "gender" : "F",
+  "gsc_productNum" : 8421,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190613/8421/61049/large/4202cb7b921e2ee0c3eabc5465cefe1b.jpg",
+  "name" : {
+    "en" : "Nendoroid Geniewiz",
+    "ja" : "ねんどろいど ジーニーウィズ (ねんどろいど じーにーうぃず)",
+    "ko" : "마도학자"
   },
-  "series": {
-    "ko": "던전 앤 파이터",
-    "ja": "アラド戦記",
-    "en": "Dungeon Fighter Online"
-  },
-  "gsc_productNum": 8421,
-  "price": 6500,
-  "release_date": [
+  "num" : "1188",
+  "price" : 6500,
+  "release_date" : [
     "2019/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190613/8421/61049/large/4202cb7b921e2ee0c3eabc5465cefe1b.jpg",
-  "gender": "F",
-  "set": 167
+  "series" : {
+    "en" : "Dungeon Fighter Online",
+    "ja" : "アラド戦記",
+    "ko" : "던전 앤 파이터"
+  },
+  "set" : 167
 }

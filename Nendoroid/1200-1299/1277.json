@@ -1,21 +1,21 @@
 {
-  "num": "1277",
-  "name": {
-    "ko": "토르 엔드게임 Ver.",
-    "ja": "ねんどろいど ソー エンドゲームVer. (ねんどろいど そー えんどげーむVer.)",
-    "en": "Nendoroid Thor: Endgame Ver."
+  "gender" : "M",
+  "gsc_productNum" : 9158,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200109/9158/66701/large/ba153002c93f8c74d768d7f40dc92304.jpg",
+  "name" : {
+    "en" : "Nendoroid Thor: Endgame Ver.",
+    "ja" : "ねんどろいど ソー エンドゲームVer. (ねんどろいど そー えんどげーむVer.)",
+    "ko" : "토르 엔드게임 Ver."
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／エンドゲーム",
-    "en": "Avengers: Endgame"
-  },
-  "gsc_productNum": 9158,
-  "price": 4800,
-  "release_date": [
+  "num" : "1277",
+  "price" : 4800,
+  "release_date" : [
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200109/9158/66701/large/ba153002c93f8c74d768d7f40dc92304.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

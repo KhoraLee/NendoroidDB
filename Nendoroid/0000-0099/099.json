@@ -1,21 +1,21 @@
 {
-  "num": "099",
-  "name": {
-    "ko": "페이트 테스타로사 극장판 Ver.",
-    "ja": "ねんどろいど フェイト・テスタロッサ The MOVIE 1st Ver. (ねんどろいど ふぇいと・てすたろっさ ざ むーびー ふぁーすと ばーじょん )",
-    "en": "Nendoroid Fate Testarossa: The MOVIE 1st Ver. (ねんどろいど ふぇいと・てすたろっさ ざ むーびー ふぁーすと ばーじょん)"
+  "gender" : "F",
+  "gsc_productNum" : 2743,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091127/2743/8441/large/88b6d8e7a99d2d264c74f4da72322e52.jpg",
+  "name" : {
+    "en" : "Nendoroid Fate Testarossa: The MOVIE 1st Ver. (ねんどろいど ふぇいと・てすたろっさ ざ むーびー ふぁーすと ばーじょん)",
+    "ja" : "ねんどろいど フェイト・テスタロッサ The MOVIE 1st Ver. (ねんどろいど ふぇいと・てすたろっさ ざ むーびー ふぁーすと ばーじょん )",
+    "ko" : "페이트 테스타로사 극장판 Ver."
   },
-  "series": {
-    "ko": "마법소녀 리리컬 나노하",
-    "ja": "魔法少女リリカルなのは The MOVIE 1st",
-    "en": "Magical Girl Lyrical Nanoha The MOVIE 1st"
-  },
-  "gsc_productNum": 2743,
-  "price": 3667,
-  "release_date": [
+  "num" : "099",
+  "price" : 3667,
+  "release_date" : [
     "2010/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091127/2743/8441/large/88b6d8e7a99d2d264c74f4da72322e52.jpg",
-  "gender": "F",
-  "set": 30
+  "series" : {
+    "en" : "Magical Girl Lyrical Nanoha The MOVIE 1st",
+    "ja" : "魔法少女リリカルなのは The MOVIE 1st",
+    "ko" : "마법소녀 리리컬 나노하"
+  },
+  "set" : 30
 }

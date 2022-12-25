@@ -1,22 +1,22 @@
 {
-  "num": "1422",
-  "name": {
-    "ko": "첸",
-    "ja": "ねんどろいど チェン (ねんどろいど ちぇん)",
-    "en": "Nendoroid Ch\u0027en"
+  "gender" : "F",
+  "gsc_productNum" : 9894,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200804/9894/72895/large/802d7af40a994d19854bab7c2a05948e.jpg",
+  "name" : {
+    "en" : "Nendoroid Ch'en",
+    "ja" : "ねんどろいど チェン (ねんどろいど ちぇん)",
+    "ko" : "첸"
   },
-  "series": {
-    "ko": "명일방주",
-    "ja": "アークナイツ",
-    "en": "Arknights"
-  },
-  "gsc_productNum": 9894,
-  "price": 6700,
-  "release_date": [
+  "num" : "1422",
+  "price" : 6700,
+  "release_date" : [
     "2021/04",
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200804/9894/72895/large/802d7af40a994d19854bab7c2a05948e.jpg",
-  "gender": "F",
-  "set": 216
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 216
 }

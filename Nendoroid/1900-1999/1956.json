@@ -1,21 +1,21 @@
 {
-  "num": "1956",
-  "name": {
-    "ja": "ねんどろいど 井ノ上たきな (ねんどろいど うのうえたきな)",
-    "en": "Nendoroid Takina Inoue",
-    "ko": "이노우에 타키나"
+  "gender" : "F",
+  "gsc_productNum" : 13527,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221115/13527/107138/large/02d06cf4f591b41b7a2df64f878493e5.jpg",
+  "name" : {
+    "en" : "Nendoroid Takina Inoue",
+    "ja" : "ねんどろいど 井ノ上たきな (ねんどろいど うのうえたきな)",
+    "ko" : "이노우에 타키나"
   },
-  "series": {
-    "ja": "リコリス・リコイル",
-    "en": "Lycoris Recoil",
-    "ko": "리코리스 리코일"
-  },
-  "gsc_productNum": 13527,
-  "price": 5900,
-  "release_date": [
+  "num" : "1956",
+  "price" : 5900,
+  "release_date" : [
     "2023/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221115/13527/107138/large/02d06cf4f591b41b7a2df64f878493e5.jpg",
-  "gender": "F",
-  "set": 297
+  "series" : {
+    "en" : "Lycoris Recoil",
+    "ja" : "リコリス・リコイル",
+    "ko" : "리코리스 리코일"
+  },
+  "set" : 297
 }

@@ -1,21 +1,21 @@
 {
-  "num": "709",
-  "name": {
-    "ko": "33니앙 BML 2016 Ver.",
-    "ja": "ねんどろいど 33娘 BML 2016 Ver. (33むすめ BML 2016 Ver.)",
-    "en": "Nendoroid 33: BML 2016 Ver."
+  "gender" : "F",
+  "gsc_productNum" : 6323,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170314/6323/44372/large/21ac69a991c25a7a348ae4eaa28b8114.jpg",
+  "name" : {
+    "en" : "Nendoroid 33: BML 2016 Ver.",
+    "ja" : "ねんどろいど 33娘 BML 2016 Ver. (33むすめ BML 2016 Ver.)",
+    "ko" : "33니앙 BML 2016 Ver."
   },
-  "series": {
-    "ko": "비리비리",
-    "ja": "bilibili Macro Link",
-    "en": "bilibili Macro Link"
-  },
-  "gsc_productNum": 6323,
-  "price": 4584,
-  "release_date": [
+  "num" : "709",
+  "price" : 4584,
+  "release_date" : [
     "2017/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170314/6323/44372/large/21ac69a991c25a7a348ae4eaa28b8114.jpg",
-  "gender": "F",
-  "set": 148
+  "series" : {
+    "en" : "bilibili Macro Link",
+    "ja" : "bilibili Macro Link",
+    "ko" : "비리비리"
+  },
+  "set" : 148
 }

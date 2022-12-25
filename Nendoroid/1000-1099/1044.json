@@ -1,21 +1,21 @@
 {
-  "num": "1044",
-  "name": {
-    "ko": "니지마 마코토 괴도복 Ver.",
-    "ja": "ねんどろいど 新島真 怪盗服Ver. (ねんどろいど にいじままこと かいとうふくVer.)",
-    "en": "Nendoroid Makoto Niijima: Phantom Thief Ver."
+  "gender" : "F",
+  "gsc_productNum" : 7860,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181130/7860/56406/large/d09417aa6f1b0263d1855f8a88525fd0.jpg",
+  "name" : {
+    "en" : "Nendoroid Makoto Niijima: Phantom Thief Ver.",
+    "ja" : "ねんどろいど 新島真 怪盗服Ver. (ねんどろいど にいじままこと かいとうふくVer.)",
+    "ko" : "니지마 마코토 괴도복 Ver."
   },
-  "series": {
-    "ko": "페르소나5",
-    "ja": "PERSONA5 the Animation",
-    "en": "PERSONA5 the Animation"
-  },
-  "gsc_productNum": 7860,
-  "price": 4888,
-  "release_date": [
+  "num" : "1044",
+  "price" : 4888,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181130/7860/56406/large/d09417aa6f1b0263d1855f8a88525fd0.jpg",
-  "gender": "F",
-  "set": 57
+  "series" : {
+    "en" : "PERSONA5 the Animation",
+    "ja" : "PERSONA5 the Animation",
+    "ko" : "페르소나5"
+  },
+  "set" : 57
 }

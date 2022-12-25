@@ -1,21 +1,21 @@
 {
-  "num": "1437",
-  "name": {
-    "ko": "네뷸라 엔드게임 Ver.",
-    "ja": "ねんどろいど ネビュラ エンドゲーム Ver. (ねんどろいど ねびゅら えんどげーむ Ver. )",
-    "en": "Nendoroid Nebula: Endgame Ver."
+  "gender" : "F",
+  "gsc_productNum" : 9899,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200805/9899/72941/large/523f912e6e9a094b1f87c3f1f995df59.jpg",
+  "name" : {
+    "en" : "Nendoroid Nebula: Endgame Ver.",
+    "ja" : "ねんどろいど ネビュラ エンドゲーム Ver. (ねんどろいど ねびゅら えんどげーむ Ver. )",
+    "ko" : "네뷸라 엔드게임 Ver."
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／エンドゲーム",
-    "en": "Avengers: Endgame"
-  },
-  "gsc_productNum": 9899,
-  "price": 5000,
-  "release_date": [
+  "num" : "1437",
+  "price" : 5000,
+  "release_date" : [
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200805/9899/72941/large/523f912e6e9a094b1f87c3f1f995df59.jpg",
-  "gender": "F",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

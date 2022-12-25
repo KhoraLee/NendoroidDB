@@ -1,21 +1,21 @@
 {
-  "num": "1856",
-  "name": {
-    "ko": "오오카미 미오",
-    "ja": "ねんどろいど 大神ミオ (ねんどろいど おおかみみお)",
-    "en": "Nendoroid Ookami Mio"
+  "gender" : "F",
+  "gsc_productNum" : 12507,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220325/12507/97010/large/993943b91baca51beb8a9f59db3f11aa.jpg",
+  "name" : {
+    "en" : "Nendoroid Ookami Mio",
+    "ja" : "ねんどろいど 大神ミオ (ねんどろいど おおかみみお)",
+    "ko" : "오오카미 미오"
   },
-  "series": {
-    "ko": "홀로라이브",
-    "ja": "ホロライブプロダクション",
-    "en": "hololive production"
-  },
-  "gsc_productNum": 12507,
-  "price": 6100,
-  "release_date": [
+  "num" : "1856",
+  "price" : 6100,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220325/12507/97010/large/993943b91baca51beb8a9f59db3f11aa.jpg",
-  "gender": "F",
-  "set": 262
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브"
+  },
+  "set" : 262
 }

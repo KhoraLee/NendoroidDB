@@ -1,22 +1,22 @@
 {
-  "num": "426",
-  "name": {
-    "ko": "카가",
-    "ja": "ねんどろいど 加賀 (ねんどろいど かが)",
-    "en": "Nendoroid Kaga (ねんどろいど かが)"
+  "gender" : "F",
+  "gsc_productNum" : 4416,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140514/4416/28920/large/8a3be19ee74c97e1d85f0e4f74389ef1.jpg",
+  "name" : {
+    "en" : "Nendoroid Kaga (ねんどろいど かが)",
+    "ja" : "ねんどろいど 加賀 (ねんどろいど かが)",
+    "ko" : "카가"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 4416,
-  "price": 4584,
-  "release_date": [
+  "num" : "426",
+  "price" : 4584,
+  "release_date" : [
     "2014/09",
     "2015/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140514/4416/28920/large/8a3be19ee74c97e1d85f0e4f74389ef1.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

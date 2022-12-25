@@ -1,21 +1,21 @@
 {
-  "num": "1639",
-  "name": {
-    "ko": "하츠네 미쿠 스테이지 세카이 Ver.",
-    "ja": "ねんどろいど 初音ミク ステージのセカイVer. (ねんどろいど はつねみく すてーじのせかいVer.)",
-    "en": "Nendoroid Hatsune Miku Stage SEKAI Ver."
+  "gender" : "F",
+  "gsc_productNum" : 11385,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210622/11385/86225/large/9f9377df445ef9a59d4c498478754b5e.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku Stage SEKAI Ver.",
+    "ja" : "ねんどろいど 初音ミク ステージのセカイVer. (ねんどろいど はつねみく すてーじのせかいVer.)",
+    "ko" : "하츠네 미쿠 스테이지 세카이 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
-    "en": "HATSUNE MIKU: COLORFUL STAGE!"
-  },
-  "gsc_productNum": 11385,
-  "price": 5800,
-  "release_date": [
+  "num" : "1639",
+  "price" : 5800,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210622/11385/86225/large/9f9377df445ef9a59d4c498478754b5e.jpg",
-  "gender": "F",
-  "set": 10
+  "series" : {
+    "en" : "HATSUNE MIKU: COLORFUL STAGE!",
+    "ja" : "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
 }

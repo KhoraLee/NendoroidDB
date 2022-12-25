@@ -1,21 +1,21 @@
 {
-  "num": "021",
-  "name": {
-    "ko": "챠린코 라이더",
-    "ja": "ねんどろいど ちゃりんこライダー (ちゃりんこらいだー　ねんどろいど)",
-    "en": "Nendoroid Bicycling Rider (ちゃりんこらいだー　ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 632,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/632/971/large/264be9451bf9d8133ce25bada57f7fe9.jpg",
+  "name" : {
+    "en" : "Nendoroid Bicycling Rider (ちゃりんこらいだー　ねんどろいど)",
+    "ja" : "ねんどろいど ちゃりんこライダー (ちゃりんこらいだー　ねんどろいど)",
+    "ko" : "챠린코 라이더"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/hollow ataraxia",
-    "en": "Fate/hollow ataraxia"
-  },
-  "gsc_productNum": 632,
-  "price": 3667,
-  "release_date": [
+  "num" : "021",
+  "price" : 3667,
+  "release_date" : [
     "2007/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/632/971/large/264be9451bf9d8133ce25bada57f7fe9.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/hollow ataraxia",
+    "ja" : "Fate/hollow ataraxia",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

@@ -1,21 +1,21 @@
 {
-  "num": "242",
-  "name": {
-    "ko": "시노노메 나노",
-    "ja": "ねんどろいど 東雲なの (ねんどろいど しののめなの)",
-    "en": "Nendoroid Nano Shinonome (ねんどろいど しののめなの)"
+  "gender" : "F",
+  "gsc_productNum" : 3520,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120402/3520/17958/large/72c8ff12d16949fe7bfdfee1fa6144aa.jpg",
+  "name" : {
+    "en" : "Nendoroid Nano Shinonome (ねんどろいど しののめなの)",
+    "ja" : "ねんどろいど 東雲なの (ねんどろいど しののめなの)",
+    "ko" : "시노노메 나노"
   },
-  "series": {
-    "ko": "일상",
-    "ja": "日常",
-    "en": "Nichijou"
-  },
-  "gsc_productNum": 3520,
-  "price": 3667,
-  "release_date": [
+  "num" : "242",
+  "price" : 3667,
+  "release_date" : [
     "2012/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120402/3520/17958/large/72c8ff12d16949fe7bfdfee1fa6144aa.jpg",
-  "gender": "F",
-  "set": 58
+  "series" : {
+    "en" : "Nichijou",
+    "ja" : "日常",
+    "ko" : "일상"
+  },
+  "set" : 58
 }

@@ -1,21 +1,21 @@
 {
-  "num": "588",
-  "name": {
-    "ko": "우츠츠",
-    "ja": "ねんどろいど うつつ",
-    "en": "Nendoroid Utsu-tsu"
+  "gender" : "F",
+  "gsc_productNum" : 5354,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151120/5354/36539/large/d6bb63ef511d3e543aaef1080206c67b.jpg",
+  "name" : {
+    "en" : "Nendoroid Utsu-tsu",
+    "ja" : "ねんどろいど うつつ",
+    "ko" : "우츠츠"
   },
-  "series": {
-    "ko": "갓챠맨",
-    "ja": "ガッチャマンクラウズ",
-    "en": "Gatchaman Crowds"
-  },
-  "gsc_productNum": 5354,
-  "price": 4620,
-  "release_date": [
+  "num" : "588",
+  "price" : 4620,
+  "release_date" : [
     "2016/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151120/5354/36539/large/d6bb63ef511d3e543aaef1080206c67b.jpg",
-  "gender": "F",
-  "set": 125
+  "series" : {
+    "en" : "Gatchaman Crowds",
+    "ja" : "ガッチャマンクラウズ",
+    "ko" : "갓챠맨"
+  },
+  "set" : 125
 }

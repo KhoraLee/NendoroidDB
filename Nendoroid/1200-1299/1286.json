@@ -1,21 +1,21 @@
 {
-  "num": "1286",
-  "name": {
-    "ko": "후지마루 리츠카",
-    "ja": "ねんどろいど マスター/主人公 男 (ねんどろいど ますたー/しゅじんこう おとこ)",
-    "en": "Nendoroid Master/Male Protagonist"
+  "gender" : "M",
+  "gsc_productNum" : 9244,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200131/9244/67431/large/187be6864bb34f7824a2f8e55c9fc05c.jpg",
+  "name" : {
+    "en" : "Nendoroid Master/Male Protagonist",
+    "ja" : "ねんどろいど マスター/主人公 男 (ねんどろいど ますたー/しゅじんこう おとこ)",
+    "ko" : "후지마루 리츠카"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 9244,
-  "price": 4800,
-  "release_date": [
+  "num" : "1286",
+  "price" : 4800,
+  "release_date" : [
     "2020/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200131/9244/67431/large/187be6864bb34f7824a2f8e55c9fc05c.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

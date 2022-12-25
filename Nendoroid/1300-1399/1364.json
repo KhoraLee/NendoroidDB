@@ -1,21 +1,21 @@
 {
-  "num": "1364",
-  "name": {
-    "ko": "주천동자",
-    "ja": "ねんどろいど 酒呑童子 (ねんどろいど しゅてんどうじ)",
-    "en": "Nendoroid Shuten Doji"
+  "gender" : "M",
+  "gsc_productNum" : 9620,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200608/9620/73230/large/de3c72e496f947619a2e713df882a54d.jpg",
+  "name" : {
+    "en" : "Nendoroid Shuten Doji",
+    "ja" : "ねんどろいど 酒呑童子 (ねんどろいど しゅてんどうじ)",
+    "ko" : "주천동자"
   },
-  "series": {
-    "ko": "음양사",
-    "ja": "陰陽師",
-    "en": "Onmyoji"
-  },
-  "gsc_productNum": 9620,
-  "price": 5800,
-  "release_date": [
+  "num" : "1364",
+  "price" : 5800,
+  "release_date" : [
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200608/9620/73230/large/de3c72e496f947619a2e713df882a54d.jpg",
-  "gender": "M",
-  "set": 180
+  "series" : {
+    "en" : "Onmyoji",
+    "ja" : "陰陽師",
+    "ko" : "음양사"
+  },
+  "set" : 180
 }

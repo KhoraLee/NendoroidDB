@@ -1,21 +1,21 @@
 {
-  "num": "1082",
-  "name": {
-    "ko": "오쿠무라 에이지",
-    "ja": "ねんどろいど 奥村英二 (ねんどろいど おくむらえいじ)",
-    "en": "Nendoroid Eiji Okumura"
+  "gender" : "M",
+  "gsc_productNum" : 8054,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190204/8054/57965/large/93d3982045ba8821c1abc34c57c94118.jpg",
+  "name" : {
+    "en" : "Nendoroid Eiji Okumura",
+    "ja" : "ねんどろいど 奥村英二 (ねんどろいど おくむらえいじ)",
+    "ko" : "오쿠무라 에이지"
   },
-  "series": {
-    "ko": "바나나 피쉬",
-    "ja": "BANANA FISH",
-    "en": "BANANA FISH"
-  },
-  "gsc_productNum": 8054,
-  "price": 4584,
-  "release_date": [
+  "num" : "1082",
+  "price" : 4584,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190204/8054/57965/large/93d3982045ba8821c1abc34c57c94118.jpg",
-  "gender": "M",
-  "set": 207
+  "series" : {
+    "en" : "BANANA FISH",
+    "ja" : "BANANA FISH",
+    "ko" : "바나나 피쉬"
+  },
+  "set" : 207
 }

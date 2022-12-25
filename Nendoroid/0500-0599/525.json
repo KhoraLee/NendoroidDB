@@ -1,21 +1,21 @@
 {
-  "num": "525",
-  "name": {
-    "ko": "코기츠네마루",
-    "ja": "ねんどろいど 小狐丸 (ねんどろいど こぎつねまる)",
-    "en": "Nendoroid Kogitsunemaru (ねんどろいど こぎつねまる)"
+  "gender" : "M",
+  "gsc_productNum" : 5028,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150522/5028/33764/large/4acf23e80291f4e0c7d39f09f2bf517d.jpg",
+  "name" : {
+    "en" : "Nendoroid Kogitsunemaru (ねんどろいど こぎつねまる)",
+    "ja" : "ねんどろいど 小狐丸 (ねんどろいど こぎつねまる)",
+    "ko" : "코기츠네마루"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 5028,
-  "price": 4481,
-  "release_date": [
+  "num" : "525",
+  "price" : 4481,
+  "release_date" : [
     "2015/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150522/5028/33764/large/4acf23e80291f4e0c7d39f09f2bf517d.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

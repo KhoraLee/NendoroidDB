@@ -1,21 +1,21 @@
 {
-  "num": "702",
-  "name": {
-    "ko": "즈이카쿠 改",
-    "ja": "ねんどろいど 瑞鶴改 (ねんどろいど ずいかくかい)",
-    "en": "Nendoroid Zuikaku Kai"
+  "gender" : "F",
+  "gsc_productNum" : 6114,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161205/6114/42698/large/c3b4eb250d252ab96fdafb25db013414.jpg",
+  "name" : {
+    "en" : "Nendoroid Zuikaku Kai",
+    "ja" : "ねんどろいど 瑞鶴改 (ねんどろいど ずいかくかい)",
+    "ko" : "즈이카쿠 改"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 6114,
-  "price": 5093,
-  "release_date": [
+  "num" : "702",
+  "price" : 5093,
+  "release_date" : [
     "2017/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161205/6114/42698/large/c3b4eb250d252ab96fdafb25db013414.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

@@ -1,22 +1,22 @@
 {
-  "num": "692",
-  "name": {
-    "ko": "와타나베 요우",
-    "ja": "ねんどろいど 渡辺 曜 (ねんどろいど わたなべ よう)",
-    "en": "Nendoroid You Watanabe"
+  "gender" : "F",
+  "gsc_productNum" : 6060,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161114/6060/42231/large/63ebb97aec662df0dec9f5047cd19c23.jpg",
+  "name" : {
+    "en" : "Nendoroid You Watanabe",
+    "ja" : "ねんどろいど 渡辺 曜 (ねんどろいど わたなべ よう)",
+    "ko" : "와타나베 요우"
   },
-  "series": {
-    "ko": "러브라이브! 선샤인!!",
-    "ja": "ラブライブ！サンシャイン!!",
-    "en": "LoveLive!Sunshine!!"
-  },
-  "gsc_productNum": 6060,
-  "price": 3565,
-  "release_date": [
+  "num" : "692",
+  "price" : 3565,
+  "release_date" : [
     "2017/05",
     "2018/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161114/6060/42231/large/63ebb97aec662df0dec9f5047cd19c23.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!Sunshine!!",
+    "ja" : "ラブライブ！サンシャイン!!",
+    "ko" : "러브라이브! 선샤인!!"
+  },
+  "set" : 105
 }

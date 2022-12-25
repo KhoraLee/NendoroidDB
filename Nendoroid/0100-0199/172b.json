@@ -1,21 +1,21 @@
 {
-  "num": "172b",
-  "name": {
-    "ko": "레이싱 미쿠 2011 Ver. 리턴즈",
-    "ja": "ねんどろいど レーシングミク 2011 Ver. リターンズ (ねんどろいど れーしんぐみく 2011 Ver. りたーんず)",
-    "en": "Nendoroid Racing Miku 2011 Ver. Returns (ねんどろいど れーしんぐみく 2011 Ver. りたーんず)"
+  "gender" : "F",
+  "gsc_productNum" : 3678,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120919/3678/20475/large/f0cf667df1fbc918432a5be1f099c2b4.jpg",
+  "name" : {
+    "en" : "Nendoroid Racing Miku 2011 Ver. Returns (ねんどろいど れーしんぐみく 2011 Ver. りたーんず)",
+    "ja" : "ねんどろいど レーシングミク 2011 Ver. リターンズ (ねんどろいど れーしんぐみく 2011 Ver. りたーんず)",
+    "ko" : "레이싱 미쿠 2011 Ver. 리턴즈"
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "初音ミク GTプロジェクト",
-    "en": "Racing Miku"
-  },
-  "gsc_productNum": 3678,
-  "price": 0,
-  "release_date": [
+  "num" : "172b",
+  "price" : 0,
+  "release_date" : [
     "2013/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120919/3678/20475/large/f0cf667df1fbc918432a5be1f099c2b4.jpg",
-  "gender": "F",
-  "set": 23
+  "series" : {
+    "en" : "Racing Miku",
+    "ja" : "初音ミク GTプロジェクト",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 23
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1913",
-  "name": {
-    "ja": "ねんどろいど 影山茂夫 (ねんどろいど かげやましげお)",
-    "en": "Nendoroid Shigeo Kageyama",
-    "ko": "카게야마 시게오"
+  "gender" : "M",
+  "gsc_productNum" : 12938,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220705/12938/101078/large/812ebb3ec4d9cffeb785be1b8ca577bb.jpg",
+  "name" : {
+    "en" : "Nendoroid Shigeo Kageyama",
+    "ja" : "ねんどろいど 影山茂夫 (ねんどろいど かげやましげお)",
+    "ko" : "카게야마 시게오"
   },
-  "series": {
-    "ja": "モブサイコ100Ⅲ",
-    "en": "Mob Psycho 100 III",
-    "ko": "모브 사이코 100 III"
-  },
-  "gsc_productNum": 12938,
-  "price": 6500,
-  "release_date": [
+  "num" : "1913",
+  "price" : 6500,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220705/12938/101078/large/812ebb3ec4d9cffeb785be1b8ca577bb.jpg",
-  "gender": "M",
-  "set": 292
+  "series" : {
+    "en" : "Mob Psycho 100 III",
+    "ja" : "モブサイコ100Ⅲ",
+    "ko" : "모브 사이코 100 III"
+  },
+  "set" : 292
 }

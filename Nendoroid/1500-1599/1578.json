@@ -1,21 +1,21 @@
 {
-  "num": "1578",
-  "name": {
-    "ko": "레이싱 미쿠 2021 Ver.",
-    "ja": "ねんどろいど レーシングミク 2021Ver. (ねんどろいど れーしんぐみく 2021Ver.)",
-    "en": "Nendoroid Racing Miku: 2021 Ver."
+  "gender" : "F",
+  "gsc_productNum" : 10846,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210222/10846/81465/large/91ac32f8611a195759491cd5d7349d38.jpg",
+  "name" : {
+    "en" : "Nendoroid Racing Miku: 2021 Ver.",
+    "ja" : "ねんどろいど レーシングミク 2021Ver. (ねんどろいど れーしんぐみく 2021Ver.)",
+    "ko" : "레이싱 미쿠 2021 Ver."
   },
-  "series": {
-    "ko": "보컬로이드(VOCALOID)",
-    "ja": "初音ミク GTプロジェクト",
-    "en": "Hatsune Miku GT Project"
-  },
-  "gsc_productNum": 10846,
-  "price": 6800,
-  "release_date": [
+  "num" : "1578",
+  "price" : 6800,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210222/10846/81465/large/91ac32f8611a195759491cd5d7349d38.jpg",
-  "gender": "F",
-  "set": 23
+  "series" : {
+    "en" : "Hatsune Miku GT Project",
+    "ja" : "初音ミク GTプロジェクト",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 23
 }

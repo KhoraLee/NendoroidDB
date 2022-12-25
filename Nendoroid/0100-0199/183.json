@@ -1,21 +1,21 @@
 {
-  "num": "183",
-  "name": {
-    "ko": "토모에 마미",
-    "ja": "ねんどろいど 巴マミ (ねんどろいど ともえまみ)",
-    "en": "Nendoroid Mami Tomoe (ねんどろいど ともえまみ)"
+  "gender" : "F",
+  "gsc_productNum" : 3221,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110714/3221/14629/large/5f4206b7e0fce773c30ec0faabd5d1b4.jpg",
+  "name" : {
+    "en" : "Nendoroid Mami Tomoe (ねんどろいど ともえまみ)",
+    "ja" : "ねんどろいど 巴マミ (ねんどろいど ともえまみ)",
+    "ko" : "토모에 마미"
   },
-  "series": {
-    "ko": "마법소녀 마도카 마기카",
-    "ja": "魔法少女まどか☆マギカ",
-    "en": "Puella Magi Madoka Magica"
-  },
-  "gsc_productNum": 3221,
-  "price": 3981,
-  "release_date": [
+  "num" : "183",
+  "price" : 3981,
+  "release_date" : [
     "2011/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110714/3221/14629/large/5f4206b7e0fce773c30ec0faabd5d1b4.jpg",
-  "gender": "F",
-  "set": 46
+  "series" : {
+    "en" : "Puella Magi Madoka Magica",
+    "ja" : "魔法少女まどか☆マギカ",
+    "ko" : "마법소녀 마도카 마기카"
+  },
+  "set" : 46
 }

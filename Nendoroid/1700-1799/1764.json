@@ -1,20 +1,20 @@
 {
-  "num": "1764",
-  "name": {
-    "ko": "로켓",
-    "ja": "ねんどろいど ロケット (ねんどろいど ろけっと)",
-    "en": "Nendoroid Rocket Raccoon"
+  "gsc_productNum" : 12034,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211122/12034/92550/large/012f1bd30e8995ff3801d3ec74cb26f3.jpg",
+  "name" : {
+    "en" : "Nendoroid Rocket Raccoon",
+    "ja" : "ねんどろいど ロケット (ねんどろいど ろけっと)",
+    "ko" : "로켓"
   },
-  "series": {
-    "ko": "가디언즈 오브 갤럭시",
-    "ja": "ガーディアンズ・オブ・ギャラクシー：リミックス",
-    "en": "Guardians of the Galaxy Vol. 2"
-  },
-  "gsc_productNum": 12034,
-  "price": 8000,
-  "release_date": [
+  "num" : "1764",
+  "price" : 8000,
+  "release_date" : [
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211122/12034/92550/large/012f1bd30e8995ff3801d3ec74cb26f3.jpg",
-  "set": 63
+  "series" : {
+    "en" : "Guardians of the Galaxy Vol. 2",
+    "ja" : "ガーディアンズ・オブ・ギャラクシー：リミックス",
+    "ko" : "가디언즈 오브 갤럭시"
+  },
+  "set" : 63
 }

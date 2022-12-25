@@ -1,21 +1,21 @@
 {
-  "num": "253",
-  "name": {
-    "ko": "인세인 블랙★록 슈터",
-    "ja": "ねんどろいど インセイン・ブラック★ロックシューター (ねんどろいど いんせいん・ぶらっく★ろっくしゅーたー)",
-    "en": "Nendoroid Insane Black Rock Shooter"
+  "gender" : "F",
+  "gsc_productNum" : 3583,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120615/3583/18916/large/31592016a6b4dedff3f1b80e5592922d.jpg",
+  "name" : {
+    "en" : "Nendoroid Insane Black Rock Shooter",
+    "ja" : "ねんどろいど インセイン・ブラック★ロックシューター (ねんどろいど いんせいん・ぶらっく★ろっくしゅーたー)",
+    "ko" : "인세인 블랙★록 슈터"
   },
-  "series": {
-    "ko": "BLACK★ROCK SHOOTER",
-    "ja": "TV ANIMATION BLACK ROCK SHOOTER",
-    "en": "TV ANIMATION BLACKROCK SHOOTER"
-  },
-  "gsc_productNum": 3583,
-  "price": 3667,
-  "release_date": [
+  "num" : "253",
+  "price" : 3667,
+  "release_date" : [
     "2012/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120615/3583/18916/large/31592016a6b4dedff3f1b80e5592922d.jpg",
-  "gender": "F",
-  "set": 33
+  "series" : {
+    "en" : "TV ANIMATION BLACKROCK SHOOTER",
+    "ja" : "TV ANIMATION BLACK ROCK SHOOTER",
+    "ko" : "BLACK★ROCK SHOOTER"
+  },
+  "set" : 33
 }

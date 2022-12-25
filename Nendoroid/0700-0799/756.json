@@ -1,20 +1,20 @@
 {
-  "num": "756",
-  "name": {
-    "ko": "라무",
-    "ja": "ねんどろいど ラム (ねんどろいど らむ)",
-    "en": "Nendoroid Lum"
+  "gender" : "F",
+  "gsc_productNum" : 6365,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170404/6365/44731/large/4cd0eb734c2df847e75444706e2083a9.jpg",
+  "name" : {
+    "en" : "Nendoroid Lum",
+    "ja" : "ねんどろいど ラム (ねんどろいど らむ)",
+    "ko" : "라무"
   },
-  "series": {
-    "ko": "시끌별 녀석들",
-    "ja": "うる星やつら",
-    "en": "Urusei Yatsura"
-  },
-  "gsc_productNum": 6365,
-  "price": 4888,
-  "release_date": [
+  "num" : "756",
+  "price" : 4888,
+  "release_date" : [
     "2017/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170404/6365/44731/large/4cd0eb734c2df847e75444706e2083a9.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Urusei Yatsura",
+    "ja" : "うる星やつら",
+    "ko" : "시끌별 녀석들"
+  }
 }

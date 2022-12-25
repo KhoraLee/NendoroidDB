@@ -1,21 +1,21 @@
 {
-  "num": "181",
-  "name": {
-    "ko": "님프",
-    "ja": "ねんどろいど ニンフ (ねんどろいど にんふ)",
-    "en": "Nendoroid Nymph (ねんどろいど にんふ)"
+  "gender" : "F",
+  "gsc_productNum" : 3204,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110620/3204/14390/large/0f3d501fdcfadcb9ab9d17cc86738ebd.jpg",
+  "name" : {
+    "en" : "Nendoroid Nymph (ねんどろいど にんふ)",
+    "ja" : "ねんどろいど ニンフ (ねんどろいど にんふ)",
+    "ko" : "님프"
   },
-  "series": {
-    "ko": "하늘의 유실물",
-    "ja": "そらのおとしものf（フォルテ）",
-    "en": "Sora no Otoshimono Forte"
-  },
-  "gsc_productNum": 3204,
-  "price": 3667,
-  "release_date": [
+  "num" : "181",
+  "price" : 3667,
+  "release_date" : [
     "2011/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110620/3204/14390/large/0f3d501fdcfadcb9ab9d17cc86738ebd.jpg",
-  "gender": "F",
-  "set": 47
+  "series" : {
+    "en" : "Sora no Otoshimono Forte",
+    "ja" : "そらのおとしものf（フォルテ）",
+    "ko" : "하늘의 유실물"
+  },
+  "set" : 47
 }

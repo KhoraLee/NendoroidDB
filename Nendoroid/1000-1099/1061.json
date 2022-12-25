@@ -1,21 +1,21 @@
 {
-  "num": "1061",
-  "name": {
-    "ko": "상불환",
-    "ja": "ねんどろいど 殤不患 (ねんどろいど しょうふかん)",
-    "en": "Nendoroid Syou Fu Kan"
+  "gender" : "M",
+  "gsc_productNum" : 7943,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181221/7943/57031/large/4ab6c34b1d8d184a6b1e3ab76dcc802d.jpg",
+  "name" : {
+    "en" : "Nendoroid Syou Fu Kan",
+    "ja" : "ねんどろいど 殤不患 (ねんどろいど しょうふかん)",
+    "ko" : "상불환"
   },
-  "series": {
-    "ko": "Thunderbolt Fantasy 동리검유기",
-    "ja": "Thunderbolt Fantasy 東離劍遊紀2",
-    "en": "Thunderbolt Fantasy Sword Seekers 2"
-  },
-  "gsc_productNum": 7943,
-  "price": 5907,
-  "release_date": [
+  "num" : "1061",
+  "price" : 5907,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181221/7943/57031/large/4ab6c34b1d8d184a6b1e3ab76dcc802d.jpg",
-  "gender": "M",
-  "set": 143
+  "series" : {
+    "en" : "Thunderbolt Fantasy Sword Seekers 2",
+    "ja" : "Thunderbolt Fantasy 東離劍遊紀2",
+    "ko" : "Thunderbolt Fantasy 동리검유기"
+  },
+  "set" : 143
 }

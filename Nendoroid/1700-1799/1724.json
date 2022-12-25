@@ -1,21 +1,21 @@
 {
-  "num": "1724",
-  "name": {
-    "ko": "듀스 스페이드",
-    "ja": "ねんどろいど デュース・スペード (ねんどろいど でゅーす・すぺーど)",
-    "en": "Nendoroid Deuce Spade"
+  "gender" : "M",
+  "gsc_productNum" : 11809,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210921/11809/90384/large/950547eafa8fba1a15f9aa6ab5713405.jpg",
+  "name" : {
+    "en" : "Nendoroid Deuce Spade",
+    "ja" : "ねんどろいど デュース・スペード (ねんどろいど でゅーす・すぺーど)",
+    "ko" : "듀스 스페이드"
   },
-  "series": {
-    "ko": "디즈니 트위스티드 원더랜드",
-    "ja": "『ディズニー ツイステッドワンダーランド』",
-    "en": "Disney Twisted-Wonderland"
-  },
-  "gsc_productNum": 11809,
-  "price": 6600,
-  "release_date": [
+  "num" : "1724",
+  "price" : 6600,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210921/11809/90384/large/950547eafa8fba1a15f9aa6ab5713405.jpg",
-  "gender": "M",
-  "set": 250
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 250
 }

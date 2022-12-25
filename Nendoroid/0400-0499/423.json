@@ -1,21 +1,21 @@
 {
-  "num": "423",
-  "name": {
-    "ko": "공모 오급",
-    "ja": "ねんどろいど 空母ヲ級 (ねんどろいど くうぼをきゅう)",
-    "en": "Nendoroid Aircraft Carrier Wo-Class (ねんどろいど をきゅう)"
+  "gender" : "F",
+  "gsc_productNum" : 4437,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140602/4437/29108/large/0ed4b958cfc69cdeb24a27b28eabdcbc.jpg",
+  "name" : {
+    "en" : "Nendoroid Aircraft Carrier Wo-Class (ねんどろいど をきゅう)",
+    "ja" : "ねんどろいど 空母ヲ級 (ねんどろいど くうぼをきゅう)",
+    "ko" : "공모 오급"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 4437,
-  "price": 4888,
-  "release_date": [
+  "num" : "423",
+  "price" : 4888,
+  "release_date" : [
     "2014/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140602/4437/29108/large/0ed4b958cfc69cdeb24a27b28eabdcbc.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

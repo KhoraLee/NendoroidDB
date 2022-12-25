@@ -1,21 +1,21 @@
 {
-  "num": "516",
-  "name": {
-    "ko": "니시키노 마키",
-    "ja": "ねんどろいど 西木野真姫 (ねんどろいど にしきのまき)",
-    "en": "Nendoroid Maki Nishikino (ねんどろいど にしきのまき)"
+  "gender" : "F",
+  "gsc_productNum" : 4958,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150417/4958/33102/large/91d2e22152f36b77b229436b5a8d53e1.jpg",
+  "name" : {
+    "en" : "Nendoroid Maki Nishikino (ねんどろいど にしきのまき)",
+    "ja" : "ねんどろいど 西木野真姫 (ねんどろいど にしきのまき)",
+    "ko" : "니시키노 마키"
   },
-  "series": {
-    "ko": "러브라이브!",
-    "ja": "ラブライブ！",
-    "en": "LoveLive!"
-  },
-  "gsc_productNum": 4958,
-  "price": 3565,
-  "release_date": [
+  "num" : "516",
+  "price" : 3565,
+  "release_date" : [
     "2015/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150417/4958/33102/large/91d2e22152f36b77b229436b5a8d53e1.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 105
 }

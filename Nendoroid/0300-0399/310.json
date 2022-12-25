@@ -1,23 +1,23 @@
 {
-  "num": "310",
-  "name": {
-    "ko": "니시즈미 미호",
-    "ja": "ねんどろいど 西住みほ (ねんどろいど にしずみみほ)",
-    "en": "Nendoroid Miho Nishizumi"
+  "gender" : "F",
+  "gsc_productNum" : 3828,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130128/3828/28455/large/16e1d0b943d8a442608973a78940439f.jpg",
+  "name" : {
+    "en" : "Nendoroid Miho Nishizumi",
+    "ja" : "ねんどろいど 西住みほ (ねんどろいど にしずみみほ)",
+    "ko" : "니시즈미 미호"
   },
-  "series": {
-    "ko": "걸즈 앤 판처",
-    "ja": "ガールズ＆パンツァー",
-    "en": "GIRLS und PANZER"
-  },
-  "gsc_productNum": 3828,
-  "price": 4685,
-  "release_date": [
+  "num" : "310",
+  "price" : 4685,
+  "release_date" : [
     "2013/06",
     "2014/07",
     "2017/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130128/3828/28455/large/16e1d0b943d8a442608973a78940439f.jpg",
-  "gender": "F",
-  "set": 78
+  "series" : {
+    "en" : "GIRLS und PANZER",
+    "ja" : "ガールズ＆パンツァー",
+    "ko" : "걸즈 앤 판처"
+  },
+  "set" : 78
 }

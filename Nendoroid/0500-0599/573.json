@@ -1,21 +1,21 @@
 {
-  "num": "573",
-  "name": {
-    "ko": "후나마 유이",
-    "ja": "ねんどろいど 船見結衣 (ねんどろいど ふなみゆい)",
-    "en": "Nendoroid Yui Funami"
+  "gender" : "F",
+  "gsc_productNum" : 5278,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151019/5278/35931/large/21bfdd3b1ff8d137db7d49cb5c040a67.jpg",
+  "name" : {
+    "en" : "Nendoroid Yui Funami",
+    "ja" : "ねんどろいど 船見結衣 (ねんどろいど ふなみゆい)",
+    "ko" : "후나마 유이"
   },
-  "series": {
-    "ko": "유루유리",
-    "ja": "ゆるゆり さん☆ハイ！",
-    "en": "Yuru Yuri San Hai!"
-  },
-  "gsc_productNum": 5278,
-  "price": 4074,
-  "release_date": [
+  "num" : "573",
+  "price" : 4074,
+  "release_date" : [
     "2016/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151019/5278/35931/large/21bfdd3b1ff8d137db7d49cb5c040a67.jpg",
-  "gender": "F",
-  "set": 66
+  "series" : {
+    "en" : "Yuru Yuri San Hai!",
+    "ja" : "ゆるゆり さん☆ハイ！",
+    "ko" : "유루유리"
+  },
+  "set" : 66
 }

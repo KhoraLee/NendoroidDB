@@ -1,20 +1,20 @@
 {
-  "num": "547",
-  "name": {
-    "ko": "엘리스 카터릿",
-    "ja": "ねんどろいど アリス・カータレット (ねんどろいど ありす・かーたれっと)",
-    "en": "Nendoroid Alice Cartelet (ねんどろいど ありす・かーたれっと)"
+  "gender" : "F",
+  "gsc_productNum" : 5151,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150729/5151/34837/large/d47a3d0943f71ecdf5618f9297ea7ed3.jpg",
+  "name" : {
+    "en" : "Nendoroid Alice Cartelet (ねんどろいど ありす・かーたれっと)",
+    "ja" : "ねんどろいど アリス・カータレット (ねんどろいど ありす・かーたれっと)",
+    "ko" : "엘리스 카터릿"
   },
-  "series": {
-    "ko": "금빛 모자이크",
-    "ja": "ハロー！！きんいろモザイク",
-    "en": "Hello!! Kin-iro Mosaic"
-  },
-  "gsc_productNum": 5151,
-  "price": 4584,
-  "release_date": [
+  "num" : "547",
+  "price" : 4584,
+  "release_date" : [
     "2015/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150729/5151/34837/large/d47a3d0943f71ecdf5618f9297ea7ed3.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Hello!! Kin-iro Mosaic",
+    "ja" : "ハロー！！きんいろモザイク",
+    "ko" : "금빛 모자이크"
+  }
 }

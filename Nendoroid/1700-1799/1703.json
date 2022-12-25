@@ -1,21 +1,21 @@
 {
-  "num": "1703",
-  "name": {
-    "ko": "소라루",
-    "ja": "ねんどろいど そらる (ねんどろいど そらる)",
-    "en": "Nendoroid Soraru"
+  "gender" : "M",
+  "gsc_productNum" : 11762,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210909/11762/89690/large/db0ffff4177246014e220cd33b7d735f.jpg",
+  "name" : {
+    "en" : "Nendoroid Soraru",
+    "ja" : "ねんどろいど そらる (ねんどろいど そらる)",
+    "ko" : "소라루"
   },
-  "series": {
-    "ko": "우타이테",
-    "ja": "そらる",
-    "en": "Soraru"
-  },
-  "gsc_productNum": 11762,
-  "price": 4800,
-  "release_date": [
+  "num" : "1703",
+  "price" : 4800,
+  "release_date" : [
     "2022/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210909/11762/89690/large/db0ffff4177246014e220cd33b7d735f.jpg",
-  "gender": "M",
-  "set": 238
+  "series" : {
+    "en" : "Soraru",
+    "ja" : "そらる",
+    "ko" : "우타이테"
+  },
+  "set" : 238
 }

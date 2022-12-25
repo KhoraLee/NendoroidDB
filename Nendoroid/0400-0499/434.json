@@ -1,22 +1,22 @@
 {
-  "num": "434",
-  "name": {
-    "ko": "타케베 사오리",
-    "ja": "ねんどろいど 武部沙織 (ねんどろいど たけべさおり)",
-    "en": "Nendoroid Saori Takebe"
+  "gender" : "F",
+  "gsc_productNum" : 4471,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140625/4471/29387/large/35228cefc6a986f08a6d1b6286a1f949.jpg",
+  "name" : {
+    "en" : "Nendoroid Saori Takebe",
+    "ja" : "ねんどろいど 武部沙織 (ねんどろいど たけべさおり)",
+    "ko" : "타케베 사오리"
   },
-  "series": {
-    "ko": "걸즈 앤 판처",
-    "ja": "ガールズ＆パンツァー",
-    "en": "GIRLS und PANZER"
-  },
-  "gsc_productNum": 4471,
-  "price": 4888,
-  "release_date": [
+  "num" : "434",
+  "price" : 4888,
+  "release_date" : [
     "2014/11",
     "2017/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140625/4471/29387/large/35228cefc6a986f08a6d1b6286a1f949.jpg",
-  "gender": "F",
-  "set": 78
+  "series" : {
+    "en" : "GIRLS und PANZER",
+    "ja" : "ガールズ＆パンツァー",
+    "ko" : "걸즈 앤 판처"
+  },
+  "set" : 78
 }

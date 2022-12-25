@@ -1,21 +1,21 @@
 {
-  "num": "1459",
-  "name": {
-    "ko": "나타",
-    "ja": "ねんどろいど 哪吒 (ねんどろいど なた)",
-    "en": "Nendoroid Ne Zha"
+  "gender" : "M",
+  "gsc_productNum" : 10687,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210119/10687/79928/large/1a2c67b42bad86b3043a752e5c185e53.jpg",
+  "name" : {
+    "en" : "Nendoroid Ne Zha",
+    "ja" : "ねんどろいど 哪吒 (ねんどろいど なた)",
+    "ko" : "나타"
   },
-  "series": {
-    "ko": "나타지마동강세",
-    "ja": "哪吒之魔童降世",
-    "en": "Ne Zha"
-  },
-  "gsc_productNum": 10687,
-  "price": 5500,
-  "release_date": [
+  "num" : "1459",
+  "price" : 5500,
+  "release_date" : [
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210119/10687/79928/large/1a2c67b42bad86b3043a752e5c185e53.jpg",
-  "gender": "M",
-  "set": 244
+  "series" : {
+    "en" : "Ne Zha",
+    "ja" : "哪吒之魔童降世",
+    "ko" : "나타지마동강세"
+  },
+  "set" : 244
 }

@@ -1,19 +1,21 @@
 {
-  "num": "1987",
-  "name": {
-    "ja": "ねんどろいど レオナルド (ねんどろいど れおなるど)",
-    "en": "Nendoroid Leonardo",
-    "ko": "레오나르도"
+  "gender" : "M",
+  "gsc_productNum" : 13345,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220930/13345/105276/large/102d643877a449c54c350da2aa644ca3.jpg",
+  "name" : {
+    "en" : "Nendoroid Leonardo",
+    "ja" : "ねんどろいど レオナルド (ねんどろいど れおなるど)",
+    "ko" : "레오나르도"
   },
-  "series": {
-    "ja": "ティーンエイジ・ミュータント・ニンジャ・タートルズ",
-    "en": "Teenage Mutant Ninja Turtles",
-    "ko": "닌자 거북이"
+  "num" : "1987",
+  "price" : -1,
+  "release_date" : [
+
+  ],
+  "series" : {
+    "en" : "Teenage Mutant Ninja Turtles",
+    "ja" : "ティーンエイジ・ミュータント・ニンジャ・タートルズ",
+    "ko" : "닌자 거북이"
   },
-  "gsc_productNum": 13345,
-  "price": -1,
-  "release_date": [],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220930/13345/105276/large/102d643877a449c54c350da2aa644ca3.jpg",
-  "gender": "M",
-  "set": 301
+  "set" : 301
 }

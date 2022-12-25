@@ -1,21 +1,21 @@
 {
-  "num": "347",
-  "name": {
-    "ko": "타카노 미유키",
-    "ja": "ねんどろいど 鷹野みゆき (ねんどろいど たかのみゆき)",
-    "en": "Nendoroid Miyuki Takano (ねんどろいど たかのみゆき)"
+  "gender" : "F",
+  "gsc_productNum" : 3982,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130709/3982/24999/large/2cea42976ec0b037bb6f159c88ffffc4.jpg",
+  "name" : {
+    "en" : "Nendoroid Miyuki Takano (ねんどろいど たかのみゆき)",
+    "ja" : "ねんどろいど 鷹野みゆき (ねんどろいど たかのみゆき)",
+    "ko" : "타카노 미유키"
   },
-  "series": {
-    "ko": "철도무스메",
-    "ja": "鉄道むすめ",
-    "en": "Tetsudou Musume"
-  },
-  "gsc_productNum": 3982,
-  "price": 4400,
-  "release_date": [
+  "num" : "347",
+  "price" : 4400,
+  "release_date" : [
     "2013/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130709/3982/24999/large/2cea42976ec0b037bb6f159c88ffffc4.jpg",
-  "gender": "F",
-  "set": 85
+  "series" : {
+    "en" : "Tetsudou Musume",
+    "ja" : "鉄道むすめ",
+    "ko" : "철도무스메"
+  },
+  "set" : 85
 }

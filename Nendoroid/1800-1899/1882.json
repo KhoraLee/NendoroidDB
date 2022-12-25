@@ -1,21 +1,21 @@
 {
-  "num": "1882",
-  "name": {
-    "ko": "엠프레스[블랙 록 슈터] 던 폴 Ver.",
-    "ja": "ねんどろいど エンプレス［ブラックロックシューター］ DAWN FALL Ver. (ねんどろいど えんぷれす［ぶらっくろっくしゅーたー］ どーん ふぉーる Ver.)",
-    "en": "Nendoroid Empress [Black Rock Shooter]: DAWN FALL Ver."
+  "gender" : "F",
+  "gsc_productNum" : 12738,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220524/12738/99326/large/50bf296375843326a693506895424aa3.jpg",
+  "name" : {
+    "en" : "Nendoroid Empress [Black Rock Shooter]: DAWN FALL Ver.",
+    "ja" : "ねんどろいど エンプレス［ブラックロックシューター］ DAWN FALL Ver. (ねんどろいど えんぷれす［ぶらっくろっくしゅーたー］ どーん ふぉーる Ver.)",
+    "ko" : "엠프레스[블랙 록 슈터] 던 폴 Ver."
   },
-  "series": {
-    "ko": "블랙★★록 슈터: 던 폴",
-    "ja": "ブラック★★ロックシューター DAWN FALL",
-    "en": "BLACK★★ROCK SHOOTER: DAWN FALL"
-  },
-  "gsc_productNum": 12738,
-  "price": 6500,
-  "release_date": [
+  "num" : "1882",
+  "price" : 6500,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220524/12738/99326/large/50bf296375843326a693506895424aa3.jpg",
-  "gender": "F",
-  "set": 33
+  "series" : {
+    "en" : "BLACK★★ROCK SHOOTER: DAWN FALL",
+    "ja" : "ブラック★★ロックシューター DAWN FALL",
+    "ko" : "블랙★★록 슈터: 던 폴"
+  },
+  "set" : 33
 }

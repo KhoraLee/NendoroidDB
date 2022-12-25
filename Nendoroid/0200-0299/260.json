@@ -1,22 +1,22 @@
 {
-  "num": "260",
-  "name": {
-    "ko": "스파이더맨 히어로즈 에디션",
-    "ja": "ねんどろいど スパイダーマン ヒーローズ・エディション (ねんどろいど すぱいだーまん ひーろーず・えでぃしょん)",
-    "en": "Nendoroid Spider-Man: Hero\u0027s Edition (ねんどろいど すぱいだーまん ひーろーず・えでぃしょん)"
+  "gender" : "M",
+  "gsc_productNum" : 3600,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120709/3600/27793/large/cc953c1a02b6a8ec85a6fcf0df8b3309.jpg",
+  "name" : {
+    "en" : "Nendoroid Spider-Man: Hero's Edition (ねんどろいど すぱいだーまん ひーろーず・えでぃしょん)",
+    "ja" : "ねんどろいど スパイダーマン ヒーローズ・エディション (ねんどろいど すぱいだーまん ひーろーず・えでぃしょん)",
+    "ko" : "스파이더맨 히어로즈 에디션"
   },
-  "series": {
-    "ko": "어메이징 스파이더맨",
-    "ja": "アメイジング・スパイダーマン",
-    "en": "The Amazing Spider-Man"
-  },
-  "gsc_productNum": 3600,
-  "price": 3981,
-  "release_date": [
+  "num" : "260",
+  "price" : 3981,
+  "release_date" : [
     "2012/12",
     "2014/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120709/3600/27793/large/cc953c1a02b6a8ec85a6fcf0df8b3309.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "The Amazing Spider-Man",
+    "ja" : "アメイジング・スパイダーマン",
+    "ko" : "어메이징 스파이더맨"
+  },
+  "set" : 63
 }

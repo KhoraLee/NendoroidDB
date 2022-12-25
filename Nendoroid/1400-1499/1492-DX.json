@@ -1,21 +1,21 @@
 {
-  "num": "1492-DX",
-  "name": {
-    "ko": "바넬로피 본 슈위츠 DX",
-    "ja": "ねんどろいど ヴァネロペ DX (ねんどろいど ゔぁねろぺ DX)",
-    "en": "Nendoroid Vanellope DX"
+  "gender" : "F",
+  "gsc_productNum" : 10251,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201020/10251/76031/large/98a8b2804a408ba1b5ae48e176dc092f.jpg",
+  "name" : {
+    "en" : "Nendoroid Vanellope DX",
+    "ja" : "ねんどろいど ヴァネロペ DX (ねんどろいど ゔぁねろぺ DX)",
+    "ko" : "바넬로피 본 슈위츠 DX"
   },
-  "series": {
-    "ko": "주먹왕 랄프",
-    "ja": "シュガー・ラッシュ",
-    "en": "Wreck-It Ralph"
-  },
-  "gsc_productNum": 10251,
-  "price": 8900,
-  "release_date": [
+  "num" : "1492-DX",
+  "price" : 8900,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201020/10251/76031/large/98a8b2804a408ba1b5ae48e176dc092f.jpg",
-  "gender": "F",
-  "set": 32
+  "series" : {
+    "en" : "Wreck-It Ralph",
+    "ja" : "シュガー・ラッシュ",
+    "ko" : "주먹왕 랄프"
+  },
+  "set" : 32
 }

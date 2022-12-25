@@ -1,21 +1,21 @@
 {
-  "num": "1161",
-  "name": {
-    "ko": "카스미가오카 우타하 기모노 Ver.",
-    "ja": "ねんどろいど 霞ヶ丘詩羽 和服Ver. (ねんどろいど かすみがおかうたは わふくVer.)",
-    "en": "Nendoroid Utaha Kasumigaoka: Kimono Ver."
+  "gender" : "F",
+  "gsc_productNum" : 8482,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190701/8482/61586/large/c65ba4548475413973ab3b1c2cda4c08.jpg",
+  "name" : {
+    "en" : "Nendoroid Utaha Kasumigaoka: Kimono Ver.",
+    "ja" : "ねんどろいど 霞ヶ丘詩羽 和服Ver. (ねんどろいど かすみがおかうたは わふくVer.)",
+    "ko" : "카스미가오카 우타하 기모노 Ver."
   },
-  "series": {
-    "ko": "시원찮은 그녀를 위한 육성방법",
-    "ja": "冴えない彼女の育てかた Fine",
-    "en": "Saekano: How to Raise a Boring Girlfriend Fine"
-  },
-  "gsc_productNum": 8482,
-  "price": 5800,
-  "release_date": [
+  "num" : "1161",
+  "price" : 5800,
+  "release_date" : [
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190701/8482/61586/large/c65ba4548475413973ab3b1c2cda4c08.jpg",
-  "gender": "F",
-  "set": 147
+  "series" : {
+    "en" : "Saekano: How to Raise a Boring Girlfriend Fine",
+    "ja" : "冴えない彼女の育てかた Fine",
+    "ko" : "시원찮은 그녀를 위한 육성방법"
+  },
+  "set" : 147
 }

@@ -1,19 +1,19 @@
 {
-  "num": "027b",
-  "name": {
-    "ko": "이즈미 코나타 공식 홈페이지 한정 Ver.",
-    "ja": "ねんどろいど 泉 こなた（らき☆すた公式ホームページVer.） (ねんどろいど いずみ こなた（らき☆すたこうしきほーむぺーじVer.）)"
+  "gender" : "F",
+  "gsc_productNum" : 3358,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3358/16280/large/0302b3cb65f1d10e8b2afd2efb6435ff.jpg",
+  "name" : {
+    "ja" : "ねんどろいど 泉 こなた（らき☆すた公式ホームページVer.） (ねんどろいど いずみ こなた（らき☆すたこうしきほーむぺーじVer.）)",
+    "ko" : "이즈미 코나타 공식 홈페이지 한정 Ver."
   },
-  "series": {
-    "ko": "럭키스타",
-    "ja": "TVアニメ らき☆すた"
-  },
-  "gsc_productNum": 3358,
-  "price": 4190,
-  "release_date": [
+  "num" : "027b",
+  "price" : 4190,
+  "release_date" : [
     "2008/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3358/16280/large/0302b3cb65f1d10e8b2afd2efb6435ff.jpg",
-  "gender": "F",
-  "set": 9
+  "series" : {
+    "ja" : "TVアニメ らき☆すた",
+    "ko" : "럭키스타"
+  },
+  "set" : 9
 }

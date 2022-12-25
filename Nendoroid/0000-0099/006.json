@@ -1,19 +1,19 @@
 {
-  "num": "006",
-  "name": {
-    "ko": "오우카쨩 공중장비 완료 Ver.",
-    "ja": "ねんどろいど オウカちゃん空中装備完了Ver. (ねんどろいど おうかちゃんくうちゅうそうびかんりょうVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3353,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3353/16270/large/11549a5d3599f78c9c9c20a19418d50d.jpg",
+  "name" : {
+    "ja" : "ねんどろいど オウカちゃん空中装備完了Ver. (ねんどろいど おうかちゃんくうちゅうそうびかんりょうVer.)",
+    "ko" : "오우카쨩 공중장비 완료 Ver."
   },
-  "series": {
-    "ko": "니트로 플러스",
-    "ja": "ニトロウォーズ"
-  },
-  "gsc_productNum": 3353,
-  "price": 4190,
-  "release_date": [
+  "num" : "006",
+  "price" : 4190,
+  "release_date" : [
     "2007/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3353/16270/large/11549a5d3599f78c9c9c20a19418d50d.jpg",
-  "gender": "F",
-  "set": 3
+  "series" : {
+    "ja" : "ニトロウォーズ",
+    "ko" : "니트로 플러스"
+  },
+  "set" : 3
 }

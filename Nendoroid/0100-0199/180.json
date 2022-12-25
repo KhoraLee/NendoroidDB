@@ -1,20 +1,20 @@
 {
-  "num": "180",
-  "name": {
-    "ko": "푸칫토★ROCK SHOOTER 응원 Ver",
-    "ja": "ねんどろいど ぷちっと★ロックシューター 応援Ver. (ねんどろいど ぷちっと★ろっくしゅーたー おうえんVer.)",
-    "en": "Nendoroid Puchitto Rock Shooter Cheerful Ver. (ねんどろいど ぷちっと★ろっくしゅーたー おうえんVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3190,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110609/3190/14235/large/882f76826793a0588ed289a6da67e14f.jpg",
+  "name" : {
+    "en" : "Nendoroid Puchitto Rock Shooter Cheerful Ver. (ねんどろいど ぷちっと★ろっくしゅーたー おうえんVer.)",
+    "ja" : "ねんどろいど ぷちっと★ロックシューター 応援Ver. (ねんどろいど ぷちっと★ろっくしゅーたー おうえんVer.)",
+    "ko" : "푸칫토★ROCK SHOOTER 응원 Ver"
   },
-  "series": {
-    "ko": "푸칫토★ROCK SHOOTER",
-    "ja": "ぷちっと★ロックシューター",
-    "en": "Puchitto Rock Shooter"
-  },
-  "gsc_productNum": 3190,
-  "price": 3143,
-  "release_date": [
+  "num" : "180",
+  "price" : 3143,
+  "release_date" : [
     "2011/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110609/3190/14235/large/882f76826793a0588ed289a6da67e14f.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Puchitto Rock Shooter",
+    "ja" : "ぷちっと★ロックシューター",
+    "ko" : "푸칫토★ROCK SHOOTER"
+  }
 }

@@ -1,22 +1,22 @@
 {
-  "num": "452",
-  "name": {
-    "ko": "시논",
-    "ja": "ねんどろいど シノン (ねんどろいど しのん)",
-    "en": "Nendoroid Sinon"
+  "gender" : "F",
+  "gsc_productNum" : 4573,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140902/4573/41745/large/33cc073b08f453cc1ba6ee44e14d54ef.jpg",
+  "name" : {
+    "en" : "Nendoroid Sinon",
+    "ja" : "ねんどろいど シノン (ねんどろいど しのん)",
+    "ko" : "시논"
   },
-  "series": {
-    "ko": "소드 아트 온라인",
-    "ja": "ソードアート・オンラインⅡ",
-    "en": "Sword Art Online II"
-  },
-  "gsc_productNum": 4573,
-  "price": 4278,
-  "release_date": [
+  "num" : "452",
+  "price" : 4278,
+  "release_date" : [
     "2014/12",
     "2017/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140902/4573/41745/large/33cc073b08f453cc1ba6ee44e14d54ef.jpg",
-  "gender": "F",
-  "set": 70
+  "series" : {
+    "en" : "Sword Art Online II",
+    "ja" : "ソードアート・オンラインⅡ",
+    "ko" : "소드 아트 온라인"
+  },
+  "set" : 70
 }

@@ -1,21 +1,21 @@
 {
-  "num": "381a",
-  "name": {
-    "ko": "하츠네 미쿠 세라복 Ver.",
-    "ja": "ねんどろいど 初音ミク セーラー服Ver. (ねんどろいど はつねみく せーらーふくVer.)",
-    "en": "Nendoroid Hatsune Miku: Sailor Uniform Ver. (ねんどろいど はつねみく せーらーふくVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 4186,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140115/4186/27630/large/58c7937ce9f6d179caa5c46457f7489c.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Sailor Uniform Ver. (ねんどろいど はつねみく せーらーふくVer.)",
+    "ja" : "ねんどろいど 初音ミク セーラー服Ver. (ねんどろいど はつねみく せーらーふくVer.)",
+    "ko" : "하츠네 미쿠 세라복 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 4186,
-  "price": 0,
-  "release_date": [
+  "num" : "381a",
+  "price" : 0,
+  "release_date" : [
     "2014/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140115/4186/27630/large/58c7937ce9f6d179caa5c46457f7489c.jpg",
-  "gender": "F",
-  "set": 10
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
 }

@@ -1,20 +1,20 @@
 {
-  "num": "321",
-  "name": {
-    "ko": "타무라 유카리",
-    "ja": "ねんどろいど 田村ゆかり (ねんどろいど たむらゆかり)",
-    "en": "Nendoroid Yukari Tamura (ねんどろいど たむらゆかり)"
+  "gender" : "F",
+  "gsc_productNum" : 3916,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130520/3916/23952/large/832224d21c9c184bd2c9fb0879b1b2c0.jpg",
+  "name" : {
+    "en" : "Nendoroid Yukari Tamura (ねんどろいど たむらゆかり)",
+    "ja" : "ねんどろいど 田村ゆかり (ねんどろいど たむらゆかり)",
+    "ko" : "타무라 유카리"
   },
-  "series": {
-    "ko": "실존인물(성우)",
-    "ja": "田村ゆかり",
-    "en": "Yukari Tamura"
-  },
-  "gsc_productNum": 3916,
-  "price": 5133,
-  "release_date": [
+  "num" : "321",
+  "price" : 5133,
+  "release_date" : [
     "2013/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130520/3916/23952/large/832224d21c9c184bd2c9fb0879b1b2c0.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Yukari Tamura",
+    "ja" : "田村ゆかり",
+    "ko" : "실존인물(성우)"
+  }
 }

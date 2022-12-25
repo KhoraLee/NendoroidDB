@@ -1,21 +1,21 @@
 {
-  "num": "1569",
-  "name": {
-    "ko": "사비토",
-    "ja": "ねんどろいど 錆兎 (ねんどろいど さびと)",
-    "en": "Nendoroid Sabito"
+  "gender" : "M",
+  "gsc_productNum" : 10789,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210209/10789/81136/large/99b82e324ddae52232b8f751fcc228e3.jpg",
+  "name" : {
+    "en" : "Nendoroid Sabito",
+    "ja" : "ねんどろいど 錆兎 (ねんどろいど さびと)",
+    "ko" : "사비토"
   },
-  "series": {
-    "ko": "귀멸의 칼날",
-    "ja": "鬼滅の刃",
-    "en": "Demon Slayer: Kimetsu no Yaiba"
-  },
-  "gsc_productNum": 10789,
-  "price": 5500,
-  "release_date": [
+  "num" : "1569",
+  "price" : 5500,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210209/10789/81136/large/99b82e324ddae52232b8f751fcc228e3.jpg",
-  "gender": "M",
-  "set": 222
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "set" : 222
 }

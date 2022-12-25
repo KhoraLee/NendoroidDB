@@ -1,21 +1,21 @@
 {
-  "num": "1265",
-  "name": {
-    "ko": "쑤무청",
-    "ja": "ねんどろいど 蘇沐橙 (ねんどろいど そむーちぇん)",
-    "en": "Nendoroid Su Mucheng"
+  "gender" : "F",
+  "gsc_productNum" : 9134,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191224/9134/66425/large/3e529db8b46ce32f811d6d4758eacaa8.jpg",
+  "name" : {
+    "en" : "Nendoroid Su Mucheng",
+    "ja" : "ねんどろいど 蘇沐橙 (ねんどろいど そむーちぇん)",
+    "ko" : "쑤무청"
   },
-  "series": {
-    "ko": "전직고수",
-    "ja": "マスターオブスキル（全職高手）",
-    "en": "The King\u0027s Avatar"
-  },
-  "gsc_productNum": 9134,
-  "price": 4800,
-  "release_date": [
+  "num" : "1265",
+  "price" : 4800,
+  "release_date" : [
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191224/9134/66425/large/3e529db8b46ce32f811d6d4758eacaa8.jpg",
-  "gender": "F",
-  "set": 184
+  "series" : {
+    "en" : "The King's Avatar",
+    "ja" : "マスターオブスキル（全職高手）",
+    "ko" : "전직고수"
+  },
+  "set" : 184
 }

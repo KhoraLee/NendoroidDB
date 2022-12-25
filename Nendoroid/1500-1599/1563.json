@@ -1,19 +1,19 @@
 {
-  "num": "1563",
-  "name": {
-    "ko": "만두요정",
-    "ja": "ねんどろいど ギョーザ男 (ねんどろいど ぎょーざおとこ)",
-    "en": "Nendoroid Gyoza Fairy"
+  "gsc_productNum" : 10817,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210215/10817/81160/large/ec74426bd566b7abc05a7fe37fa715d1.jpg",
+  "name" : {
+    "en" : "Nendoroid Gyoza Fairy",
+    "ja" : "ねんどろいど ギョーザ男 (ねんどろいど ぎょーざおとこ)",
+    "ko" : "만두요정"
   },
-  "series": {
-    "ko": "도로헤도로",
-    "ja": "ドロヘドロ",
-    "en": "Dorohedoro"
-  },
-  "gsc_productNum": 10817,
-  "price": 5500,
-  "release_date": [
+  "num" : "1563",
+  "price" : 5500,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210215/10817/81160/large/ec74426bd566b7abc05a7fe37fa715d1.jpg"
+  "series" : {
+    "en" : "Dorohedoro",
+    "ja" : "ドロヘドロ",
+    "ko" : "도로헤도로"
+  }
 }

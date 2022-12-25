@@ -1,21 +1,21 @@
 {
-  "num": "1449",
-  "name": {
-    "ko": "오니키리",
-    "ja": "ねんどろいど 鬼切 (ねんどろいど おにきり)",
-    "en": "Nendoroid Onikiri"
+  "gender" : "F",
+  "gsc_productNum" : 10658,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210108/10658/81632/large/40b880563e064b9f46f11d0c215a5c69.jpg",
+  "name" : {
+    "en" : "Nendoroid Onikiri",
+    "ja" : "ねんどろいど 鬼切 (ねんどろいど おにきり)",
+    "ko" : "오니키리"
   },
-  "series": {
-    "ko": "음양사",
-    "ja": "陰陽師",
-    "en": "Onmyoji"
-  },
-  "gsc_productNum": 10658,
-  "price": 5800,
-  "release_date": [
+  "num" : "1449",
+  "price" : 5800,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210108/10658/81632/large/40b880563e064b9f46f11d0c215a5c69.jpg",
-  "gender": "F",
-  "set": 180
+  "series" : {
+    "en" : "Onmyoji",
+    "ja" : "陰陽師",
+    "ko" : "음양사"
+  },
+  "set" : 180
 }

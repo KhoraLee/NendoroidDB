@@ -1,21 +1,21 @@
 {
-  "num": "1828",
-  "name": {
-    "ko": "왓슨",
-    "ja": "ねんどろいど ワットソン (ねんどろいど わっとそん)",
-    "en": "Nendoroid Wattson"
+  "gender" : "F",
+  "gsc_productNum" : 12327,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220214/12327/95252/large/e4b499c02b11afebb2ddc18dc11f142d.jpg",
+  "name" : {
+    "en" : "Nendoroid Wattson",
+    "ja" : "ねんどろいど ワットソン (ねんどろいど わっとそん)",
+    "ko" : "왓슨"
   },
-  "series": {
-    "ko": "Apex 레전드",
-    "ja": "エーペックスレジェンズ",
-    "en": "Apex Legends"
-  },
-  "gsc_productNum": 12327,
-  "price": 6500,
-  "release_date": [
+  "num" : "1828",
+  "price" : 6500,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220214/12327/95252/large/e4b499c02b11afebb2ddc18dc11f142d.jpg",
-  "gender": "F",
-  "set": 240
+  "series" : {
+    "en" : "Apex Legends",
+    "ja" : "エーペックスレジェンズ",
+    "ko" : "Apex 레전드"
+  },
+  "set" : 240
 }

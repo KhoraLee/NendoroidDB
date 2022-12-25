@@ -1,20 +1,20 @@
 {
-  "num": "1504",
-  "name": {
-    "ko": "테레사 테스타롯사",
-    "ja": "ねんどろいど テレサ・テスタロッサ (ねんどろいど てれさ・てすたろっさ)",
-    "en": "Nendoroid Teletha Testarossa"
+  "gender" : "F",
+  "gsc_productNum" : 10303,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201026/10303/76385/large/be7129234c55031f9ac62b3edf9f2fa9.jpg",
+  "name" : {
+    "en" : "Nendoroid Teletha Testarossa",
+    "ja" : "ねんどろいど テレサ・テスタロッサ (ねんどろいど てれさ・てすたろっさ)",
+    "ko" : "테레사 테스타롯사"
   },
-  "series": {
-    "ko": "풀 메탈 패닉!",
-    "ja": "フルメタル・パニック！ Invisible Victory",
-    "en": "Full Metal Panic! Invisible Victory"
-  },
-  "gsc_productNum": 10303,
-  "price": 5800,
-  "release_date": [
+  "num" : "1504",
+  "price" : 5800,
+  "release_date" : [
     "2021/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201026/10303/76385/large/be7129234c55031f9ac62b3edf9f2fa9.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Full Metal Panic! Invisible Victory",
+    "ja" : "フルメタル・パニック！ Invisible Victory",
+    "ko" : "풀 메탈 패닉!"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1891",
-  "name": {
-    "ko": "미야노 요시카즈",
-    "ja": "ねんどろいど 宮野由美 (ねんどろいど みやのよしかず)",
-    "en": "Nendoroid Yoshikazu Miyano"
+  "gender" : "M",
+  "gsc_productNum" : 12780,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220606/12780/99529/large/8d51fd07deefccc7fe62b3fdcd2e4265.jpg",
+  "name" : {
+    "en" : "Nendoroid Yoshikazu Miyano",
+    "ja" : "ねんどろいど 宮野由美 (ねんどろいど みやのよしかず)",
+    "ko" : "미야노 요시카즈"
   },
-  "series": {
-    "ko": "사사키와 미야노",
-    "ja": "佐々木と宮野",
-    "en": "Sasaki and Miyano"
-  },
-  "gsc_productNum": 12780,
-  "price": 5900,
-  "release_date": [
+  "num" : "1891",
+  "price" : 5900,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220606/12780/99529/large/8d51fd07deefccc7fe62b3fdcd2e4265.jpg",
-  "gender": "M",
-  "set": 289
+  "series" : {
+    "en" : "Sasaki and Miyano",
+    "ja" : "佐々木と宮野",
+    "ko" : "사사키와 미야노"
+  },
+  "set" : 289
 }

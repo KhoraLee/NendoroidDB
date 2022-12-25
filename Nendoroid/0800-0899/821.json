@@ -1,22 +1,22 @@
 {
-  "num": "821",
-  "name": {
-    "ko": "핫토리 헤이지",
-    "ja": "ねんどろいど 服部平次 (ねんどろいど はっとりへいじ)",
-    "en": "Nendoroid Heiji Hattori"
+  "gender" : "M",
+  "gsc_productNum" : 6705,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170904/6705/47399/large/4326ceea3230faa72f6e4ec975b474e6.jpg",
+  "name" : {
+    "en" : "Nendoroid Heiji Hattori",
+    "ja" : "ねんどろいど 服部平次 (ねんどろいど はっとりへいじ)",
+    "ko" : "핫토리 헤이지"
   },
-  "series": {
-    "ko": "명탐정 코난",
-    "ja": "名探偵コナン",
-    "en": "Detective Conan"
-  },
-  "gsc_productNum": 6705,
-  "price": 4685,
-  "release_date": [
+  "num" : "821",
+  "price" : 4685,
+  "release_date" : [
     "2018/05",
     "2018/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170904/6705/47399/large/4326ceea3230faa72f6e4ec975b474e6.jpg",
-  "gender": "M",
-  "set": 161
+  "series" : {
+    "en" : "Detective Conan",
+    "ja" : "名探偵コナン",
+    "ko" : "명탐정 코난"
+  },
+  "set" : 161
 }

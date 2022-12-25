@@ -1,19 +1,19 @@
 {
-  "num": "169b",
-  "name": {
-    "ko": "니크스 2P 컬러 Ver.",
-    "ja": "ねんどろいど ニクス２ＰカラーVer. (ねんどろいど にくす 2PからーVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3417,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111212/3417/16560/large/c1c763b96b8214be67f2cda5d9109993.jpg",
+  "name" : {
+    "ja" : "ねんどろいど ニクス２ＰカラーVer. (ねんどろいど にくす 2PからーVer.)",
+    "ko" : "니크스 2P 컬러 Ver."
   },
-  "series": {
-    "ko": "퀸즈 블레이드",
-    "ja": "クイーンズブレイド"
-  },
-  "gsc_productNum": 3417,
-  "price": 3667,
-  "release_date": [
+  "num" : "169b",
+  "price" : 3667,
+  "release_date" : [
     "2011/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111212/3417/16560/large/c1c763b96b8214be67f2cda5d9109993.jpg",
-  "gender": "F",
-  "set": 35
+  "series" : {
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1154",
-  "name": {
-    "ko": "캡틴 마블 히어로 에디션",
-    "ja": "ねんどろいど キャプテン・マーベル ヒーローズ・エディション スタンダードVer. (ねんどろいど きゃぷてん・まーべる ひーろーず・えでぃしょん すたんだーどVer.)",
-    "en": "Nendoroid Captain Marvel: Hero\u0027s Edition Standard Ver."
+  "gender" : "F",
+  "gsc_productNum" : 8447,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190620/8447/61190/large/f13fb94cac126ce8f2cd2b7a37a8256c.jpg",
+  "name" : {
+    "en" : "Nendoroid Captain Marvel: Hero's Edition Standard Ver.",
+    "ja" : "ねんどろいど キャプテン・マーベル ヒーローズ・エディション スタンダードVer. (ねんどろいど きゃぷてん・まーべる ひーろーず・えでぃしょん すたんだーどVer.)",
+    "ko" : "캡틴 마블 히어로 에디션"
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "キャプテン・マーベル",
-    "en": "Captain Marvel"
-  },
-  "gsc_productNum": 8447,
-  "price": 5000,
-  "release_date": [
+  "num" : "1154",
+  "price" : 5000,
+  "release_date" : [
     "2019/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190620/8447/61190/large/f13fb94cac126ce8f2cd2b7a37a8256c.jpg",
-  "gender": "F",
-  "set": 63
+  "series" : {
+    "en" : "Captain Marvel",
+    "ja" : "キャプテン・マーベル",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

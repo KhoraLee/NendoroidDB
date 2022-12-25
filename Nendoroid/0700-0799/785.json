@@ -1,21 +1,21 @@
 {
-  "num": "785",
-  "name": {
-    "ko": "하츠네 미쿠 매지컬 미라이 5th Anniversary Ver.",
-    "ja": "ねんどろいど 初音ミク マジカルミライ 5th Anniversary Ver. (ねんどろいど はつねみく まじかるみらい 5th あにばーさりー Ver.)",
-    "en": "Nendoroid Hatsune Miku: Magical Mirai 5th Anniversary Ver."
+  "gender" : "F",
+  "gsc_productNum" : 6620,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170801/6620/46836/large/a4b2178a8af7d9a5292f17165d3279ee.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Magical Mirai 5th Anniversary Ver.",
+    "ja" : "ねんどろいど 初音ミク マジカルミライ 5th Anniversary Ver. (ねんどろいど はつねみく まじかるみらい 5th あにばーさりー Ver.)",
+    "ko" : "하츠네 미쿠 매지컬 미라이 5th Anniversary Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 6620,
-  "price": 5093,
-  "release_date": [
+  "num" : "785",
+  "price" : 5093,
+  "release_date" : [
     "2018/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170801/6620/46836/large/a4b2178a8af7d9a5292f17165d3279ee.jpg",
-  "gender": "F",
-  "set": 141
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 141
 }

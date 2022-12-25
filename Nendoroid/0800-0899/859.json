@@ -1,22 +1,22 @@
 {
-  "num": "859",
-  "name": {
-    "ko": "롯테 얀손",
-    "ja": "ねんどろいど ロッテ・ヤンソン (ねんどろいど ろって・やんそん)",
-    "en": "Nendoroid Lotte Jansson"
+  "gender" : "F",
+  "gsc_productNum" : 6915,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171201/6915/49047/large/469e14cb2f4c8ab7101f2c21b92f60dc.jpg",
+  "name" : {
+    "en" : "Nendoroid Lotte Jansson",
+    "ja" : "ねんどろいど ロッテ・ヤンソン (ねんどろいど ろって・やんそん)",
+    "ko" : "롯테 얀손"
   },
-  "series": {
-    "ko": "리틀 위치 아카데미아",
-    "ja": "リトルウィッチアカデミア",
-    "en": "Little Witch Academia"
-  },
-  "gsc_productNum": 6915,
-  "price": 4584,
-  "release_date": [
+  "num" : "859",
+  "price" : 4584,
+  "release_date" : [
     "2018/07",
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171201/6915/49047/large/469e14cb2f4c8ab7101f2c21b92f60dc.jpg",
-  "gender": "F",
-  "set": 154
+  "series" : {
+    "en" : "Little Witch Academia",
+    "ja" : "リトルウィッチアカデミア",
+    "ko" : "리틀 위치 아카데미아"
+  },
+  "set" : 154
 }

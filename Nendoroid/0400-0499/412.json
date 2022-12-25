@@ -1,22 +1,22 @@
 {
-  "num": "412",
-  "name": {
-    "ko": "아키야마 유카리",
-    "ja": "ねんどろいど 秋山優花里 (ねんどろいど あきやまゆかり)",
-    "en": "Nendoroid Yukari Akiyama"
+  "gender" : "F",
+  "gsc_productNum" : 4356,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140403/4356/28452/large/3ad64ffffef8baf23b21055934aececd.jpg",
+  "name" : {
+    "en" : "Nendoroid Yukari Akiyama",
+    "ja" : "ねんどろいど 秋山優花里 (ねんどろいど あきやまゆかり)",
+    "ko" : "아키야마 유카리"
   },
-  "series": {
-    "ko": "걸즈 앤 판처",
-    "ja": "ガールズ＆パンツァー",
-    "en": "GIRLS und PANZER"
-  },
-  "gsc_productNum": 4356,
-  "price": 4888,
-  "release_date": [
+  "num" : "412",
+  "price" : 4888,
+  "release_date" : [
     "2014/08",
     "2017/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140403/4356/28452/large/3ad64ffffef8baf23b21055934aececd.jpg",
-  "gender": "F",
-  "set": 78
+  "series" : {
+    "en" : "GIRLS und PANZER",
+    "ja" : "ガールズ＆パンツァー",
+    "ko" : "걸즈 앤 판처"
+  },
+  "set" : 78
 }

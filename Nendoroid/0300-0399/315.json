@@ -1,21 +1,21 @@
 {
-  "num": "315",
-  "name": {
-    "ko": "CHARIOT",
-    "ja": "ねんどろいど チャリオット with 戦車（メアリー）セット TV ANIMATION Ver. (ねんどろいど ちゃりおっと うぃず せんしゃ（めありー）せっと てれび あにめーしょん Ver.)",
-    "en": "Nendoroid Chariot with Tank(Mary) Set: TV ANIMATION Ver. (ねんどろいど ちゃりおっと うぃず せんしゃ（めありー）せっと てれび あにめーしょん Ver.)"
+  "gender" : "F",
+  "gsc_productNum" : 3854,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130304/3854/22879/large/32e0483048ae230cc284672732fa9db6.jpg",
+  "name" : {
+    "en" : "Nendoroid Chariot with Tank(Mary) Set: TV ANIMATION Ver. (ねんどろいど ちゃりおっと うぃず せんしゃ（めありー）せっと てれび あにめーしょん Ver.)",
+    "ja" : "ねんどろいど チャリオット with 戦車（メアリー）セット TV ANIMATION Ver. (ねんどろいど ちゃりおっと うぃず せんしゃ（めありー）せっと てれび あにめーしょん Ver.)",
+    "ko" : "CHARIOT"
   },
-  "series": {
-    "ko": "BLACK★ROCK SHOOTER",
-    "ja": "TV ANIMATION BLACK ROCK SHOOTER",
-    "en": "TV ANIMATION BLACK ROCK SHOOTER"
-  },
-  "gsc_productNum": 3854,
-  "price": 6286,
-  "release_date": [
+  "num" : "315",
+  "price" : 6286,
+  "release_date" : [
     "2013/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130304/3854/22879/large/32e0483048ae230cc284672732fa9db6.jpg",
-  "gender": "F",
-  "set": 33
+  "series" : {
+    "en" : "TV ANIMATION BLACK ROCK SHOOTER",
+    "ja" : "TV ANIMATION BLACK ROCK SHOOTER",
+    "ko" : "BLACK★ROCK SHOOTER"
+  },
+  "set" : 33
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1005",
-  "name": {
-    "ko": "시로타니 타다오미",
-    "ja": "ねんどろいど 城谷忠臣 (ねんどろいど しろたにただおみ)",
-    "en": "Nendoroid Shirotani Tadaomi"
+  "gender" : "M",
+  "gsc_productNum" : 7746,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181026/7746/55528/large/2cf42e34ed75ecc4bdaf6f04f0b4af6b.jpg",
+  "name" : {
+    "en" : "Nendoroid Shirotani Tadaomi",
+    "ja" : "ねんどろいど 城谷忠臣 (ねんどろいど しろたにただおみ)",
+    "ko" : "시로타니 타다오미"
   },
-  "series": {
-    "ko": "텐카운트",
-    "ja": "テンカウント",
-    "en": "TEN COUNT"
-  },
-  "gsc_productNum": 7746,
-  "price": 4888,
-  "release_date": [
+  "num" : "1005",
+  "price" : 4888,
+  "release_date" : [
     "2019/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181026/7746/55528/large/2cf42e34ed75ecc4bdaf6f04f0b4af6b.jpg",
-  "gender": "M",
-  "set": 195
+  "series" : {
+    "en" : "TEN COUNT",
+    "ja" : "テンカウント",
+    "ko" : "텐카운트"
+  },
+  "set" : 195
 }

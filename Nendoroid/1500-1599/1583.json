@@ -1,21 +1,21 @@
 {
-  "num": "1583",
-  "name": {
-    "ko": "코시가야 코마리",
-    "ja": "ねんどろいど 越谷小鞠 (ねんどろいど こしがやこまり)",
-    "en": "Nendoroid Komari Koshigaya"
+  "gender" : "F",
+  "gsc_productNum" : 10894,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210303/10894/81850/large/8b5829173f83d5fd0fa9bc71d6d7626e.jpg",
+  "name" : {
+    "en" : "Nendoroid Komari Koshigaya",
+    "ja" : "ねんどろいど 越谷小鞠 (ねんどろいど こしがやこまり)",
+    "ko" : "코시가야 코마리"
   },
-  "series": {
-    "ko": "논논비요리",
-    "ja": "のんのんびより のんすとっぷ",
-    "en": "Non Non Biyori Nonstop"
-  },
-  "gsc_productNum": 10894,
-  "price": 5000,
-  "release_date": [
+  "num" : "1583",
+  "price" : 5000,
+  "release_date" : [
     "2021/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210303/10894/81850/large/8b5829173f83d5fd0fa9bc71d6d7626e.jpg",
-  "gender": "F",
-  "set": 106
+  "series" : {
+    "en" : "Non Non Biyori Nonstop",
+    "ja" : "のんのんびより のんすとっぷ",
+    "ko" : "논논비요리"
+  },
+  "set" : 106
 }

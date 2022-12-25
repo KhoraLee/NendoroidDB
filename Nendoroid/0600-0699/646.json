@@ -1,21 +1,21 @@
 {
-  "num": "646",
-  "name": {
-    "ko": "코라",
-    "ja": "ねんどろいど コーラ (ねんどろいど こーら)",
-    "en": "Nendoroid Korra"
+  "gender" : "F",
+  "gsc_productNum" : 5767,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160627/5767/39779/large/65c357d72d53ec5d77a08aace147383f.jpg",
+  "name" : {
+    "en" : "Nendoroid Korra",
+    "ja" : "ねんどろいど コーラ (ねんどろいど こーら)",
+    "ko" : "코라"
   },
-  "series": {
-    "ko": "코라의 전설",
-    "ja": "ザ・レジェンド・オブ・コーラ",
-    "en": "The Legend of Korra"
-  },
-  "gsc_productNum": 5767,
-  "price": 6100,
-  "release_date": [
+  "num" : "646",
+  "price" : 6100,
+  "release_date" : [
     "2016/12",
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160627/5767/39779/large/65c357d72d53ec5d77a08aace147383f.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "The Legend of Korra",
+    "ja" : "ザ・レジェンド・オブ・コーラ",
+    "ko" : "코라의 전설"
+  }
 }

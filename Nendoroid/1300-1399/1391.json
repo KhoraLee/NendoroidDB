@@ -1,21 +1,21 @@
 {
-  "num": "1391",
-  "name": {
-    "ja": "ねんどろいど ホセ・キャリオカ (ねんどろいど ほせ・きゃりおか)",
-    "en": "Nendoroid José Carioca",
-    "ko": "조제 카리오카"
+  "gender" : "M",
+  "gsc_productNum" : 13441,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221024/13441/106281/large/697dcca6249b3a52fe3f67868d2771b3.jpg",
+  "name" : {
+    "en" : "Nendoroid José Carioca",
+    "ja" : "ねんどろいど ホセ・キャリオカ (ねんどろいど ほせ・きゃりおか)",
+    "ko" : "조제 카리오카"
   },
-  "series": {
-    "ja": "三人の騎士",
-    "en": "The Three Caballeros",
-    "ko": "디즈니"
-  },
-  "gsc_productNum": 13441,
-  "price": 8800,
-  "release_date": [
+  "num" : "1391",
+  "price" : 8800,
+  "release_date" : [
     "2023/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221024/13441/106281/large/697dcca6249b3a52fe3f67868d2771b3.jpg",
-  "gender": "M",
-  "set": 32
+  "series" : {
+    "en" : "The Three Caballeros",
+    "ja" : "三人の騎士",
+    "ko" : "디즈니"
+  },
+  "set" : 32
 }

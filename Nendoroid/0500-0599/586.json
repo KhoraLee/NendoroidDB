@@ -1,21 +1,21 @@
 {
-  "num": "586",
-  "name": {
-    "ko": "요시카와 치나츠",
-    "ja": "ねんどろいど 吉川ちなつ(限定版Blu-ray『ゆるゆり さん☆ハイ！6』同梱) (ねんどろいど よしかわちなつ(げんていばんぶるーれい『ゆるゆり さん☆はい！6』どうこん))",
-    "en": "Nendoroid Chinatsu Yoshikawa (Included with the Limited Edition Yuru Yuri San Hai! 6th Volume Blu-ray)"
+  "gender" : "F",
+  "gsc_productNum" : 5352,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151118/5352/36509/large/54379fa960d22bc69437cd4994823f2d.jpg",
+  "name" : {
+    "en" : "Nendoroid Chinatsu Yoshikawa (Included with the Limited Edition Yuru Yuri San Hai! 6th Volume Blu-ray)",
+    "ja" : "ねんどろいど 吉川ちなつ(限定版Blu-ray『ゆるゆり さん☆ハイ！6』同梱) (ねんどろいど よしかわちなつ(げんていばんぶるーれい『ゆるゆり さん☆はい！6』どうこん))",
+    "ko" : "요시카와 치나츠"
   },
-  "series": {
-    "ko": "유루유리",
-    "ja": "ゆるゆり さん☆ハイ！",
-    "en": "YuruYuri San Hai!"
-  },
-  "gsc_productNum": 5352,
-  "price": 11000,
-  "release_date": [
+  "num" : "586",
+  "price" : 11000,
+  "release_date" : [
     "2016/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151118/5352/36509/large/54379fa960d22bc69437cd4994823f2d.jpg",
-  "gender": "F",
-  "set": 66
+  "series" : {
+    "en" : "YuruYuri San Hai!",
+    "ja" : "ゆるゆり さん☆ハイ！",
+    "ko" : "유루유리"
+  },
+  "set" : 66
 }

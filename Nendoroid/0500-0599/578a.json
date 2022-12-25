@@ -1,21 +1,21 @@
 {
-  "num": "578a",
-  "name": {
-    "ko": "니퍼코",
-    "ja": "ねんどろいど ニパ子 (ねんどろいど にぱこ)",
-    "en": "Nendoroid Nipako"
+  "gender" : "F",
+  "gsc_productNum" : 5311,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151105/5311/36207/large/354d2596d12521df908adc6fb40b8c42.jpg",
+  "name" : {
+    "en" : "Nendoroid Nipako",
+    "ja" : "ねんどろいど ニパ子 (ねんどろいど にぱこ)",
+    "ko" : "니퍼코"
   },
-  "series": {
-    "ko": "얼티메이트! 니퍼코 짱",
-    "ja": "あるてぃめっと！ニパ子ちゃん",
-    "en": "Ultimate! Nipako-chan"
-  },
-  "gsc_productNum": 5311,
-  "price": 4620,
-  "release_date": [
+  "num" : "578a",
+  "price" : 4620,
+  "release_date" : [
     "2016/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151105/5311/36207/large/354d2596d12521df908adc6fb40b8c42.jpg",
-  "gender": "F",
-  "set": 127
+  "series" : {
+    "en" : "Ultimate! Nipako-chan",
+    "ja" : "あるてぃめっと！ニパ子ちゃん",
+    "ko" : "얼티메이트! 니퍼코 짱"
+  },
+  "set" : 127
 }

@@ -1,21 +1,21 @@
 {
-  "num": "246",
-  "name": {
-    "ko": "블랙★록 슈터 TV ANIMATION Ver.",
-    "ja": "ねんどろいど ブラック★ロックシューター TV ANIMATION Ver. (ねんどろいど ぶらっく★ろっくしゅーたー TV ANIMATION Ver.)",
-    "en": "Nendoroid Black Rock Shooter : TV ANIMATION Ver. (ねんどろいど ぶらっく★ろっくしゅーたー TV ANIMATION Ver.)"
+  "gender" : "F",
+  "gsc_productNum" : 3538,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120426/3538/18253/large/cb289634a0192e7b40596a8920131097.jpg",
+  "name" : {
+    "en" : "Nendoroid Black Rock Shooter : TV ANIMATION Ver. (ねんどろいど ぶらっく★ろっくしゅーたー TV ANIMATION Ver.)",
+    "ja" : "ねんどろいど ブラック★ロックシューター TV ANIMATION Ver. (ねんどろいど ぶらっく★ろっくしゅーたー TV ANIMATION Ver.)",
+    "ko" : "블랙★록 슈터 TV ANIMATION Ver."
   },
-  "series": {
-    "ko": "BLACK★ROCK SHOOTER",
-    "ja": "TV ANIMATION BLACK ROCK SHOOTER",
-    "en": "TV ANIMATION BLACK ROCK SHOOTER"
-  },
-  "gsc_productNum": 3538,
-  "price": 3667,
-  "release_date": [
+  "num" : "246",
+  "price" : 3667,
+  "release_date" : [
     "2012/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120426/3538/18253/large/cb289634a0192e7b40596a8920131097.jpg",
-  "gender": "F",
-  "set": 33
+  "series" : {
+    "en" : "TV ANIMATION BLACK ROCK SHOOTER",
+    "ja" : "TV ANIMATION BLACK ROCK SHOOTER",
+    "ko" : "BLACK★ROCK SHOOTER"
+  },
+  "set" : 33
 }

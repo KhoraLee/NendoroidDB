@@ -1,21 +1,21 @@
 {
-  "num": "1012",
-  "name": {
-    "ko": "노쟈로리 아저씨",
-    "ja": "ねんどろいど のじゃロリおじさん (ねんどろいど のじゃろりおじさん)",
-    "en": "Nendoroid Noja Loli Ojisan"
+  "gender" : "F",
+  "gsc_productNum" : 7675,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181010/7675/55074/large/f22b4d5fcbd44ad8080564e1bc966e68.jpg",
+  "name" : {
+    "en" : "Nendoroid Noja Loli Ojisan",
+    "ja" : "ねんどろいど のじゃロリおじさん (ねんどろいど のじゃろりおじさん)",
+    "ko" : "노쟈로리 아저씨"
   },
-  "series": {
-    "ko": "버츄얼 유튜버",
-    "ja": "けもみみおーこく国営放送",
-    "en": "Kemomimi Oukoku Kokuei Housou"
-  },
-  "gsc_productNum": 7675,
-  "price": 4584,
-  "release_date": [
+  "num" : "1012",
+  "price" : 4584,
+  "release_date" : [
     "2019/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181010/7675/55074/large/f22b4d5fcbd44ad8080564e1bc966e68.jpg",
-  "gender": "F",
-  "set": 169
+  "series" : {
+    "en" : "Kemomimi Oukoku Kokuei Housou",
+    "ja" : "けもみみおーこく国営放送",
+    "ko" : "버츄얼 유튜버"
+  },
+  "set" : 169
 }

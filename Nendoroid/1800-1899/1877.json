@@ -1,21 +1,21 @@
 {
-  "num": "1877",
-  "name": {
-    "ko": "아마노 마야",
-    "ja": "ねんどろいど 天野舞耶 (ねんどろいど あまのまや)",
-    "en": "Nendoroid Maya Amano"
+  "gender" : "F",
+  "gsc_productNum" : 12680,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220510/12680/98618/large/5a07e6bddeca36bd19beac26794b98ba.jpg",
+  "name" : {
+    "en" : "Nendoroid Maya Amano",
+    "ja" : "ねんどろいど 天野舞耶 (ねんどろいど あまのまや)",
+    "ko" : "아마노 마야"
   },
-  "series": {
-    "ko": "페르소나2",
-    "ja": "ペルソナ2 罰",
-    "en": "PERSONA2 Eternal Punishment."
-  },
-  "gsc_productNum": 12680,
-  "price": 6200,
-  "release_date": [
+  "num" : "1877",
+  "price" : 6200,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220510/12680/98618/large/5a07e6bddeca36bd19beac26794b98ba.jpg",
-  "gender": "F",
-  "set": 57
+  "series" : {
+    "en" : "PERSONA2 Eternal Punishment.",
+    "ja" : "ペルソナ2 罰",
+    "ko" : "페르소나2"
+  },
+  "set" : 57
 }

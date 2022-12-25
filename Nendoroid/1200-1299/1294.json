@@ -1,21 +1,21 @@
 {
-  "num": "1294",
-  "name": {
-    "ko": "라인하르트",
-    "ja": "ねんどろいど ラインハルト クラシックスキン・エディション (ねんどろいど らいんはると くらしっくすきん・えでぃしょん)",
-    "en": "Nendoroid Reinhardt: Classic Skin Edition"
+  "gender" : "M",
+  "gsc_productNum" : 9284,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200218/9284/67763/large/73d9b9418d64178c23ff2dbde6903fea.jpg",
+  "name" : {
+    "en" : "Nendoroid Reinhardt: Classic Skin Edition",
+    "ja" : "ねんどろいど ラインハルト クラシックスキン・エディション (ねんどろいど らいんはると くらしっくすきん・えでぃしょん)",
+    "ko" : "라인하르트"
   },
-  "series": {
-    "ko": "오버워치",
-    "ja": "オーバーウォッチ",
-    "en": "Overwatch"
-  },
-  "gsc_productNum": 9284,
-  "price": 6800,
-  "release_date": [
+  "num" : "1294",
+  "price" : 6800,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200218/9284/67763/large/73d9b9418d64178c23ff2dbde6903fea.jpg",
-  "gender": "M",
-  "set": 150
+  "series" : {
+    "en" : "Overwatch",
+    "ja" : "オーバーウォッチ",
+    "ko" : "오버워치"
+  },
+  "set" : 150
 }

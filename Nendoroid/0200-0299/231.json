@@ -1,20 +1,20 @@
 {
-  "num": "231",
-  "name": {
-    "ko": "언니",
-    "ja": "ねんどろいど 姉さん Blu-ray Discセット/DVDセット (ねんどろいど ねえさん Blu-ray Discせっと／DVDせっと)",
-    "en": "Nendoroid Nee-san: Blu-ray Set/DVD Set (ねんどろいど ねえさん Blu-ray Discせっと／DVDせっと)"
+  "gender" : "F",
+  "gsc_productNum" : 3467,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120216/3467/17354/large/1c6a19c4b0494ff6f4f1ad1df5ad6d00.jpg",
+  "name" : {
+    "en" : "Nendoroid Nee-san: Blu-ray Set/DVD Set (ねんどろいど ねえさん Blu-ray Discせっと／DVDせっと)",
+    "ja" : "ねんどろいど 姉さん Blu-ray Discセット/DVDセット (ねんどろいど ねえさん Blu-ray Discせっと／DVDせっと)",
+    "ko" : "언니"
   },
-  "series": {
-    "ko": " +틱 언니 ",
-    "ja": "+チック姉さん（ぷらすちっくねえさん）",
-    "en": "+TIC ELDER SISTER"
-  },
-  "gsc_productNum": 3467,
-  "price": 0,
-  "release_date": [
+  "num" : "231",
+  "price" : 0,
+  "release_date" : [
     "2012/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120216/3467/17354/large/1c6a19c4b0494ff6f4f1ad1df5ad6d00.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "+TIC ELDER SISTER",
+    "ja" : "+チック姉さん（ぷらすちっくねえさん）",
+    "ko" : " +틱 언니 "
+  }
 }

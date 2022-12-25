@@ -1,20 +1,20 @@
 {
-  "num": "576",
-  "name": {
-    "ko": "냐땅",
-    "ja": "ねんどろいど にゃ～たん (ねんどろいど にゃ～たん)",
-    "en": "Nendoroid Nya-tan"
+  "gender" : "F",
+  "gsc_productNum" : 5304,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151030/5304/36164/large/a9afd74b3c3b713a9f5a2bc7d6478331.jpg",
+  "name" : {
+    "en" : "Nendoroid Nya-tan",
+    "ja" : "ねんどろいど にゃ～たん (ねんどろいど にゃ～たん)",
+    "ko" : "냐땅"
   },
-  "series": {
-    "ko": "에토타마",
-    "ja": "えとたま",
-    "en": "Etotama"
-  },
-  "gsc_productNum": 5304,
-  "price": 4278,
-  "release_date": [
+  "num" : "576",
+  "price" : 4278,
+  "release_date" : [
     "2016/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151030/5304/36164/large/a9afd74b3c3b713a9f5a2bc7d6478331.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Etotama",
+    "ja" : "えとたま",
+    "ko" : "에토타마"
+  }
 }

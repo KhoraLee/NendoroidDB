@@ -1,21 +1,21 @@
 {
-  "num": "793",
-  "name": {
-    "ko": "모르가나",
-    "ja": "ねんどろいど モルガナ (ねんどろいど もるがな)",
-    "en": "Nendoroid Morgana"
+  "gsc_productNum" : 6575,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170706/6575/46408/large/d7bbd4ce4558b6ee6d3d42796c39f313.jpg",
+  "name" : {
+    "en" : "Nendoroid Morgana",
+    "ja" : "ねんどろいど モルガナ (ねんどろいど もるがな)",
+    "ko" : "모르가나"
   },
-  "series": {
-    "ko": "페르소나5",
-    "ja": "ペルソナ５",
-    "en": "Persona5"
-  },
-  "gsc_productNum": 6575,
-  "price": 4584,
-  "release_date": [
+  "num" : "793",
+  "price" : 4584,
+  "release_date" : [
     "2017/12",
     "2019/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170706/6575/46408/large/d7bbd4ce4558b6ee6d3d42796c39f313.jpg",
-  "set": 57
+  "series" : {
+    "en" : "Persona5",
+    "ja" : "ペルソナ５",
+    "ko" : "페르소나5"
+  },
+  "set" : 57
 }

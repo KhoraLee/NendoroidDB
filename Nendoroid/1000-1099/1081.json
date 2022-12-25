@@ -1,21 +1,21 @@
 {
-  "num": "1081",
-  "name": {
-    "ko": "사이타마 OPPAI 파카 Ver.",
-    "ja": "ねんどろいど サイタマ OPPAI パーカーVer. (ねんどろいど さいたま おっぱい ぱーかーVer.)",
-    "en": "Nendoroid Saitama: OPPAI Hoodie Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8381,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190529/8381/60573/large/8271dadf7cd7f8b0e44126736ae30411.jpg",
+  "name" : {
+    "en" : "Nendoroid Saitama: OPPAI Hoodie Ver.",
+    "ja" : "ねんどろいど サイタマ OPPAI パーカーVer. (ねんどろいど さいたま おっぱい ぱーかーVer.)",
+    "ko" : "사이타마 OPPAI 파카 Ver."
   },
-  "series": {
-    "ko": "원펀맨",
-    "ja": "ワンパンマン",
-    "en": "ONE-PUNCH MAN"
-  },
-  "gsc_productNum": 8381,
-  "price": 4074,
-  "release_date": [
+  "num" : "1081",
+  "price" : 4074,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190529/8381/60573/large/8271dadf7cd7f8b0e44126736ae30411.jpg",
-  "gender": "M",
-  "set": 126
+  "series" : {
+    "en" : "ONE-PUNCH MAN",
+    "ja" : "ワンパンマン",
+    "ko" : "원펀맨"
+  },
+  "set" : 126
 }

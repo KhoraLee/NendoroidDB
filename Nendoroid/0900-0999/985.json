@@ -1,22 +1,22 @@
 {
-  "num": "985",
-  "name": {
-    "ko": "쿠죠 죠타로",
-    "ja": "ねんどろいど 空条承太郎 (ねんどろいど くうじょうじょうたろう)",
-    "en": "Nendoroid Jotaro Kujo"
+  "gender" : "M",
+  "gsc_productNum" : 7539,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180821/7539/53927/large/372a2a133303f42716652afab59b7c15.jpg",
+  "name" : {
+    "en" : "Nendoroid Jotaro Kujo",
+    "ja" : "ねんどろいど 空条承太郎 (ねんどろいど くうじょうじょうたろう)",
+    "ko" : "쿠죠 죠타로"
   },
-  "series": {
-    "ko": "죠죠의 기묘한 모험",
-    "ja": "TVアニメ『ジョジョの奇妙な冒険 スターダストクルセイダース』",
-    "en": "JoJo\u0027s Bizarre Adventure: Stardust Crusaders"
-  },
-  "gsc_productNum": 7539,
-  "price": 5478,
-  "release_date": [
+  "num" : "985",
+  "price" : 5478,
+  "release_date" : [
     "2019/01",
     "2021/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180821/7539/53927/large/372a2a133303f42716652afab59b7c15.jpg",
-  "gender": "M",
-  "set": 191
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "ja" : "TVアニメ『ジョジョの奇妙な冒険 スターダストクルセイダース』",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 191
 }

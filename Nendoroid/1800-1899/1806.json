@@ -1,21 +1,21 @@
 {
-  "num": "1806",
-  "name": {
-    "ko": "뷔",
-    "ja": "ねんどろいど V",
-    "en": "Nendoroid V"
+  "gender" : "M",
+  "gsc_productNum" : 12187,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211227/12187/93866/large/54f9ca6203f6bf50a19b98ef30f4500f.jpg",
+  "name" : {
+    "en" : "Nendoroid V",
+    "ja" : "ねんどろいど V",
+    "ko" : "뷔"
   },
-  "series": {
-    "ko": "방탄소년단",
-    "ja": "TinyTAN",
-    "en": "TinyTAN"
-  },
-  "gsc_productNum": 12187,
-  "price": 5000,
-  "release_date": [
+  "num" : "1806",
+  "price" : 5000,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211227/12187/93866/large/54f9ca6203f6bf50a19b98ef30f4500f.jpg",
-  "gender": "M",
-  "set": 282
+  "series" : {
+    "en" : "TinyTAN",
+    "ja" : "TinyTAN",
+    "ko" : "방탄소년단"
+  },
+  "set" : 282
 }

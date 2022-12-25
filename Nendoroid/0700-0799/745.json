@@ -1,21 +1,21 @@
 {
-  "num": "745",
-  "name": {
-    "ko": "호리카와 쿠니히로",
-    "ja": "ねんどろいど 堀川国広 (ねんどろいど ほりかわくにひろ)",
-    "en": "Nendoroid Horikawa Kunihiro"
+  "gender" : "M",
+  "gsc_productNum" : 6295,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170224/6295/44154/large/eacf671eeba3e1a62441bbb18895e8b8.jpg",
+  "name" : {
+    "en" : "Nendoroid Horikawa Kunihiro",
+    "ja" : "ねんどろいど 堀川国広 (ねんどろいど ほりかわくにひろ)",
+    "ko" : "호리카와 쿠니히로"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 6295,
-  "price": 4584,
-  "release_date": [
+  "num" : "745",
+  "price" : 4584,
+  "release_date" : [
     "2017/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170224/6295/44154/large/eacf671eeba3e1a62441bbb18895e8b8.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

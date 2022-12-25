@@ -1,21 +1,21 @@
 {
-  "num": "1774",
-  "name": {
-    "ko": "노에",
-    "ja": "ねんどろいど ノエ・アルシヴィスト (ねんどろいど のえ・あるしゔぃすと)",
-    "en": "Nendoroid Noé Archiviste"
+  "gender" : "M",
+  "gsc_productNum" : 12070,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211130/12070/92698/large/043df58a00c7d8d350863a41eb694cf0.jpg",
+  "name" : {
+    "en" : "Nendoroid Noé Archiviste",
+    "ja" : "ねんどろいど ノエ・アルシヴィスト (ねんどろいど のえ・あるしゔぃすと)",
+    "ko" : "노에"
   },
-  "series": {
-    "ko": "바니타스의 수기",
-    "ja": "ヴァニタスの手記",
-    "en": "The Case Study of Vanitas"
-  },
-  "gsc_productNum": 12070,
-  "price": 5900,
-  "release_date": [
+  "num" : "1774",
+  "price" : 5900,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211130/12070/92698/large/043df58a00c7d8d350863a41eb694cf0.jpg",
-  "gender": "M",
-  "set": 277
+  "series" : {
+    "en" : "The Case Study of Vanitas",
+    "ja" : "ヴァニタスの手記",
+    "ko" : "바니타스의 수기"
+  },
+  "set" : 277
 }

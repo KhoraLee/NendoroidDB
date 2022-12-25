@@ -1,20 +1,20 @@
 {
-  "num": "506",
-  "name": {
-    "ko": "호오즈키",
-    "ja": "ねんどろいど 鬼灯 (ねんどろいど ほおずき)",
-    "en": "Nendoroid Hozuki (ねんどろいど ほおずき)"
+  "gender" : "M",
+  "gsc_productNum" : 4880,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150309/4880/32573/large/383d203e0e2372e459baed6a5eb5a4d9.jpg",
+  "name" : {
+    "en" : "Nendoroid Hozuki (ねんどろいど ほおずき)",
+    "ja" : "ねんどろいど 鬼灯 (ねんどろいど ほおずき)",
+    "ko" : "호오즈키"
   },
-  "series": {
-    "ko": "호오즈키의 냉철",
-    "ja": "鬼灯の冷徹",
-    "en": "Hozuki no Reitetsu"
-  },
-  "gsc_productNum": 4880,
-  "price": 4278,
-  "release_date": [
+  "num" : "506",
+  "price" : 4278,
+  "release_date" : [
     "2015/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150309/4880/32573/large/383d203e0e2372e459baed6a5eb5a4d9.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Hozuki no Reitetsu",
+    "ja" : "鬼灯の冷徹",
+    "ko" : "호오즈키의 냉철"
+  }
 }

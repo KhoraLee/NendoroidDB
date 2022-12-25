@@ -1,21 +1,21 @@
 {
-  "num": "064",
-  "name": {
-    "ko": "나기",
-    "ja": "ねんどろいど ナギ (なぎ　ねんどろいど)",
-    "en": "Nendoroid Nagi (なぎ　ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 2334,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2334/6568/large/f1f221d394c3a50440dfe6900b1ac75f.jpg",
+  "name" : {
+    "en" : "Nendoroid Nagi (なぎ　ねんどろいど)",
+    "ja" : "ねんどろいど ナギ (なぎ　ねんどろいど)",
+    "ko" : "나기"
   },
-  "series": {
-    "ko": "칸나기",
-    "ja": "かんなぎ",
-    "en": "Kannagi"
-  },
-  "gsc_productNum": 2334,
-  "price": 3667,
-  "release_date": [
+  "num" : "064",
+  "price" : 3667,
+  "release_date" : [
     "2009/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2334/6568/large/f1f221d394c3a50440dfe6900b1ac75f.jpg",
-  "gender": "F",
-  "set": 19
+  "series" : {
+    "en" : "Kannagi",
+    "ja" : "かんなぎ",
+    "ko" : "칸나기"
+  },
+  "set" : 19
 }

@@ -1,19 +1,21 @@
 {
-  "num": "1985",
-  "name": {
-    "ja": "ねんどろいど ミケランジェロ (ねんどろいど みけらんじぇろ)",
-    "en": "Nendoroid Michelangelo",
-    "ko": "미켄란젤로"
+  "gender" : "M",
+  "gsc_productNum" : 13347,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220930/13347/105281/large/7ff48ad529ff67c68de4130867fa52fe.jpg",
+  "name" : {
+    "en" : "Nendoroid Michelangelo",
+    "ja" : "ねんどろいど ミケランジェロ (ねんどろいど みけらんじぇろ)",
+    "ko" : "미켄란젤로"
   },
-  "series": {
-    "ja": "ティーンエイジ・ミュータント・ニンジャ・タートルズ",
-    "en": "Teenage Mutant Ninja Turtles",
-    "ko": "닌자 거북이"
+  "num" : "1985",
+  "price" : -1,
+  "release_date" : [
+
+  ],
+  "series" : {
+    "en" : "Teenage Mutant Ninja Turtles",
+    "ja" : "ティーンエイジ・ミュータント・ニンジャ・タートルズ",
+    "ko" : "닌자 거북이"
   },
-  "gsc_productNum": 13347,
-  "price": -1,
-  "release_date": [],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220930/13347/105281/large/7ff48ad529ff67c68de4130867fa52fe.jpg",
-  "gender": "M",
-  "set": 301
+  "set" : 301
 }

@@ -1,21 +1,21 @@
 {
-  "num": "427",
-  "name": {
-    "ko": "코우즈키 나나",
-    "ja": "ねんどろいど 香月ナナ (ねんどろいど こうづきなな)",
-    "en": "Nendoroid Nana Kouzuki (ねんどろいど こうづきなな)"
+  "gender" : "F",
+  "gsc_productNum" : 4462,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140617/4462/29309/large/6413c1db4fd69e32189c6cc0d1013b9a.jpg",
+  "name" : {
+    "en" : "Nendoroid Nana Kouzuki (ねんどろいど こうづきなな)",
+    "ja" : "ねんどろいど 香月ナナ (ねんどろいど こうづきなな)",
+    "ko" : "코우즈키 나나"
   },
-  "series": {
-    "ko": "갓이터",
-    "ja": "ゴッドイーター2",
-    "en": "GOD EATER 2"
-  },
-  "gsc_productNum": 4462,
-  "price": 5602,
-  "release_date": [
+  "num" : "427",
+  "price" : 5602,
+  "release_date" : [
     "2014/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140617/4462/29309/large/6413c1db4fd69e32189c6cc0d1013b9a.jpg",
-  "gender": "F",
-  "set": 95
+  "series" : {
+    "en" : "GOD EATER 2",
+    "ja" : "ゴッドイーター2",
+    "ko" : "갓이터"
+  },
+  "set" : 95
 }

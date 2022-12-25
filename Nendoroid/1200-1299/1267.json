@@ -1,20 +1,20 @@
 {
-  "num": "1267",
-  "name": {
-    "ko": "해골부대",
-    "ja": "ねんどろいど スカルトルーパー (ねんどろいど すかるとるーぱー)",
-    "en": "Nendoroid Skull Trooper"
+  "gsc_productNum" : 9121,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191218/9121/66518/large/c517a240cafbe6093510a253cc4c1ed9.jpg",
+  "name" : {
+    "en" : "Nendoroid Skull Trooper",
+    "ja" : "ねんどろいど スカルトルーパー (ねんどろいど すかるとるーぱー)",
+    "ko" : "해골부대"
   },
-  "series": {
-    "ko": "포트나이트",
-    "ja": "フォートナイト",
-    "en": "Fortnite"
-  },
-  "gsc_productNum": 9121,
-  "price": 5200,
-  "release_date": [
+  "num" : "1267",
+  "price" : 5200,
+  "release_date" : [
     "2020/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191218/9121/66518/large/c517a240cafbe6093510a253cc4c1ed9.jpg",
-  "set": 229
+  "series" : {
+    "en" : "Fortnite",
+    "ja" : "フォートナイト",
+    "ko" : "포트나이트"
+  },
+  "set" : 229
 }

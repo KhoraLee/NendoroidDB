@@ -1,21 +1,21 @@
 {
-  "num": "002",
-  "name": {
-    "ko": "헤타레 세이버 한정 Ver.",
-    "ja": "ねんどろいど へたれ セイバー限定Ver. (ねんどろいど へたれ せいばーげんていVer.)",
-    "en": "Nendoroid Lazy Saber: Limited Ver. (ねんどろいど へたれ せいばーげんていVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3352,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3352/16268/large/9cc3bd5ed3e221d0b5617bf1f0eb0ac1.jpg",
+  "name" : {
+    "en" : "Nendoroid Lazy Saber: Limited Ver. (ねんどろいど へたれ せいばーげんていVer.)",
+    "ja" : "ねんどろいど へたれ セイバー限定Ver. (ねんどろいど へたれ せいばーげんていVer.)",
+    "ko" : "헤타레 세이버 한정 Ver."
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/stay night",
-    "en": "Fate/stay night"
-  },
-  "gsc_productNum": 3352,
-  "price": 3143,
-  "release_date": [
+  "num" : "002",
+  "price" : 3143,
+  "release_date" : [
     "2006/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3352/16268/large/9cc3bd5ed3e221d0b5617bf1f0eb0ac1.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/stay night",
+    "ja" : "Fate/stay night",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1530",
-  "name": {
-    "ko": "V 남성 Ver.",
-    "ja": "ねんどろいど V 男性Ver. (ねんどろいど V だんせいVer.)",
-    "en": "Nendoroid V: Male Ver."
+  "gender" : "M",
+  "gsc_productNum" : 10509,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201208/10509/78385/large/66f28ab74c93718d226390227b870356.jpg",
+  "name" : {
+    "en" : "Nendoroid V: Male Ver.",
+    "ja" : "ねんどろいど V 男性Ver. (ねんどろいど V だんせいVer.)",
+    "ko" : "V 남성 Ver."
   },
-  "series": {
-    "ko": "사이버펑크 2077",
-    "ja": "サイバーパンク2077",
-    "en": "Cyberpunk 2077"
-  },
-  "gsc_productNum": 10509,
-  "price": 5200,
-  "release_date": [
+  "num" : "1530",
+  "price" : 5200,
+  "release_date" : [
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201208/10509/78385/large/66f28ab74c93718d226390227b870356.jpg",
-  "gender": "M",
-  "set": 253
+  "series" : {
+    "en" : "Cyberpunk 2077",
+    "ja" : "サイバーパンク2077",
+    "ko" : "사이버펑크 2077"
+  },
+  "set" : 253
 }

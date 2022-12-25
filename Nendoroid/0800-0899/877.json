@@ -1,21 +1,21 @@
 {
-  "num": "877",
-  "name": {
-    "ko": "레이",
-    "ja": "ねんどろいど レイ (ねんどろいど れい)",
-    "en": "Nendoroid Rey"
+  "gender" : "M",
+  "gsc_productNum" : 7001,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180119/7001/49756/large/133fb4df6439af0249ef03ed9f2ab186.jpg",
+  "name" : {
+    "en" : "Nendoroid Rey",
+    "ja" : "ねんどろいど レイ (ねんどろいど れい)",
+    "ko" : "레이"
   },
-  "series": {
-    "ko": "스타워즈",
-    "ja": "スター・ウォーズ／最後のジェダイ",
-    "en": "Star Wars: The Last Jedi"
-  },
-  "gsc_productNum": 7001,
-  "price": 4888,
-  "release_date": [
+  "num" : "877",
+  "price" : 4888,
+  "release_date" : [
     "2018/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180119/7001/49756/large/133fb4df6439af0249ef03ed9f2ab186.jpg",
-  "gender": "M",
-  "set": 115
+  "series" : {
+    "en" : "Star Wars: The Last Jedi",
+    "ja" : "スター・ウォーズ／最後のジェダイ",
+    "ko" : "스타워즈"
+  },
+  "set" : 115
 }

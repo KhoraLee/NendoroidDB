@@ -1,21 +1,21 @@
 {
-  "num": "1153",
-  "name": {
-    "ko": "미타케 란 스테이지 의상 Ver.",
-    "ja": "ねんどろいど 美竹蘭 ステージ衣装Ver. (ねんどろいど みたけらん すてーじいしょうVer.)",
-    "en": "Nendoroid Ran Mitake: Stage Outfit Ver."
+  "gender" : "F",
+  "gsc_productNum" : 8454,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190620/8454/61197/large/0d01a5205d520316ab62a280c39d1ced.jpg",
+  "name" : {
+    "en" : "Nendoroid Ran Mitake: Stage Outfit Ver.",
+    "ja" : "ねんどろいど 美竹蘭 ステージ衣装Ver. (ねんどろいど みたけらん すてーじいしょうVer.)",
+    "ko" : "미타케 란 스테이지 의상 Ver."
   },
-  "series": {
-    "ko": "BanG Dream!",
-    "ja": "バンドリ！ ガールズバンドパーティ！",
-    "en": "BanG Dream! Girls Band Party!"
-  },
-  "gsc_productNum": 8454,
-  "price": 5100,
-  "release_date": [
+  "num" : "1153",
+  "price" : 5100,
+  "release_date" : [
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190620/8454/61197/large/0d01a5205d520316ab62a280c39d1ced.jpg",
-  "gender": "F",
-  "set": 152
+  "series" : {
+    "en" : "BanG Dream! Girls Band Party!",
+    "ja" : "バンドリ！ ガールズバンドパーティ！",
+    "ko" : "BanG Dream!"
+  },
+  "set" : 152
 }

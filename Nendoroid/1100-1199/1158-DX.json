@@ -1,21 +1,21 @@
 {
-  "num": "1158-DX",
-  "name": {
-    "ko": "어벤저/암굴왕 에드몽 당테스 영기재림 ver.",
-    "ja": "ねんどろいど アヴェンジャー/巌窟王 エドモン・ダンテス 霊基再臨Ver. (ねんどろいど あゔぇんじゃー/がんくつおう えどもん・だんてす れいきさいりんVer.)",
-    "en": "Nendoroid Avenger/King of the Cavern Edmond Dantès: Ascension Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8451,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190620/8451/61237/large/5cdb46f5f76b072e614cf0ee492339da.jpg",
+  "name" : {
+    "en" : "Nendoroid Avenger/King of the Cavern Edmond Dantès: Ascension Ver.",
+    "ja" : "ねんどろいど アヴェンジャー/巌窟王 エドモン・ダンテス 霊基再臨Ver. (ねんどろいど あゔぇんじゃー/がんくつおう えどもん・だんてす れいきさいりんVer.)",
+    "ko" : "어벤저/암굴왕 에드몽 당테스 영기재림 ver."
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 8451,
-  "price": 5500,
-  "release_date": [
+  "num" : "1158-DX",
+  "price" : 5500,
+  "release_date" : [
     "2019/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190620/8451/61237/large/5cdb46f5f76b072e614cf0ee492339da.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

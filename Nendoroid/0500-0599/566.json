@@ -1,20 +1,20 @@
 {
-  "num": "566",
-  "name": {
-    "ko": "조커 빌런 에디션",
-    "ja": "ねんどろいど ジョーカー ヴィランズ・エディション (ねんどろいど じょーかー ゔぃらんず・えでぃしょん)",
-    "en": "Nendoroid The Joker: Villain\u0027s Edition (ねんどろいど じょーかー ゔぃらんず・えでぃしょん)"
+  "gender" : "M",
+  "gsc_productNum" : 5258,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151001/5258/35743/large/d3f72b58fd634431762b1a63c7623653.jpg",
+  "name" : {
+    "en" : "Nendoroid The Joker: Villain's Edition (ねんどろいど じょーかー ゔぃらんず・えでぃしょん)",
+    "ja" : "ねんどろいど ジョーカー ヴィランズ・エディション (ねんどろいど じょーかー ゔぃらんず・えでぃしょん)",
+    "ko" : "조커 빌런 에디션"
   },
-  "series": {
-    "ko": "다크 나이트",
-    "ja": "ダークナイト",
-    "en": "The Dark Knight"
-  },
-  "gsc_productNum": 5258,
-  "price": 3972,
-  "release_date": [
+  "num" : "566",
+  "price" : 3972,
+  "release_date" : [
     "2016/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151001/5258/35743/large/d3f72b58fd634431762b1a63c7623653.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "The Dark Knight",
+    "ja" : "ダークナイト",
+    "ko" : "다크 나이트"
+  }
 }

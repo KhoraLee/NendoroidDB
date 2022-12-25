@@ -1,21 +1,21 @@
 {
-  "num": "1347",
-  "name": {
-    "ko": "콘노 준코",
-    "ja": "ねんどろいど 紺野純子 (ねんどろいど こんのじゅんこ)",
-    "en": "Nendoroid Junko Konno"
+  "gender" : "F",
+  "gsc_productNum" : 9507,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200513/9507/69674/large/8d3cc3e17d7174f190692d08a5af947e.jpg",
+  "name" : {
+    "en" : "Nendoroid Junko Konno",
+    "ja" : "ねんどろいど 紺野純子 (ねんどろいど こんのじゅんこ)",
+    "ko" : "콘노 준코"
   },
-  "series": {
-    "ko": "좀비랜드사가",
-    "ja": "ゾンビランドサガ",
-    "en": "Zombie Land Saga"
-  },
-  "gsc_productNum": 9507,
-  "price": 5200,
-  "release_date": [
+  "num" : "1347",
+  "price" : 5200,
+  "release_date" : [
     "2020/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200513/9507/69674/large/8d3cc3e17d7174f190692d08a5af947e.jpg",
-  "gender": "F",
-  "set": 218
+  "series" : {
+    "en" : "Zombie Land Saga",
+    "ja" : "ゾンビランドサガ",
+    "ko" : "좀비랜드사가"
+  },
+  "set" : 218
 }

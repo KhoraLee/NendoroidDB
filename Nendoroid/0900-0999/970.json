@@ -1,22 +1,22 @@
 {
-  "num": "970",
-  "name": {
-    "ko": "캐스터/멀린",
-    "ja": "ねんどろいど キャスター/マーリン (ねんどろいど きゃすたー/まーりん)",
-    "en": "Nendoroid Caster/Merlin"
+  "gender" : "M",
+  "gsc_productNum" : 7480,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180731/7480/53524/large/3049b133a4944e96f3251ba360c45214.jpg",
+  "name" : {
+    "en" : "Nendoroid Caster/Merlin",
+    "ja" : "ねんどろいど キャスター/マーリン (ねんどろいど きゃすたー/まーりん)",
+    "ko" : "캐스터/멀린"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 7480,
-  "price": 4584,
-  "release_date": [
+  "num" : "970",
+  "price" : 4584,
+  "release_date" : [
     "2019/01",
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180731/7480/53524/large/3049b133a4944e96f3251ba360c45214.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

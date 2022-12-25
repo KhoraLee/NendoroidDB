@@ -1,22 +1,22 @@
 {
-  "num": "772",
-  "name": {
-    "ko": "사와무라 다이치",
-    "ja": "ねんどろいど 澤村大地 (ねんどろいど さわむらだいち)",
-    "en": "Nendoroid Daichi Sawamura"
+  "gender" : "M",
+  "gsc_productNum" : 6446,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170518/6446/45438/large/7d0f646a655cd2bf3bb3fa0cc25302c6.jpg",
+  "name" : {
+    "en" : "Nendoroid Daichi Sawamura",
+    "ja" : "ねんどろいど 澤村大地 (ねんどろいど さわむらだいち)",
+    "ko" : "사와무라 다이치"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "Haikyu!!"
-  },
-  "gsc_productNum": 6446,
-  "price": 4600,
-  "release_date": [
+  "num" : "772",
+  "price" : 4600,
+  "release_date" : [
     "2017/10",
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170518/6446/45438/large/7d0f646a655cd2bf3bb3fa0cc25302c6.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

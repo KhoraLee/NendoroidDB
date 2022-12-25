@@ -1,20 +1,20 @@
 {
-  "num": "1450",
-  "name": {
-    "ko": "토마토 헤드",
-    "ja": "ねんどろいど トマトヘッド (ねんどろいど とまとへっど)",
-    "en": "Nendoroid Tomato Head"
+  "gsc_productNum" : 10031,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200909/10031/74189/large/d2f75d455e383f9b7f6e6cef6bc4fc5e.jpg",
+  "name" : {
+    "en" : "Nendoroid Tomato Head",
+    "ja" : "ねんどろいど トマトヘッド (ねんどろいど とまとへっど)",
+    "ko" : "토마토 헤드"
   },
-  "series": {
-    "ko": "포트나이트",
-    "ja": "フォートナイト",
-    "en": "Fortnite"
-  },
-  "gsc_productNum": 10031,
-  "price": 6200,
-  "release_date": [
+  "num" : "1450",
+  "price" : 6200,
+  "release_date" : [
     "2021/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200909/10031/74189/large/d2f75d455e383f9b7f6e6cef6bc4fc5e.jpg",
-  "set": 229
+  "series" : {
+    "en" : "Fortnite",
+    "ja" : "フォートナイト",
+    "ko" : "포트나이트"
+  },
+  "set" : 229
 }

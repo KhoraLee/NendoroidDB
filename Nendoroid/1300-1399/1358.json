@@ -1,21 +1,21 @@
 {
-  "num": "1358",
-  "name": {
-    "ko": "모리 란",
-    "ja": "ねんどろいど 毛利蘭 (ねんどろいど もうりらん)",
-    "en": "Nendoroid Ran Mōri"
+  "gender" : "F",
+  "gsc_productNum" : 9625,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200609/9625/70684/large/ba925a8c95633799a3c059ccd6ca5d08.jpg",
+  "name" : {
+    "en" : "Nendoroid Ran Mōri",
+    "ja" : "ねんどろいど 毛利蘭 (ねんどろいど もうりらん)",
+    "ko" : "모리 란"
   },
-  "series": {
-    "ko": "명탐정 코난",
-    "ja": "名探偵コナン",
-    "en": "Detective Conan"
-  },
-  "gsc_productNum": 9625,
-  "price": 5300,
-  "release_date": [
+  "num" : "1358",
+  "price" : 5300,
+  "release_date" : [
     "2021/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200609/9625/70684/large/ba925a8c95633799a3c059ccd6ca5d08.jpg",
-  "gender": "F",
-  "set": 161
+  "series" : {
+    "en" : "Detective Conan",
+    "ja" : "名探偵コナン",
+    "ko" : "명탐정 코난"
+  },
+  "set" : 161
 }

@@ -1,21 +1,21 @@
 {
-  "num": "900",
-  "name": {
-    "ko": "노리마키 아라레(아리)",
-    "ja": "ねんどろいど 則巻アラレ (ねんどろいど のりまきあられ)",
-    "en": "Nendoroid Arale Norimaki"
+  "gender" : "F",
+  "gsc_productNum" : 7051,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180213/7051/50276/large/a0f0ec5313ef7b8899fb8d872758f17d.jpg",
+  "name" : {
+    "en" : "Nendoroid Arale Norimaki",
+    "ja" : "ねんどろいど 則巻アラレ (ねんどろいど のりまきあられ)",
+    "ko" : "노리마키 아라레(아리)"
   },
-  "series": {
-    "ko": "닥터 슬럼프",
-    "ja": "Dr.スランプ アラレちゃん",
-    "en": "Dr.SLUMP ARALE CHAN"
-  },
-  "gsc_productNum": 7051,
-  "price": 5093,
-  "release_date": [
+  "num" : "900",
+  "price" : 5093,
+  "release_date" : [
     "2018/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180213/7051/50276/large/a0f0ec5313ef7b8899fb8d872758f17d.jpg",
-  "gender": "F",
-  "set": 170
+  "series" : {
+    "en" : "Dr.SLUMP ARALE CHAN",
+    "ja" : "Dr.スランプ アラレちゃん",
+    "ko" : "닥터 슬럼프"
+  },
+  "set" : 170
 }

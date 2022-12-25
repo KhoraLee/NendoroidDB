@@ -1,21 +1,21 @@
 {
-  "num": "814",
-  "name": {
-    "ko": "타키모토 히후미",
-    "ja": "ねんどろいど 滝本ひふみ (ねんどろいど たきもとひふみ)",
-    "en": "Nendoroid Hifumi Takimoto"
+  "gender" : "F",
+  "gsc_productNum" : 6652,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170810/6652/47049/large/c250795cf10295d837a920277367d650.jpg",
+  "name" : {
+    "en" : "Nendoroid Hifumi Takimoto",
+    "ja" : "ねんどろいど 滝本ひふみ (ねんどろいど たきもとひふみ)",
+    "ko" : "타키모토 히후미"
   },
-  "series": {
-    "ko": "NEW GAME!",
-    "ja": "NEW GAME!!",
-    "en": "NEW GAME!!"
-  },
-  "gsc_productNum": 6652,
-  "price": 4685,
-  "release_date": [
+  "num" : "814",
+  "price" : 4685,
+  "release_date" : [
     "2018/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170810/6652/47049/large/c250795cf10295d837a920277367d650.jpg",
-  "gender": "F",
-  "set": 134
+  "series" : {
+    "en" : "NEW GAME!!",
+    "ja" : "NEW GAME!!",
+    "ko" : "NEW GAME!"
+  },
+  "set" : 134
 }

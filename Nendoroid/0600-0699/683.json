@@ -1,21 +1,21 @@
 {
-  "num": "683",
-  "name": {
-    "ko": "쿠사나기 쿄 Classic Ver.",
-    "ja": "ねんどろいど 草薙京 CLASSIC Ver. (ねんどろいど くさなぎきょう くらしっく Ver.)",
-    "en": "Nendoroid Kyo Kusanagi: CLASSIC Ver."
+  "gender" : "M",
+  "gsc_productNum" : 5978,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160927/5978/41549/large/9e832b29b4b7e7222b819a20e29df7c4.jpg",
+  "name" : {
+    "en" : "Nendoroid Kyo Kusanagi: CLASSIC Ver.",
+    "ja" : "ねんどろいど 草薙京 CLASSIC Ver. (ねんどろいど くさなぎきょう くらしっく Ver.)",
+    "ko" : "쿠사나기 쿄 Classic Ver."
   },
-  "series": {
-    "ko": "더 킹 오브 파이터즈",
-    "ja": "THE KING OF FIGHTERS XIV",
-    "en": "THE KING OF FIGHTERS XIV"
-  },
-  "gsc_productNum": 5978,
-  "price": 4584,
-  "release_date": [
+  "num" : "683",
+  "price" : 4584,
+  "release_date" : [
     "2017/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160927/5978/41549/large/9e832b29b4b7e7222b819a20e29df7c4.jpg",
-  "gender": "M",
-  "set": 145
+  "series" : {
+    "en" : "THE KING OF FIGHTERS XIV",
+    "ja" : "THE KING OF FIGHTERS XIV",
+    "ko" : "더 킹 오브 파이터즈"
+  },
+  "set" : 145
 }

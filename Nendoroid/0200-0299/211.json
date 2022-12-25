@@ -1,21 +1,21 @@
 {
-  "num": "211",
-  "name": {
-    "ko": "모리시마 하루카",
-    "ja": "ねんどろいど 森島はるか (ねんどろいど もりしまはるか)",
-    "en": "Nendoroid Haruka Morishima (ねんどろいど もりしまはるか)"
+  "gender" : "F",
+  "gsc_productNum" : 3347,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111115/3347/16183/large/a24da667468b6f0395c0454c8ab7f653.jpg",
+  "name" : {
+    "en" : "Nendoroid Haruka Morishima (ねんどろいど もりしまはるか)",
+    "ja" : "ねんどろいど 森島はるか (ねんどろいど もりしまはるか)",
+    "ko" : "모리시마 하루카"
   },
-  "series": {
-    "ko": "아마가미 SS",
-    "ja": "アマガミSS",
-    "en": "Amagami SS"
-  },
-  "gsc_productNum": 3347,
-  "price": 3667,
-  "release_date": [
+  "num" : "211",
+  "price" : 3667,
+  "release_date" : [
     "2012/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111115/3347/16183/large/a24da667468b6f0395c0454c8ab7f653.jpg",
-  "gender": "F",
-  "set": 52
+  "series" : {
+    "en" : "Amagami SS",
+    "ja" : "アマガミSS",
+    "ko" : "아마가미 SS"
+  },
+  "set" : 52
 }

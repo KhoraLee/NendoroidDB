@@ -1,21 +1,21 @@
 {
-  "num": "093",
-  "name": {
-    "ko": "메구리네 루카",
-    "ja": "ねんどろいど 巡音ルカ (ねんどろいど めぐりねるか)",
-    "en": "Nendoroid Megurine Luka (ねんどろいど めぐりねるか)"
+  "gender" : "F",
+  "gsc_productNum" : 2711,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2711/8086/large/5a624cae9b4ec0adea04fe2efc8ece23.jpg",
+  "name" : {
+    "en" : "Nendoroid Megurine Luka (ねんどろいど めぐりねるか)",
+    "ja" : "ねんどろいど 巡音ルカ (ねんどろいど めぐりねるか)",
+    "ko" : "메구리네 루카"
   },
-  "series": {
-    "ko": "보컬로이드(VOCALOID)",
-    "ja": "キャラクター・ボーカル・シリーズ03 巡音ルカ",
-    "en": "Character Vocal Series 03: Megurine Luka"
-  },
-  "gsc_productNum": 2711,
-  "price": 3667,
-  "release_date": [
+  "num" : "093",
+  "price" : 3667,
+  "release_date" : [
     "2013/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2711/8086/large/5a624cae9b4ec0adea04fe2efc8ece23.jpg",
-  "gender": "F",
-  "set": 11
+  "series" : {
+    "en" : "Character Vocal Series 03: Megurine Luka",
+    "ja" : "キャラクター・ボーカル・シリーズ03 巡音ルカ",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 11
 }

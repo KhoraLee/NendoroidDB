@@ -1,21 +1,21 @@
 {
-  "num": "483",
-  "name": {
-    "ko": "요마츠리 아카리",
-    "ja": "ねんどろいど 夜祭アカリ (ねんどろいど よまつりあかり)",
-    "en": "Nendoroid Akari Yomatsuri (ねんどろいど よまつりあかり)"
+  "gender" : "F",
+  "gsc_productNum" : 4756,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141202/4756/31575/large/b94a1ab56d273e781df46e2038c3e80e.jpg",
+  "name" : {
+    "en" : "Nendoroid Akari Yomatsuri (ねんどろいど よまつりあかり)",
+    "ja" : "ねんどろいど 夜祭アカリ (ねんどろいど よまつりあかり)",
+    "ko" : "요마츠리 아카리"
   },
-  "series": {
-    "ko": "캡틴 어스",
-    "ja": "キャプテン・アース",
-    "en": "Captain Earth"
-  },
-  "gsc_productNum": 4756,
-  "price": 4278,
-  "release_date": [
+  "num" : "483",
+  "price" : 4278,
+  "release_date" : [
     "2015/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141202/4756/31575/large/b94a1ab56d273e781df46e2038c3e80e.jpg",
-  "gender": "F",
-  "set": 108
+  "series" : {
+    "en" : "Captain Earth",
+    "ja" : "キャプテン・アース",
+    "ko" : "캡틴 어스"
+  },
+  "set" : 108
 }

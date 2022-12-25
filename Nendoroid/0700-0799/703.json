@@ -1,21 +1,21 @@
 {
-  "num": "703",
-  "name": {
-    "ko": "구다코",
-    "ja": "ねんどろいど ぐだ子 (ねんどろいど ぐだこ)",
-    "en": "Nendoroid Gudako"
+  "gender" : "F",
+  "gsc_productNum" : 6112,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161205/6112/42690/large/48b08ad6d0289b41d3e0ba75e1195e99.jpg",
+  "name" : {
+    "en" : "Nendoroid Gudako",
+    "ja" : "ねんどろいど ぐだ子 (ねんどろいど ぐだこ)",
+    "ko" : "구다코"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 6112,
-  "price": 4584,
-  "release_date": [
+  "num" : "703",
+  "price" : 4584,
+  "release_date" : [
     "2017/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161205/6112/42690/large/48b08ad6d0289b41d3e0ba75e1195e99.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

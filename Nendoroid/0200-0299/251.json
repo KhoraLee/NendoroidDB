@@ -1,21 +1,21 @@
 {
-  "num": "251",
-  "name": {
-    "ko": "하츠네 미쿠 패밀리마트 Ver.",
-    "ja": "ねんどろいど 初音ミク FamilyMart Ver. (ねんどろいど はつねみく ふぁみりーまーと Ver.)",
-    "en": "Nendoroid Hatsune Miku : FamilyMart Ver. (ねんどろいど はつねみく ふぁみりーまーと Ver.)"
+  "gender" : "F",
+  "gsc_productNum" : 3558,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120524/3558/18548/large/f42c7e0e01c026fd0f1d03e2605892f6.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku : FamilyMart Ver. (ねんどろいど はつねみく ふぁみりーまーと Ver.)",
+    "ja" : "ねんどろいど 初音ミク FamilyMart Ver. (ねんどろいど はつねみく ふぁみりーまーと Ver.)",
+    "ko" : "하츠네 미쿠 패밀리마트 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01　初音ミク",
-    "en": "Character Vocal Series 01 : Hatsune Miku"
-  },
-  "gsc_productNum": 3558,
-  "price": 0,
-  "release_date": [
+  "num" : "251",
+  "price" : 0,
+  "release_date" : [
     "2012/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120524/3558/18548/large/f42c7e0e01c026fd0f1d03e2605892f6.jpg",
-  "gender": "F",
-  "set": 10
+  "series" : {
+    "en" : "Character Vocal Series 01 : Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01　初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
 }

@@ -1,22 +1,22 @@
 {
-  "num": "761",
-  "name": {
-    "ko": "우시고메 리미",
-    "ja": "ねんどろいど 牛込りみ (ねんどろいど うしごめりみ)",
-    "en": "Nendoroid Rimi Ushigome"
+  "gender" : "F",
+  "gsc_productNum" : 6374,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170410/6374/44932/large/547af50790596ce57f89cbc6fa04c9fa.jpg",
+  "name" : {
+    "en" : "Nendoroid Rimi Ushigome",
+    "ja" : "ねんどろいど 牛込りみ (ねんどろいど うしごめりみ)",
+    "ko" : "우시고메 리미"
   },
-  "series": {
-    "ko": "BanG Dream!",
-    "ja": "BanG Dream!",
-    "en": "BanG Dream!"
-  },
-  "gsc_productNum": 6374,
-  "price": 4584,
-  "release_date": [
+  "num" : "761",
+  "price" : 4584,
+  "release_date" : [
     "2017/11",
     "2019/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170410/6374/44932/large/547af50790596ce57f89cbc6fa04c9fa.jpg",
-  "gender": "F",
-  "set": 152
+  "series" : {
+    "en" : "BanG Dream!",
+    "ja" : "BanG Dream!",
+    "ko" : "BanG Dream!"
+  },
+  "set" : 152
 }

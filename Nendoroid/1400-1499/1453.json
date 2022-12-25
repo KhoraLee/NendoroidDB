@@ -1,21 +1,21 @@
 {
-  "num": "1453",
-  "name": {
-    "ko": "아즈마야 쥰타",
-    "ja": "ねんどろいど 東谷准太 (ねんどろいど あずまやじゅんた)",
-    "en": "Nendoroid Junta Azumaya"
+  "gender" : "M",
+  "gsc_productNum" : 10054,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200914/10054/74759/large/e5c6cfddba002e392a6a82b88938103b.jpg",
+  "name" : {
+    "en" : "Nendoroid Junta Azumaya",
+    "ja" : "ねんどろいど 東谷准太 (ねんどろいど あずまやじゅんた)",
+    "ko" : "아즈마야 쥰타"
   },
-  "series": {
-    "ko": "안기고 싶은 남자 1위에게 협박당하고 있습니다",
-    "ja": "抱かれたい男1位に脅されています。",
-    "en": "Dakaretai Otoko 1-i ni Odosarete Imasu."
-  },
-  "gsc_productNum": 10054,
-  "price": 6600,
-  "release_date": [
+  "num" : "1453",
+  "price" : 6600,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200914/10054/74759/large/e5c6cfddba002e392a6a82b88938103b.jpg",
-  "gender": "M",
-  "set": 243
+  "series" : {
+    "en" : "Dakaretai Otoko 1-i ni Odosarete Imasu.",
+    "ja" : "抱かれたい男1位に脅されています。",
+    "ko" : "안기고 싶은 남자 1위에게 협박당하고 있습니다"
+  },
+  "set" : 243
 }

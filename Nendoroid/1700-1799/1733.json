@@ -1,21 +1,21 @@
 {
-  "num": "1733",
-  "name": {
-    "ko": "홍규 남",
-    "ja": "ねんどろいど 龍葵・藍 (ねんどろいど りゅうき·あお)",
-    "en": "Nendoroid Long Kui / Blue"
+  "gender" : "F",
+  "gsc_productNum" : 11904,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211018/11904/91221/large/2e10048f7b066e378e41b771e04aa64a.jpg",
+  "name" : {
+    "en" : "Nendoroid Long Kui / Blue",
+    "ja" : "ねんどろいど 龍葵・藍 (ねんどろいど りゅうき·あお)",
+    "ko" : "홍규 남"
   },
-  "series": {
-    "ko": "선검기협전",
-    "ja": "仙剣奇侠伝三",
-    "en": "Chinese Paladin: Sword and Fairy"
-  },
-  "gsc_productNum": 11904,
-  "price": 7400,
-  "release_date": [
+  "num" : "1733",
+  "price" : 7400,
+  "release_date" : [
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211018/11904/91221/large/2e10048f7b066e378e41b771e04aa64a.jpg",
-  "gender": "F",
-  "set": 214
+  "series" : {
+    "en" : "Chinese Paladin: Sword and Fairy",
+    "ja" : "仙剣奇侠伝三",
+    "ko" : "선검기협전"
+  },
+  "set" : 214
 }

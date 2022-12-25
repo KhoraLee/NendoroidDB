@@ -1,20 +1,20 @@
 {
-  "num": "556b",
-  "name": {
-    "ko": "록맨 메탈 블레이드 Ver.",
-    "ja": "ねんどろいど ロックマン メタルブレードVer. (ねんどろいど ろっくまん めたるぶれーどVer.)",
-    "en": "Nendoroid Mega Man: Metal Blade Ver."
+  "gsc_productNum" : 5690,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160523/5690/39137/large/85a869592d494da987d93a82523cbc1d.jpg",
+  "name" : {
+    "en" : "Nendoroid Mega Man: Metal Blade Ver.",
+    "ja" : "ねんどろいど ロックマン メタルブレードVer. (ねんどろいど ろっくまん めたるぶれーどVer.)",
+    "ko" : "록맨 메탈 블레이드 Ver."
   },
-  "series": {
-    "ko": "록맨 시리즈",
-    "ja": "ロックマン",
-    "en": "Mega Man"
-  },
-  "gsc_productNum": 5690,
-  "price": 4888,
-  "release_date": [
+  "num" : "556b",
+  "price" : 4888,
+  "release_date" : [
     "2016/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160523/5690/39137/large/85a869592d494da987d93a82523cbc1d.jpg",
-  "set": 122
+  "series" : {
+    "en" : "Mega Man",
+    "ja" : "ロックマン",
+    "ko" : "록맨 시리즈"
+  },
+  "set" : 122
 }

@@ -1,22 +1,22 @@
 {
-  "num": "582",
-  "name": {
-    "ko": "이스즈 하나",
-    "ja": "ねんどろいど 五十鈴華 (ねんどろいど いすずはな)",
-    "en": "Nendoroid Hana Isuzu"
+  "gender" : "F",
+  "gsc_productNum" : 5322,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151110/5322/36302/large/260fe88933bf151a4dc8a0febb82ee69.jpg",
+  "name" : {
+    "en" : "Nendoroid Hana Isuzu",
+    "ja" : "ねんどろいど 五十鈴華 (ねんどろいど いすずはな)",
+    "ko" : "이스즈 하나"
   },
-  "series": {
-    "ko": "걸즈 앤 판처",
-    "ja": "ガールズ＆パンツァー",
-    "en": "GIRLS und PANZER"
-  },
-  "gsc_productNum": 5322,
-  "price": 4888,
-  "release_date": [
+  "num" : "582",
+  "price" : 4888,
+  "release_date" : [
     "2016/06",
     "2017/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151110/5322/36302/large/260fe88933bf151a4dc8a0febb82ee69.jpg",
-  "gender": "F",
-  "set": 78
+  "series" : {
+    "en" : "GIRLS und PANZER",
+    "ja" : "ガールズ＆パンツァー",
+    "ko" : "걸즈 앤 판처"
+  },
+  "set" : 78
 }

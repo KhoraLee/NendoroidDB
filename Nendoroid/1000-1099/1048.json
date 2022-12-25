@@ -1,19 +1,19 @@
 {
-  "num": "1048",
-  "name": {
-    "ko": "지니",
-    "ja": "ねんどろいど ジーニー (ねんどろいど じーにー)",
-    "en": "Nendoroid Genie"
+  "gsc_productNum" : 7884,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181207/7884/56617/large/ae6ca68d1df9f757a052f2a7465097ec.jpg",
+  "name" : {
+    "en" : "Nendoroid Genie",
+    "ja" : "ねんどろいど ジーニー (ねんどろいど じーにー)",
+    "ko" : "지니"
   },
-  "series": {
-    "ko": "알라딘",
-    "ja": "アラジン",
-    "en": "Aladdin"
-  },
-  "gsc_productNum": 7884,
-  "price": 7334,
-  "release_date": [
+  "num" : "1048",
+  "price" : 7334,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181207/7884/56617/large/ae6ca68d1df9f757a052f2a7465097ec.jpg"
+  "series" : {
+    "en" : "Aladdin",
+    "ja" : "アラジン",
+    "ko" : "알라딘"
+  }
 }

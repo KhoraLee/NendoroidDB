@@ -1,21 +1,21 @@
 {
-  "num": "1192",
-  "name": {
-    "ko": "아마노 히나",
-    "ja": "ねんどろいど 天野陽菜 (ねんどろいど あまのひな)",
-    "en": "Nendoroid Hina Amano"
+  "gender" : "F",
+  "gsc_productNum" : 8721,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190823/8721/63058/large/54acfb68f9f7c0e2da5327598a0660b0.jpg",
+  "name" : {
+    "en" : "Nendoroid Hina Amano",
+    "ja" : "ねんどろいど 天野陽菜 (ねんどろいど あまのひな)",
+    "ko" : "아마노 히나"
   },
-  "series": {
-    "ko": "날씨의 아이",
-    "ja": "天気の子",
-    "en": "Weathering with You"
-  },
-  "gsc_productNum": 8721,
-  "price": 5100,
-  "release_date": [
+  "num" : "1192",
+  "price" : 5100,
+  "release_date" : [
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190823/8721/63058/large/54acfb68f9f7c0e2da5327598a0660b0.jpg",
-  "gender": "F",
-  "set": 221
+  "series" : {
+    "en" : "Weathering with You",
+    "ja" : "天気の子",
+    "ko" : "날씨의 아이"
+  },
+  "set" : 221
 }

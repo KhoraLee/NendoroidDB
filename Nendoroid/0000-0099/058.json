@@ -1,21 +1,21 @@
 {
-  "num": "058",
-  "name": {
-    "ko": "KAITO",
-    "ja": "ねんどろいど KAITO (ねんどろいど かいと)",
-    "en": "Nendoroid KAITO (ねんどろいど かいと)"
+  "gender" : "M",
+  "gsc_productNum" : 2165,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2165/5880/large/d240918a16cd8aebad1e7405263c70ff.jpg",
+  "name" : {
+    "en" : "Nendoroid KAITO (ねんどろいど かいと)",
+    "ja" : "ねんどろいど KAITO (ねんどろいど かいと)",
+    "ko" : "KAITO"
   },
-  "series": {
-    "ko": "보컬로이드(VOCALOID)",
-    "ja": "KAITO",
-    "en": "KAITO"
-  },
-  "gsc_productNum": 2165,
-  "price": 3143,
-  "release_date": [
+  "num" : "058",
+  "price" : 3143,
+  "release_date" : [
     "2013/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2165/5880/large/d240918a16cd8aebad1e7405263c70ff.jpg",
-  "gender": "M",
-  "set": 11
+  "series" : {
+    "en" : "KAITO",
+    "ja" : "KAITO",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 11
 }

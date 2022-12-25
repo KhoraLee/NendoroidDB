@@ -1,21 +1,21 @@
 {
-  "num": "417",
-  "name": {
-    "ko": "리바이 청소 Ver.",
-    "ja": "ねんどろいど リヴァイ お掃除Ver. (ねんどろいど りう゛ぁい おそうじVer.)",
-    "en": "Nendoroid Levi: Cleaning Ver. (ねんどろいど りう゛ぁい おそうじVer.)"
+  "gender" : "M",
+  "gsc_productNum" : 4434,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140530/4434/29081/large/a251f9a47d85f414356e89d3e0085eac.jpg",
+  "name" : {
+    "en" : "Nendoroid Levi: Cleaning Ver. (ねんどろいど りう゛ぁい おそうじVer.)",
+    "ja" : "ねんどろいど リヴァイ お掃除Ver. (ねんどろいど りう゛ぁい おそうじVer.)",
+    "ko" : "리바이 청소 Ver."
   },
-  "series": {
-    "ko": "진격의 거인",
-    "ja": "進撃の巨人",
-    "en": "Attack on Titan"
-  },
-  "gsc_productNum": 4434,
-  "price": 3565,
-  "release_date": [
+  "num" : "417",
+  "price" : 3565,
+  "release_date" : [
     "2014/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140530/4434/29081/large/a251f9a47d85f414356e89d3e0085eac.jpg",
-  "gender": "M",
-  "set": 87
+  "series" : {
+    "en" : "Attack on Titan",
+    "ja" : "進撃の巨人",
+    "ko" : "진격의 거인"
+  },
+  "set" : 87
 }

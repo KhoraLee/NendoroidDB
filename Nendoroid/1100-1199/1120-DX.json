@@ -1,21 +1,21 @@
 {
-  "num": "1120-DX",
-  "name": {
-    "ko": "닥터 스트레인지 어벤져스 인피니티 워 에디션 DX Ver.",
-    "ja": "ねんどろいど ドクター・ストレンジ インフィニティ・エディション DX Ver. (ねんどろいど どくたー・すとれんじ いんふぃにてぃ・えでぃしょん DX Ver.)",
-    "en": "Nendoroid Doctor Strange: Infinity Edition DX Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8243,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190412/8243/59490/large/256b63155311e1e62fdf4f8c9c799d65.jpg",
+  "name" : {
+    "en" : "Nendoroid Doctor Strange: Infinity Edition DX Ver.",
+    "ja" : "ねんどろいど ドクター・ストレンジ インフィニティ・エディション DX Ver. (ねんどろいど どくたー・すとれんじ いんふぃにてぃ・えでぃしょん DX Ver.)",
+    "ko" : "닥터 스트레인지 어벤져스 인피니티 워 에디션 DX Ver."
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／インフィニティ・ウォー",
-    "en": "Avengers: Infinity War"
-  },
-  "gsc_productNum": 8243,
-  "price": 8047,
-  "release_date": [
+  "num" : "1120-DX",
+  "price" : 8047,
+  "release_date" : [
     "2019/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190412/8243/59490/large/256b63155311e1e62fdf4f8c9c799d65.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Infinity War",
+    "ja" : "アベンジャーズ／インフィニティ・ウォー",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

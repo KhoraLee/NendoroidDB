@@ -1,21 +1,21 @@
 {
-  "num": "213",
-  "name": {
-    "ko": "니즈마 에이지",
-    "ja": "ねんどろいど 新妻エイジ (ねんどろいど にいづまえいじ)",
-    "en": "Nendoroid Eiji Niizuma (ねんどろいど にいづまえいじ)"
+  "gender" : "M",
+  "gsc_productNum" : 3385,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111128/3385/16351/large/3d250b775090fb4f84c5573beda30012.jpg",
+  "name" : {
+    "en" : "Nendoroid Eiji Niizuma (ねんどろいど にいづまえいじ)",
+    "ja" : "ねんどろいど 新妻エイジ (ねんどろいど にいづまえいじ)",
+    "ko" : "니즈마 에이지"
   },
-  "series": {
-    "ko": "바쿠만",
-    "ja": "バクマン。",
-    "en": "Bakuman"
-  },
-  "gsc_productNum": 3385,
-  "price": 3667,
-  "release_date": [
+  "num" : "213",
+  "price" : 3667,
+  "release_date" : [
     "2012/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111128/3385/16351/large/3d250b775090fb4f84c5573beda30012.jpg",
-  "gender": "M",
-  "set": 43
+  "series" : {
+    "en" : "Bakuman",
+    "ja" : "バクマン。",
+    "ko" : "바쿠만"
+  },
+  "set" : 43
 }

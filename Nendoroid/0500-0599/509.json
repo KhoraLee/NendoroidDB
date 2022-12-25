@@ -1,20 +1,20 @@
 {
-  "num": "509",
-  "name": {
-    "ko": "유우키 유우나 용사 에디션",
-    "ja": "ねんどろいど 結城友奈 勇者エディション (ねんどろいど ゆうきゆうな ゆうしゃえでぃしょん)",
-    "en": "Nendoroid Yuki Yuna: Hero Edition (ねんどろいど ゆうきゆうな ゆうしゃえでぃしょん)"
+  "gender" : "F",
+  "gsc_productNum" : 4881,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150310/4881/32588/large/4dc6acf3a504b2b390d72131b46bc013.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuki Yuna: Hero Edition (ねんどろいど ゆうきゆうな ゆうしゃえでぃしょん)",
+    "ja" : "ねんどろいど 結城友奈 勇者エディション (ねんどろいど ゆうきゆうな ゆうしゃえでぃしょん)",
+    "ko" : "유우키 유우나 용사 에디션"
   },
-  "series": {
-    "ko": "유우키 유우나는 용사다",
-    "ja": "結城友奈は勇者である",
-    "en": "Yuki Yuna is a Hero"
-  },
-  "gsc_productNum": 4881,
-  "price": 4278,
-  "release_date": [
+  "num" : "509",
+  "price" : 4278,
+  "release_date" : [
     "2015/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150310/4881/32588/large/4dc6acf3a504b2b390d72131b46bc013.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Yuki Yuna is a Hero",
+    "ja" : "結城友奈は勇者である",
+    "ko" : "유우키 유우나는 용사다"
+  }
 }

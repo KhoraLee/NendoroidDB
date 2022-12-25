@@ -1,22 +1,22 @@
 {
-  "num": "710",
-  "name": {
-    "ko": "캐스터",
-    "ja": "ねんどろいど キャスター (ねんどろいど きゃすたー)",
-    "en": "Nendoroid Caster"
+  "gender" : "F",
+  "gsc_productNum" : 6123,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161209/6123/42795/large/a0fd2bb981d8b3ad1b8f4fc3b2ece3c5.jpg",
+  "name" : {
+    "en" : "Nendoroid Caster",
+    "ja" : "ねんどろいど キャスター (ねんどろいど きゃすたー)",
+    "ko" : "캐스터"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/EXTRA",
-    "en": "Fate/EXTRA"
-  },
-  "gsc_productNum": 6123,
-  "price": 5297,
-  "release_date": [
+  "num" : "710",
+  "price" : 5297,
+  "release_date" : [
     "2017/05",
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161209/6123/42795/large/a0fd2bb981d8b3ad1b8f4fc3b2ece3c5.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/EXTRA",
+    "ja" : "Fate/EXTRA",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

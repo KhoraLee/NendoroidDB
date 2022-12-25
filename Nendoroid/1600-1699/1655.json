@@ -1,21 +1,21 @@
 {
-  "num": "1655",
-  "name": {
-    "ko": "코쵸우 시노부",
-    "ja": "ねんどろいど 胡蝶しのぶ (ねんどろいど こちょうしのぶ)",
-    "en": "Nendoroid Shinobu Kocho"
+  "gender" : "F",
+  "gsc_productNum" : 11453,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210705/11453/86902/large/6089a220da9ae563fad0975b3b577dea.jpg",
+  "name" : {
+    "en" : "Nendoroid Shinobu Kocho",
+    "ja" : "ねんどろいど 胡蝶しのぶ (ねんどろいど こちょうしのぶ)",
+    "ko" : "코쵸우 시노부"
   },
-  "series": {
-    "ko": "귀멸의 칼날",
-    "ja": "鬼滅の刃",
-    "en": "Demon Slayer: Kimetsu no Yaiba"
-  },
-  "gsc_productNum": 11453,
-  "price": 6300,
-  "release_date": [
+  "num" : "1655",
+  "price" : 6300,
+  "release_date" : [
     "2022/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210705/11453/86902/large/6089a220da9ae563fad0975b3b577dea.jpg",
-  "gender": "F",
-  "set": 222
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "set" : 222
 }

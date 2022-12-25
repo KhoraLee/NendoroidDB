@@ -1,21 +1,21 @@
 {
-  "num": "499",
-  "name": {
-    "ko": "사쿠라 미쿠다요",
-    "ja": "ねんどろいど 桜ミクダヨー (ねんどろいど さくらみくだよー)",
-    "en": "Nendoroid Sakura Mikudayo- (ねんどろいど さくらみくだよー)"
+  "gender" : "DAYO",
+  "gsc_productNum" : 4975,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150423/4975/33246/large/6fda0476a8d0577c80e0a1890f176c98.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Mikudayo- (ねんどろいど さくらみくだよー)",
+    "ja" : "ねんどろいど 桜ミクダヨー (ねんどろいど さくらみくだよー)",
+    "ko" : "사쿠라 미쿠다요"
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 4975,
-  "price": 3259,
-  "release_date": [
+  "num" : "499",
+  "price" : 3259,
+  "release_date" : [
     "2015/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150423/4975/33246/large/6fda0476a8d0577c80e0a1890f176c98.jpg",
-  "gender": "DAYO",
-  "set": 75
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 75
 }

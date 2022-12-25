@@ -1,21 +1,21 @@
 {
-  "num": "1437-DX",
-  "name": {
-    "ko": "네뷸라 엔드게임 DX Ver.",
-    "ja": "ねんどろいど ネビュラ エンドゲーム Ver. DX (ねんどろいど ねびゅら えんどげーむ Ver. DX)",
-    "en": "Nendoroid Nebula: Endgame Ver. DX"
+  "gender" : "F",
+  "gsc_productNum" : 9898,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200805/9898/72934/large/32f0b7cf213c7858a5fd21dcd132ed6e.jpg",
+  "name" : {
+    "en" : "Nendoroid Nebula: Endgame Ver. DX",
+    "ja" : "ねんどろいど ネビュラ エンドゲーム Ver. DX (ねんどろいど ねびゅら えんどげーむ Ver. DX)",
+    "ko" : "네뷸라 엔드게임 DX Ver."
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／エンドゲーム",
-    "en": "Avengers: Endgame"
-  },
-  "gsc_productNum": 9898,
-  "price": 8000,
-  "release_date": [
+  "num" : "1437-DX",
+  "price" : 8000,
+  "release_date" : [
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200805/9898/72934/large/32f0b7cf213c7858a5fd21dcd132ed6e.jpg",
-  "gender": "F",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

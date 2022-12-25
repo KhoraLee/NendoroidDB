@@ -1,20 +1,20 @@
 {
-  "num": "1708",
-  "name": {
-    "ko": "샐리",
-    "ja": "ねんどろいど サリー (ねんどろいど さりー)",
-    "en": "Nendoroid Sally"
+  "gender" : "F",
+  "gsc_productNum" : 11742,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210906/11742/89650/large/ca7d82205c8812f1e56ec4a5365f8120.jpg",
+  "name" : {
+    "en" : "Nendoroid Sally",
+    "ja" : "ねんどろいど サリー (ねんどろいど さりー)",
+    "ko" : "샐리"
   },
-  "series": {
-    "ko": "피치보이 리버사이드",
-    "ja": "ピーチボーイリバーサイド",
-    "en": "Peach Boy Riverside"
-  },
-  "gsc_productNum": 11742,
-  "price": 5900,
-  "release_date": [
+  "num" : "1708",
+  "price" : 5900,
+  "release_date" : [
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210906/11742/89650/large/ca7d82205c8812f1e56ec4a5365f8120.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Peach Boy Riverside",
+    "ja" : "ピーチボーイリバーサイド",
+    "ko" : "피치보이 리버사이드"
+  }
 }

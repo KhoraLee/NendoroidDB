@@ -1,23 +1,23 @@
 {
-  "num": "824",
-  "name": {
-    "ko": "아카이 슈이치",
-    "ja": "ねんどろいど 赤井秀一 (ねんどろいど あかいしゅういち)",
-    "en": "Nendoroid Shūichi Akai"
+  "gender" : "M",
+  "gsc_productNum" : 6721,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170913/6721/47542/large/f667c61d65bc82fb0c72cd4b20d84892.jpg",
+  "name" : {
+    "en" : "Nendoroid Shūichi Akai",
+    "ja" : "ねんどろいど 赤井秀一 (ねんどろいど あかいしゅういち)",
+    "ko" : "아카이 슈이치"
   },
-  "series": {
-    "ko": "명탐정 코난",
-    "ja": "名探偵コナン",
-    "en": "Detective Conan"
-  },
-  "gsc_productNum": 6721,
-  "price": 4700,
-  "release_date": [
+  "num" : "824",
+  "price" : 4700,
+  "release_date" : [
     "2018/05",
     "2018/11",
     "2019/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170913/6721/47542/large/f667c61d65bc82fb0c72cd4b20d84892.jpg",
-  "gender": "M",
-  "set": 161
+  "series" : {
+    "en" : "Detective Conan",
+    "ja" : "名探偵コナン",
+    "ko" : "명탐정 코난"
+  },
+  "set" : 161
 }

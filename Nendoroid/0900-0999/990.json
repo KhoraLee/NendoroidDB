@@ -1,22 +1,22 @@
 {
-  "num": "990",
-  "name": {
-    "ko": "캐스터/길가메시",
-    "ja": "ねんどろいど キャスター/ギルガメッシュ (ねんどろいど きゃすたー/ぎるがめっしゅ)",
-    "en": "Nendoroid Caster/Gilgamesh"
+  "gender" : "M",
+  "gsc_productNum" : 7592,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180904/7592/54336/large/e7da74fd1c015c176cd58ca646d4e4a5.jpg",
+  "name" : {
+    "en" : "Nendoroid Caster/Gilgamesh",
+    "ja" : "ねんどろいど キャスター/ギルガメッシュ (ねんどろいど きゃすたー/ぎるがめっしゅ)",
+    "ko" : "캐스터/길가메시"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 7592,
-  "price": 4584,
-  "release_date": [
+  "num" : "990",
+  "price" : 4584,
+  "release_date" : [
     "2019/03",
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180904/7592/54336/large/e7da74fd1c015c176cd58ca646d4e4a5.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

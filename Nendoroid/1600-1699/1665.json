@@ -1,21 +1,21 @@
 {
-  "num": "1665",
-  "name": {
-    "ko": "유키",
-    "ja": "ねんどろいど 千 (ねんどろいど ゆき)",
-    "en": "Nendoroid Yuki"
+  "gender" : "M",
+  "gsc_productNum" : 11379,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210621/11379/86182/large/c586530a9543cdb35a106c3813e35a6a.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuki",
+    "ja" : "ねんどろいど 千 (ねんどろいど ゆき)",
+    "ko" : "유키"
   },
-  "series": {
-    "ko": "아이돌리쉬 세븐",
-    "ja": "アイドリッシュセブン",
-    "en": "IDOLiSH7"
-  },
-  "gsc_productNum": 11379,
-  "price": 5300,
-  "release_date": [
+  "num" : "1665",
+  "price" : 5300,
+  "release_date" : [
     "2022/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210621/11379/86182/large/c586530a9543cdb35a106c3813e35a6a.jpg",
-  "gender": "M",
-  "set": 174
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  },
+  "set" : 174
 }

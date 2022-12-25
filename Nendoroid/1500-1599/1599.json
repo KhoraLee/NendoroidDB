@@ -1,21 +1,21 @@
 {
-  "num": "1599",
-  "name": {
-    "ko": "허묵 요우코 Ver.",
-    "ja": "ねんどろいど シモン 妖狐Ver. (ねんどろいど しもん ようこVer.)",
-    "en": "Nendoroid Mo Xu: Fox Spirit Ver."
+  "gender" : "M",
+  "gsc_productNum" : 10988,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210325/10988/82789/large/9fec95bdc8ded3ff75a28415b341c42e.jpg",
+  "name" : {
+    "en" : "Nendoroid Mo Xu: Fox Spirit Ver.",
+    "ja" : "ねんどろいど シモン 妖狐Ver. (ねんどろいど しもん ようこVer.)",
+    "ko" : "허묵 요우코 Ver."
   },
-  "series": {
-    "ko": "러브앤프로듀서",
-    "ja": "恋とプロデューサー～EVOL×LOVE～",
-    "en": "Love\u0026Producer"
-  },
-  "gsc_productNum": 10988,
-  "price": 5900,
-  "release_date": [
+  "num" : "1599",
+  "price" : 5900,
+  "release_date" : [
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210325/10988/82789/large/9fec95bdc8ded3ff75a28415b341c42e.jpg",
-  "gender": "M",
-  "set": 209
+  "series" : {
+    "en" : "Love&Producer",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "set" : 209
 }

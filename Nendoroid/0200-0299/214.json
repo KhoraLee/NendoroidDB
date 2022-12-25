@@ -1,22 +1,22 @@
 {
-  "num": "214",
-  "name": {
-    "ko": "소닉 더 헤지혹",
-    "ja": "ねんどろいど ソニック・ザ・ヘッジホッグ (ねんどろいど そにっく・ざ・へっじほっぐ)",
-    "en": "Nendoroid Sonic the Hedgehog"
+  "gender" : "M",
+  "gsc_productNum" : 3397,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111130/3397/63196/large/f38b6904261dde5a937195fb127c57c5.jpg",
+  "name" : {
+    "en" : "Nendoroid Sonic the Hedgehog",
+    "ja" : "ねんどろいど ソニック・ザ・ヘッジホッグ (ねんどろいど そにっく・ざ・へっじほっぐ)",
+    "ko" : "소닉 더 헤지혹"
   },
-  "series": {
-    "ko": "소닉 더 헤지혹 시리즈",
-    "ja": "ソニック・ザ・ヘッジホッグ",
-    "en": "Sonic the Hedgehog"
-  },
-  "gsc_productNum": 3397,
-  "price": 3900,
-  "release_date": [
+  "num" : "214",
+  "price" : 3900,
+  "release_date" : [
     "2012/04",
     "2013/10",
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111130/3397/63196/large/f38b6904261dde5a937195fb127c57c5.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Sonic the Hedgehog",
+    "ja" : "ソニック・ザ・ヘッジホッグ",
+    "ko" : "소닉 더 헤지혹 시리즈"
+  }
 }

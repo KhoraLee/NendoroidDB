@@ -1,21 +1,21 @@
 {
-  "num": "1151",
-  "name": {
-    "ko": "하츠네 미쿠 매지컬 미라이 2018 Ver.",
-    "ja": "ねんどろいど 初音ミク マジカルミライ 2018Ver. (ねんどろいど はつねみく まじかるみらい 2018Ver.)",
-    "en": "Nendoroid Hatsune Miku: Magical Mirai 2018 Ver."
+  "gender" : "F",
+  "gsc_productNum" : 8513,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190703/8513/61845/large/63fa6fcd5612397b52ac137175515e92.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Magical Mirai 2018 Ver.",
+    "ja" : "ねんどろいど 初音ミク マジカルミライ 2018Ver. (ねんどろいど はつねみく まじかるみらい 2018Ver.)",
+    "ko" : "하츠네 미쿠 매지컬 미라이 2018 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 8513,
-  "price": 5093,
-  "release_date": [
+  "num" : "1151",
+  "price" : 5093,
+  "release_date" : [
     "2020/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190703/8513/61845/large/63fa6fcd5612397b52ac137175515e92.jpg",
-  "gender": "F",
-  "set": 141
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 141
 }

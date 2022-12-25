@@ -1,21 +1,21 @@
 {
-  "num": "526",
-  "name": {
-    "ko": "히자마루 아카리",
-    "ja": "ねんどろいど 膝丸燈 スーパームーバブル・エディション (ねんどろいど ひざまるあかり)",
-    "en": "Nendoroid Akari Hizamaru: Super Movable Edition (ねんどろいど ひざまるあかり)"
+  "gender" : "M",
+  "gsc_productNum" : 5029,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150522/5029/33666/large/14c8a3a8c90e10e5bcbb6e398beb4a32.jpg",
+  "name" : {
+    "en" : "Nendoroid Akari Hizamaru: Super Movable Edition (ねんどろいど ひざまるあかり)",
+    "ja" : "ねんどろいど 膝丸燈 スーパームーバブル・エディション (ねんどろいど ひざまるあかり)",
+    "ko" : "히자마루 아카리"
   },
-  "series": {
-    "ko": "테라포마스",
-    "ja": "テラフォーマーズ",
-    "en": "TERRAFORMARS"
-  },
-  "gsc_productNum": 5029,
-  "price": 4584,
-  "release_date": [
+  "num" : "526",
+  "price" : 4584,
+  "release_date" : [
     "2015/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150522/5029/33666/large/14c8a3a8c90e10e5bcbb6e398beb4a32.jpg",
-  "gender": "M",
-  "set": 119
+  "series" : {
+    "en" : "TERRAFORMARS",
+    "ja" : "テラフォーマーズ",
+    "ko" : "테라포마스"
+  },
+  "set" : 119
 }

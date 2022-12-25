@@ -1,20 +1,20 @@
 {
-  "num": "1257",
-  "name": {
-    "ko": "레아님",
-    "ja": "ねんどろいど レアさま（Lady Rhea） (ねんどろいど れあさま)",
-    "en": "Nendoroid Lady Rhea"
+  "gender" : "F",
+  "gsc_productNum" : 9049,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191203/9049/65726/large/0d2b2ad2fe0145d58fd6e2f6d3d4809a.jpg",
+  "name" : {
+    "en" : "Nendoroid Lady Rhea",
+    "ja" : "ねんどろいど レアさま（Lady Rhea） (ねんどろいど れあさま)",
+    "ko" : "레아님"
   },
-  "series": {
-    "ko": "MMD 사용자 모델",
-    "ja": "MMDユーザーモデル　レアさま",
-    "en": "MMD User Model Lady Rhea"
-  },
-  "gsc_productNum": 9049,
-  "price": 5800,
-  "release_date": [
+  "num" : "1257",
+  "price" : 5800,
+  "release_date" : [
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191203/9049/65726/large/0d2b2ad2fe0145d58fd6e2f6d3d4809a.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "MMD User Model Lady Rhea",
+    "ja" : "MMDユーザーモデル　レアさま",
+    "ko" : "MMD 사용자 모델"
+  }
 }

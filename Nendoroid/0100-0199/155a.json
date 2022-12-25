@@ -1,21 +1,21 @@
 {
-  "num": "155a",
-  "name": {
-    "ko": "알드라",
-    "ja": "ねんどろいど アルドラ (ねんどろいど あるどら)",
-    "en": "Nendoroid Aldora (ねんどろいど あるどら)"
+  "gender" : "F",
+  "gsc_productNum" : 3084,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110126/3084/12732/large/f52f9369c1310b7acdd04457cc7f0556.jpg",
+  "name" : {
+    "en" : "Nendoroid Aldora (ねんどろいど あるどら)",
+    "ja" : "ねんどろいど アルドラ (ねんどろいど あるどら)",
+    "ko" : "알드라"
   },
-  "series": {
-    "ko": "퀸즈 블레이드",
-    "ja": "クイーンズブレイド",
-    "en": "Queen\u0027s Blade"
-  },
-  "gsc_productNum": 3084,
-  "price": 3667,
-  "release_date": [
+  "num" : "155a",
+  "price" : 3667,
+  "release_date" : [
     "2011/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110126/3084/12732/large/f52f9369c1310b7acdd04457cc7f0556.jpg",
-  "gender": "F",
-  "set": 35
+  "series" : {
+    "en" : "Queen's Blade",
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
 }

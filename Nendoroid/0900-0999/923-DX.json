@@ -1,21 +1,21 @@
 {
-  "num": "923-DX",
-  "name": {
-    "ko": "캡틴 아메리카 어벤져스 인피니티 워 에디션 DX",
-    "ja": "ねんどろいど キャプテン・アメリカ インフィニティ・エディション DX Ver. (ねんどろいど きゃぷてん・あめりか いんふぃにてぃ・えでぃしょん DX Ver.)",
-    "en": "Nendoroid Captain America: Infinity Edition DX Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8063,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190208/8063/58064/large/7cfa0f1a879152eb5dbc2bde896b4ea5.jpg",
+  "name" : {
+    "en" : "Nendoroid Captain America: Infinity Edition DX Ver.",
+    "ja" : "ねんどろいど キャプテン・アメリカ インフィニティ・エディション DX Ver. (ねんどろいど きゃぷてん・あめりか いんふぃにてぃ・えでぃしょん DX Ver.)",
+    "ko" : "캡틴 아메리카 어벤져스 인피니티 워 에디션 DX"
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／インフィニティ・ウォー",
-    "en": "Avengers: Infinity War"
-  },
-  "gsc_productNum": 8063,
-  "price": 7231,
-  "release_date": [
+  "num" : "923-DX",
+  "price" : 7231,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190208/8063/58064/large/7cfa0f1a879152eb5dbc2bde896b4ea5.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Infinity War",
+    "ja" : "アベンジャーズ／インフィニティ・ウォー",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

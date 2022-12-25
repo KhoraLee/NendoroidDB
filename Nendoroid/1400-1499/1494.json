@@ -1,21 +1,21 @@
 {
-  "num": "1494",
-  "name": {
-    "ko": "나나미 야치요",
-    "ja": "ねんどろいど 七海やちよ (ねんどろいど ななみやちよ)",
-    "en": "Nendoroid Yachiyo Nanami"
+  "gender" : "F",
+  "gsc_productNum" : 10287,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201022/10287/76274/large/bf8369b9d20bd6e2bc3d5a1527c535e0.jpg",
+  "name" : {
+    "en" : "Nendoroid Yachiyo Nanami",
+    "ja" : "ねんどろいど 七海やちよ (ねんどろいど ななみやちよ)",
+    "ko" : "나나미 야치요"
   },
-  "series": {
-    "ko": "마법소녀 마도카 마기카",
-    "ja": "マギアレコード 魔法少女まどか☆マギカ外伝",
-    "en": "Puella Magi Madoka Magica Side Story: Magia Record"
-  },
-  "gsc_productNum": 10287,
-  "price": 6900,
-  "release_date": [
+  "num" : "1494",
+  "price" : 6900,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201022/10287/76274/large/bf8369b9d20bd6e2bc3d5a1527c535e0.jpg",
-  "gender": "F",
-  "set": 46
+  "series" : {
+    "en" : "Puella Magi Madoka Magica Side Story: Magia Record",
+    "ja" : "マギアレコード 魔法少女まどか☆マギカ外伝",
+    "ko" : "마법소녀 마도카 마기카"
+  },
+  "set" : 46
 }

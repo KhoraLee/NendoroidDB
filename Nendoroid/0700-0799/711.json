@@ -1,22 +1,22 @@
 {
-  "num": "711",
-  "name": {
-    "ko": "포푸코",
-    "ja": "ねんどろいど ポプ子 (ねんどろいど ぽぷこ)",
-    "en": "Nendoroid Popuko"
+  "gender" : "F",
+  "gsc_productNum" : 6121,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161208/6121/42770/large/4052b217ff94a5c38f154fd2e7d7f761.jpg",
+  "name" : {
+    "en" : "Nendoroid Popuko",
+    "ja" : "ねんどろいど ポプ子 (ねんどろいど ぽぷこ)",
+    "ko" : "포푸코"
   },
-  "series": {
-    "ko": "팝 팀 에픽",
-    "ja": "ポプテピピック",
-    "en": "POP TEAM EPIC"
-  },
-  "gsc_productNum": 6121,
-  "price": 4584,
-  "release_date": [
+  "num" : "711",
+  "price" : 4584,
+  "release_date" : [
     "2017/06",
     "2018/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161208/6121/42770/large/4052b217ff94a5c38f154fd2e7d7f761.jpg",
-  "gender": "F",
-  "set": 149
+  "series" : {
+    "en" : "POP TEAM EPIC",
+    "ja" : "ポプテピピック",
+    "ko" : "팝 팀 에픽"
+  },
+  "set" : 149
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1481",
-  "name": {
-    "ko": "데이다라",
-    "ja": "ねんどろいど デイダラ (ねんどろいど でいだら)",
-    "en": "Nendoroid Deidara"
+  "gender" : "M",
+  "gsc_productNum" : 10144,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200928/10144/75048/large/b046eeb56ed8ae04e8574f2c9629b4eb.jpg",
+  "name" : {
+    "en" : "Nendoroid Deidara",
+    "ja" : "ねんどろいど デイダラ (ねんどろいど でいだら)",
+    "ko" : "데이다라"
   },
-  "series": {
-    "ko": "나루토",
-    "ja": "NARUTO -ナルト- 疾風伝",
-    "en": "Naruto Shippuden"
-  },
-  "gsc_productNum": 10144,
-  "price": 5800,
-  "release_date": [
+  "num" : "1481",
+  "price" : 5800,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200928/10144/75048/large/b046eeb56ed8ae04e8574f2c9629b4eb.jpg",
-  "gender": "M",
-  "set": 144
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  },
+  "set" : 144
 }

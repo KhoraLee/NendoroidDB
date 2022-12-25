@@ -1,21 +1,21 @@
 {
-  "num": "433",
-  "name": {
-    "ko": "잔 카구야 다르크",
-    "ja": "ねんどろいど ジャンヌ・カグヤ・ダルク (ねんどろいど じゃんぬ・かぐや・だるく)",
-    "en": "Nendoroid Jeanne Kaguya d\u0027Arc (ねんどろいど じゃんぬ・かぐや・だるく)"
+  "gender" : "F",
+  "gsc_productNum" : 4464,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140617/4464/29323/large/83bc62127df9db1474a733a4f8f8fae6.jpg",
+  "name" : {
+    "en" : "Nendoroid Jeanne Kaguya d'Arc (ねんどろいど じゃんぬ・かぐや・だるく)",
+    "ja" : "ねんどろいど ジャンヌ・カグヤ・ダルク (ねんどろいど じゃんぬ・かぐや・だるく)",
+    "ko" : "잔 카구야 다르크"
   },
-  "series": {
-    "ko": "노부나가 더 풀",
-    "ja": "ノブナガ・ザ・フール",
-    "en": "Nobunaga the Fool"
-  },
-  "gsc_productNum": 4464,
-  "price": 4278,
-  "release_date": [
+  "num" : "433",
+  "price" : 4278,
+  "release_date" : [
     "2014/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140617/4464/29323/large/83bc62127df9db1474a733a4f8f8fae6.jpg",
-  "gender": "F",
-  "set": 104
+  "series" : {
+    "en" : "Nobunaga the Fool",
+    "ja" : "ノブナガ・ザ・フール",
+    "ko" : "노부나가 더 풀"
+  },
+  "set" : 104
 }

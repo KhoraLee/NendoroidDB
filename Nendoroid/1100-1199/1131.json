@@ -1,21 +1,21 @@
 {
-  "num": "1131",
-  "name": {
-    "ko": "하치스카 코테츠",
-    "ja": "ねんどろいど 蜂須賀虎徹 (ねんどろいど はちすかこてつ)",
-    "en": "Nendoroid Hachisukakotetsu"
+  "gender" : "M",
+  "gsc_productNum" : 8330,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190514/8330/60159/large/6f9da21c4705ef9945a9c4311e97d8d5.jpg",
+  "name" : {
+    "en" : "Nendoroid Hachisukakotetsu",
+    "ja" : "ねんどろいど 蜂須賀虎徹 (ねんどろいど はちすかこてつ)",
+    "ko" : "하치스카 코테츠"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 8330,
-  "price": 4787,
-  "release_date": [
+  "num" : "1131",
+  "price" : 4787,
+  "release_date" : [
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190514/8330/60159/large/6f9da21c4705ef9945a9c4311e97d8d5.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

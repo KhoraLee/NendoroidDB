@@ -1,21 +1,21 @@
 {
-  "num": "1184",
-  "name": {
-    "ko": "키르아 조르딕",
-    "ja": "ねんどろいど キルア\u003dゾルディック (ねんどろいど きるあ\u003dぞるでぃっく)",
-    "en": "Nendoroid Killua Zoldyck"
+  "gender" : "M",
+  "gsc_productNum" : 8658,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190806/8658/62670/large/34aa6af4e3459fd47a34820307ff7978.jpg",
+  "name" : {
+    "en" : "Nendoroid Killua Zoldyck",
+    "ja" : "ねんどろいど キルア=ゾルディック (ねんどろいど きるあ=ぞるでぃっく)",
+    "ko" : "키르아 조르딕"
   },
-  "series": {
-    "ko": "헌터X헌터",
-    "ja": "HUNTER×HUNTER",
-    "en": "HUNTER x HUNTER"
-  },
-  "gsc_productNum": 8658,
-  "price": 5280,
-  "release_date": [
+  "num" : "1184",
+  "price" : 5280,
+  "release_date" : [
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190806/8658/62670/large/34aa6af4e3459fd47a34820307ff7978.jpg",
-  "gender": "M",
-  "set": 220
+  "series" : {
+    "en" : "HUNTER x HUNTER",
+    "ja" : "HUNTER×HUNTER",
+    "ko" : "헌터X헌터"
+  },
+  "set" : 220
 }

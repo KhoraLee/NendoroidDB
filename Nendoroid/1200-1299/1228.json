@@ -1,21 +1,21 @@
 {
-  "num": "1228",
-  "name": {
-    "ko": "스파이더 그웬 스파이더 버스 Ver.",
-    "ja": "ねんどろいど スパイダーグウェン スパイダーバースVer. (ねんどろいど ぱいだーぐうぇん すぱいだーばーすVer.)",
-    "en": "Nendoroid Spider-Gwen: Spider-Verse Ver."
+  "gender" : "F",
+  "gsc_productNum" : 8940,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191028/8940/64883/large/845848d800b8dc51ed95c8b4435ba8c5.jpg",
+  "name" : {
+    "en" : "Nendoroid Spider-Gwen: Spider-Verse Ver.",
+    "ja" : "ねんどろいど スパイダーグウェン スパイダーバースVer. (ねんどろいど ぱいだーぐうぇん すぱいだーばーすVer.)",
+    "ko" : "스파이더 그웬 스파이더 버스 Ver."
   },
-  "series": {
-    "ko": "스파이더맨: 뉴 유니버스",
-    "ja": "スパイダーマン：スパイダーバース",
-    "en": "Spider-Man: Into the Spider-Verse"
-  },
-  "gsc_productNum": 8940,
-  "price": 4800,
-  "release_date": [
+  "num" : "1228",
+  "price" : 4800,
+  "release_date" : [
     "2020/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191028/8940/64883/large/845848d800b8dc51ed95c8b4435ba8c5.jpg",
-  "gender": "F",
-  "set": 219
+  "series" : {
+    "en" : "Spider-Man: Into the Spider-Verse",
+    "ja" : "スパイダーマン：スパイダーバース",
+    "ko" : "스파이더맨: 뉴 유니버스"
+  },
+  "set" : 219
 }

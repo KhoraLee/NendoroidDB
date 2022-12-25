@@ -1,21 +1,21 @@
 {
-  "num": "1264",
-  "name": {
-    "ko": "UMP45",
-    "ja": "ねんどろいど UMP45 (ねんどろいど UMP45)",
-    "en": "Nendoroid UMP45"
+  "gender" : "F",
+  "gsc_productNum" : 9133,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191224/9133/66418/large/15c6004239403e30a50071e97458369f.jpg",
+  "name" : {
+    "en" : "Nendoroid UMP45",
+    "ja" : "ねんどろいど UMP45 (ねんどろいど UMP45)",
+    "ko" : "UMP45"
   },
-  "series": {
-    "ko": "소녀전선",
-    "ja": "ドールズフロントライン",
-    "en": "Girls\u0027 Frontline"
-  },
-  "gsc_productNum": 9133,
-  "price": 5900,
-  "release_date": [
+  "num" : "1264",
+  "price" : 5900,
+  "release_date" : [
     "2020/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191224/9133/66418/large/15c6004239403e30a50071e97458369f.jpg",
-  "gender": "F",
-  "set": 210
+  "series" : {
+    "en" : "Girls' Frontline",
+    "ja" : "ドールズフロントライン",
+    "ko" : "소녀전선"
+  },
+  "set" : 210
 }

@@ -1,21 +1,21 @@
 {
-  "num": "731",
-  "name": {
-    "ko": "츠시마 요시코",
-    "ja": "ねんどろいど 津島善子 (ねんどろいど つしまよしこ)",
-    "en": "Nendoroid Yoshiko Tsushima"
+  "gender" : "F",
+  "gsc_productNum" : 6215,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170127/6215/43474/large/5331b823f43da59f77e3241177efcc92.jpg",
+  "name" : {
+    "en" : "Nendoroid Yoshiko Tsushima",
+    "ja" : "ねんどろいど 津島善子 (ねんどろいど つしまよしこ)",
+    "ko" : "츠시마 요시코"
   },
-  "series": {
-    "ko": "러브라이브! 선샤인!!",
-    "ja": "ラブライブ！サンシャイン!!",
-    "en": "LoveLive!Sunshine!!"
-  },
-  "gsc_productNum": 6215,
-  "price": 3565,
-  "release_date": [
+  "num" : "731",
+  "price" : 3565,
+  "release_date" : [
     "2017/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170127/6215/43474/large/5331b823f43da59f77e3241177efcc92.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!Sunshine!!",
+    "ja" : "ラブライブ！サンシャイン!!",
+    "ko" : "러브라이브! 선샤인!!"
+  },
+  "set" : 105
 }

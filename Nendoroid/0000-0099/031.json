@@ -1,21 +1,21 @@
 {
-  "num": "031",
-  "name": {
-    "ko": "L 순록 Ver.",
-    "ja": "ねんどろいど L トナカイVer. (える　となかいばーじょん　ねんどろいど)",
-    "en": "Nendoroid L Reindeer Version (える　となかいばーじょん　ねんどろいど)"
+  "gender" : "M",
+  "gsc_productNum" : 639,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/639/985/large/a3099e5cd5373ccab68ad52bf73a16c4.jpg",
+  "name" : {
+    "en" : "Nendoroid L Reindeer Version (える　となかいばーじょん　ねんどろいど)",
+    "ja" : "ねんどろいど L トナカイVer. (える　となかいばーじょん　ねんどろいど)",
+    "ko" : "L 순록 Ver."
   },
-  "series": {
-    "ko": "데스노트",
-    "ja": "DEATH NOTE",
-    "en": "DEATH NOTE"
-  },
-  "gsc_productNum": 639,
-  "price": 2619,
-  "release_date": [
+  "num" : "031",
+  "price" : 2619,
+  "release_date" : [
     "2007/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/639/985/large/a3099e5cd5373ccab68ad52bf73a16c4.jpg",
-  "gender": "M",
-  "set": 5
+  "series" : {
+    "en" : "DEATH NOTE",
+    "ja" : "DEATH NOTE",
+    "ko" : "데스노트"
+  },
+  "set" : 5
 }

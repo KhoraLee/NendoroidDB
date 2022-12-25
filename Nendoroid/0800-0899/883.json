@@ -1,20 +1,20 @@
 {
-  "num": "883",
-  "name": {
-    "ko": "롤 록맨 11 Ver.",
-    "ja": "ねんどろいど ロール ロックマン11Ver. (ねんどろいど ろーる ろっくまん11Ver.)",
-    "en": "Nendoroid Roll: Mega Man 11 Ver."
+  "gsc_productNum" : 7025,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180130/7025/49932/large/d08cf2f50aef15cb4a9072b25e182641.jpg",
+  "name" : {
+    "en" : "Nendoroid Roll: Mega Man 11 Ver.",
+    "ja" : "ねんどろいど ロール ロックマン11Ver. (ねんどろいど ろーる ろっくまん11Ver.)",
+    "ko" : "롤 록맨 11 Ver."
   },
-  "series": {
-    "ko": "록맨 시리즈",
-    "ja": "ロックマン11 運命の歯車！！",
-    "en": "Mega Man 11"
-  },
-  "gsc_productNum": 7025,
-  "price": 4888,
-  "release_date": [
+  "num" : "883",
+  "price" : 4888,
+  "release_date" : [
     "2018/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180130/7025/49932/large/d08cf2f50aef15cb4a9072b25e182641.jpg",
-  "set": 122
+  "series" : {
+    "en" : "Mega Man 11",
+    "ja" : "ロックマン11 運命の歯車！！",
+    "ko" : "록맨 시리즈"
+  },
+  "set" : 122
 }

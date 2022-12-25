@@ -1,20 +1,20 @@
 {
-  "num": "607",
-  "name": {
-    "ko": "유후인 엔",
-    "ja": "ねんどろいど 由布院煙 (ねんどろいど ゆふいんえん)",
-    "en": "Nendoroid En Yufuin"
+  "gender" : "M",
+  "gsc_productNum" : 5495,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160215/5495/37629/large/e0a718cb72879f4c6887fc1621c21103.jpg",
+  "name" : {
+    "en" : "Nendoroid En Yufuin",
+    "ja" : "ねんどろいど 由布院煙 (ねんどろいど ゆふいんえん)",
+    "ko" : "유후인 엔"
   },
-  "series": {
-    "ko": "미남고교 지구방위부 LOVE!",
-    "ja": "美男高校地球防衛部LOVE!",
-    "en": "Cute High Earth Defense Club Love!"
-  },
-  "gsc_productNum": 5495,
-  "price": 5093,
-  "release_date": [
+  "num" : "607",
+  "price" : 5093,
+  "release_date" : [
     "2016/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160215/5495/37629/large/e0a718cb72879f4c6887fc1621c21103.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Cute High Earth Defense Club Love!",
+    "ja" : "美男高校地球防衛部LOVE!",
+    "ko" : "미남고교 지구방위부 LOVE!"
+  }
 }

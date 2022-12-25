@@ -1,21 +1,21 @@
 {
-  "num": "143a",
-  "name": {
-    "ko": "리스티",
-    "ja": "ねんどろいど リスティ (ねんどろいど りすてぃ)",
-    "en": "Nendoroid Risty (ねんどろいど りすてぃ)"
+  "gender" : "F",
+  "gsc_productNum" : 3013,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20101108/3013/11932/large/9143af84a360a1c9df4deb3c7bbcfcc0.jpg",
+  "name" : {
+    "en" : "Nendoroid Risty (ねんどろいど りすてぃ)",
+    "ja" : "ねんどろいど リスティ (ねんどろいど りすてぃ)",
+    "ko" : "리스티"
   },
-  "series": {
-    "ko": "퀸즈 블레이드",
-    "ja": "クイーンズブレイド",
-    "en": "Queen\u0027s Blade"
-  },
-  "gsc_productNum": 3013,
-  "price": 3667,
-  "release_date": [
+  "num" : "143a",
+  "price" : 3667,
+  "release_date" : [
     "2011/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20101108/3013/11932/large/9143af84a360a1c9df4deb3c7bbcfcc0.jpg",
-  "gender": "F",
-  "set": 35
+  "series" : {
+    "en" : "Queen's Blade",
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
 }

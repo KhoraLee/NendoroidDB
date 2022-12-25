@@ -1,21 +1,21 @@
 {
-  "num": "1091",
-  "name": {
-    "ko": "제갈량",
-    "ja": "ねんどろいど 諸葛亮 (ねんどろいど しょかつりょう)",
-    "en": "Nendoroid Zhuge Liang"
+  "gender" : "M",
+  "gsc_productNum" : 8085,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190219/8085/58251/large/b0facb3f91403a9d274384f234f1ce48.jpg",
+  "name" : {
+    "en" : "Nendoroid Zhuge Liang",
+    "ja" : "ねんどろいど 諸葛亮 (ねんどろいど しょかつりょう)",
+    "ko" : "제갈량"
   },
-  "series": {
-    "ko": "왕자영요",
-    "ja": "王者荣耀",
-    "en": "King Of Glory"
-  },
-  "gsc_productNum": 8085,
-  "price": 5297,
-  "release_date": [
+  "num" : "1091",
+  "price" : 5297,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190219/8085/58251/large/b0facb3f91403a9d274384f234f1ce48.jpg",
-  "gender": "M",
-  "set": 189
+  "series" : {
+    "en" : "King Of Glory",
+    "ja" : "王者荣耀",
+    "ko" : "왕자영요"
+  },
+  "set" : 189
 }

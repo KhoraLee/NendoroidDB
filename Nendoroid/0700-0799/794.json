@@ -1,22 +1,22 @@
 {
-  "num": "794",
-  "name": {
-    "ko": "지브릴",
-    "ja": "ねんどろいど ジブリール (ねんどろいど じぶりーる)",
-    "en": "Nendoroid Jibril"
+  "gender" : "F",
+  "gsc_productNum" : 6581,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170713/6581/46509/large/55621b5c146b3481fd01265c1d724f40.jpg",
+  "name" : {
+    "en" : "Nendoroid Jibril",
+    "ja" : "ねんどろいど ジブリール (ねんどろいど じぶりーる)",
+    "ko" : "지브릴"
   },
-  "series": {
-    "ko": "노게임 노라이프",
-    "ja": "ノーゲーム・ノーライフ",
-    "en": "No Game No Life"
-  },
-  "gsc_productNum": 6581,
-  "price": 4888,
-  "release_date": [
+  "num" : "794",
+  "price" : 4888,
+  "release_date" : [
     "2018/01",
     "2023/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170713/6581/46509/large/55621b5c146b3481fd01265c1d724f40.jpg",
-  "gender": "F",
-  "set": 136
+  "series" : {
+    "en" : "No Game No Life",
+    "ja" : "ノーゲーム・ノーライフ",
+    "ko" : "노게임 노라이프"
+  },
+  "set" : 136
 }

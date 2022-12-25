@@ -1,21 +1,21 @@
 {
-  "num": "490",
-  "name": {
-    "ko": "다이도우지 토모요",
-    "ja": "ねんどろいど 大道寺知世 (ねんどろいど だいどうじともよ)",
-    "en": "Nendoroid Tomoyo Daidouji"
+  "gender" : "F",
+  "gsc_productNum" : 4793,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141218/4793/31907/large/d142845cd1a24d0d15322902907ec2d0.jpg",
+  "name" : {
+    "en" : "Nendoroid Tomoyo Daidouji",
+    "ja" : "ねんどろいど 大道寺知世 (ねんどろいど だいどうじともよ)",
+    "ko" : "다이도우지 토모요"
   },
-  "series": {
-    "ko": "카드캡터 사쿠라",
-    "ja": "カードキャプターさくら",
-    "en": "Cardcaptor Sakura"
-  },
-  "gsc_productNum": 4793,
-  "price": 4888,
-  "release_date": [
+  "num" : "490",
+  "price" : 4888,
+  "release_date" : [
     "2015/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141218/4793/31907/large/d142845cd1a24d0d15322902907ec2d0.jpg",
-  "gender": "F",
-  "set": 94
+  "series" : {
+    "en" : "Cardcaptor Sakura",
+    "ja" : "カードキャプターさくら",
+    "ko" : "카드캡터 사쿠라"
+  },
+  "set" : 94
 }

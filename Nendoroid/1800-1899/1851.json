@@ -1,21 +1,21 @@
 {
-  "num": "1851",
-  "name": {
-    "ko": "쿠죠 죠타로 스톤 오션 Ver.",
-    "ja": "ねんどろいど 空条承太郎 ストーンオーシャンVer. (ねんどろいど くうじょうじょうたろう すとーんおーしゃんVer.)",
-    "en": "Nendoroid Jotaro Kujo: Stone Ocean Ver."
+  "gender" : "M",
+  "gsc_productNum" : 12468,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220315/12468/96684/large/b4a214754cc42d9e813b7801124a6cfd.jpg",
+  "name" : {
+    "en" : "Nendoroid Jotaro Kujo: Stone Ocean Ver.",
+    "ja" : "ねんどろいど 空条承太郎 ストーンオーシャンVer. (ねんどろいど くうじょうじょうたろう すとーんおーしゃんVer.)",
+    "ko" : "쿠죠 죠타로 스톤 오션 Ver."
   },
-  "series": {
-    "ko": "죠죠의 기묘한 모험",
-    "ja": "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』",
-    "en": "JoJo’s Bizarre Adventure: Stone Ocean"
-  },
-  "gsc_productNum": 12468,
-  "price": 5478,
-  "release_date": [
+  "num" : "1851",
+  "price" : 5478,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220315/12468/96684/large/b4a214754cc42d9e813b7801124a6cfd.jpg",
-  "gender": "M",
-  "set": 191
+  "series" : {
+    "en" : "JoJo’s Bizarre Adventure: Stone Ocean",
+    "ja" : "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 191
 }

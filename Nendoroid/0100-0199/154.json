@@ -1,18 +1,18 @@
 {
-  "num": "154",
-  "name": {
-    "ko": "유즈하라 코노미\u0026코우사카 타마키 Dungeon Travelers 세트",
-    "ja": "ねんどろいど 柚原このみ＆向坂環 ダンジョントラベラーズセット (ゆずはらこのみ＆こうさかたまき だんじょんとらべらーずせっと)"
+  "gender" : "F",
+  "gsc_productNum" : 3391,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111129/3391/16394/large/31ea84fac48b0ad7e0e63a2afaee9d4d.jpg",
+  "name" : {
+    "ja" : "ねんどろいど 柚原このみ＆向坂環 ダンジョントラベラーズセット (ゆずはらこのみ＆こうさかたまき だんじょんとらべらーずせっと)",
+    "ko" : "유즈하라 코노미&코우사카 타마키 Dungeon Travelers 세트"
   },
-  "series": {
-    "ko": "투하트 2 Dungeon Travelers",
-    "ja": "ToHeart2 ダンジョントラベラーズ"
-  },
-  "gsc_productNum": 3391,
-  "price": 11880,
-  "release_date": [
+  "num" : "154",
+  "price" : 11880,
+  "release_date" : [
     "2011/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111129/3391/16394/large/31ea84fac48b0ad7e0e63a2afaee9d4d.jpg",
-  "gender": "F"
+  "series" : {
+    "ja" : "ToHeart2 ダンジョントラベラーズ",
+    "ko" : "투하트 2 Dungeon Travelers"
+  }
 }

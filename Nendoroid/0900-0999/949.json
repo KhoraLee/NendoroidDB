@@ -1,21 +1,21 @@
 {
-  "num": "949",
-  "name": {
-    "ko": "정크랫",
-    "ja": "ねんどろいど ジャンクラット クラシックスキン・エディション (ねんどろいど じゃんくらっと くらしっくすきん・えでぃしょん)",
-    "en": "Nendoroid Junkrat: Classic Skin Edition"
+  "gender" : "M",
+  "gsc_productNum" : 7326,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180607/7326/52928/large/6f369eafd19ed87cde25cd689f43dd89.jpg",
+  "name" : {
+    "en" : "Nendoroid Junkrat: Classic Skin Edition",
+    "ja" : "ねんどろいど ジャンクラット クラシックスキン・エディション (ねんどろいど じゃんくらっと くらしっくすきん・えでぃしょん)",
+    "ko" : "정크랫"
   },
-  "series": {
-    "ko": "오버워치",
-    "ja": "オーバーウォッチ",
-    "en": "Overwatch"
-  },
-  "gsc_productNum": 7326,
-  "price": 4991,
-  "release_date": [
+  "num" : "949",
+  "price" : 4991,
+  "release_date" : [
     "2019/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180607/7326/52928/large/6f369eafd19ed87cde25cd689f43dd89.jpg",
-  "gender": "M",
-  "set": 150
+  "series" : {
+    "en" : "Overwatch",
+    "ja" : "オーバーウォッチ",
+    "ko" : "오버워치"
+  },
+  "set" : 150
 }

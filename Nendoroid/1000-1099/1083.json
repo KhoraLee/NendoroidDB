@@ -1,21 +1,21 @@
 {
-  "num": "1083",
-  "name": {
-    "ko": "하츠네 미쿠 신칸센변형로보 신카리온 Ver.",
-    "ja": "ねんどろいど 発音ミク (ねんどろいど はつねみく)",
-    "en": "Nendoroid Hatsune Miku"
+  "gender" : "F",
+  "gsc_productNum" : 8045,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190131/8045/57957/large/055bf39ee4c5bdba481c5d626abda298.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku",
+    "ja" : "ねんどろいど 発音ミク (ねんどろいど はつねみく)",
+    "ko" : "하츠네 미쿠 신칸센변형로보 신카리온 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "新幹線変形ロボ シンカリオン",
-    "en": "Shinkansen Henkei Robo Shinkalion"
-  },
-  "gsc_productNum": 8045,
-  "price": 4584,
-  "release_date": [
+  "num" : "1083",
+  "price" : 4584,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190131/8045/57957/large/055bf39ee4c5bdba481c5d626abda298.jpg",
-  "gender": "F",
-  "set": 10
+  "series" : {
+    "en" : "Shinkansen Henkei Robo Shinkalion",
+    "ja" : "新幹線変形ロボ シンカリオン",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1140",
-  "name": {
-    "ko": "하이바라 아이",
-    "ja": "ねんどろいど 灰原哀 (ねんどろいど はいばらあい)",
-    "en": "Nendoroid Ai Haibara"
+  "gender" : "F",
+  "gsc_productNum" : 8367,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190528/8367/60451/large/e89fc7ecab6dfe2aa325aaa5e0e57dd6.jpg",
+  "name" : {
+    "en" : "Nendoroid Ai Haibara",
+    "ja" : "ねんどろいど 灰原哀 (ねんどろいど はいばらあい)",
+    "ko" : "하이바라 아이"
   },
-  "series": {
-    "ko": "명탐정 코난",
-    "ja": "名探偵コナン",
-    "en": "Detective Conan"
-  },
-  "gsc_productNum": 8367,
-  "price": 5000,
-  "release_date": [
+  "num" : "1140",
+  "price" : 5000,
+  "release_date" : [
     "2020/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190528/8367/60451/large/e89fc7ecab6dfe2aa325aaa5e0e57dd6.jpg",
-  "gender": "F",
-  "set": 161
+  "series" : {
+    "en" : "Detective Conan",
+    "ja" : "名探偵コナン",
+    "ko" : "명탐정 코난"
+  },
+  "set" : 161
 }

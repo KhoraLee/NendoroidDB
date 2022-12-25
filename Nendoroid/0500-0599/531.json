@@ -1,21 +1,21 @@
 {
-  "num": "531",
-  "name": {
-    "ko": "에크렐 마르티노지",
-    "ja": "ねんどろいど エクレール・マルティノッジ (ねんどろいど えくれーる・まるてぃのっじ)",
-    "en": "Nendoroid Eclair Martinozzi (ねんどろいど えくれーる・まるてぃのっじ)"
+  "gender" : "F",
+  "gsc_productNum" : 5042,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150602/5042/33810/large/43fd55eb0462d0c5497b60ae3bbae51c.jpg",
+  "name" : {
+    "en" : "Nendoroid Eclair Martinozzi (ねんどろいど えくれーる・まるてぃのっじ)",
+    "ja" : "ねんどろいど エクレール・マルティノッジ (ねんどろいど えくれーる・まるてぃのっじ)",
+    "ko" : "에크렐 마르티노지"
   },
-  "series": {
-    "ko": "DOG DAYS",
-    "ja": "DOGDAYS´´",
-    "en": "DOGDAYS\u0027\u0027"
-  },
-  "gsc_productNum": 5042,
-  "price": 4278,
-  "release_date": [
+  "num" : "531",
+  "price" : 4278,
+  "release_date" : [
     "2015/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150602/5042/33810/large/43fd55eb0462d0c5497b60ae3bbae51c.jpg",
-  "gender": "F",
-  "set": 50
+  "series" : {
+    "en" : "DOGDAYS''",
+    "ja" : "DOGDAYS´´",
+    "ko" : "DOG DAYS"
+  },
+  "set" : 50
 }

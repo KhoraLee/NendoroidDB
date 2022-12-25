@@ -1,22 +1,22 @@
 {
-  "num": "358",
-  "name": {
-    "ko": "세이버(Fate/EXTRA)/주인공",
-    "ja": "ねんどろいど セイバーエクストラ (ねんどろいど せいばーえくすとら)",
-    "en": "Nendoroid Saber Extra"
+  "gender" : "F",
+  "gsc_productNum" : 4006,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130725/4006/58586/large/cca82cfd24c3d81fcdffb4f7339c6bc6.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber Extra",
+    "ja" : "ねんどろいど セイバーエクストラ (ねんどろいど せいばーえくすとら)",
+    "ko" : "세이버(Fate/EXTRA)/주인공"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/EXTRA",
-    "en": "Fate/EXTRA"
-  },
-  "gsc_productNum": 4006,
-  "price": 4278,
-  "release_date": [
+  "num" : "358",
+  "price" : 4278,
+  "release_date" : [
     "2013/11",
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130725/4006/58586/large/cca82cfd24c3d81fcdffb4f7339c6bc6.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/EXTRA",
+    "ja" : "Fate/EXTRA",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

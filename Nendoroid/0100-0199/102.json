@@ -1,21 +1,21 @@
 {
-  "num": "102",
-  "name": {
-    "ko": "코토부키 츠무기",
-    "ja": "ねんどろいど 琴吹 紬 (ねんどろいど ことぶき つむぎ)",
-    "en": "Nendoroid Tsumugi Kotobuki (ねんどろいど ことぶき つむぎ)"
+  "gender" : "F",
+  "gsc_productNum" : 2752,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091214/2752/8568/large/5e00ae5f68d4c33fcc3486238ca94c34.jpg",
+  "name" : {
+    "en" : "Nendoroid Tsumugi Kotobuki (ねんどろいど ことぶき つむぎ)",
+    "ja" : "ねんどろいど 琴吹 紬 (ねんどろいど ことぶき つむぎ)",
+    "ko" : "코토부키 츠무기"
   },
-  "series": {
-    "ko": "케이온!",
-    "ja": "けいおん！",
-    "en": "K-ON!"
-  },
-  "gsc_productNum": 2752,
-  "price": 3667,
-  "release_date": [
+  "num" : "102",
+  "price" : 3667,
+  "release_date" : [
     "2010/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091214/2752/8568/large/5e00ae5f68d4c33fcc3486238ca94c34.jpg",
-  "gender": "F",
-  "set": 27
+  "series" : {
+    "en" : "K-ON!",
+    "ja" : "けいおん！",
+    "ko" : "케이온!"
+  },
+  "set" : 27
 }

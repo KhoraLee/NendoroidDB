@@ -1,21 +1,21 @@
 {
-  "num": "947",
-  "name": {
-    "ko": "카구야 루나",
-    "ja": "ねんどろいど 輝夜月 (ねんどろいど かぐやるな)",
-    "en": "Nendoroid Kaguya Luna"
+  "gender" : "F",
+  "gsc_productNum" : 7311,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180529/7311/52288/large/f978d3e4b2e3872cf2dce1579d6e646c.jpg",
+  "name" : {
+    "en" : "Nendoroid Kaguya Luna",
+    "ja" : "ねんどろいど 輝夜月 (ねんどろいど かぐやるな)",
+    "ko" : "카구야 루나"
   },
-  "series": {
-    "ko": "버츄얼 유튜버",
-    "ja": "輝夜月",
-    "en": "Kaguya Luna"
-  },
-  "gsc_productNum": 7311,
-  "price": 4888,
-  "release_date": [
+  "num" : "947",
+  "price" : 4888,
+  "release_date" : [
     "2018/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180529/7311/52288/large/f978d3e4b2e3872cf2dce1579d6e646c.jpg",
-  "gender": "F",
-  "set": 169
+  "series" : {
+    "en" : "Kaguya Luna",
+    "ja" : "輝夜月",
+    "ko" : "버츄얼 유튜버"
+  },
+  "set" : 169
 }

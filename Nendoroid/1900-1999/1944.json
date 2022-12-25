@@ -1,20 +1,20 @@
 {
-  "num": "1944",
-  "name": {
-    "ja": "ねんどろいど グレートマジンガー (ねんどろいど ぐれーとまじんがー)",
-    "en": "Nendoroid Great Mazinger",
-    "ko": "그레이트 마징가"
+  "gsc_productNum" : 13123,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220822/13123/103028/large/b10ce4a24cf9ba99f99286faf9d0deab.jpg",
+  "name" : {
+    "en" : "Nendoroid Great Mazinger",
+    "ja" : "ねんどろいど グレートマジンガー (ねんどろいど ぐれーとまじんがー)",
+    "ko" : "그레이트 마징가"
   },
-  "series": {
-    "ja": "グレートマジンガー",
-    "en": "Great Mazinger",
-    "ko": "그레이트 마징가"
-  },
-  "gsc_productNum": 13123,
-  "price": 6600,
-  "release_date": [
+  "num" : "1944",
+  "price" : 6600,
+  "release_date" : [
     "2023/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220822/13123/103028/large/b10ce4a24cf9ba99f99286faf9d0deab.jpg",
-  "set": 295
+  "series" : {
+    "en" : "Great Mazinger",
+    "ja" : "グレートマジンガー",
+    "ko" : "그레이트 마징가"
+  },
+  "set" : 295
 }

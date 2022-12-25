@@ -1,20 +1,20 @@
 {
-  "num": "848",
-  "name": {
-    "ko": "후지타 타타라",
-    "ja": "ねんどろいど 富士田多々良 (ねんどろいど ふじたたたら)",
-    "en": "Nendoroid Tatara Fujita"
+  "gender" : "M",
+  "gsc_productNum" : 6863,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171114/6863/48683/large/44d687a33f9ea3120dc695ccbfbda218.jpg",
+  "name" : {
+    "en" : "Nendoroid Tatara Fujita",
+    "ja" : "ねんどろいど 富士田多々良 (ねんどろいど ふじたたたら)",
+    "ko" : "후지타 타타라"
   },
-  "series": {
-    "ko": "볼룸에 오신 것을 환영합니다",
-    "ja": "ボールルームへようこそ",
-    "en": "Welcome to the Ballroom"
-  },
-  "gsc_productNum": 6863,
-  "price": 4481,
-  "release_date": [
+  "num" : "848",
+  "price" : 4481,
+  "release_date" : [
     "2018/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171114/6863/48683/large/44d687a33f9ea3120dc695ccbfbda218.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Welcome to the Ballroom",
+    "ja" : "ボールルームへようこそ",
+    "ko" : "볼룸에 오신 것을 환영합니다"
+  }
 }

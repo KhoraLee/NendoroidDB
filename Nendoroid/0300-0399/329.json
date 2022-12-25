@@ -1,21 +1,21 @@
 {
-  "num": "329",
-  "name": {
-    "ko": "이냐 세스티나",
-    "ja": "ねんどろいど イーニァ・シェスチナ (ねんどろいど いーにぁ・しぇすちな)",
-    "en": "Nendoroid Inia Sestina (ねんどろいど いーにゃ・しぇすちな)"
+  "gender" : "F",
+  "gsc_productNum" : 3912,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130515/3912/23877/large/b94b0c7fc2b150a4b5156af38ad20e87.jpg",
+  "name" : {
+    "en" : "Nendoroid Inia Sestina (ねんどろいど いーにゃ・しぇすちな)",
+    "ja" : "ねんどろいど イーニァ・シェスチナ (ねんどろいど いーにぁ・しぇすちな)",
+    "ko" : "이냐 세스티나"
   },
-  "series": {
-    "ko": "마브러브 얼터너티브 토탈 이클립스",
-    "ja": "マブラヴ オルタネイティヴ トータル・イクリプス",
-    "en": "MUV-LUV Alternative: Total Eclipse"
-  },
-  "gsc_productNum": 3912,
-  "price": 4714,
-  "release_date": [
+  "num" : "329",
+  "price" : 4714,
+  "release_date" : [
     "2013/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130515/3912/23877/large/b94b0c7fc2b150a4b5156af38ad20e87.jpg",
-  "gender": "F",
-  "set": 73
+  "series" : {
+    "en" : "MUV-LUV Alternative: Total Eclipse",
+    "ja" : "マブラヴ オルタネイティヴ トータル・イクリプス",
+    "ko" : "마브러브 얼터너티브 토탈 이클립스"
+  },
+  "set" : 73
 }

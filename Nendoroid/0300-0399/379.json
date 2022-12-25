@@ -1,21 +1,21 @@
 {
-  "num": "379",
-  "name": {
-    "ko": "토모에 마미 교복 Ver.",
-    "ja": "ねんどろいど 巴マミ 制服Ver. (ねんどろいど ともえまみ せいふくVer.)",
-    "en": "Nendoroid Mami Tomoe: School Uniform Ver. (ねんどろいど ともえまみ せいふくVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 4134,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131125/4134/27207/large/a8c8234c6747042717d3d0eb4fdd3932.jpg",
+  "name" : {
+    "en" : "Nendoroid Mami Tomoe: School Uniform Ver. (ねんどろいど ともえまみ せいふくVer.)",
+    "ja" : "ねんどろいど 巴マミ 制服Ver. (ねんどろいど ともえまみ せいふくVer.)",
+    "ko" : "토모에 마미 교복 Ver."
   },
-  "series": {
-    "ko": "마법소녀 마도카 마기카",
-    "ja": "劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語",
-    "en": "Puella Magi Madoka Magica"
-  },
-  "gsc_productNum": 4134,
-  "price": 4190,
-  "release_date": [
+  "num" : "379",
+  "price" : 4190,
+  "release_date" : [
     "2014/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20131125/4134/27207/large/a8c8234c6747042717d3d0eb4fdd3932.jpg",
-  "gender": "F",
-  "set": 46
+  "series" : {
+    "en" : "Puella Magi Madoka Magica",
+    "ja" : "劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語",
+    "ko" : "마법소녀 마도카 마기카"
+  },
+  "set" : 46
 }

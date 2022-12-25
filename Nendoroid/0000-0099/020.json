@@ -1,20 +1,20 @@
 {
-  "num": "020",
-  "name": {
-    "ko": "빙쵸탄",
-    "ja": "ねんどろいど びんちょうタン (びんちょうたん ねんどろいど)",
-    "en": "Nendoroid Binchou-tan (びんちょうたん ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 631,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/631/969/large/4de887233426ded185a59390a84b320f.jpg",
+  "name" : {
+    "en" : "Nendoroid Binchou-tan (びんちょうたん ねんどろいど)",
+    "ja" : "ねんどろいど びんちょうタン (びんちょうたん ねんどろいど)",
+    "ko" : "빙쵸탄"
   },
-  "series": {
-    "ko": "빙쵸탄",
-    "ja": "びんちょうタン",
-    "en": "Binchou-tan"
-  },
-  "gsc_productNum": 631,
-  "price": 3667,
-  "release_date": [
+  "num" : "020",
+  "price" : 3667,
+  "release_date" : [
     "2007/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/631/969/large/4de887233426ded185a59390a84b320f.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Binchou-tan",
+    "ja" : "びんちょうタン",
+    "ko" : "빙쵸탄"
+  }
 }

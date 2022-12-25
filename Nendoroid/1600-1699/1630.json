@@ -1,20 +1,20 @@
 {
-  "num": "1630",
-  "name": {
-    "ko": "베이맥스",
-    "ja": "ねんどろいど ベイマックス (ねんどろいど べいまっくす)",
-    "en": "Nendoroid Baymax"
+  "gsc_productNum" : 11169,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210510/11169/84392/large/318347025fddd6f13cd730ef1bffa5be.jpg",
+  "name" : {
+    "en" : "Nendoroid Baymax",
+    "ja" : "ねんどろいど ベイマックス (ねんどろいど べいまっくす)",
+    "ko" : "베이맥스"
   },
-  "series": {
-    "ko": "빅 히어로",
-    "ja": "ベイマックス",
-    "en": "Big Hero 6"
-  },
-  "gsc_productNum": 11169,
-  "price": 6500,
-  "release_date": [
+  "num" : "1630",
+  "price" : 6500,
+  "release_date" : [
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210510/11169/84392/large/318347025fddd6f13cd730ef1bffa5be.jpg",
-  "set": 32
+  "series" : {
+    "en" : "Big Hero 6",
+    "ja" : "ベイマックス",
+    "ko" : "빅 히어로"
+  },
+  "set" : 32
 }

@@ -1,21 +1,21 @@
 {
-  "num": "852",
-  "name": {
-    "ko": "수련",
-    "ja": "ねんどろいど スイレン (ねんどろいど すいれん)",
-    "en": "Nendoroid Lana"
+  "gender" : "F",
+  "gsc_productNum" : 6851,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171109/6851/48725/large/c040322785afe541eb2b08a1b99d2a35.jpg",
+  "name" : {
+    "en" : "Nendoroid Lana",
+    "ja" : "ねんどろいど スイレン (ねんどろいど すいれん)",
+    "ko" : "수련"
   },
-  "series": {
-    "ko": "포켓몬스터",
-    "ja": "ポケットモンスター",
-    "en": "Pokémon"
-  },
-  "gsc_productNum": 6851,
-  "price": 4888,
-  "release_date": [
+  "num" : "852",
+  "price" : 4888,
+  "release_date" : [
     "2018/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171109/6851/48725/large/c040322785afe541eb2b08a1b99d2a35.jpg",
-  "gender": "F",
-  "set": 103
+  "series" : {
+    "en" : "Pokémon",
+    "ja" : "ポケットモンスター",
+    "ko" : "포켓몬스터"
+  },
+  "set" : 103
 }

@@ -1,21 +1,21 @@
 {
-  "num": "955-DX",
-  "name": {
-    "ko": "블랙팬서 어벤져스 인피니티 워 에디션 DX",
-    "ja": "ねんどろいど ブラックパンサー インフィニティ・エディション DX Ver. (ねんどろいど ぶらっくぱんさー いんふぃにてぃ・えでぃしょん DX Ver.)",
-    "en": "Nendoroid Black Panther: Infinity Edition DX Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8141,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190304/8141/58689/large/0fa5f23bb6a107a5e040797577d0ff55.jpg",
+  "name" : {
+    "en" : "Nendoroid Black Panther: Infinity Edition DX Ver.",
+    "ja" : "ねんどろいど ブラックパンサー インフィニティ・エディション DX Ver. (ねんどろいど ぶらっくぱんさー いんふぃにてぃ・えでぃしょん DX Ver.)",
+    "ko" : "블랙팬서 어벤져스 인피니티 워 에디션 DX"
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／インフィニティ・ウォー",
-    "en": "Avengers: Infinity War"
-  },
-  "gsc_productNum": 8141,
-  "price": 7231,
-  "release_date": [
+  "num" : "955-DX",
+  "price" : 7231,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190304/8141/58689/large/0fa5f23bb6a107a5e040797577d0ff55.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Infinity War",
+    "ja" : "アベンジャーズ／インフィニティ・ウォー",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

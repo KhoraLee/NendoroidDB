@@ -1,21 +1,21 @@
 {
-  "num": "1901",
-  "name": {
-    "ja": "ねんどろいど ロイド・フォージャー (ねんどろいど ろいど・ふぉーじゃー)",
-    "en": "Nendoroid Loid Forger",
-    "ko": "로이드 포저"
+  "gender" : "M",
+  "gsc_productNum" : 12800,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220609/12800/99711/large/c1f47fe92fbd3f0061e6471e149d9a15.jpg",
+  "name" : {
+    "en" : "Nendoroid Loid Forger",
+    "ja" : "ねんどろいど ロイド・フォージャー (ねんどろいど ろいど・ふぉーじゃー)",
+    "ko" : "로이드 포저"
   },
-  "series": {
-    "ja": "SPY×FAMILY",
-    "en": "SPY x FAMILY",
-    "ko": "스파이 패밀리"
-  },
-  "gsc_productNum": 12800,
-  "price": 6500,
-  "release_date": [
+  "num" : "1901",
+  "price" : 6500,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220609/12800/99711/large/c1f47fe92fbd3f0061e6471e149d9a15.jpg",
-  "gender": "M",
-  "set": 290
+  "series" : {
+    "en" : "SPY x FAMILY",
+    "ja" : "SPY×FAMILY",
+    "ko" : "스파이 패밀리"
+  },
+  "set" : 290
 }

@@ -1,21 +1,21 @@
 {
-  "num": "125",
-  "name": {
-    "ko": "카츠라 히나기쿠",
-    "ja": "ねんどろいど 桂ヒナギク (ねんどろいど かつらひなぎく)",
-    "en": "Nendoroid Hinagiku Katsura (ねんどろいど かつらひなぎく)"
+  "gender" : "F",
+  "gsc_productNum" : 2918,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100728/2918/10824/large/4ac7a12a9a7db0e754b2b249f3de3087.jpg",
+  "name" : {
+    "en" : "Nendoroid Hinagiku Katsura (ねんどろいど かつらひなぎく)",
+    "ja" : "ねんどろいど 桂ヒナギク (ねんどろいど かつらひなぎく)",
+    "ko" : "카츠라 히나기쿠"
   },
-  "series": {
-    "ko": "하야테처럼!",
-    "ja": "ハヤテのごとく!!",
-    "en": "Hayate the Combat Butler"
-  },
-  "gsc_productNum": 2918,
-  "price": 3981,
-  "release_date": [
+  "num" : "125",
+  "price" : 3981,
+  "release_date" : [
     "2010/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100728/2918/10824/large/4ac7a12a9a7db0e754b2b249f3de3087.jpg",
-  "gender": "F",
-  "set": 38
+  "series" : {
+    "en" : "Hayate the Combat Butler",
+    "ja" : "ハヤテのごとく!!",
+    "ko" : "하야테처럼!"
+  },
+  "set" : 38
 }

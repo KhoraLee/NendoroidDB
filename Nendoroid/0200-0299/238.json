@@ -1,21 +1,21 @@
 {
-  "num": "238",
-  "name": {
-    "ko": "아마기 유키코",
-    "ja": "ねんどろいど 天城雪子 (ねんどろいど あまぎゆきこ)",
-    "en": "Nendoroid Yukiko Amagi (ねんどろいど あまぎゆきこ)"
+  "gender" : "F",
+  "gsc_productNum" : 3501,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120319/3501/17749/large/7af71c77d8bfe1a06d69faa591dfe28d.jpg",
+  "name" : {
+    "en" : "Nendoroid Yukiko Amagi (ねんどろいど あまぎゆきこ)",
+    "ja" : "ねんどろいど 天城雪子 (ねんどろいど あまぎゆきこ)",
+    "ko" : "아마기 유키코"
   },
-  "series": {
-    "ko": "페르소나4",
-    "ja": "TVアニメ『ペルソナ４』",
-    "en": "Persona 4 TV Series"
-  },
-  "gsc_productNum": 3501,
-  "price": 3667,
-  "release_date": [
+  "num" : "238",
+  "price" : 3667,
+  "release_date" : [
     "2012/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120319/3501/17749/large/7af71c77d8bfe1a06d69faa591dfe28d.jpg",
-  "gender": "F",
-  "set": 57
+  "series" : {
+    "en" : "Persona 4 TV Series",
+    "ja" : "TVアニメ『ペルソナ４』",
+    "ko" : "페르소나4"
+  },
+  "set" : 57
 }

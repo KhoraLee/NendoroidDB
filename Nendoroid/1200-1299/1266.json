@@ -1,22 +1,22 @@
 {
-  "num": "1266",
-  "name": {
-    "ko": "오가키 치아키",
-    "ja": "ねんどろいど 大垣千明 (ねんどろいど おおがきちあき)",
-    "en": "Nendoroid Chiaki Ogaki"
+  "gender" : "F",
+  "gsc_productNum" : 9192,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200121/9192/66942/large/a74c9c7d970193aeabb3dfee7303d400.jpg",
+  "name" : {
+    "en" : "Nendoroid Chiaki Ogaki",
+    "ja" : "ねんどろいど 大垣千明 (ねんどろいど おおがきちあき)",
+    "ko" : "오가키 치아키"
   },
-  "series": {
-    "ko": "유루캠△",
-    "ja": "ゆるキャン△",
-    "en": "Laid-Back Camp"
-  },
-  "gsc_productNum": 9192,
-  "price": 6050,
-  "release_date": [
+  "num" : "1266",
+  "price" : 6050,
+  "release_date" : [
     "2020/06",
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200121/9192/66942/large/a74c9c7d970193aeabb3dfee7303d400.jpg",
-  "gender": "F",
-  "set": 173
+  "series" : {
+    "en" : "Laid-Back Camp",
+    "ja" : "ゆるキャン△",
+    "ko" : "유루캠△"
+  },
+  "set" : 173
 }

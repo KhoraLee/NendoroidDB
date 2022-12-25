@@ -1,20 +1,20 @@
 {
-  "num": "171",
-  "name": {
-    "ko": "아큐 쥬베 OP Ver.",
-    "ja": "ねんどろいど 柳生十兵衛 OP Ver.（オープニングバージョン） (ねんどろいど やぎゅうじゅうべぇ OP Ver.（おーぷにんぐばーじょん）)",
-    "en": "Nendoroid Jubei Yagyu (Opening Version) (ねんどろいど やぎゅうじゅうべぇ OP Ver.（おーぷにんぐばーじょん）)"
+  "gender" : "F",
+  "gsc_productNum" : 3125,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110329/3125/13396/large/291e58bd78c258c6b610ad7d089b0388.jpg",
+  "name" : {
+    "en" : "Nendoroid Jubei Yagyu (Opening Version) (ねんどろいど やぎゅうじゅうべぇ OP Ver.（おーぷにんぐばーじょん）)",
+    "ja" : "ねんどろいど 柳生十兵衛 OP Ver.（オープニングバージョン） (ねんどろいど やぎゅうじゅうべぇ OP Ver.（おーぷにんぐばーじょん）)",
+    "ko" : "아큐 쥬베 OP Ver."
   },
-  "series": {
-    "ko": "백화요란 사무라이 걸즈",
-    "ja": "百花繚乱 サムライガールズ",
-    "en": "Samurai Girls"
-  },
-  "gsc_productNum": 3125,
-  "price": 3667,
-  "release_date": [
+  "num" : "171",
+  "price" : 3667,
+  "release_date" : [
     "2011/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110329/3125/13396/large/291e58bd78c258c6b610ad7d089b0388.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Samurai Girls",
+    "ja" : "百花繚乱 サムライガールズ",
+    "ko" : "백화요란 사무라이 걸즈"
+  }
 }

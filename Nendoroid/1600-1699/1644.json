@@ -1,21 +1,21 @@
 {
-  "num": "1644",
-  "name": {
-    "ko": "콧코로",
-    "ja": "ねんどろいど コッコロ (ねんどろいど こっころ)",
-    "en": "Nendoroid Kokkoro"
+  "gender" : "F",
+  "gsc_productNum" : 11171,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210510/11171/85279/large/cbae61a0c40d28292a15ac025d1a54ae.jpg",
+  "name" : {
+    "en" : "Nendoroid Kokkoro",
+    "ja" : "ねんどろいど コッコロ (ねんどろいど こっころ)",
+    "ko" : "콧코로"
   },
-  "series": {
-    "ko": "프린세스 커넥트! Re:Dive",
-    "ja": "プリンセスコネクト！Re:Dive",
-    "en": "Princess Connect! Re: Dive"
-  },
-  "gsc_productNum": 11171,
-  "price": 6100,
-  "release_date": [
+  "num" : "1644",
+  "price" : 6100,
+  "release_date" : [
     "2022/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210510/11171/85279/large/cbae61a0c40d28292a15ac025d1a54ae.jpg",
-  "gender": "F",
-  "set": 252
+  "series" : {
+    "en" : "Princess Connect! Re: Dive",
+    "ja" : "プリンセスコネクト！Re:Dive",
+    "ko" : "프린세스 커넥트! Re:Dive"
+  },
+  "set" : 252
 }

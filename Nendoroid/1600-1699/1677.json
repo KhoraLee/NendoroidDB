@@ -1,19 +1,19 @@
 {
-  "num": "1677",
-  "name": {
-    "ko": "포테토",
-    "ja": "ねんどろいど ポテト (ねんどろいど ぽてと)",
-    "en": "Nendoroid Potato"
+  "gsc_productNum" : 11475,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210712/11475/87155/large/490ecfc3cee9c05bcac52fcbbc5ffeaa.jpg",
+  "name" : {
+    "en" : "Nendoroid Potato",
+    "ja" : "ねんどろいど ポテト (ねんどろいど ぽてと)",
+    "ko" : "포테토"
   },
-  "series": {
-    "ko": "PUI PUI 모루카",
-    "ja": "PUI PUI モルカー",
-    "en": "Pui Pui Molcar"
-  },
-  "gsc_productNum": 11475,
-  "price": 4200,
-  "release_date": [
+  "num" : "1677",
+  "price" : 4200,
+  "release_date" : [
     "2022/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210712/11475/87155/large/490ecfc3cee9c05bcac52fcbbc5ffeaa.jpg"
+  "series" : {
+    "en" : "Pui Pui Molcar",
+    "ja" : "PUI PUI モルカー",
+    "ko" : "PUI PUI 모루카"
+  }
 }

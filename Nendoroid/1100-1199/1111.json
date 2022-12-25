@@ -1,20 +1,20 @@
 {
-  "num": "1111",
-  "name": {
-    "ko": "이치",
-    "ja": "ねんどろいど 壱 (ねんどろいど いち)",
-    "en": "Nendoroid Ichi"
+  "gender" : "F",
+  "gsc_productNum" : 8189,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190322/8189/59047/large/bc989ef5b58d8a90093d0a8c47ce5995.jpg",
+  "name" : {
+    "en" : "Nendoroid Ichi",
+    "ja" : "ねんどろいど 壱 (ねんどろいど いち)",
+    "ko" : "이치"
   },
-  "series": {
-    "ko": "중병장형여고생",
-    "ja": "重兵装型女子高生",
-    "en": "Heavily Armed High School Girls"
-  },
-  "gsc_productNum": 8189,
-  "price": 6315,
-  "release_date": [
+  "num" : "1111",
+  "price" : 6315,
+  "release_date" : [
     "2019/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190322/8189/59047/large/bc989ef5b58d8a90093d0a8c47ce5995.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Heavily Armed High School Girls",
+    "ja" : "重兵装型女子高生",
+    "ko" : "중병장형여고생"
+  }
 }

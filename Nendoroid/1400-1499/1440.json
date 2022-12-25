@@ -1,21 +1,21 @@
 {
-  "num": "1440",
-  "name": {
-    "ko": "얼터 에고/오키타 소지[얼터]",
-    "ja": "ねんどろいど アルターエゴ/沖田総司〔オルタ〕 (ねんどろいど あるたーえご/おきたそうじ〔おるた〕)",
-    "en": "Nendoroid Alter Ego/Okita Souji (Alter)"
+  "gender" : "F",
+  "gsc_productNum" : 9985,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200831/9985/73739/large/055345d4e476f994b34b8c0f56634bac.jpg",
+  "name" : {
+    "en" : "Nendoroid Alter Ego/Okita Souji (Alter)",
+    "ja" : "ねんどろいど アルターエゴ/沖田総司〔オルタ〕 (ねんどろいど あるたーえご/おきたそうじ〔おるた〕)",
+    "ko" : "얼터 에고/오키타 소지[얼터]"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 9985,
-  "price": 5500,
-  "release_date": [
+  "num" : "1440",
+  "price" : 5500,
+  "release_date" : [
     "2021/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200831/9985/73739/large/055345d4e476f994b34b8c0f56634bac.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

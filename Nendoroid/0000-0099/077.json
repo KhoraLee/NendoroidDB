@@ -1,22 +1,22 @@
 {
-  "num": "077",
-  "name": {
-    "ko": "세이버 릴리",
-    "ja": "ねんどろいど セイバー・リリィ (ねんどろいど せいばー・りりぃ)",
-    "en": "Nendoroid Saber Lily (ねんどろいど せいばー・りりぃ)"
+  "gender" : "F",
+  "gsc_productNum" : 2499,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2499/7239/large/30edf89904c69e732215648741459437.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber Lily (ねんどろいど せいばー・りりぃ)",
+    "ja" : "ねんどろいど セイバー・リリィ (ねんどろいど せいばー・りりぃ)",
+    "ko" : "세이버 릴리"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/stay night",
-    "en": "Fate/stay night"
-  },
-  "gsc_productNum": 2499,
-  "price": 3667,
-  "release_date": [
+  "num" : "077",
+  "price" : 3667,
+  "release_date" : [
     "2009/10",
     "2012/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2499/7239/large/30edf89904c69e732215648741459437.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/stay night",
+    "ja" : "Fate/stay night",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

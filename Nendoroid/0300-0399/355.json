@@ -1,21 +1,21 @@
 {
-  "num": "355",
-  "name": {
-    "ko": "STRENGTH TV ANIMATION Ver.",
-    "ja": "ねんどろいど ストレングス TV ANIMATION Ver. (ねんどろいど すとれんぐす てれび あにめーしょん Ver.)",
-    "en": "Nendoroid Strength: TV ANIMATION Ver. (ねんどろいど すとれんぐす てれび あにめーしょん Ver.)"
+  "gender" : "F",
+  "gsc_productNum" : 4018,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130801/4018/25557/large/2b25fd43d67a3f3b36834ace94030565.jpg",
+  "name" : {
+    "en" : "Nendoroid Strength: TV ANIMATION Ver. (ねんどろいど すとれんぐす てれび あにめーしょん Ver.)",
+    "ja" : "ねんどろいど ストレングス TV ANIMATION Ver. (ねんどろいど すとれんぐす てれび あにめーしょん Ver.)",
+    "ko" : "STRENGTH TV ANIMATION Ver."
   },
-  "series": {
-    "ko": "BLACK★ROCK SHOOTER",
-    "ja": "TV ANIMATION BLACK ROCK SHOOTER",
-    "en": "TV ANIMATION BLACK ROCK SHOOTER"
-  },
-  "gsc_productNum": 4018,
-  "price": 4714,
-  "release_date": [
+  "num" : "355",
+  "price" : 4714,
+  "release_date" : [
     "2013/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130801/4018/25557/large/2b25fd43d67a3f3b36834ace94030565.jpg",
-  "gender": "F",
-  "set": 33
+  "series" : {
+    "en" : "TV ANIMATION BLACK ROCK SHOOTER",
+    "ja" : "TV ANIMATION BLACK ROCK SHOOTER",
+    "ko" : "BLACK★ROCK SHOOTER"
+  },
+  "set" : 33
 }

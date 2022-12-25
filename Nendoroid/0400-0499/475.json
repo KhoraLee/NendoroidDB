@@ -1,24 +1,24 @@
 {
-  "num": "475",
-  "name": {
-    "ko": "엘사",
-    "ja": "ねんどろいど エルサ (ねんどろいど えるさ)",
-    "en": "Nendoroid Elsa"
+  "gender" : "F",
+  "gsc_productNum" : 4738,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141121/4738/31424/large/9ba1f4d06b6d434bfe3fcc0fb7dc8c32.jpg",
+  "name" : {
+    "en" : "Nendoroid Elsa",
+    "ja" : "ねんどろいど エルサ (ねんどろいど えるさ)",
+    "ko" : "엘사"
   },
-  "series": {
-    "ko": "겨울왕국",
-    "ja": "アナと雪の女王",
-    "en": "Frozen"
-  },
-  "gsc_productNum": 4738,
-  "price": 5000,
-  "release_date": [
+  "num" : "475",
+  "price" : 5000,
+  "release_date" : [
     "2015/05",
     "2016/01",
     "2017/09",
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141121/4738/31424/large/9ba1f4d06b6d434bfe3fcc0fb7dc8c32.jpg",
-  "gender": "F",
-  "set": 32
+  "series" : {
+    "en" : "Frozen",
+    "ja" : "アナと雪の女王",
+    "ko" : "겨울왕국"
+  },
+  "set" : 32
 }

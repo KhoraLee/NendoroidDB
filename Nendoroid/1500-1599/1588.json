@@ -1,21 +1,21 @@
 {
-  "num": "1588",
-  "name": {
-    "ko": "레온",
-    "ja": "ねんどろいど レオンチャンネル (ねんどろいど れおんちゃんねる)",
-    "en": "Nendoroid Leon Channel"
+  "gender" : "M",
+  "gsc_productNum" : 10960,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210323/10960/82566/large/ae6f3e6712d49183fd46eb683fe7590a.jpg",
+  "name" : {
+    "en" : "Nendoroid Leon Channel",
+    "ja" : "ねんどろいど レオンチャンネル (ねんどろいど れおんちゃんねる)",
+    "ko" : "레온"
   },
-  "series": {
-    "ko": "버츄얼 유튜버",
-    "ja": "レオンチャンネル",
-    "en": "Leon Channel"
-  },
-  "gsc_productNum": 10960,
-  "price": 5000,
-  "release_date": [
+  "num" : "1588",
+  "price" : 5000,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210323/10960/82566/large/ae6f3e6712d49183fd46eb683fe7590a.jpg",
-  "gender": "M",
-  "set": 169
+  "series" : {
+    "en" : "Leon Channel",
+    "ja" : "レオンチャンネル",
+    "ko" : "버츄얼 유튜버"
+  },
+  "set" : 169
 }

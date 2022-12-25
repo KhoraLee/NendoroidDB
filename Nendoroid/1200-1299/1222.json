@@ -1,21 +1,21 @@
 {
-  "num": "1222",
-  "name": {
-    "ko": "다이한냐 나가미츠",
-    "ja": "ねんどろいど 大般若長光 (ねんどろいど だいはんにゃながみつ)",
-    "en": "Nendoroid Daihannya Nagamitsu"
+  "gender" : "M",
+  "gsc_productNum" : 8928,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191025/8928/64753/large/d46eb92c91df0c0ab78a6b647112cd89.jpg",
+  "name" : {
+    "en" : "Nendoroid Daihannya Nagamitsu",
+    "ja" : "ねんどろいど 大般若長光 (ねんどろいど だいはんにゃながみつ)",
+    "ko" : "다이한냐 나가미츠"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 8928,
-  "price": 5000,
-  "release_date": [
+  "num" : "1222",
+  "price" : 5000,
+  "release_date" : [
     "2020/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191025/8928/64753/large/d46eb92c91df0c0ab78a6b647112cd89.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

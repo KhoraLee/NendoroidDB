@@ -1,21 +1,21 @@
 {
-  "num": "210",
-  "name": {
-    "ko": "사나다 유키무라",
-    "ja": "ねんどろいど 真田幸村 (ねんどろいど さなだゆきむら)",
-    "en": "Nendoroid Yukimura Sanada (ねんどろいど さなだゆきむら)"
+  "gender" : "M",
+  "gsc_productNum" : 3344,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111111/3344/16143/large/ff18b8520f9a561dc3c775ee98b19416.jpg",
+  "name" : {
+    "en" : "Nendoroid Yukimura Sanada (ねんどろいど さなだゆきむら)",
+    "ja" : "ねんどろいど 真田幸村 (ねんどろいど さなだゆきむら)",
+    "ko" : "사나다 유키무라"
   },
-  "series": {
-    "ko": "전국 바사라",
-    "ja": "戦国BASARA",
-    "en": "Sengoku Basara"
-  },
-  "gsc_productNum": 3344,
-  "price": 3667,
-  "release_date": [
+  "num" : "210",
+  "price" : 3667,
+  "release_date" : [
     "2012/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111111/3344/16143/large/ff18b8520f9a561dc3c775ee98b19416.jpg",
-  "gender": "M",
-  "set": 41
+  "series" : {
+    "en" : "Sengoku Basara",
+    "ja" : "戦国BASARA",
+    "ko" : "전국 바사라"
+  },
+  "set" : 41
 }

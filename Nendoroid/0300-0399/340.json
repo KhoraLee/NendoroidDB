@@ -1,21 +1,21 @@
 {
-  "num": "340",
-  "name": {
-    "ko": "카가미네 린 패밀리마트 Ver.",
-    "ja": "ねんどろいど 鏡音リン FamilyMart 2013 Ver. (ねんどろいど かがみねりん ふぁみりーまーと 2013 Ver.)",
-    "en": "Nendoroid Kagamine Rin: FamilyMart 2013 Ver. (ねんどろいど かがみねりん ふぁみりーまーと 2013 Ver.)"
+  "gender" : "F",
+  "gsc_productNum" : 3985,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130710/3985/25041/large/2abec6f869ddaf110ef963e3c91198a2.jpg",
+  "name" : {
+    "en" : "Nendoroid Kagamine Rin: FamilyMart 2013 Ver. (ねんどろいど かがみねりん ふぁみりーまーと 2013 Ver.)",
+    "ja" : "ねんどろいど 鏡音リン FamilyMart 2013 Ver. (ねんどろいど かがみねりん ふぁみりーまーと 2013 Ver.)",
+    "ko" : "카가미네 린 패밀리마트 Ver."
   },
-  "series": {
-    "ko": "보컬로이드(VOCALOID)",
-    "ja": "キャラクターボーカルシリーズ02 鏡音リン・レン",
-    "en": "Character Vocal Series 02: Kagamine Rin/Len"
-  },
-  "gsc_productNum": 3985,
-  "price": 0,
-  "release_date": [
+  "num" : "340",
+  "price" : 0,
+  "release_date" : [
     "2013/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130710/3985/25041/large/2abec6f869ddaf110ef963e3c91198a2.jpg",
-  "gender": "F",
-  "set": 11
+  "series" : {
+    "en" : "Character Vocal Series 02: Kagamine Rin/Len",
+    "ja" : "キャラクターボーカルシリーズ02 鏡音リン・レン",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 11
 }

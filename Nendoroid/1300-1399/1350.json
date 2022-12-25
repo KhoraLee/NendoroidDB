@@ -1,21 +1,21 @@
 {
-  "num": "1350",
-  "name": {
-    "ko": "알버스 덤블도어",
-    "ja": "ねんどろいど アルバス・ダンブルドア (ねんどろいど あるばす・だんぶるどあ)",
-    "en": "Nendoroid Albus Dumbledore"
+  "gender" : "M",
+  "gsc_productNum" : 9515,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200518/9515/69728/large/caea79512c383950a324afc2385c29de.jpg",
+  "name" : {
+    "en" : "Nendoroid Albus Dumbledore",
+    "ja" : "ねんどろいど アルバス・ダンブルドア (ねんどろいど あるばす・だんぶるどあ)",
+    "ko" : "알버스 덤블도어"
   },
-  "series": {
-    "ko": "해리포터 시리즈",
-    "ja": "ハリー・ポッター",
-    "en": "Harry Potter"
-  },
-  "gsc_productNum": 9515,
-  "price": 5200,
-  "release_date": [
+  "num" : "1350",
+  "price" : 5200,
+  "release_date" : [
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200518/9515/69728/large/caea79512c383950a324afc2385c29de.jpg",
-  "gender": "M",
-  "set": 194
+  "series" : {
+    "en" : "Harry Potter",
+    "ja" : "ハリー・ポッター",
+    "ko" : "해리포터 시리즈"
+  },
+  "set" : 194
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1180",
-  "name": {
-    "ko": "마일스 모랄레스 스파이더 버스 에디션 스탠다드 Ver.",
-    "ja": "ねんどろいど マイルス・モラレス スパイダーバース・エディション スタンダードVer. (ねんどろいど まいるす・もられす すぱいだーばーす・えでぃしょん すたんだーどVer.)",
-    "en": "Nendoroid Miles Morales: Spider-Verse Edition Standard Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8610,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190729/8610/62496/large/16edbd209cf7dc7afd114ff1567bc9d9.jpg",
+  "name" : {
+    "en" : "Nendoroid Miles Morales: Spider-Verse Edition Standard Ver.",
+    "ja" : "ねんどろいど マイルス・モラレス スパイダーバース・エディション スタンダードVer. (ねんどろいど まいるす・もられす すぱいだーばーす・えでぃしょん すたんだーどVer.)",
+    "ko" : "마일스 모랄레스 스파이더 버스 에디션 스탠다드 Ver."
   },
-  "series": {
-    "ko": "스파이더맨: 뉴 유니버스",
-    "ja": "スパイダーマン：スパイダーバース",
-    "en": "Spider-Man: Into the Spider-Verse"
-  },
-  "gsc_productNum": 8610,
-  "price": 4800,
-  "release_date": [
+  "num" : "1180",
+  "price" : 4800,
+  "release_date" : [
     "2020/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190729/8610/62496/large/16edbd209cf7dc7afd114ff1567bc9d9.jpg",
-  "gender": "M",
-  "set": 219
+  "series" : {
+    "en" : "Spider-Man: Into the Spider-Verse",
+    "ja" : "スパイダーマン：スパイダーバース",
+    "ko" : "스파이더맨: 뉴 유니버스"
+  },
+  "set" : 219
 }

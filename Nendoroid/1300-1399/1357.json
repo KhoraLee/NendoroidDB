@@ -1,21 +1,21 @@
 {
-  "num": "1357",
-  "name": {
-    "ko": "쿠도 신이치",
-    "ja": "ねんどろいど 工藤新一 (ねんどろいど くどうしんいち)",
-    "en": "Nendoroid Shinichi Kudō"
+  "gender" : "M",
+  "gsc_productNum" : 9623,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200609/9623/70676/large/9468c8114ab974e4bf0f76e544ece800.jpg",
+  "name" : {
+    "en" : "Nendoroid Shinichi Kudō",
+    "ja" : "ねんどろいど 工藤新一 (ねんどろいど くどうしんいち)",
+    "ko" : "쿠도 신이치"
   },
-  "series": {
-    "ko": "명탐정 코난",
-    "ja": "名探偵コナン",
-    "en": "Detective Conan"
-  },
-  "gsc_productNum": 9623,
-  "price": 5300,
-  "release_date": [
+  "num" : "1357",
+  "price" : 5300,
+  "release_date" : [
     "2021/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200609/9623/70676/large/9468c8114ab974e4bf0f76e544ece800.jpg",
-  "gender": "M",
-  "set": 161
+  "series" : {
+    "en" : "Detective Conan",
+    "ja" : "名探偵コナン",
+    "ko" : "명탐정 코난"
+  },
+  "set" : 161
 }

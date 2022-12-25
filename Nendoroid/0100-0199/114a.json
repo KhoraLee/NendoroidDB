@@ -1,21 +1,21 @@
 {
-  "num": "114a",
-  "name": {
-    "ko": "레이나",
-    "ja": "ねんどろいど レイナ (ねんどろいど れいな)",
-    "en": "Nendoroid Leina (ねんどろいど れいな)"
+  "gender" : "F",
+  "gsc_productNum" : 2847,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100416/2847/9864/large/ee33f55ec42abd0bff837322f7b3b39f.jpg",
+  "name" : {
+    "en" : "Nendoroid Leina (ねんどろいど れいな)",
+    "ja" : "ねんどろいど レイナ (ねんどろいど れいな)",
+    "ko" : "레이나"
   },
-  "series": {
-    "ko": "퀸즈 블레이드",
-    "ja": "クイーンズブレイド",
-    "en": "Queen\u0027s Blade"
-  },
-  "gsc_productNum": 2847,
-  "price": 3667,
-  "release_date": [
+  "num" : "114a",
+  "price" : 3667,
+  "release_date" : [
     "2010/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100416/2847/9864/large/ee33f55ec42abd0bff837322f7b3b39f.jpg",
-  "gender": "F",
-  "set": 35
+  "series" : {
+    "en" : "Queen's Blade",
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
 }

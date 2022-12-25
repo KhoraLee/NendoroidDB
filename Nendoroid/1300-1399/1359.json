@@ -1,20 +1,20 @@
 {
-  "num": "1359",
-  "name": {
-    "ko": "니키",
-    "ja": "ねんどろいど ニキ (ねんどろいど にき)",
-    "en": "Nendoroid Nikki"
+  "gender" : "F",
+  "gsc_productNum" : 9843,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200729/9843/72627/large/7404c9062e79cfd4afee8110f632f125.jpg",
+  "name" : {
+    "en" : "Nendoroid Nikki",
+    "ja" : "ねんどろいど ニキ (ねんどろいど にき)",
+    "ko" : "니키"
   },
-  "series": {
-    "ko": "샤이닝니키",
-    "ja": "シャイニングニキ（閃耀暖暖）",
-    "en": "Shining Nikki"
-  },
-  "gsc_productNum": 9843,
-  "price": 5000,
-  "release_date": [
+  "num" : "1359",
+  "price" : 5000,
+  "release_date" : [
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200729/9843/72627/large/7404c9062e79cfd4afee8110f632f125.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Shining Nikki",
+    "ja" : "シャイニングニキ（閃耀暖暖）",
+    "ko" : "샤이닝니키"
+  }
 }

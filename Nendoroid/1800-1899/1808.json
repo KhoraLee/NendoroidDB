@@ -1,20 +1,20 @@
 {
-  "num": "1808",
-  "name": {
-    "ko": "봇지 \u0026 카게",
-    "ja": "ねんどろいど ボッジ＆カゲ (ねんどろいど ぼっじ＆かげ)",
-    "en": "Nendoroid Bojji \u0026 Kage"
+  "gender" : "M",
+  "gsc_productNum" : 12260,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220120/12260/94690/large/9a22a066c86aad9901fb2b86709fe9ba.jpg",
+  "name" : {
+    "en" : "Nendoroid Bojji & Kage",
+    "ja" : "ねんどろいど ボッジ＆カゲ (ねんどろいど ぼっじ＆かげ)",
+    "ko" : "봇지 & 카게"
   },
-  "series": {
-    "ko": "임금님 랭킹",
-    "ja": "王様ランキング",
-    "en": "Ranking of Kings"
-  },
-  "gsc_productNum": 12260,
-  "price": 6600,
-  "release_date": [
+  "num" : "1808",
+  "price" : 6600,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220120/12260/94690/large/9a22a066c86aad9901fb2b86709fe9ba.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Ranking of Kings",
+    "ja" : "王様ランキング",
+    "ko" : "임금님 랭킹"
+  }
 }

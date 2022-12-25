@@ -1,21 +1,21 @@
 {
-  "num": "1331",
-  "name": {
-    "ko": "마토이 류코 스카쟌 Ver.",
-    "ja": "ねんどろいど 纏流子 スカジャンVer. (ねんどろいど まといりゅうこ すかじゃんVer.)",
-    "en": "Nendoroid Ryuko Matoi: Souvenir Jacket Ver."
+  "gender" : "F",
+  "gsc_productNum" : 11021,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210405/11021/83061/large/f79b477eca5b36a180a9d14637b7293f.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryuko Matoi: Souvenir Jacket Ver.",
+    "ja" : "ねんどろいど 纏流子 スカジャンVer. (ねんどろいど まといりゅうこ すかじゃんVer.)",
+    "ko" : "마토이 류코 스카쟌 Ver."
   },
-  "series": {
-    "ko": "킬라킬",
-    "ja": "キルラキル",
-    "en": "KILL la KILL"
-  },
-  "gsc_productNum": 11021,
-  "price": 5000,
-  "release_date": [
+  "num" : "1331",
+  "price" : 5000,
+  "release_date" : [
     "2022/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210405/11021/83061/large/f79b477eca5b36a180a9d14637b7293f.jpg",
-  "gender": "F",
-  "set": 97
+  "series" : {
+    "en" : "KILL la KILL",
+    "ja" : "キルラキル",
+    "ko" : "킬라킬"
+  },
+  "set" : 97
 }

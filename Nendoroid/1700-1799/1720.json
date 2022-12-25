@@ -1,21 +1,21 @@
 {
-  "num": "1720",
-  "name": {
-    "ko": "신도우 히카루",
-    "ja": "ねんどろいど 進藤ヒカル (ねんどろいど しんどうひかる)",
-    "en": "Nendoroid Hikaru Shindo"
+  "gender" : "M",
+  "gsc_productNum" : 11848,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211001/11848/93348/large/b9e3edeea223f270caf4130bd44f7640.jpg",
+  "name" : {
+    "en" : "Nendoroid Hikaru Shindo",
+    "ja" : "ねんどろいど 進藤ヒカル (ねんどろいど しんどうひかる)",
+    "ko" : "신도우 히카루"
   },
-  "series": {
-    "ko": "고스트 바둑왕",
-    "ja": "ヒカルの碁",
-    "en": "Hikaru no Go"
-  },
-  "gsc_productNum": 11848,
-  "price": 5800,
-  "release_date": [
+  "num" : "1720",
+  "price" : 5800,
+  "release_date" : [
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211001/11848/93348/large/b9e3edeea223f270caf4130bd44f7640.jpg",
-  "gender": "M",
-  "set": 271
+  "series" : {
+    "en" : "Hikaru no Go",
+    "ja" : "ヒカルの碁",
+    "ko" : "고스트 바둑왕"
+  },
+  "set" : 271
 }

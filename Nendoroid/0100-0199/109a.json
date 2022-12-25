@@ -1,19 +1,19 @@
 {
-  "num": "109a",
-  "name": {
-    "ko": "레이싱 미쿠",
-    "ja": "ねんどろいど レーシングミク (ねんどろいど れーしんぐみく)"
+  "gender" : "F",
+  "gsc_productNum" : 3409,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111206/3409/16474/large/bab1262d4093e4742c975c8ba0808748.jpg",
+  "name" : {
+    "ja" : "ねんどろいど レーシングミク (ねんどろいど れーしんぐみく)",
+    "ko" : "레이싱 미쿠"
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "初音ミクGTプロジェクト"
-  },
-  "gsc_productNum": 3409,
-  "price": 0,
-  "release_date": [
+  "num" : "109a",
+  "price" : 0,
+  "release_date" : [
     "2010/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111206/3409/16474/large/bab1262d4093e4742c975c8ba0808748.jpg",
-  "gender": "F",
-  "set": 23
+  "series" : {
+    "ja" : "初音ミクGTプロジェクト",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 23
 }

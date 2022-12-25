@@ -1,21 +1,21 @@
 {
-  "num": "215",
-  "name": {
-    "ko": "세이버\u0026토오사카 린 응원 Ver.",
-    "ja": "ねんどろいど セイバー＆遠坂凛 応援Ver. (ねんどろいど せいばー\u0026とうさかりん おうえんVer.)",
-    "en": "Nendoroid Saber \u0026 Rin Tohsaka : Cheerful ver. (ねんどろいど せいばー\u0026とうさかりん おうえんVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3399,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111130/3399/16497/large/e226d35459ac12dd69b4182888de690f.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber & Rin Tohsaka : Cheerful ver. (ねんどろいど せいばー&とうさかりん おうえんVer.)",
+    "ja" : "ねんどろいど セイバー＆遠坂凛 応援Ver. (ねんどろいど せいばー&とうさかりん おうえんVer.)",
+    "ko" : "세이버&토오사카 린 응원 Ver."
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/stay night",
-    "en": "Fate/stay night"
-  },
-  "gsc_productNum": 3399,
-  "price": 6286,
-  "release_date": [
+  "num" : "215",
+  "price" : 6286,
+  "release_date" : [
     "2012/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111130/3399/16497/large/e226d35459ac12dd69b4182888de690f.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/stay night",
+    "ja" : "Fate/stay night",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

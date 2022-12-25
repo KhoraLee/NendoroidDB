@@ -1,21 +1,21 @@
 {
-  "num": "1498-DX",
-  "name": {
-    "ko": "피터 B. 파커 스파이더 DX Ver.",
-    "ja": "ねんどろいど ピーター・パーカー スパイダーバースVer. DX (ねんどろいど ぴーたー・ぱーかー すぱいだーばーすVer. DX)",
-    "en": "Nendoroid Peter Parker: Spider-Verse Ver. DX"
+  "gender" : "M",
+  "gsc_productNum" : 10236,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201015/10236/75823/large/168eb0356853171900574565818991bb.jpg",
+  "name" : {
+    "en" : "Nendoroid Peter Parker: Spider-Verse Ver. DX",
+    "ja" : "ねんどろいど ピーター・パーカー スパイダーバースVer. DX (ねんどろいど ぴーたー・ぱーかー すぱいだーばーすVer. DX)",
+    "ko" : "피터 B. 파커 스파이더 DX Ver."
   },
-  "series": {
-    "ko": "스파이더맨: 뉴 유니버스",
-    "ja": "スパイダーマン：スパイダーバース",
-    "en": "Spider-Man: Into the Spider-Verse"
-  },
-  "gsc_productNum": 10236,
-  "price": 8500,
-  "release_date": [
+  "num" : "1498-DX",
+  "price" : 8500,
+  "release_date" : [
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201015/10236/75823/large/168eb0356853171900574565818991bb.jpg",
-  "gender": "M",
-  "set": 219
+  "series" : {
+    "en" : "Spider-Man: Into the Spider-Verse",
+    "ja" : "スパイダーマン：スパイダーバース",
+    "ko" : "스파이더맨: 뉴 유니버스"
+  },
+  "set" : 219
 }

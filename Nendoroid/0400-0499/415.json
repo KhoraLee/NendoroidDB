@@ -1,21 +1,21 @@
 {
-  "num": "415",
-  "name": {
-    "ko": "쿠리하시 미나미",
-    "ja": "ねんどろいど 栗橋みなみ (ねんどろいど くりはしみなみ)",
-    "en": "Nendoroid Minami Kurihashi (ねんどろいど くりはしみなみ)"
+  "gender" : "F",
+  "gsc_productNum" : 4366,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140408/4366/28523/large/7b61a140cdcf6edc9705e90283652f03.jpg",
+  "name" : {
+    "en" : "Nendoroid Minami Kurihashi (ねんどろいど くりはしみなみ)",
+    "ja" : "ねんどろいど 栗橋みなみ (ねんどろいど くりはしみなみ)",
+    "ko" : "쿠리하시 미나미"
   },
-  "series": {
-    "ko": "철도무스메",
-    "ja": "鉄道むすめ",
-    "en": "Tetsudou Musume"
-  },
-  "gsc_productNum": 4366,
-  "price": 4400,
-  "release_date": [
+  "num" : "415",
+  "price" : 4400,
+  "release_date" : [
     "2014/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140408/4366/28523/large/7b61a140cdcf6edc9705e90283652f03.jpg",
-  "gender": "F",
-  "set": 85
+  "series" : {
+    "en" : "Tetsudou Musume",
+    "ja" : "鉄道むすめ",
+    "ko" : "철도무스메"
+  },
+  "set" : 85
 }

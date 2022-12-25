@@ -1,20 +1,20 @@
 {
-  "num": "860",
-  "name": {
-    "ko": "제로",
-    "ja": "ねんどろいど ゼロ",
-    "en": "Nendoroid Zero"
+  "gsc_productNum" : 6928,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171208/6928/49129/large/bf25a0a577c751e08b70e08eb06b3f88.jpg",
+  "name" : {
+    "en" : "Nendoroid Zero",
+    "ja" : "ねんどろいど ゼロ",
+    "ko" : "제로"
   },
-  "series": {
-    "ko": "록맨 시리즈",
-    "ja": "ロックマンX シリーズ",
-    "en": "Mega Man X Series"
-  },
-  "gsc_productNum": 6928,
-  "price": 4888,
-  "release_date": [
+  "num" : "860",
+  "price" : 4888,
+  "release_date" : [
     "2018/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171208/6928/49129/large/bf25a0a577c751e08b70e08eb06b3f88.jpg",
-  "set": 122
+  "series" : {
+    "en" : "Mega Man X Series",
+    "ja" : "ロックマンX シリーズ",
+    "ko" : "록맨 시리즈"
+  },
+  "set" : 122
 }

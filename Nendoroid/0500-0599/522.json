@@ -1,21 +1,21 @@
 {
-  "num": "522",
-  "name": {
-    "ko": "시마무라 우즈키",
-    "ja": "ねんどろいど 島村卯月 (ねんどろいど しまむらうづき)",
-    "en": "Nendoroid Uzuki Shimamura (ねんどろいど しまむらうづき)"
+  "gender" : "F",
+  "gsc_productNum" : 5006,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150514/5006/33516/large/c6012817df1c740ebbdc37c78f8f011f.jpg",
+  "name" : {
+    "en" : "Nendoroid Uzuki Shimamura (ねんどろいど しまむらうづき)",
+    "ja" : "ねんどろいど 島村卯月 (ねんどろいど しまむらうづき)",
+    "ko" : "시마무라 우즈키"
   },
-  "series": {
-    "ko": "아이돌 마스터 신데렐라 걸즈",
-    "ja": "アイドルマスター シンデレラガールズ",
-    "en": "THE IDOLM@STER CINDERELLA GIRLS"
-  },
-  "gsc_productNum": 5006,
-  "price": 3972,
-  "release_date": [
+  "num" : "522",
+  "price" : 3972,
+  "release_date" : [
     "2015/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150514/5006/33516/large/c6012817df1c740ebbdc37c78f8f011f.jpg",
-  "gender": "F",
-  "set": 117
+  "series" : {
+    "en" : "THE IDOLM@STER CINDERELLA GIRLS",
+    "ja" : "アイドルマスター シンデレラガールズ",
+    "ko" : "아이돌 마스터 신데렐라 걸즈"
+  },
+  "set" : 117
 }

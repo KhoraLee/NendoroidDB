@@ -1,21 +1,21 @@
 {
-  "num": "1663",
-  "name": {
-    "ko": "미나토 아쿠아",
-    "ja": "ねんどろいど 湊あくあ (ねんどろいど みなとあくあ)",
-    "en": "Nendoroid Minato Aqua"
+  "gender" : "F",
+  "gsc_productNum" : 11356,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210616/11356/85962/large/ecb3f1d0c4c46f2742fee13e66b89176.jpg",
+  "name" : {
+    "en" : "Nendoroid Minato Aqua",
+    "ja" : "ねんどろいど 湊あくあ (ねんどろいど みなとあくあ)",
+    "ko" : "미나토 아쿠아"
   },
-  "series": {
-    "ko": "홀로라이브",
-    "ja": "ホロライブプロダクション",
-    "en": "hololive production"
-  },
-  "gsc_productNum": 11356,
-  "price": 6100,
-  "release_date": [
+  "num" : "1663",
+  "price" : 6100,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210616/11356/85962/large/ecb3f1d0c4c46f2742fee13e66b89176.jpg",
-  "gender": "F",
-  "set": 262
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브"
+  },
+  "set" : 262
 }

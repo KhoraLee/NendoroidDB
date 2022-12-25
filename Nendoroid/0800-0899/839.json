@@ -1,21 +1,21 @@
 {
-  "num": "839",
-  "name": {
-    "ko": "한조",
-    "ja": "ねんどろいど ハンゾー クラシックスキン・エディション (ねんどろいど はんぞー くらしっくすきん・えでぃしょん)",
-    "en": "Nendoroid Hanzo: Classic Skin Edition"
+  "gender" : "M",
+  "gsc_productNum" : 6781,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171006/6781/48341/large/cf5ce94c7727dffdd4a6f8935dfdc0a6.jpg",
+  "name" : {
+    "en" : "Nendoroid Hanzo: Classic Skin Edition",
+    "ja" : "ねんどろいど ハンゾー クラシックスキン・エディション (ねんどろいど はんぞー くらしっくすきん・えでぃしょん)",
+    "ko" : "한조"
   },
-  "series": {
-    "ko": "오버워치",
-    "ja": "オーバーウォッチ",
-    "en": "Overwatch"
-  },
-  "gsc_productNum": 6781,
-  "price": 4991,
-  "release_date": [
+  "num" : "839",
+  "price" : 4991,
+  "release_date" : [
     "2018/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171006/6781/48341/large/cf5ce94c7727dffdd4a6f8935dfdc0a6.jpg",
-  "gender": "M",
-  "set": 150
+  "series" : {
+    "en" : "Overwatch",
+    "ja" : "オーバーウォッチ",
+    "ko" : "오버워치"
+  },
+  "set" : 150
 }

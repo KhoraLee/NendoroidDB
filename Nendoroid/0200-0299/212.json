@@ -1,20 +1,20 @@
 {
-  "num": "212",
-  "name": {
-    "ko": "주간 시작의 하츠네 미쿠",
-    "ja": "ねんどろいど 週刊はじめての初音ミク (ねんどろいど しゅうかんはじめてのはつねみく)",
-    "en": "Nendoroid Shuukan Hajimete no Hatsune Miku (ねんどろいど しゅうかんはじめてのはつねみく)"
+  "gender" : "F",
+  "gsc_productNum" : 3350,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111124/3350/16253/large/df861f44cdea67b25f5be3dd05c69bb3.jpg",
+  "name" : {
+    "en" : "Nendoroid Shuukan Hajimete no Hatsune Miku (ねんどろいど しゅうかんはじめてのはつねみく)",
+    "ja" : "ねんどろいど 週刊はじめての初音ミク (ねんどろいど しゅうかんはじめてのはつねみく)",
+    "ko" : "주간 시작의 하츠네 미쿠"
   },
-  "series": {
-    "ko": "주간 시작의 하츠네 미쿠",
-    "ja": "週刊はじめての初音ミク",
-    "en": "Shuukan Hajimete no Hatsune Miku"
-  },
-  "gsc_productNum": 3350,
-  "price": 3667,
-  "release_date": [
+  "num" : "212",
+  "price" : 3667,
+  "release_date" : [
     "2012/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111124/3350/16253/large/df861f44cdea67b25f5be3dd05c69bb3.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Shuukan Hajimete no Hatsune Miku",
+    "ja" : "週刊はじめての初音ミク",
+    "ko" : "주간 시작의 하츠네 미쿠"
+  }
 }

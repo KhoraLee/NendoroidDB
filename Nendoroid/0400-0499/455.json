@@ -1,21 +1,21 @@
 {
-  "num": "455",
-  "name": {
-    "ko": "코우미 하루카",
-    "ja": "ねんどろいど 小海はるか (ねんどろいど こうみはるか)",
-    "en": "Nendoroid Haruka Koumi (ねんどろいど こうみはるか)"
+  "gender" : "F",
+  "gsc_productNum" : 4585,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140909/4585/30357/large/93ac3ed7a592f85f22dc3bbf6d757217.jpg",
+  "name" : {
+    "en" : "Nendoroid Haruka Koumi (ねんどろいど こうみはるか)",
+    "ja" : "ねんどろいど 小海はるか (ねんどろいど こうみはるか)",
+    "ko" : "코우미 하루카"
   },
-  "series": {
-    "ko": "레일워즈",
-    "ja": "RAIL WARS!",
-    "en": "RAIL WARS!"
-  },
-  "gsc_productNum": 4585,
-  "price": 4400,
-  "release_date": [
+  "num" : "455",
+  "price" : 4400,
+  "release_date" : [
     "2014/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140909/4585/30357/large/93ac3ed7a592f85f22dc3bbf6d757217.jpg",
-  "gender": "F",
-  "set": 109
+  "series" : {
+    "en" : "RAIL WARS!",
+    "ja" : "RAIL WARS!",
+    "ko" : "레일워즈"
+  },
+  "set" : 109
 }

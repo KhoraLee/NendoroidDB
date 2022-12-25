@@ -1,21 +1,21 @@
 {
-  "num": "1719",
-  "name": {
-    "ko": "멀린 프로토타입",
-    "ja": "ねんどろいど キャスター/マーリン〔プロトタイプ〕 (ねんどろいど きゃすたー/まーりん〔ぷろとたいぷ〕)",
-    "en": "Nendoroid Caster/Merlin (Prototype)"
+  "gender" : "F",
+  "gsc_productNum" : 11832,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210927/11832/90434/large/0ecb7704d188975bf411e265c516bc93.jpg",
+  "name" : {
+    "en" : "Nendoroid Caster/Merlin (Prototype)",
+    "ja" : "ねんどろいど キャスター/マーリン〔プロトタイプ〕 (ねんどろいど きゃすたー/まーりん〔ぷろとたいぷ〕)",
+    "ko" : "멀린 프로토타입"
   },
-  "series": {
-    "ko": "Fate/Grand Order Arcade",
-    "ja": "Fate/Grand Order Arcade",
-    "en": "Fate/Grand Order Arcade"
-  },
-  "gsc_productNum": 11832,
-  "price": 6500,
-  "release_date": [
+  "num" : "1719",
+  "price" : 6500,
+  "release_date" : [
     "2022/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210927/11832/90434/large/0ecb7704d188975bf411e265c516bc93.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order Arcade",
+    "ja" : "Fate/Grand Order Arcade",
+    "ko" : "Fate/Grand Order Arcade"
+  },
+  "set" : 2
 }

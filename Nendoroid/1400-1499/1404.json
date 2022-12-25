@@ -1,20 +1,20 @@
 {
-  "num": "1404",
-  "name": {
-    "ko": "오펜",
-    "ja": "ねんどろいど オーフェン (ねんどろいど おーふぇん)",
-    "en": "Nendoroid Orphen"
+  "gender" : "M",
+  "gsc_productNum" : 9735,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200707/9735/71683/large/f68e2b1bfa1b10ed53d5be64fb9afd10.jpg",
+  "name" : {
+    "en" : "Nendoroid Orphen",
+    "ja" : "ねんどろいど オーフェン (ねんどろいど おーふぇん)",
+    "ko" : "오펜"
   },
-  "series": {
-    "ko": "마술사 오펜",
-    "ja": "魔術士オーフェンはぐれ旅",
-    "en": "Sorcerous Stabber Orphen"
-  },
-  "gsc_productNum": 9735,
-  "price": 5200,
-  "release_date": [
+  "num" : "1404",
+  "price" : 5200,
+  "release_date" : [
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200707/9735/71683/large/f68e2b1bfa1b10ed53d5be64fb9afd10.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Sorcerous Stabber Orphen",
+    "ja" : "魔術士オーフェンはぐれ旅",
+    "ko" : "마술사 오펜"
+  }
 }

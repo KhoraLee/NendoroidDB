@@ -1,20 +1,20 @@
 {
-  "num": "685",
-  "name": {
-    "ko": "엑스 풀아머",
-    "ja": "ねんどろいど エックス フルアーマー (ねんどろいど えっくす ふるあーまー)",
-    "en": "Nendoroid Mega Man X: Full Armor"
+  "gsc_productNum" : 6010,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161014/6010/41812/large/bba18a69c5176bb55d7aff1b5fa52798.jpg",
+  "name" : {
+    "en" : "Nendoroid Mega Man X: Full Armor",
+    "ja" : "ねんどろいど エックス フルアーマー (ねんどろいど えっくす ふるあーまー)",
+    "ko" : "엑스 풀아머"
   },
-  "series": {
-    "ko": "록맨 시리즈",
-    "ja": "ロックマンX",
-    "en": "Mega Man X"
-  },
-  "gsc_productNum": 6010,
-  "price": 4888,
-  "release_date": [
+  "num" : "685",
+  "price" : 4888,
+  "release_date" : [
     "2017/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161014/6010/41812/large/bba18a69c5176bb55d7aff1b5fa52798.jpg",
-  "set": 122
+  "series" : {
+    "en" : "Mega Man X",
+    "ja" : "ロックマンX",
+    "ko" : "록맨 시리즈"
+  },
+  "set" : 122
 }

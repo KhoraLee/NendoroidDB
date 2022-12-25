@@ -1,20 +1,20 @@
 {
-  "num": "1325",
-  "name": {
-    "ko": "울트라맨 수트",
-    "ja": "ねんどろいど ULTRAMAN SUIT (ねんどろいど うるとらまん すーつ)",
-    "en": "Nendoroid Ultraman Suit"
+  "gender" : "M",
+  "gsc_productNum" : 9465,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200428/9465/69387/large/d55a5fb7501067fca5d57f8f13765c0b.jpg",
+  "name" : {
+    "en" : "Nendoroid Ultraman Suit",
+    "ja" : "ねんどろいど ULTRAMAN SUIT (ねんどろいど うるとらまん すーつ)",
+    "ko" : "울트라맨 수트"
   },
-  "series": {
-    "ko": "울트라맨",
-    "ja": "ULTRAMAN",
-    "en": "Ultraman"
-  },
-  "gsc_productNum": 9465,
-  "price": 7150,
-  "release_date": [
+  "num" : "1325",
+  "price" : 7150,
+  "release_date" : [
     "2020/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200428/9465/69387/large/d55a5fb7501067fca5d57f8f13765c0b.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Ultraman",
+    "ja" : "ULTRAMAN",
+    "ko" : "울트라맨"
+  }
 }

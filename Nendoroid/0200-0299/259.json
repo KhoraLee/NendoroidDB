@@ -1,21 +1,21 @@
 {
-  "num": "259",
-  "name": {
-    "ko": "게르트루트 바르크호른",
-    "ja": "ねんどろいど ゲルトルート・バルクホルン (ねんどろいど げるとるーと・ばるくほるん)",
-    "en": "Nendoroid Gertrud Barkhorn (ねんどろいど げるとるーと・ばるくほるん)"
+  "gender" : "F",
+  "gsc_productNum" : 3595,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120627/3595/19137/large/18738cbc601e3396906031a91f66e0e8.jpg",
+  "name" : {
+    "en" : "Nendoroid Gertrud Barkhorn (ねんどろいど げるとるーと・ばるくほるん)",
+    "ja" : "ねんどろいど ゲルトルート・バルクホルン (ねんどろいど げるとるーと・ばるくほるん)",
+    "ko" : "게르트루트 바르크호른"
   },
-  "series": {
-    "ko": "스트라이크 위치스",
-    "ja": "ストライクウィッチーズ",
-    "en": "Strike Witches"
-  },
-  "gsc_productNum": 3595,
-  "price": 4190,
-  "release_date": [
+  "num" : "259",
+  "price" : 4190,
+  "release_date" : [
     "2013/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120627/3595/19137/large/18738cbc601e3396906031a91f66e0e8.jpg",
-  "gender": "F",
-  "set": 16
+  "series" : {
+    "en" : "Strike Witches",
+    "ja" : "ストライクウィッチーズ",
+    "ko" : "스트라이크 위치스"
+  },
+  "set" : 16
 }

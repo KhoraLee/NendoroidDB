@@ -1,21 +1,21 @@
 {
-  "num": "1643",
-  "name": {
-    "ko": "나츠이로 마츠리",
-    "ja": "ねんどろいど 夏色まつり (ねんどろいど なついろまつり)",
-    "en": "Nendoroid Natsuiro Matsuri"
+  "gender" : "F",
+  "gsc_productNum" : 11264,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210524/11264/85271/large/092db5a683d4e0aa4736c2837f1921e0.jpg",
+  "name" : {
+    "en" : "Nendoroid Natsuiro Matsuri",
+    "ja" : "ねんどろいど 夏色まつり (ねんどろいど なついろまつり)",
+    "ko" : "나츠이로 마츠리"
   },
-  "series": {
-    "ko": "브",
-    "ja": "hololive production",
-    "en": "hololive production"
-  },
-  "gsc_productNum": 11264,
-  "price": 6600,
-  "release_date": [
+  "num" : "1643",
+  "price" : 6600,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210524/11264/85271/large/092db5a683d4e0aa4736c2837f1921e0.jpg",
-  "gender": "F",
-  "set": 262
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "hololive production",
+    "ko" : "브"
+  },
+  "set" : 262
 }

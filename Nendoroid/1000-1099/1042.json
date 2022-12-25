@@ -1,20 +1,20 @@
 {
-  "num": "1042",
-  "name": {
-    "ko": "고블린 슬레이어",
-    "ja": "ねんどろいど ゴブリンスレイヤー (ねんどろいど ごぶりんすれいやー)",
-    "en": "Nendoroid Goblin Slayer"
+  "gender" : "M",
+  "gsc_productNum" : 7834,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181122/7834/56194/large/b3cc2c21d163344356567224999f8c3f.jpg",
+  "name" : {
+    "en" : "Nendoroid Goblin Slayer",
+    "ja" : "ねんどろいど ゴブリンスレイヤー (ねんどろいど ごぶりんすれいやー)",
+    "ko" : "고블린 슬레이어"
   },
-  "series": {
-    "ko": "고블린 슬레이어",
-    "ja": "ゴブリンスレイヤー",
-    "en": "GOBLIN SLAYER"
-  },
-  "gsc_productNum": 7834,
-  "price": 4584,
-  "release_date": [
+  "num" : "1042",
+  "price" : 4584,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181122/7834/56194/large/b3cc2c21d163344356567224999f8c3f.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "GOBLIN SLAYER",
+    "ja" : "ゴブリンスレイヤー",
+    "ko" : "고블린 슬레이어"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "545",
-  "name": {
-    "ko": "아이언맨 Mk.45 히어로즈 에디션",
-    "ja": "ねんどろいど アイアンマン マーク45 ヒーローズ・エディション (ねんどろいど あいあんまん まーく45 ひーろーず・えでぃしょん)",
-    "en": "Nendoroid Iron Man Mark 45: Hero’s Edition (ねんどろいど あいあんまん まーく45 ひーろーず・えでぃしょん)"
+  "gender" : "M",
+  "gsc_productNum" : 5167,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150804/5167/34971/large/799897e8a002faf103a2594648ca6ff1.jpg",
+  "name" : {
+    "en" : "Nendoroid Iron Man Mark 45: Hero’s Edition (ねんどろいど あいあんまん まーく45 ひーろーず・えでぃしょん)",
+    "ja" : "ねんどろいど アイアンマン マーク45 ヒーローズ・エディション (ねんどろいど あいあんまん まーく45 ひーろーず・えでぃしょん)",
+    "ko" : "아이언맨 Mk.45 히어로즈 에디션"
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ/エイジ・オブ・ウルトロン",
-    "en": "Avengers: Age of Ultron"
-  },
-  "gsc_productNum": 5167,
-  "price": 5907,
-  "release_date": [
+  "num" : "545",
+  "price" : 5907,
+  "release_date" : [
     "2015/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150804/5167/34971/large/799897e8a002faf103a2594648ca6ff1.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Age of Ultron",
+    "ja" : "アベンジャーズ/エイジ・オブ・ウルトロン",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

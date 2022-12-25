@@ -1,21 +1,21 @@
 {
-  "num": "024",
-  "name": {
-    "ko": "나오",
-    "ja": "ねんどろいど ナオ (なお　ねんどろいど)",
-    "en": "Nendoroid Nao (なお　ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 637,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/637/981/large/dea0bad951961356afcfadb57b855f87.jpg",
+  "name" : {
+    "en" : "Nendoroid Nao (なお　ねんどろいど)",
+    "ja" : "ねんどろいど ナオ (なお　ねんどろいど)",
+    "ko" : "나오"
   },
-  "series": {
-    "ko": "마비노기",
-    "ja": "マビノギ",
-    "en": "マビノギ"
-  },
-  "gsc_productNum": 637,
-  "price": 3667,
-  "release_date": [
+  "num" : "024",
+  "price" : 3667,
+  "release_date" : [
     "2007/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/637/981/large/dea0bad951961356afcfadb57b855f87.jpg",
-  "gender": "F",
-  "set": 7
+  "series" : {
+    "en" : "マビノギ",
+    "ja" : "マビノギ",
+    "ko" : "마비노기"
+  },
+  "set" : 7
 }

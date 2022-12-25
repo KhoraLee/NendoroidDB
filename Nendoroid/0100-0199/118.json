@@ -1,20 +1,20 @@
 {
-  "num": "118",
-  "name": {
-    "ko": "아마노 토오코",
-    "ja": "ねんどろいど 天野遠子 (ねんどろいど あまのとおこ)",
-    "en": "Nendoroid Tooko Amano"
+  "gender" : "F",
+  "gsc_productNum" : 2862,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100511/2862/10061/large/efd65a49720794584782d1cfaed74db6.jpg",
+  "name" : {
+    "en" : "Nendoroid Tooko Amano",
+    "ja" : "ねんどろいど 天野遠子 (ねんどろいど あまのとおこ)",
+    "ko" : "아마노 토오코"
   },
-  "series": {
-    "ko": "문학소녀",
-    "ja": "劇場版\"文学少女\"",
-    "en": "Bungaku Shoujo: The Movie"
-  },
-  "gsc_productNum": 2862,
-  "price": 3667,
-  "release_date": [
+  "num" : "118",
+  "price" : 3667,
+  "release_date" : [
     "2010/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100511/2862/10061/large/efd65a49720794584782d1cfaed74db6.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Bungaku Shoujo: The Movie",
+    "ja" : "劇場版\"文学少女\"",
+    "ko" : "문학소녀"
+  }
 }

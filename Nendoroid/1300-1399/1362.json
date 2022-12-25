@@ -1,21 +1,21 @@
 {
-  "num": "1362",
-  "name": {
-    "ko": "히카와 히나 스테이지 의상 Ver.",
-    "ja": "ねんどろいど 氷川日菜 ステージ衣装Ver. (ねんどろいど ひかわひな すてーじいしょうVer.)",
-    "en": "Nendoroid Hina Hikawa: Stage Outfit Ver."
+  "gender" : "F",
+  "gsc_productNum" : 9595,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200602/9595/70481/large/38afdcbaeeb8114c6dad79d9fdb11293.jpg",
+  "name" : {
+    "en" : "Nendoroid Hina Hikawa: Stage Outfit Ver.",
+    "ja" : "ねんどろいど 氷川日菜 ステージ衣装Ver. (ねんどろいど ひかわひな すてーじいしょうVer.)",
+    "ko" : "히카와 히나 스테이지 의상 Ver."
   },
-  "series": {
-    "ko": "BanG Dream!",
-    "ja": "バンドリ！ ガールズバンドパーティ！",
-    "en": "BanG Dream! Girls Band Party!"
-  },
-  "gsc_productNum": 9595,
-  "price": 5300,
-  "release_date": [
+  "num" : "1362",
+  "price" : 5300,
+  "release_date" : [
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200602/9595/70481/large/38afdcbaeeb8114c6dad79d9fdb11293.jpg",
-  "gender": "F",
-  "set": 152
+  "series" : {
+    "en" : "BanG Dream! Girls Band Party!",
+    "ja" : "バンドリ！ ガールズバンドパーティ！",
+    "ko" : "BanG Dream!"
+  },
+  "set" : 152
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1518",
-  "name": {
-    "ko": "샐리",
-    "ja": "ねんどろいど サリー (ねんどろいど さりー)",
-    "en": "Nendoroid Sally"
+  "gsc_productNum" : 10469,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201202/10469/78050/large/11cf5eeafd550dce138c50922d21a8a2.jpg",
+  "name" : {
+    "en" : "Nendoroid Sally",
+    "ja" : "ねんどろいど サリー (ねんどろいど さりー)",
+    "ko" : "샐리"
   },
-  "series": {
-    "ko": "크리스마스의 악몽",
-    "ja": "ナイトメアー・ビフォア・クリスマス",
-    "en": "The Nightmare Before Christmas"
-  },
-  "gsc_productNum": 10469,
-  "price": 5900,
-  "release_date": [
+  "num" : "1518",
+  "price" : 5900,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201202/10469/78050/large/11cf5eeafd550dce138c50922d21a8a2.jpg",
-  "set": 197
+  "series" : {
+    "en" : "The Nightmare Before Christmas",
+    "ja" : "ナイトメアー・ビフォア・クリスマス",
+    "ko" : "크리스마스의 악몽"
+  },
+  "set" : 197
 }

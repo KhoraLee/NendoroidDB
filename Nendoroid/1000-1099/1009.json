@@ -1,21 +1,21 @@
 {
-  "num": "1009",
-  "name": {
-    "ko": "노리마키 아라레 고양이귀 Ver. \u0026갓짱",
-    "ja": "ねんどろいど 則巻アラレ 猫耳Ver.＆ガッちゃん (ねんどろいど のりまきあられ ねこみみVer.＆がっちゃん)",
-    "en": "Nendoroid Arale Norimaki: Cat Ears Ver. \u0026 Gacchan"
+  "gender" : "F",
+  "gsc_productNum" : 7654,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180928/7654/54884/large/d1c73c62ecfe0b885eaa769f2396faf9.jpg",
+  "name" : {
+    "en" : "Nendoroid Arale Norimaki: Cat Ears Ver. & Gacchan",
+    "ja" : "ねんどろいど 則巻アラレ 猫耳Ver.＆ガッちゃん (ねんどろいど のりまきあられ ねこみみVer.＆がっちゃん)",
+    "ko" : "노리마키 아라레 고양이귀 Ver. &갓짱"
   },
-  "series": {
-    "ko": "닥터 슬럼프",
-    "ja": "Dr.スランプ アラレちゃん",
-    "en": "Dr.SLUMP ARALE CHAN"
-  },
-  "gsc_productNum": 7654,
-  "price": 5093,
-  "release_date": [
+  "num" : "1009",
+  "price" : 5093,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180928/7654/54884/large/d1c73c62ecfe0b885eaa769f2396faf9.jpg",
-  "gender": "F",
-  "set": 170
+  "series" : {
+    "en" : "Dr.SLUMP ARALE CHAN",
+    "ja" : "Dr.スランプ アラレちゃん",
+    "ko" : "닥터 슬럼프"
+  },
+  "set" : 170
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1515",
-  "name": {
-    "ko": "어쌔신/잭 더 리퍼",
-    "ja": "ねんどろいど アサシン/ジャック・ザ・リッパー (ねんどろいど あさしん/じゃっく・ざ・りっぱー)",
-    "en": "Nendoroid Assassin/Jack the Ripper"
+  "gender" : "F",
+  "gsc_productNum" : 10426,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201124/10426/77650/large/539cc15049e586a5d45d4b40ee558f9f.jpg",
+  "name" : {
+    "en" : "Nendoroid Assassin/Jack the Ripper",
+    "ja" : "ねんどろいど アサシン/ジャック・ザ・リッパー (ねんどろいど あさしん/じゃっく・ざ・りっぱー)",
+    "ko" : "어쌔신/잭 더 리퍼"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 10426,
-  "price": 5800,
-  "release_date": [
+  "num" : "1515",
+  "price" : 5800,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201124/10426/77650/large/539cc15049e586a5d45d4b40ee558f9f.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

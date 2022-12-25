@@ -1,23 +1,23 @@
 {
-  "num": "724",
-  "name": {
-    "ko": "하타케 카카시",
-    "ja": "ねんどろいど はたけカカシ (ねんどろいど はたけかかし)",
-    "en": "Nendoroid Kakashi Hatake"
+  "gender" : "M",
+  "gsc_productNum" : 6174,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170113/6174/43181/large/5a528a48f0358d141fdcda9c39998718.jpg",
+  "name" : {
+    "en" : "Nendoroid Kakashi Hatake",
+    "ja" : "ねんどろいど はたけカカシ (ねんどろいど はたけかかし)",
+    "ko" : "하타케 카카시"
   },
-  "series": {
-    "ko": "나루토",
-    "ja": "NARUTO -ナルト- 疾風伝",
-    "en": "Naruto Shippuden"
-  },
-  "gsc_productNum": 6174,
-  "price": 5300,
-  "release_date": [
+  "num" : "724",
+  "price" : 5300,
+  "release_date" : [
     "2017/08",
     "2019/09",
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170113/6174/43181/large/5a528a48f0358d141fdcda9c39998718.jpg",
-  "gender": "M",
-  "set": 144
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  },
+  "set" : 144
 }

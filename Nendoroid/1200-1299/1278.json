@@ -1,20 +1,20 @@
 {
-  "num": "1278",
-  "name": {
-    "ko": "사쿠라 히비키",
-    "ja": "ねんどろいど 紗倉ひびき (ねんどろいど さくらひびき)",
-    "en": "Nendoroid Hibiki Sakura"
+  "gender" : "F",
+  "gsc_productNum" : 9206,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200124/9206/67070/large/23322b7fb2b8780d69a592b3ea8b589e.jpg",
+  "name" : {
+    "en" : "Nendoroid Hibiki Sakura",
+    "ja" : "ねんどろいど 紗倉ひびき (ねんどろいど さくらひびき)",
+    "ko" : "사쿠라 히비키"
   },
-  "series": {
-    "ko": "덤벨 몇 킬로까지 들 수 있어?",
-    "ja": "ダンベル何キロ持てる？",
-    "en": "How Heavy Are the Dumbbells You Lift?"
-  },
-  "gsc_productNum": 9206,
-  "price": 5800,
-  "release_date": [
+  "num" : "1278",
+  "price" : 5800,
+  "release_date" : [
     "2020/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200124/9206/67070/large/23322b7fb2b8780d69a592b3ea8b589e.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "How Heavy Are the Dumbbells You Lift?",
+    "ja" : "ダンベル何キロ持てる？",
+    "ko" : "덤벨 몇 킬로까지 들 수 있어?"
+  }
 }

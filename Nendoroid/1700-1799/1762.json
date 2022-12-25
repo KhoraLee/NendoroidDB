@@ -1,21 +1,21 @@
 {
-  "num": "1762",
-  "name": {
-    "ko": "미츠루기 레이지",
-    "ja": "ねんどろいど 御剣怜侍 (ねんどろいど みつるぎれいじ)",
-    "en": "Nendoroid Miles Edgeworth"
+  "gender" : "M",
+  "gsc_productNum" : 12051,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211125/12051/92504/large/ef394cc958044694bd3a965ef770402c.jpg",
+  "name" : {
+    "en" : "Nendoroid Miles Edgeworth",
+    "ja" : "ねんどろいど 御剣怜侍 (ねんどろいど みつるぎれいじ)",
+    "ko" : "미츠루기 레이지"
   },
-  "series": {
-    "ko": "역전재판",
-    "ja": "逆転裁判",
-    "en": "Phoenix Wright: Ace Attorney"
-  },
-  "gsc_productNum": 12051,
-  "price": 5500,
-  "release_date": [
+  "num" : "1762",
+  "price" : 5500,
+  "release_date" : [
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211125/12051/92504/large/ef394cc958044694bd3a965ef770402c.jpg",
-  "gender": "M",
-  "set": 276
+  "series" : {
+    "en" : "Phoenix Wright: Ace Attorney",
+    "ja" : "逆転裁判",
+    "ko" : "역전재판"
+  },
+  "set" : 276
 }

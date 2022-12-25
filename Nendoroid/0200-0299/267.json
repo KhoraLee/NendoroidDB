@@ -1,22 +1,22 @@
 {
-  "num": "267",
-  "name": {
-    "ko": "하라무라 노도카",
-    "ja": "ねんどろいど 原村和 (ねんどろいど はらむらのどか)",
-    "en": "Nendoroid Nodoka Haramura (ねんどろいど はらむらのどか)"
+  "gender" : "F",
+  "gsc_productNum" : 3622,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120725/3622/27933/large/d934803a78a0aa2183d1bcb78f44ba44.jpg",
+  "name" : {
+    "en" : "Nendoroid Nodoka Haramura (ねんどろいど はらむらのどか)",
+    "ja" : "ねんどろいど 原村和 (ねんどろいど はらむらのどか)",
+    "ko" : "하라무라 노도카"
   },
-  "series": {
-    "ko": "사키",
-    "ja": "咲-Saki-阿知賀編 episode of side-A",
-    "en": "Saki Achiga-hen episode of Side-A"
-  },
-  "gsc_productNum": 3622,
-  "price": 3909,
-  "release_date": [
+  "num" : "267",
+  "price" : 3909,
+  "release_date" : [
     "2013/01",
     "2014/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120725/3622/27933/large/d934803a78a0aa2183d1bcb78f44ba44.jpg",
-  "gender": "F",
-  "set": 65
+  "series" : {
+    "en" : "Saki Achiga-hen episode of Side-A",
+    "ja" : "咲-Saki-阿知賀編 episode of side-A",
+    "ko" : "사키"
+  },
+  "set" : 65
 }

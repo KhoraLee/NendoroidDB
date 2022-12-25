@@ -1,21 +1,21 @@
 {
-  "num": "529b",
-  "name": {
-    "ko": "카게야마 토비오 츄리닝 Ver.",
-    "ja": "ねんどろいど 影山飛雄 ジャージVer. (ねんどろいど かげやまとびお じゃーじVer.)",
-    "en": "Nendoroid Tobio Kageyama: Jersey Ver."
+  "gender" : "M",
+  "gsc_productNum" : 7011,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180124/7011/49836/large/baea37b516b2290871379a1757db3615.jpg",
+  "name" : {
+    "en" : "Nendoroid Tobio Kageyama: Jersey Ver.",
+    "ja" : "ねんどろいど 影山飛雄 ジャージVer. (ねんどろいど かげやまとびお じゃーじVer.)",
+    "ko" : "카게야마 토비오 츄리닝 Ver."
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "Haikyu!!"
-  },
-  "gsc_productNum": 7011,
-  "price": 3565,
-  "release_date": [
+  "num" : "529b",
+  "price" : 3565,
+  "release_date" : [
     "2018/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180124/7011/49836/large/baea37b516b2290871379a1757db3615.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

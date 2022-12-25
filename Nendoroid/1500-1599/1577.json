@@ -1,21 +1,21 @@
 {
-  "num": "1577",
-  "name": {
-    "ko": "마리",
-    "ja": "ねんどろいど マリィ (ねんどろいど まりぃ)",
-    "en": "Nendoroid Marnie"
+  "gender" : "F",
+  "gsc_productNum" : 10678,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210114/10678/81077/large/172710827f3f25e1b75a4d13350670e1.jpg",
+  "name" : {
+    "en" : "Nendoroid Marnie",
+    "ja" : "ねんどろいど マリィ (ねんどろいど まりぃ)",
+    "ko" : "마리"
   },
-  "series": {
-    "ko": "포켓몬스터",
-    "ja": "ポケットモンスター",
-    "en": "Pokémon Sword and Shield"
-  },
-  "gsc_productNum": 10678,
-  "price": 5800,
-  "release_date": [
+  "num" : "1577",
+  "price" : 5800,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210114/10678/81077/large/172710827f3f25e1b75a4d13350670e1.jpg",
-  "gender": "F",
-  "set": 103
+  "series" : {
+    "en" : "Pokémon Sword and Shield",
+    "ja" : "ポケットモンスター",
+    "ko" : "포켓몬스터"
+  },
+  "set" : 103
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1820",
-  "name": {
-    "ko": "제로투 : 어린시절 Ver.",
-    "ja": "ねんどろいど ゼロツー幼少期Ver. (ねんどろいど ぜろつーようしょうきVer.)",
-    "en": "Nendoroid Zero Two: Childhood Ver."
+  "gender" : "F",
+  "gsc_productNum" : 12332,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220215/12332/95313/large/38cc3459ef9a4fd8ac1e765b9635984f.jpg",
+  "name" : {
+    "en" : "Nendoroid Zero Two: Childhood Ver.",
+    "ja" : "ねんどろいど ゼロツー幼少期Ver. (ねんどろいど ぜろつーようしょうきVer.)",
+    "ko" : "제로투 : 어린시절 Ver."
   },
-  "series": {
-    "ko": "달링 인 더 프랑키스",
-    "ja": "ダーリン・イン・ザ・フランキス",
-    "en": "DARLING in the FRANXX"
-  },
-  "gsc_productNum": 12332,
-  "price": 6200,
-  "release_date": [
+  "num" : "1820",
+  "price" : 6200,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220215/12332/95313/large/38cc3459ef9a4fd8ac1e765b9635984f.jpg",
-  "gender": "F",
-  "set": 185
+  "series" : {
+    "en" : "DARLING in the FRANXX",
+    "ja" : "ダーリン・イン・ザ・フランキス",
+    "ko" : "달링 인 더 프랑키스"
+  },
+  "set" : 185
 }

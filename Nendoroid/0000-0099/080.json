@@ -1,21 +1,21 @@
 {
-  "num": "080",
-  "name": {
-    "ko": "아사쿠라 유메",
-    "ja": "ねんどろいど 朝倉由夢 (あさくらゆめ ねんどろいど)",
-    "en": "Nendoroid Yume Asakura (あさくらゆめ ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 2540,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2540/7392/large/c1882d07ad4dd3d9f1526025f511e9e7.jpg",
+  "name" : {
+    "en" : "Nendoroid Yume Asakura (あさくらゆめ ねんどろいど)",
+    "ja" : "ねんどろいど 朝倉由夢 (あさくらゆめ ねんどろいど)",
+    "ko" : "아사쿠라 유메"
   },
-  "series": {
-    "ko": "다카포",
-    "ja": "D.C.Ⅱ～ダ・カーポⅡ～",
-    "en": "D.C. II ~Da Capo II~"
-  },
-  "gsc_productNum": 2540,
-  "price": 3667,
-  "release_date": [
+  "num" : "080",
+  "price" : 3667,
+  "release_date" : [
     "2009/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2540/7392/large/c1882d07ad4dd3d9f1526025f511e9e7.jpg",
-  "gender": "F",
-  "set": 21
+  "series" : {
+    "en" : "D.C. II ~Da Capo II~",
+    "ja" : "D.C.Ⅱ～ダ・カーポⅡ～",
+    "ko" : "다카포"
+  },
+  "set" : 21
 }

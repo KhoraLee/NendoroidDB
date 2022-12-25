@@ -1,21 +1,21 @@
 {
-  "num": "290",
-  "name": {
-    "ko": "센도 아이치",
-    "ja": "ねんどろいど 先導アイチ (ねんどろいど せんどうあいち)",
-    "en": "Nendoroid Aichi Sendou (ねんどろん)"
+  "gender" : "M",
+  "gsc_productNum" : 3749,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121114/3749/21406/large/ff554a9e8818b7d1d581bba544e51ce7.jpg",
+  "name" : {
+    "en" : "Nendoroid Aichi Sendou (ねんどろん)",
+    "ja" : "ねんどろいど 先導アイチ (ねんどろいど せんどうあいち)",
+    "ko" : "센도 아이치"
   },
-  "series": {
-    "ko": "카드파이트!! 뱅가드",
-    "ja": "カードファイト!!ヴァンガード",
-    "en": "Cardfight!! Vanguard"
-  },
-  "gsc_productNum": 3749,
-  "price": 3667,
-  "release_date": [
+  "num" : "290",
+  "price" : 3667,
+  "release_date" : [
     "2013/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121114/3749/21406/large/ff554a9e8818b7d1d581bba544e51ce7.jpg",
-  "gender": "M",
-  "set": 71
+  "series" : {
+    "en" : "Cardfight!! Vanguard",
+    "ja" : "カードファイト!!ヴァンガード",
+    "ko" : "카드파이트!! 뱅가드"
+  },
+  "set" : 71
 }

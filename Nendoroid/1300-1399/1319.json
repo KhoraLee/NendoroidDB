@@ -1,21 +1,21 @@
 {
-  "num": "1319",
-  "name": {
-    "ko": "유키 미쿠2.0",
-    "ja": "ねんどろいど 雪ミク 2.0 (ねんどろいど　ゆきみく2.0)",
-    "en": "Nendoroid Snow Miku 2.0"
+  "gender" : "F",
+  "gsc_productNum" : 9387,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200326/9387/68736/large/a7b521e998b90e329c15d4f4111fec53.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow Miku 2.0",
+    "ja" : "ねんどろいど 雪ミク 2.0 (ねんどろいど　ゆきみく2.0)",
+    "ko" : "유키 미쿠2.0"
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 9387,
-  "price": 5000,
-  "release_date": [
+  "num" : "1319",
+  "price" : 5000,
+  "release_date" : [
     "2020/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200326/9387/68736/large/a7b521e998b90e329c15d4f4111fec53.jpg",
-  "gender": "F",
-  "set": 31
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 31
 }

@@ -1,21 +1,21 @@
 {
-  "num": "730",
-  "name": {
-    "ko": "트레이서",
-    "ja": "ねんどろいど トレーサー クラシックスキン・エディション (ねんどろいど とれーさー くらしっくすきん・えでぃしょん)",
-    "en": "Nendoroid Tracer: Classic Skin Edition"
+  "gender" : "F",
+  "gsc_productNum" : 6214,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170127/6214/43690/large/a48a49de61fbb84c0c0268870b5b9938.jpg",
+  "name" : {
+    "en" : "Nendoroid Tracer: Classic Skin Edition",
+    "ja" : "ねんどろいど トレーサー クラシックスキン・エディション (ねんどろいど とれーさー くらしっくすきん・えでぃしょん)",
+    "ko" : "트레이서"
   },
-  "series": {
-    "ko": "오버워치",
-    "ja": "オーバーウォッチ",
-    "en": "Overwatch"
-  },
-  "gsc_productNum": 6214,
-  "price": 4991,
-  "release_date": [
+  "num" : "730",
+  "price" : 4991,
+  "release_date" : [
     "2017/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170127/6214/43690/large/a48a49de61fbb84c0c0268870b5b9938.jpg",
-  "gender": "F",
-  "set": 150
+  "series" : {
+    "en" : "Overwatch",
+    "ja" : "オーバーウォッチ",
+    "ko" : "오버워치"
+  },
+  "set" : 150
 }

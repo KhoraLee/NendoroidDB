@@ -1,21 +1,21 @@
 {
-  "num": "1647",
-  "name": {
-    "ko": "금랑",
-    "ja": "ねんどろいど キバナ (ねんどろいど きばな)",
-    "en": "Nendoroid Raihan"
+  "gender" : "M",
+  "gsc_productNum" : 11160,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210506/11160/84744/large/e28a675bb2abb13481413c8618bb76fb.jpg",
+  "name" : {
+    "en" : "Nendoroid Raihan",
+    "ja" : "ねんどろいど キバナ (ねんどろいど きばな)",
+    "ko" : "금랑"
   },
-  "series": {
-    "ko": "포켓몬스터",
-    "ja": "ポケットモンスター",
-    "en": "Pokémon Sword and Shield"
-  },
-  "gsc_productNum": 11160,
-  "price": 6700,
-  "release_date": [
+  "num" : "1647",
+  "price" : 6700,
+  "release_date" : [
     "2022/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210506/11160/84744/large/e28a675bb2abb13481413c8618bb76fb.jpg",
-  "gender": "M",
-  "set": 103
+  "series" : {
+    "en" : "Pokémon Sword and Shield",
+    "ja" : "ポケットモンスター",
+    "ko" : "포켓몬스터"
+  },
+  "set" : 103
 }

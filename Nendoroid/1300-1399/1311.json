@@ -1,21 +1,21 @@
 {
-  "num": "1311",
-  "name": {
-    "ko": "닉 와일드",
-    "ja": "ねんどろいど ニック・ワイルド (ねんどろいど にっく・わいるど)",
-    "en": "Nendoroid Nick Wilde"
+  "gender" : "M",
+  "gsc_productNum" : 9369,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200319/9369/68412/large/721d2d022cae85fcff7c0dae8fc919c4.jpg",
+  "name" : {
+    "en" : "Nendoroid Nick Wilde",
+    "ja" : "ねんどろいど ニック・ワイルド (ねんどろいど にっく・わいるど)",
+    "ko" : "닉 와일드"
   },
-  "series": {
-    "ko": "주토피아",
-    "ja": "ズートピア",
-    "en": "Zootopia"
-  },
-  "gsc_productNum": 9369,
-  "price": 6500,
-  "release_date": [
+  "num" : "1311",
+  "price" : 6500,
+  "release_date" : [
     "2020/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200319/9369/68412/large/721d2d022cae85fcff7c0dae8fc919c4.jpg",
-  "gender": "M",
-  "set": 32
+  "series" : {
+    "en" : "Zootopia",
+    "ja" : "ズートピア",
+    "ko" : "주토피아"
+  },
+  "set" : 32
 }

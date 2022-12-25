@@ -1,22 +1,22 @@
 {
-  "num": "862",
-  "name": {
-    "ko": "히자마루",
-    "ja": "ねんどろいど 膝丸 (ねんどろいど ひざまる)",
-    "en": "Nendoroid Hizamaru"
+  "gender" : "M",
+  "gsc_productNum" : 6936,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171213/6936/49235/large/1ff3bc58042d50ce869139250ef5585b.jpg",
+  "name" : {
+    "en" : "Nendoroid Hizamaru",
+    "ja" : "ねんどろいど 膝丸 (ねんどろいど ひざまる)",
+    "ko" : "히자마루"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 6936,
-  "price": 4800,
-  "release_date": [
+  "num" : "862",
+  "price" : 4800,
+  "release_date" : [
     "2018/07",
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171213/6936/49235/large/1ff3bc58042d50ce869139250ef5585b.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

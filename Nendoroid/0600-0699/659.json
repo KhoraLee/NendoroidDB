@@ -1,21 +1,21 @@
 {
-  "num": "659",
-  "name": {
-    "ko": "엘리스",
-    "ja": "ねんどろいど エリーゼ (ねんどろいど えりーぜ)",
-    "en": "Nendoroid Elise"
+  "gender" : "F",
+  "gsc_productNum" : 5838,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160801/5838/40371/large/1fb4c23beb0c5e3d3357f796ed0d835e.jpg",
+  "name" : {
+    "en" : "Nendoroid Elise",
+    "ja" : "ねんどろいど エリーゼ (ねんどろいど えりーぜ)",
+    "ko" : "엘리스"
   },
-  "series": {
-    "ko": "파이어 엠블렘",
-    "ja": "ファイアーエムブレムif",
-    "en": "Fire Emblem Fates"
-  },
-  "gsc_productNum": 5838,
-  "price": 5907,
-  "release_date": [
+  "num" : "659",
+  "price" : 5907,
+  "release_date" : [
     "2017/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160801/5838/40371/large/1fb4c23beb0c5e3d3357f796ed0d835e.jpg",
-  "gender": "F",
-  "set": 124
+  "series" : {
+    "en" : "Fire Emblem Fates",
+    "ja" : "ファイアーエムブレムif",
+    "ko" : "파이어 엠블렘"
+  },
+  "set" : 124
 }

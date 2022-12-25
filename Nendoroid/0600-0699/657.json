@@ -1,24 +1,24 @@
 {
-  "num": "657",
-  "name": {
-    "ko": "다자이 오사무",
-    "ja": "ねんどろいど 太宰治 (ねんどろいど だざいおさむ)",
-    "en": "Nendoroid Osamu Dazai"
+  "gender" : "M",
+  "gsc_productNum" : 5809,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160720/5809/40138/large/9e1148e1e969c3de968851673d4881f0.jpg",
+  "name" : {
+    "en" : "Nendoroid Osamu Dazai",
+    "ja" : "ねんどろいど 太宰治 (ねんどろいど だざいおさむ)",
+    "ko" : "다자이 오사무"
   },
-  "series": {
-    "ko": "문호 스트레이 독스",
-    "ja": "文豪ストレイドッグス",
-    "en": "Bungo Stray Dogs"
-  },
-  "gsc_productNum": 5809,
-  "price": 4278,
-  "release_date": [
+  "num" : "657",
+  "price" : 4278,
+  "release_date" : [
     "2017/02",
     "2017/09",
     "2020/05",
     "2023/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160720/5809/40138/large/9e1148e1e969c3de968851673d4881f0.jpg",
-  "gender": "M",
-  "set": 137
+  "series" : {
+    "en" : "Bungo Stray Dogs",
+    "ja" : "文豪ストレイドッグス",
+    "ko" : "문호 스트레이 독스"
+  },
+  "set" : 137
 }

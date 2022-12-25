@@ -1,20 +1,20 @@
 {
-  "num": "633",
-  "name": {
-    "ko": "아사부키 코가네+오른손짱 세트",
-    "ja": "ねんどろいど 朝吹黄金+右手ちゃんセット (ねんどろいど あさぶきこがね+みぎてちゃんせっと)",
-    "en": "Nendoroid Kogane Asabuki + Migite-chan Set"
+  "gender" : "F",
+  "gsc_productNum" : 5693,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160523/5693/39170/large/be09b28299fc24859f0b84b1ef003ce9.jpg",
+  "name" : {
+    "en" : "Nendoroid Kogane Asabuki + Migite-chan Set",
+    "ja" : "ねんどろいど 朝吹黄金+右手ちゃんセット (ねんどろいど あさぶきこがね+みぎてちゃんせっと)",
+    "ko" : "아사부키 코가네+오른손짱 세트"
   },
-  "series": {
-    "ko": "부부키 부란키",
-    "ja": "ブブキ・ブランキ",
-    "en": "BBK/BRNK"
-  },
-  "gsc_productNum": 5693,
-  "price": 5602,
-  "release_date": [
+  "num" : "633",
+  "price" : 5602,
+  "release_date" : [
     "2016/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160523/5693/39170/large/be09b28299fc24859f0b84b1ef003ce9.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "BBK/BRNK",
+    "ja" : "ブブキ・ブランキ",
+    "ko" : "부부키 부란키"
+  }
 }

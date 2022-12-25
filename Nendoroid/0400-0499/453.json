@@ -1,21 +1,21 @@
 {
-  "num": "453",
-  "name": {
-    "ko": "무토 하나",
-    "ja": "ねんどろいど 夢塔ハナ (ねんどろいど むとうはな)",
-    "en": "Nendoroid Hana Mutou (ねんどろいど むとうはな)"
+  "gender" : "F",
+  "gsc_productNum" : 4579,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140904/4579/30293/large/e6e880cbfcaaed432a79ddc1b646bef5.jpg",
+  "name" : {
+    "en" : "Nendoroid Hana Mutou (ねんどろいど むとうはな)",
+    "ja" : "ねんどろいど 夢塔ハナ (ねんどろいど むとうはな)",
+    "ko" : "무토 하나"
   },
-  "series": {
-    "ko": "캡틴 어스",
-    "ja": "キャプテン・アース",
-    "en": "Captain Earth"
-  },
-  "gsc_productNum": 4579,
-  "price": 4074,
-  "release_date": [
+  "num" : "453",
+  "price" : 4074,
+  "release_date" : [
     "2014/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140904/4579/30293/large/e6e880cbfcaaed432a79ddc1b646bef5.jpg",
-  "gender": "F",
-  "set": 108
+  "series" : {
+    "en" : "Captain Earth",
+    "ja" : "キャプテン・アース",
+    "ko" : "캡틴 어스"
+  },
+  "set" : 108
 }

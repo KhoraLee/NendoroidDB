@@ -1,21 +1,21 @@
 {
-  "num": "560",
-  "name": {
-    "ko": "헤스티아",
-    "ja": "ねんどろいど ヘスティア (ねんどろいど へすてぃあ)",
-    "en": "Nendoroid Hestia"
+  "gender" : "F",
+  "gsc_productNum" : 5219,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150907/5219/35418/large/10dd678ea1ac571c02a61b1206d2c395.jpg",
+  "name" : {
+    "en" : "Nendoroid Hestia",
+    "ja" : "ねんどろいど ヘスティア (ねんどろいど へすてぃあ)",
+    "ko" : "헤스티아"
   },
-  "series": {
-    "ko": "던전에서 만남을 추구하면 안되는 걸까",
-    "ja": "ダンジョンに出会いを求めるのは間違っているだろうか",
-    "en": "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
-  },
-  "gsc_productNum": 5219,
-  "price": 4278,
-  "release_date": [
+  "num" : "560",
+  "price" : 4278,
+  "release_date" : [
     "2016/01",
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150907/5219/35418/large/10dd678ea1ac571c02a61b1206d2c395.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+    "ja" : "ダンジョンに出会いを求めるのは間違っているだろうか",
+    "ko" : "던전에서 만남을 추구하면 안되는 걸까"
+  }
 }

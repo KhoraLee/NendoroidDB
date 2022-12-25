@@ -1,20 +1,20 @@
 {
-  "num": "1817",
-  "name": {
-    "ko": "모니카",
-    "ja": "ねんどろいど モニカ (ねんどろいど もにか)",
-    "en": "Nendoroid Monika"
+  "gender" : "F",
+  "gsc_productNum" : 12307,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220202/12307/95048/large/67f48b3602b8c0c7e82d25e824ca0a6e.jpg",
+  "name" : {
+    "en" : "Nendoroid Monika",
+    "ja" : "ねんどろいど モニカ (ねんどろいど もにか)",
+    "ko" : "모니카"
   },
-  "series": {
-    "ko": "두근두근 문예부!",
-    "ja": "ドキドキ文芸部!",
-    "en": "Doki Doki Literature Club!"
-  },
-  "gsc_productNum": 12307,
-  "price": 6900,
-  "release_date": [
+  "num" : "1817",
+  "price" : 6900,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220202/12307/95048/large/67f48b3602b8c0c7e82d25e824ca0a6e.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Doki Doki Literature Club!",
+    "ja" : "ドキドキ文芸部!",
+    "ko" : "두근두근 문예부!"
+  }
 }

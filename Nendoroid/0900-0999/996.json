@@ -1,21 +1,21 @@
 {
-  "num": "996",
-  "name": {
-    "ko": "푸\u0026피글렛",
-    "ja": "ねんどろいど プー＆ピグレットセット (ねんどろいど ぷー＆ぴぐれっとせっと)",
-    "en": "Nendoroid Winnie the Pooh \u0026 Piglet Set"
+  "gsc_productNum" : 7598,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180911/7598/54405/large/2d3292b107c36ea64122a6d822d8ed18.jpg",
+  "name" : {
+    "en" : "Nendoroid Winnie the Pooh & Piglet Set",
+    "ja" : "ねんどろいど プー＆ピグレットセット (ねんどろいど ぷー＆ぴぐれっとせっと)",
+    "ko" : "푸&피글렛"
   },
-  "series": {
-    "ko": "곰돌이 푸",
-    "ja": "くまのプーさん",
-    "en": "Winnie-the-Pooh"
-  },
-  "gsc_productNum": 7598,
-  "price": 5602,
-  "release_date": [
+  "num" : "996",
+  "price" : 5602,
+  "release_date" : [
     "2019/05",
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180911/7598/54405/large/2d3292b107c36ea64122a6d822d8ed18.jpg",
-  "set": 32
+  "series" : {
+    "en" : "Winnie-the-Pooh",
+    "ja" : "くまのプーさん",
+    "ko" : "곰돌이 푸"
+  },
+  "set" : 32
 }

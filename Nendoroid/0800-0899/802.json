@@ -1,22 +1,22 @@
 {
-  "num": "802",
-  "name": {
-    "ko": "미야미즈 미츠하",
-    "ja": "ねんどろいど 宮水三葉 (ねんどろいど みやみずみつは)",
-    "en": "Nendoroid Mitsuha Miyamizu"
+  "gender" : "F",
+  "gsc_productNum" : 6596,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170721/6596/46636/large/32f4d18db1019603d2d4c5f734477f66.jpg",
+  "name" : {
+    "en" : "Nendoroid Mitsuha Miyamizu",
+    "ja" : "ねんどろいど 宮水三葉 (ねんどろいど みやみずみつは)",
+    "ko" : "미야미즈 미츠하"
   },
-  "series": {
-    "ko": "너의 이름은.",
-    "ja": "君の名は。",
-    "en": "Your Name."
-  },
-  "gsc_productNum": 6596,
-  "price": 3565,
-  "release_date": [
+  "num" : "802",
+  "price" : 3565,
+  "release_date" : [
     "2017/12",
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170721/6596/46636/large/32f4d18db1019603d2d4c5f734477f66.jpg",
-  "gender": "F",
-  "set": 160
+  "series" : {
+    "en" : "Your Name.",
+    "ja" : "君の名は。",
+    "ko" : "너의 이름은."
+  },
+  "set" : 160
 }

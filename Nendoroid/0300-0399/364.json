@@ -1,22 +1,22 @@
 {
-  "num": "364",
-  "name": {
-    "ko": "신쿠 장미소녀 세트",
-    "ja": "ねんどろいど 真紅 薔薇乙女(ローゼンメイデン)セット (ねんどろいど しんく ろーぜんめいでんせっと)",
-    "en": "Nendoroid Shinku: Rozen Maiden Set"
+  "gender" : "F",
+  "gsc_productNum" : 4049,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130830/4049/94235/large/6357413706f1c44941f3064a3ab89b65.jpg",
+  "name" : {
+    "en" : "Nendoroid Shinku: Rozen Maiden Set",
+    "ja" : "ねんどろいど 真紅 薔薇乙女(ローゼンメイデン)セット (ねんどろいど しんく ろーぜんめいでんせっと)",
+    "ko" : "신쿠 장미소녀 세트"
   },
-  "series": {
-    "ko": "로젠 메이든",
-    "ja": "ローゼンメイデン",
-    "en": "Rozen Maiden"
-  },
-  "gsc_productNum": 4049,
-  "price": 6300,
-  "release_date": [
+  "num" : "364",
+  "price" : 6300,
+  "release_date" : [
     "2013/12",
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130830/4049/94235/large/6357413706f1c44941f3064a3ab89b65.jpg",
-  "gender": "F",
-  "set": 88
+  "series" : {
+    "en" : "Rozen Maiden",
+    "ja" : "ローゼンメイデン",
+    "ko" : "로젠 메이든"
+  },
+  "set" : 88
 }

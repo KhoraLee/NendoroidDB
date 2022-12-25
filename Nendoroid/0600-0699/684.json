@@ -1,21 +1,21 @@
 {
-  "num": "684",
-  "name": {
-    "ko": "시라누이 마이",
-    "ja": "ねんどろいど 不知火舞 (ねんどろいど しらぬいまい)",
-    "en": "Nendoroid Mai Shiranui"
+  "gender" : "F",
+  "gsc_productNum" : 6018,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161018/6018/41865/large/01c221c0d3c0c35cbc8b9e5aba65d189.jpg",
+  "name" : {
+    "en" : "Nendoroid Mai Shiranui",
+    "ja" : "ねんどろいど 不知火舞 (ねんどろいど しらぬいまい)",
+    "ko" : "시라누이 마이"
   },
-  "series": {
-    "ko": "더 킹 오브 파이터즈",
-    "ja": "THE KING OF FIGHTERS XIV",
-    "en": "THE KING OF FIGHTERS XIV"
-  },
-  "gsc_productNum": 6018,
-  "price": 4888,
-  "release_date": [
+  "num" : "684",
+  "price" : 4888,
+  "release_date" : [
     "2017/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20161018/6018/41865/large/01c221c0d3c0c35cbc8b9e5aba65d189.jpg",
-  "gender": "F",
-  "set": 145
+  "series" : {
+    "en" : "THE KING OF FIGHTERS XIV",
+    "ja" : "THE KING OF FIGHTERS XIV",
+    "ko" : "더 킹 오브 파이터즈"
+  },
+  "set" : 145
 }

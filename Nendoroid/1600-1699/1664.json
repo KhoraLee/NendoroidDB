@@ -1,20 +1,20 @@
 {
-  "num": "1664",
-  "name": {
-    "ko": "유자키 츠카사",
-    "ja": "ねんどろいど 由崎司 (ねんどろいど ゆざきつかさ)",
-    "en": "Nendoroid Tsukasa Yuzaki"
+  "gender" : "F",
+  "gsc_productNum" : 11311,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210603/11311/86002/large/9458917c6dc10e286a8e4b5aa8faf5d4.jpg",
+  "name" : {
+    "en" : "Nendoroid Tsukasa Yuzaki",
+    "ja" : "ねんどろいど 由崎司 (ねんどろいど ゆざきつかさ)",
+    "ko" : "유자키 츠카사"
   },
-  "series": {
-    "ko": "어쨋든 귀여워",
-    "ja": "トニカクカワイイ",
-    "en": "TONIKAWA: Over the Moon for You"
-  },
-  "gsc_productNum": 11311,
-  "price": 5500,
-  "release_date": [
+  "num" : "1664",
+  "price" : 5500,
+  "release_date" : [
     "2022/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210603/11311/86002/large/9458917c6dc10e286a8e4b5aa8faf5d4.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "TONIKAWA: Over the Moon for You",
+    "ja" : "トニカクカワイイ",
+    "ko" : "어쨋든 귀여워"
+  }
 }

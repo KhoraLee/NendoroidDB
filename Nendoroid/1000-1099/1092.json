@@ -1,21 +1,21 @@
 {
-  "num": "1092",
-  "name": {
-    "ko": "엠마",
-    "ja": "ねんどろいど エマ (ねんどろいど えま)",
-    "en": "Nendoroid Emma"
+  "gender" : "F",
+  "gsc_productNum" : 8100,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190222/8100/58343/large/7241b1ce8b20e668628416476c2a1b00.jpg",
+  "name" : {
+    "en" : "Nendoroid Emma",
+    "ja" : "ねんどろいど エマ (ねんどろいど えま)",
+    "ko" : "엠마"
   },
-  "series": {
-    "ko": "약속의 네버랜드",
-    "ja": "約束のネバーランド",
-    "en": "The Promised Neverland"
-  },
-  "gsc_productNum": 8100,
-  "price": 4888,
-  "release_date": [
+  "num" : "1092",
+  "price" : 4888,
+  "release_date" : [
     "2019/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190222/8100/58343/large/7241b1ce8b20e668628416476c2a1b00.jpg",
-  "gender": "F",
-  "set": 211
+  "series" : {
+    "en" : "The Promised Neverland",
+    "ja" : "約束のネバーランド",
+    "ko" : "약속의 네버랜드"
+  },
+  "set" : 211
 }

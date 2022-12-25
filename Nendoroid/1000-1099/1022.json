@@ -1,21 +1,21 @@
 {
-  "num": "1022",
-  "name": {
-    "ko": "론 위즐리",
-    "ja": "ねんどろいど ロン・ウィーズリー (ねんどろいど ろん・うぃーずりー)",
-    "en": "Nendoroid Ron Weasley"
+  "gender" : "M",
+  "gsc_productNum" : 7730,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181022/7730/55380/large/4585d5fd8bae868d953906ccdf07ba06.jpg",
+  "name" : {
+    "en" : "Nendoroid Ron Weasley",
+    "ja" : "ねんどろいど ロン・ウィーズリー (ねんどろいど ろん・うぃーずりー)",
+    "ko" : "론 위즐리"
   },
-  "series": {
-    "ko": "해리포터 시리즈",
-    "ja": "ハリー・ポッター",
-    "en": "Harry Potter"
-  },
-  "gsc_productNum": 7730,
-  "price": 4584,
-  "release_date": [
+  "num" : "1022",
+  "price" : 4584,
+  "release_date" : [
     "2019/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181022/7730/55380/large/4585d5fd8bae868d953906ccdf07ba06.jpg",
-  "gender": "M",
-  "set": 194
+  "series" : {
+    "en" : "Harry Potter",
+    "ja" : "ハリー・ポッター",
+    "ko" : "해리포터 시리즈"
+  },
+  "set" : 194
 }

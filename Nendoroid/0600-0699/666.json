@@ -1,19 +1,19 @@
 {
-  "num": "666",
-  "name": {
-    "ko": "엘리어스 에인즈워스",
-    "ja": "ねんどろいど エリアス・エインズワース (ねんどろいど えりあす・えいんずわーす)",
-    "en": "Nendoroid Elias Ainsworth"
+  "gsc_productNum" : 5862,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160805/5862/40589/large/f66b4c9a4447632785d95cd2ac0399f4.jpg",
+  "name" : {
+    "en" : "Nendoroid Elias Ainsworth",
+    "ja" : "ねんどろいど エリアス・エインズワース (ねんどろいど えりあす・えいんずわーす)",
+    "ko" : "엘리어스 에인즈워스"
   },
-  "series": {
-    "ko": "마법사의 신부",
-    "ja": "魔法使いの嫁",
-    "en": "The Ancient Magus\u0027 Bride"
-  },
-  "gsc_productNum": 5862,
-  "price": 4888,
-  "release_date": [
+  "num" : "666",
+  "price" : 4888,
+  "release_date" : [
     "2016/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160805/5862/40589/large/f66b4c9a4447632785d95cd2ac0399f4.jpg"
+  "series" : {
+    "en" : "The Ancient Magus' Bride",
+    "ja" : "魔法使いの嫁",
+    "ko" : "마법사의 신부"
+  }
 }

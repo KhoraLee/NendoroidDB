@@ -1,20 +1,20 @@
 {
-  "num": "015",
-  "name": {
-    "ko": "타치코마",
-    "ja": "ねんどろいど タチコマ (ねんどろいど たちこま)",
-    "en": "Nendoroid Tachikoma (ねんどろいど たちこま)"
+  "gsc_productNum" : 618,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/618/946/large/3cb74fb977db468c1313d9d929dd64b7.jpg",
+  "name" : {
+    "en" : "Nendoroid Tachikoma (ねんどろいど たちこま)",
+    "ja" : "ねんどろいど タチコマ (ねんどろいど たちこま)",
+    "ko" : "타치코마"
   },
-  "series": {
-    "ko": "공각기동대",
-    "ja": "攻殻機動隊S.A.C.",
-    "en": "Ghost in the Shell S.A.C"
-  },
-  "gsc_productNum": 618,
-  "price": 4190,
-  "release_date": [
+  "num" : "015",
+  "price" : 4190,
+  "release_date" : [
     "2011/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/618/946/large/3cb74fb977db468c1313d9d929dd64b7.jpg",
-  "set": 6
+  "series" : {
+    "en" : "Ghost in the Shell S.A.C",
+    "ja" : "攻殻機動隊S.A.C.",
+    "ko" : "공각기동대"
+  },
+  "set" : 6
 }

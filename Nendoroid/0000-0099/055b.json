@@ -1,21 +1,21 @@
 {
-  "num": "055b",
-  "name": {
-    "ko": "타카라 미유키 통상 Ver.",
-    "ja": "ねんどろいど　高良みゆき 通常Ver. (たからみゆき つうじょうばーじょん ねんどろいど)",
-    "en": "Nendoroid Miyuki Takara Normal Ver. (たからみゆき つうじょうばーじょん ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 2207,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2207/6101/large/690896c7995f4286241f4c7af03953e4.jpg",
+  "name" : {
+    "en" : "Nendoroid Miyuki Takara Normal Ver. (たからみゆき つうじょうばーじょん ねんどろいど)",
+    "ja" : "ねんどろいど　高良みゆき 通常Ver. (たからみゆき つうじょうばーじょん ねんどろいど)",
+    "ko" : "타카라 미유키 통상 Ver."
   },
-  "series": {
-    "ko": "럭키스타",
-    "ja": "TVアニメ らき☆すた",
-    "en": "Lucky Star"
-  },
-  "gsc_productNum": 2207,
-  "price": 3667,
-  "release_date": [
+  "num" : "055b",
+  "price" : 3667,
+  "release_date" : [
     "2009/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2207/6101/large/690896c7995f4286241f4c7af03953e4.jpg",
-  "gender": "F",
-  "set": 9
+  "series" : {
+    "en" : "Lucky Star",
+    "ja" : "TVアニメ らき☆すた",
+    "ko" : "럭키스타"
+  },
+  "set" : 9
 }

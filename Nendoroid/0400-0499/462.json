@@ -1,21 +1,21 @@
 {
-  "num": "462",
-  "name": {
-    "ko": "에리카 폰티느",
-    "ja": "ねんどろいど エリカ・フォンティーヌ＆光武F2 (ねんどろいど えりか・ふぉんてぃーぬ＆こうぶF2)",
-    "en": "Nendoroid Erica Fontaine \u0026 Koubu-F2 (ねんどろいど えりか・ふぉんてぃーぬ＆こうぶF2)"
+  "gender" : "F",
+  "gsc_productNum" : 4653,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141003/4653/30783/large/027e7456e08194189df7d5c756545e6a.jpg",
+  "name" : {
+    "en" : "Nendoroid Erica Fontaine & Koubu-F2 (ねんどろいど えりか・ふぉんてぃーぬ＆こうぶF2)",
+    "ja" : "ねんどろいど エリカ・フォンティーヌ＆光武F2 (ねんどろいど えりか・ふぉんてぃーぬ＆こうぶF2)",
+    "ko" : "에리카 폰티느"
   },
-  "series": {
-    "ko": "사쿠라 대전",
-    "ja": "サクラ大戦３",
-    "en": "Sakura Wars 3"
-  },
-  "gsc_productNum": 4653,
-  "price": 6926,
-  "release_date": [
+  "num" : "462",
+  "price" : 6926,
+  "release_date" : [
     "2015/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141003/4653/30783/large/027e7456e08194189df7d5c756545e6a.jpg",
-  "gender": "F",
-  "set": 55
+  "series" : {
+    "en" : "Sakura Wars 3",
+    "ja" : "サクラ大戦３",
+    "ko" : "사쿠라 대전"
+  },
+  "set" : 55
 }

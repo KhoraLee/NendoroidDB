@@ -1,23 +1,23 @@
 {
-  "num": "354",
-  "name": {
-    "ko": "야토가미 토카",
-    "ja": "ねんどろいど 夜刀神十香 (ねんどろいど やとがみとおか)",
-    "en": "Nendoroid Tohka Yatogami (ねんどろいど やとがみとおか)"
+  "gender" : "F",
+  "gsc_productNum" : 4011,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130726/4011/42206/large/c884f54c4fab2a9c4e1e3830f5ec1716.jpg",
+  "name" : {
+    "en" : "Nendoroid Tohka Yatogami (ねんどろいど やとがみとおか)",
+    "ja" : "ねんどろいど 夜刀神十香 (ねんどろいど やとがみとおか)",
+    "ko" : "야토가미 토카"
   },
-  "series": {
-    "ko": "데이트 어 라이브",
-    "ja": "デート・ア・ライブ",
-    "en": "Date A Live"
-  },
-  "gsc_productNum": 4011,
-  "price": 4888,
-  "release_date": [
+  "num" : "354",
+  "price" : 4888,
+  "release_date" : [
     "2013/12",
     "2017/03",
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130726/4011/42206/large/c884f54c4fab2a9c4e1e3830f5ec1716.jpg",
-  "gender": "F",
-  "set": 86
+  "series" : {
+    "en" : "Date A Live",
+    "ja" : "デート・ア・ライブ",
+    "ko" : "데이트 어 라이브"
+  },
+  "set" : 86
 }

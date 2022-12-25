@@ -1,21 +1,21 @@
 {
-  "num": "1072",
-  "name": {
-    "ko": "치토",
-    "ja": "ねんどろいど チト (ねんどろいど ちと)",
-    "en": "Nendoroid Chito"
+  "gender" : "F",
+  "gsc_productNum" : 7992,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190118/7992/57431/large/4e917ba0f78d6d06e6b2650706bc357d.jpg",
+  "name" : {
+    "en" : "Nendoroid Chito",
+    "ja" : "ねんどろいど チト (ねんどろいど ちと)",
+    "ko" : "치토"
   },
-  "series": {
-    "ko": "소녀종말여행",
-    "ja": "少女終末旅行",
-    "en": "Girls\u0027 Last Tour"
-  },
-  "gsc_productNum": 7992,
-  "price": 5398,
-  "release_date": [
+  "num" : "1072",
+  "price" : 5398,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190118/7992/57431/large/4e917ba0f78d6d06e6b2650706bc357d.jpg",
-  "gender": "F",
-  "set": 205
+  "series" : {
+    "en" : "Girls' Last Tour",
+    "ja" : "少女終末旅行",
+    "ko" : "소녀종말여행"
+  },
+  "set" : 205
 }

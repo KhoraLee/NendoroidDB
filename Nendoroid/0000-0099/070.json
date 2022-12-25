@@ -1,19 +1,19 @@
 {
-  "num": "070",
-  "name": {
-    "ko": "키구루미on쨩",
-    "ja": "ねんどろいど 着ぐるみonちゃん (きぐるみonちゃん ねんどろいど)",
-    "en": "Nendoroid on-chan (きぐるみonちゃん ねんどろいど)"
+  "gsc_productNum" : 2408,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2408/6864/large/dd19586dc6c5489e2cae1916363811c9.jpg",
+  "name" : {
+    "en" : "Nendoroid on-chan (きぐるみonちゃん ねんどろいど)",
+    "ja" : "ねんどろいど 着ぐるみonちゃん (きぐるみonちゃん ねんどろいど)",
+    "ko" : "키구루미on쨩"
   },
-  "series": {
-    "ko": "HTB마스코트 캐릭터",
-    "ja": "HTBマスコットキャラクター",
-    "en": "HTB Mascot Character"
-  },
-  "gsc_productNum": 2408,
-  "price": 3143,
-  "release_date": [
+  "num" : "070",
+  "price" : 3143,
+  "release_date" : [
     "2011/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2408/6864/large/dd19586dc6c5489e2cae1916363811c9.jpg"
+  "series" : {
+    "en" : "HTB Mascot Character",
+    "ja" : "HTBマスコットキャラクター",
+    "ko" : "HTB마스코트 캐릭터"
+  }
 }

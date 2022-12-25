@@ -1,21 +1,21 @@
 {
-  "num": "780",
-  "name": {
-    "ko": "릴리에",
-    "ja": "ねんどろいど リーリエ (ねんどろいど りーりえ)",
-    "en": "Nendoroid Lillie"
+  "gender" : "F",
+  "gsc_productNum" : 6464,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170525/6464/45581/large/88610ac3861a22a68687cc4dc5b9fe11.jpg",
+  "name" : {
+    "en" : "Nendoroid Lillie",
+    "ja" : "ねんどろいど リーリエ (ねんどろいど りーりえ)",
+    "ko" : "릴리에"
   },
-  "series": {
-    "ko": "포켓몬스터",
-    "ja": "ポケットモンスター",
-    "en": "Pokémon"
-  },
-  "gsc_productNum": 6464,
-  "price": 4888,
-  "release_date": [
+  "num" : "780",
+  "price" : 4888,
+  "release_date" : [
     "2017/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170525/6464/45581/large/88610ac3861a22a68687cc4dc5b9fe11.jpg",
-  "gender": "F",
-  "set": 103
+  "series" : {
+    "en" : "Pokémon",
+    "ja" : "ポケットモンスター",
+    "ko" : "포켓몬스터"
+  },
+  "set" : 103
 }

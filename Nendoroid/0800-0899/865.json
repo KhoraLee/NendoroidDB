@@ -1,21 +1,21 @@
 {
-  "num": "865",
-  "name": {
-    "ko": "빅토르 니키포르프 코치 Ver.",
-    "ja": "ねんどろいど ヴィクトル・ニキフォロフ コーチVer. (ねんどろいど ゔぃくとる・にきふぉろふ こーちVer.)",
-    "en": "Nendoroid Victor Nikiforov: Coach Ver."
+  "gender" : "M",
+  "gsc_productNum" : 6953,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171215/6953/49349/large/8d833b33e9dc010b8c67996b10fdc0ba.jpg",
+  "name" : {
+    "en" : "Nendoroid Victor Nikiforov: Coach Ver.",
+    "ja" : "ねんどろいど ヴィクトル・ニキフォロフ コーチVer. (ねんどろいど ゔぃくとる・にきふぉろふ こーちVer.)",
+    "ko" : "빅토르 니키포르프 코치 Ver."
   },
-  "series": {
-    "ko": "유리!!! on ICE",
-    "ja": "ユーリ!!! on ICE",
-    "en": "YURI ON ICE"
-  },
-  "gsc_productNum": 6953,
-  "price": 4278,
-  "release_date": [
+  "num" : "865",
+  "price" : 4278,
+  "release_date" : [
     "2018/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171215/6953/49349/large/8d833b33e9dc010b8c67996b10fdc0ba.jpg",
-  "gender": "M",
-  "set": 151
+  "series" : {
+    "en" : "YURI ON ICE",
+    "ja" : "ユーリ!!! on ICE",
+    "ko" : "유리!!! on ICE"
+  },
+  "set" : 151
 }

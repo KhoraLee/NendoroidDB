@@ -1,21 +1,21 @@
 {
-  "num": "1532",
-  "name": {
-    "ko": "랜서/아르토리아 펜드래건",
-    "ja": "ねんどろいど ランサー/アルトリア・ペンドラゴン (ねんどろいど らんさー/あるとりあ・ぺんどらごん)",
-    "en": "Nendoroid Lancer/Altria Pendragon"
+  "gender" : "F",
+  "gsc_productNum" : 10516,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201208/10516/78444/large/b9e5e95824079a7453c53e8b0e734ef8.jpg",
+  "name" : {
+    "en" : "Nendoroid Lancer/Altria Pendragon",
+    "ja" : "ねんどろいど ランサー/アルトリア・ペンドラゴン (ねんどろいど らんさー/あるとりあ・ぺんどらごん)",
+    "ko" : "랜서/아르토리아 펜드래건"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 10516,
-  "price": 5500,
-  "release_date": [
+  "num" : "1532",
+  "price" : 5500,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201208/10516/78444/large/b9e5e95824079a7453c53e8b0e734ef8.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

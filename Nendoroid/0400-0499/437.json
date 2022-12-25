@@ -1,20 +1,20 @@
 {
-  "num": "437",
-  "name": {
-    "ko": "시마다 마유",
-    "ja": "ねんどろいど 島田真夢 (ねんどろいど しまだまゆ)",
-    "en": "Nendoroid Mayu Shimada (ねんどろいど しまだまゆ)"
+  "gender" : "F",
+  "gsc_productNum" : 4483,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140703/4483/29474/large/f1eb68aa6115ca5a783995c3672e8809.jpg",
+  "name" : {
+    "en" : "Nendoroid Mayu Shimada (ねんどろいど しまだまゆ)",
+    "ja" : "ねんどろいど 島田真夢 (ねんどろいど しまだまゆ)",
+    "ko" : "시마다 마유"
   },
-  "series": {
-    "ko": "Wake Up, Girls!",
-    "ja": "Wake Up, Girls!",
-    "en": "Wake Up, Girls!"
-  },
-  "gsc_productNum": 4483,
-  "price": 4278,
-  "release_date": [
+  "num" : "437",
+  "price" : 4278,
+  "release_date" : [
     "2014/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140703/4483/29474/large/f1eb68aa6115ca5a783995c3672e8809.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Wake Up, Girls!",
+    "ja" : "Wake Up, Girls!",
+    "ko" : "Wake Up, Girls!"
+  }
 }

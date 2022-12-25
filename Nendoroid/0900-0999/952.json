@@ -1,22 +1,22 @@
 {
-  "num": "952",
-  "name": {
-    "ko": "제로투",
-    "ja": "ねんどろいど ゼロツー (ねんどろいど ぜろつー)",
-    "en": "Nendoroid Zero Two"
+  "gender" : "F",
+  "gsc_productNum" : 7380,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180626/7380/52834/large/788f443149d80d3a11b2837bc7180f9b.jpg",
+  "name" : {
+    "en" : "Nendoroid Zero Two",
+    "ja" : "ねんどろいど ゼロツー (ねんどろいど ぜろつー)",
+    "ko" : "제로투"
   },
-  "series": {
-    "ko": "달링 인 더 프랑키스",
-    "ja": "ダーリン・イン・ザ・フランキス",
-    "en": "DARLING in the FRANXX"
-  },
-  "gsc_productNum": 7380,
-  "price": 5300,
-  "release_date": [
+  "num" : "952",
+  "price" : 5300,
+  "release_date" : [
     "2018/12",
     "2021/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180626/7380/52834/large/788f443149d80d3a11b2837bc7180f9b.jpg",
-  "gender": "F",
-  "set": 185
+  "series" : {
+    "en" : "DARLING in the FRANXX",
+    "ja" : "ダーリン・イン・ザ・フランキス",
+    "ko" : "달링 인 더 프랑키스"
+  },
+  "set" : 185
 }

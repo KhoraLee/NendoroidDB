@@ -1,21 +1,21 @@
 {
-  "num": "1095",
-  "name": {
-    "ko": "포리너/아비게일 윌리엄스",
-    "ja": "ねんどろいど フォーリナー/アビゲイル・ウィリアムズ (ねんどろいど ふぉーりなー/あびげいる・うぃりあむず)",
-    "en": "Nendoroid Foreigner/Abigail Williams"
+  "gender" : "F",
+  "gsc_productNum" : 8112,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190226/8112/58450/large/b9ad2238efe5d9def6b6dbfbda2f5188.jpg",
+  "name" : {
+    "en" : "Nendoroid Foreigner/Abigail Williams",
+    "ja" : "ねんどろいど フォーリナー/アビゲイル・ウィリアムズ (ねんどろいど ふぉーりなー/あびげいる・うぃりあむず)",
+    "ko" : "포리너/아비게일 윌리엄스"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 8112,
-  "price": 5297,
-  "release_date": [
+  "num" : "1095",
+  "price" : 5297,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190226/8112/58450/large/b9ad2238efe5d9def6b6dbfbda2f5188.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

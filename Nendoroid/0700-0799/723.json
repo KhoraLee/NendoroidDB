@@ -1,22 +1,22 @@
 {
-  "num": "723",
-  "name": {
-    "ko": "아카아시 케이지",
-    "ja": "ねんどろいど 赤葦京治 (ねんどろいど あかあしけいじ)",
-    "en": "Nendoroid Keiji Akaashi"
+  "gender" : "M",
+  "gsc_productNum" : 6176,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170113/6176/43196/large/067c1c7f353824576084921e1cd9149f.jpg",
+  "name" : {
+    "en" : "Nendoroid Keiji Akaashi",
+    "ja" : "ねんどろいど 赤葦京治 (ねんどろいど あかあしけいじ)",
+    "ko" : "아카아시 케이지"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "Haikyu!!"
-  },
-  "gsc_productNum": 6176,
-  "price": 4685,
-  "release_date": [
+  "num" : "723",
+  "price" : 4685,
+  "release_date" : [
     "2017/07",
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170113/6176/43196/large/067c1c7f353824576084921e1cd9149f.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

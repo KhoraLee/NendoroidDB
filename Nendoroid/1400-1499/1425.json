@@ -1,21 +1,21 @@
 {
-  "num": "1425",
-  "name": {
-    "ko": "닥터 스트레인지 엔드게임 Ver.",
-    "ja": "ねんどろいど ドクター・ストレンジ エンドゲーム Ver. (ねんどろいど どくたー・すとれんじ えんどげーむ Ver.)",
-    "en": "Nendoroid Doctor Strange: Endgame Ver."
+  "gender" : "M",
+  "gsc_productNum" : 9829,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200728/9829/72465/large/c3eae2119c65fe7762418071a92fbdd4.jpg",
+  "name" : {
+    "en" : "Nendoroid Doctor Strange: Endgame Ver.",
+    "ja" : "ねんどろいど ドクター・ストレンジ エンドゲーム Ver. (ねんどろいど どくたー・すとれんじ えんどげーむ Ver.)",
+    "ko" : "닥터 스트레인지 엔드게임 Ver."
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／エンドゲーム",
-    "en": "Avengers: Endgame"
-  },
-  "gsc_productNum": 9829,
-  "price": 5000,
-  "release_date": [
+  "num" : "1425",
+  "price" : 5000,
+  "release_date" : [
     "2020/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200728/9829/72465/large/c3eae2119c65fe7762418071a92fbdd4.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

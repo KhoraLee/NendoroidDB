@@ -1,21 +1,21 @@
 {
-  "num": "1535",
-  "name": {
-    "ko": "징크스",
-    "ja": "ねんどろいど ジンクス (ねんどろいど じんくす)",
-    "en": "Nendoroid Jinx"
+  "gender" : "F",
+  "gsc_productNum" : 10632,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201222/10632/79359/large/56b29db988410cab50f8e756807b5d30.jpg",
+  "name" : {
+    "en" : "Nendoroid Jinx",
+    "ja" : "ねんどろいど ジンクス (ねんどろいど じんくす)",
+    "ko" : "징크스"
   },
-  "series": {
-    "ko": "리그 오브 레전드",
-    "ja": "リーグ・オブ・レジェンド",
-    "en": "League of Legends"
-  },
-  "gsc_productNum": 10632,
-  "price": 6400,
-  "release_date": [
+  "num" : "1535",
+  "price" : 6400,
+  "release_date" : [
     "2021/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201222/10632/79359/large/56b29db988410cab50f8e756807b5d30.jpg",
-  "gender": "F",
-  "set": 98
+  "series" : {
+    "en" : "League of Legends",
+    "ja" : "リーグ・オブ・レジェンド",
+    "ko" : "리그 오브 레전드"
+  },
+  "set" : 98
 }

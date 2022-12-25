@@ -1,21 +1,21 @@
 {
-  "num": "771",
-  "name": {
-    "ko": "마츠우라 카난",
-    "ja": "ねんどろいど 松浦果南 (ねんどろいど まつうらかなん)",
-    "en": "Nendoroid Kanan Matsuura"
+  "gender" : "F",
+  "gsc_productNum" : 6437,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170511/6437/45369/large/eab1c7bdfd8607fbd338cbe595c5c694.jpg",
+  "name" : {
+    "en" : "Nendoroid Kanan Matsuura",
+    "ja" : "ねんどろいど 松浦果南 (ねんどろいど まつうらかなん)",
+    "ko" : "마츠우라 카난"
   },
-  "series": {
-    "ko": "러브라이브! 선샤인!!",
-    "ja": "ラブライブ！サンシャイン!!",
-    "en": "LoveLive!Sunshine!!"
-  },
-  "gsc_productNum": 6437,
-  "price": 3565,
-  "release_date": [
+  "num" : "771",
+  "price" : 3565,
+  "release_date" : [
     "2017/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170511/6437/45369/large/eab1c7bdfd8607fbd338cbe595c5c694.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!Sunshine!!",
+    "ja" : "ラブライブ！サンシャイン!!",
+    "ko" : "러브라이브! 선샤인!!"
+  },
+  "set" : 105
 }

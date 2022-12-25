@@ -1,20 +1,20 @@
 {
-  "num": "063",
-  "name": {
-    "ko": "쿠레하",
-    "ja": "ねんどろいど クレハ (くれは ねんどろいど)",
-    "en": "Nendoroid Kureha (くれは ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 2315,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2315/6493/large/fa6db3cabdebd4d2507719f09eb61ad3.jpg",
+  "name" : {
+    "en" : "Nendoroid Kureha (くれは ねんどろいど)",
+    "ja" : "ねんどろいど クレハ (くれは ねんどろいど)",
+    "ko" : "쿠레하"
   },
-  "series": {
-    "ko": "샤이닝 윈드",
-    "ja": "シャイニング・ウィンド",
-    "en": "Shining Wind"
-  },
-  "gsc_productNum": 2315,
-  "price": 3667,
-  "release_date": [
+  "num" : "063",
+  "price" : 3667,
+  "release_date" : [
     "2009/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2315/6493/large/fa6db3cabdebd4d2507719f09eb61ad3.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Shining Wind",
+    "ja" : "シャイニング・ウィンド",
+    "ko" : "샤이닝 윈드"
+  }
 }

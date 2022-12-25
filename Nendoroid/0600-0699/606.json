@@ -1,21 +1,21 @@
 {
-  "num": "606",
-  "name": {
-    "ko": "도다누키 마사쿠니",
-    "ja": "ねんどろいど 同田貫正国 (ねんどろいど どうだぬきまさくに)",
-    "en": "Nendoroid Doudanuki Masakuni"
+  "gender" : "M",
+  "gsc_productNum" : 5474,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160128/5474/37445/large/39c95b6bf401cda207618fced0ac20c3.jpg",
+  "name" : {
+    "en" : "Nendoroid Doudanuki Masakuni",
+    "ja" : "ねんどろいど 同田貫正国 (ねんどろいど どうだぬきまさくに)",
+    "ko" : "도다누키 마사쿠니"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 5474,
-  "price": 4481,
-  "release_date": [
+  "num" : "606",
+  "price" : 4481,
+  "release_date" : [
     "2016/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160128/5474/37445/large/39c95b6bf401cda207618fced0ac20c3.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

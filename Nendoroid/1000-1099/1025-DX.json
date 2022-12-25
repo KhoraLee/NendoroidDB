@@ -1,21 +1,21 @@
 {
-  "num": "1025-DX",
-  "name": {
-    "ko": "헌터♀ 제노라지β 에디션 DX Ver.",
-    "ja": "ねんどろいど ハンター♀ ゼノラージβ・エディション DX Ver. (ねんどろいど はんたー♀ ぜのらーじべーた・えでぃしょん DX Ver.)",
-    "en": "Nendoroid Hunter: Female Xeno’jiiva Beta Armor Edition - DX Ver."
+  "gender" : "M",
+  "gsc_productNum" : 7790,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181108/7790/55817/large/563be9585bd03ad26c362b27d7ad5d55.jpg",
+  "name" : {
+    "en" : "Nendoroid Hunter: Female Xeno’jiiva Beta Armor Edition - DX Ver.",
+    "ja" : "ねんどろいど ハンター♀ ゼノラージβ・エディション DX Ver. (ねんどろいど はんたー♀ ぜのらーじべーた・えでぃしょん DX Ver.)",
+    "ko" : "헌터♀ 제노라지β 에디션 DX Ver."
   },
-  "series": {
-    "ko": "몬스터 헌터",
-    "ja": "モンスターハンター：ワールド",
-    "en": "MONSTER HUNTER: WORLD"
-  },
-  "gsc_productNum": 7790,
-  "price": 7638,
-  "release_date": [
+  "num" : "1025-DX",
+  "price" : 7638,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181108/7790/55817/large/563be9585bd03ad26c362b27d7ad5d55.jpg",
-  "gender": "M",
-  "set": 64
+  "series" : {
+    "en" : "MONSTER HUNTER: WORLD",
+    "ja" : "モンスターハンター：ワールド",
+    "ko" : "몬스터 헌터"
+  },
+  "set" : 64
 }

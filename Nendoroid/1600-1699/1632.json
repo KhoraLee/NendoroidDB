@@ -1,20 +1,20 @@
 {
-  "num": "1632",
-  "name": {
-    "ko": "장량",
-    "ja": "ねんどろいど 張良 (ねんどろいど ちょうりょう)",
-    "en": "Nendoroid Zhang Liang"
+  "gender" : "M",
+  "gsc_productNum" : 11268,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210525/11268/85183/large/90b32588685f7c711aa6401261a02a97.jpg",
+  "name" : {
+    "en" : "Nendoroid Zhang Liang",
+    "ja" : "ねんどろいど 張良 (ねんどろいど ちょうりょう)",
+    "ko" : "장량"
   },
-  "series": {
-    "ko": "진시명월",
-    "ja": "秦時明月",
-    "en": "The Legend of Qin"
-  },
-  "gsc_productNum": 11268,
-  "price": 7200,
-  "release_date": [
+  "num" : "1632",
+  "price" : 7200,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210525/11268/85183/large/90b32588685f7c711aa6401261a02a97.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "The Legend of Qin",
+    "ja" : "秦時明月",
+    "ko" : "진시명월"
+  }
 }

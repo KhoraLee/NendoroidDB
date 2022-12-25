@@ -1,22 +1,22 @@
 {
-  "num": "581",
-  "name": {
-    "ko": "이치고히토후리",
-    "ja": "ねんどろいど 一期一振 (ねんどろいど いちごひとふり)",
-    "en": "Nendoroid Ichigo Hitohuri"
+  "gender" : "M",
+  "gsc_productNum" : 5316,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151110/5316/36254/large/22de43ef60b6f7cfd4466fa88db952b8.jpg",
+  "name" : {
+    "en" : "Nendoroid Ichigo Hitohuri",
+    "ja" : "ねんどろいど 一期一振 (ねんどろいど いちごひとふり)",
+    "ko" : "이치고히토후리"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 5316,
-  "price": 4278,
-  "release_date": [
+  "num" : "581",
+  "price" : 4278,
+  "release_date" : [
     "2016/05",
     "2017/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151110/5316/36254/large/22de43ef60b6f7cfd4466fa88db952b8.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

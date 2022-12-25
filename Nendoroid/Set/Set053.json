@@ -1,9 +1,9 @@
 {
-  "num": "53",
-  "setName": "WORKING!!",
-  "list": [
+  "list" : [
     "219",
     "230",
     "233"
-  ]
+  ],
+  "num" : "53",
+  "setName" : "WORKING!!"
 }

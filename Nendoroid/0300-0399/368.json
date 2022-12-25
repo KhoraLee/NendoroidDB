@@ -1,21 +1,21 @@
 {
-  "num": "368",
-  "name": {
-    "ko": "하치쿠지 마요이",
-    "ja": "ねんどろいど 八九寺真宵 (ねんどろいど はちくじまよい)",
-    "en": "Nendoroid Mayoi Hachikuji (ねんどろいど はちくじまよい)"
+  "gender" : "F",
+  "gsc_productNum" : 4091,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131016/4091/26751/large/ea62d15795b39e157bc165d3f5aae0e7.jpg",
+  "name" : {
+    "en" : "Nendoroid Mayoi Hachikuji (ねんどろいど はちくじまよい)",
+    "ja" : "ねんどろいど 八九寺真宵 (ねんどろいど はちくじまよい)",
+    "ko" : "하치쿠지 마요이"
   },
-  "series": {
-    "ko": "모노가타리 시리즈",
-    "ja": "化物語",
-    "en": "Bakemonogatari"
-  },
-  "gsc_productNum": 4091,
-  "price": 3981,
-  "release_date": [
+  "num" : "368",
+  "price" : 3981,
+  "release_date" : [
     "2014/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20131016/4091/26751/large/ea62d15795b39e157bc165d3f5aae0e7.jpg",
-  "gender": "F",
-  "set": 83
+  "series" : {
+    "en" : "Bakemonogatari",
+    "ja" : "化物語",
+    "ko" : "모노가타리 시리즈"
+  },
+  "set" : 83
 }

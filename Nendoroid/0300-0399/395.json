@@ -1,23 +1,23 @@
 {
-  "num": "395",
-  "name": {
-    "ko": "요시노",
-    "ja": "ねんどろいど 四糸乃 (ねんどろいど よしの)",
-    "en": "Nendoroid Yoshino (ねんどろいど よしの)"
+  "gender" : "F",
+  "gsc_productNum" : 4205,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140122/4205/27763/large/b299c5d7f932051c2e2c98620f0efceb.jpg",
+  "name" : {
+    "en" : "Nendoroid Yoshino (ねんどろいど よしの)",
+    "ja" : "ねんどろいど 四糸乃 (ねんどろいど よしの)",
+    "ko" : "요시노"
   },
-  "series": {
-    "ko": "데이트 어 라이브",
-    "ja": "デート・ア・ライブ",
-    "en": "Date A Live"
-  },
-  "gsc_productNum": 4205,
-  "price": 4888,
-  "release_date": [
+  "num" : "395",
+  "price" : 4888,
+  "release_date" : [
     "2014/05",
     "2015/06",
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140122/4205/27763/large/b299c5d7f932051c2e2c98620f0efceb.jpg",
-  "gender": "F",
-  "set": 86
+  "series" : {
+    "en" : "Date A Live",
+    "ja" : "デート・ア・ライブ",
+    "ko" : "데이트 어 라이브"
+  },
+  "set" : 86
 }

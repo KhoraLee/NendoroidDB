@@ -1,21 +1,21 @@
 {
-  "num": "1417",
-  "name": {
-    "ko": "얼터 에고/패션립",
-    "ja": "ねんどろいど アルターエゴ/パッションリップ (ねんどろいど あるたーえご/ぱっしょんりっぷ)",
-    "en": "Nendoroid Alter Ego/Passionlip"
+  "gender" : "F",
+  "gsc_productNum" : 9810,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200722/9810/72266/large/ec9e0474ca4460fb4905babc3db69207.jpg",
+  "name" : {
+    "en" : "Nendoroid Alter Ego/Passionlip",
+    "ja" : "ねんどろいど アルターエゴ/パッションリップ (ねんどろいど あるたーえご/ぱっしょんりっぷ)",
+    "ko" : "얼터 에고/패션립"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 9810,
-  "price": 7500,
-  "release_date": [
+  "num" : "1417",
+  "price" : 7500,
+  "release_date" : [
     "2021/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200722/9810/72266/large/ec9e0474ca4460fb4905babc3db69207.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

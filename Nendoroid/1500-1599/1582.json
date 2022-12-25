@@ -1,20 +1,20 @@
 {
-  "num": "1582",
-  "name": {
-    "ko": "아르르 나쟈 \u0026 카방클",
-    "ja": "ねんどろいど アルル＆カーバンクル (ねんどろいど あるる＆かーばんくる)",
-    "en": "Nendoroid Arle \u0026 Carbuncle"
+  "gender" : "F",
+  "gsc_productNum" : 10026,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200908/10026/81888/large/42eae22f298032309ca245127c62fb0f.jpg",
+  "name" : {
+    "en" : "Nendoroid Arle & Carbuncle",
+    "ja" : "ねんどろいど アルル＆カーバンクル (ねんどろいど あるる＆かーばんくる)",
+    "ko" : "아르르 나쟈 & 카방클"
   },
-  "series": {
-    "ko": "뿌요뿌요!! 퀘스트",
-    "ja": "ぷよぷよ!!クエスト",
-    "en": "Puyo Puyo!! Quest"
-  },
-  "gsc_productNum": 10026,
-  "price": 5800,
-  "release_date": [
+  "num" : "1582",
+  "price" : 5800,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200908/10026/81888/large/42eae22f298032309ca245127c62fb0f.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Puyo Puyo!! Quest",
+    "ja" : "ぷよぷよ!!クエスト",
+    "ko" : "뿌요뿌요!! 퀘스트"
+  }
 }

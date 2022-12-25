@@ -1,21 +1,21 @@
 {
-  "num": "430",
-  "name": {
-    "ko": "키타카미",
-    "ja": "ねんどろいど 北上 (ねんどろいど きたかみ)",
-    "en": "Nendoroid Kitakami (ねんどろいど きたかみ)"
+  "gender" : "F",
+  "gsc_productNum" : 4448,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140610/4448/29225/large/27afe6cf35043fd9472cc74fc304fec1.jpg",
+  "name" : {
+    "en" : "Nendoroid Kitakami (ねんどろいど きたかみ)",
+    "ja" : "ねんどろいど 北上 (ねんどろいど きたかみ)",
+    "ko" : "키타카미"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 4448,
-  "price": 4584,
-  "release_date": [
+  "num" : "430",
+  "price" : 4584,
+  "release_date" : [
     "2014/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140610/4448/29225/large/27afe6cf35043fd9472cc74fc304fec1.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

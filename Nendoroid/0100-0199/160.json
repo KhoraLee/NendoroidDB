@@ -1,21 +1,21 @@
 {
-  "num": "160",
-  "name": {
-    "ko": "아나키 팬티",
-    "ja": "ねんどろいど パンティ (ねんどろいど ぱんてぃ)",
-    "en": "Nendoroid Panty (ねんどろいど ぱんてぃ)"
+  "gender" : "F",
+  "gsc_productNum" : 3098,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110223/3098/12982/large/fe015b663edf3106ab8f470e3bbef011.jpg",
+  "name" : {
+    "en" : "Nendoroid Panty (ねんどろいど ぱんてぃ)",
+    "ja" : "ねんどろいど パンティ (ねんどろいど ぱんてぃ)",
+    "ko" : "아나키 팬티"
   },
-  "series": {
-    "ko": "팬티\u0026스타킹with가터벨트",
-    "ja": "Panty\u0026Stocking with Garterbelt",
-    "en": "Panty \u0026 Stocking with Garterbelt"
-  },
-  "gsc_productNum": 3098,
-  "price": 3667,
-  "release_date": [
+  "num" : "160",
+  "price" : 3667,
+  "release_date" : [
     "2011/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110223/3098/12982/large/fe015b663edf3106ab8f470e3bbef011.jpg",
-  "gender": "F",
-  "set": 44
+  "series" : {
+    "en" : "Panty & Stocking with Garterbelt",
+    "ja" : "Panty&Stocking with Garterbelt",
+    "ko" : "팬티&스타킹with가터벨트"
+  },
+  "set" : 44
 }

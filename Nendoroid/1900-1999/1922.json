@@ -1,21 +1,21 @@
 {
-  "num": "1922",
-  "name": {
-    "ja": "ねんどろいど 霊幻新隆 (ねんどろいど れいげんあらたか)",
-    "en": "Nendoroid Arataka Reigen",
-    "ko": "레이겐 아라타카"
+  "gender" : "M",
+  "gsc_productNum" : 12987,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220715/12987/101615/large/199990bd354df395b08bf8db58ca1c9e.jpg",
+  "name" : {
+    "en" : "Nendoroid Arataka Reigen",
+    "ja" : "ねんどろいど 霊幻新隆 (ねんどろいど れいげんあらたか)",
+    "ko" : "레이겐 아라타카"
   },
-  "series": {
-    "ja": "モブサイコ100Ⅲ",
-    "en": "Mob Psycho 100 III",
-    "ko": "모브 사이코 100 III"
-  },
-  "gsc_productNum": 12987,
-  "price": 5800,
-  "release_date": [
+  "num" : "1922",
+  "price" : 5800,
+  "release_date" : [
     "2023/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220715/12987/101615/large/199990bd354df395b08bf8db58ca1c9e.jpg",
-  "gender": "M",
-  "set": 292
+  "series" : {
+    "en" : "Mob Psycho 100 III",
+    "ja" : "モブサイコ100Ⅲ",
+    "ko" : "모브 사이코 100 III"
+  },
+  "set" : 292
 }

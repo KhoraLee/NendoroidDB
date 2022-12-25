@@ -1,21 +1,21 @@
 {
-  "num": "1958",
-  "name": {
-    "ja": "ねんどろいど ロマーノ (ねんどろいど ろまーの)",
-    "en": "Nendoroid Romano",
-    "ko": "이탈리아(로마노)"
+  "gender" : "M",
+  "gsc_productNum" : 13330,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220928/13330/105133/large/e540dbce2e05a6bf3093a76db9c4616c.jpg",
+  "name" : {
+    "en" : "Nendoroid Romano",
+    "ja" : "ねんどろいど ロマーノ (ねんどろいど ろまーの)",
+    "ko" : "이탈리아(로마노)"
   },
-  "series": {
-    "ja": "アニメ「ヘタリア World★Stars」",
-    "en": "Hetalia World★Stars",
-    "ko": "헤타리아"
-  },
-  "gsc_productNum": 13330,
-  "price": 5600,
-  "release_date": [
+  "num" : "1958",
+  "price" : 5600,
+  "release_date" : [
     "2023/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220928/13330/105133/large/e540dbce2e05a6bf3093a76db9c4616c.jpg",
-  "gender": "M",
-  "set": 156
+  "series" : {
+    "en" : "Hetalia World★Stars",
+    "ja" : "アニメ「ヘタリア World★Stars」",
+    "ko" : "헤타리아"
+  },
+  "set" : 156
 }

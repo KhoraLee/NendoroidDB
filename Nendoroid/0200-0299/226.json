@@ -1,21 +1,21 @@
 {
-  "num": "226",
-  "name": {
-    "ko": "아케치 코코로",
-    "ja": "ねんどろいど 明智小衣 (ねんどろいど あけちこころ)",
-    "en": "Nendoroid Kokoro Akechi (ねんどろいど あけちこころ)"
+  "gender" : "F",
+  "gsc_productNum" : 3495,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120309/3495/17671/large/74262f6a94207dc479632b66e5adbba6.jpg",
+  "name" : {
+    "en" : "Nendoroid Kokoro Akechi (ねんどろいど あけちこころ)",
+    "ja" : "ねんどろいど 明智小衣 (ねんどろいど あけちこころ)",
+    "ko" : "아케치 코코로"
   },
-  "series": {
-    "ko": "탐정 오페라 밀키 홈즈",
-    "ja": "PSP「ミルキィホームズ 2」",
-    "en": "Milky Holmes 2 PSP Game"
-  },
-  "gsc_productNum": 3495,
-  "price": 15180,
-  "release_date": [
+  "num" : "226",
+  "price" : 15180,
+  "release_date" : [
     "2012/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120309/3495/17671/large/74262f6a94207dc479632b66e5adbba6.jpg",
-  "gender": "F",
-  "set": 36
+  "series" : {
+    "en" : "Milky Holmes 2 PSP Game",
+    "ja" : "PSP「ミルキィホームズ 2」",
+    "ko" : "탐정 오페라 밀키 홈즈"
+  },
+  "set" : 36
 }

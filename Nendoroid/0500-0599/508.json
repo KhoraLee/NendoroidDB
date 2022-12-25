@@ -1,21 +1,21 @@
 {
-  "num": "508",
-  "name": {
-    "ko": "라우라 보데비히",
-    "ja": "ねんどろいど ラウラ・ボーデヴィッヒ (ねんどろいど らうら・ぼーでゔぃっひ)",
-    "en": "Nendoroid Laura Bodewig (ねんどろいど らうら・ぼーでゔぃっひ)"
+  "gender" : "F",
+  "gsc_productNum" : 4912,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150324/4912/32837/large/6dd4912040997fd46fd3b3f0c31960e5.jpg",
+  "name" : {
+    "en" : "Nendoroid Laura Bodewig (ねんどろいど らうら・ぼーでゔぃっひ)",
+    "ja" : "ねんどろいど ラウラ・ボーデヴィッヒ (ねんどろいど らうら・ぼーでゔぃっひ)",
+    "ko" : "라우라 보데비히"
   },
-  "series": {
-    "ko": "인피니트 스트라토스",
-    "ja": "IS \u003cインフィニット・ストラトス\u003e",
-    "en": "IS \u003cInfinite Stratos\u003e"
-  },
-  "gsc_productNum": 4912,
-  "price": 4278,
-  "release_date": [
+  "num" : "508",
+  "price" : 4278,
+  "release_date" : [
     "2015/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150324/4912/32837/large/6dd4912040997fd46fd3b3f0c31960e5.jpg",
-  "gender": "F",
-  "set": 77
+  "series" : {
+    "en" : "IS <Infinite Stratos>",
+    "ja" : "IS <インフィニット・ストラトス>",
+    "ko" : "인피니트 스트라토스"
+  },
+  "set" : 77
 }

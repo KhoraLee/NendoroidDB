@@ -1,20 +1,20 @@
 {
-  "num": "1879",
-  "name": {
-    "ko": "아스트로",
-    "ja": "ねんどろいど アストロ (ねんどろいど あすとろ)",
-    "en": "Nendoroid Astro"
+  "gender" : "M",
+  "gsc_productNum" : 12682,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220510/12682/98820/large/0a27f3d5c32082d3976139a20a92e819.jpg",
+  "name" : {
+    "en" : "Nendoroid Astro",
+    "ja" : "ねんどろいど アストロ (ねんどろいど あすとろ)",
+    "ko" : "아스트로"
   },
-  "series": {
-    "ko": "아스트로 플레이룸",
-    "ja": "ASTRO\u0027s PLAYROOM",
-    "en": "ASTRO\u0027s PLAYROOM"
-  },
-  "gsc_productNum": 12682,
-  "price": 7000,
-  "release_date": [
+  "num" : "1879",
+  "price" : 7000,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220510/12682/98820/large/0a27f3d5c32082d3976139a20a92e819.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "ASTRO's PLAYROOM",
+    "ja" : "ASTRO's PLAYROOM",
+    "ko" : "아스트로 플레이룸"
+  }
 }

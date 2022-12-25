@@ -1,21 +1,21 @@
 {
-  "num": "277",
-  "name": {
-    "ko": "아오자키 아오코",
-    "ja": "ねんどろいど 蒼崎青子 (ねんどろいど あおざきあおこ)",
-    "en": "Nendoroid Aoko Aozaki (ねんどろいど あおざきあおこ)"
+  "gender" : "F",
+  "gsc_productNum" : 3673,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120918/3673/20415/large/3f1a7c972ba9d45f31141b987fdcfbe7.jpg",
+  "name" : {
+    "en" : "Nendoroid Aoko Aozaki (ねんどろいど あおざきあおこ)",
+    "ja" : "ねんどろいど 蒼崎青子 (ねんどろいど あおざきあおこ)",
+    "ko" : "아오자키 아오코"
   },
-  "series": {
-    "ko": "마법사의 밤",
-    "ja": "魔法使いの夜",
-    "en": "Mahou Tsukai no Yoru"
-  },
-  "gsc_productNum": 3673,
-  "price": 3667,
-  "release_date": [
+  "num" : "277",
+  "price" : 3667,
+  "release_date" : [
     "2013/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120918/3673/20415/large/3f1a7c972ba9d45f31141b987fdcfbe7.jpg",
-  "gender": "F",
-  "set": 68
+  "series" : {
+    "en" : "Mahou Tsukai no Yoru",
+    "ja" : "魔法使いの夜",
+    "ko" : "마법사의 밤"
+  },
+  "set" : 68
 }

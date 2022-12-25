@@ -1,21 +1,21 @@
 {
-  "num": "674",
-  "name": {
-    "ko": "미사키 아케노",
-    "ja": "ねんどろいど 岬明乃 (ねんどろいど みさきあけの)",
-    "en": "Nendoroid Akeno Misaki"
+  "gender" : "F",
+  "gsc_productNum" : 5924,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160905/5924/41167/large/58322e1b020bca919ba957eb194c5b7f.jpg",
+  "name" : {
+    "en" : "Nendoroid Akeno Misaki",
+    "ja" : "ねんどろいど 岬明乃 (ねんどろいど みさきあけの)",
+    "ko" : "미사키 아케노"
   },
-  "series": {
-    "ko": "하이 스쿨 플릿",
-    "ja": "ハイスクール・フリート",
-    "en": "HIGH SCHOOL FLEET"
-  },
-  "gsc_productNum": 5924,
-  "price": 5093,
-  "release_date": [
+  "num" : "674",
+  "price" : 5093,
+  "release_date" : [
     "2017/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160905/5924/41167/large/58322e1b020bca919ba957eb194c5b7f.jpg",
-  "gender": "F",
-  "set": 142
+  "series" : {
+    "en" : "HIGH SCHOOL FLEET",
+    "ja" : "ハイスクール・フリート",
+    "ko" : "하이 스쿨 플릿"
+  },
+  "set" : 142
 }

@@ -1,22 +1,22 @@
 {
-  "num": "970-DX",
-  "name": {
-    "ko": "캐스터/멀린 꽃의 마술서 Ver.",
-    "ja": "ねんどろいど キャスター/マーリン 花の魔術師Ver. (ねんどろいど きゃすたー/まーりん はなのまじゅつしVer.)",
-    "en": "Nendoroid Caster/Merlin: Magus of Flowers Ver."
+  "gender" : "M",
+  "gsc_productNum" : 7479,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180731/7479/53518/large/66c7f196a4c33f7697c00f8fc5a6475c.jpg",
+  "name" : {
+    "en" : "Nendoroid Caster/Merlin: Magus of Flowers Ver.",
+    "ja" : "ねんどろいど キャスター/マーリン 花の魔術師Ver. (ねんどろいど きゃすたー/まーりん はなのまじゅつしVer.)",
+    "ko" : "캐스터/멀린 꽃의 마술서 Ver."
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 7479,
-  "price": 5602,
-  "release_date": [
+  "num" : "970-DX",
+  "price" : 5602,
+  "release_date" : [
     "2019/01",
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180731/7479/53518/large/66c7f196a4c33f7697c00f8fc5a6475c.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

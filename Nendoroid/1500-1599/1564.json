@@ -1,21 +1,21 @@
 {
-  "num": "1564",
-  "name": {
-    "ko": "잇시키 이로하",
-    "ja": "ねんどろいど 一色いろは (ねんどろいど いっしきいろは)",
-    "en": "Nendoroid Iroha Isshiki"
+  "gender" : "F",
+  "gsc_productNum" : 10787,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210209/10787/80942/large/45c455409e40bd47a13be151080677dd.jpg",
+  "name" : {
+    "en" : "Nendoroid Iroha Isshiki",
+    "ja" : "ねんどろいど 一色いろは (ねんどろいど いっしきいろは)",
+    "ko" : "잇시키 이로하"
   },
-  "series": {
-    "ko": "역시 내 청춘 러브코메디는 잘못됐다",
-    "ja": "やはり俺の青春ラブコメはまちがっている。完",
-    "en": "My Teen Romantic Comedy SNAFU Climax"
-  },
-  "gsc_productNum": 10787,
-  "price": 5300,
-  "release_date": [
+  "num" : "1564",
+  "price" : 5300,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210209/10787/80942/large/45c455409e40bd47a13be151080677dd.jpg",
-  "gender": "F",
-  "set": 236
+  "series" : {
+    "en" : "My Teen Romantic Comedy SNAFU Climax",
+    "ja" : "やはり俺の青春ラブコメはまちがっている。完",
+    "ko" : "역시 내 청춘 러브코메디는 잘못됐다"
+  },
+  "set" : 236
 }

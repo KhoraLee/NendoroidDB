@@ -1,21 +1,21 @@
 {
-  "num": "318",
-  "name": {
-    "ko": "나츠메 린",
-    "ja": "ねんどろいど 棗鈴 (ねんどろいど なつめりん)",
-    "en": "Nendoroid Rin Natsume (ねんどろいど なつめりん)"
+  "gender" : "F",
+  "gsc_productNum" : 3865,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130321/3865/23123/large/d260057592b0119cdac151e412e818e3.jpg",
+  "name" : {
+    "en" : "Nendoroid Rin Natsume (ねんどろいど なつめりん)",
+    "ja" : "ねんどろいど 棗鈴 (ねんどろいど なつめりん)",
+    "ko" : "나츠메 린"
   },
-  "series": {
-    "ko": "리틀 버스터즈!",
-    "ja": "リトルバスターズ！",
-    "en": "Little Busters!"
-  },
-  "gsc_productNum": 3865,
-  "price": 3667,
-  "release_date": [
+  "num" : "318",
+  "price" : 3667,
+  "release_date" : [
     "2013/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130321/3865/23123/large/d260057592b0119cdac151e412e818e3.jpg",
-  "gender": "F",
-  "set": 39
+  "series" : {
+    "en" : "Little Busters!",
+    "ja" : "リトルバスターズ！",
+    "ko" : "리틀 버스터즈!"
+  },
+  "set" : 39
 }

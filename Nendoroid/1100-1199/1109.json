@@ -1,22 +1,22 @@
 {
-  "num": "1109",
-  "name": {
-    "ko": "남망기",
-    "ja": "ねんどろいど 藍忘機 (ねんどろいど らんぼうき)",
-    "en": "Nendoroid Lan Wangji"
+  "gender" : "M",
+  "gsc_productNum" : 8198,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190325/8198/59118/large/cf25777b27cc390540d0e26f8bc9a2b0.jpg",
+  "name" : {
+    "en" : "Nendoroid Lan Wangji",
+    "ja" : "ねんどろいど 藍忘機 (ねんどろいど らんぼうき)",
+    "ko" : "남망기"
   },
-  "series": {
-    "ko": "마도조사",
-    "ja": "アニメ「魔道祖師」",
-    "en": "Anime The Master of Diabolism (Grandmaster of Demonic Cultivation)"
-  },
-  "gsc_productNum": 8198,
-  "price": 6300,
-  "release_date": [
+  "num" : "1109",
+  "price" : 6300,
+  "release_date" : [
     "2019/10",
     "2022/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190325/8198/59118/large/cf25777b27cc390540d0e26f8bc9a2b0.jpg",
-  "gender": "M",
-  "set": 203
+  "series" : {
+    "en" : "Anime The Master of Diabolism (Grandmaster of Demonic Cultivation)",
+    "ja" : "アニメ「魔道祖師」",
+    "ko" : "마도조사"
+  },
+  "set" : 203
 }

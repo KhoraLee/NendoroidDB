@@ -1,22 +1,22 @@
 {
-  "num": "1154-DX",
-  "name": {
-    "ko": "캡틴 마블 히어로 에디션 DX",
-    "ja": "ねんどろいど キャプテン・マーベル ヒーローズ・エディション DX Ver. (ねんどろいど きゃぷてん・まーべる ひーろーず・えでぃしょん DX Ver.)",
-    "en": "Nendoroid Captain Marvel: Hero\u0027s Edition DX Ver."
+  "gender" : "F",
+  "gsc_productNum" : 8446,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190620/8446/61183/large/db78b324bb00c888a2ccfa38e41337f2.jpg",
+  "name" : {
+    "en" : "Nendoroid Captain Marvel: Hero's Edition DX Ver.",
+    "ja" : "ねんどろいど キャプテン・マーベル ヒーローズ・エディション DX Ver. (ねんどろいど きゃぷてん・まーべる ひーろーず・えでぃしょん DX Ver.)",
+    "ko" : "캡틴 마블 히어로 에디션 DX"
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "キャプテン・マーベル",
-    "en": "Captain Marvel"
-  },
-  "gsc_productNum": 8446,
-  "price": 8000,
-  "release_date": [
+  "num" : "1154-DX",
+  "price" : 8000,
+  "release_date" : [
     "2019/11",
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190620/8446/61183/large/db78b324bb00c888a2ccfa38e41337f2.jpg",
-  "gender": "F",
-  "set": 63
+  "series" : {
+    "en" : "Captain Marvel",
+    "ja" : "キャプテン・マーベル",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

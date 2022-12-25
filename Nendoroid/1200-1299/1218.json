@@ -1,21 +1,21 @@
 {
-  "num": "1218",
-  "name": {
-    "ko": "캡틴 아메리카 엔드게임 에디션 스탠다드 Ver.",
-    "ja": "ねんどろいど キャプテン・アメリカ エンドゲーム・エディション スタンダードVer. (ねんどろいど きゃぷてん・あめりか えんどげーむ・えでぃしょん すたんだーどVer.)",
-    "en": "Nendoroid Captain America: Endgame Edition Standard Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8883,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191007/8883/64402/large/43bed89c4e71f4439ef2b69ef3bb7dd2.jpg",
+  "name" : {
+    "en" : "Nendoroid Captain America: Endgame Edition Standard Ver.",
+    "ja" : "ねんどろいど キャプテン・アメリカ エンドゲーム・エディション スタンダードVer. (ねんどろいど きゃぷてん・あめりか えんどげーむ・えでぃしょん すたんだーどVer.)",
+    "ko" : "캡틴 아메리카 엔드게임 에디션 스탠다드 Ver."
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／エンドゲーム",
-    "en": "Avengers: Endgame"
-  },
-  "gsc_productNum": 8883,
-  "price": 4800,
-  "release_date": [
+  "num" : "1218",
+  "price" : 4800,
+  "release_date" : [
     "2020/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191007/8883/64402/large/43bed89c4e71f4439ef2b69ef3bb7dd2.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

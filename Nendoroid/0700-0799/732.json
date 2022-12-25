@@ -1,22 +1,22 @@
 {
-  "num": "732",
-  "name": {
-    "ko": "람",
-    "ja": "ねんどろいど ラム (ねんどろいど らむ)",
-    "en": "Nendoroid Ram"
+  "gender" : "F",
+  "gsc_productNum" : 6200,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170124/6200/43375/large/25a8c554a427ea43c076b0ddf21c8c0e.jpg",
+  "name" : {
+    "en" : "Nendoroid Ram",
+    "ja" : "ねんどろいど ラム (ねんどろいど らむ)",
+    "ko" : "람"
   },
-  "series": {
-    "ko": "RE: 제로부터 시작하는 이세계 생활",
-    "ja": "Re:ゼロから始める異世界生活",
-    "en": "Re:ZERO -Starting Life in Another World-"
-  },
-  "gsc_productNum": 6200,
-  "price": 5000,
-  "release_date": [
+  "num" : "732",
+  "price" : 5000,
+  "release_date" : [
     "2017/08",
     "2020/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170124/6200/43375/large/25a8c554a427ea43c076b0ddf21c8c0e.jpg",
-  "gender": "F",
-  "set": 138
+  "series" : {
+    "en" : "Re:ZERO -Starting Life in Another World-",
+    "ja" : "Re:ゼロから始める異世界生活",
+    "ko" : "RE: 제로부터 시작하는 이세계 생활"
+  },
+  "set" : 138
 }

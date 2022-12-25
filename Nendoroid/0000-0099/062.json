@@ -1,21 +1,21 @@
 {
-  "num": "062",
-  "name": {
-    "ko": "미쿠미쿠 카가미",
-    "ja": "ねんどろいど ミックミクかがみ (みっくみくかがみ ねんどろいど)",
-    "en": "Nendoroid MikkuMiku Kagami (みっくみくかがみ ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 2293,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2293/6382/large/93c7825af6f5d5b775f3f1bdb1c87445.jpg",
+  "name" : {
+    "en" : "Nendoroid MikkuMiku Kagami (みっくみくかがみ ねんどろいど)",
+    "ja" : "ねんどろいど ミックミクかがみ (みっくみくかがみ ねんどろいど)",
+    "ko" : "미쿠미쿠 카가미"
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "らき☆すたOVA",
-    "en": "Lucky Star OVA"
-  },
-  "gsc_productNum": 2293,
-  "price": 3667,
-  "release_date": [
+  "num" : "062",
+  "price" : 3667,
+  "release_date" : [
     "2009/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2293/6382/large/93c7825af6f5d5b775f3f1bdb1c87445.jpg",
-  "gender": "F",
-  "set": 10
+  "series" : {
+    "en" : "Lucky Star OVA",
+    "ja" : "らき☆すたOVA",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
 }

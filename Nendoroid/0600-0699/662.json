@@ -1,23 +1,23 @@
 {
-  "num": "662",
-  "name": {
-    "ko": "데드풀 오레짱 에디션",
-    "ja": "ねんどろいど デッドプール 俺ちゃん・エディション",
-    "en": "Nendoroid Deadpool: Orechan Edition"
+  "gender" : "M",
+  "gsc_productNum" : 5858,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160805/5858/40560/large/aa8f808b724a7ee21473d3c0b97c1910.jpg",
+  "name" : {
+    "en" : "Nendoroid Deadpool: Orechan Edition",
+    "ja" : "ねんどろいど デッドプール 俺ちゃん・エディション",
+    "ko" : "데드풀 오레짱 에디션"
   },
-  "series": {
-    "ko": "데드풀",
-    "ja": "デッドプール",
-    "en": "Deadpool"
-  },
-  "gsc_productNum": 5858,
-  "price": 5000,
-  "release_date": [
+  "num" : "662",
+  "price" : 5000,
+  "release_date" : [
     "2017/03",
     "2019/08",
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160805/5858/40560/large/aa8f808b724a7ee21473d3c0b97c1910.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Deadpool",
+    "ja" : "デッドプール",
+    "ko" : "데드풀"
+  },
+  "set" : 63
 }

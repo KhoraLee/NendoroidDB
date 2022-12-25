@@ -1,21 +1,21 @@
 {
-  "num": "885",
-  "name": {
-    "ko": "적의 세이버",
-    "ja": "ねんどろいど “赤”のセイバー (ねんどろいど “あか”のせいばー)",
-    "en": "Nendoroid Saber of \"Red\""
+  "gender" : "F",
+  "gsc_productNum" : 7052,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180214/7052/50167/large/58956611167a15cffe9ef919f05cfd6d.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber of \"Red\"",
+    "ja" : "ねんどろいど “赤”のセイバー (ねんどろいど “あか”のせいばー)",
+    "ko" : "적의 세이버"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Apocrypha",
-    "en": "Fate/Apocrypha"
-  },
-  "gsc_productNum": 7052,
-  "price": 5602,
-  "release_date": [
+  "num" : "885",
+  "price" : 5602,
+  "release_date" : [
     "2018/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180214/7052/50167/large/58956611167a15cffe9ef919f05cfd6d.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Apocrypha",
+    "ja" : "Fate/Apocrypha",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

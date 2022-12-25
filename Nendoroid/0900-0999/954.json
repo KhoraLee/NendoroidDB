@@ -1,21 +1,21 @@
 {
-  "num": "954",
-  "name": {
-    "ko": "한 솔로",
-    "ja": "ねんどろいど ハン・ソロ (ねんどろいど はん・そろ)",
-    "en": "Nendoroid Han Solo"
+  "gender" : "M",
+  "gsc_productNum" : 7363,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180621/7363/52739/large/0095dca645ab0d6df54ff7e50ed1caa7.jpg",
+  "name" : {
+    "en" : "Nendoroid Han Solo",
+    "ja" : "ねんどろいど ハン・ソロ (ねんどろいど はん・そろ)",
+    "ko" : "한 솔로"
   },
-  "series": {
-    "ko": "스타워즈",
-    "ja": "スター・ウォーズ エピソード４／新たなる希望",
-    "en": "Star Wars Episode 4: A New Hope"
-  },
-  "gsc_productNum": 7363,
-  "price": 4888,
-  "release_date": [
+  "num" : "954",
+  "price" : 4888,
+  "release_date" : [
     "2018/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180621/7363/52739/large/0095dca645ab0d6df54ff7e50ed1caa7.jpg",
-  "gender": "M",
-  "set": 115
+  "series" : {
+    "en" : "Star Wars Episode 4: A New Hope",
+    "ja" : "スター・ウォーズ エピソード４／新たなる希望",
+    "ko" : "스타워즈"
+  },
+  "set" : 115
 }

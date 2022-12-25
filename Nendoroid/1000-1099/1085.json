@@ -1,21 +1,21 @@
 {
-  "num": "1085",
-  "name": {
-    "ko": "이시키리마루",
-    "ja": "ねんどろいど 石切丸 (ねんどろいど いしきりまる)",
-    "en": "Nendoroid Ishikirimaru"
+  "gender" : "M",
+  "gsc_productNum" : 8069,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190213/8069/58099/large/94d26990ab3d3c2ef1a18a555d5eabfa.jpg",
+  "name" : {
+    "en" : "Nendoroid Ishikirimaru",
+    "ja" : "ねんどろいど 石切丸 (ねんどろいど いしきりまる)",
+    "ko" : "이시키리마루"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 8069,
-  "price": 4787,
-  "release_date": [
+  "num" : "1085",
+  "price" : 4787,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190213/8069/58099/large/94d26990ab3d3c2ef1a18a555d5eabfa.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

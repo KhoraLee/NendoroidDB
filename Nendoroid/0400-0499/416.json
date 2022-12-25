@@ -1,21 +1,21 @@
 {
-  "num": "416",
-  "name": {
-    "ko": "몬덴 사쿠라",
-    "ja": "ねんどろいど 門田さくら (ねんどろいど もんでんさくら)",
-    "en": "Nendoroid Sakura Monden (ねんどろいど もんでんさくら)"
+  "gender" : "F",
+  "gsc_productNum" : 4367,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140408/4367/28519/large/15a8cb6b9594496fc0f4fe4fcd70c34e.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Monden (ねんどろいど もんでんさくら)",
+    "ja" : "ねんどろいど 門田さくら (ねんどろいど もんでんさくら)",
+    "ko" : "몬덴 사쿠라"
   },
-  "series": {
-    "ko": "철도무스메",
-    "ja": "鉄道むすめ",
-    "en": "Tetsudou Musume"
-  },
-  "gsc_productNum": 4367,
-  "price": 4620,
-  "release_date": [
+  "num" : "416",
+  "price" : 4620,
+  "release_date" : [
     "2014/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140408/4367/28519/large/15a8cb6b9594496fc0f4fe4fcd70c34e.jpg",
-  "gender": "F",
-  "set": 85
+  "series" : {
+    "en" : "Tetsudou Musume",
+    "ja" : "鉄道むすめ",
+    "ko" : "철도무스메"
+  },
+  "set" : 85
 }

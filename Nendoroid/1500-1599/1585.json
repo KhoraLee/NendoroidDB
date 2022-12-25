@@ -1,21 +1,21 @@
 {
-  "num": "1585",
-  "name": {
-    "ko": "키타 신스케",
-    "ja": "ねんどろいど 北 信介 (ねんどろいど きた しんすけ)",
-    "en": "Nendoroid Shinsuke Kita"
+  "gender" : "M",
+  "gsc_productNum" : 10898,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210305/10898/81912/large/551d125187f53482eca27e65bfccc5a3.jpg",
+  "name" : {
+    "en" : "Nendoroid Shinsuke Kita",
+    "ja" : "ねんどろいど 北 信介 (ねんどろいど きた しんすけ)",
+    "ko" : "키타 신스케"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!! TO THE TOP",
-    "en": "HAIKYU!! TO THE TOP"
-  },
-  "gsc_productNum": 10898,
-  "price": 5280,
-  "release_date": [
+  "num" : "1585",
+  "price" : 5280,
+  "release_date" : [
     "2021/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210305/10898/81912/large/551d125187f53482eca27e65bfccc5a3.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "HAIKYU!! TO THE TOP",
+    "ja" : "ハイキュー!! TO THE TOP",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

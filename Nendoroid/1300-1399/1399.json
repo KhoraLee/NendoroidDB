@@ -1,21 +1,21 @@
 {
-  "num": "1399",
-  "name": {
-    "ja": "ねんどろいど 水野愛 (ねんどろいど みずのあい)",
-    "en": "Nendoroid Ai Mizuno",
-    "ko": "미즈노 아이"
+  "gender" : "F",
+  "gsc_productNum" : 13450,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221024/13450/106342/large/f962f0cb630b7b0d9749440a58b87d87.jpg",
+  "name" : {
+    "en" : "Nendoroid Ai Mizuno",
+    "ja" : "ねんどろいど 水野愛 (ねんどろいど みずのあい)",
+    "ko" : "미즈노 아이"
   },
-  "series": {
-    "ja": "ゾンビランドサガ",
-    "en": "Zombie Land Saga",
-    "ko": "좀비랜드 사가"
-  },
-  "gsc_productNum": 13450,
-  "price": 7800,
-  "release_date": [
+  "num" : "1399",
+  "price" : 7800,
+  "release_date" : [
     "2023/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221024/13450/106342/large/f962f0cb630b7b0d9749440a58b87d87.jpg",
-  "gender": "F",
-  "set": 218
+  "series" : {
+    "en" : "Zombie Land Saga",
+    "ja" : "ゾンビランドサガ",
+    "ko" : "좀비랜드 사가"
+  },
+  "set" : 218
 }

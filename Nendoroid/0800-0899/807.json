@@ -1,21 +1,21 @@
 {
-  "num": "807",
-  "name": {
-    "ko": "야쿠 모리스케",
-    "ja": "ねんどろいど 夜久衛輔 (ねんどろいど やくもりすけ)",
-    "en": "Nendoroid Morisuke Yaku"
+  "gender" : "M",
+  "gsc_productNum" : 6610,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170725/6610/46752/large/dc137b2fd75448553c1822895e755b9f.jpg",
+  "name" : {
+    "en" : "Nendoroid Morisuke Yaku",
+    "ja" : "ねんどろいど 夜久衛輔 (ねんどろいど やくもりすけ)",
+    "ko" : "야쿠 모리스케"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "Haikyu!!"
-  },
-  "gsc_productNum": 6610,
-  "price": 4278,
-  "release_date": [
+  "num" : "807",
+  "price" : 4278,
+  "release_date" : [
     "2018/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170725/6610/46752/large/dc137b2fd75448553c1822895e755b9f.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

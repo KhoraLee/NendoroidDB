@@ -1,21 +1,21 @@
 {
-  "num": "927",
-  "name": {
-    "ko": "가브릴",
-    "ja": "ねんどろいど ガヴリール (ねんどろいど がゔりーる)",
-    "en": "Nendoroid Gabriel"
+  "gender" : "F",
+  "gsc_productNum" : 7256,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180502/7256/51824/large/4b06b37bb45af4c6f95f6bd6ca7e30d3.jpg",
+  "name" : {
+    "en" : "Nendoroid Gabriel",
+    "ja" : "ねんどろいど ガヴリール (ねんどろいど がゔりーる)",
+    "ko" : "가브릴"
   },
-  "series": {
-    "ko": "가브릴 드롭아웃",
-    "ja": "ガヴリールドロップアウト",
-    "en": "Gabriel Dropout"
-  },
-  "gsc_productNum": 7256,
-  "price": 5398,
-  "release_date": [
+  "num" : "927",
+  "price" : 5398,
+  "release_date" : [
     "2018/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180502/7256/51824/large/4b06b37bb45af4c6f95f6bd6ca7e30d3.jpg",
-  "gender": "F",
-  "set": 179
+  "series" : {
+    "en" : "Gabriel Dropout",
+    "ja" : "ガヴリールドロップアウト",
+    "ko" : "가브릴 드롭아웃"
+  },
+  "set" : 179
 }

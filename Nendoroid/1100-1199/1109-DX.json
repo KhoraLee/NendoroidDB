@@ -1,21 +1,21 @@
 {
-  "num": "1109-DX",
-  "name": {
-    "ko": "남망기 DX",
-    "ja": "ねんどろいど 藍忘機 DX (ねんどろいど らんぼうき DX)",
-    "en": "Nendoroid Lan Wangji DX"
+  "gender" : "M",
+  "gsc_productNum" : 11632,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210806/11632/88574/large/50b588b41edcd2f3493158a9dadce0fd.jpg",
+  "name" : {
+    "en" : "Nendoroid Lan Wangji DX",
+    "ja" : "ねんどろいど 藍忘機 DX (ねんどろいど らんぼうき DX)",
+    "ko" : "남망기 DX"
   },
-  "series": {
-    "ko": "마도조사",
-    "ja": "アニメ「魔道祖師」",
-    "en": "The Master of Diabolism"
-  },
-  "gsc_productNum": 11632,
-  "price": 8400,
-  "release_date": [
+  "num" : "1109-DX",
+  "price" : 8400,
+  "release_date" : [
     "2022/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210806/11632/88574/large/50b588b41edcd2f3493158a9dadce0fd.jpg",
-  "gender": "M",
-  "set": 203
+  "series" : {
+    "en" : "The Master of Diabolism",
+    "ja" : "アニメ「魔道祖師」",
+    "ko" : "마도조사"
+  },
+  "set" : 203
 }

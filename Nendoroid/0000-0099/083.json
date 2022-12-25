@@ -1,20 +1,20 @@
 {
-  "num": "083",
-  "name": {
-    "ko": "츄루야 상",
-    "ja": "ねんどろいど ちゅるやさん (ちゅるやさん ねんどろいど)",
-    "en": "Nendoroid Churuya-san (ちゅるやさん ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 2580,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2580/7543/large/3353b5d4c89355377fcbef5d586ca980.jpg",
+  "name" : {
+    "en" : "Nendoroid Churuya-san (ちゅるやさん ねんどろいど)",
+    "ja" : "ねんどろいど ちゅるやさん (ちゅるやさん ねんどろいど)",
+    "ko" : "츄루야 상"
   },
-  "series": {
-    "ko": "뇨롱☆츄루야씨",
-    "ja": "「涼宮ハルヒちゃんの憂鬱」＆「にょろーんちゅるやさん」",
-    "en": "The Melancholy of Haruhi Suzumiya-chan \u0026 Nyoron Churuya-san"
-  },
-  "gsc_productNum": 2580,
-  "price": 3143,
-  "release_date": [
+  "num" : "083",
+  "price" : 3143,
+  "release_date" : [
     "2009/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2580/7543/large/3353b5d4c89355377fcbef5d586ca980.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "The Melancholy of Haruhi Suzumiya-chan & Nyoron Churuya-san",
+    "ja" : "「涼宮ハルヒちゃんの憂鬱」＆「にょろーんちゅるやさん」",
+    "ko" : "뇨롱☆츄루야씨"
+  }
 }

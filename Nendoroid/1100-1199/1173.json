@@ -1,19 +1,19 @@
 {
-  "num": "1173",
-  "name": {
-    "ko": "구월",
-    "ja": "ねんどろいど 九月 (ねんどろいど きゅうげつ)",
-    "en": "Nendoroid Jiu Yue"
+  "gsc_productNum" : 8585,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190723/8585/62125/large/694a4bae23088f293422017ec5462ab6.jpg",
+  "name" : {
+    "en" : "Nendoroid Jiu Yue",
+    "ja" : "ねんどろいど 九月 (ねんどろいど きゅうげつ)",
+    "ko" : "구월"
   },
-  "series": {
-    "ko": "비인재",
-    "ja": "非人哉",
-    "en": "Fei Ren Zai"
-  },
-  "gsc_productNum": 8585,
-  "price": 4800,
-  "release_date": [
+  "num" : "1173",
+  "price" : 4800,
+  "release_date" : [
     "2020/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190723/8585/62125/large/694a4bae23088f293422017ec5462ab6.jpg"
+  "series" : {
+    "en" : "Fei Ren Zai",
+    "ja" : "非人哉",
+    "ko" : "비인재"
+  }
 }

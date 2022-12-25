@@ -1,21 +1,21 @@
 {
-  "num": "744",
-  "name": {
-    "ko": "이즈미노카미 카네사다",
-    "ja": "ねんどろいど 和泉守兼定 (ねんどろいど いずみのかみかねさだ)",
-    "en": "Nendoroid Izuminokami Kanesada"
+  "gender" : "M",
+  "gsc_productNum" : 6294,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170224/6294/44145/large/f6cd76b84add2addbf3c49a70877968e.jpg",
+  "name" : {
+    "en" : "Nendoroid Izuminokami Kanesada",
+    "ja" : "ねんどろいど 和泉守兼定 (ねんどろいど いずみのかみかねさだ)",
+    "ko" : "이즈미노카미 카네사다"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 6294,
-  "price": 4685,
-  "release_date": [
+  "num" : "744",
+  "price" : 4685,
+  "release_date" : [
     "2017/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170224/6294/44145/large/f6cd76b84add2addbf3c49a70877968e.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1162",
-  "name": {
-    "ko": "사카모토 류지 괴도복 Ver.",
-    "ja": "ねんどろいど 坂本竜司 怪盗服Ver. (ねんどろいど さかもとりゅうじ かいとうふくVer.)",
-    "en": "Nendoroid Ryuji Sakamoto: Phantom Thief Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8514,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190704/8514/61624/large/566a401315cd8da873af658022adf211.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryuji Sakamoto: Phantom Thief Ver.",
+    "ja" : "ねんどろいど 坂本竜司 怪盗服Ver. (ねんどろいど さかもとりゅうじ かいとうふくVer.)",
+    "ko" : "사카모토 류지 괴도복 Ver."
   },
-  "series": {
-    "ko": "페르소나5",
-    "ja": "PERSONA5 the Animation",
-    "en": "PERSONA5 the Animation"
-  },
-  "gsc_productNum": 8514,
-  "price": 5600,
-  "release_date": [
+  "num" : "1162",
+  "price" : 5600,
+  "release_date" : [
     "2019/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190704/8514/61624/large/566a401315cd8da873af658022adf211.jpg",
-  "gender": "M",
-  "set": 57
+  "series" : {
+    "en" : "PERSONA5 the Animation",
+    "ja" : "PERSONA5 the Animation",
+    "ko" : "페르소나5"
+  },
+  "set" : 57
 }

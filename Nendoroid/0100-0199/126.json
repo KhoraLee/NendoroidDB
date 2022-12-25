@@ -1,22 +1,22 @@
 {
-  "num": "126",
-  "name": {
-    "ko": "노우미 쿠드랴프카 하복 Ver.",
-    "ja": "ねんどろいど 能美クドリャフカ 夏服Ver. (ねんどろいど のうみくどりゃふか なつふくVer.)",
-    "en": "Nendoroid Kudryavka Noumi: Summer Uniform Ver. (ねんどろいど のうみくどりゃふか なつふくVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3379,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3379/16326/large/0b94b4989e3f17aabfdfab141db31f64.jpg",
+  "name" : {
+    "en" : "Nendoroid Kudryavka Noumi: Summer Uniform Ver. (ねんどろいど のうみくどりゃふか なつふくVer.)",
+    "ja" : "ねんどろいど 能美クドリャフカ 夏服Ver. (ねんどろいど のうみくどりゃふか なつふくVer.)",
+    "ko" : "노우미 쿠드랴프카 하복 Ver."
   },
-  "series": {
-    "ko": "리틀 버스터즈!",
-    "ja": "クドわふたー",
-    "en": "Kud Wafter"
-  },
-  "gsc_productNum": 3379,
-  "price": 4400,
-  "release_date": [
+  "num" : "126",
+  "price" : 4400,
+  "release_date" : [
     "2011/04",
     "2013/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3379/16326/large/0b94b4989e3f17aabfdfab141db31f64.jpg",
-  "gender": "F",
-  "set": 39
+  "series" : {
+    "en" : "Kud Wafter",
+    "ja" : "クドわふたー",
+    "ko" : "리틀 버스터즈!"
+  },
+  "set" : 39
 }

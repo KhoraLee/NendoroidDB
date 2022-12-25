@@ -1,21 +1,21 @@
 {
-  "num": "1041",
-  "name": {
-    "ko": "한조몬 유키",
-    "ja": "ねんどろいど 半蔵門雪 (ねんどろいど はんぞうもんゆき)",
-    "en": "Nendoroid Yuki Hanzomon"
+  "gender" : "F",
+  "gsc_productNum" : 7844,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181127/7844/56291/large/e09ab195ff781f334c23fceb99f03356.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuki Hanzomon",
+    "ja" : "ねんどろいど 半蔵門雪 (ねんどろいど はんぞうもんゆき)",
+    "ko" : "한조몬 유키"
   },
-  "series": {
-    "ko": "릴리즈 더 스파이스",
-    "ja": "RELEASE THE SPYCE",
-    "en": "RELEASE THE SPYCE"
-  },
-  "gsc_productNum": 7844,
-  "price": 5093,
-  "release_date": [
+  "num" : "1041",
+  "price" : 5093,
+  "release_date" : [
     "2019/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181127/7844/56291/large/e09ab195ff781f334c23fceb99f03356.jpg",
-  "gender": "F",
-  "set": 198
+  "series" : {
+    "en" : "RELEASE THE SPYCE",
+    "ja" : "RELEASE THE SPYCE",
+    "ko" : "릴리즈 더 스파이스"
+  },
+  "set" : 198
 }

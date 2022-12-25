@@ -1,21 +1,21 @@
 {
-  "num": "1756",
-  "name": {
-    "ko": "중국",
-    "ja": "ねんどろいど 中国 (ねんどろいど ちゅうごく)",
-    "en": "Nendoroid China"
+  "gender" : "M",
+  "gsc_productNum" : 12000,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211115/12000/92065/large/296c4f44da0aefb5db2f1b45a0fabbe5.jpg",
+  "name" : {
+    "en" : "Nendoroid China",
+    "ja" : "ねんどろいど 中国 (ねんどろいど ちゅうごく)",
+    "ko" : "중국"
   },
-  "series": {
-    "ko": "헤타리아",
-    "ja": "ヘタリア World★Stars",
-    "en": "Hetalia World★Stars"
-  },
-  "gsc_productNum": 12000,
-  "price": 4800,
-  "release_date": [
+  "num" : "1756",
+  "price" : 4800,
+  "release_date" : [
     "2022/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211115/12000/92065/large/296c4f44da0aefb5db2f1b45a0fabbe5.jpg",
-  "gender": "M",
-  "set": 156
+  "series" : {
+    "en" : "Hetalia World★Stars",
+    "ja" : "ヘタリア World★Stars",
+    "ko" : "헤타리아"
+  },
+  "set" : 156
 }

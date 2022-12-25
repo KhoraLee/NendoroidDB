@@ -1,22 +1,22 @@
 {
-  "num": "148",
-  "name": {
-    "ko": "사이쿄우지 유유코",
-    "ja": "ねんどろいど 西行寺幽々子 (ねんどろいど　さいぎょうじゆゆこ)",
-    "en": "Nendoroid Yuyuko Saigyouji (ねんどろいど　さいぎょうじゆゆこ)"
+  "gender" : "F",
+  "gsc_productNum" : 3051,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20101220/3051/12417/large/c3b9710e3b872edbb87da1d98a6d3bf7.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuyuko Saigyouji (ねんどろいど　さいぎょうじゆゆこ)",
+    "ja" : "ねんどろいど 西行寺幽々子 (ねんどろいど　さいぎょうじゆゆこ)",
+    "ko" : "사이쿄우지 유유코"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方Project",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 3051,
-  "price": 3143,
-  "release_date": [
+  "num" : "148",
+  "price" : 3143,
+  "release_date" : [
     "2011/06",
     "2013/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20101220/3051/12417/large/c3b9710e3b872edbb87da1d98a6d3bf7.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

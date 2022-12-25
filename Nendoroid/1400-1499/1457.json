@@ -1,21 +1,21 @@
 {
-  "num": "1457",
-  "name": {
-    "ko": "나이브 수베다르",
-    "ja": "ねんどろいど 傭兵 (ねんどろいど ようへい)",
-    "en": "Nendoroid Mercenary"
+  "gender" : "M",
+  "gsc_productNum" : 10300,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201026/10300/76359/large/a17cb9a5017c1db4f9ffafebe778bb9d.jpg",
+  "name" : {
+    "en" : "Nendoroid Mercenary",
+    "ja" : "ねんどろいど 傭兵 (ねんどろいど ようへい)",
+    "ko" : "나이브 수베다르"
   },
-  "series": {
-    "ko": "제5인격",
-    "ja": "identityV 第五人格",
-    "en": "Identity V"
-  },
-  "gsc_productNum": 10300,
-  "price": 6200,
-  "release_date": [
+  "num" : "1457",
+  "price" : 6200,
+  "release_date" : [
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201026/10300/76359/large/a17cb9a5017c1db4f9ffafebe778bb9d.jpg",
-  "gender": "M",
-  "set": 230
+  "series" : {
+    "en" : "Identity V",
+    "ja" : "identityV 第五人格",
+    "ko" : "제5인격"
+  },
+  "set" : 230
 }

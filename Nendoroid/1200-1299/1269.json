@@ -1,20 +1,20 @@
 {
-  "num": "1269",
-  "name": {
-    "ko": "심바",
-    "ja": "ねんどろいど シンバ (ねんどろいど しんば)",
-    "en": "Nendoroid Simba"
+  "gsc_productNum" : 9164,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200114/9164/66749/large/26999257ccf7eaf4b4768bf0ea7149cf.jpg",
+  "name" : {
+    "en" : "Nendoroid Simba",
+    "ja" : "ねんどろいど シンバ (ねんどろいど しんば)",
+    "ko" : "심바"
   },
-  "series": {
-    "ko": "라이온 킹",
-    "ja": "ライオン・キング",
-    "en": "The Lion King"
-  },
-  "gsc_productNum": 9164,
-  "price": 6300,
-  "release_date": [
+  "num" : "1269",
+  "price" : 6300,
+  "release_date" : [
     "2020/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200114/9164/66749/large/26999257ccf7eaf4b4768bf0ea7149cf.jpg",
-  "set": 32
+  "series" : {
+    "en" : "The Lion King",
+    "ja" : "ライオン・キング",
+    "ko" : "라이온 킹"
+  },
+  "set" : 32
 }

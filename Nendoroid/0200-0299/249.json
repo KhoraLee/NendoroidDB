@@ -1,20 +1,20 @@
 {
-  "num": "249",
-  "name": {
-    "ko": "흑설공주",
-    "ja": "ねんどろいど 黒雪姫 (ねんどろいど くろゆきひめ)",
-    "en": "Nendoroid Kuroyukihime (ねんどろいど くろゆきひめ)"
+  "gender" : "F",
+  "gsc_productNum" : 3550,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120514/3550/18417/large/ae35d6d2d9b88c433b6f93c77f2e5620.jpg",
+  "name" : {
+    "en" : "Nendoroid Kuroyukihime (ねんどろいど くろゆきひめ)",
+    "ja" : "ねんどろいど 黒雪姫 (ねんどろいど くろゆきひめ)",
+    "ko" : "흑설공주"
   },
-  "series": {
-    "ko": "엑셀 월드",
-    "ja": "アクセル・ワールド",
-    "en": "Accel World"
-  },
-  "gsc_productNum": 3550,
-  "price": 3981,
-  "release_date": [
+  "num" : "249",
+  "price" : 3981,
+  "release_date" : [
     "2012/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20120514/3550/18417/large/ae35d6d2d9b88c433b6f93c77f2e5620.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Accel World",
+    "ja" : "アクセル・ワールド",
+    "ko" : "엑셀 월드"
+  }
 }

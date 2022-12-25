@@ -1,21 +1,21 @@
 {
-  "num": "1079",
-  "name": {
-    "ko": "아오미네 다이키",
-    "ja": "ねんどろいど 青峰大輝 Special Box (ねんどろいど あおみねだいき すぺしゃるぼっくす)",
-    "en": "Nendoroid Daiki Aomine Special Box"
+  "gender" : "M",
+  "gsc_productNum" : 8049,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190201/8049/57894/large/a04b730a00b14fd33852a3388704c0ab.jpg",
+  "name" : {
+    "en" : "Nendoroid Daiki Aomine Special Box",
+    "ja" : "ねんどろいど 青峰大輝 Special Box (ねんどろいど あおみねだいき すぺしゃるぼっくす)",
+    "ko" : "아오미네 다이키"
   },
-  "series": {
-    "ko": "쿠로코의 농구",
-    "ja": "黒子のバスケ",
-    "en": "Kuroko\u0027s Basketball"
-  },
-  "gsc_productNum": 8049,
-  "price": 5602,
-  "release_date": [
+  "num" : "1079",
+  "price" : 5602,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190201/8049/57894/large/a04b730a00b14fd33852a3388704c0ab.jpg",
-  "gender": "M",
-  "set": 199
+  "series" : {
+    "en" : "Kuroko's Basketball",
+    "ja" : "黒子のバスケ",
+    "ko" : "쿠로코의 농구"
+  },
+  "set" : 199
 }

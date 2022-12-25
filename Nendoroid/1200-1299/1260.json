@@ -1,21 +1,21 @@
 {
-  "num": "1260",
-  "name": {
-    "ko": "이카리 신지",
-    "ja": "ねんどろいど 碇シンジ (ねんどろいど いかりしんじ)",
-    "en": "Nendoroid Shinji Ikari"
+  "gender" : "M",
+  "gsc_productNum" : 9092,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191213/9092/66078/large/bffb13aa7b21158b3e5c032cdfb31d62.jpg",
+  "name" : {
+    "en" : "Nendoroid Shinji Ikari",
+    "ja" : "ねんどろいど 碇シンジ (ねんどろいど いかりしんじ)",
+    "ko" : "이카리 신지"
   },
-  "series": {
-    "ko": "에반게리온",
-    "ja": "ヱヴァンゲリヲン新劇場版",
-    "en": "Rebuild of Evangelion"
-  },
-  "gsc_productNum": 9092,
-  "price": 5100,
-  "release_date": [
+  "num" : "1260",
+  "price" : 5100,
+  "release_date" : [
     "2020/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191213/9092/66078/large/bffb13aa7b21158b3e5c032cdfb31d62.jpg",
-  "gender": "M",
-  "set": 111
+  "series" : {
+    "en" : "Rebuild of Evangelion",
+    "ja" : "ヱヴァンゲリヲン新劇場版",
+    "ko" : "에반게리온"
+  },
+  "set" : 111
 }

@@ -1,21 +1,21 @@
 {
-  "num": "104",
-  "name": {
-    "ko": "나카노 아즈사",
-    "ja": "ねんどろいど 中野 梓 (ねんどろいど なかの あずさ)",
-    "en": "Nendoroid Azusa Nakano (ねんどろいど なかの あずさ)"
+  "gender" : "F",
+  "gsc_productNum" : 2798,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100129/2798/9204/large/50ce7450a881d077e167c6d03ac63d23.jpg",
+  "name" : {
+    "en" : "Nendoroid Azusa Nakano (ねんどろいど なかの あずさ)",
+    "ja" : "ねんどろいど 中野 梓 (ねんどろいど なかの あずさ)",
+    "ko" : "나카노 아즈사"
   },
-  "series": {
-    "ko": "케이온!",
-    "ja": "けいおん！",
-    "en": "K-ON!"
-  },
-  "gsc_productNum": 2798,
-  "price": 3667,
-  "release_date": [
+  "num" : "104",
+  "price" : 3667,
+  "release_date" : [
     "2010/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100129/2798/9204/large/50ce7450a881d077e167c6d03ac63d23.jpg",
-  "gender": "F",
-  "set": 27
+  "series" : {
+    "en" : "K-ON!",
+    "ja" : "けいおん！",
+    "ko" : "케이온!"
+  },
+  "set" : 27
 }

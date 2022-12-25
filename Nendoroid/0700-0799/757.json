@@ -1,21 +1,21 @@
 {
-  "num": "757",
-  "name": {
-    "ko": "메이",
-    "ja": "ねんどろいど メイ クラシックスキン・エディション (ねんどろいど めい くらしっくすきん・えでぃしょん)",
-    "en": "Nendoroid Mei: Classic Skin Edition"
+  "gender" : "F",
+  "gsc_productNum" : 6351,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170329/6351/44771/large/e9c11c4993dab467baaac5ad3a5e7b62.jpg",
+  "name" : {
+    "en" : "Nendoroid Mei: Classic Skin Edition",
+    "ja" : "ねんどろいど メイ クラシックスキン・エディション (ねんどろいど めい くらしっくすきん・えでぃしょん)",
+    "ko" : "메이"
   },
-  "series": {
-    "ko": "오버워치",
-    "ja": "オーバーウォッチ",
-    "en": "Overwatch"
-  },
-  "gsc_productNum": 6351,
-  "price": 4991,
-  "release_date": [
+  "num" : "757",
+  "price" : 4991,
+  "release_date" : [
     "2017/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170329/6351/44771/large/e9c11c4993dab467baaac5ad3a5e7b62.jpg",
-  "gender": "F",
-  "set": 150
+  "series" : {
+    "en" : "Overwatch",
+    "ja" : "オーバーウォッチ",
+    "ko" : "오버워치"
+  },
+  "set" : 150
 }

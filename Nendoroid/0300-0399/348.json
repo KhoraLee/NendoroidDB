@@ -1,21 +1,21 @@
 {
-  "num": "348",
-  "name": {
-    "ko": "타카야마 마리아",
-    "ja": "ねんどろいど 高山マリア (ねんどろいど たかやままりあ)",
-    "en": "Nendoroid Maria Takayama (ねんどろいど たかやままりあ)"
+  "gender" : "F",
+  "gsc_productNum" : 3993,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130717/3993/25149/large/b382c4f3a4b0b9ed420c6caf51001108.jpg",
+  "name" : {
+    "en" : "Nendoroid Maria Takayama (ねんどろいど たかやままりあ)",
+    "ja" : "ねんどろいど 高山マリア (ねんどろいど たかやままりあ)",
+    "ko" : "타카야마 마리아"
   },
-  "series": {
-    "ko": "나는 친구가 적다",
-    "ja": "僕は友達が少ないNEXT",
-    "en": "Boku wa Tomodachi ga Sukunai NEXT"
-  },
-  "gsc_productNum": 3993,
-  "price": 3667,
-  "release_date": [
+  "num" : "348",
+  "price" : 3667,
+  "release_date" : [
     "2013/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130717/3993/25149/large/b382c4f3a4b0b9ed420c6caf51001108.jpg",
-  "gender": "F",
-  "set": 51
+  "series" : {
+    "en" : "Boku wa Tomodachi ga Sukunai NEXT",
+    "ja" : "僕は友達が少ないNEXT",
+    "ko" : "나는 친구가 적다"
+  },
+  "set" : 51
 }

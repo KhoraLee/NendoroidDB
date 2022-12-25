@@ -1,21 +1,21 @@
 {
-  "num": "979",
-  "name": {
-    "ko": "백혈구",
-    "ja": "ねんどろいど 白血球（好中球） (ねんどろいど はっけっきゅう（こうちゅうきゅう）)",
-    "en": "Nendoroid White blood cell（Neutrophil）"
+  "gender" : "M",
+  "gsc_productNum" : 7504,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180803/7504/53649/large/6de95b51bd4dafd994797858fab9c7ef.jpg",
+  "name" : {
+    "en" : "Nendoroid White blood cell（Neutrophil）",
+    "ja" : "ねんどろいど 白血球（好中球） (ねんどろいど はっけっきゅう（こうちゅうきゅう）)",
+    "ko" : "백혈구"
   },
-  "series": {
-    "ko": "일하는 세포",
-    "ja": "はたらく細胞",
-    "en": "Cells at Work!"
-  },
-  "gsc_productNum": 7504,
-  "price": 4584,
-  "release_date": [
+  "num" : "979",
+  "price" : 4584,
+  "release_date" : [
     "2019/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180803/7504/53649/large/6de95b51bd4dafd994797858fab9c7ef.jpg",
-  "gender": "M",
-  "set": 190
+  "series" : {
+    "en" : "Cells at Work!",
+    "ja" : "はたらく細胞",
+    "ko" : "일하는 세포"
+  },
+  "set" : 190
 }

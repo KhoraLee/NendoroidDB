@@ -1,21 +1,21 @@
 {
-  "num": "1106",
-  "name": {
-    "ko": "타가라다 릿카",
-    "ja": "ねんどろいど 宝多六花 (ねんどろいど たからだりっか)",
-    "en": "Nendoroid Rikka Takarada"
+  "gender" : "F",
+  "gsc_productNum" : 8173,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190319/8173/58926/large/dd51bc7325a8dea09347949f532b93be.jpg",
+  "name" : {
+    "en" : "Nendoroid Rikka Takarada",
+    "ja" : "ねんどろいど 宝多六花 (ねんどろいど たからだりっか)",
+    "ko" : "타가라다 릿카"
   },
-  "series": {
-    "ko": "SSSS.GRIDMAN",
-    "ja": "SSSS.GRIDMAN",
-    "en": "SSSS.GRIDMAN"
-  },
-  "gsc_productNum": 8173,
-  "price": 4888,
-  "release_date": [
+  "num" : "1106",
+  "price" : 4888,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190319/8173/58926/large/dd51bc7325a8dea09347949f532b93be.jpg",
-  "gender": "F",
-  "set": 200
+  "series" : {
+    "en" : "SSSS.GRIDMAN",
+    "ja" : "SSSS.GRIDMAN",
+    "ko" : "SSSS.GRIDMAN"
+  },
+  "set" : 200
 }

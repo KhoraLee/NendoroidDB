@@ -1,20 +1,20 @@
 {
-  "num": "727",
-  "name": {
-    "ko": "소환진 광체천하 Ver.",
-    "ja": "ねんどろいど 素還真 轟掣天下Ver. (ねんどろいど そかんしん ごうせいてんかVer.)",
-    "en": "Nendoroid Su Huan-Jen: Unite Against the Darkness Ver."
+  "gender" : "M",
+  "gsc_productNum" : 6185,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170118/6185/43277/large/8bb729157907104b730ac509421d9052.jpg",
+  "name" : {
+    "en" : "Nendoroid Su Huan-Jen: Unite Against the Darkness Ver.",
+    "ja" : "ねんどろいど 素還真 轟掣天下Ver. (ねんどろいど そかんしん ごうせいてんかVer.)",
+    "ko" : "소환진 광체천하 Ver."
   },
-  "series": {
-    "ko": "벽력협영지 굉체천하",
-    "ja": "霹靂俠影之 轟掣天下(へきれききょうえい ごうせいてんか)",
-    "en": "PILI XIA YING: Unite Against the Darkness"
-  },
-  "gsc_productNum": 6185,
-  "price": 5093,
-  "release_date": [
+  "num" : "727",
+  "price" : 5093,
+  "release_date" : [
     "2017/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170118/6185/43277/large/8bb729157907104b730ac509421d9052.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "PILI XIA YING: Unite Against the Darkness",
+    "ja" : "霹靂俠影之 轟掣天下(へきれききょうえい ごうせいてんか)",
+    "ko" : "벽력협영지 굉체천하"
+  }
 }

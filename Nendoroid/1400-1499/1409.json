@@ -1,20 +1,20 @@
 {
-  "num": "1409",
-  "name": {
-    "ko": "옵티머스 프라임",
-    "ja": "ねんどろいど オプティマスプライム (ねんどろいど おぷてぃますぷらいむ)",
-    "en": "Nendoroid Optimus Prime"
+  "gsc_productNum" : 9776,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200714/9776/71965/large/db37ca8bbd410ef59715849b497ea086.jpg",
+  "name" : {
+    "en" : "Nendoroid Optimus Prime",
+    "ja" : "ねんどろいど オプティマスプライム (ねんどろいど おぷてぃますぷらいむ)",
+    "ko" : "옵티머스 프라임"
   },
-  "series": {
-    "ko": "트랜스포머",
-    "ja": "バンブルビー",
-    "en": "Bumblebee"
-  },
-  "gsc_productNum": 9776,
-  "price": 5500,
-  "release_date": [
+  "num" : "1409",
+  "price" : 5500,
+  "release_date" : [
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200714/9776/71965/large/db37ca8bbd410ef59715849b497ea086.jpg",
-  "set": 241
+  "series" : {
+    "en" : "Bumblebee",
+    "ja" : "バンブルビー",
+    "ko" : "트랜스포머"
+  },
+  "set" : 241
 }

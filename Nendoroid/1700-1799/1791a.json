@@ -1,20 +1,20 @@
 {
-  "num": "1791a",
-  "name": {
-    "ko": "쿨메이트(레드)",
-    "ja": "ねんどろいど クルーメイト（赤） (ねんどろいど くるーめいと（あか）)",
-    "en": "Nendoroid Crewmate (Red)"
+  "gsc_productNum" : 12142,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211216/12142/93524/large/baed4f4df7e71b38edf13c2e42d4c0c9.jpg",
+  "name" : {
+    "en" : "Nendoroid Crewmate (Red)",
+    "ja" : "ねんどろいど クルーメイト（赤） (ねんどろいど くるーめいと（あか）)",
+    "ko" : "쿨메이트(레드)"
   },
-  "series": {
-    "ko": "어몽어스",
-    "ja": "Among Us",
-    "en": "Among Us"
-  },
-  "gsc_productNum": 12142,
-  "price": 3900,
-  "release_date": [
+  "num" : "1791a",
+  "price" : 3900,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211216/12142/93524/large/baed4f4df7e71b38edf13c2e42d4c0c9.jpg",
-  "set": 280
+  "series" : {
+    "en" : "Among Us",
+    "ja" : "Among Us",
+    "ko" : "어몽어스"
+  },
+  "set" : 280
 }

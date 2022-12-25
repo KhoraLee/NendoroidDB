@@ -1,21 +1,21 @@
 {
-  "num": "1903",
-  "name": {
-    "ja": "ねんどろいど ヨル・フォージャー (ねんどろいど よる・ふぉーじゃー)",
-    "en": "Nendoroid Yor Forger",
-    "ko": "요르 포저"
+  "gender" : "F",
+  "gsc_productNum" : 12875,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220623/12875/100445/large/6beca560a14f4256973bb9b1b5ffc3a8.jpg",
+  "name" : {
+    "en" : "Nendoroid Yor Forger",
+    "ja" : "ねんどろいど ヨル・フォージャー (ねんどろいど よる・ふぉーじゃー)",
+    "ko" : "요르 포저"
   },
-  "series": {
-    "ja": "SPY×FAMILY",
-    "en": "SPY x FAMILY",
-    "ko": "스파이 패밀리"
-  },
-  "gsc_productNum": 12875,
-  "price": 6100,
-  "release_date": [
+  "num" : "1903",
+  "price" : 6100,
+  "release_date" : [
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220623/12875/100445/large/6beca560a14f4256973bb9b1b5ffc3a8.jpg",
-  "gender": "F",
-  "set": 290
+  "series" : {
+    "en" : "SPY x FAMILY",
+    "ja" : "SPY×FAMILY",
+    "ko" : "스파이 패밀리"
+  },
+  "set" : 290
 }

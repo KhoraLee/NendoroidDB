@@ -1,21 +1,21 @@
 {
-  "num": "972",
-  "name": {
-    "ko": "사타냐",
-    "ja": "ねんどろいど サターニャ (ねんどろいど さたーにゃ)",
-    "en": "Nendoroid Satania"
+  "gender" : "F",
+  "gsc_productNum" : 7565,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180828/7565/54147/large/dba75f89c1ac3706b6374aebbd3a0918.jpg",
+  "name" : {
+    "en" : "Nendoroid Satania",
+    "ja" : "ねんどろいど サターニャ (ねんどろいど さたーにゃ)",
+    "ko" : "사타냐"
   },
-  "series": {
-    "ko": "가브릴 드롭아웃",
-    "ja": "ガヴリールドロップアウト",
-    "en": "Gabriel Dropout"
-  },
-  "gsc_productNum": 7565,
-  "price": 5398,
-  "release_date": [
+  "num" : "972",
+  "price" : 5398,
+  "release_date" : [
     "2019/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180828/7565/54147/large/dba75f89c1ac3706b6374aebbd3a0918.jpg",
-  "gender": "F",
-  "set": 179
+  "series" : {
+    "en" : "Gabriel Dropout",
+    "ja" : "ガヴリールドロップアウト",
+    "ko" : "가브릴 드롭아웃"
+  },
+  "set" : 179
 }

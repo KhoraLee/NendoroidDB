@@ -1,21 +1,21 @@
 {
-  "num": "521",
-  "name": {
-    "ko": "파츄리 널릿지",
-    "ja": "ねんどろいど パチュリー・ノーレッジ (ねんどろいど ぱちゅりー・のーれっじ)",
-    "en": "Nendoroid Patchouli Knowledge (ねんどろいど ぱちゅりー・のーれっじ)"
+  "gender" : "F",
+  "gsc_productNum" : 5007,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150514/5007/33523/large/d050ac22b427edf29559212798b72975.jpg",
+  "name" : {
+    "en" : "Nendoroid Patchouli Knowledge (ねんどろいど ぱちゅりー・のーれっじ)",
+    "ja" : "ねんどろいど パチュリー・ノーレッジ (ねんどろいど ぱちゅりー・のーれっじ)",
+    "ko" : "파츄리 널릿지"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方Project",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 5007,
-  "price": 4584,
-  "release_date": [
+  "num" : "521",
+  "price" : 4584,
+  "release_date" : [
     "2015/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150514/5007/33523/large/d050ac22b427edf29559212798b72975.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1812",
-  "name": {
-    "ko": "나나미 켄토",
-    "ja": "ねんどろいど 七海建人 (ねんどろいど ななみけんと)",
-    "en": "Nendoroid Kento Nanami"
+  "gender" : "M",
+  "gsc_productNum" : 12289,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220128/12289/94868/large/2586190301c9be823400ed6d73460907.jpg",
+  "name" : {
+    "en" : "Nendoroid Kento Nanami",
+    "ja" : "ねんどろいど 七海建人 (ねんどろいど ななみけんと)",
+    "ko" : "나나미 켄토"
   },
-  "series": {
-    "ko": "주술회전",
-    "ja": "呪術廻戦",
-    "en": "Jujutsu Kaisen"
-  },
-  "gsc_productNum": 12289,
-  "price": 5500,
-  "release_date": [
+  "num" : "1812",
+  "price" : 5500,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220128/12289/94868/large/2586190301c9be823400ed6d73460907.jpg",
-  "gender": "M",
-  "set": 251
+  "series" : {
+    "en" : "Jujutsu Kaisen",
+    "ja" : "呪術廻戦",
+    "ko" : "주술회전"
+  },
+  "set" : 251
 }

@@ -1,21 +1,21 @@
 {
-  "num": "397",
-  "name": {
-    "ko": "사사라",
-    "ja": "ねんどろいど ささら (ねんどろいど ささら)",
-    "en": "Nendoroid Sasara (ねんどろいど ささら)"
+  "gender" : "F",
+  "gsc_productNum" : 4229,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140219/4229/27948/large/ed4eae26f1601911e4ccffa928efe896.jpg",
+  "name" : {
+    "en" : "Nendoroid Sasara (ねんどろいど ささら)",
+    "ja" : "ねんどろいど ささら (ねんどろいど ささら)",
+    "ko" : "사사라"
   },
-  "series": {
-    "ko": "판타지스타 돌",
-    "ja": "ファンタジスタドール",
-    "en": "Fantasista Doll"
-  },
-  "gsc_productNum": 4229,
-  "price": 3972,
-  "release_date": [
+  "num" : "397",
+  "price" : 3972,
+  "release_date" : [
     "2014/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140219/4229/27948/large/ed4eae26f1601911e4ccffa928efe896.jpg",
-  "gender": "F",
-  "set": 92
+  "series" : {
+    "en" : "Fantasista Doll",
+    "ja" : "ファンタジスタドール",
+    "ko" : "판타지스타 돌"
+  },
+  "set" : 92
 }

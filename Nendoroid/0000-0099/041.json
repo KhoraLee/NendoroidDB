@@ -1,18 +1,18 @@
 {
-  "num": "041",
-  "name": {
-    "ko": "메릿사 세라피 마왕 Ver. ",
-    "ja": "ねんどろいど メリッサ・セラフィ 魔王Ver. (ねんどろいど めりっさ・せらふぃ まおうVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3365,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3365/16295/large/835e723019297b030f3d4356f67e2d1b.jpg",
+  "name" : {
+    "ja" : "ねんどろいど メリッサ・セラフィ 魔王Ver. (ねんどろいど めりっさ・せらふぃ まおうVer.)",
+    "ko" : "메릿사 세라피 마왕 Ver. "
   },
-  "series": {
-    "ko": "Chu×Chuぱらだいす",
-    "ja": "Chu×Chuぱらだいす"
-  },
-  "gsc_productNum": 3365,
-  "price": 3667,
-  "release_date": [
+  "num" : "041",
+  "price" : 3667,
+  "release_date" : [
     "2008/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111125/3365/16295/large/835e723019297b030f3d4356f67e2d1b.jpg",
-  "gender": "F"
+  "series" : {
+    "ja" : "Chu×Chuぱらだいす",
+    "ko" : "Chu×Chuぱらだいす"
+  }
 }

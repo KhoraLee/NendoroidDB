@@ -1,22 +1,22 @@
 {
-  "num": "470",
-  "name": {
-    "ko": "유키무라 아오이",
-    "ja": "ねんどろいど 雪村あおい (ねんどろいど ゆきむらあおい)",
-    "en": "Nendoroid Aoi Yukimura"
+  "gender" : "F",
+  "gsc_productNum" : 4709,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141031/4709/31157/large/f8b4625de6869b2580d3ee3e92d1571f.jpg",
+  "name" : {
+    "en" : "Nendoroid Aoi Yukimura",
+    "ja" : "ねんどろいど 雪村あおい (ねんどろいど ゆきむらあおい)",
+    "ko" : "유키무라 아오이"
   },
-  "series": {
-    "ko": "야마노스스메",
-    "ja": "ヤマノススメ",
-    "en": "Encouragement of Climb"
-  },
-  "gsc_productNum": 4709,
-  "price": 4584,
-  "release_date": [
+  "num" : "470",
+  "price" : 4584,
+  "release_date" : [
     "2015/03",
     "2018/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141031/4709/31157/large/f8b4625de6869b2580d3ee3e92d1571f.jpg",
-  "gender": "F",
-  "set": 112
+  "series" : {
+    "en" : "Encouragement of Climb",
+    "ja" : "ヤマノススメ",
+    "ko" : "야마노스스메"
+  },
+  "set" : 112
 }

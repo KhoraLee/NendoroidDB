@@ -1,21 +1,21 @@
 {
-  "num": "401",
-  "name": {
-    "ko": "아리사 이리니티나 아미에라",
-    "ja": "ねんどろいど アリサ・イリーニチナ・アミエーラ (ねんどろいど ありさ・いりーにちな・あみえーら)",
-    "en": "Nendoroid Alisa Ilyinichna Omela (ねんどろいど ありさ・いりーにちな・あみえーら)"
+  "gender" : "F",
+  "gsc_productNum" : 4228,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140219/4228/27941/large/2b84128893715875a943495fd027243c.jpg",
+  "name" : {
+    "en" : "Nendoroid Alisa Ilyinichna Omela (ねんどろいど ありさ・いりーにちな・あみえーら)",
+    "ja" : "ねんどろいど アリサ・イリーニチナ・アミエーラ (ねんどろいど ありさ・いりーにちな・あみえーら)",
+    "ko" : "아리사 이리니티나 아미에라"
   },
-  "series": {
-    "ko": "갓이터 2",
-    "ja": "ゴッドイーター2",
-    "en": "GOD EATER 2"
-  },
-  "gsc_productNum": 4228,
-  "price": 5602,
-  "release_date": [
+  "num" : "401",
+  "price" : 5602,
+  "release_date" : [
     "2014/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140219/4228/27941/large/2b84128893715875a943495fd027243c.jpg",
-  "gender": "F",
-  "set": 95
+  "series" : {
+    "en" : "GOD EATER 2",
+    "ja" : "ゴッドイーター2",
+    "ko" : "갓이터 2"
+  },
+  "set" : 95
 }

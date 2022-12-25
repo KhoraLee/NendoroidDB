@@ -1,21 +1,21 @@
 {
-  "num": "857",
-  "name": {
-    "ko": "따오기",
-    "ja": "ねんどろいど トキ (ねんどろいど とき)",
-    "en": "Nendoroid Japanese Crested Ibis (Nendoroid Toki)"
+  "gender" : "F",
+  "gsc_productNum" : 6914,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171201/6914/49195/large/9f428c877a3b2a3ceacdcde516f001d0.jpg",
+  "name" : {
+    "en" : "Nendoroid Japanese Crested Ibis (Nendoroid Toki)",
+    "ja" : "ねんどろいど トキ (ねんどろいど とき)",
+    "ko" : "따오기"
   },
-  "series": {
-    "ko": "케모노 프렌즈",
-    "ja": "けものフレンズ",
-    "en": "Kemono Friends"
-  },
-  "gsc_productNum": 6914,
-  "price": 4584,
-  "release_date": [
+  "num" : "857",
+  "price" : 4584,
+  "release_date" : [
     "2018/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171201/6914/49195/large/9f428c877a3b2a3ceacdcde516f001d0.jpg",
-  "gender": "F",
-  "set": 155
+  "series" : {
+    "en" : "Kemono Friends",
+    "ja" : "けものフレンズ",
+    "ko" : "케모노 프렌즈"
+  },
+  "set" : 155
 }

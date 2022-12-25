@@ -1,21 +1,21 @@
 {
-  "num": "1439",
-  "name": {
-    "ko": "하츠네 미쿠 아구몬 Ver.",
-    "ja": "ねんどろいど 初音ミク きぐるみアグモンVer. (ねんどろいど はつねみく きぐるみあぐもんVer.)",
-    "en": "Nendoroid Hatsune Miku: Kigurumi Agumon Ver."
+  "gender" : "F",
+  "gsc_productNum" : 9918,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200812/9918/73546/large/3d4bcee4d67dd0e04b5b833e2159583d.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Kigurumi Agumon Ver.",
+    "ja" : "ねんどろいど 初音ミク きぐるみアグモンVer. (ねんどろいど はつねみく きぐるみあぐもんVer.)",
+    "ko" : "하츠네 미쿠 아구몬 Ver."
   },
-  "series": {
-    "ko": "보컬로이드(VOCALOID)",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク／デジモンアドベンチャー",
-    "en": "Character Vocal Series 01: Hatsune Miku/Digimon Adventure"
-  },
-  "gsc_productNum": 9918,
-  "price": 5500,
-  "release_date": [
+  "num" : "1439",
+  "price" : 5500,
+  "release_date" : [
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200812/9918/73546/large/3d4bcee4d67dd0e04b5b833e2159583d.jpg",
-  "gender": "F",
-  "set": 11
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku/Digimon Adventure",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク／デジモンアドベンチャー",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 11
 }

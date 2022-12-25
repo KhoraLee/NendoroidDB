@@ -1,20 +1,20 @@
 {
-  "num": "921",
-  "name": {
-    "ko": "마이크 와조스키 \u0026 부",
-    "ja": "ねんどろいど マイク＆ブーセット スタンダードVer. (ねんどろいど まいく＆ぶーせっと すたんだーどVer.)",
-    "en": "Nendoroid Mike \u0026 Boo Set: Standard Ver."
+  "gsc_productNum" : 7274,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180515/7274/52008/large/f314f9fa07010df71e1d17ec57685fe5.jpg",
+  "name" : {
+    "en" : "Nendoroid Mike & Boo Set: Standard Ver.",
+    "ja" : "ねんどろいど マイク＆ブーセット スタンダードVer. (ねんどろいど まいく＆ぶーせっと すたんだーどVer.)",
+    "ko" : "마이크 와조스키 & 부"
   },
-  "series": {
-    "ko": "몬스터 주식회사",
-    "ja": "モンスターズ・インク",
-    "en": "Monsters, Inc."
-  },
-  "gsc_productNum": 7274,
-  "price": 4888,
-  "release_date": [
+  "num" : "921",
+  "price" : 4888,
+  "release_date" : [
     "2018/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180515/7274/52008/large/f314f9fa07010df71e1d17ec57685fe5.jpg",
-  "set": 32
+  "series" : {
+    "en" : "Monsters, Inc.",
+    "ja" : "モンスターズ・インク",
+    "ko" : "몬스터 주식회사"
+  },
+  "set" : 32
 }

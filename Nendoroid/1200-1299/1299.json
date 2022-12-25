@@ -1,21 +1,21 @@
 {
-  "num": "1299",
-  "name": {
-    "ko": "헐크 엔드게임 Ver.",
-    "ja": "ねんどろいど ハルク エンドゲームVer. (ねんどろいど はるく えんどげーむVer.)",
-    "en": "Nendoroid Hulk: Endgame Ver."
+  "gender" : "M",
+  "gsc_productNum" : 9499,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200508/9499/69583/large/49f6128915a4184daeec4c2542bd5d7e.jpg",
+  "name" : {
+    "en" : "Nendoroid Hulk: Endgame Ver.",
+    "ja" : "ねんどろいど ハルク エンドゲームVer. (ねんどろいど はるく えんどげーむVer.)",
+    "ko" : "헐크 엔드게임 Ver."
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／エンドゲーム",
-    "en": "Avengers: Endgame"
-  },
-  "gsc_productNum": 9499,
-  "price": 8000,
-  "release_date": [
+  "num" : "1299",
+  "price" : 8000,
+  "release_date" : [
     "2020/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200508/9499/69583/large/49f6128915a4184daeec4c2542bd5d7e.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

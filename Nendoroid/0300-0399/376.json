@@ -1,21 +1,21 @@
 {
-  "num": "376",
-  "name": {
-    "ko": "헌터♀ 울크 에디션",
-    "ja": "ねんどろいど ハンター♀ ウルク・エディション (ねんどろいど はんたー♀ うるく・えでぃしょん)",
-    "en": "Nendoroid Hunter: Female - Lagombi Edition (ねんどろいど はんたー♀ うるく・えでぃしょん)"
+  "gender" : "F",
+  "gsc_productNum" : 4105,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131028/4105/26976/large/ffafcbc04e81b401472867f457949de3.jpg",
+  "name" : {
+    "en" : "Nendoroid Hunter: Female - Lagombi Edition (ねんどろいど はんたー♀ うるく・えでぃしょん)",
+    "ja" : "ねんどろいど ハンター♀ ウルク・エディション (ねんどろいど はんたー♀ うるく・えでぃしょん)",
+    "ko" : "헌터♀ 울크 에디션"
   },
-  "series": {
-    "ko": "몬스터 헌터",
-    "ja": "モンスターハンター4",
-    "en": "Monster Hunter 4"
-  },
-  "gsc_productNum": 4105,
-  "price": 6076,
-  "release_date": [
+  "num" : "376",
+  "price" : 6076,
+  "release_date" : [
     "2014/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20131028/4105/26976/large/ffafcbc04e81b401472867f457949de3.jpg",
-  "gender": "F",
-  "set": 64
+  "series" : {
+    "en" : "Monster Hunter 4",
+    "ja" : "モンスターハンター4",
+    "ko" : "몬스터 헌터"
+  },
+  "set" : 64
 }

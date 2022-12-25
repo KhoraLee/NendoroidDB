@@ -1,21 +1,21 @@
 {
-  "num": "286",
-  "name": {
-    "ko": "Lily from anim.o.v.e",
-    "ja": "ねんどろいど Lily from anim.o.v.e (ねんどろいど りりぃ from anim.o.v.e)",
-    "en": "Nendoroid Lily from anim.o.v.e (ねんどろいど りりぃ from anim.o.v.e)"
+  "gender" : "F",
+  "gsc_productNum" : 3724,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121029/3724/21046/large/acf3fbcb4dc0aab9600ae57a5917b4ed.jpg",
+  "name" : {
+    "en" : "Nendoroid Lily from anim.o.v.e (ねんどろいど りりぃ from anim.o.v.e)",
+    "ja" : "ねんどろいど Lily from anim.o.v.e (ねんどろいど りりぃ from anim.o.v.e)",
+    "ko" : "Lily from anim.o.v.e"
   },
-  "series": {
-    "ko": "보컬로이드(VOCALOID)",
-    "ja": "バーチャルボーカリスト Lily from anim.o.v.e",
-    "en": "Virtual Vocalist Lily from anim.o.v.e"
-  },
-  "gsc_productNum": 3724,
-  "price": 3667,
-  "release_date": [
+  "num" : "286",
+  "price" : 3667,
+  "release_date" : [
     "2013/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121029/3724/21046/large/acf3fbcb4dc0aab9600ae57a5917b4ed.jpg",
-  "gender": "F",
-  "set": 11
+  "series" : {
+    "en" : "Virtual Vocalist Lily from anim.o.v.e",
+    "ja" : "バーチャルボーカリスト Lily from anim.o.v.e",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 11
 }

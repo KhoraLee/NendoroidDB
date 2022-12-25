@@ -1,21 +1,21 @@
 {
-  "num": "1252",
-  "name": {
-    "ko": "마토 사쿠라",
-    "ja": "ねんどろいど 間桐桜 (ねんどろいど まとうさくら)",
-    "en": "Nendoroid Sakura Matou"
+  "gender" : "F",
+  "gsc_productNum" : 9690,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200625/9690/71294/large/e098f8c30f0b3fd7180ccc1dc4fb2612.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Matou",
+    "ja" : "ねんどろいど 間桐桜 (ねんどろいど まとうさくら)",
+    "ko" : "마토 사쿠라"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "劇場版「Fate/stay night [Heaven\u0027s Feel]」",
-    "en": "Fate/stay night: Heaven\u0027s Feel"
-  },
-  "gsc_productNum": 9690,
-  "price": 5000,
-  "release_date": [
+  "num" : "1252",
+  "price" : 5000,
+  "release_date" : [
     "2020/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200625/9690/71294/large/e098f8c30f0b3fd7180ccc1dc4fb2612.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/stay night: Heaven's Feel",
+    "ja" : "劇場版「Fate/stay night [Heaven's Feel]」",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

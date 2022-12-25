@@ -1,20 +1,20 @@
 {
-  "num": "1929",
-  "name": {
-    "ja": "ねんどろいど ショベルナイト (ねんどろいど しょべるないと)",
-    "en": "Nendoroid Shovel Knight",
-    "ko": "삽질 기사"
+  "gender" : "M",
+  "gsc_productNum" : 13054,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220731/13054/102313/large/8a84995885f8c68410821514b220b05c.jpg",
+  "name" : {
+    "en" : "Nendoroid Shovel Knight",
+    "ja" : "ねんどろいど ショベルナイト (ねんどろいど しょべるないと)",
+    "ko" : "삽질 기사"
   },
-  "series": {
-    "ja": "ショベルナイト",
-    "en": "Shovel Knight",
-    "ko": "삽질 기사"
-  },
-  "gsc_productNum": 13054,
-  "price": 8800,
-  "release_date": [
+  "num" : "1929",
+  "price" : 8800,
+  "release_date" : [
     "2023/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220731/13054/102313/large/8a84995885f8c68410821514b220b05c.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Shovel Knight",
+    "ja" : "ショベルナイト",
+    "ko" : "삽질 기사"
+  }
 }

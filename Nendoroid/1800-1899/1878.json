@@ -1,20 +1,20 @@
 {
-  "num": "1878",
-  "name": {
-    "ko": "일레이나",
-    "ja": "ねんどろいど イレイナ (ねんどろいど いれいな)",
-    "en": "Nendoroid Elaina"
+  "gender" : "F",
+  "gsc_productNum" : 12678,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220510/12678/98676/large/42a8a736ff38ccee51cb49efb7601d23.jpg",
+  "name" : {
+    "en" : "Nendoroid Elaina",
+    "ja" : "ねんどろいど イレイナ (ねんどろいど いれいな)",
+    "ko" : "일레이나"
   },
-  "series": {
-    "ko": "마녀의 여행",
-    "ja": "魔女の旅々",
-    "en": "Wandering Witch: The Journey of Elaina"
-  },
-  "gsc_productNum": 12678,
-  "price": 7900,
-  "release_date": [
+  "num" : "1878",
+  "price" : 7900,
+  "release_date" : [
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220510/12678/98676/large/42a8a736ff38ccee51cb49efb7601d23.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Wandering Witch: The Journey of Elaina",
+    "ja" : "魔女の旅々",
+    "ko" : "마녀의 여행"
+  }
 }

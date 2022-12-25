@@ -1,21 +1,21 @@
 {
-  "num": "978",
-  "name": {
-    "ko": "황샤오텐",
-    "ja": "ねんどろいど 黄少天 (ねんどろいど ふぁんしゃおてん)",
-    "en": "Nendoroid Huang Shaotian"
+  "gender" : "M",
+  "gsc_productNum" : 7518,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180808/7518/53765/large/4c573bd96a95c0be6f977ffaebace209.jpg",
+  "name" : {
+    "en" : "Nendoroid Huang Shaotian",
+    "ja" : "ねんどろいど 黄少天 (ねんどろいど ふぁんしゃおてん)",
+    "ko" : "황샤오텐"
   },
-  "series": {
-    "ko": "전직고수",
-    "ja": "マスターオブスキル（全職高手）",
-    "en": "The King\u0027s Avatar"
-  },
-  "gsc_productNum": 7518,
-  "price": 4584,
-  "release_date": [
+  "num" : "978",
+  "price" : 4584,
+  "release_date" : [
     "2019/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180808/7518/53765/large/4c573bd96a95c0be6f977ffaebace209.jpg",
-  "gender": "M",
-  "set": 184
+  "series" : {
+    "en" : "The King's Avatar",
+    "ja" : "マスターオブスキル（全職高手）",
+    "ko" : "전직고수"
+  },
+  "set" : 184
 }

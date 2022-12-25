@@ -1,20 +1,20 @@
 {
-  "num": "359",
-  "name": {
-    "ko": "드롯셀(차밍)",
-    "ja": "ねんどろいど ドロッセル（チャーミング） (ねんどろいど どろっせる（ちゃーみんぐ）)",
-    "en": "Nendoroid Drössel (Charming) (ねんどろいど どろっせる（ちゃーみんぐ）)"
+  "gsc_productNum" : 4014,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130730/4014/25496/large/a23244eeb0524cf15c8e4cecdc1af1e9.jpg",
+  "name" : {
+    "en" : "Nendoroid Drössel (Charming) (ねんどろいど どろっせる（ちゃーみんぐ）)",
+    "ja" : "ねんどろいど ドロッセル（チャーミング） (ねんどろいど どろっせる（ちゃーみんぐ）)",
+    "ko" : "드롯셀(차밍)"
   },
-  "series": {
-    "ko": "파이어볼",
-    "ja": "ファイアボール チャーミング",
-    "en": "Fireball Charming"
-  },
-  "gsc_productNum": 4014,
-  "price": 5029,
-  "release_date": [
+  "num" : "359",
+  "price" : 5029,
+  "release_date" : [
     "2013/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130730/4014/25496/large/a23244eeb0524cf15c8e4cecdc1af1e9.jpg",
-  "set": 26
+  "series" : {
+    "en" : "Fireball Charming",
+    "ja" : "ファイアボール チャーミング",
+    "ko" : "파이어볼"
+  },
+  "set" : 26
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1611",
-  "name": {
-    "ko": "신데렐라",
-    "ja": "ねんどろいど シンデレラ (ねんどろいど しんでれら)",
-    "en": "Nendoroid Cinderella"
+  "gender" : "F",
+  "gsc_productNum" : 11010,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210331/11010/82977/large/715d71b0fdbb13a64c8d7197efc589ab.jpg",
+  "name" : {
+    "en" : "Nendoroid Cinderella",
+    "ja" : "ねんどろいど シンデレラ (ねんどろいど しんでれら)",
+    "ko" : "신데렐라"
   },
-  "series": {
-    "ko": "디즈니 프린세스",
-    "ja": "シンデレラ",
-    "en": "Cinderella"
-  },
-  "gsc_productNum": 11010,
-  "price": 5900,
-  "release_date": [
+  "num" : "1611",
+  "price" : 5900,
+  "release_date" : [
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210331/11010/82977/large/715d71b0fdbb13a64c8d7197efc589ab.jpg",
-  "gender": "F",
-  "set": 32
+  "series" : {
+    "en" : "Cinderella",
+    "ja" : "シンデレラ",
+    "ko" : "디즈니 프린세스"
+  },
+  "set" : 32
 }

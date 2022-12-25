@@ -1,21 +1,21 @@
 {
-  "num": "1281",
-  "name": {
-    "ko": "반다나 웨이들 디",
-    "ja": "ねんどろいど ワドルディ (ねんどろいど わどるでぃ)",
-    "en": "Nendoroid Waddle Dee"
+  "gsc_productNum" : 9222,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200128/9222/67172/large/48dd3bb68c1fae0b9283e55dc13c3c2d.jpg",
+  "name" : {
+    "en" : "Nendoroid Waddle Dee",
+    "ja" : "ねんどろいど ワドルディ (ねんどろいど わどるでぃ)",
+    "ko" : "반다나 웨이들 디"
   },
-  "series": {
-    "ko": "별의 커비",
-    "ja": "星のカービィ",
-    "en": "Kirby"
-  },
-  "gsc_productNum": 9222,
-  "price": 5600,
-  "release_date": [
+  "num" : "1281",
+  "price" : 5600,
+  "release_date" : [
     "2020/09",
     "2023/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200128/9222/67172/large/48dd3bb68c1fae0b9283e55dc13c3c2d.jpg",
-  "set": 121
+  "series" : {
+    "en" : "Kirby",
+    "ja" : "星のカービィ",
+    "ko" : "별의 커비"
+  },
+  "set" : 121
 }

@@ -1,22 +1,22 @@
 {
-  "num": "1086",
-  "name": {
-    "ko": "이택언",
-    "ja": "ねんどろいど ゼン (ねんどろいど ぜん)",
-    "en": "Nendoroid Zeyan Li"
+  "gender" : "M",
+  "gsc_productNum" : 8060,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190204/8060/58018/large/fb4b6588993892c6d8efe1c6716cedc6.jpg",
+  "name" : {
+    "en" : "Nendoroid Zeyan Li",
+    "ja" : "ねんどろいど ゼン (ねんどろいど ぜん)",
+    "ko" : "이택언"
   },
-  "series": {
-    "ko": "러브앤프로듀서",
-    "ja": "恋とプロデューサー～EVOL×LOVE～",
-    "en": "Mr. Love: Queen\u0027s Choice"
-  },
-  "gsc_productNum": 8060,
-  "price": 5500,
-  "release_date": [
+  "num" : "1086",
+  "price" : 5500,
+  "release_date" : [
     "2019/08",
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190204/8060/58018/large/fb4b6588993892c6d8efe1c6716cedc6.jpg",
-  "gender": "M",
-  "set": 209
+  "series" : {
+    "en" : "Mr. Love: Queen's Choice",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "set" : 209
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1736",
-  "name": {
-    "ko": "산고",
-    "ja": "ねんどろいど 珊瑚 (ねんどろいど さんご)",
-    "en": "Nendoroid Sango"
+  "gender" : "F",
+  "gsc_productNum" : 11910,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211019/11910/91091/large/b10f82e45630ebbef3278bd812a147f6.jpg",
+  "name" : {
+    "en" : "Nendoroid Sango",
+    "ja" : "ねんどろいど 珊瑚 (ねんどろいど さんご)",
+    "ko" : "산고"
   },
-  "series": {
-    "ko": "이누야샤",
-    "ja": "犬夜叉",
-    "en": "Inuyasha"
-  },
-  "gsc_productNum": 11910,
-  "price": 5500,
-  "release_date": [
+  "num" : "1736",
+  "price" : 5500,
+  "release_date" : [
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211019/11910/91091/large/b10f82e45630ebbef3278bd812a147f6.jpg",
-  "gender": "F",
-  "set": 234
+  "series" : {
+    "en" : "Inuyasha",
+    "ja" : "犬夜叉",
+    "ko" : "이누야샤"
+  },
+  "set" : 234
 }

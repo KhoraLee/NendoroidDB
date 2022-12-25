@@ -1,21 +1,21 @@
 {
-  "num": "1332",
-  "name": {
-    "ko": "미도리야 이즈쿠 코스튬 γ",
-    "ja": "ねんどろいど 緑谷出久 コスチュームγ (ねんどろいど みどりやいずく こすちゅーむγ)",
-    "en": "Nendoroid Izuku Midoriya: Costume γ"
+  "gender" : "M",
+  "gsc_productNum" : 9691,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200625/9691/71301/large/a43904ff966cc083297da692260709a1.jpg",
+  "name" : {
+    "en" : "Nendoroid Izuku Midoriya: Costume γ",
+    "ja" : "ねんどろいど 緑谷出久 コスチュームγ (ねんどろいど みどりやいずく こすちゅーむγ)",
+    "ko" : "미도리야 이즈쿠 코스튬 γ"
   },
-  "series": {
-    "ko": "나의 히어로 아카데미아",
-    "ja": "僕のヒーローアカデミア",
-    "en": "My Hero Academia"
-  },
-  "gsc_productNum": 9691,
-  "price": 5000,
-  "release_date": [
+  "num" : "1332",
+  "price" : 5000,
+  "release_date" : [
     "2020/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200625/9691/71301/large/a43904ff966cc083297da692260709a1.jpg",
-  "gender": "M",
-  "set": 146
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 146
 }

@@ -1,20 +1,20 @@
 {
-  "num": "1304",
-  "name": {
-    "ko": "이와나가 코토코",
-    "ja": "ねんどろいど 岩永琴子 (ねんどろいど いわながことこ)",
-    "en": "Nendoroid Kotoko Iwanaga"
+  "gender" : "F",
+  "gsc_productNum" : 9377,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200324/9377/68504/large/fb1d4eb432267a45506039095b01512a.jpg",
+  "name" : {
+    "en" : "Nendoroid Kotoko Iwanaga",
+    "ja" : "ねんどろいど 岩永琴子 (ねんどろいど いわながことこ)",
+    "ko" : "이와나가 코토코"
   },
-  "series": {
-    "ko": "허구추리",
-    "ja": "虚構推理",
-    "en": "In/Spectre"
-  },
-  "gsc_productNum": 9377,
-  "price": 5500,
-  "release_date": [
+  "num" : "1304",
+  "price" : 5500,
+  "release_date" : [
     "2020/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200324/9377/68504/large/fb1d4eb432267a45506039095b01512a.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "In/Spectre",
+    "ja" : "虚構推理",
+    "ko" : "허구추리"
+  }
 }

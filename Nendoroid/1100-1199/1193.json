@@ -1,24 +1,24 @@
 {
-  "num": "1193",
-  "name": {
-    "ko": "카마도 탄지로",
-    "ja": "ねんどろいど 竈門炭治郎 (ねんどろいど かまどたんじろう)",
-    "en": "Nendoroid Tanjiro Kamado"
+  "gender" : "M",
+  "gsc_productNum" : 8675,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190809/8675/62910/large/3a19588d38f77d3f6d2559309940cbb6.jpg",
+  "name" : {
+    "en" : "Nendoroid Tanjiro Kamado",
+    "ja" : "ねんどろいど 竈門炭治郎 (ねんどろいど かまどたんじろう)",
+    "ko" : "카마도 탄지로"
   },
-  "series": {
-    "ko": "귀멸의 칼날",
-    "ja": "鬼滅の刃",
-    "en": "Demon Slayer: Kimetsu no Yaiba"
-  },
-  "gsc_productNum": 8675,
-  "price": 5800,
-  "release_date": [
+  "num" : "1193",
+  "price" : 5800,
+  "release_date" : [
     "2020/05",
     "2020/08",
     "2021/02",
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190809/8675/62910/large/3a19588d38f77d3f6d2559309940cbb6.jpg",
-  "gender": "M",
-  "set": 222
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "set" : 222
 }

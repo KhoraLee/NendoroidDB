@@ -1,21 +1,21 @@
 {
-  "num": "1951",
-  "name": {
-    "ja": "ねんどろいど 百鬼あやめ (ねんどろいど なきりあやめ)",
-    "en": "Nendoroid Nakiri Ayame",
-    "ko": "나카리 아야메"
+  "gender" : "F",
+  "gsc_productNum" : 13228,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220906/13228/103994/large/2ca2578f352a1abb0a6b68e9f63ea362.jpg",
+  "name" : {
+    "en" : "Nendoroid Nakiri Ayame",
+    "ja" : "ねんどろいど 百鬼あやめ (ねんどろいど なきりあやめ)",
+    "ko" : "나카리 아야메"
   },
-  "series": {
-    "ja": "ホロライブプロダクション",
-    "en": "hololive production",
-    "ko": "홀로라이브"
-  },
-  "gsc_productNum": 13228,
-  "price": 7200,
-  "release_date": [
+  "num" : "1951",
+  "price" : 7200,
+  "release_date" : [
     "2023/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220906/13228/103994/large/2ca2578f352a1abb0a6b68e9f63ea362.jpg",
-  "gender": "F",
-  "set": 262
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브"
+  },
+  "set" : 262
 }

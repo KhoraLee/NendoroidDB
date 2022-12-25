@@ -1,21 +1,21 @@
 {
-  "num": "950",
-  "name": {
-    "ko": "랜서/엘리자베트 바토리",
-    "ja": "ねんどろいど ランサー/エリザベート・バートリー (ねんどろいど らんさー/えりざべーと・ばーとりー)",
-    "en": "Nendoroid Lancer/Elizabeth Bathory"
+  "gender" : "F",
+  "gsc_productNum" : 7321,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180601/7321/52374/large/93c6bffbe59cbfd66bfffb0887248046.jpg",
+  "name" : {
+    "en" : "Nendoroid Lancer/Elizabeth Bathory",
+    "ja" : "ねんどろいど ランサー/エリザベート・バートリー (ねんどろいど らんさー/えりざべーと・ばーとりー)",
+    "ko" : "랜서/엘리자베트 바토리"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 7321,
-  "price": 5297,
-  "release_date": [
+  "num" : "950",
+  "price" : 5297,
+  "release_date" : [
     "2018/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180601/7321/52374/large/93c6bffbe59cbfd66bfffb0887248046.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

@@ -1,21 +1,21 @@
 {
-  "num": "850",
-  "name": {
-    "ko": "유키 미쿠 두루미 무녀 Ver.",
-    "ja": "ねんどろいど 雪ミク タンチョウ巫女Ver. (ねんどろいど ゆきみく たんちょうみこVer.)",
-    "en": "Nendoroid Snow Miku: Crane Priestess Ver."
+  "gender" : "F",
+  "gsc_productNum" : 6923,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171208/6923/49094/large/5a2163908851adba5cfc9aed39adffe8.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow Miku: Crane Priestess Ver.",
+    "ja" : "ねんどろいど 雪ミク タンチョウ巫女Ver. (ねんどろいど ゆきみく たんちょうみこVer.)",
+    "ko" : "유키 미쿠 두루미 무녀 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 6923,
-  "price": 6112,
-  "release_date": [
+  "num" : "850",
+  "price" : 6112,
+  "release_date" : [
     "2018/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171208/6923/49094/large/5a2163908851adba5cfc9aed39adffe8.jpg",
-  "gender": "F",
-  "set": 31
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 31
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1594",
-  "name": {
-    "ko": "액셀 킹덤 하츠 III Ver.",
-    "ja": "ねんどろいど アクセル キングダム ハーツⅢVer. (ねんどろいど あくせる きんぐだむ はーつⅢVer.)",
-    "en": "Nendoroid Axel: Kingdom Hearts III Ver."
+  "gender" : "M",
+  "gsc_productNum" : 10949,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210322/10949/82448/large/7dc1298a6b5e491af9052bdfd90d1ef1.jpg",
+  "name" : {
+    "en" : "Nendoroid Axel: Kingdom Hearts III Ver.",
+    "ja" : "ねんどろいど アクセル キングダム ハーツⅢVer. (ねんどろいど あくせる きんぐだむ はーつⅢVer.)",
+    "ko" : "액셀 킹덤 하츠 III Ver."
   },
-  "series": {
-    "ko": "킹덤 하츠",
-    "ja": "キングダム ハーツⅢ",
-    "en": "Kingdom Hearts III"
-  },
-  "gsc_productNum": 10949,
-  "price": 6700,
-  "release_date": [
+  "num" : "1594",
+  "price" : 6700,
+  "release_date" : [
     "2021/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210322/10949/82448/large/7dc1298a6b5e491af9052bdfd90d1ef1.jpg",
-  "gender": "M",
-  "set": 206
+  "series" : {
+    "en" : "Kingdom Hearts III",
+    "ja" : "キングダム ハーツⅢ",
+    "ko" : "킹덤 하츠"
+  },
+  "set" : 206
 }

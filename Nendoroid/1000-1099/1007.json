@@ -1,21 +1,21 @@
 {
-  "num": "1007",
-  "name": {
-    "ko": "나마즈오 토시로",
-    "ja": "ねんどろいど 鯰尾藤四郎 (ねんどろいど なまずおとうしろう)",
-    "en": "Nendoroid Namazuo Toshiro"
+  "gender" : "M",
+  "gsc_productNum" : 7641,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180926/7641/54779/large/81bc5a8fb52e338618379bc6990250b8.jpg",
+  "name" : {
+    "en" : "Nendoroid Namazuo Toshiro",
+    "ja" : "ねんどろいど 鯰尾藤四郎 (ねんどろいど なまずおとうしろう)",
+    "ko" : "나마즈오 토시로"
   },
-  "series": {
-    "ko": "도검난무-ONLINE-",
-    "ja": "刀剣乱舞-ONLINE-",
-    "en": "Touken Ranbu -ONLINE-"
-  },
-  "gsc_productNum": 7641,
-  "price": 4787,
-  "release_date": [
+  "num" : "1007",
+  "price" : 4787,
+  "release_date" : [
     "2019/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180926/7641/54779/large/81bc5a8fb52e338618379bc6990250b8.jpg",
-  "gender": "M",
-  "set": 116
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 116
 }

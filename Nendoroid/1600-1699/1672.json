@@ -1,21 +1,21 @@
 {
-  "num": "1672",
-  "name": {
-    "ko": "블라디레나 밀리제",
-    "ja": "ねんどろいど ヴラディレーナ・ミリーゼ (ねんどろいど ゔらでぃれーな・みりーぜ)",
-    "en": "Nendoroid Vladilena Milizé"
+  "gender" : "F",
+  "gsc_productNum" : 11464,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210708/11464/87012/large/09f8bb1160a2e20ac99fc6791c8b30ad.jpg",
+  "name" : {
+    "en" : "Nendoroid Vladilena Milizé",
+    "ja" : "ねんどろいど ヴラディレーナ・ミリーゼ (ねんどろいど ゔらでぃれーな・みりーぜ)",
+    "ko" : "블라디레나 밀리제"
   },
-  "series": {
-    "ko": "86 -에이티식스-",
-    "ja": "８６―エイティシックス―",
-    "en": "86 EIGHTY-SIX"
-  },
-  "gsc_productNum": 11464,
-  "price": 5800,
-  "release_date": [
+  "num" : "1672",
+  "price" : 5800,
+  "release_date" : [
     "2022/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210708/11464/87012/large/09f8bb1160a2e20ac99fc6791c8b30ad.jpg",
-  "gender": "F",
-  "set": 267
+  "series" : {
+    "en" : "86 EIGHTY-SIX",
+    "ja" : "８６―エイティシックス―",
+    "ko" : "86 -에이티식스-"
+  },
+  "set" : 267
 }

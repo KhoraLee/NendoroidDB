@@ -1,22 +1,22 @@
 {
-  "num": "749",
-  "name": {
-    "ko": "이치가야 아리사",
-    "ja": "ねんどろいど 市ヶ谷有咲 (ねんどろいど いちがやありさ)",
-    "en": "Nendoroid Arisa Ichigaya"
+  "gender" : "F",
+  "gsc_productNum" : 6319,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170314/6319/44343/large/e69fa320015cfe60fc7e6e93ad4d74ba.jpg",
+  "name" : {
+    "en" : "Nendoroid Arisa Ichigaya",
+    "ja" : "ねんどろいど 市ヶ谷有咲 (ねんどろいど いちがやありさ)",
+    "ko" : "이치가야 아리사"
   },
-  "series": {
-    "ko": "BanG Dream!",
-    "ja": "BanG Dream!",
-    "en": "BanG Dream!"
-  },
-  "gsc_productNum": 6319,
-  "price": 4584,
-  "release_date": [
+  "num" : "749",
+  "price" : 4584,
+  "release_date" : [
     "2017/10",
     "2019/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170314/6319/44343/large/e69fa320015cfe60fc7e6e93ad4d74ba.jpg",
-  "gender": "F",
-  "set": 152
+  "series" : {
+    "en" : "BanG Dream!",
+    "ja" : "BanG Dream!",
+    "ko" : "BanG Dream!"
+  },
+  "set" : 152
 }

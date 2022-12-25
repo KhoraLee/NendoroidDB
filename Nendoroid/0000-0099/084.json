@@ -1,20 +1,20 @@
 {
-  "num": "084",
-  "name": {
-    "ko": "료우기 시키",
-    "ja": "ねんどろいど 両儀 式 (りょうぎ しき ねんどろいど)",
-    "en": "Nendoroid Shiki Ryougi (りょうぎ しき ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 2582,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2582/7558/large/aacd7bc270199afd73da664a025cacfe.jpg",
+  "name" : {
+    "en" : "Nendoroid Shiki Ryougi (りょうぎ しき ねんどろいど)",
+    "ja" : "ねんどろいど 両儀 式 (りょうぎ しき ねんどろいど)",
+    "ko" : "료우기 시키"
   },
-  "series": {
-    "ko": "공의 경계",
-    "ja": "空の境界",
-    "en": "Kara no Kyoukai"
-  },
-  "gsc_productNum": 2582,
-  "price": 3667,
-  "release_date": [
+  "num" : "084",
+  "price" : 3667,
+  "release_date" : [
     "2009/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2582/7558/large/aacd7bc270199afd73da664a025cacfe.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Kara no Kyoukai",
+    "ja" : "空の境界",
+    "ko" : "공의 경계"
+  }
 }

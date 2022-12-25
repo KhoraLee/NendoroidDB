@@ -1,21 +1,21 @@
 {
-  "num": "1034",
-  "name": {
-    "ko": "헤르미온느 그레인저",
-    "ja": "ねんどろいど ハーマイオニー・グレンジャー (ねんどろいど はーまいおにー・ぐれんじゃー)",
-    "en": "Nendoroid Hermione Granger"
+  "gender" : "F",
+  "gsc_productNum" : 7797,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181113/7797/55891/large/c377fbf55c6d2801521c7620e1ed8f65.jpg",
+  "name" : {
+    "en" : "Nendoroid Hermione Granger",
+    "ja" : "ねんどろいど ハーマイオニー・グレンジャー (ねんどろいど はーまいおにー・ぐれんじゃー)",
+    "ko" : "헤르미온느 그레인저"
   },
-  "series": {
-    "ko": "해리포터 시리즈",
-    "ja": "ハリー・ポッター",
-    "en": "Harry Potter"
-  },
-  "gsc_productNum": 7797,
-  "price": 4584,
-  "release_date": [
+  "num" : "1034",
+  "price" : 4584,
+  "release_date" : [
     "2019/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181113/7797/55891/large/c377fbf55c6d2801521c7620e1ed8f65.jpg",
-  "gender": "F",
-  "set": 194
+  "series" : {
+    "en" : "Harry Potter",
+    "ja" : "ハリー・ポッター",
+    "ko" : "해리포터 시리즈"
+  },
+  "set" : 194
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1372",
-  "name": {
-    "ko": "니카이도 야마토",
-    "ja": "ねんどろいど 二階堂大和 (ねんどろいど にかいどうやまと)",
-    "en": "Nendoroid Yamato Nikaido"
+  "gender" : "M",
+  "gsc_productNum" : 9645,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200617/9645/70940/large/64dc6261420d4365d11a27032fb24f02.jpg",
+  "name" : {
+    "en" : "Nendoroid Yamato Nikaido",
+    "ja" : "ねんどろいど 二階堂大和 (ねんどろいど にかいどうやまと)",
+    "ko" : "니카이도 야마토"
   },
-  "series": {
-    "ko": "아이돌리쉬 세븐",
-    "ja": "アイドリッシュセブン",
-    "en": "IDOLiSH7"
-  },
-  "gsc_productNum": 9645,
-  "price": 4600,
-  "release_date": [
+  "num" : "1372",
+  "price" : 4600,
+  "release_date" : [
     "2020/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200617/9645/70940/large/64dc6261420d4365d11a27032fb24f02.jpg",
-  "gender": "M",
-  "set": 174
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  },
+  "set" : 174
 }

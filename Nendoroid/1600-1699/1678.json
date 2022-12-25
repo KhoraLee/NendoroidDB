@@ -1,21 +1,21 @@
 {
-  "num": "1678",
-  "name": {
-    "ko": "페코린느",
-    "ja": "ねんどろいど ペコリーヌ (ねんどろいど ぺこりーぬ)",
-    "en": "Nendoroid Pecorine"
+  "gender" : "F",
+  "gsc_productNum" : 11172,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210510/11172/87118/large/e64eab519998793124e802a3487531f7.jpg",
+  "name" : {
+    "en" : "Nendoroid Pecorine",
+    "ja" : "ねんどろいど ペコリーヌ (ねんどろいど ぺこりーぬ)",
+    "ko" : "페코린느"
   },
-  "series": {
-    "ko": "프린세스 커넥트! Re:Dive",
-    "ja": "プリンセスコネクト！Re:Dive",
-    "en": "Princess Connect! Re: Dive"
-  },
-  "gsc_productNum": 11172,
-  "price": 6500,
-  "release_date": [
+  "num" : "1678",
+  "price" : 6500,
+  "release_date" : [
     "2022/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210510/11172/87118/large/e64eab519998793124e802a3487531f7.jpg",
-  "gender": "F",
-  "set": 252
+  "series" : {
+    "en" : "Princess Connect! Re: Dive",
+    "ja" : "プリンセスコネクト！Re:Dive",
+    "ko" : "프린세스 커넥트! Re:Dive"
+  },
+  "set" : 252
 }

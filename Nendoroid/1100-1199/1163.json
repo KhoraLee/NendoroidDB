@@ -1,22 +1,22 @@
 {
-  "num": "1163",
-  "name": {
-    "ko": "시가라키 토무라 빌런즈 에디션",
-    "ja": "ねんどろいど 死柄木弔 ヴィランズ・エディション (ねんどろいど しがらきとむら ゔぃらんず・えでぃしょん)",
-    "en": "Nendoroid Tomura Shigaraki: Villain\u0027s Edition"
+  "gender" : "M",
+  "gsc_productNum" : 8475,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190627/8475/61372/large/9e44b6a3496d78593070c92f20812606.jpg",
+  "name" : {
+    "en" : "Nendoroid Tomura Shigaraki: Villain's Edition",
+    "ja" : "ねんどろいど 死柄木弔 ヴィランズ・エディション (ねんどろいど しがらきとむら ゔぃらんず・えでぃしょん)",
+    "ko" : "시가라키 토무라 빌런즈 에디션"
   },
-  "series": {
-    "ko": "나의 히어로 아카데미아",
-    "ja": "僕のヒーローアカデミア",
-    "en": "My Hero Academia"
-  },
-  "gsc_productNum": 8475,
-  "price": 5000,
-  "release_date": [
+  "num" : "1163",
+  "price" : 5000,
+  "release_date" : [
     "2020/01",
     "2022/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190627/8475/61372/large/9e44b6a3496d78593070c92f20812606.jpg",
-  "gender": "M",
-  "set": 146
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 146
 }

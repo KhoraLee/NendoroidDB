@@ -1,20 +1,20 @@
 {
-  "num": "1420",
-  "name": {
-    "ko": "츠루기 히나",
-    "ja": "ねんどろいど 鶴木陽渚 (ねんどろいど つるぎひな)",
-    "en": "Nendoroid Hina Tsurugi"
+  "gender" : "F",
+  "gsc_productNum" : 9811,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200722/9811/72286/large/ce816ac3f50a9dbc4783fcb54fef4c94.jpg",
+  "name" : {
+    "en" : "Nendoroid Hina Tsurugi",
+    "ja" : "ねんどろいど 鶴木陽渚 (ねんどろいど つるぎひな)",
+    "ko" : "츠루기 히나"
   },
-  "series": {
-    "ko": "방과 후 제방 일지",
-    "ja": "放課後ていぼう日誌",
-    "en": "Diary of our Days at the Breakwater"
-  },
-  "gsc_productNum": 9811,
-  "price": 5500,
-  "release_date": [
+  "num" : "1420",
+  "price" : 5500,
+  "release_date" : [
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200722/9811/72286/large/ce816ac3f50a9dbc4783fcb54fef4c94.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Diary of our Days at the Breakwater",
+    "ja" : "放課後ていぼう日誌",
+    "ko" : "방과 후 제방 일지"
+  }
 }

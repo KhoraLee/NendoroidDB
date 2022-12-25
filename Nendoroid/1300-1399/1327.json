@@ -1,21 +1,21 @@
 {
-  "num": "1327",
-  "name": {
-    "ko": "시로가네 미유키",
-    "ja": "ねんどろいど 白銀御行 (ねんどろいど しろがねみゆき)",
-    "en": "Nendoroid Miyuki Shirogane"
+  "gender" : "M",
+  "gsc_productNum" : 9468,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200428/9468/69354/large/f2dd307d8eded5836263cfbfe7e34aab.jpg",
+  "name" : {
+    "en" : "Nendoroid Miyuki Shirogane",
+    "ja" : "ねんどろいど 白銀御行 (ねんどろいど しろがねみゆき)",
+    "ko" : "시로가네 미유키"
   },
-  "series": {
-    "ko": "카구야 님은 고백받고 싶어",
-    "ja": "かぐや様は告らせたい ～天才たちの恋愛頭脳戦～",
-    "en": "Kaguya-sama: Love is War"
-  },
-  "gsc_productNum": 9468,
-  "price": 5610,
-  "release_date": [
+  "num" : "1327",
+  "price" : 5610,
+  "release_date" : [
     "2020/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200428/9468/69354/large/f2dd307d8eded5836263cfbfe7e34aab.jpg",
-  "gender": "M",
-  "set": 233
+  "series" : {
+    "en" : "Kaguya-sama: Love is War",
+    "ja" : "かぐや様は告らせたい ～天才たちの恋愛頭脳戦～",
+    "ko" : "카구야 님은 고백받고 싶어"
+  },
+  "set" : 233
 }

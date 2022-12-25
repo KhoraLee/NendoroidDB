@@ -1,21 +1,21 @@
 {
-  "num": "1775",
-  "name": {
-    "ko": "히-맨",
-    "ja": "ねんどろいど ヒーマン (ねんどろいど ひーまん)",
-    "en": "Nendoroid He-Man"
+  "gender" : "M",
+  "gsc_productNum" : 12063,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211129/12063/93398/large/a08e5eb3d81c66dd023aaabd9deef3a7.jpg",
+  "name" : {
+    "en" : "Nendoroid He-Man",
+    "ja" : "ねんどろいど ヒーマン (ねんどろいど ひーまん)",
+    "ko" : "히-맨"
   },
-  "series": {
-    "ko": "우주의 영웅들:새로운 진실",
-    "ja": "マスターズ・オブ・ユニバース: 黙示録",
-    "en": "Masters of the Universe: Revelation"
-  },
-  "gsc_productNum": 12063,
-  "price": 7000,
-  "release_date": [
+  "num" : "1775",
+  "price" : 7000,
+  "release_date" : [
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211129/12063/93398/large/a08e5eb3d81c66dd023aaabd9deef3a7.jpg",
-  "gender": "M",
-  "set": 278
+  "series" : {
+    "en" : "Masters of the Universe: Revelation",
+    "ja" : "マスターズ・オブ・ユニバース: 黙示録",
+    "ko" : "우주의 영웅들:새로운 진실"
+  },
+  "set" : 278
 }

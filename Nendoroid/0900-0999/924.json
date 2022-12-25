@@ -1,18 +1,18 @@
 {
-  "num": "924",
-  "name": {
-    "ko": "시온",
-    "ja": "ねんどろいど シオン (ねんどろいど しおん)"
+  "gender" : "M",
+  "gsc_productNum" : 7549,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180822/7549/53998/large/0df6ebd80d0cc76378dc40aea40225e4.jpg",
+  "name" : {
+    "ja" : "ねんどろいど シオン (ねんどろいど しおん)",
+    "ko" : "시온"
   },
-  "series": {
-    "ko": "브레이브 프론티어",
-    "ja": "ブレイブ フロンティアシリーズ"
-  },
-  "gsc_productNum": 7549,
-  "price": 4888,
-  "release_date": [
+  "num" : "924",
+  "price" : 4888,
+  "release_date" : [
     "2018/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180822/7549/53998/large/0df6ebd80d0cc76378dc40aea40225e4.jpg",
-  "gender": "M"
+  "series" : {
+    "ja" : "ブレイブ フロンティアシリーズ",
+    "ko" : "브레이브 프론티어"
+  }
 }

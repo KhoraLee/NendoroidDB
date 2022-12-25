@@ -1,21 +1,21 @@
 {
-  "num": "1633",
-  "name": {
-    "ko": "카이리 킹덤 하츠 III Ver.",
-    "ja": "ねんどろいど カイリ キングダム ハーツⅢVer. (ねんどろいど かいり きんぐだむ はーつⅢVer.)",
-    "en": "Nendoroid Kairi: Kingdom Hearts III Ver."
+  "gender" : "F",
+  "gsc_productNum" : 11195,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210517/11195/84676/large/78e2b1e76d5f93e54e472c32f3858832.jpg",
+  "name" : {
+    "en" : "Nendoroid Kairi: Kingdom Hearts III Ver.",
+    "ja" : "ねんどろいど カイリ キングダム ハーツⅢVer. (ねんどろいど かいり きんぐだむ はーつⅢVer.)",
+    "ko" : "카이리 킹덤 하츠 III Ver."
   },
-  "series": {
-    "ko": "킹덤 하츠",
-    "ja": "キングダム ハーツⅢ",
-    "en": "Kingdom Hearts III"
-  },
-  "gsc_productNum": 11195,
-  "price": 6200,
-  "release_date": [
+  "num" : "1633",
+  "price" : 6200,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210517/11195/84676/large/78e2b1e76d5f93e54e472c32f3858832.jpg",
-  "gender": "F",
-  "set": 206
+  "series" : {
+    "en" : "Kingdom Hearts III",
+    "ja" : "キングダム ハーツⅢ",
+    "ko" : "킹덤 하츠"
+  },
+  "set" : 206
 }

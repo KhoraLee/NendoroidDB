@@ -1,20 +1,20 @@
 {
-  "num": "591",
-  "name": {
-    "ko": "해커돌 1호",
-    "ja": "ねんどろいど ハッカドール1号 (ねんどろいど はっかどーるいちごう)",
-    "en": "Nendoroid Hacka Doll No.1"
+  "gender" : "F",
+  "gsc_productNum" : 5355,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151120/5355/36540/large/75367f7e312bacf9a69751be01644bc1.jpg",
+  "name" : {
+    "en" : "Nendoroid Hacka Doll No.1",
+    "ja" : "ねんどろいど ハッカドール1号 (ねんどろいど はっかどーるいちごう)",
+    "ko" : "해커돌 1호"
   },
-  "series": {
-    "ko": "해커돌",
-    "ja": "ハッカドール THE・あにめ～しょん",
-    "en": "Hacka Doll the Animation"
-  },
-  "gsc_productNum": 5355,
-  "price": 4278,
-  "release_date": [
+  "num" : "591",
+  "price" : 4278,
+  "release_date" : [
     "2016/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151120/5355/36540/large/75367f7e312bacf9a69751be01644bc1.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Hacka Doll the Animation",
+    "ja" : "ハッカドール THE・あにめ～しょん",
+    "ko" : "해커돌"
+  }
 }

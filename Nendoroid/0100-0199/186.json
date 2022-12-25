@@ -1,21 +1,21 @@
 {
-  "num": "186",
-  "name": {
-    "ko": "에르큘 바튼",
-    "ja": "ねんどろいど エルキュール・バートン (ねんどろいど えるきゅーる・ばーとん)",
-    "en": "Nendoroid Hercule Barton (ねんどろいど えるきゅーる・ばーとん)"
+  "gender" : "F",
+  "gsc_productNum" : 3242,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110802/3242/14882/large/30a17b2095d1581ebd51a3dcc0837b88.jpg",
+  "name" : {
+    "en" : "Nendoroid Hercule Barton (ねんどろいど えるきゅーる・ばーとん)",
+    "ja" : "ねんどろいど エルキュール・バートン (ねんどろいど えるきゅーる・ばーとん)",
+    "ko" : "에르큘 바튼"
   },
-  "series": {
-    "ko": "탐정 오페라 밀키 홈즈",
-    "ja": "探偵オペラ ミルキィホームズ",
-    "en": "Tantei Opera Milky Holmes"
-  },
-  "gsc_productNum": 3242,
-  "price": 3667,
-  "release_date": [
+  "num" : "186",
+  "price" : 3667,
+  "release_date" : [
     "2011/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110802/3242/14882/large/30a17b2095d1581ebd51a3dcc0837b88.jpg",
-  "gender": "F",
-  "set": 36
+  "series" : {
+    "en" : "Tantei Opera Milky Holmes",
+    "ja" : "探偵オペラ ミルキィホームズ",
+    "ko" : "탐정 오페라 밀키 홈즈"
+  },
+  "set" : 36
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1011",
-  "name": {
-    "ko": "잭 스켈링턴",
-    "ja": "ねんどろいど ジャック・スケリントン (ねんどろいど じゃっく・すけりんとん)",
-    "en": "Nendoroid Jack Skellington"
+  "gsc_productNum" : 7676,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181010/7676/55081/large/2cf3fa6b47b2d445d4b4478148a20b39.jpg",
+  "name" : {
+    "en" : "Nendoroid Jack Skellington",
+    "ja" : "ねんどろいど ジャック・スケリントン (ねんどろいど じゃっく・すけりんとん)",
+    "ko" : "잭 스켈링턴"
   },
-  "series": {
-    "ko": "크리스마스의 악몽",
-    "ja": "ナイトメアー・ビフォア・クリスマス",
-    "en": "The Nightmare Before Christmas"
-  },
-  "gsc_productNum": 7676,
-  "price": 5907,
-  "release_date": [
+  "num" : "1011",
+  "price" : 5907,
+  "release_date" : [
     "2019/05",
     "2020/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181010/7676/55081/large/2cf3fa6b47b2d445d4b4478148a20b39.jpg",
-  "set": 197
+  "series" : {
+    "en" : "The Nightmare Before Christmas",
+    "ja" : "ナイトメアー・ビフォア・クリスマス",
+    "ko" : "크리스마스의 악몽"
+  },
+  "set" : 197
 }

@@ -1,21 +1,21 @@
 {
-  "num": "367",
-  "name": {
-    "ko": "시라이 쿠로코",
-    "ja": "ねんどろいど 白井黒子 (ねんどろいど しらいくろこ)",
-    "en": "Nendoroid Kuroko Shirai (ねんどろいど しらいくろこ)"
+  "gender" : "F",
+  "gsc_productNum" : 4057,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130910/4057/26203/large/267f730693b3d77f52217d135b95cd6f.jpg",
+  "name" : {
+    "en" : "Nendoroid Kuroko Shirai (ねんどろいど しらいくろこ)",
+    "ja" : "ねんどろいど 白井黒子 (ねんどろいど しらいくろこ)",
+    "ko" : "시라이 쿠로코"
   },
-  "series": {
-    "ko": "어떤 과학의 초전자포",
-    "ja": "とある科学の超電磁砲S",
-    "en": "Toaru Kagaku no Railgun S"
-  },
-  "gsc_productNum": 4057,
-  "price": 3667,
-  "release_date": [
+  "num" : "367",
+  "price" : 3667,
+  "release_date" : [
     "2014/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130910/4057/26203/large/267f730693b3d77f52217d135b95cd6f.jpg",
-  "gender": "F",
-  "set": 84
+  "series" : {
+    "en" : "Toaru Kagaku no Railgun S",
+    "ja" : "とある科学の超電磁砲S",
+    "ko" : "어떤 과학의 초전자포"
+  },
+  "set" : 84
 }

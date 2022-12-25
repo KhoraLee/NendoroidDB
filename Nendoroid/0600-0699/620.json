@@ -1,21 +1,21 @@
 {
-  "num": "620",
-  "name": {
-    "ko": "젤다 바람의 택트 Ver.",
-    "ja": "ねんどろいど ゼルダ 風のタクトVer. (ねんどろいど ぜるだ かぜのたくとVer.)",
-    "en": "Nendoroid Zelda: The Wind Waker Ver."
+  "gender" : "F",
+  "gsc_productNum" : 5598,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160411/5598/38471/large/94f90da5449f297d3f7fa88594ba99ee.jpg",
+  "name" : {
+    "en" : "Nendoroid Zelda: The Wind Waker Ver.",
+    "ja" : "ねんどろいど ゼルダ 風のタクトVer. (ねんどろいど ぜるだ かぜのたくとVer.)",
+    "ko" : "젤다 바람의 택트 Ver."
   },
-  "series": {
-    "ko": "젤다의 전설",
-    "ja": "ゼルダの伝説 風のタクトHD",
-    "en": "The Legend of Zelda: The Wind Waker HD"
-  },
-  "gsc_productNum": 5598,
-  "price": 4888,
-  "release_date": [
+  "num" : "620",
+  "price" : 4888,
+  "release_date" : [
     "2016/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160411/5598/38471/large/94f90da5449f297d3f7fa88594ba99ee.jpg",
-  "gender": "F",
-  "set": 99
+  "series" : {
+    "en" : "The Legend of Zelda: The Wind Waker HD",
+    "ja" : "ゼルダの伝説 風のタクトHD",
+    "ko" : "젤다의 전설"
+  },
+  "set" : 99
 }

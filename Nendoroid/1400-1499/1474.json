@@ -1,21 +1,21 @@
 {
-  "num": "1474",
-  "name": {
-    "ko": "아오바 모카 스테이지 의상 Ver.",
-    "ja": "ねんどろいど 青葉モカ ステージ衣装Ver. (ねんどろいど あおばもか すてーじいしょうVer.)",
-    "en": "Nendoroid Moca Aoba: Stage Outfit Ver."
+  "gender" : "F",
+  "gsc_productNum" : 10132,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200925/10132/74997/large/9ac1fe8ddd771cc059dd64ddb47d8a7b.jpg",
+  "name" : {
+    "en" : "Nendoroid Moca Aoba: Stage Outfit Ver.",
+    "ja" : "ねんどろいど 青葉モカ ステージ衣装Ver. (ねんどろいど あおばもか すてーじいしょうVer.)",
+    "ko" : "아오바 모카 스테이지 의상 Ver."
   },
-  "series": {
-    "ko": "BanG Dream!",
-    "ja": "バンドリ！ ガールズバンドパーティ！",
-    "en": "BanG Dream! Girls Band Party!"
-  },
-  "gsc_productNum": 10132,
-  "price": 5300,
-  "release_date": [
+  "num" : "1474",
+  "price" : 5300,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200925/10132/74997/large/9ac1fe8ddd771cc059dd64ddb47d8a7b.jpg",
-  "gender": "F",
-  "set": 152
+  "series" : {
+    "en" : "BanG Dream! Girls Band Party!",
+    "ja" : "バンドリ！ ガールズバンドパーティ！",
+    "ko" : "BanG Dream!"
+  },
+  "set" : 152
 }

@@ -1,21 +1,21 @@
 {
-  "num": "326",
-  "name": {
-    "ko": "레이싱 미쿠 2013 Ver.",
-    "ja": "ねんどろいど レーシングミク 2013 Ver. (ねんどろいど れーしんぐみく 2013 Ver.)",
-    "en": "Nendoroid Racing Miku: 2013 Ver. (ねんどろいど れーしんぐみく 2013 Ver.)"
+  "gender" : "F",
+  "gsc_productNum" : 3867,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130321/3867/23138/large/900a21f3a2db434cb77b915a2c94431b.jpg",
+  "name" : {
+    "en" : "Nendoroid Racing Miku: 2013 Ver. (ねんどろいど れーしんぐみく 2013 Ver.)",
+    "ja" : "ねんどろいど レーシングミク 2013 Ver. (ねんどろいど れーしんぐみく 2013 Ver.)",
+    "ko" : "레이싱 미쿠 2013 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "初音ミク GTプロジェクト",
-    "en": "Racing Miku 2013 ver."
-  },
-  "gsc_productNum": 3867,
-  "price": 0,
-  "release_date": [
+  "num" : "326",
+  "price" : 0,
+  "release_date" : [
     "2013/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130321/3867/23138/large/900a21f3a2db434cb77b915a2c94431b.jpg",
-  "gender": "F",
-  "set": 23
+  "series" : {
+    "en" : "Racing Miku 2013 ver.",
+    "ja" : "初音ミク GTプロジェクト",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 23
 }

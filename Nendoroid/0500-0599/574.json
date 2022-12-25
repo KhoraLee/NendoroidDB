@@ -1,20 +1,20 @@
 {
-  "num": "574",
-  "name": {
-    "ko": "모리토모 노조미",
-    "ja": "ねんどろいど 森友望未 (ねんどろいど もりとものぞみ)",
-    "en": "Nendoroid Nozomi Moritomo"
+  "gender" : "F",
+  "gsc_productNum" : 5302,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151030/5302/36147/large/27aed021ab584573928035a49f237246.jpg",
+  "name" : {
+    "en" : "Nendoroid Nozomi Moritomo",
+    "ja" : "ねんどろいど 森友望未 (ねんどろいど もりとものぞみ)",
+    "ko" : "모리토모 노조미"
   },
-  "series": {
-    "ko": "롤링☆걸즈",
-    "ja": "ローリング☆ガールズ",
-    "en": "The Rolling Girls"
-  },
-  "gsc_productNum": 5302,
-  "price": 6112,
-  "release_date": [
+  "num" : "574",
+  "price" : 6112,
+  "release_date" : [
     "2016/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151030/5302/36147/large/27aed021ab584573928035a49f237246.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "The Rolling Girls",
+    "ja" : "ローリング☆ガールズ",
+    "ko" : "롤링☆걸즈"
+  }
 }

@@ -1,23 +1,23 @@
 {
-  "num": "473",
-  "name": {
-    "ko": "마리오",
-    "ja": "ねんどろいど マリオ (ねんどろいど まりお)",
-    "en": "Nendoroid Mario"
+  "gender" : "M",
+  "gsc_productNum" : 4720,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141107/4720/31289/large/e97968f66e265af7f84e25be1b5e7ccd.jpg",
+  "name" : {
+    "en" : "Nendoroid Mario",
+    "ja" : "ねんどろいど マリオ (ねんどろいど まりお)",
+    "ko" : "마리오"
   },
-  "series": {
-    "ko": "슈퍼 마리오",
-    "ja": "スーパーマリオ",
-    "en": "Super Mario"
-  },
-  "gsc_productNum": 4720,
-  "price": 4584,
-  "release_date": [
+  "num" : "473",
+  "price" : 4584,
+  "release_date" : [
     "2015/06",
     "2018/08",
     "2020/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20141107/4720/31289/large/e97968f66e265af7f84e25be1b5e7ccd.jpg",
-  "gender": "M",
-  "set": 93
+  "series" : {
+    "en" : "Super Mario",
+    "ja" : "スーパーマリオ",
+    "ko" : "슈퍼 마리오"
+  },
+  "set" : 93
 }

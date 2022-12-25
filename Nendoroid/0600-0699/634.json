@@ -1,21 +1,21 @@
 {
-  "num": "634",
-  "name": {
-    "ko": "무사시",
-    "ja": "ねんどろいど 武蔵 (ねんどろいど むさし)",
-    "en": "Nendoroid Musashi"
+  "gender" : "F",
+  "gsc_productNum" : 5808,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160719/5808/40127/large/d31210cc2d89a397f88d646bd43cac5b.jpg",
+  "name" : {
+    "en" : "Nendoroid Musashi",
+    "ja" : "ねんどろいど 武蔵 (ねんどろいど むさし)",
+    "ko" : "무사시"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 5808,
-  "price": 7944,
-  "release_date": [
+  "num" : "634",
+  "price" : 7944,
+  "release_date" : [
     "2016/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160719/5808/40127/large/d31210cc2d89a397f88d646bd43cac5b.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

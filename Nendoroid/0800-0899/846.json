@@ -1,21 +1,21 @@
 {
-  "num": "846",
-  "name": {
-    "ko": "셋츠 반리",
-    "ja": "ねんどろいど 摂津万里 (ねんどろいど せっつばんり)",
-    "en": "Nendoroid Banri Settsu"
+  "gender" : "M",
+  "gsc_productNum" : 6854,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171110/6854/48627/large/c8cfc47c83318eea62351e237825dc63.jpg",
+  "name" : {
+    "en" : "Nendoroid Banri Settsu",
+    "ja" : "ねんどろいど 摂津万里 (ねんどろいど せっつばんり)",
+    "ko" : "셋츠 반리"
   },
-  "series": {
-    "ko": "A3!",
-    "ja": "A3!",
-    "en": "A3!"
-  },
-  "gsc_productNum": 6854,
-  "price": 4584,
-  "release_date": [
+  "num" : "846",
+  "price" : 4584,
+  "release_date" : [
     "2018/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20171110/6854/48627/large/c8cfc47c83318eea62351e237825dc63.jpg",
-  "gender": "M",
-  "set": 165
+  "series" : {
+    "en" : "A3!",
+    "ja" : "A3!",
+    "ko" : "A3!"
+  },
+  "set" : 165
 }

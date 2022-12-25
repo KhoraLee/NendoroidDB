@@ -1,21 +1,21 @@
 {
-  "num": "1433",
-  "name": {
-    "ko": "오오타케마루",
-    "ja": "ねんどろいど 大嶽丸 (ねんどろいど おおたけまる)",
-    "en": "Nendoroid Otakemaru"
+  "gender" : "F",
+  "gsc_productNum" : 10470,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201202/10470/78058/large/1b6d4d9c30033352a3f29966d2f1c6ee.jpg",
+  "name" : {
+    "en" : "Nendoroid Otakemaru",
+    "ja" : "ねんどろいど 大嶽丸 (ねんどろいど おおたけまる)",
+    "ko" : "오오타케마루"
   },
-  "series": {
-    "ko": "음양사",
-    "ja": "陰陽師",
-    "en": "Onmyoji"
-  },
-  "gsc_productNum": 10470,
-  "price": 5800,
-  "release_date": [
+  "num" : "1433",
+  "price" : 5800,
+  "release_date" : [
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201202/10470/78058/large/1b6d4d9c30033352a3f29966d2f1c6ee.jpg",
-  "gender": "F",
-  "set": 180
+  "series" : {
+    "en" : "Onmyoji",
+    "ja" : "陰陽師",
+    "ko" : "음양사"
+  },
+  "set" : 180
 }

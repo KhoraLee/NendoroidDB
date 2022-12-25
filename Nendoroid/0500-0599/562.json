@@ -1,21 +1,21 @@
 {
-  "num": "562",
-  "name": {
-    "ko": "호시조라 린 연습복",
-    "ja": "ねんどろいど 星空凛 練習着Ver. (ねんどろいど ほしぞらりん れんしゅうぎVer.)",
-    "en": "Nendoroid Rin Hoshizora: Training Outfit Ver. (ねんどろいど ほしぞらりん れんしゅうぎVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 5228,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150915/5228/35514/large/a8bc0c0a5e374ff0b2c0eb671e29a689.jpg",
+  "name" : {
+    "en" : "Nendoroid Rin Hoshizora: Training Outfit Ver. (ねんどろいど ほしぞらりん れんしゅうぎVer.)",
+    "ja" : "ねんどろいど 星空凛 練習着Ver. (ねんどろいど ほしぞらりん れんしゅうぎVer.)",
+    "ko" : "호시조라 린 연습복"
   },
-  "series": {
-    "ko": "러브라이브!",
-    "ja": "ラブライブ！",
-    "en": "LoveLive!"
-  },
-  "gsc_productNum": 5228,
-  "price": 3565,
-  "release_date": [
+  "num" : "562",
+  "price" : 3565,
+  "release_date" : [
     "2016/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150915/5228/35514/large/a8bc0c0a5e374ff0b2c0eb671e29a689.jpg",
-  "gender": "F",
-  "set": 105
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 105
 }

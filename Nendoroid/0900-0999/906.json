@@ -1,21 +1,21 @@
 {
-  "num": "906",
-  "name": {
-    "ko": "리자 호크아이",
-    "ja": "ねんどろいど リザ・ホークアイ (ねんどろいど りざ・ほーくあい)",
-    "en": "Nendoroid Riza Hawkeye"
+  "gender" : "F",
+  "gsc_productNum" : 7169,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180330/7169/51119/large/3506c9a4f7e1f6571150c9c60aad43b4.jpg",
+  "name" : {
+    "en" : "Nendoroid Riza Hawkeye",
+    "ja" : "ねんどろいど リザ・ホークアイ (ねんどろいど りざ・ほーくあい)",
+    "ko" : "리자 호크아이"
   },
-  "series": {
-    "ko": "강철의 연금술사",
-    "ja": "鋼の錬金術師 FULLMETAL ALCHEMIST",
-    "en": "Fullmetal Alchemist: Brotherhood"
-  },
-  "gsc_productNum": 7169,
-  "price": 4888,
-  "release_date": [
+  "num" : "906",
+  "price" : 4888,
+  "release_date" : [
     "2018/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180330/7169/51119/large/3506c9a4f7e1f6571150c9c60aad43b4.jpg",
-  "gender": "F",
-  "set": 159
+  "series" : {
+    "en" : "Fullmetal Alchemist: Brotherhood",
+    "ja" : "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "ko" : "강철의 연금술사"
+  },
+  "set" : 159
 }

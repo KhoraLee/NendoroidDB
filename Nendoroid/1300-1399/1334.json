@@ -1,23 +1,23 @@
 {
-  "num": "1334",
-  "name": {
-    "ko": "아가츠마 젠이츠",
-    "ja": "ねんどろいど 我妻善逸 (ねんどろいど あがつまぜんいつ)",
-    "en": "Nendoroid Zenitsu Agatsuma"
+  "gender" : "M",
+  "gsc_productNum" : 9477,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200501/9477/69456/large/a3c5b6d217eabca546a0e3337f720a02.jpg",
+  "name" : {
+    "en" : "Nendoroid Zenitsu Agatsuma",
+    "ja" : "ねんどろいど 我妻善逸 (ねんどろいど あがつまぜんいつ)",
+    "ko" : "아가츠마 젠이츠"
   },
-  "series": {
-    "ko": "귀멸의 칼날",
-    "ja": "鬼滅の刃",
-    "en": "Demon Slayer: Kimetsu no Yaiba"
-  },
-  "gsc_productNum": 9477,
-  "price": 5900,
-  "release_date": [
+  "num" : "1334",
+  "price" : 5900,
+  "release_date" : [
     "2020/10",
     "2021/02",
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200501/9477/69456/large/a3c5b6d217eabca546a0e3337f720a02.jpg",
-  "gender": "M",
-  "set": 222
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "set" : 222
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1832",
-  "name": {
-    "ko": "잭 하울",
-    "ja": "ねんどろいど ジャック・ハウル (ねんどろいど じゃっく・はうる)",
-    "en": "Nendoroid Jack Howl"
+  "gender" : "M",
+  "gsc_productNum" : 12346,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220216/12346/95802/large/b8a2c563f0b7cb13b78c0ba6aec81e0a.jpg",
+  "name" : {
+    "en" : "Nendoroid Jack Howl",
+    "ja" : "ねんどろいど ジャック・ハウル (ねんどろいど じゃっく・はうる)",
+    "ko" : "잭 하울"
   },
-  "series": {
-    "ko": "디즈니 트위스티드 원더랜드",
-    "ja": "『ディズニー ツイステッドワンダーランド』",
-    "en": "Disney Twisted-Wonderland"
-  },
-  "gsc_productNum": 12346,
-  "price": 6600,
-  "release_date": [
+  "num" : "1832",
+  "price" : 6600,
+  "release_date" : [
     "2022/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220216/12346/95802/large/b8a2c563f0b7cb13b78c0ba6aec81e0a.jpg",
-  "gender": "M",
-  "set": 250
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 250
 }

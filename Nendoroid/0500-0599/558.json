@@ -1,23 +1,23 @@
 {
-  "num": "558",
-  "name": {
-    "ko": "카후우 치노",
-    "ja": "ねんどろいど チノ (ねんどろいど ちの)",
-    "en": "Nendoroid Chino"
+  "gender" : "F",
+  "gsc_productNum" : 5211,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150901/5211/35340/large/5f86bc5b9a605ff80454e72645816d43.jpg",
+  "name" : {
+    "en" : "Nendoroid Chino",
+    "ja" : "ねんどろいど チノ (ねんどろいど ちの)",
+    "ko" : "카후우 치노"
   },
-  "series": {
-    "ko": "주문은 토끼입니까?",
-    "ja": "ご注文はうさぎですか？",
-    "en": "Is the Order a Rabbit?"
-  },
-  "gsc_productNum": 5211,
-  "price": 5000,
-  "release_date": [
+  "num" : "558",
+  "price" : 5000,
+  "release_date" : [
     "2015/12",
     "2017/12",
     "2020/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150901/5211/35340/large/5f86bc5b9a605ff80454e72645816d43.jpg",
-  "gender": "F",
-  "set": 123
+  "series" : {
+    "en" : "Is the Order a Rabbit?",
+    "ja" : "ご注文はうさぎですか？",
+    "ko" : "주문은 토끼입니까?"
+  },
+  "set" : 123
 }

@@ -1,21 +1,21 @@
 {
-  "num": "123",
-  "name": {
-    "ko": "나카토 유키 소실 Ver.",
-    "ja": "ねんどろいど 長門有希 消失Ver. (ねんどろいど ながとゆき しょうしつver.)",
-    "en": "Nendoroid Yuki Nagato: Disappearance ver. (ねんどろいど ながとゆき しょうしつver.)"
+  "gender" : "F",
+  "gsc_productNum" : 2909,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100715/2909/10711/large/9a7f3ccd7d94151c2ecabf8e54cc50f9.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuki Nagato: Disappearance ver. (ねんどろいど ながとゆき しょうしつver.)",
+    "ja" : "ねんどろいど 長門有希 消失Ver. (ねんどろいど ながとゆき しょうしつver.)",
+    "ko" : "나카토 유키 소실 Ver."
   },
-  "series": {
-    "ko": "스즈미야 하루히의 소실",
-    "ja": "涼宮ハルヒの消失",
-    "en": "The Disappearance of Haruhi Suzumiya"
-  },
-  "gsc_productNum": 2909,
-  "price": 3667,
-  "release_date": [
+  "num" : "123",
+  "price" : 3667,
+  "release_date" : [
     "2010/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100715/2909/10711/large/9a7f3ccd7d94151c2ecabf8e54cc50f9.jpg",
-  "gender": "F",
-  "set": 37
+  "series" : {
+    "en" : "The Disappearance of Haruhi Suzumiya",
+    "ja" : "涼宮ハルヒの消失",
+    "ko" : "스즈미야 하루히의 소실"
+  },
+  "set" : 37
 }

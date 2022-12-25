@@ -1,21 +1,21 @@
 {
-  "num": "514",
-  "name": {
-    "ko": "류조",
-    "ja": "ねんどろいど 龍驤 (ねんどろいど りゅうじょう)",
-    "en": "Nendoroid Ryujo (ねんどろいど りゅうじょう)"
+  "gender" : "F",
+  "gsc_productNum" : 4927,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150402/4927/32935/large/3aacc17c8cea66109bee7c5ff0ab92e5.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryujo (ねんどろいど りゅうじょう)",
+    "ja" : "ねんどろいど 龍驤 (ねんどろいど りゅうじょう)",
+    "ko" : "류조"
   },
-  "series": {
-    "ko": "함대 컬렉션",
-    "ja": "艦隊これくしょん ‐艦これ‐",
-    "en": "Kantai Collection -KanColle-"
-  },
-  "gsc_productNum": 4927,
-  "price": 5093,
-  "release_date": [
+  "num" : "514",
+  "price" : 5093,
+  "release_date" : [
     "2015/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150402/4927/32935/large/3aacc17c8cea66109bee7c5ff0ab92e5.jpg",
-  "gender": "F",
-  "set": 89
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
 }

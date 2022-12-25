@@ -1,21 +1,21 @@
 {
-  "num": "517",
-  "name": {
-    "ko": "레이싱 미쿠 2015 Ver.",
-    "ja": "ねんどろいど レーシングミク 2015 Ver. (ねんどろいど れーしんぐみく 2015 Ver.)",
-    "en": "Nendoroid Racing Miku: 2015 Ver. (ねんどろいど れーしんぐみく 2015 Ver.)"
+  "gender" : "F",
+  "gsc_productNum" : 4962,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150420/4962/33131/large/36f63333bf9c6ac8e262cb2dc1577608.jpg",
+  "name" : {
+    "en" : "Nendoroid Racing Miku: 2015 Ver. (ねんどろいど れーしんぐみく 2015 Ver.)",
+    "ja" : "ねんどろいど レーシングミク 2015 Ver. (ねんどろいど れーしんぐみく 2015 Ver.)",
+    "ko" : "레이싱 미쿠 2015 Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "初音ミク GTプロジェクト",
-    "en": "Racing Miku 2015"
-  },
-  "gsc_productNum": 4962,
-  "price": -1,
-  "release_date": [
+  "num" : "517",
+  "price" : -1,
+  "release_date" : [
     "2015/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150420/4962/33131/large/36f63333bf9c6ac8e262cb2dc1577608.jpg",
-  "gender": "F",
-  "set": 23
+  "series" : {
+    "en" : "Racing Miku 2015",
+    "ja" : "初音ミク GTプロジェクト",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 23
 }

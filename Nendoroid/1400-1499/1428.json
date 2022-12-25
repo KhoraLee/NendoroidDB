@@ -1,21 +1,21 @@
 {
-  "num": "1428",
-  "name": {
-    "ko": "이이다 텐야",
-    "ja": "ねんどろいど 飯田天哉 (ねんどろいど いいだてんや)",
-    "en": "Nendoroid Tenya Iida"
+  "gender" : "M",
+  "gsc_productNum" : 9800,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200720/9800/72600/large/a69e0430ff18b207e77e875d89a0e111.jpg",
+  "name" : {
+    "en" : "Nendoroid Tenya Iida",
+    "ja" : "ねんどろいど 飯田天哉 (ねんどろいど いいだてんや)",
+    "ko" : "이이다 텐야"
   },
-  "series": {
-    "ko": "나의 히어로 아카데미아",
-    "ja": "僕のヒーローアカデミア",
-    "en": "My Hero Academia"
-  },
-  "gsc_productNum": 9800,
-  "price": 5500,
-  "release_date": [
+  "num" : "1428",
+  "price" : 5500,
+  "release_date" : [
     "2021/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200720/9800/72600/large/a69e0430ff18b207e77e875d89a0e111.jpg",
-  "gender": "M",
-  "set": 146
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 146
 }

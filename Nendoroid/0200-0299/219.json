@@ -1,21 +1,21 @@
 {
-  "num": "219",
-  "name": {
-    "ko": "타네시마 포푸라",
-    "ja": "ねんどろいど 種島ぽぷら (ねんどろいど たねしまぽぷら)",
-    "en": "Nendoroid Popura Taneshima (ねんどろいど たねしまぽぷら)"
+  "gender" : "F",
+  "gsc_productNum" : 3422,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111219/3422/16640/large/801d666d7e65b34bd27446a425295f52.jpg",
+  "name" : {
+    "en" : "Nendoroid Popura Taneshima (ねんどろいど たねしまぽぷら)",
+    "ja" : "ねんどろいど 種島ぽぷら (ねんどろいど たねしまぽぷら)",
+    "ko" : "타네시마 포푸라"
   },
-  "series": {
-    "ko": "WORKING!!",
-    "ja": "WORKING!!",
-    "en": "WORKING!!"
-  },
-  "gsc_productNum": 3422,
-  "price": 3981,
-  "release_date": [
+  "num" : "219",
+  "price" : 3981,
+  "release_date" : [
     "2012/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20111219/3422/16640/large/801d666d7e65b34bd27446a425295f52.jpg",
-  "gender": "F",
-  "set": 53
+  "series" : {
+    "en" : "WORKING!!",
+    "ja" : "WORKING!!",
+    "ko" : "WORKING!!"
+  },
+  "set" : 53
 }

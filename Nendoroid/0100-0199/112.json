@@ -1,21 +1,21 @@
 {
-  "num": "112",
-  "name": {
-    "ko": "코바야카와 린코",
-    "ja": "ねんどろいど 小早川凛子 (ねんどろいど こばやかわりんこ)",
-    "en": "Nendoroid Rinko Kobayakawa (ねんどろいど こばやかわりんこ)"
+  "gender" : "F",
+  "gsc_productNum" : 2873,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100526/2873/10228/large/2ef60b1758586659ddb976166ede7346.jpg",
+  "name" : {
+    "en" : "Nendoroid Rinko Kobayakawa (ねんどろいど こばやかわりんこ)",
+    "ja" : "ねんどろいど 小早川凛子 (ねんどろいど こばやかわりんこ)",
+    "ko" : "코바야카와 린코"
   },
-  "series": {
-    "ko": "러브 플러스",
-    "ja": "ラブプラス",
-    "en": "Love Plus"
-  },
-  "gsc_productNum": 2873,
-  "price": 3667,
-  "release_date": [
+  "num" : "112",
+  "price" : 3667,
+  "release_date" : [
     "2010/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20100526/2873/10228/large/2ef60b1758586659ddb976166ede7346.jpg",
-  "gender": "F",
-  "set": 34
+  "series" : {
+    "en" : "Love Plus",
+    "ja" : "ラブプラス",
+    "ko" : "러브 플러스"
+  },
+  "set" : 34
 }

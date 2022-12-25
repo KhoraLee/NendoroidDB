@@ -1,21 +1,21 @@
 {
-  "num": "1482",
-  "name": {
-    "ko": "마키나미 마리 플러그 슈트 Ver.",
-    "ja": "ねんどろいど 真希波・マリ・イラストリアス プラグスーツVer. (ねんどろいど まきなみ・まり・いらすとりあす ぷらぐすーつVer.)",
-    "en": "Nendoroid Mari Makinami Illustrious: Plugsuit Ver."
+  "gender" : "F",
+  "gsc_productNum" : 10286,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201022/10286/76267/large/e3873faaa801ed211c4b9fb7fd9d838e.jpg",
+  "name" : {
+    "en" : "Nendoroid Mari Makinami Illustrious: Plugsuit Ver.",
+    "ja" : "ねんどろいど 真希波・マリ・イラストリアス プラグスーツVer. (ねんどろいど まきなみ・まり・いらすとりあす ぷらぐすーつVer.)",
+    "ko" : "마키나미 마리 플러그 슈트 Ver."
   },
-  "series": {
-    "ko": "에반게리온",
-    "ja": "ヱヴァンゲリヲン新劇場版",
-    "en": "Rebuild of Evangelion"
-  },
-  "gsc_productNum": 10286,
-  "price": 5800,
-  "release_date": [
+  "num" : "1482",
+  "price" : 5800,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201022/10286/76267/large/e3873faaa801ed211c4b9fb7fd9d838e.jpg",
-  "gender": "F",
-  "set": 111
+  "series" : {
+    "en" : "Rebuild of Evangelion",
+    "ja" : "ヱヴァンゲリヲン新劇場版",
+    "ko" : "에반게리온"
+  },
+  "set" : 111
 }

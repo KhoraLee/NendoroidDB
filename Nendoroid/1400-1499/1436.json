@@ -1,20 +1,20 @@
 {
-  "num": "1436",
-  "name": {
-    "ko": "사펜디드",
-    "ja": "ねんどろいど サーフェンティット・ネイクス (ねんどろいど さーふぇんてぃっと・ねいくす)",
-    "en": "Nendoroid Saphentite Neikes"
+  "gender" : "F",
+  "gsc_productNum" : 9957,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200824/9957/73442/large/aad40d61bacd3f07e98c1546be4c9c27.jpg",
+  "name" : {
+    "en" : "Nendoroid Saphentite Neikes",
+    "ja" : "ねんどろいど サーフェンティット・ネイクス (ねんどろいど さーふぇんてぃっと・ねいくす)",
+    "ko" : "사펜디드"
   },
-  "series": {
-    "ko": "몬스터 아가씨의 의사 선생님",
-    "ja": "モンスター娘のお医者さん",
-    "en": "Monster Girl Doctor"
-  },
-  "gsc_productNum": 9957,
-  "price": 6100,
-  "release_date": [
+  "num" : "1436",
+  "price" : 6100,
+  "release_date" : [
     "2021/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200824/9957/73442/large/aad40d61bacd3f07e98c1546be4c9c27.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Monster Girl Doctor",
+    "ja" : "モンスター娘のお医者さん",
+    "ko" : "몬스터 아가씨의 의사 선생님"
+  }
 }

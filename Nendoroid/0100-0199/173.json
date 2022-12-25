@@ -1,21 +1,21 @@
 {
-  "num": "173",
-  "name": {
-    "ko": "이무카",
-    "ja": "ねんどろいど イムカ (ねんどろいど いむか)",
-    "en": "Nendoroid Imuka (ねんどろいど いむか)"
+  "gender" : "F",
+  "gsc_productNum" : 3157,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110427/3157/13778/large/b3c0f5f10c6e2c230a8b1a720a363edd.jpg",
+  "name" : {
+    "en" : "Nendoroid Imuka (ねんどろいど いむか)",
+    "ja" : "ねんどろいど イムカ (ねんどろいど いむか)",
+    "ko" : "이무카"
   },
-  "series": {
-    "ko": "전장의 발큐리아3",
-    "ja": "戦場のヴァルキュリア3",
-    "en": "Valkyria Chronicles 3"
-  },
-  "gsc_productNum": 3157,
-  "price": 3667,
-  "release_date": [
+  "num" : "173",
+  "price" : 3667,
+  "release_date" : [
     "2011/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20110427/3157/13778/large/b3c0f5f10c6e2c230a8b1a720a363edd.jpg",
-  "gender": "F",
-  "set": 45
+  "series" : {
+    "en" : "Valkyria Chronicles 3",
+    "ja" : "戦場のヴァルキュリア3",
+    "ko" : "전장의 발큐리아3"
+  },
+  "set" : 45
 }

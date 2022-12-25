@@ -1,22 +1,22 @@
 {
-  "num": "882",
-  "name": {
-    "ko": "자바미 유메코",
-    "ja": "ねんどろいど 蛇喰夢子 (ねんどろいど じゃばみゆめこ)",
-    "en": "Nendoroid Yumeko Jabami"
+  "gender" : "F",
+  "gsc_productNum" : 7030,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180201/7030/49963/large/236699e922f32b7a3f10b491dda92244.jpg",
+  "name" : {
+    "en" : "Nendoroid Yumeko Jabami",
+    "ja" : "ねんどろいど 蛇喰夢子 (ねんどろいど じゃばみゆめこ)",
+    "ko" : "자바미 유메코"
   },
-  "series": {
-    "ko": "카케구루이",
-    "ja": "賭ケグルイ××",
-    "en": "Kakegurui - Compulsive Gambler"
-  },
-  "gsc_productNum": 7030,
-  "price": 5900,
-  "release_date": [
+  "num" : "882",
+  "price" : 5900,
+  "release_date" : [
     "2018/07",
     "2022/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180201/7030/49963/large/236699e922f32b7a3f10b491dda92244.jpg",
-  "gender": "F",
-  "set": 166
+  "series" : {
+    "en" : "Kakegurui - Compulsive Gambler",
+    "ja" : "賭ケグルイ××",
+    "ko" : "카케구루이"
+  },
+  "set" : 166
 }

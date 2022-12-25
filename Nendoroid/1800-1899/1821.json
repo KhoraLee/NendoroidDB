@@ -1,21 +1,21 @@
 {
-  "num": "1821",
-  "name": {
-    "ko": "시라카미 후부키",
-    "ja": "ねんどろいど 白上フブキ (ねんどろいど しらかみふぶき)",
-    "en": "Nendoroid Shirakami Fubuki"
+  "gender" : "F",
+  "gsc_productNum" : 12309,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220203/12309/95064/large/5becbbb100de7b90b66e1658c3bd3ec5.jpg",
+  "name" : {
+    "en" : "Nendoroid Shirakami Fubuki",
+    "ja" : "ねんどろいど 白上フブキ (ねんどろいど しらかみふぶき)",
+    "ko" : "시라카미 후부키"
   },
-  "series": {
-    "ko": "홀로라이브",
-    "ja": "ホロライブプロダクション",
-    "en": "hololive production"
-  },
-  "gsc_productNum": 12309,
-  "price": 7299,
-  "release_date": [
+  "num" : "1821",
+  "price" : 7299,
+  "release_date" : [
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220203/12309/95064/large/5becbbb100de7b90b66e1658c3bd3ec5.jpg",
-  "gender": "F",
-  "set": 262
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브"
+  },
+  "set" : 262
 }

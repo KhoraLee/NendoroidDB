@@ -1,20 +1,20 @@
 {
-  "num": "915",
-  "name": {
-    "ko": "아틀라스",
-    "ja": "ねんどろいど Atlas (ねんどろいど あとらす)",
-    "en": "Nendoroid Atlas"
+  "gsc_productNum" : 7200,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180410/7200/51376/large/ab14f30f6f93c83a106fabb2da6ca564.jpg",
+  "name" : {
+    "en" : "Nendoroid Atlas",
+    "ja" : "ねんどろいど Atlas (ねんどろいど あとらす)",
+    "ko" : "아틀라스"
   },
-  "series": {
-    "ko": "포탈",
-    "ja": "Portal2",
-    "en": "Portal 2"
-  },
-  "gsc_productNum": 7200,
-  "price": 5907,
-  "release_date": [
+  "num" : "915",
+  "price" : 5907,
+  "release_date" : [
     "2018/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180410/7200/51376/large/ab14f30f6f93c83a106fabb2da6ca564.jpg",
-  "set": 178
+  "series" : {
+    "en" : "Portal 2",
+    "ja" : "Portal2",
+    "ko" : "포탈"
+  },
+  "set" : 178
 }

@@ -1,23 +1,23 @@
 {
-  "num": "903",
-  "name": {
-    "ko": "카가미하라 나데시코",
-    "ja": "ねんどろいど 各務原なでしこ (ねんどろいど かがみはらなでしこ)",
-    "en": "Nendoroid Nadeshiko Kagamihara"
+  "gender" : "F",
+  "gsc_productNum" : 7139,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180320/7139/50933/large/9adcdcb03fddfaecdd2af431b39d4251.jpg",
+  "name" : {
+    "en" : "Nendoroid Nadeshiko Kagamihara",
+    "ja" : "ねんどろいど 各務原なでしこ (ねんどろいど かがみはらなでしこ)",
+    "ko" : "카가미하라 나데시코"
   },
-  "series": {
-    "ko": "유루캠△",
-    "ja": "ゆるキャン△",
-    "en": "Laid-Back Camp"
-  },
-  "gsc_productNum": 7139,
-  "price": 5602,
-  "release_date": [
+  "num" : "903",
+  "price" : 5602,
+  "release_date" : [
     "2018/11",
     "2019/10",
     "2021/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20180320/7139/50933/large/9adcdcb03fddfaecdd2af431b39d4251.jpg",
-  "gender": "F",
-  "set": 173
+  "series" : {
+    "en" : "Laid-Back Camp",
+    "ja" : "ゆるキャン△",
+    "ko" : "유루캠△"
+  },
+  "set" : 173
 }

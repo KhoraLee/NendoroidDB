@@ -1,21 +1,21 @@
 {
-  "num": "675",
-  "name": {
-    "ko": "늠설아",
-    "ja": "ねんどろいど 凜雪鴉 (ねんどろいど りんせつあ)",
-    "en": "Nendoroid Lin Setsu A"
+  "gender" : "M",
+  "gsc_productNum" : 5947,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160913/5947/41306/large/2d701c5dee8842a4894fc45b19eafd26.jpg",
+  "name" : {
+    "en" : "Nendoroid Lin Setsu A",
+    "ja" : "ねんどろいど 凜雪鴉 (ねんどろいど りんせつあ)",
+    "ko" : "늠설아"
   },
-  "series": {
-    "ko": "Thunderbolt Fantasy 동리검유기",
-    "ja": "Thunderbolt Fantasy 東離劍遊紀",
-    "en": "Thunderbolt Fantasy Sword Seekers"
-  },
-  "gsc_productNum": 5947,
-  "price": 4888,
-  "release_date": [
+  "num" : "675",
+  "price" : 4888,
+  "release_date" : [
     "2017/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160913/5947/41306/large/2d701c5dee8842a4894fc45b19eafd26.jpg",
-  "gender": "M",
-  "set": 143
+  "series" : {
+    "en" : "Thunderbolt Fantasy Sword Seekers",
+    "ja" : "Thunderbolt Fantasy 東離劍遊紀",
+    "ko" : "Thunderbolt Fantasy 동리검유기"
+  },
+  "set" : 143
 }

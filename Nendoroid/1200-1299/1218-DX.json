@@ -1,22 +1,22 @@
 {
-  "num": "1218-DX",
-  "name": {
-    "ko": "캡틴 아메리카 엔드게임 에디션 DX Ver.",
-    "ja": "ねんどろいど キャプテン・アメリカ エンドゲーム・エディション DX Ver. (ねんどろいど きゃぷてん・あめりか えんどげーむ・えでぃしょん DX Ver.)",
-    "en": "Nendoroid Captain America: Endgame Edition DX Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8882,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191007/8882/64396/large/1c66e9e7e9e261fcbdad7ca4eba407eb.jpg",
+  "name" : {
+    "en" : "Nendoroid Captain America: Endgame Edition DX Ver.",
+    "ja" : "ねんどろいど キャプテン・アメリカ エンドゲーム・エディション DX Ver. (ねんどろいど きゃぷてん・あめりか えんどげーむ・えでぃしょん DX Ver.)",
+    "ko" : "캡틴 아메리카 엔드게임 에디션 DX Ver."
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ／エンドゲーム",
-    "en": "Avengers: Endgame"
-  },
-  "gsc_productNum": 8882,
-  "price": 8000,
-  "release_date": [
+  "num" : "1218-DX",
+  "price" : 8000,
+  "release_date" : [
     "2020/04",
     "2021/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191007/8882/64396/large/1c66e9e7e9e261fcbdad7ca4eba407eb.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1424",
-  "name": {
-    "ko": "뤄톈이",
-    "ja": "ねんどろいど 洛天依 (ねんどろいど るお・てんい)",
-    "en": "Nendoroid Luo Tianyi"
+  "gender" : "F",
+  "gsc_productNum" : 9844,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200729/9844/72656/large/c72ef8a6827712f9eb231cff412b67a1.jpg",
+  "name" : {
+    "en" : "Nendoroid Luo Tianyi",
+    "ja" : "ねんどろいど 洛天依 (ねんどろいど るお・てんい)",
+    "ko" : "뤄톈이"
   },
-  "series": {
-    "ko": "보컬로이드(VOCALOID)",
-    "ja": "Vsinger",
-    "en": "Vsinger"
-  },
-  "gsc_productNum": 9844,
-  "price": 5500,
-  "release_date": [
+  "num" : "1424",
+  "price" : 5500,
+  "release_date" : [
     "2021/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200729/9844/72656/large/c72ef8a6827712f9eb231cff412b67a1.jpg",
-  "gender": "F",
-  "set": 11
+  "series" : {
+    "en" : "Vsinger",
+    "ja" : "Vsinger",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 11
 }

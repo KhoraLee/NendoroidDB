@@ -1,21 +1,21 @@
 {
-  "num": "1520",
-  "name": {
-    "ko": "블랙위도우 Black Widow Ver.",
-    "ja": "ねんどろいど ブラックウィドウ Black Widow Ver. (ねんどろいど ぶらっくうぃどう ぶらっくうぃどう Ver.)",
-    "en": "Nendoroid Black Widow: Black Widow Ver."
+  "gender" : "F",
+  "gsc_productNum" : 10420,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201124/10420/77664/large/614990287cc552c3b371e8e1f191ccaa.jpg",
+  "name" : {
+    "en" : "Nendoroid Black Widow: Black Widow Ver.",
+    "ja" : "ねんどろいど ブラックウィドウ Black Widow Ver. (ねんどろいど ぶらっくうぃどう ぶらっくうぃどう Ver.)",
+    "ko" : "블랙위도우 Black Widow Ver."
   },
-  "series": {
-    "ko": "블랙 위도우",
-    "ja": "ブラックウィドウ",
-    "en": "Black Widow"
-  },
-  "gsc_productNum": 10420,
-  "price": 5000,
-  "release_date": [
+  "num" : "1520",
+  "price" : 5000,
+  "release_date" : [
     "2021/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201124/10420/77664/large/614990287cc552c3b371e8e1f191ccaa.jpg",
-  "gender": "F",
-  "set": 63
+  "series" : {
+    "en" : "Black Widow",
+    "ja" : "ブラックウィドウ",
+    "ko" : "블랙 위도우"
+  },
+  "set" : 63
 }

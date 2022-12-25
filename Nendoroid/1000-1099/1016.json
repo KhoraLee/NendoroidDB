@@ -1,22 +1,22 @@
 {
-  "num": "1016",
-  "name": {
-    "ko": "랜서/에레쉬키갈",
-    "ja": "ねんどろいど ランサー/エレシュキガル (ねんどろいど らんさー/えれしゅきがる)",
-    "en": "Nendoroid Lancer/Ereshkigal"
+  "gender" : "F",
+  "gsc_productNum" : 7697,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181016/7697/55205/large/013128dd7550fd028c3f20f72136f045.jpg",
+  "name" : {
+    "en" : "Nendoroid Lancer/Ereshkigal",
+    "ja" : "ねんどろいど ランサー/エレシュキガル (ねんどろいど らんさー/えれしゅきがる)",
+    "ko" : "랜서/에레쉬키갈"
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 7697,
-  "price": 5907,
-  "release_date": [
+  "num" : "1016",
+  "price" : 5907,
+  "release_date" : [
     "2019/05",
     "2021/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181016/7697/55205/large/013128dd7550fd028c3f20f72136f045.jpg",
-  "gender": "F",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

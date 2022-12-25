@@ -1,21 +1,21 @@
 {
-  "num": "069",
-  "name": {
-    "ko": "참회쨩",
-    "ja": "ねんどろいど ざんげちゃん (ざんげちゃん ねんどろいど)",
-    "en": "Nendoroid Zange-chan (ざんげちゃん ねんどろいど)"
+  "gender" : "F",
+  "gsc_productNum" : 2388,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2388/6802/large/63c199358e662d7d6d17ce962ea2c30e.jpg",
+  "name" : {
+    "en" : "Nendoroid Zange-chan (ざんげちゃん ねんどろいど)",
+    "ja" : "ねんどろいど ざんげちゃん (ざんげちゃん ねんどろいど)",
+    "ko" : "참회쨩"
   },
-  "series": {
-    "ko": "칸나기",
-    "ja": "かんなぎ",
-    "en": "Kannagi"
-  },
-  "gsc_productNum": 2388,
-  "price": 3667,
-  "release_date": [
+  "num" : "069",
+  "price" : 3667,
+  "release_date" : [
     "2009/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2388/6802/large/63c199358e662d7d6d17ce962ea2c30e.jpg",
-  "gender": "F",
-  "set": 19
+  "series" : {
+    "en" : "Kannagi",
+    "ja" : "かんなぎ",
+    "ko" : "칸나기"
+  },
+  "set" : 19
 }

@@ -1,21 +1,21 @@
 {
-  "num": "570",
-  "name": {
-    "ko": "유키 미쿠 Snow owl Ver.",
-    "ja": "ねんどろいど 雪ミク Snow Owl Ver. (ねんどろいど ゆきみく すのー おうる Ver.)",
-    "en": "Nendoroid Snow Miku: Snow Owl Ver."
+  "gender" : "F",
+  "gsc_productNum" : 5335,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151113/5335/36392/large/483425f80c21f2fffd9130a6307057bb.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow Miku: Snow Owl Ver.",
+    "ja" : "ねんどろいど 雪ミク Snow Owl Ver. (ねんどろいど ゆきみく すのー おうる Ver.)",
+    "ko" : "유키 미쿠 Snow owl Ver."
   },
-  "series": {
-    "ko": "하츠네미쿠",
-    "ja": "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "en": "Character Vocal Series 01: Hatsune Miku"
-  },
-  "gsc_productNum": 5335,
-  "price": 5602,
-  "release_date": [
+  "num" : "570",
+  "price" : 5602,
+  "release_date" : [
     "2016/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20151113/5335/36392/large/483425f80c21f2fffd9130a6307057bb.jpg",
-  "gender": "F",
-  "set": 31
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 31
 }

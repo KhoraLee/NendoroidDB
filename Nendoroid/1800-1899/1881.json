@@ -1,20 +1,20 @@
 {
-  "num": "1881",
-  "name": {
-    "ko": "코후네 우시오",
-    "ja": "ねんどろいど 小舟潮 (ねんどろいど こふねうしお)",
-    "en": "Nendoroid Ushio Kofune"
+  "gender" : "F",
+  "gsc_productNum" : 12729,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220523/12729/99195/large/9dec8a98b84b0b6ab91023b4b7ca8028.jpg",
+  "name" : {
+    "en" : "Nendoroid Ushio Kofune",
+    "ja" : "ねんどろいど 小舟潮 (ねんどろいど こふねうしお)",
+    "ko" : "코후네 우시오"
   },
-  "series": {
-    "ko": "서머타임 렌더",
-    "ja": "サマータイムレンダ",
-    "en": "Summer Time Rendering"
-  },
-  "gsc_productNum": 12729,
-  "price": 6200,
-  "release_date": [
+  "num" : "1881",
+  "price" : 6200,
+  "release_date" : [
     "2023/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220523/12729/99195/large/9dec8a98b84b0b6ab91023b4b7ca8028.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Summer Time Rendering",
+    "ja" : "サマータイムレンダ",
+    "ko" : "서머타임 렌더"
+  }
 }

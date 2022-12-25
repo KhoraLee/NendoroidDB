@@ -1,21 +1,21 @@
 {
-  "num": "1220",
-  "name": {
-    "ko": "아처/길가메시 제3 재림 Ver.",
-    "ja": "ねんどろいど アーチャー/ギルガメッシュ 第三再臨Ver. (ねんどろいど あーちゃー/ぎるがめっしゅ だいさんさいりんVer.)",
-    "en": "Nendoroid Archer/Gilgamesh: Third Ascension Ver."
+  "gender" : "M",
+  "gsc_productNum" : 8871,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191004/8871/64323/large/0f325fa982e4ca70418ec5544b537c34.jpg",
+  "name" : {
+    "en" : "Nendoroid Archer/Gilgamesh: Third Ascension Ver.",
+    "ja" : "ねんどろいど アーチャー/ギルガメッシュ 第三再臨Ver. (ねんどろいど あーちゃー/ぎるがめっしゅ だいさんさいりんVer.)",
+    "ko" : "아처/길가메시 제3 재림 Ver."
   },
-  "series": {
-    "ko": "페이트 시리즈",
-    "ja": "Fate/Grand Order",
-    "en": "Fate/Grand Order"
-  },
-  "gsc_productNum": 8871,
-  "price": 4800,
-  "release_date": [
+  "num" : "1220",
+  "price" : 4800,
+  "release_date" : [
     "2020/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191004/8871/64323/large/0f325fa982e4ca70418ec5544b537c34.jpg",
-  "gender": "M",
-  "set": 2
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
 }

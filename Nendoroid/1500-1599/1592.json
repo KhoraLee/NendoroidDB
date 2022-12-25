@@ -1,20 +1,20 @@
 {
-  "num": "1592",
-  "name": {
-    "ko": "타치코마 SAC 2045 Ver.",
-    "ja": "ねんどろいど タチコマ 攻殻機動隊 SAC_2045 (ねんどろいど たちこま こうかくきどうたい SAC_2045)",
-    "en": "Nendoroid Tachikoma: Ghost in the Shell: SAC_2045 Ver."
+  "gsc_productNum" : 11324,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210608/11324/85817/large/82499ca34cc53ccc9aa6c1558cf672cf.jpg",
+  "name" : {
+    "en" : "Nendoroid Tachikoma: Ghost in the Shell: SAC_2045 Ver.",
+    "ja" : "ねんどろいど タチコマ 攻殻機動隊 SAC_2045 (ねんどろいど たちこま こうかくきどうたい SAC_2045)",
+    "ko" : "타치코마 SAC 2045 Ver."
   },
-  "series": {
-    "ko": "공각기동대",
-    "ja": "攻殻機動隊 SAC_2045",
-    "en": "Ghost in the Shell: SAC_2045"
-  },
-  "gsc_productNum": 11324,
-  "price": 6500,
-  "release_date": [
+  "num" : "1592",
+  "price" : 6500,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210608/11324/85817/large/82499ca34cc53ccc9aa6c1558cf672cf.jpg",
-  "set": 6
+  "series" : {
+    "en" : "Ghost in the Shell: SAC_2045",
+    "ja" : "攻殻機動隊 SAC_2045",
+    "ko" : "공각기동대"
+  },
+  "set" : 6
 }

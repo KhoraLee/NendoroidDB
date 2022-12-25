@@ -1,21 +1,21 @@
 {
-  "num": "1414",
-  "name": {
-    "ko": "다자이 오사무 에어포트 Ver.",
-    "ja": "ねんどろいど 太宰治 ヱアポートVer. (ねんどろいど だざいおさむ えあぽーとVer.)",
-    "en": "Nendoroid Osamu Dazai: Airport Ver."
+  "gender" : "M",
+  "gsc_productNum" : 9771,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200714/9771/72158/large/bacf68f69989601fb6e718b9b3ac4ac3.jpg",
+  "name" : {
+    "en" : "Nendoroid Osamu Dazai: Airport Ver.",
+    "ja" : "ねんどろいど 太宰治 ヱアポートVer. (ねんどろいど だざいおさむ えあぽーとVer.)",
+    "ko" : "다자이 오사무 에어포트 Ver."
   },
-  "series": {
-    "ko": "문호 스트레이 독스",
-    "ja": "文豪ストレイドッグス",
-    "en": "Bungo Stray Dogs"
-  },
-  "gsc_productNum": 9771,
-  "price": 4600,
-  "release_date": [
+  "num" : "1414",
+  "price" : 4600,
+  "release_date" : [
     "2021/04"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200714/9771/72158/large/bacf68f69989601fb6e718b9b3ac4ac3.jpg",
-  "gender": "M",
-  "set": 137
+  "series" : {
+    "en" : "Bungo Stray Dogs",
+    "ja" : "文豪ストレイドッグス",
+    "ko" : "문호 스트레이 독스"
+  },
+  "set" : 137
 }

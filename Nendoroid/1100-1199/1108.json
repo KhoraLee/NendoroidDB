@@ -1,21 +1,21 @@
 {
-  "num": "1108",
-  "name": {
-    "ko": "시리",
-    "ja": "ねんどろいど シリ (ねんどろいど しり)",
-    "en": "Nendoroid Ciri"
+  "gender" : "F",
+  "gsc_productNum" : 8199,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190326/8199/59137/large/4e2841f31da8ddef353656f2c9f813e0.jpg",
+  "name" : {
+    "en" : "Nendoroid Ciri",
+    "ja" : "ねんどろいど シリ (ねんどろいど しり)",
+    "ko" : "시리"
   },
-  "series": {
-    "ko": "위쳐 시리즈",
-    "ja": "ウィッチャー3 ワイルドハント",
-    "en": "The Witcher 3: Wild Hunt"
-  },
-  "gsc_productNum": 8199,
-  "price": 5297,
-  "release_date": [
+  "num" : "1108",
+  "price" : 5297,
+  "release_date" : [
     "2019/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20190326/8199/59137/large/4e2841f31da8ddef353656f2c9f813e0.jpg",
-  "gender": "F",
-  "set": 175
+  "series" : {
+    "en" : "The Witcher 3: Wild Hunt",
+    "ja" : "ウィッチャー3 ワイルドハント",
+    "ko" : "위쳐 시리즈"
+  },
+  "set" : 175
 }

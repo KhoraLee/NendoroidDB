@@ -1,20 +1,20 @@
 {
-  "num": "818",
-  "name": {
-    "ko": "원더우먼 히어로즈 에디션",
-    "ja": "ねんどろいど ワンダーウーマン ヒーローズ・エディション (ねんどろいど わんだーうーまん ひーろーず・えでぃしょん)",
-    "en": "Nendoroid Wonder Woman: Hero\u0027s Edition"
+  "gender" : "F",
+  "gsc_productNum" : 6639,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170807/6639/46970/large/60cdb8ea46d3fbf3937f22cff37b1d8b.jpg",
+  "name" : {
+    "en" : "Nendoroid Wonder Woman: Hero's Edition",
+    "ja" : "ねんどろいど ワンダーウーマン ヒーローズ・エディション (ねんどろいど わんだーうーまん ひーろーず・えでぃしょん)",
+    "ko" : "원더우먼 히어로즈 에디션"
   },
-  "series": {
-    "ko": "원더우먼",
-    "ja": "ワンダーウーマン",
-    "en": "Wonder Woman"
-  },
-  "gsc_productNum": 6639,
-  "price": 4991,
-  "release_date": [
+  "num" : "818",
+  "price" : 4991,
+  "release_date" : [
     "2018/02"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170807/6639/46970/large/60cdb8ea46d3fbf3937f22cff37b1d8b.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Wonder Woman",
+    "ja" : "ワンダーウーマン",
+    "ko" : "원더우먼"
+  }
 }

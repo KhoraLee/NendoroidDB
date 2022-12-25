@@ -1,21 +1,21 @@
 {
-  "num": "1792",
-  "name": {
-    "ko": "우루하 루시아",
-    "ja": "ねんどろいど 潤羽るしあ (ねんどろいど うるはるしあ)",
-    "en": "Nendoroid Uruha Rushia"
+  "gender" : "F",
+  "gsc_productNum" : 12223,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220117/12223/94279/large/cab27ca9424cebaf9b808b90939072bb.jpg",
+  "name" : {
+    "en" : "Nendoroid Uruha Rushia",
+    "ja" : "ねんどろいど 潤羽るしあ (ねんどろいど うるはるしあ)",
+    "ko" : "우루하 루시아"
   },
-  "series": {
-    "ko": "홀로라이브",
-    "ja": "ホロライブプロダクション",
-    "en": "hololive production"
-  },
-  "gsc_productNum": 12223,
-  "price": 6200,
-  "release_date": [
+  "num" : "1792",
+  "price" : 6200,
+  "release_date" : [
     "2022/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220117/12223/94279/large/cab27ca9424cebaf9b808b90939072bb.jpg",
-  "gender": "F",
-  "set": 262
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브"
+  },
+  "set" : 262
 }

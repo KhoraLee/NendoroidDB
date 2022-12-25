@@ -1,21 +1,21 @@
 {
-  "num": "806",
-  "name": {
-    "ko": "하이바 리에프",
-    "ja": "ねんどろいど 灰羽リエーフ (ねんどろいど はいばりえーふ)",
-    "en": "Nendoroid Lev Haiba"
+  "gender" : "M",
+  "gsc_productNum" : 6609,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170725/6609/46744/large/8d7ef299c8ebbc7dc121774fb4e1000e.jpg",
+  "name" : {
+    "en" : "Nendoroid Lev Haiba",
+    "ja" : "ねんどろいど 灰羽リエーフ (ねんどろいど はいばりえーふ)",
+    "ko" : "하이바 리에프"
   },
-  "series": {
-    "ko": "하이큐!!",
-    "ja": "ハイキュー!!",
-    "en": "Haikyu!!"
-  },
-  "gsc_productNum": 6609,
-  "price": 4481,
-  "release_date": [
+  "num" : "806",
+  "price" : 4481,
+  "release_date" : [
     "2018/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20170725/6609/46744/large/8d7ef299c8ebbc7dc121774fb4e1000e.jpg",
-  "gender": "M",
-  "set": 110
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 110
 }

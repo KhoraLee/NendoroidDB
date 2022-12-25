@@ -1,21 +1,21 @@
 {
-  "num": "1793",
-  "name": {
-    "ko": "메카트론",
-    "ja": "ねんどろいど メガトロン (ねんどろいど めがとろん)",
-    "en": "Nendoroid Megatron"
+  "gender" : "M",
+  "gsc_productNum" : 12171,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211227/12171/93743/large/535d6bd463283595ecfa7eb6d2661e1a.jpg",
+  "name" : {
+    "en" : "Nendoroid Megatron",
+    "ja" : "ねんどろいど メガトロン (ねんどろいど めがとろん)",
+    "ko" : "메카트론"
   },
-  "series": {
-    "ko": "트랜스포머 시리즈",
-    "ja": "トランスフォーマー",
-    "en": "Transformers"
-  },
-  "gsc_productNum": 12171,
-  "price": 5500,
-  "release_date": [
+  "num" : "1793",
+  "price" : 5500,
+  "release_date" : [
     "2022/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211227/12171/93743/large/535d6bd463283595ecfa7eb6d2661e1a.jpg",
-  "gender": "M",
-  "set": 241
+  "series" : {
+    "en" : "Transformers",
+    "ja" : "トランスフォーマー",
+    "ko" : "트랜스포머 시리즈"
+  },
+  "set" : 241
 }

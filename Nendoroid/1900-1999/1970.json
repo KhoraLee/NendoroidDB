@@ -1,20 +1,20 @@
 {
-  "num": "1970",
-  "name": {
-    "ja": "ねんどろいど ジル・スティングレイ (ねんどろいど じる・すてぃんぐれい)",
-    "en": "Nendoroid Jill Stingray",
-    "ko": "질 스팅레이"
+  "gender" : "F",
+  "gsc_productNum" : 13283,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220921/13283/104692/large/acb2e17f1c9d687e4acbafc6b1c8bdb4.jpg",
+  "name" : {
+    "en" : "Nendoroid Jill Stingray",
+    "ja" : "ねんどろいど ジル・スティングレイ (ねんどろいど じる・すてぃんぐれい)",
+    "ko" : "질 스팅레이"
   },
-  "series": {
-    "ja": "VA-11_HALL-A",
-    "en": "VA-11 HALL-A: Cyberpunk Bartender Action",
-    "ko": "VA-11 HALL-A: 사이버펑크 바텐더 액션"
-  },
-  "gsc_productNum": 13283,
-  "price": 7300,
-  "release_date": [
+  "num" : "1970",
+  "price" : 7300,
+  "release_date" : [
     "2023/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220921/13283/104692/large/acb2e17f1c9d687e4acbafc6b1c8bdb4.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "VA-11 HALL-A: Cyberpunk Bartender Action",
+    "ja" : "VA-11_HALL-A",
+    "ko" : "VA-11 HALL-A: 사이버펑크 바텐더 액션"
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "num": "1758",
-  "name": {
-    "ko": "울버린",
-    "ja": "ねんどろいど ウルヴァリン (ねんどろいど うるゔぁりん)",
-    "en": "Nendoroid Wolverine"
+  "gender" : "M",
+  "gsc_productNum" : 12009,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211116/12009/92150/large/64cda8861773bcb10ffd2cfe284ca406.jpg",
+  "name" : {
+    "en" : "Nendoroid Wolverine",
+    "ja" : "ねんどろいど ウルヴァリン (ねんどろいど うるゔぁりん)",
+    "ko" : "울버린"
   },
-  "series": {
-    "ko": "마블 코믹스",
-    "ja": "Marvel Comics",
-    "en": "Marvel Comics"
-  },
-  "gsc_productNum": 12009,
-  "price": 8000,
-  "release_date": [
+  "num" : "1758",
+  "price" : 8000,
+  "release_date" : [
     "2022/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211116/12009/92150/large/64cda8861773bcb10ffd2cfe284ca406.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Marvel Comics",
+    "ja" : "Marvel Comics",
+    "ko" : "마블 코믹스"
+  },
+  "set" : 63
 }

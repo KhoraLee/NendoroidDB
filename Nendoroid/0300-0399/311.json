@@ -1,21 +1,21 @@
 {
-  "num": "311",
-  "name": {
-    "ko": "미나미 카나",
-    "ja": "ねんどろいど 南 夏奈 (ねんどろいど みなみ かな)",
-    "en": "Nendoroid Kana Minami (ねんどろいど みなみ かな)"
+  "gender" : "F",
+  "gsc_productNum" : 3829,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130128/3829/22527/large/d7830b7f25d173620cf34bb462049260.jpg",
+  "name" : {
+    "en" : "Nendoroid Kana Minami (ねんどろいど みなみ かな)",
+    "ja" : "ねんどろいど 南 夏奈 (ねんどろいど みなみ かな)",
+    "ko" : "미나미 카나"
   },
-  "series": {
-    "ko": "미나미가",
-    "ja": "みなみけ ただいま",
-    "en": "Minamike"
-  },
-  "gsc_productNum": 3829,
-  "price": 3981,
-  "release_date": [
+  "num" : "311",
+  "price" : 3981,
+  "release_date" : [
     "2013/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130128/3829/22527/large/d7830b7f25d173620cf34bb462049260.jpg",
-  "gender": "F",
-  "set": 29
+  "series" : {
+    "en" : "Minamike",
+    "ja" : "みなみけ ただいま",
+    "ko" : "미나미가"
+  },
+  "set" : 29
 }

@@ -1,21 +1,21 @@
 {
-  "num": "618",
-  "name": {
-    "ko": "캡틴 아메리카 히어로즈 에디션",
-    "ja": "ねんどろいど キャプテン・アメリカ ヒーローズ・エディション (ねんどろいど きゃぷてん・あめりか ひーろーず・えでぃしょん)",
-    "en": "Nendoroid Captain America: Hero\u0027s Edition"
+  "gender" : "M",
+  "gsc_productNum" : 5576,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160401/5576/38340/large/29777c6dae63e5bf1382a84055a625fc.jpg",
+  "name" : {
+    "en" : "Nendoroid Captain America: Hero's Edition",
+    "ja" : "ねんどろいど キャプテン・アメリカ ヒーローズ・エディション (ねんどろいど きゃぷてん・あめりか ひーろーず・えでぃしょん)",
+    "ko" : "캡틴 아메리카 히어로즈 에디션"
   },
-  "series": {
-    "ko": "어벤져스",
-    "ja": "アベンジャーズ/エイジ・オブ・ウルトロン",
-    "en": "Avengers: Age of Ultron"
-  },
-  "gsc_productNum": 5576,
-  "price": 5602,
-  "release_date": [
+  "num" : "618",
+  "price" : 5602,
+  "release_date" : [
     "2016/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160401/5576/38340/large/29777c6dae63e5bf1382a84055a625fc.jpg",
-  "gender": "M",
-  "set": 63
+  "series" : {
+    "en" : "Avengers: Age of Ultron",
+    "ja" : "アベンジャーズ/エイジ・オブ・ウルトロン",
+    "ko" : "어벤져스"
+  },
+  "set" : 63
 }

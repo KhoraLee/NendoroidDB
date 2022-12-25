@@ -1,21 +1,21 @@
 {
-  "num": "092",
-  "name": {
-    "ko": "키리사메 마리사",
-    "ja": "ねんどろいど 霧雨魔理沙 (ねんどろいど きりさめまりさ)",
-    "en": "Nendoroid Marisa Kirisame (ねんどろいど きりさめまりさ)"
+  "gender" : "F",
+  "gsc_productNum" : 2701,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2701/8035/large/e0d9500d4443cff9db8662a6d22bed3d.jpg",
+  "name" : {
+    "en" : "Nendoroid Marisa Kirisame (ねんどろいど きりさめまりさ)",
+    "ja" : "ねんどろいど 霧雨魔理沙 (ねんどろいど きりさめまりさ)",
+    "ko" : "키리사메 마리사"
   },
-  "series": {
-    "ko": "동방 프로젝트",
-    "ja": "東方Project",
-    "en": "Touhou Project"
-  },
-  "gsc_productNum": 2701,
-  "price": 3143,
-  "release_date": [
+  "num" : "092",
+  "price" : 3143,
+  "release_date" : [
     "2011/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091023/2701/8035/large/e0d9500d4443cff9db8662a6d22bed3d.jpg",
-  "gender": "F",
-  "set": 22
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
 }

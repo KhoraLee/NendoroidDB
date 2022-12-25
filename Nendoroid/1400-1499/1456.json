@@ -1,20 +1,20 @@
 {
-  "num": "1456",
-  "name": {
-    "ko": "칸베 다이스케",
-    "ja": "ねんどろいど 神戸大助 (ねんどろいど かんべだいすけ)",
-    "en": "Nendoroid Daisuke Kambe"
+  "gender" : "M",
+  "gsc_productNum" : 10047,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200911/10047/74214/large/de35ed6ed7aad52be96894a86862ce27.jpg",
+  "name" : {
+    "en" : "Nendoroid Daisuke Kambe",
+    "ja" : "ねんどろいど 神戸大助 (ねんどろいど かんべだいすけ)",
+    "ko" : "칸베 다이스케"
   },
-  "series": {
-    "ko": "부호형사",
-    "ja": "富豪刑事 Balance:UNLIMITED",
-    "en": "The Millionaire Detective - Balance: Unlimited"
-  },
-  "gsc_productNum": 10047,
-  "price": 5200,
-  "release_date": [
+  "num" : "1456",
+  "price" : 5200,
+  "release_date" : [
     "2021/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20200911/10047/74214/large/de35ed6ed7aad52be96894a86862ce27.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "The Millionaire Detective - Balance: Unlimited",
+    "ja" : "富豪刑事 Balance:UNLIMITED",
+    "ko" : "부호형사"
+  }
 }

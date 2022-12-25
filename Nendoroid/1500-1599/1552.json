@@ -1,21 +1,21 @@
 {
-  "num": "1552",
-  "name": {
-    "ko": "조니 실버핸드",
-    "ja": "ねんどろいど ジョニー・シルヴァーハンド (ねんどろいど じょにー・しるゔぁーはんど)",
-    "en": "Nendoroid Johnny Silverhand"
+  "gender" : "M",
+  "gsc_productNum" : 10667,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210113/10667/79754/large/49e744203354585d8ec7778688bdf80d.jpg",
+  "name" : {
+    "en" : "Nendoroid Johnny Silverhand",
+    "ja" : "ねんどろいど ジョニー・シルヴァーハンド (ねんどろいど じょにー・しるゔぁーはんど)",
+    "ko" : "조니 실버핸드"
   },
-  "series": {
-    "ko": "사이버펑크 2077",
-    "ja": "サイバーパンク2077",
-    "en": "Cyberpunk 2077"
-  },
-  "gsc_productNum": 10667,
-  "price": 5500,
-  "release_date": [
+  "num" : "1552",
+  "price" : 5500,
+  "release_date" : [
     "2021/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210113/10667/79754/large/49e744203354585d8ec7778688bdf80d.jpg",
-  "gender": "M",
-  "set": 253
+  "series" : {
+    "en" : "Cyberpunk 2077",
+    "ja" : "サイバーパンク2077",
+    "ko" : "사이버펑크 2077"
+  },
+  "set" : 253
 }

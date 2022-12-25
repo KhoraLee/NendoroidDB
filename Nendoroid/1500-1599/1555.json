@@ -1,21 +1,21 @@
 {
-  "num": "1555",
-  "name": {
-    "ko": "리쿠 III Ver.",
-    "ja": "ねんどろいど リク キングダム ハーツⅢVer. (ねんどろいど りく きんぐだむ はーつⅢVer.)",
-    "en": "Nendoroid Riku: Kingdom Hearts III Ver."
+  "gender" : "M",
+  "gsc_productNum" : 10684,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210119/10684/79893/large/f31b062cc95e468f5ad2330c8c44002f.jpg",
+  "name" : {
+    "en" : "Nendoroid Riku: Kingdom Hearts III Ver.",
+    "ja" : "ねんどろいど リク キングダム ハーツⅢVer. (ねんどろいど りく きんぐだむ はーつⅢVer.)",
+    "ko" : "리쿠 III Ver."
   },
-  "series": {
-    "ko": "킹덤 하츠",
-    "ja": "キングダム ハーツⅢ",
-    "en": "Kingdom Hearts III"
-  },
-  "gsc_productNum": 10684,
-  "price": 6200,
-  "release_date": [
+  "num" : "1555",
+  "price" : 6200,
+  "release_date" : [
     "2021/07"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210119/10684/79893/large/f31b062cc95e468f5ad2330c8c44002f.jpg",
-  "gender": "M",
-  "set": 206
+  "series" : {
+    "en" : "Kingdom Hearts III",
+    "ja" : "キングダム ハーツⅢ",
+    "ko" : "킹덤 하츠"
+  },
+  "set" : 206
 }

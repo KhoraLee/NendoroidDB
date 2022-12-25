@@ -1,21 +1,21 @@
 {
-  "num": "1818",
-  "name": {
-    "ko": "시로모",
-    "ja": "ねんどろいど シロモ (ねんどろいど しろも)",
-    "en": "Nendoroid Shiromo"
+  "gender" : "M",
+  "gsc_productNum" : 12333,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220215/12333/95354/large/fa9f6b6cc21212ca50bc87f4bfd22ca3.jpg",
+  "name" : {
+    "en" : "Nendoroid Shiromo",
+    "ja" : "ねんどろいど シロモ (ねんどろいど しろも)",
+    "ko" : "시로모"
   },
-  "series": {
-    "ko": "푸이푸이 모루카",
-    "ja": "PUI PUI モルカー",
-    "en": "Pui Pui Molcar"
-  },
-  "gsc_productNum": 12333,
-  "price": 4200,
-  "release_date": [
+  "num" : "1818",
+  "price" : 4200,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20220215/12333/95354/large/fa9f6b6cc21212ca50bc87f4bfd22ca3.jpg",
-  "gender": "M",
-  "set": 284
+  "series" : {
+    "en" : "Pui Pui Molcar",
+    "ja" : "PUI PUI モルカー",
+    "ko" : "푸이푸이 모루카"
+  },
+  "set" : 284
 }

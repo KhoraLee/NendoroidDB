@@ -1,20 +1,20 @@
 {
-  "num": "460",
-  "name": {
-    "ko": "아오바 냐루코",
-    "ja": "ねんどろいど 青葉鳴子 (ねんどろいど あおばなるこ)",
-    "en": "Nendoroid Naruko Aoba (ねんどろいど あおばなるこ)"
+  "gender" : "F",
+  "gsc_productNum" : 4639,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140925/4639/30649/large/6df987797ed9ca62a974002d17f7310d.jpg",
+  "name" : {
+    "en" : "Nendoroid Naruko Aoba (ねんどろいど あおばなるこ)",
+    "ja" : "ねんどろいど 青葉鳴子 (ねんどろいど あおばなるこ)",
+    "ko" : "아오바 냐루코"
   },
-  "series": {
-    "ko": "마법소녀대전",
-    "ja": "魔法少女大戦",
-    "en": "Magica Wars"
-  },
-  "gsc_productNum": 4639,
-  "price": 4584,
-  "release_date": [
+  "num" : "460",
+  "price" : 4584,
+  "release_date" : [
     "2015/01"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20140925/4639/30649/large/6df987797ed9ca62a974002d17f7310d.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Magica Wars",
+    "ja" : "魔法少女大戦",
+    "ko" : "마법소녀대전"
+  }
 }

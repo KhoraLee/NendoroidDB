@@ -1,21 +1,21 @@
 {
-  "num": "094",
-  "name": {
-    "ko": "타이나카 리츠",
-    "ja": "ねんどろいど 田井中 律 (ねんどろいど　たいなか りつ )",
-    "en": "Nendoroid Ritsu Tainaka (ねんどろいど　たいなか りつ)"
+  "gender" : "F",
+  "gsc_productNum" : 2733,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091111/2733/8324/large/85d888bcbdfe42bb4973051cec5811f3.jpg",
+  "name" : {
+    "en" : "Nendoroid Ritsu Tainaka (ねんどろいど　たいなか りつ)",
+    "ja" : "ねんどろいど 田井中 律 (ねんどろいど　たいなか りつ )",
+    "ko" : "타이나카 리츠"
   },
-  "series": {
-    "ko": "케이온!",
-    "ja": "けいおん！",
-    "en": "K-ON!"
-  },
-  "gsc_productNum": 2733,
-  "price": 4190,
-  "release_date": [
+  "num" : "094",
+  "price" : 4190,
+  "release_date" : [
     "2011/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20091111/2733/8324/large/85d888bcbdfe42bb4973051cec5811f3.jpg",
-  "gender": "F",
-  "set": 27
+  "series" : {
+    "en" : "K-ON!",
+    "ja" : "けいおん！",
+    "ko" : "케이온!"
+  },
+  "set" : 27
 }

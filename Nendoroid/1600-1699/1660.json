@@ -1,21 +1,21 @@
 {
-  "num": "1660",
-  "name": {
-    "ko": "사리",
-    "ja": "ねんどろいど サリー (ねんどろいど さりー)",
-    "en": "Nendoroid Sally"
+  "gender" : "F",
+  "gsc_productNum" : 11310,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210603/11310/85534/large/61a95c54eb3c7dc5629a10d306d7473d.jpg",
+  "name" : {
+    "en" : "Nendoroid Sally",
+    "ja" : "ねんどろいど サリー (ねんどろいど さりー)",
+    "ko" : "사리"
   },
-  "series": {
-    "ko": "아픈 건 싫으니까 방어력에 올인하려고 합니다",
-    "ja": "痛いのは嫌なので防御力に極振りしたいと思います。",
-    "en": "BOFURI: I Don\u0027t Want to Get Hurt, so I\u0027ll Max Out My Defense."
-  },
-  "gsc_productNum": 11310,
-  "price": 6600,
-  "release_date": [
+  "num" : "1660",
+  "price" : 6600,
+  "release_date" : [
     "2021/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20210603/11310/85534/large/61a95c54eb3c7dc5629a10d306d7473d.jpg",
-  "gender": "F",
-  "set": 264
+  "series" : {
+    "en" : "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+    "ja" : "痛いのは嫌なので防御力に極振りしたいと思います。",
+    "ko" : "아픈 건 싫으니까 방어력에 올인하려고 합니다"
+  },
+  "set" : 264
 }

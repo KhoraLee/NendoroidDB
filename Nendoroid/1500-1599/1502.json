@@ -1,21 +1,21 @@
 {
-  "num": "1502",
-  "name": {
-    "ko": "죠셉 죠스타",
-    "ja": "ねんどろいど ジョセフ・ジョースター (ねんどろいど ジョセフ・ジョースター)",
-    "en": "Nendoroid Joseph Joestar"
+  "gender" : "M",
+  "gsc_productNum" : 10302,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201026/10302/76376/large/fc063546b839b84abc58407c927f2f89.jpg",
+  "name" : {
+    "en" : "Nendoroid Joseph Joestar",
+    "ja" : "ねんどろいど ジョセフ・ジョースター (ねんどろいど ジョセフ・ジョースター)",
+    "ko" : "죠셉 죠스타"
   },
-  "series": {
-    "ko": "죠죠의 기묘한 모험",
-    "ja": "TVアニメ『ジョジョの奇妙な冒険』",
-    "en": "JoJo\u0027s Bizarre Adventure"
-  },
-  "gsc_productNum": 10302,
-  "price": 5478,
-  "release_date": [
+  "num" : "1502",
+  "price" : 5478,
+  "release_date" : [
     "2021/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20201026/10302/76376/large/fc063546b839b84abc58407c927f2f89.jpg",
-  "gender": "M",
-  "set": 191
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure",
+    "ja" : "TVアニメ『ジョジョの奇妙な冒険』",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 191
 }

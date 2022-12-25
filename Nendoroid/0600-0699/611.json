@@ -1,20 +1,20 @@
 {
-  "num": "611",
-  "name": {
-    "ko": "갸루코",
-    "ja": "ねんどろいど ギャル子 (ねんどろいど ぎゃるこ)",
-    "en": "Nendoroid Galko"
+  "gender" : "F",
+  "gsc_productNum" : 5565,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160324/5565/38206/large/41a07e9101fbec6395088323ebbffe38.jpg",
+  "name" : {
+    "en" : "Nendoroid Galko",
+    "ja" : "ねんどろいど ギャル子 (ねんどろいど ぎゃるこ)",
+    "ko" : "갸루코"
   },
-  "series": {
-    "ko": "가르쳐줘! 갸루코짱",
-    "ja": "おしえて！ ギャル子ちゃん",
-    "en": "Please Tell Me! Galko-chan"
-  },
-  "gsc_productNum": 5565,
-  "price": 4888,
-  "release_date": [
+  "num" : "611",
+  "price" : 4888,
+  "release_date" : [
     "2016/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160324/5565/38206/large/41a07e9101fbec6395088323ebbffe38.jpg",
-  "gender": "F"
+  "series" : {
+    "en" : "Please Tell Me! Galko-chan",
+    "ja" : "おしえて！ ギャル子ちゃん",
+    "ko" : "가르쳐줘! 갸루코짱"
+  }
 }

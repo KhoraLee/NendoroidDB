@@ -1,20 +1,20 @@
 {
-  "num": "535",
-  "name": {
-    "ko": "시렌 슈퍼 무버블 에디션",
-    "ja": "ねんどろいど シレン スーパームーバブル・エディション (ねんどろいど しれん すーぱーむーばぶる・えでぃしょん)",
-    "en": "Nendoroid Shiren: Super Movable Edition (ねんどろいど しれん すーぱーむーばぶる・えでぃしょん)"
+  "gender" : "M",
+  "gsc_productNum" : 5089,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150623/5089/34234/large/b1bb40ea3e5c6404be6f744f06d15fa9.jpg",
+  "name" : {
+    "en" : "Nendoroid Shiren: Super Movable Edition (ねんどろいど しれん すーぱーむーばぶる・えでぃしょん)",
+    "ja" : "ねんどろいど シレン スーパームーバブル・エディション (ねんどろいど しれん すーぱーむーばぶる・えでぃしょん)",
+    "ko" : "시렌 슈퍼 무버블 에디션"
   },
-  "series": {
-    "ko": "이상한 던전 풍래의 시렌",
-    "ja": "風来のシレン5+ フォーチュンタワーと運命のダイス",
-    "en": "Shiren the Wanderer 5+ Fortune Tower to Unmei no Dice"
-  },
-  "gsc_productNum": 5089,
-  "price": 5093,
-  "release_date": [
+  "num" : "535",
+  "price" : 5093,
+  "release_date" : [
     "2015/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20150623/5089/34234/large/b1bb40ea3e5c6404be6f744f06d15fa9.jpg",
-  "gender": "M"
+  "series" : {
+    "en" : "Shiren the Wanderer 5+ Fortune Tower to Unmei no Dice",
+    "ja" : "風来のシレン5+ フォーチュンタワーと運命のダイス",
+    "ko" : "이상한 던전 풍래의 시렌"
+  }
 }

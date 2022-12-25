@@ -1,21 +1,21 @@
 {
-  "num": "293",
-  "name": {
-    "ko": "타카무라 유이",
-    "ja": "ねんどろいど 篁唯依 (ねんどろいど たかむらゆい)",
-    "en": "Nendoroid Yui Takamura (ねんどろいど たかむらゆい)"
+  "gender" : "F",
+  "gsc_productNum" : 3761,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121126/3761/21621/large/3b16c581470c70189e487cda759d72b6.jpg",
+  "name" : {
+    "en" : "Nendoroid Yui Takamura (ねんどろいど たかむらゆい)",
+    "ja" : "ねんどろいど 篁唯依 (ねんどろいど たかむらゆい)",
+    "ko" : "타카무라 유이"
   },
-  "series": {
-    "ko": "마브러브 얼터너티브 토탈 이클립스",
-    "ja": "マブラヴ オルタネイティヴ トータル・イクリプス",
-    "en": "Muv-Luv Alternative: Total Eclipse"
-  },
-  "gsc_productNum": 3761,
-  "price": 4190,
-  "release_date": [
+  "num" : "293",
+  "price" : 4190,
+  "release_date" : [
     "2013/06"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121126/3761/21621/large/3b16c581470c70189e487cda759d72b6.jpg",
-  "gender": "F",
-  "set": 73
+  "series" : {
+    "en" : "Muv-Luv Alternative: Total Eclipse",
+    "ja" : "マブラヴ オルタネイティヴ トータル・イクリプス",
+    "ko" : "마브러브 얼터너티브 토탈 이클립스"
+  },
+  "set" : 73
 }

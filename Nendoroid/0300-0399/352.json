@@ -1,21 +1,21 @@
 {
-  "num": "352",
-  "name": {
-    "ko": "나에기 마코토",
-    "ja": "ねんどろいど 苗木誠 (ねんどろいど なえぎまこと)",
-    "en": "Nendoroid Makoto Naegi (ねんどろいど なえぎまこと)"
+  "gender" : "M",
+  "gsc_productNum" : 4021,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130806/4021/25626/large/778d2e284fd5cee96d72081cc24adf2d.jpg",
+  "name" : {
+    "en" : "Nendoroid Makoto Naegi (ねんどろいど なえぎまこと)",
+    "ja" : "ねんどろいど 苗木誠 (ねんどろいど なえぎまこと)",
+    "ko" : "나에기 마코토"
   },
-  "series": {
-    "ko": "단간론파",
-    "ja": "ダンガンロンパ 希望の学園と絶望の高校生 The Animation",
-    "en": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation"
-  },
-  "gsc_productNum": 4021,
-  "price": 3981,
-  "release_date": [
+  "num" : "352",
+  "price" : 3981,
+  "release_date" : [
     "2013/12"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20130806/4021/25626/large/778d2e284fd5cee96d72081cc24adf2d.jpg",
-  "gender": "M",
-  "set": 79
+  "series" : {
+    "en" : "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+    "ja" : "ダンガンロンパ 希望の学園と絶望の高校生 The Animation",
+    "ko" : "단간론파"
+  },
+  "set" : 79
 }

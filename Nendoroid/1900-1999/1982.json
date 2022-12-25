@@ -1,19 +1,19 @@
 {
-  "num": "1982",
-  "name": {
-    "ja": "ねんどろいど 場地圭介 (ねんどろいど ばじけいすけ)",
-    "ko": "바지 케이스케"
+  "gender" : "M",
+  "gsc_productNum" : 13448,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221024/13448/106326/large/1b97ab9e7001d23737685dcf0b40b7f3.jpg",
+  "name" : {
+    "ja" : "ねんどろいど 場地圭介 (ねんどろいど ばじけいすけ)",
+    "ko" : "바지 케이스케"
   },
-  "series": {
-    "ja": "東京リベンジャーズ",
-    "ko": "도쿄 리벤저스"
-  },
-  "gsc_productNum": 13448,
-  "price": 5800,
-  "release_date": [
+  "num" : "1982",
+  "price" : 5800,
+  "release_date" : [
     "2023/05"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20221024/13448/106326/large/1b97ab9e7001d23737685dcf0b40b7f3.jpg",
-  "gender": "M",
-  "set": 266
+  "series" : {
+    "ja" : "東京リベンジャーズ",
+    "ko" : "도쿄 리벤저스"
+  },
+  "set" : 266
 }

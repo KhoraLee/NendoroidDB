@@ -1,21 +1,21 @@
 {
-  "num": "638",
-  "name": {
-    "ko": "마츠노 이치마츠",
-    "ja": "ねんどろいど 松野一松 (ねんどろいど まつのいちまつ)",
-    "en": "Nendoroid Ichimatsu Matsuno"
+  "gender" : "M",
+  "gsc_productNum" : 5704,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160530/5704/39308/large/45a547ed4de3ae21fac353e2cb6bb81f.jpg",
+  "name" : {
+    "en" : "Nendoroid Ichimatsu Matsuno",
+    "ja" : "ねんどろいど 松野一松 (ねんどろいど まつのいちまつ)",
+    "ko" : "마츠노 이치마츠"
   },
-  "series": {
-    "ko": "오소마츠 상",
-    "ja": "おそ松さん",
-    "en": "Osomatsu-san"
-  },
-  "gsc_productNum": 5704,
-  "price": 3565,
-  "release_date": [
+  "num" : "638",
+  "price" : 3565,
+  "release_date" : [
     "2016/10"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20160530/5704/39308/large/45a547ed4de3ae21fac353e2cb6bb81f.jpg",
-  "gender": "M",
-  "set": 130
+  "series" : {
+    "en" : "Osomatsu-san",
+    "ja" : "おそ松さん",
+    "ko" : "오소마츠 상"
+  },
+  "set" : 130
 }

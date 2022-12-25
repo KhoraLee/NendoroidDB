@@ -1,20 +1,20 @@
 {
-  "num": "1058",
-  "name": {
-    "ko": "잭 오 랜턴",
-    "ja": "ねんどろいど ジャックランタン (ねんどろいど じゃっくらんたん)",
-    "en": "Nendoroid Pyro Jack"
+  "gsc_productNum" : 7918,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181218/7918/56877/large/9b0ac679e3ee781d1ec781fc6f4dcde1.jpg",
+  "name" : {
+    "en" : "Nendoroid Pyro Jack",
+    "ja" : "ねんどろいど ジャックランタン (ねんどろいど じゃっくらんたん)",
+    "ko" : "잭 오 랜턴"
   },
-  "series": {
-    "ko": "진 여신전생",
-    "ja": "真・女神転生",
-    "en": "Shin Megami Tensei"
-  },
-  "gsc_productNum": 7918,
-  "price": 4888,
-  "release_date": [
+  "num" : "1058",
+  "price" : 4888,
+  "release_date" : [
     "2019/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181218/7918/56877/large/9b0ac679e3ee781d1ec781fc6f4dcde1.jpg",
-  "set": 54
+  "series" : {
+    "en" : "Shin Megami Tensei",
+    "ja" : "真・女神転生",
+    "ko" : "진 여신전생"
+  },
+  "set" : 54
 }

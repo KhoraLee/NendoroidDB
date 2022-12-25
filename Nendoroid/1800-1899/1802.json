@@ -1,21 +1,21 @@
 {
-  "num": "1802",
-  "name": {
-    "ko": "진",
-    "ja": "ねんどろいど Jin",
-    "en": "Nendoroid Jin"
+  "gender" : "M",
+  "gsc_productNum" : 12183,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211227/12183/93829/large/1018961c49342c2e403039e997e0cc80.jpg",
+  "name" : {
+    "en" : "Nendoroid Jin",
+    "ja" : "ねんどろいど Jin",
+    "ko" : "진"
   },
-  "series": {
-    "ko": "방탄소년단",
-    "ja": "TinyTAN",
-    "en": "TinyTAN"
-  },
-  "gsc_productNum": 12183,
-  "price": 5000,
-  "release_date": [
+  "num" : "1802",
+  "price" : 5000,
+  "release_date" : [
     "2022/09"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20211227/12183/93829/large/1018961c49342c2e403039e997e0cc80.jpg",
-  "gender": "M",
-  "set": 282
+  "series" : {
+    "en" : "TinyTAN",
+    "ja" : "TinyTAN",
+    "ko" : "방탄소년단"
+  },
+  "set" : 282
 }

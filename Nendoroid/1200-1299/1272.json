@@ -1,21 +1,21 @@
 {
-  "num": "1272",
-  "name": {
-    "ko": "아스이 츠유",
-    "ja": "ねんどろいど 蛙吹梅雨 (ねんどろいど あすいつゆ)",
-    "en": "Nendoroid Tsuyu Asui"
+  "gender" : "F",
+  "gsc_productNum" : 9014,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191125/9014/66735/large/9fa2c2d53095aec10256f15bdc3e465b.jpg",
+  "name" : {
+    "en" : "Nendoroid Tsuyu Asui",
+    "ja" : "ねんどろいど 蛙吹梅雨 (ねんどろいど あすいつゆ)",
+    "ko" : "아스이 츠유"
   },
-  "series": {
-    "ko": "나의 히어로 아카데미아",
-    "ja": "僕のヒーローアカデミア",
-    "en": "My Hero Academia"
-  },
-  "gsc_productNum": 9014,
-  "price": 5200,
-  "release_date": [
+  "num" : "1272",
+  "price" : 5200,
+  "release_date" : [
     "2020/08"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20191125/9014/66735/large/9fa2c2d53095aec10256f15bdc3e465b.jpg",
-  "gender": "F",
-  "set": 146
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 146
 }

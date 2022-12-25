@@ -1,21 +1,21 @@
 {
-  "num": "287",
-  "name": {
-    "ko": "호라이즌 아리아더스트 제복 Ver.",
-    "ja": "ねんどろいど ホライゾン・アリアダスト 制服Ver. (ねんどろいど ほらいぞん・ありあだすと せいふくVer.)",
-    "en": "Nendoroid Horizon Ariadust: Uniform Ver. (ねんどろいど ほらいぞん・ありあだすと せいふくVer.)"
+  "gender" : "F",
+  "gsc_productNum" : 3773,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121204/3773/21760/large/67a0fda08b5e6160149560cf6b4d8b27.jpg",
+  "name" : {
+    "en" : "Nendoroid Horizon Ariadust: Uniform Ver. (ねんどろいど ほらいぞん・ありあだすと せいふくVer.)",
+    "ja" : "ねんどろいど ホライゾン・アリアダスト 制服Ver. (ねんどろいど ほらいぞん・ありあだすと せいふくVer.)",
+    "ko" : "호라이즌 아리아더스트 제복 Ver."
   },
-  "series": {
-    "ko": "경계선상의 호라이즌",
-    "ja": "境界線上のホライゾン",
-    "en": "Horizon in the Middle of Nowhere"
-  },
-  "gsc_productNum": 3773,
-  "price": 3981,
-  "release_date": [
+  "num" : "287",
+  "price" : 3981,
+  "release_date" : [
     "2013/03"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20121204/3773/21760/large/67a0fda08b5e6160149560cf6b4d8b27.jpg",
-  "gender": "F",
-  "set": 69
+  "series" : {
+    "en" : "Horizon in the Middle of Nowhere",
+    "ja" : "境界線上のホライゾン",
+    "ko" : "경계선상의 호라이즌"
+  },
+  "set" : 69
 }

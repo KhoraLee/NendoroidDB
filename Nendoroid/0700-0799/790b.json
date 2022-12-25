@@ -1,21 +1,21 @@
 {
-  "num": "790b",
-  "name": {
-    "ko": "메르시 코발트 스킨 에디션",
-    "ja": "ねんどろいど マーシー コバルトスキン・エディション (ねんどろいど まーしー こばるとすきん・えでぃしょん)",
-    "en": "Nendoroid Mercy: Cobalt Skin Edition"
+  "gender" : "F",
+  "gsc_productNum" : 7865,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181130/7865/56471/large/41b35a7ac9e0d8249e95ef8015c04e30.jpg",
+  "name" : {
+    "en" : "Nendoroid Mercy: Cobalt Skin Edition",
+    "ja" : "ねんどろいど マーシー コバルトスキン・エディション (ねんどろいど まーしー こばるとすきん・えでぃしょん)",
+    "ko" : "메르시 코발트 스킨 에디션"
   },
-  "series": {
-    "ko": "오버워치",
-    "ja": "オーバーウォッチ",
-    "en": "Overwatch"
-  },
-  "gsc_productNum": 7865,
-  "price": 4991,
-  "release_date": [
+  "num" : "790b",
+  "price" : 4991,
+  "release_date" : [
     "2018/11"
   ],
-  "image": "https://images.goodsmile.info/cgm/images/product/20181130/7865/56471/large/41b35a7ac9e0d8249e95ef8015c04e30.jpg",
-  "gender": "F",
-  "set": 150
+  "series" : {
+    "en" : "Overwatch",
+    "ja" : "オーバーウォッチ",
+    "ko" : "오버워치"
+  },
+  "set" : 150
 }
