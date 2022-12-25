@@ -1,14 +1,14 @@
 {
   "gender" : "M",
-  "gsc_productNum" : 8584,
-  "image" : "https://images.goodsmile.info/cgm/images/product/20190723/8584/62117/large/3c14e6cceb8fc07832623ccbeb02480e.jpg",
+  "gsc_productNum" : 8583,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190723/8583/62107/large/3fd0203aad780de9ad0d284da2a539a8.jpg",
   "name" : {
-    "en" : "Nendoroid Tetsuya Kuroko Special Box",
-    "ja" : "ねんどろいど 黒子テツヤ Special Box (ねんどろいど くろこてつや すぺしゃるぼっくす)",
+    "en" : "Nendoroid Tetsuya Kuroko",
+    "ja" : "ねんどろいど 黒子テツヤ (ねんどろいど くろこてつや)",
     "ko" : "쿠로코 테츠야"
   },
   "num" : "1172",
-  "price" : 5700,
+  "price" : 4700,
   "release_date" : [
     "2019/12"
   ],

@@ -1,14 +1,14 @@
 {
   "gender" : "M",
-  "gsc_productNum" : 8110,
-  "image" : "https://images.goodsmile.info/cgm/images/product/20190226/8110/58433/large/a281d40712ccd58dc4d7be2000612ab5.jpg",
+  "gsc_productNum" : 8109,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190226/8109/58423/large/35367358af2d01d51c0e295f870b104a.jpg",
   "name" : {
-    "en" : "Nendoroid Atsushi Murasakibara Special Box",
-    "ja" : "ねんどろいど 紫原 敦 Special Box (ねんどろいど むらさきばら あつし すぺしゃるぼっくす)",
+    "en" : "Nendoroid Atsushi Murasakibara",
+    "ja" : "ねんどろいど 紫原 敦 (ねんどろいど むらさきばら あつし)",
     "ko" : "무라사키바라 아츠시"
   },
   "num" : "1094",
-  "price" : 5602,
+  "price" : 4584,
   "release_date" : [
     "2019/09"
   ],
