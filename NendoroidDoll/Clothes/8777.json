@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 8777,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190906/8777/63483/large/8b4becb05fe1ba791830c7f04ac2f33e.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Outfit Set (Osamu Dazai)",
+    "ja" : "ねんどろいどどーる おようふくセット（太宰治） (ねんどろいどどーる おようふくせっと（だざいおさむ）)",
+    "ko" : "다자이 오사무 의상"
+  },
+  "price" : 4200,
+  "release_date" : [
+    "2020/06"
+  ],
+  "series" : {
+    "en" : "Bungo Stray Dogs",
+    "ja" : "文豪ストレイドッグス",
+    "ko" : "문호 스트레이 독스"
+  },
+  "type" : "clothes"
+}

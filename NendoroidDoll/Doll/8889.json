@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8889,
+  "image" : "https://special.goodsmile.info/harrypotter/images/griffondor_photo01.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Harry Potter",
+    "ja" : "ねんどろいどどーる ハリー・ポッター (ねんどろいどどーる はりー・ぽったー)",
+    "ko" : "해리포터"
+  },
+  "price" : 6600,
+  "release_date" : [
+    "2020/09"
+  ],
+  "series" : {
+    "en" : "Harry Potter",
+    "ja" : "ハリー・ポッター",
+    "ko" : "해리포터 시리즈"
+  },
+  "type" : "doll"
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13543,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221116/13543/107203/large/034e34b24aad667330450ac4170470a4.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Tea Time Series: Charlie",
+    "ja" : "ねんどろいどどーる ティータイムシリーズ：チャーリー (ねんどろいどどーる てぃーたいむしりーず：ちゃーりー)",
+    "ko" : "찰리"
+  },
+  "price" : 10300,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "티타임 시리즈"
+  },
+  "type" : "doll"
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12359,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220217/12359/95578/large/32a7ab0ec9f5e47f3ec3c9a9546b5e0f.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Rose: Another Color",
+    "ja" : "ねんどろいどどーる ローズ Another Color (ねんどろいどどーる ろーず あなざー からー)",
+    "ko" : "로즈 Another Color Ver."
+  },
+  "price" : 6600,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

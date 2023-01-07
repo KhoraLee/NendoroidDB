@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11824,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210924/11824/90324/large/5c8d47fd700e665bf5db08dcee4dc526.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Tanjiro Kamado",
+    "ja" : "ねんどろいどどーる 竈門炭治郎 (ねんどろいどどーる かまどたんじろう)",
+    "ko" : "카마도 탄지로"
+  },
+  "price" : 8300,
+  "release_date" : [
+    "2022/06"
+  ],
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "type" : "doll"
+}

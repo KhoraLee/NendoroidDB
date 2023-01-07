@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12514,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220330/12514/97100/large/1c4093dc76ebd15a164a81a8c4a2e107.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Kate",
+    "ja" : "ねんどろいどどーる ケイト (ねんどろいどどーる けいと)",
+    "ko" : "케이트"
+  },
+  "price" : 8800,
+  "release_date" : [
+    "2023/03"
+  ],
+  "series" : {
+    "en" : "Shadows House",
+    "ja" : "シャドーハウス",
+    "ko" : "섀도우 하우스"
+  },
+  "type" : "doll"
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9378,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200324/9378/68557/large/0f792baab679c7d35dac0058746cc77c.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Saber of \"Red\": Casual Ver.",
+    "ja" : "ねんどろいどどーる “赤”のセイバー 私服Ver. (ねんどろいどどーる あかのせいばーしふくVer.)",
+    "ko" : "적의 세이버 사복 Ver."
+  },
+  "price" : 6820,
+  "release_date" : [
+    "2020/11"
+  ],
+  "series" : {
+    "en" : "Fate/Apocrypha",
+    "ja" : "Fate/Apocrypha",
+    "ko" : "Fate/Apocrypha"
+  },
+  "type" : "doll"
+}

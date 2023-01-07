@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9439,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200421/9439/69097/large/4fc00407505b27fbc2a195772aa32511.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Ruler: Casual Ver.",
+    "ja" : "ねんどろいどどーる ルーラー 私服Ver. (ねんどろいどどーる るーらー しふくVer.)",
+    "ko" : "룰러 사복 Ver."
+  },
+  "price" : 6820,
+  "release_date" : [
+    "2021/01"
+  ],
+  "series" : {
+    "en" : "Fate/Apocrypha",
+    "ja" : "Fate/Apocrypha",
+    "ko" : "Fate/Apocrypha"
+  },
+  "type" : "doll"
+}

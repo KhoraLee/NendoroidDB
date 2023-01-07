@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12742,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220525/12742/99153/large/493b7f0e0e0689e9bb1291bfae2871aa.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Omega Rio",
+    "ja" : "ねんどろいどどーる おめがリオ (ねんどろいどどーる おめがりお)",
+    "ko" : "오메가 리오"
+  },
+  "price" : 7500,
+  "release_date" : [
+    "2023/02"
+  ],
+  "series" : {
+    "en" : "Omega Sisters",
+    "ja" : "おめがシスターズ",
+    "ko" : "오메가 시스터즈"
+  },
+  "type" : "doll"
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7977,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190111/7977/57322/large/ce7811875e2b5b671a081b3e7c86a2c2.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Mad Hatter",
+    "ja" : "ねんどろいどどーる マッドハッター (ねんどろいどどーる まっどはったー)",
+    "ko" : "매드 해터"
+  },
+  "price" : 5602,
+  "release_date" : [
+    "2019/08"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

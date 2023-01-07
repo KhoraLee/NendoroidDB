@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7620,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180919/7620/54574/large/c11c5aee05152dfd322ee3f99d597fb8.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Alice",
+    "ja" : "ねんどろいどどーる アリス (ねんどろいどどーる ありす)",
+    "ko" : "앨리스"
+  },
+  "price" : 5093,
+  "release_date" : [
+    "2019/04",
+    "2020/10"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 9020,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191126/9020/65608/large/969f7a5cdb135f9ba450fb1f91235d49.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Outfit Set (Colorful Coveralls - Red/Blue/Yellow/Lime Green/Purple)",
+    "ja" : "ねんどろいどどーる おようふくセット（カラフルつなぎ：あか/あお/きいろ/きみどり/むらさき） (ねんどろいどどーる おようふくせっと（からふるつなぎ：あか/あお/きいろ/きみどり/むらさき）)",
+    "ko" : "컬러풀 츠나기(빨강/파랑/노랑/연두/보라)"
+  },
+  "price" : 3500,
+  "release_date" : [
+    "2020/08"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "clothes"
+}

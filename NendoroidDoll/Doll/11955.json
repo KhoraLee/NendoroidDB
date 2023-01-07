@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11955,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211101/11955/91616/large/d77e09df3f4dec1ff4f4b0ed1dd836c7.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Outfit Set (Lucien: If Time Flows Back Ver.)",
+    "ja" : "ねんどろいどどーる おようふくセット シモン 似水年華Ver. (ねんどろいどどーる おようふくせっと しもん しすいねんかVer.)",
+    "ko" : "허묵 의상"
+  },
+  "price" : 5900,
+  "release_date" : [
+    "2022/09"
+  ],
+  "series" : {
+    "en" : "Mr Love: Queen's Choice",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "type" : "doll"
+}

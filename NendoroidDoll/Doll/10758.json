@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10758,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210203/10758/80674/large/02caceca1aecad91c0b9bc5ae6057718.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Kagamine Rin",
+    "ja" : "ねんどろいどどーる 鏡音リン (ねんどろいどどーる かがみねりん)",
+    "ko" : "카가미네 린"
+  },
+  "price" : 6930,
+  "release_date" : [
+    "2021/10"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 02: Kagamine Rin/Len",
+    "ja" : "キャラクター・ボーカル・シリーズ02 鏡音リン・レン",
+    "ko" : "보컬로이드"
+  },
+  "type" : "doll"
+}

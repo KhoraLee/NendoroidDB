@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13428,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221019/13428/106187/large/b57fbbee87549a6329a9368bfb004f50.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Rem",
+    "ja" : "ねんどろいどどーる レム (ねんどろいどどーる れむ)",
+    "ko" : "렘"
+  },
+  "price" : 8900,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Re:ZERO -Starting Life in Another World-",
+    "ja" : "Re:ゼロから始める異世界生活",
+    "ko" : "Re:제로부터 시작하는 이세계 생활"
+  },
+  "type" : "doll"
+}

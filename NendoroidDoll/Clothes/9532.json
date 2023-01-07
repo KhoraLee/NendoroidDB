@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 9532,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200520/9532/69848/large/295d04a08ff64b8d24aaf7ae1a0c6e7b.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Outfit Set (Nun)",
+    "ja" : "ねんどろいどどーる おようふくセット シスター (ねんどろいどどーる おようふくせっと しすたー)",
+    "ko" : "수녀 의상"
+  },
+  "price" : 3500,
+  "release_date" : [
+    "2021/01"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "clothes"
+}

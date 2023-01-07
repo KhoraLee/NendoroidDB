@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 10019,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200904/10019/73993/large/ff8113e27754af2c9a9cdf9d134d2ece.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Outfit Set (Overalls)",
+    "ja" : "ねんどろいどどーる おようふくセット オーバーオール (ねんどろいどどーる おようふくせっと おーばーおーる)",
+    "ko" : "멜빵바지 세트"
+  },
+  "price" : 3500,
+  "release_date" : [
+    "2021/05"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "clothes"
+}

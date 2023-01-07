@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11755,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210907/11755/89660/large/e011205a259a310d3bb1863d36fb7a68.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Outfit Set (Victor: If Time Flows Back Ver.)",
+    "ja" : "ねんどろいどどーる おようふくセット ゼン 似水年華Ver. (ねんどろいどどーる おようふくせっと ぜん しすいねんかVer.)",
+    "ko" : "이택언 사수연화 Ver."
+  },
+  "price" : 5900,
+  "release_date" : [
+    "2022/07"
+  ],
+  "series" : {
+    "en" : "Mr. Love: Queen's Choice",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "type" : "doll"
+}

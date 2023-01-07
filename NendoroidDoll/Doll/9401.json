@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9401,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200401/9401/68850/large/e630b86f71ddf1c64b1466068540ae46.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Hatsune Miku",
+    "ja" : "ねんどろいどどーる 初音ミク (ねんどろいどどーる はつねみく)",
+    "ko" : "하츠네 미쿠"
+  },
+  "price" : 6930,
+  "release_date" : [
+    "2020/12"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "보컬로이드"
+  },
+  "type" : "doll"
+}

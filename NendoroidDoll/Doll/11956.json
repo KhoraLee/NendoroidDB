@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11956,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211101/11956/91625/large/4f1458193bb1285a51d3b52791da26ab.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Lucien: If Time Flows Back Ver.",
+    "ja" : "ねんどろいどどーる シモン 似水年華Ver. (ねんどろいどどーる しもん しすいねんかVer.)",
+    "ko" : "허묵"
+  },
+  "price" : 8900,
+  "release_date" : [
+    "2022/09"
+  ],
+  "series" : {
+    "en" : "Mr Love: Queen's Choice",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "type" : "doll"
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9524,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200520/9524/73068/large/bcd6ee58965f737c9c3f43daa88d952c.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll archetype: Man (Peach)",
+    "ja" : "ねんどろいどどーる archetype：Man（peach） (ねんどろいどどーる あーきたいぷ：まん（ぴーち）)",
+    "ko" : "남성(피치)"
+  },
+  "price" : 2037,
+  "release_date" : [
+    "2020/09"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "body"
+}

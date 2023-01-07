@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8891,
+  "image" : "https://special.goodsmile.info/harrypotter/images/griffondor_photo03.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Hermione Granger",
+    "ja" : "ねんどろいどどーる ハーマイオニー・グレンジャー (ねんどろいどどーる はーまいおにー・ぐれんじゃー)",
+    "ko" : "헤르미온느 그레인저"
+  },
+  "price" : 6600,
+  "release_date" : [
+    "2020/09"
+  ],
+  "series" : {
+    "en" : "Harry Potter",
+    "ja" : "ハリー・ポッター",
+    "ko" : "해리포터 시리즈"
+  },
+  "type" : "doll"
+}

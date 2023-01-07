@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12792,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220608/12792/99583/large/f851c2625509260f960d1be5f8b4cc15.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Mouse King: Noix",
+    "ja" : "ねんどろいどどーる ねずみの王様：ノワ (ねんどろいどどーる ねずみのおうさま：のわ)",
+    "ko" : "마우스 킹: 노와"
+  },
+  "price" : 9000,
+  "release_date" : [
+    "2023/03"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

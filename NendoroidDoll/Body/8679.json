@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8679,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190809/8679/62800/large/1b7537a87b5dc2bab8fe07194f818ee7.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll archetype: Boy (Almond Milk)",
+    "ja" : "ねんどろいどどーる archetype：Boy（almond milk） (ねんどろいどどーる あーきたいぷ：ぼーい（あーもんど みるく）)",
+    "ko" : "남성(아몬드밀크)"
+  },
+  "price" : 2037,
+  "release_date" : [
+    "2019/12",
+    "2020/07"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "body"
+}

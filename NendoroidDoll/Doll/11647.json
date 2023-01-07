@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11647,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210811/11647/88680/large/f403f0ed337c97342b5f5246fd69a1c1.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Chika Fujiwara",
+    "ja" : "ねんどろいどどーる 藤原千花 (ねんどろいどどーる ふじわらちか)",
+    "ko" : "후지와라 치카"
+  },
+  "price" : 7000,
+  "release_date" : [
+    "2022/06"
+  ],
+  "series" : {
+    "en" : "Kaguya-sama: Love is War?",
+    "ja" : "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+    "ko" : "카구야 님은 고백받고 싶어"
+  },
+  "type" : "doll"
+}

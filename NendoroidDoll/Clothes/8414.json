@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 8414,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190611/8414/60893/large/92e4d22f0060169345ba8d96ead60229.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Outfit Set (Hizamaru)",
+    "ja" : "ねんどろいどどーる おようふくセット(膝丸) (ねんどろいどどーる おようふくせっと(ひざまる))",
+    "ko" : "히자마루 의상"
+  },
+  "price" : 5000,
+  "release_date" : [
+    "2020/01"
+  ],
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLIINE-"
+  },
+  "type" : "clothes"
+}

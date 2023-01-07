@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8411,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190611/8411/60869/large/0bb4689305224f7dbb888d3a4cd139cd.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Higekiri",
+    "ja" : "ねんどろいどどーる 髭切 (ねんどろいどどーる ひげきり)",
+    "ko" : "히게키리"
+  },
+  "price" : 8000,
+  "release_date" : [
+    "2020/01"
+  ],
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLIINE-"
+  },
+  "type" : "doll"
+}

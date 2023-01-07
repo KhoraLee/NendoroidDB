@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11876,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211006/11876/90772/large/2b7fc27c01c34185430242a9bebabf73.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Inosuke Hashibira",
+    "ja" : "ねんどろいどどーる 嘴平伊之助 (ねんどろいどどーる はしびらいのすけ)",
+    "ko" : "하시비라 이노스케"
+  },
+  "price" : 7800,
+  "release_date" : [
+    "2022/07"
+  ],
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "type" : "doll"
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10601,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201218/10601/79138/large/6c2c1142442474413e4ac30f2087802b.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Luo Binghe",
+    "ja" : "ねんどろいどどーる 洛冰河 (ねんどろいどどーる らくひょうが)",
+    "ko" : "낙빙하"
+  },
+  "price" : 7600,
+  "release_date" : [
+    "2021/12"
+  ],
+  "series" : {
+    "en" : "ChuanShuZiJiuZhiNan",
+    "ja" : "穿書自救指南",
+    "ko" : "인사반파자구계통"
+  },
+  "type" : "doll"
+}

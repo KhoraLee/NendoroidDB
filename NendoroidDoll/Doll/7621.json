@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7621,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180919/7621/54583/large/7d94b91fd71cab2430702b8e04ec9cc3.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll White Rabbit",
+    "ja" : "ねんどろいどどーる ホワイトラビット (ねんどろいどどーる ほわいとらびっと)",
+    "ko" : "화이트래빗"
+  },
+  "price" : 5602,
+  "release_date" : [
+    "2019/04",
+    "2020/10"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

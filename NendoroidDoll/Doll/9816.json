@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9816,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200722/9816/72329/large/ca2daecef69750ce1985353544a6fd22.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Angel: Ciel",
+    "ja" : "ねんどろいどどーる 天使：シエル (ねんどろいどどーる てんし：しえる)",
+    "ko" : "천사 시엘"
+  },
+  "price" : 6600,
+  "release_date" : [
+    "2021/04"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

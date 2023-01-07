@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10705,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210122/10705/80107/large/a3dae21ac1811b26eccc11a54875a67b.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Catgirl Maid: Sakura",
+    "ja" : "ねんどろいどどーる 猫耳メイド：サクラ (ねんどろいどどーる ねこみみめいど：さくら)",
+    "ko" : "고양이 귀 메이드 사쿠라"
+  },
+  "price" : 6800,
+  "release_date" : [
+    "2021/09"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

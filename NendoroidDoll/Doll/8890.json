@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8890,
+  "image" : "https://special.goodsmile.info/harrypotter/images/griffondor_photo02.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Ron Weasley",
+    "ja" : "ねんどろいどどーる ロン・ウィーズリー (ねんどろいどどーる ろん・うぃーずりー)",
+    "ko" : "론 위즐리"
+  },
+  "price" : 6600,
+  "release_date" : [
+    "2020/09"
+  ],
+  "series" : {
+    "en" : "Harry Potter",
+    "ja" : "ハリー・ポッター",
+    "ko" : "해리포터 시리즈"
+  },
+  "type" : "doll"
+}

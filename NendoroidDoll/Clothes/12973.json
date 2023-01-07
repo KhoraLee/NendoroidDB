@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 12973,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220714/12973/101438/large/4a0a1cc6622fe8679915266faf8c8bf0.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Warm Clothing Set: Boots & Duffle Coat (Beige/Orange)",
+    "ja" : "ねんどろいどどーる あったかセット ブーツ&ダッフルコート（ベージュ/オレンジ） (ねんどろいどどーる あったかせっと ぶーつ&だっふるこーと（べーじゅ/おれんじ）)",
+    "ko" : "겨울 의상 세트(베이지/오렌지): 부츠 & 더플코트"
+  },
+  "price" : 5400,
+  "release_date" : [
+    "2023/04"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "clothes"
+}

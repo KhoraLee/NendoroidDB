@@ -1,0 +1,18 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13297,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220926/13297/104823/large/c3570f0f2c88319dd16d75ef485975a2.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Mikey (Manjiro Sano)",
+    "ko" : "마이키(사노 만지로)"
+  },
+  "price" : 8500,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Tokyo Revengers",
+    "ko" : "도쿄 리벤저스"
+  },
+  "type" : "doll"
+}

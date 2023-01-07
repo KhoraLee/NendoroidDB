@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13574,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221118/13574/107476/large/6d20b6100e5e9120066e8cb4ea7bf195.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Zhang Qiling: Seeking Till Found Ver.",
+    "ja" : "ねんどろいどどーる 張起霊 墨脱尋故Ver. (ねんどろいどどーる ちょうきれい めとくじんこVer.)",
+    "ko" : "장기령 묵탈심고 Ver."
+  },
+  "price" : 9800,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "TIME RAIDERS",
+    "ja" : "盗墓筆記",
+    "ko" : "도묘필기"
+  },
+  "type" : "doll"
+}

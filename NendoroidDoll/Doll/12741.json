@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12741,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220525/12741/99146/large/79da1e6506c77798dec5dbd563ff2f8d.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Omega Ray",
+    "ja" : "ねんどろいどどーる おめがレイ (ねんどろいどどーる おめがれい)",
+    "ko" : "오메가 레이"
+  },
+  "price" : 7500,
+  "release_date" : [
+    "2023/02"
+  ],
+  "series" : {
+    "en" : "Omega Sisters",
+    "ja" : "おめがシスターズ",
+    "ko" : "오메가 시스터즈"
+  },
+  "type" : "doll"
+}

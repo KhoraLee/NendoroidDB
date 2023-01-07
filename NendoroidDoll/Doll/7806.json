@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7806,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181115/7806/55964/large/9bb5ee35b644858ad5bda295df67fedf.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Saber/Altria Pendragon (Alter) Shinjuku Ver.",
+    "ja" : "ねんどろいどどーる セイバー/アルトリア・ペンドラゴン〔オルタ〕新宿Ver. (ねんどろいどどーる せいばー/あるとりあ・ぺんどらごん〔おるた〕しんじゅくVer.)",
+    "ko" : "세이버/알트리아 펜드래곤[얼터] 신주쿠 Ver."
+  },
+  "price" : 6112,
+  "release_date" : [
+    "2019/07"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "Fate/Grand Order"
+  },
+  "type" : "doll"
+}

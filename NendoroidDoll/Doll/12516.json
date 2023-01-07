@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12516,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220330/12516/97123/large/db27b53d49d9990e973f04249ffbfd7d.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Emilico",
+    "ja" : "ねんどろいどどーる エミリコ (ねんどろいどどーる えみりこ)",
+    "ko" : "에미리코"
+  },
+  "price" : 8800,
+  "release_date" : [
+    "2023/03"
+  ],
+  "series" : {
+    "en" : "Shadows House",
+    "ja" : "シャドーハウス",
+    "ko" : "섀도우 하우스"
+  },
+  "type" : "doll"
+}

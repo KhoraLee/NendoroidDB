@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13542,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221116/13542/107192/large/84266063791558a1fcd31d75e6fb1271.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Outfit Set: Tea Time Series (Bianca)",
+    "ja" : "ねんどろいどどーる おようふくセット ティータイムシリーズ：ビアンカ (ねんどろいどどーる おようふくせっと てぃーたいむしりーず：びあんか)",
+    "ko" : "비앙카 의상"
+  },
+  "price" : 6700,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "티타임 시리즈"
+  },
+  "type" : "doll"
+}

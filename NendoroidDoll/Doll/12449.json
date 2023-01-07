@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12449,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220309/12449/96458/large/d6ff8a979300f8c63cdb45bc28e194e1.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Saber/Arthur Pendragon (Prototype): Costume Dress -White Rose- Ver.",
+    "ja" : "ねんどろいどどーる セイバー/アーサー・ペンドラゴン〔プロトタイプ〕霊衣開放-ホワイトローズ- Ver. (ねんどろいどどーる せいばー/あーさー・ぺんどらごん〔ぷろとたいぷ〕れいいかいほう-ほわいとろーず- Ver.)",
+    "ko" : "세이버/아서 팬드래건 (프로토타입): 정장 - 하얀 장비 Ver."
+  },
+  "price" : 9000,
+  "release_date" : [
+    "2022/12"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "Fate/Grand Order"
+  },
+  "type" : "doll"
+}

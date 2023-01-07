@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10704,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210122/10704/80196/large/4f6719bf6a6c57d6e968c7843a0dabe9.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Catgirl Maid: Yuki",
+    "ja" : "ねんどろいどどーる 猫耳メイド：ユキ (ねんどろいどどーる ねこみみめいど：ゆき)",
+    "ko" : "고양이 귀 메이드 유키"
+  },
+  "price" : 6800,
+  "release_date" : [
+    "2021/09"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

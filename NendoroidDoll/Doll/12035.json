@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12035,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211122/12035/92387/large/1579a71b8f79beb544f76f2fc5c00445.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Ciel Phantomhive",
+    "ja" : "ねんどろいどどーる シエル・ファントムハイヴ (ねんどろいどどーる しえる・ふぁんとむはいゔ)",
+    "ko" : "시엘 팬텀하이브"
+  },
+  "price" : 9000,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Black Butler: Book of the Atlantic",
+    "ja" : "黒執事 Book of the Atlantic",
+    "ko" : "흑집사"
+  },
+  "type" : "doll"
+}

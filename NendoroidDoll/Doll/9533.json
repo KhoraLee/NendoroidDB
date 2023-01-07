@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9533,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200520/9533/69862/large/a8517804171b6096f773cabdf20e433e.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Richard Ranasinghe de Vulpian",
+    "ja" : "ねんどろいどどーる リチャード・ラナシンハ・ドヴルピアン (ねんどろいどどーる りちゃーど・らなしんは・どゔるぴあん)",
+    "ko" : "리처드 라나싱하 드부르피앙"
+  },
+  "price" : 6930,
+  "release_date" : [
+    "2021/02"
+  ],
+  "series" : {
+    "en" : "The Case Files of Jeweler Richard",
+    "ja" : "宝石商リチャード氏の謎鑑定",
+    "ko" : "보석상 리처드 씨의 수수께끼 감정"
+  },
+  "type" : "doll"
+}

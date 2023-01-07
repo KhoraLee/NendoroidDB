@@ -1,0 +1,18 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13293,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220926/13293/104791/large/c3570f0f2c88319dd16d75ef485975a2.jpg",
+  "name" : {
+    "ja" : "ねんどろいどどーる マイキー（佐野万次郎） (ねんどろいどどーる まいきー（さのまんじろう）)",
+    "ko" : "마이키(사노 만지로)"
+  },
+  "price" : 8500,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "ja" : "東京リベンジャーズ",
+    "ko" : "도쿄 리벤저스"
+  },
+  "type" : "doll"
+}

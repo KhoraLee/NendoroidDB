@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13544,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221116/13544/107214/large/be70cc51c3421aa3a88067ad423eec54.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Outfit Set: Tea Time Series (Charlie)",
+    "ja" : "ねんどろいどどーる おようふくセット ティータイムシリーズ：チャーリー (ねんどろいどどーる おようふくせっと てぃーたいむしりーず：ちゃーりー)",
+    "ko" : "찰리 의상"
+  },
+  "price" : 6700,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "티타임 시리즈"
+  },
+  "type" : "doll"
+}

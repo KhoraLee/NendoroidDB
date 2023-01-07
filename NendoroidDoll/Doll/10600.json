@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10600,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201218/10600/79128/large/32bb7563880f1d4fe09ffb643090eddd.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Shen Qingqiu",
+    "ja" : "ねんどろいどどーる 沈清秋 (ねんどろいどどーる しんせんしゅう)",
+    "ko" : "심청주"
+  },
+  "price" : 7600,
+  "release_date" : [
+    "2021/12"
+  ],
+  "series" : {
+    "en" : "ChuanShuZiJiuZhiNan",
+    "ja" : "穿書自救指南",
+    "ko" : "인사반파자구계통"
+  },
+  "type" : "doll"
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13427,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221019/13427/106178/large/69afcf717e6f31efbca94aa377813722.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Ram",
+    "ja" : "ねんどろいどどーる ラム (ねんどろいどどーる らむ)",
+    "ko" : "람"
+  },
+  "price" : 8900,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Re:ZERO -Starting Life in Another World-",
+    "ja" : "Re:ゼロから始める異世界生活",
+    "ko" : "Re:제로부터 시작하는 이세계 생활"
+  },
+  "type" : "doll"
+}

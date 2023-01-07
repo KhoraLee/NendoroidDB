@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11052,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210412/11052/83338/large/41986feea88ba07c20de30d024b00615.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll archetype 1.1: Boy (Cream)",
+    "ja" : "ねんどろいどどーる archetype 1.1：Boy（cream） (ねんどろいどどーる あーきたいぷ 1.1：ぼーい（くりーむ）)",
+    "ko" : "소년(크림) 1.1"
+  },
+  "price" : 2037,
+  "release_date" : [
+    "2021/09"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "body"
+}

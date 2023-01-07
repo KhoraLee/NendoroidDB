@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12037,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211122/12037/92400/large/0f614fd07bded3d6f94d66667f028d78.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Sebastian Michaelis",
+    "ja" : "ねんどろいどどーる セバスチャン・ミカエリス (ねんどろいどどーる せばすちゃん・みかえりす)",
+    "ko" : "세바스찬 미카엘리스"
+  },
+  "price" : 9000,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Black Butler: Book of the Atlantic",
+    "ja" : "黒執事 Book of the Atlantic",
+    "ko" : "흑집사"
+  },
+  "type" : "doll"
+}

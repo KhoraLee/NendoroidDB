@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 8660,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190806/8660/62683/large/72cb5f4db520ef09de358fb1ad4a4f87.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Outfit Set (Café - Girl)",
+    "ja" : "ねんどろいどどーる おようふくセット（カフェ：Girl） (ねんどろいどどーる おようふくせっと（かふぇ：がーる）)",
+    "ko" : "카페 걸 의상"
+  },
+  "price" : 3300,
+  "release_date" : [
+    "2020/03"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "clothes"
+}

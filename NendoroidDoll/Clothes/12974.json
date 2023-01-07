@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 12974,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220714/12974/101447/large/4c68e4a852b0c13f773a50aab1baaabb.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Warm Clothing Set: Boots & Mod Coat (Black/Khaki Green)",
+    "ja" : "ねんどろいどどーる あったかセット ブーツ&モッズコート（ブラック/カーキ） (ねんどろいどどーる あったかせっと ぶーつ&もっずこーと（ぶらっく/かーき）)",
+    "ko" : "겨울 의상 세트(블랙/카키 그린): 부츠 & 모드코트"
+  },
+  "price" : 5400,
+  "release_date" : [
+    "2023/04"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "clothes"
+}

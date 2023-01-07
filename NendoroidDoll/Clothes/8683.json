@@ -1,0 +1,20 @@
+{
+  "gsc_productNum" : 8683,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190809/8683/62823/large/40654a1f283cd17cf07fe6e1e118e352.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Outfit Set: Suit (Gray)",
+    "ja" : "ねんどろいどどーる おようふくセット スーツ（グレー） (ねんどろいどどーる おようふくせっと すーつ（ぐれー）)",
+    "ko" : "회색 정장"
+  },
+  "price" : 3300,
+  "release_date" : [
+    "2020/04",
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "clothes"
+}

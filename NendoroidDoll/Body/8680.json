@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8680,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190809/8680/62806/large/534b190c7f0e093243dd97e34cb09c8d.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll archetype: Girl (Almond Milk)",
+    "ja" : "ねんどろいどどーる archetype：Girl（almond milk） (ねんどろいどどーる あーきたいぷ：がーる（あーもんど みるく）)",
+    "ko" : "여성(아몬드밀크)"
+  },
+  "price" : 2037,
+  "release_date" : [
+    "2019/12",
+    "2020/07"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "body"
+}

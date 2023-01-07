@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8413,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190611/8413/60885/large/d6fa63ced0feb8970b969225ffa5dae7.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Hizamaru",
+    "ja" : "ねんどろいどどーる 膝丸 (ねんどろいどどーる ひざまる)",
+    "ko" : "히자마루"
+  },
+  "price" : 7500,
+  "release_date" : [
+    "2020/01"
+  ],
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLIINE-"
+  },
+  "type" : "doll"
+}

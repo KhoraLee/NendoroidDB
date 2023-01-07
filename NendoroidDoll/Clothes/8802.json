@@ -1,0 +1,20 @@
+{
+  "gsc_productNum" : 8802,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190918/8802/63713/large/58bf56f7f24814e1caf10ba64ea0811e.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Outfit Set: Hakama (Boy)",
+    "ja" : "ねんどろいどどーる おようふくセット 書生くん (ねんどろいどどーる おようふくせっと しょせいくん)",
+    "ko" : "하카마(서생군) 의상"
+  },
+  "price" : 4000,
+  "release_date" : [
+    "2021/05",
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "clothes"
+}

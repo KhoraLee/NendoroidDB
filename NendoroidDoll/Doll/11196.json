@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11196,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210517/11196/84684/large/43eab156c0027c866eaa7d2e5803a5dd.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Snow Miku",
+    "ja" : "ねんどろいどどーる 雪ミク (ねんどろいどどーる ゆきみく)",
+    "ko" : "유키 미쿠"
+  },
+  "price" : 7000,
+  "release_date" : [
+    "2021/12"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "보컬로이드"
+  },
+  "type" : "doll"
+}

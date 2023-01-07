@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11927,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211022/11927/91325/large/aa999946da00f0bf1e1192c3fe6dd5d7.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Vampire: Camus",
+    "ja" : "ねんどろいどどーる ヴァンパイア：カミュ (ねんどろいどどーる ゔぁんぱいあ：かみゅ)",
+    "ko" : "뱀파이어 카뮤"
+  },
+  "price" : 6800,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

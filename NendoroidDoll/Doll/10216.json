@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10216,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201012/10216/75602/large/c6f85bbb8909d6829f3381d5f69ed42f.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Little Red Riding Hood: Rose",
+    "ja" : "ねんどろいどどーる 赤ずきんちゃん：ローズ (ねんどろいどどーる あかずきんちゃん：ろーず)",
+    "ko" : "빨간망토 로즈"
+  },
+  "price" : 6600,
+  "release_date" : [
+    "2021/06"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll Little Red Riding Hood: Rose",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

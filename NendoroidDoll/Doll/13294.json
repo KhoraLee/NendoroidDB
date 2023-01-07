@@ -1,0 +1,18 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13294,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220926/13294/104801/large/703333e8f2ba0d2c2ccccb3bb8d69aac.jpg",
+  "name" : {
+    "ja" : "ねんどろいどどーる ドラケン（龍宮寺 堅） (ねんどろいどどーる どらけん（りゅうぐうじ けん）)",
+    "ko" : "드라켄(류구지 켄)"
+  },
+  "price" : 8500,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "ja" : "東京リベンジャーズ",
+    "ko" : "도쿄 리벤저스"
+  },
+  "type" : "doll"
+}

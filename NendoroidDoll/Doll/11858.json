@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11858,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211004/11858/90658/large/79c023ff48739f7f08c83742771ae7d1.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Gavin: If Time Flows Back Ver.",
+    "ja" : "ねんどろいどどーる ハク 似水年華Ver. (ねんどろいどどーる はく しすいねんかVer.)",
+    "ko" : "백기"
+  },
+  "price" : 8900,
+  "release_date" : [
+    "2022/08"
+  ],
+  "series" : {
+    "en" : "Mr. Love: Queen's Choice",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "type" : "doll"
+}

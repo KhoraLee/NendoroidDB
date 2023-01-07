@@ -1,0 +1,23 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7331,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180608/7331/56846/large/fd59c1faa29a630b2baa68fcac94fa82.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll archetype: Boy",
+    "ja" : "ねんどろいどどーる archetype：Boy (ねんどろいどどーる あーきたいぷ：ぼーい)",
+    "ko" : "남성"
+  },
+  "price" : 2037,
+  "release_date" : [
+    "2018/10",
+    "2019/05",
+    "2019/12",
+    "2020/07"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "body"
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10857,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210224/10857/81558/large/b87ad5ead2e9fc04644eed40fd3efb2d.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Lan Wangji: Qishan Night-Hunt Ver.",
+    "ja" : "ねんどろいどどーる 藍忘機 岐山騎射Ver. (ねんどろいどどーる らんぼうき ぎざんきしゃVer.)",
+    "ko" : "남망기 기산기사 Ver."
+  },
+  "price" : 7850,
+  "release_date" : [
+    "2021/12"
+  ],
+  "series" : {
+    "en" : "The Master of Diabolism",
+    "ja" : "アニメ「魔道祖師」",
+    "ko" : "마도조사"
+  },
+  "type" : "doll"
+}

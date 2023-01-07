@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13573,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221118/13573/107464/large/f5294d7f6f877052bb5a0bdc58f93601.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Wu Xie: Seeking Till Found Ver.",
+    "ja" : "ねんどろいどどーる 呉邪 墨脱尋故Ver. (ねんどろいどどーる ごじゃ めとくじんこVer.)",
+    "ko" : "옥사 묵탈심고 Ver."
+  },
+  "price" : 9800,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "TIME RAIDERS",
+    "ja" : "盗墓筆記",
+    "ko" : "도묘필기"
+  },
+  "type" : "doll"
+}

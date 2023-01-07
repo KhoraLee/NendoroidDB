@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11825,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210924/11825/90333/large/a183d9e57ec88e442577b71d5235173c.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Nezuko Kamado",
+    "ja" : "ねんどろいどどーる 竈門禰豆子 (ねんどろいどどーる かまどねずこ)",
+    "ko" : "카마도 네즈코"
+  },
+  "price" : 8300,
+  "release_date" : [
+    "2022/06"
+  ],
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "type" : "doll"
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13308,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220926/13308/104925/large/b5c147d968fe9bf303140130e87769f1.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Hua Cheng",
+    "ja" : "ねんどろいどどーる 花城 (ねんどろいどどーる ほわ・ちょん)",
+    "ko" : "화성"
+  },
+  "price" : 9800,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Heaven Official's Blessing",
+    "ja" : "天官賜福",
+    "ko" : "천관사복"
+  },
+  "type" : "doll"
+}

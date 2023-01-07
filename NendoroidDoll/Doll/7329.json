@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7329,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180608/7329/52455/large/5e86f5f3ce6d999a0e925bb4a238456d.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Emily",
+    "ja" : "ねんどろいどどーる エミリ (ねんどろいどどーる えみり)",
+    "ko" : "에밀리"
+  },
+  "price" : 4584,
+  "release_date" : [
+    "2018/11"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13306,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220926/13306/104901/large/28faf476616337a1657adc09420433f4.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Xie Lian",
+    "ja" : "ねんどろいどどーる 謝怜 (ねんどろいどどーる しえ・りぇん)",
+    "ko" : "사련"
+  },
+  "price" : 9800,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Heaven Official's Blessing",
+    "ja" : "天官賜福",
+    "ko" : "천관사복"
+  },
+  "type" : "doll"
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11646,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210811/11646/88672/large/d7bab21d2195f249bc5f270cf779acb5.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Kaguya Shinomiya",
+    "ja" : "ねんどろいどどーる 四宮かぐや (ねんどろいどどーる しのみやかぐや)",
+    "ko" : "시노미야 카구야"
+  },
+  "price" : 7000,
+  "release_date" : [
+    "2022/06"
+  ],
+  "series" : {
+    "en" : "Kaguya-sama: Love is War?",
+    "ja" : "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+    "ko" : "카구야 님은 고백받고 싶어"
+  },
+  "type" : "doll"
+}

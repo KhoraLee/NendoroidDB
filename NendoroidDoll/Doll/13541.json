@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13541,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221116/13541/107181/large/02ebff4c4e3e5d95cab68e34c31c674e.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Tea Time Series: Bianca",
+    "ja" : "ねんどろいどどーる ティータイムシリーズ：ビアンカ (ねんどろいどどーる てぃーたいむしりーず：びあんか)",
+    "ko" : "비앙카"
+  },
+  "price" : 10300,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "티타임 시리즈"
+  },
+  "type" : "doll"
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8776,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190906/8776/63475/large/8313786a1a77ed690377c7c229093b8f.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Osamu Dazai",
+    "ja" : "ねんどろいどどーる 太宰治 (ねんどろいどどーる だざいおさむ)",
+    "ko" : "다자이 오사무"
+  },
+  "price" : 6600,
+  "release_date" : [
+    "2020/06"
+  ],
+  "series" : {
+    "en" : "Bungo Stray Dogs",
+    "ja" : "文豪ストレイドッグス",
+    "ko" : "문호 스트레이독스"
+  },
+  "type" : "doll"
+}

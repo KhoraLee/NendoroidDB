@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9526,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200520/9526/73080/large/84cb4c4033ae5a36c869b232c61bd44e.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll archetype: Woman (Cinnamon)",
+    "ja" : "ねんどろいどどーる archetype：Woman（cinnamon） (ねんどろいどどーる あーきたいぷ：うーまん（しなもん）)",
+    "ko" : "여성(시나몬)"
+  },
+  "price" : 2037,
+  "release_date" : [
+    "2020/09"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "body"
+}

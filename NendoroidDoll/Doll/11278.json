@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11278,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210527/11278/85425/large/096d83d59a23ae1a8c3f5925841e2f99.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Kashuu Kiyomitsu",
+    "ja" : "ねんどろいどどーる 加州清光 (ねんどろいどどーる かしゅうきよみつ)",
+    "ko" : "카슈 키요미츠"
+  },
+  "price" : 8300,
+  "release_date" : [
+    "2022/01"
+  ],
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLIINE-"
+  },
+  "type" : "doll"
+}

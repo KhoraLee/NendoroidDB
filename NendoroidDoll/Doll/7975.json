@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7975,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190111/7975/57307/large/cbd964cc17d7d7b10a76ab67e8d8bb5e.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Queen of Hearts",
+    "ja" : "ねんどろいどどーる クイーンオブハート (ねんどろいどどーる くいーんおぶはーと)",
+    "ko" : "퀸 오브 하트"
+  },
+  "price" : 5602,
+  "release_date" : [
+    "2019/08"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

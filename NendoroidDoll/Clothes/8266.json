@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 8266,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190419/8266/59673/large/3befadad6707b52110cb07d6b40e2094.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Kigurumi Pajamas (Fou-kun)",
+    "ja" : "ねんどろいどどーる きぐるみパジャマ(フォウくん) (ねんどろいどどーる きぐるみぱじゃま(ふぉうくん))",
+    "ko" : "키구루미 잠옷(포우군)"
+  },
+  "price" : 3000,
+  "release_date" : [
+    "2019/11"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "Fate/Grand Order"
+  },
+  "type" : "clothes"
+}

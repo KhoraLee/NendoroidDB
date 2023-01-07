@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11874,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211006/11874/91036/large/f1a0a96fe7dface3915aa7611aa8ff81.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Zenitsu Agatsuma",
+    "ja" : "ねんどろいどどーる 我妻善逸 (ねんどろいどどーる あがつまぜんいつ)",
+    "ko" : "아가츠마 젠이츠"
+  },
+  "price" : 8300,
+  "release_date" : [
+    "2022/06"
+  ],
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "type" : "doll"
+}

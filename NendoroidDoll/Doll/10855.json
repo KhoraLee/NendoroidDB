@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10855,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210224/10855/81543/large/e6ad2ee0cd1794a06631c6c8e0aac575.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Wei Wuxian: Qishan Night-Hunt Ver.",
+    "ja" : "ねんどろいどどーる 魏無羨 岐山騎射Ver. (ねんどろいどどーる ぎむせん ぎざんきしゃVer.)",
+    "ko" : "위무선 기산기사 Ver."
+  },
+  "price" : 7850,
+  "release_date" : [
+    "2021/12"
+  ],
+  "series" : {
+    "en" : "The Master of Diabolism",
+    "ja" : "アニメ「魔道祖師」",
+    "ko" : "마도조사"
+  },
+  "type" : "doll"
+}

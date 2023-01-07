@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 10090,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200918/10090/74582/large/80e106256bf9c6486f4c7500b984fd6d.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Outfit Set (Yukata - Sky Blue)",
+    "ja" : "ねんどろいどどーる おようふくセット ゆかた（そらいろ） (ねんどろいどどーる おようふくせっと ゆかた（そらいろ）)",
+    "ko" : "유카타(하늘색)"
+  },
+  "price" : 2200,
+  "release_date" : [
+    "2020/12"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "clothes"
+}

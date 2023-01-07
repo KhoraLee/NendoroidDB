@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 12358,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220217/12358/95584/large/4ec7fec23f7104803b75f7062bcc9474.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Outfit Set (Rose: Another Color)",
+    "ja" : "ねんどろいどどーる おようふくセット ローズ Another Color (ねんどろいどどーる おようふくせっと ろーず あなざー からー)",
+    "ko" : "로즈 Another Color Ver. 의상"
+  },
+  "price" : 4000,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "clothes"
+}

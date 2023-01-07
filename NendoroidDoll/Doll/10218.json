@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10218,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201013/10218/75689/large/76c50a981c321d0292e17b15a16b1f08.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Wolf: Ash",
+    "ja" : "ねんどろいどどーる 狼くん：アッシュ (ねんどろいどどーる おおかみくん：あっしゅ)",
+    "ko" : "늑대 애쉬"
+  },
+  "price" : 6600,
+  "release_date" : [
+    "2021/06"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12069,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211130/12069/92725/large/ca50b25f68e1cb4219f581a3feaf05b3.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Kiro: If Time Flows Back Ver.",
+    "ja" : "ねんどろいどどーる キラ 似水年華Ver. (ねんどろいどどーる きら しすいねんかVer.)",
+    "ko" : "주기락"
+  },
+  "price" : 8900,
+  "release_date" : [
+    "2022/11"
+  ],
+  "series" : {
+    "en" : "Mr. Love: Queen's Choice",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "type" : "doll"
+}

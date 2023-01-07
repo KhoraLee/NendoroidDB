@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7842,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181127/7842/56273/large/9ec955672d153b68f211edad428c80ef.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Avenger/Jeanne d'Arc (Alter) Shinjuku Ver.",
+    "ja" : "ねんどろいどどーる アヴェンジャー/ジャンヌ・ダルク〔オルタ〕新宿Ver. (ねんどろいどどーる あゔぇんじゃー/じゃんぬ・だるく〔おるた〕しんじゅくVer.)",
+    "ko" : "어벤저/잔 다르크[얼터] 신주쿠 Ver."
+  },
+  "price" : 6112,
+  "release_date" : [
+    "2019/08"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "Fate/Grand Order"
+  },
+  "type" : "doll"
+}

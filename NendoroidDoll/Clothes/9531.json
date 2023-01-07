@@ -1,0 +1,20 @@
+{
+  "gsc_productNum" : 9531,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200520/9531/69854/large/a5fd6b6841b7dc05ba9a1ec586bde97f.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Outfit Set: Priest",
+    "ja" : "ねんどろいどどーる おようふくセット 神父 (ねんどろいどどーる おようふくせっと しんぷ)",
+    "ko" : "신부 의상"
+  },
+  "price" : 3700,
+  "release_date" : [
+    "2021/01",
+    "2022/09"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "clothes"
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13597,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221125/13597/107769/large/af6c627d7060542012b6606a3aa9547d.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Hanako kun",
+    "ja" : "ねんどろいどどーる 花子くん (ねんどろいどどーる はなこくん)",
+    "ko" : "하나코 군"
+  },
+  "price" : 8900,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Toilet-bound Hanako kun",
+    "ja" : "地縛少年花子くん",
+    "ko" : "지박소년 하나코 군"
+  },
+  "type" : "doll"
+}

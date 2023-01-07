@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9103,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191217/9103/66237/large/aab53ddb84e75f4e102801deb809f19a.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Kizuna AI",
+    "ja" : "ねんどろいどどーる キズナアイ (ねんどろいどどーる きずなあい)",
+    "ko" : "키즈나 아이"
+  },
+  "price" : 6820,
+  "release_date" : [
+    "2020/09"
+  ],
+  "series" : {
+    "en" : "Kizuna AI",
+    "ja" : "キズナアイ",
+    "ko" : "버츄얼 유튜버"
+  },
+  "type" : "doll"
+}

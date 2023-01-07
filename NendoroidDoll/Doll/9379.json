@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9379,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200324/9379/68547/large/74bf0954aa2c30f80ef121e6971cf7f3.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Rider of \"Black\": Casual Ver.",
+    "ja" : "ねんどろいどどーる “黒”のライダー 私服Ver. (ねんどろいどどーる くろのらいだー しふくVer.)",
+    "ko" : "흑의 라이더 사복 Ver."
+  },
+  "price" : 6820,
+  "release_date" : [
+    "2020/11"
+  ],
+  "series" : {
+    "en" : "Fate/Apocrypha",
+    "ja" : "Fate/Apocrypha",
+    "ko" : "Fate/Apocrypha"
+  },
+  "type" : "doll"
+}

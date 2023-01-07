@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 10219,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201013/10219/75680/large/cefe1228df54cf5566d22362c0876048.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll: Outfit Set (Wolf)",
+    "ja" : "ねんどろいどどーる おようふくセット 狼くん (ねんどろいどどーる おようふくせっと おおかみくん)",
+    "ko" : "늑대 애쉬 의상"
+  },
+  "price" : 4000,
+  "release_date" : [
+    "2021/06"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "clothes"
+}

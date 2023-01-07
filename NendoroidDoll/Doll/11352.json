@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11352,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210615/11352/85908/large/cf43b5620839826ac343b04b7d586b8d.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Inventor: Kanou",
+    "ja" : "ねんどろいどどーる 発明家：カノウ (ねんどろいどどーる はつめいか：かのう)",
+    "ko" : "발명가 카노와"
+  },
+  "price" : 9500,
+  "release_date" : [
+    "2022/02"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

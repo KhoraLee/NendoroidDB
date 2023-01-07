@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12795,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220609/12795/99628/large/27a5156325556cb7dfce7b10f4bb832c.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Toy Soldier: Callion",
+    "ja" : "ねんどろいどどーる おもちゃの兵隊：カリオン (ねんどろいどどーる おもちゃのへいたい：かりおん)",
+    "ko" : "장난감 군인: 카리온"
+  },
+  "price" : 9000,
+  "release_date" : [
+    "2023/03"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

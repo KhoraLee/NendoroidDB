@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9817,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200722/9817/72338/large/d5bfcb78108f29d9a073fec2d36bf9c5.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Devil: Berg",
+    "ja" : "ねんどろいどどーる 悪魔：ベルク (ねんどろいどどーる あくま：べるく)",
+    "ko" : "악마 베르크"
+  },
+  "price" : 6600,
+  "release_date" : [
+    "2021/04"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}

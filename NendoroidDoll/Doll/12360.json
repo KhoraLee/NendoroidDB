@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12360,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220217/12360/95596/large/c2511a3b216440a56c40fb0e9884ff4c.jpg",
+  "name" : {
+    "en" : "Nendoroid Doll Alice: Another Color",
+    "ja" : "ねんどろいどどーる アリス Another Color (ねんどろいどどーる ありす あなざーからー)",
+    "ko" : "앨리스 Another Color Ver."
+  },
+  "price" : 5800,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Nendoroid Doll",
+    "ja" : "ねんどろいどどーる",
+    "ko" : "굿스마일 오리지널"
+  },
+  "type" : "doll"
+}
