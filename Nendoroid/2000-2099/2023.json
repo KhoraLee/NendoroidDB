@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13748,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221227/13748/109453/large/4193904ac194b3cacca5e925ea04c8bd.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow Miku: Serene Winter Ver.",
+    "ja" : "ねんどろいど 雪ミク 冬麗 Ver. (ねんどろいど ゆきみく ふゆうらら Ver.)",
+    "ko" : "유키미쿠"
+  },
+  "num" : "2023",
+  "price" : 9000,
+  "release_date" : [
+    "2023/02",
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "후유우라라 ver."
+  },
+  "set" : 31
+}

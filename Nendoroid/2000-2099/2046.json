@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13796,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230113/13796/110103/large/25f992ecd757d01b6ae0ff0746090276.jpg",
+  "name" : {
+    "en" : "Nendoroid Seraphina",
+    "ja" : "ねんどろいど セラフィナ (ねんどろいど せらふぃな)",
+    "ko" : "세라피나"
+  },
+  "num" : "2046",
+  "price" : 8400,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Legend of Mana: The Teardrop Crystal",
+    "ja" : "聖剣伝説 Legend of Mana -The Teardrop Crystal-",
+    "ko" : "성검전설 레전드 오브 마나: 더 티어드롭 크리스탈"
+  },
+  "set" : 309
+}

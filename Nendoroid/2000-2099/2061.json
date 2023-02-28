@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13979,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230215/13979/111644/large/60a1fad5cd5c00c61a2f131ec7e53684.jpg",
+  "name" : {
+    "en" : "Nendoroid Master & Haru",
+    "ja" : "ねんどろいど ご主人＆ハルさん (ねんどろいど ごしゅじん＆はるさん)",
+    "ko" : "마스터&하루"
+  },
+  "num" : "2061",
+  "price" : 7800,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Doomsday with My Dog",
+    "ja" : "世界の終わりに柴犬と",
+    "ko" : "세상의 종말에 시바견과"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13906,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230130/13906/110974/large/0299897de22f0a15c70ed56318799827.jpg",
+  "name" : {
+    "en" : "Nendoroid Octane",
+    "ja" : "ねんどろいど オクタン (ねんどろいど おくたん)",
+    "ko" : "옥테인"
+  },
+  "num" : "2059",
+  "price" : 7000,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Apex Legends",
+    "ja" : "エーペックスレジェンズ",
+    "ko" : "에이펙스 레전드"
+  }
+}

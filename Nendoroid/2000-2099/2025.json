@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13744,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221223/13744/109381/large/185b7d8189e32a9b9674c3d55e477732.jpg",
+  "name" : {
+    "en" : "Nendoroid Mugman",
+    "ja" : "ねんどろいど マグマン (ねんどろいど まぐまん)",
+    "ko" : "머그맨"
+  },
+  "num" : "2025",
+  "price" : 8500,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Cuphead",
+    "ja" : "Cuphead",
+    "ko" : "컵헤드"
+  },
+  "set" : 307
+}

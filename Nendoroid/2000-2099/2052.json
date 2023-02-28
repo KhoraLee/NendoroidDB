@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13808,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230117/13808/110080/large/d1b725fbbd78b82ab7c432e5cda8f155.jpg",
+  "name" : {
+    "en" : "Nendoroid Zhao Ling-Er: Nuwa's Descendants Ver.",
+    "ja" : "ねんどろいど 趙霊児 女媧後代Ver. (ねんどろいど ちょうれいじ じょかこうだいVer.)",
+    "ko" : "조령아: 여와후인 Ver."
+  },
+  "num" : "2052",
+  "price" : 7400,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Legend of Sword and Fairy",
+    "ja" : "仙剣奇侠伝",
+    "ko" : "선검기협전"
+  },
+  "set" : 214
+}

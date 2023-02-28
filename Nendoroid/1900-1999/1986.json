@@ -10,12 +10,12 @@
   "num" : "1986",
   "price" : 0,
   "release_date" : [
-
+    "2023/08"
   ],
   "series" : {
     "en" : "Teenage Mutant Ninja Turtles",
     "ja" : "ティーンエイジ・ミュータント・ニンジャ・タートルズ",
     "ko" : "닌자 거북이"
   },
-  "set" : 302
+  "set" : 304
 }

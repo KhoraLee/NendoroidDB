@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13916,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230201/13916/111087/large/4b1d812a24cb8169c2c11911b5f25393.jpg",
+  "name" : {
+    "en" : "Nendoroid Saint Tail",
+    "ja" : "ねんどろいど セイント・テール (ねんどろいど せいんと・てーる)",
+    "ko" : "세인트 테일"
+  },
+  "num" : "2060",
+  "price" : 6200,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Saint Tail",
+    "ja" : "怪盗セイント・テール",
+    "ko" : "천사소녀 네티(괴도 세인트 테일)"
+  }
+}

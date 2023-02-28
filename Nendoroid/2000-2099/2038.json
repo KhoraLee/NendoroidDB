@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13704,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221216/13704/109064/large/f71464fe397b2e5d0dcaf94d9cdfffa7.jpg",
+  "name" : {
+    "en" : "Nendoroid Keke Tang",
+    "ja" : "ねんどろいど 唐 可可 (ねんどろいど たん くぅくぅ)",
+    "ko" : "탕 쿠쿠"
+  },
+  "num" : "2038",
+  "price" : 6900,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Love Live! Superstar!!",
+    "ja" : "ラブライブ！スーパースター!!",
+    "ko" : "러브 라이브! 슈퍼스타!!"
+  },
+  "set" : 105
+}

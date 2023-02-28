@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13856,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230123/13856/110514/large/9c8618e9ad2c98e46360a0302c0fd0f0.jpg",
+  "name" : {
+    "en" : "Nendoroid Nagi Seishiro",
+    "ja" : "ねんどろいど 凪 誠士郎 (ねんどろいど なぎ せいしろう)",
+    "ko" : "나기 세이시로"
+  },
+  "num" : "2056",
+  "price" : 6700,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "BLUELOCK",
+    "ja" : "ブルーロック",
+    "ko" : "블루 록"
+  },
+  "set" : 305
+}

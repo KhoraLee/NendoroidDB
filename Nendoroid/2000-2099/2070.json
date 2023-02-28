@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13919,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230202/13919/111114/large/3ca9516ab1dc3d9fc90b7671242d7523.jpg",
+  "name" : {
+    "en" : "Nendoroid Lan Wangji: Year of the Rabbit Ver.",
+    "ja" : "ねんどろいど 藍忘機 卯年限定Ver. (ねんどろいど らんぼうき うどしげんていVer.)",
+    "ko" : "남망기: 토끼해 Ver."
+  },
+  "num" : "2070",
+  "price" : 7800,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "The Master of Diabolism",
+    "ja" : "アニメ「魔道祖師」",
+    "ko" : "마도조사"
+  },
+  "set" : 203
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13875,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230124/13875/110679/large/c01df68cffe08dbb26a0356aca1766da.jpg",
+  "name" : {
+    "en" : "Nendoroid Basil",
+    "ja" : "ねんどろいど バジル (ねんどろいど ばじる)",
+    "ko" : "바질"
+  },
+  "num" : "2057",
+  "price" : 5800,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "OMORI",
+    "ja" : "OMORI",
+    "ko" : "오모리"
+  }
+}

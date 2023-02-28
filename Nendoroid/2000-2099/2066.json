@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14037,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230222/14037/112241/large/335df01f08ee1115d97049264d26602a.jpg",
+  "name" : {
+    "en" : "Nendoroid Tsunomaki Watame",
+    "ja" : "ねんどろいど 角巻わため (ねんどろいど つのまきわため)",
+    "ko" : "츠노마키 와타메"
+  },
+  "num" : "2066",
+  "price" : 6600,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브"
+  },
+  "set" : 263
+}

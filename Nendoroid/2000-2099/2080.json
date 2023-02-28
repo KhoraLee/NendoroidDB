@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14008,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230220/14008/111922/large/0d9911ae07a2ed48d12ee53133e8fa9f.jpg",
+  "name" : {
+    "en" : "Nendoroid Zatch Bell",
+    "ja" : "ねんどろいど ガッシュ・ベル (ねんどろいど がっしゅ・べる)",
+    "ko" : "갓슈 벨"
+  },
+  "num" : "2080",
+  "price" : 6600,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Zatch Bell!",
+    "ja" : "金色のガッシュベル!!",
+    "ko" : "금색의 갓슈!!"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13993,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230217/13993/111803/large/df6c19c0613f10ef7105bb3a2f11e202.jpg",
+  "name" : {
+    "en" : "Nendoroid Damian Desmond",
+    "ja" : "ねんどろいど ダミアン・デズモンド (ねんどろいど だみあん・でずもんど)",
+    "ko" : "다미안 데스몬드"
+  },
+  "num" : "2078",
+  "price" : 6100,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "SPY x FAMILY",
+    "ja" : "SPY×FAMILY",
+    "ko" : "스파이 패밀리"
+  },
+  "set" : 293
+}

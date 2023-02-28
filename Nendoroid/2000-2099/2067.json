@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13928,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230206/13928/111226/large/083660d0fcede2c6895c0b5478043e61.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryusui Nanami",
+    "ja" : "ねんどろいど 七海龍水 (ねんどろいど ななみりゅうすい)",
+    "ko" : "나나미 류스이"
+  },
+  "num" : "2067",
+  "price" : 7000,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Dr. STONE",
+    "ja" : "Dr.STONE",
+    "ko" : "닥터 스톤"
+  },
+  "set" : 285
+}

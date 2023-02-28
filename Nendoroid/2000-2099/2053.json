@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13806,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230117/13806/110017/large/c3041c2bec4705298b64052f46fd5b8f.jpg",
+  "name" : {
+    "en" : "Nendoroid Chi",
+    "ja" : "ねんどろいど ちぃ (ねんどろいど ちぃ)",
+    "ko" : "치이"
+  },
+  "num" : "2053",
+  "price" : 7500,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Chobits",
+    "ja" : "ちょびっツ",
+    "ko" : "쵸비츠"
+  }
+}

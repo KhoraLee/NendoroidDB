@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13816,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230118/13816/110209/large/cbbebc4819d501cb9049252b65b6523e.jpg",
+  "name" : {
+    "en" : "Nendoroid Aoi Izumisawa",
+    "ja" : "ねんどろいど 和泉沢愛生 (ねんどろいど いずみさわあおい)",
+    "ko" : "이즈미사와 아오이"
+  },
+  "num" : "2055",
+  "price" : 6500,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Love Flops",
+    "ja" : "恋愛フロップス",
+    "ko" : "연애 플롭스"
+  }
+}

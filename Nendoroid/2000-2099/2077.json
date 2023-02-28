@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13999,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230217/13999/111860/large/ad4fbb087acf25b65708b258ca428728.jpg",
+  "name" : {
+    "en" : "Nendoroid Natsuki",
+    "ja" : "ねんどろいど ナツキ (ねんどろいど なつき)",
+    "ko" : "나츠키"
+  },
+  "num" : "2077",
+  "price" : 7500,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Doki Doki Literature Club!",
+    "ja" : "ドキドキ文芸部!",
+    "ko" : "두근두근 문예부!"
+  },
+  "set" : 286
+}

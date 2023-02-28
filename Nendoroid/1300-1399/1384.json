@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13937,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230207/13937/111296/large/a14ccb153b48ca1a495806ee8b1bd786.jpg",
+  "name" : {
+    "en" : "Nendoroid Sasha Braus",
+    "ja" : "ねんどろいど サシャ・ブラウス (ねんどろいど さしゃ・ぶらうす)",
+    "ko" : "사샤 브라우스"
+  },
+  "num" : "1384",
+  "price" : 7000,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Attack on Titan",
+    "ja" : "進撃の巨人",
+    "ko" : "진격의 거인"
+  },
+  "set" : 87
+}

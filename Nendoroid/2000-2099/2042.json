@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13746,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221226/13746/109590/large/7513236519eaae440c53d682a065027f.jpg",
+  "name" : {
+    "en" : "Nendoroid Rinne Amagi",
+    "ja" : "ねんどろいど 天城燐音 (ねんどろいど あまぎりんね)",
+    "ko" : "아마기 린네"
+  },
+  "num" : "2042",
+  "price" : 7900,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Ensemble Stars!! Music",
+    "ja" : "あんさんぶるスターズ！！Music",
+    "ko" : "앙상블 스타즈! 뮤직"
+  },
+  "set" : 181
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13991,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230216/13991/111988/large/ee7a96f38787a06b590e6e8c33a9708e.jpg",
+  "name" : {
+    "en" : "Nendoroid Sylphiette",
+    "ja" : "ねんどろいど シルフィエット (ねんどろいど しるふぃえっと)",
+    "ko" : "실피에트"
+  },
+  "num" : "1787",
+  "price" : 6500,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Mushoku Tensei: Jobless Reincarnation",
+    "ja" : "無職転生 ～異世界行ったら本気だす～",
+    "ko" : "무직전생 ~이세계에 갔으면 최선을 다한다~"
+  },
+  "set" : 257
+}

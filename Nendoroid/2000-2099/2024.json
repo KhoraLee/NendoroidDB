@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13743,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221223/13743/109373/large/7c07aa240922f29fcb4e774aedb98de7.jpg",
+  "name" : {
+    "en" : "Nendoroid Cuphead",
+    "ja" : "ねんどろいど カップヘッド (ねんどろいど かっぷへっど)",
+    "ko" : "컵헤드"
+  },
+  "num" : "2024",
+  "price" : 8500,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Cuphead",
+    "ja" : "Cuphead",
+    "ko" : "컵헤드"
+  },
+  "set" : 307
+}

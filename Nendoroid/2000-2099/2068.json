@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13980,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230215/13980/111678/large/c9e67a0ec486ab83c08252c4ab4c0bc6.jpg",
+  "name" : {
+    "en" : "Nendoroid Boyfriend",
+    "ja" : "ねんどろいど ボーイフレンド (ねんどろいど ぼーいふれんど)",
+    "ko" : "남자친구"
+  },
+  "num" : "2068",
+  "price" : 6600,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Friday Night Funkin'",
+    "ja" : "Friday Night Funkin'",
+    "ko" : "프라이데이 나이트 펑킨"
+  }
+}

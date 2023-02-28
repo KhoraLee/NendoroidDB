@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13942,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230208/13942/111722/large/3ea9bf7c1c93a62b899dd9dac8d44a71.jpg",
+  "name" : {
+    "en" : "Nendoroid Enrico · P",
+    "ja" : "ねんどろいど エンリコ・P (ねんどろいど えんりこ・ぷっち)",
+    "ko" : "엔리코 푸치"
+  },
+  "num" : "2081",
+  "price" : 6160,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure: Stone Ocean",
+    "ja" : "アニメ『ジョジョの奇妙な冒険 ストーンオーシャン』",
+    "ko" : "죠죠의 기묘한 모험: 스톤 오션"
+  },
+  "set" : 191
+}

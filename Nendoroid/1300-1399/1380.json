@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13969,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230213/13969/111545/large/a58baa5d771f9f8912b1bb3bf3c8eae2.jpg",
+  "name" : {
+    "en" : "Nendoroid Eren Yeager: Survey Corps Ver.",
+    "ja" : "ねんどろいど エレン・イェーガー 調査兵団 Ver. (ねんどろいど えれん・いぇーがー ちょうさへいだん Ver.)",
+    "ko" : "에렌 예거: 조사병단 Ver."
+  },
+  "num" : "1380",
+  "price" : 6500,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Attack on Titan",
+    "ja" : "進撃の巨人",
+    "ko" : "진격의 거인"
+  },
+  "set" : 87
+}

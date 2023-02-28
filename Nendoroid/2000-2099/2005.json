@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13909,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230130/13909/111001/large/1f11eccc25ec0c57d8d4ecb1aacc6d5a.jpg",
+  "name" : {
+    "en" : "Nendoroid Shion",
+    "ja" : "ねんどろいど 紫苑 (ねんどろいど しおん)",
+    "ko" : "시온"
+  },
+  "num" : "2005",
+  "price" : 7000,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "NO.6",
+    "ja" : "NO.6",
+    "ko" : "NO.6"
+  },
+  "set" : 306
+}

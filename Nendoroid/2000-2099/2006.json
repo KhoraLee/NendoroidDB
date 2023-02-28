@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13910,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230130/13910/111012/large/cbbc8bc9539b0263dab32917d2a0b7c5.jpg",
+  "name" : {
+    "en" : "Nendoroid Nezumi",
+    "ja" : "ねんどろいど ネズミ (ねんどろいど ねずみ)",
+    "ko" : "네즈미"
+  },
+  "num" : "2006",
+  "price" : 7000,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "NO.6",
+    "ja" : "NO.6",
+    "ko" : "NO.6"
+  },
+  "set" : 306
+}

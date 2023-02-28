@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13872,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230124/13872/110653/large/b1b9639c11d491f21a4d87d51ad4bb6b.jpg",
+  "name" : {
+    "en" : "Nendoroid Murasaki Shion",
+    "ja" : "ねんどろいど 紫咲シオン (ねんどろいど むらさきしおん)",
+    "ko" : "무라사키 시온"
+  },
+  "num" : "2050",
+  "price" : 8800,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브"
+  },
+  "set" : 263
+}

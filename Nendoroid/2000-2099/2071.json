@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13920,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230202/13920/111122/large/5bb2d96368fe235da420bcfabf5473fa.jpg",
+  "name" : {
+    "en" : "Nendoroid Wei Wuxian: Year of the Rabbit Ver.",
+    "ja" : "ねんどろいど 魏無羨 卯年限定Ver. (ねんどろいど ぎむせん うどしげんていVer.)",
+    "ko" : "위무선: 토끼해 Ver."
+  },
+  "num" : "2071",
+  "price" : 7800,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "The Master of Diabolism",
+    "ja" : "アニメ「魔道祖師」",
+    "ko" : "마도조사"
+  },
+  "set" : 203
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13908,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230130/13908/110990/large/687384379217a0e87ac48e3663bb055f.jpg",
+  "name" : {
+    "en" : "Nendoroid Langa",
+    "ja" : "ねんどろいど ランガ (ねんどろいど らんが)",
+    "ko" : "하세가와 란가"
+  },
+  "num" : "2049",
+  "price" : 7500,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "SK8 the Infinity",
+    "ja" : "SK∞ エスケーエイト",
+    "ko" : "SK8 에스케이 에이트"
+  },
+  "set" : 312
+}

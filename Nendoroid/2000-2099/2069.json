@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13918,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230201/13918/111106/large/5b165ae7a753ae57721e43dd7ec13949.jpg",
+  "name" : {
+    "en" : "Nendoroid Hitori Gotoh",
+    "ja" : "ねんどろいど 後藤ひとり (ねんどろいど ごとうひとり)",
+    "ko" : "고토 히토리"
+  },
+  "num" : "2069",
+  "price" : 5800,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Bocchi the Rock!",
+    "ja" : "ぼっち・ざ・ろっく！",
+    "ko" : "봇치 더 록!"
+  }
+}

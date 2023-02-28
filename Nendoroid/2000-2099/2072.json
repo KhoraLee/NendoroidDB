@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13975,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230214/13975/111600/large/12beae8368168315b46d91539696b270.jpg",
+  "name" : {
+    "en" : "Nendoroid Kirie Goshima",
+    "ja" : "ねんどろいど 五島桐絵 (ねんどろいど ごしまきりえ)",
+    "ko" : "고시마 키리에"
+  },
+  "num" : "2072",
+  "price" : 6500,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Uzumaki",
+    "ja" : "うずまき",
+    "ko" : "소용돌이"
+  }
+}

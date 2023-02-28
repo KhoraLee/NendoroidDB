@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13971,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230213/13971/111564/large/2329d58cafb7371b7c1b4c70e502ca98.jpg",
+  "name" : {
+    "en" : "Nendoroid Armin Arlert: Survey Corps Ver.",
+    "ja" : "ねんどろいど アルミン・アルレルト 調査兵団 Ver. (ねんどろいど あるみん・あるれると ちょうさへいだん Ver.)",
+    "ko" : "아르민 알레르토: 조사병단 Ver."
+  },
+  "num" : "1382",
+  "price" : 6500,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Attack on Titan",
+    "ja" : "進撃の巨人",
+    "ko" : "진격의 거인"
+  },
+  "set" : 87
+}

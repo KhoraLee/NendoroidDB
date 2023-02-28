@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13788,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230113/13788/109868/large/95014e37dfa2ddef6cf482ebf41cadc2.jpg",
+  "name" : {
+    "en" : "Nendoroid Surtr",
+    "ja" : "ねんどろいど スルト (ねんどろいど すると)",
+    "ko" : "수르트"
+  },
+  "num" : "2047",
+  "price" : 7300,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 216
+}

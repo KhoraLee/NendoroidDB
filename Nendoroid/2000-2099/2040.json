@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13738,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221222/13738/109348/large/a521e156a82f007816d883904f6f25ec.jpg",
+  "name" : {
+    "en" : "Nendoroid Elmo",
+    "ja" : "ねんどろいど エルモ (ねんどろいど えるも)",
+    "ko" : "엘모"
+  },
+  "num" : "2040",
+  "price" : 7500,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Sesame Street",
+    "ja" : "セサミストリート",
+    "ko" : "세서미 스트리트"
+  },
+  "set" : 310
+}

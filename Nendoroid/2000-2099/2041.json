@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13747,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221226/13747/109603/large/c25510c690efc01d934d0ea98c7a0b79.jpg",
+  "name" : {
+    "en" : "Nendoroid Hiiro Amagi",
+    "ja" : "ねんどろいど 天城一彩 (ねんどろいど あまぎひいろ)",
+    "ko" : "아마기 히이로"
+  },
+  "num" : "2041",
+  "price" : 7900,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Ensemble Stars!! Music",
+    "ja" : "あんさんぶるスターズ！！Music",
+    "ko" : "앙상블 스타즈! 뮤직"
+  },
+  "set" : 181
+}

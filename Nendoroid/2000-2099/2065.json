@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13951,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230209/13951/111408/large/4b26154340169eb82a17d7b91ca41781.jpg",
+  "name" : {
+    "en" : "Nendoroid Hawks",
+    "ja" : "ねんどろいど ホークス (ねんどろいど ほーくす)",
+    "ko" : "호크스"
+  },
+  "num" : "2065",
+  "price" : 8500,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 146
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13970,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230213/13970/111554/large/2eb574f1c7550585c9284d3f72d073ee.jpg",
+  "name" : {
+    "en" : "Nendoroid Mikasa Ackerman: Survey Corps Ver.",
+    "ja" : "ねんどろいど ミカサ・アッカーマン 調査兵団 Ver. (ねんどろいど みかさ・あっかーまん ちょうさへいだん Ver.)",
+    "ko" : "미카사 아커만: 조사병단 Ver."
+  },
+  "num" : "1381",
+  "price" : 6500,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "Attack on Titan",
+    "ja" : "進撃の巨人",
+    "ko" : "진격의 거인"
+  },
+  "set" : 87
+}

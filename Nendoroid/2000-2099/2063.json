@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13886,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230126/13886/110810/large/2596aebc6ccebd06a95e79330042176b.jpg",
+  "name" : {
+    "en" : "Nendoroid Ortho Shroud",
+    "ja" : "ねんどろいど オルト・シュラウド (ねんどろいど おると・しゅらうど)",
+    "ko" : "오르토 슈라우드"
+  },
+  "num" : "2063",
+  "price" : 7900,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 250
+}

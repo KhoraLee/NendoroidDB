@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13739,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221222/13739/110366/large/209a58fea16eabd19e97222db3d51c06.jpg",
+  "name" : {
+    "en" : "Nendoroid Cookie Monster",
+    "ja" : "ねんどろいど クッキーモンスター (ねんどろいど くっきーもんすたー)",
+    "ko" : "쿠키 몬스터"
+  },
+  "num" : "2051",
+  "price" : 7500,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Sesame Street",
+    "ja" : "セサミストリート",
+    "ko" : "세서미 스트리트"
+  },
+  "set" : 310
+}
