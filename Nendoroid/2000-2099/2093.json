@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14084,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230306/14084/112632/large/0eafe275c91064651ff5a46facf4bfcc.jpg",
+  "name" : {
+    "en" : "Nendoroid Barbie",
+    "ja" : "ねんどろいど Barbie (ねんどろいど ばーびー)",
+    "ko" : "바비"
+  },
+  "num" : "2093",
+  "price" : 9400,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Barbie",
+    "ja" : "Barbie",
+    "ko" : "바비"
+  }
+}

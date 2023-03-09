@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14045,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230227/14045/112312/large/8c6b24745af755812336cf6c13428ce6.jpg",
+  "name" : {
+    "en" : "Nendoroid Akiha Tohno",
+    "ja" : "ねんどろいど 遠野秋葉 (ねんどろいど とおのあきは)",
+    "ko" : "토오노 아키하"
+  },
+  "num" : "2083",
+  "price" : 7500,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "TSUKIHIME -A piece of blue glass moon-",
+    "ja" : "月姫 -A piece of blue glass moon-",
+    "ko" : "월희"
+  },
+  "set" : 1
+}

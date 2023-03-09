@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14044,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230227/14044/112305/large/d56c459fe22717de17323a0805807090.jpg",
+  "name" : {
+    "en" : "Nendoroid Yukikaze",
+    "ja" : "ねんどろいど 雪風 (ねんどろいど ゆきかぜ)",
+    "ko" : "유키카제"
+  },
+  "num" : "2082",
+  "price" : 7200,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 89
+}

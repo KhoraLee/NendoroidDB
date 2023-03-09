@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14058,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230228/14058/112441/large/6760c98ffecb5e2c3993f3f643c0872c.jpg",
+  "name" : {
+    "en" : "Nendoroid Ladybug",
+    "ja" : "ねんどろいど レディバグ (ねんどろいど れでぃばぐ)",
+    "ko" : "레이디버그"
+  },
+  "num" : "2084",
+  "price" : 7300,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Miraculous: Tales Of Ladybug & Cat Noir",
+    "ja" : "ミラキュラス レディバグ&シャノワール",
+    "ko" : "미라큘러스: 레이디버그와 블랙캣"
+  }
+}

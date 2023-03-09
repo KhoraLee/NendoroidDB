@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14059,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230228/14059/112448/large/29c7aabc6c1b48509c4c9cca846d36f4.jpg",
+  "name" : {
+    "en" : "Nendoroid Mugen",
+    "ja" : "ねんどろいど ムゲン (ねんどろいど むげん)",
+    "ko" : "무겐"
+  },
+  "num" : "2085",
+  "price" : 7000,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Samurai Champloo",
+    "ja" : "サムライチャンプルー",
+    "ko" : "사무라이 참프루"
+  }
+}

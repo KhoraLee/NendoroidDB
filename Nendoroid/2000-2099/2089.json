@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14083,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230306/14083/112665/large/46b957c86078d0e53047716d188aee44.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Street SEKAI Ver.",
+    "ja" : "ねんどろいど 初音ミク ストリートのセカイVer. (ねんどろいど はつねみく すとりーとのせかいVer.)",
+    "ko" : "하츠네 미쿠 스트리트의 세카이 Ver."
+  },
+  "num" : "2089",
+  "price" : 8500,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "HATSUNE MIKU: COLORFUL STAGE!",
+    "ja" : "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+    "ko" : "하츠네 미쿠: 컬러풀 스테이지!"
+  },
+  "set" : 10
+}
