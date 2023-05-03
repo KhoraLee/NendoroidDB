@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14320,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230425/14320/114877/large/d4194f4083c828c93b867b380db5e064.jpg",
+  "name" : {
+    "en" : "Nendoroid Elf",
+    "ja" : "ねんどろいど エルフ (ねんどろいど えるふ)",
+    "ko" : "엘프"
+  },
+  "num" : "2130",
+  "price" : 6700,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "Uncle from Another World",
+    "ja" : "異世界おじさん",
+    "ko" : "이세계 삼촌"
+  },
+  "set" : 317
+}

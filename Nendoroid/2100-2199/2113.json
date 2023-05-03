@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14321,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230425/14321/114869/large/9ff77be46f31fdb7dca5dea9604603ec.jpg",
+  "name" : {
+    "en" : "Nendoroid Kaori Miyazono",
+    "ja" : "ねんどろいど 宮園かをり (ねんどろいど みやぞのかをり)",
+    "ko" : "미야조노 카오리"
+  },
+  "num" : "2113",
+  "price" : 6800,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Your Lie in April",
+    "ja" : "四月は君の嘘",
+    "ko" : "4월은 너의 거짓말"
+  }
+}

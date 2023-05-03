@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14267,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230417/14267/114347/large/0fd8fae718f8eea479c72b3f1b7c648b.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura (Tsubasa Ver.)",
+    "ja" : "ねんどろいど サクラ（Tsubasa Ver.） (ねんどろいど さくら（Tsubasa Ver.）)",
+    "ko" : "사쿠라 (츠바사 Ver.)"
+  },
+  "num" : "2152",
+  "price" : 6800,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "TSUBASA: RESERVoir CHRoNiCLE",
+    "ja" : "ツバサ-RESERVoir CHRoNiCLE-",
+    "ko" : "츠바사 크로니클"
+  },
+  "set" : 318
+}

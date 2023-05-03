@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14133,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230320/14133/113104/large/57fd2c130620cc7ff529a991ce0a82c7.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakunosuke Oda",
+    "ja" : "ねんどろいど 織田作之助 (ねんどろいど おださくのすけ)",
+    "ko" : "오다 사쿠노스케"
+  },
+  "num" : "2087",
+  "price" : 7000,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Bungo Stray Dogs",
+    "ja" : "文豪ストレイドッグス",
+    "ko" : "문호 스트레이독스"
+  },
+  "set" : 315
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14113,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230314/14113/112909/large/42c01468fa1eca5d107430f0ae7de155.jpg",
+  "name" : {
+    "en" : "Nendoroid Ralsei",
+    "ja" : "ねんどろいど ラルセイ (ねんどろいど らるせい)",
+    "ko" : "랄세이"
+  },
+  "num" : "2090",
+  "price" : 8900,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "DELTARUNE",
+    "ja" : "DELTARUNE",
+    "ko" : "델타룬"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14163,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230327/14163/113474/large/a2f12896072b0dff26040d9064dc8366.jpg",
+  "name" : {
+    "en" : "Nendoroid Maya Fey",
+    "ja" : "ねんどろいど 綾里真宵 (ねんどろいど あやさとまよい)",
+    "ko" : "아야사토 마요이"
+  },
+  "num" : "2116",
+  "price" : 6700,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Ace Attorney",
+    "ja" : "逆転裁判",
+    "ko" : "역전재판"
+  },
+  "set" : 278
+}

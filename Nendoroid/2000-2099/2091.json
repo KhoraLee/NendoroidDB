@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14108,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230314/14108/112916/large/a7eac72858fbb4cedb50404f7d120dcd.jpg",
+  "name" : {
+    "en" : "Nendoroid Mahiro Oyama",
+    "ja" : "ねんどろいど 緒山まひろ (ねんどろいど おやままひろ)",
+    "ko" : "오야마 마히로"
+  },
+  "num" : "2091",
+  "price" : 7300,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "ONIMAI: I'm Now Your Sister!",
+    "ja" : "お兄ちゃんはおしまい！",
+    "ko" : "오빠는 끝!"
+  }
+}

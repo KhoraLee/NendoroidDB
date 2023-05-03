@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14318,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230425/14318/114790/large/a23fefa1e5b487247cd68be1eec7de77.jpg",
+  "name" : {
+    "en" : "Nendoroid Amu Hinamori",
+    "ja" : "ねんどろいど 日奈森あむ (ねんどろいど ひなもりあむ)",
+    "ko" : "히나모리 아무"
+  },
+  "num" : "2144",
+  "price" : 6900,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "Shugo Chara!",
+    "ja" : "しゅごキャラ!",
+    "ko" : "캐릭캐릭 체인지"
+  }
+}

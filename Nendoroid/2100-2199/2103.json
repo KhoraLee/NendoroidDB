@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14272,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230417/14272/114413/large/c7e595e3cc1eb1dd6f336295e01a5f05.jpg",
+  "name" : {
+    "en" : "Nendoroid Haruhi Fujioka",
+    "ja" : "ねんどろいど 藤岡ハルヒ (ねんどろいど ふじおかはるひ)",
+    "ko" : "후지오카 하루히"
+  },
+  "num" : "2103",
+  "price" : 6500,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Ouran High School Host Club",
+    "ja" : "桜蘭高校ホスト部",
+    "ko" : "오란고교 호스트부"
+  },
+  "set" : 316
+}

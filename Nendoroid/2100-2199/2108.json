@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14183,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230328/14183/113639/large/648b01c985831b734d53fa83fda0ff0a.jpg",
+  "name" : {
+    "en" : "Nendoroid Fuyutsuki-san",
+    "ja" : "ねんどろいど 冬月さん (ねんどろいど ふゆつきさん)",
+    "ko" : "후유츠키 씨"
+  },
+  "num" : "2108",
+  "price" : 7000,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "The Ice Guy and His Cool Female Colleague",
+    "ja" : "氷属性男子とクールな同僚女子",
+    "ko" : "빙속성 남자와 쿨한 동료 여자"
+  }
+}

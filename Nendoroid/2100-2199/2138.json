@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14257,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230414/14257/114269/large/569c6be00c0e97c91d93ec299398118d.jpg",
+  "name" : {
+    "en" : "Nendoroid Finn Oldman",
+    "ja" : "ねんどろいど フィン・オールドマン (ねんどろいど ふぃん・おーるどまん)",
+    "ko" : "핀 올드만"
+  },
+  "num" : "2138",
+  "price" : 6900,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "HIGH CARD",
+    "ja" : "HIGH CARD ハイカード",
+    "ko" : "HIGH CARD"
+  }
+}

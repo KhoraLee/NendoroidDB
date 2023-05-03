@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14259,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230417/14259/114299/large/7aba660b1e130d43dba8b3a9ae4b6dfc.jpg",
+  "name" : {
+    "en" : "Nendoroid Apollo Justice",
+    "ja" : "ねんどろいど 王泥喜法介 (ねんどろいど おどろきほうすけ)",
+    "ko" : "오도로키 호우스케"
+  },
+  "num" : "2117",
+  "price" : 6700,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Ace Attorney",
+    "ja" : "逆転裁判",
+    "ko" : "역전재판"
+  },
+  "set" : 278
+}

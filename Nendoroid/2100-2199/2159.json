@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14322,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230425/14322/114803/large/d81621ceac2898a800f7fc3ce6d0fc5f.jpg",
+  "name" : {
+    "en" : "Nendoroid Masako Nozawa",
+    "ja" : "ねんどろいど 野沢雅子 (ねんどろいど のざわまさこ)",
+    "ko" : "노자와 마사코"
+  },
+  "num" : "2159",
+  "price" : 8500,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "AONI PRODUCTION",
+    "ja" : "青二プロダクション",
+    "ko" : "아오니 프로덕션"
+  }
+}

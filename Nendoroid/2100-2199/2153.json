@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14268,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230417/14268/114355/large/6fe1a018e907fb9cc7b6ecd07b486580.jpg",
+  "name" : {
+    "en" : "Nendoroid Syaoran (Tsubasa Ver.)",
+    "ja" : "ねんどろいど 小狼（Tsubasa Ver.） (ねんどろいど しゃおらん（Tsubasa Ver.）)",
+    "ko" : "샤오랑 (츠바사 Ver.)"
+  },
+  "num" : "2153",
+  "price" : 6800,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "TSUBASA: RESERVoir CHRoNiCLE",
+    "ja" : "ツバサ-RESERVoir CHRoNiCLE-",
+    "ko" : "츠바사 크로니클"
+  },
+  "set" : 318
+}

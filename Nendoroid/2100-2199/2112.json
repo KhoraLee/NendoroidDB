@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14296,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230420/14296/114582/large/f84a2b1c0155f54ba0e0ff813dccaaa0.jpg",
+  "name" : {
+    "en" : "Nendoroid Akaza",
+    "ja" : "ねんどろいど 猗窩座 (ねんどろいど あかざ)",
+    "ko" : "아카자"
+  },
+  "num" : "2112",
+  "price" : 7000,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "set" : 222
+}

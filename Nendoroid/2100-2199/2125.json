@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14264,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230417/14264/114398/large/2d3cc5733ade3f0666005fd5e7eefcd1.jpg",
+  "name" : {
+    "en" : "Nendoroid David",
+    "ja" : "ねんどろいど デイビッド (ねんどろいど でいびっど)",
+    "ko" : "데이비드"
+  },
+  "num" : "2125",
+  "price" : 7500,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "Cyberpunk: Edgerunners",
+    "ja" : "サイバーパンク エッジランナーズ",
+    "ko" : "사이버펑크: 엣지러너"
+  }
+}

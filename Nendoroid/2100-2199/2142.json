@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14327,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230425/14327/114852/large/2fc18ad9bfa86e10294359cdbe098cde.jpg",
+  "name" : {
+    "en" : "Nendoroid Nano Shinonome: Keiichi Arawi Ver.",
+    "ja" : "ねんどろいど 東雲なの あらゐけいいちVer. (ねんどろいど しののめなの あらゐけいいちVer.)",
+    "ko" : "시노노메 나노 아라이 케이이치 Ver."
+  },
+  "num" : "2142",
+  "price" : 5800,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Nichijou",
+    "ja" : "日常",
+    "ko" : "일상"
+  },
+  "set" : 58
+}

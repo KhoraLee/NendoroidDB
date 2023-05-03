@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14274,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230417/14274/114429/large/dbe23739e38b2a3461c9c37e25f6fcb6.jpg",
+  "name" : {
+    "en" : "Nendoroid Kyoya Ootori",
+    "ja" : "ねんどろいど 鳳鏡夜 (ねんどろいど おおとりきょうや)",
+    "ko" : "오오토리 쿄우야"
+  },
+  "num" : "2105",
+  "price" : 6500,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Ouran High School Host Club",
+    "ja" : "桜蘭高校ホスト部",
+    "ko" : "오란고교 호스트부"
+  },
+  "set" : 316
+}

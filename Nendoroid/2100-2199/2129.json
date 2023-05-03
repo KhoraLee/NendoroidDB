@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14319,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230425/14319/114798/large/3f626a435ee0584c538fab87ef1d34c9.jpg",
+  "name" : {
+    "en" : "Nendoroid Uncle",
+    "ja" : "ねんどろいど おじさん (ねんどろいど おじさん)",
+    "ko" : "삼촌"
+  },
+  "num" : "2129",
+  "price" : 6700,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "Uncle from Another World",
+    "ja" : "異世界おじさん",
+    "ko" : "이세계 삼촌"
+  },
+  "set" : 317
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14329,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230425/14329/114861/large/8475a0a737591f15c0e6ff738c560c41.jpg",
+  "name" : {
+    "en" : "Nendoroid Hakase: Keiichi Arawi Ver.",
+    "ja" : "ねんどろいど はかせ あらゐけいいちVer. (ねんどろいど はかせ あらゐけいいちVer.)",
+    "ko" : "박사 아라이 케이이치 Ver."
+  },
+  "num" : "2143",
+  "price" : 5800,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Nichijou",
+    "ja" : "日常",
+    "ko" : "일상"
+  },
+  "set" : 58
+}

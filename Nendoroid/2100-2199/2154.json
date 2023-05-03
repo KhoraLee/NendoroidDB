@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14308,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230424/14308/114697/large/c68e81567c0c65f2ed805d30a0947725.jpg",
+  "name" : {
+    "en" : "Nendoroid Kei Hazuki",
+    "ja" : "ねんどろいど 葉月 珪 (ねんどろいど はづき けい)",
+    "ko" : "하즈키 케이"
+  },
+  "num" : "2154",
+  "price" : 6300,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Tokimeki Memorial Girl's Side",
+    "ja" : "ときめきメモリアル Girl's Side",
+    "ko" : "두근두근 메모리얼 걸즈 사이드"
+  }
+}

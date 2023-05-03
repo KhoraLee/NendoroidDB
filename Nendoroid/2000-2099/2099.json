@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14146,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230322/14146/113245/large/d4807669b7c6e68c9a5c54d4faacea2f.jpg",
+  "name" : {
+    "en" : "Nendoroid Akito Izuki",
+    "ja" : "ねんどろいど 伊月暁人 (ねんどろいど いづきあきと)",
+    "ko" : "이즈키 아키토"
+  },
+  "num" : "2099",
+  "price" : 6300,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Ghostwire: Tokyo",
+    "ja" : "Ghostwire: Tokyo",
+    "ko" : "고스트와이어: 도쿄"
+  }
+}

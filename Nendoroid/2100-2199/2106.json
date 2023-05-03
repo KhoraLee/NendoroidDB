@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14172,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230327/14172/113491/large/934c6c616eb1bd1e349599ee88710353.jpg",
+  "name" : {
+    "en" : "Nendoroid Diana",
+    "ja" : "ねんどろいど ダイアナ (ねんどろいど だいあな)",
+    "ko" : "다이애나"
+  },
+  "num" : "2106",
+  "price" : 8000,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "A-SOUL",
+    "ja" : "A-SOUL",
+    "ko" : "A-SOUL"
+  },
+  "set" : 304
+}

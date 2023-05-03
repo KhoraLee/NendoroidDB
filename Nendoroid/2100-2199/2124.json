@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14265,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230417/14265/114405/large/c70d4dbe4b4e9ee5bfd6016e33eb2473.jpg",
+  "name" : {
+    "en" : "Nendoroid Lily",
+    "ja" : "ねんどろいど リリィ (ねんどろいど りりぃ)",
+    "ko" : "릴리"
+  },
+  "num" : "2124",
+  "price" : 7000,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "Spy Classroom",
+    "ja" : "スパイ教室",
+    "ko" : "스파이 교실"
+  }
+}

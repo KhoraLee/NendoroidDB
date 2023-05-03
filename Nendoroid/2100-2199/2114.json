@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14173,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230327/14173/114019/large/f1b2c930fd8fbf05f16d963932049ed4.jpg",
+  "name" : {
+    "en" : "Nendoroid Shishiro Botan",
+    "ja" : "ねんどろいど 獅白ぼたん (ねんどろいど ししろぼたん)",
+    "ko" : "시시로 보탄"
+  },
+  "num" : "2114",
+  "price" : 6800,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브"
+  },
+  "set" : 264
+}

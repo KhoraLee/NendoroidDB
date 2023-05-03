@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14234,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230407/14234/114044/large/f7468bd4b4300c77d572569530a8f866.jpg",
+  "name" : {
+    "en" : "Nendoroid Ultraman (SHIN ULTRAMAN)",
+    "ja" : "ねんどろいど ウルトラマン（『シン・ウルトラマン』） (ねんどろいど うるとらまん（『しん・うるとらまん』）)",
+    "ko" : "울트라맨"
+  },
+  "num" : "2121",
+  "price" : 6200,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "SHIN ULTRAMAN",
+    "ja" : "シン・ウルトラマン",
+    "ko" : "신 울트라맨"
+  },
+  "set" : 238
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14154,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230324/14154/114379/large/105cb5b45da7a1b6360594fda7e33144.jpg",
+  "name" : {
+    "en" : "Nendoroid Lilia Vanrouge",
+    "ja" : "ねんどろいど リリア・ヴァンルージュ (ねんどろいど りりあ・ゔぁんるーじゅ)",
+    "ko" : "릴리아 반루즈"
+  },
+  "num" : "2140",
+  "price" : 7900,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 251
+}

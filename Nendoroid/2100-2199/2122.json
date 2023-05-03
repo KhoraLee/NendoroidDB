@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14238,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230410/14238/114089/large/cb0e89181ff4ab1bb74c622f9c74982e.jpg",
+  "name" : {
+    "en" : "Nendoroid Komekko",
+    "ja" : "ねんどろいど こめっこ (ねんどろいど こめっこ)",
+    "ko" : "코멧코"
+  },
+  "num" : "2122",
+  "price" : 5900,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "KONO SUBARASHII SEKAI NI BAKUEN WO!",
+    "ja" : "この素晴らしい世界に爆焔を！",
+    "ko" : "이 멋진 세계에 폭염을!"
+  },
+  "set" : 132
+}

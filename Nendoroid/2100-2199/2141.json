@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14218,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230405/14218/113922/large/11829dd52d5cbd66e82ba51214897cad.jpg",
+  "name" : {
+    "en" : "Nendoroid Koko (Hajime Kokonoi)",
+    "ja" : "ねんどろいど ココ（九井一） (ねんどろいど ここ（ここのいはじめ）)",
+    "ko" : "코코노이 하지메"
+  },
+  "num" : "2141",
+  "price" : 6300,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Tokyo Revengers",
+    "ja" : "東京リベンジャーズ",
+    "ko" : "도쿄 리벤저스"
+  },
+  "set" : 268
+}

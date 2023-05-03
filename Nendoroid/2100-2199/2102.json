@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14196,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230331/14196/113765/large/9db7c2024f31aa42cbfb7e4a8a267dee.jpg",
+  "name" : {
+    "en" : "Nendoroid Pretender/Oberon",
+    "ja" : "ねんどろいど プリテンダー/オベロン (ねんどろいど ぷりてんだー/おべろん)",
+    "ko" : "프리텐더/오베론"
+  },
+  "num" : "2102",
+  "price" : 6800,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
+}

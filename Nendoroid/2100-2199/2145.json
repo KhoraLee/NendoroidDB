@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14310,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230424/14310/114721/large/59fe2225d30582b66b37a7fb14ce5e8d.jpg",
+  "name" : {
+    "en" : "Nendoroid Inupi (Seishu Inui)",
+    "ja" : "ねんどろいど イヌピー（乾青宗） (ねんどろいど いぬぴー（いぬいせいしゅう）)",
+    "ko" : "이누피 (이누이 세이슈)"
+  },
+  "num" : "2145",
+  "price" : 6300,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Tokyo Revengers",
+    "ja" : "東京リベンジャーズ",
+    "ko" : "도쿄 리벤저스"
+  },
+  "set" : 268
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14273,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230417/14273/114421/large/7d2d3daf1cc8a0e9b7b90bcd4aa5118d.jpg",
+  "name" : {
+    "en" : "Nendoroid Tamaki Suoh",
+    "ja" : "ねんどろいど 須王環 (ねんどろいど すおうたまき)",
+    "ko" : "스오우 타마키"
+  },
+  "num" : "2104",
+  "price" : 6500,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Ouran High School Host Club",
+    "ja" : "桜蘭高校ホスト部",
+    "ko" : "오란고교 호스트부"
+  },
+  "set" : 316
+}

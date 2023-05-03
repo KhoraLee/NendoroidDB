@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14174,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230327/14174/114025/large/53d5851f811d5e5c3616622a4e5a9e0f.jpg",
+  "name" : {
+    "en" : "Nendoroid Yukihana Lamy",
+    "ja" : "ねんどろいど 雪花ラミィ (ねんどろいど ゆきはならみぃ)",
+    "ko" : "유키하나 라미"
+  },
+  "num" : "2115",
+  "price" : 6800,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브"
+  },
+  "set" : 264
+}

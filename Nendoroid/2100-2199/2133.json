@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14301,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230421/14301/114637/large/273f0f72546919908c3bbf25344bcd77.jpg",
+  "name" : {
+    "en" : "Nendoroid Yu Ishigami",
+    "ja" : "ねんどろいど 石上優 (ねんどろいど いしがみゆう)",
+    "ko" : "이시가미 유우"
+  },
+  "num" : "2133",
+  "price" : 6900,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "Kaguya-sama: Love is War - The First Kiss That Never Ends",
+    "ja" : "かぐや様は告らせたい-ファーストキッスは終わらない-",
+    "ko" : "카구야 님은 고백받고 싶어"
+  },
+  "set" : 233
+}

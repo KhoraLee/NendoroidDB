@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14270,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230417/14270/114378/large/6b38c21ac0243d78b186f2f7a62b191d.jpg",
+  "name" : {
+    "en" : "Nendoroid Toriel",
+    "ja" : "ねんどろいど トリエル (ねんどろいど とりえる)",
+    "ko" : "토리엘"
+  },
+  "num" : "2123",
+  "price" : 7000,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "UNDERTALE",
+    "ja" : "UNDERTALE",
+    "ko" : "언더테일"
+  },
+  "set" : 290
+}

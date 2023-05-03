@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14105,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230313/14105/112835/large/3e33d58096c690e39a4490e31842e178.jpg",
+  "name" : {
+    "en" : "Nendoroid Senjuro Rengoku",
+    "ja" : "ねんどろいど 煉󠄁獄千寿郎 (ねんどろいど れんごくせんじゅろう)",
+    "ko" : "렌고쿠 센쥬로"
+  },
+  "num" : "2092",
+  "price" : 6500,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "set" : 222
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14285,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230419/14285/114513/large/3d8f9d268e1eba5a171a894c3590bd1c.jpg",
+  "name" : {
+    "en" : "Nendoroid Mori Calliope",
+    "ja" : "ねんどろいど 森カリオペ (ねんどろいど もりかりおぺ)",
+    "ko" : "모리 칼리오페"
+  },
+  "num" : "2118",
+  "price" : 6500,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브"
+  },
+  "set" : 264
+}

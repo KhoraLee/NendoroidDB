@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14254,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230413/14254/114588/large/2bfa4f20fd81203745078292249bddce.jpg",
+  "name" : {
+    "en" : "Nendoroid Usui Yuen",
+    "ja" : "ねんどろいど 碓水幽烟 (ねんどろいど うすいゆうえん)",
+    "ko" : "우스이 유엔"
+  },
+  "num" : "2137",
+  "price" : 6900,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "REVENGER",
+    "ja" : "REVENGER",
+    "ko" : "리벤저"
+  }
+}

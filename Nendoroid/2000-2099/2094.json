@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14010,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230220/14010/112920/large/9cd16404926317f2512bf3d954d78ea3.jpg",
+  "name" : {
+    "en" : "Nendoroid Sebek Zigvolt",
+    "ja" : "ねんどろいど セベク・ジグボルト (ねんどろいど せべく・じぐぼると)",
+    "ko" : "세벡 지그볼트"
+  },
+  "num" : "2094",
+  "price" : 7900,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 251
+}

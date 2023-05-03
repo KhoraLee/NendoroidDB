@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14275,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230417/14275/114437/large/d5286cc29ef2a909bd7220a20211ec7e.jpg",
+  "name" : {
+    "en" : "Nendoroid Libra",
+    "ja" : "ねんどろいど Libra (ねんどろいど りぶら)",
+    "ko" : "Libra"
+  },
+  "num" : "2135",
+  "price" : 6200,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Tears of Themis",
+    "ja" : "未定事件簿",
+    "ko" : "미해결사건부"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14300,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230421/14300/114630/large/9dc940818797233c995801c115b13b1a.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Beauty Looking Back Ver.",
+    "ja" : "ねんどろいど 初音ミク 見返り美人ミクVer. (ねんどろいど はつねみく みかえりびじんみくVer.)",
+    "ko" : "하츠네 미쿠 되돌아보는 미인도"
+  },
+  "num" : "2100",
+  "price" : 8800,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
+}

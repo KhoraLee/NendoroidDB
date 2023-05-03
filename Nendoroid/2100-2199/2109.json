@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14176,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230327/14176/113519/large/0c76bf6f03a89a003f4b7125079c18a3.jpg",
+  "name" : {
+    "en" : "Nendoroid Lucy",
+    "ja" : "ねんどろいど ルーシー (ねんどろいど るーしー)",
+    "ko" : "루시"
+  },
+  "num" : "2109",
+  "price" : 7500,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Cyberpunk: Edgerunners",
+    "ja" : "サイバーパンク エッジランナーズ",
+    "ko" : "사이버펑크: 엣지러너"
+  },
+  "set" : 254
+}

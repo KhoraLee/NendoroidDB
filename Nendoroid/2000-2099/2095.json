@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14011,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230220/14011/112918/large/38b042452acec374e31bddb5bab5b3e2.jpg",
+  "name" : {
+    "en" : "Nendoroid Silver",
+    "ja" : "ねんどろいど シルバー (ねんどろいど しるばー)",
+    "ko" : "실버"
+  },
+  "num" : "2095",
+  "price" : 7900,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 251
+}

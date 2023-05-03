@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14271,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230417/14271/114387/large/1a38484f192de7eb54ecd286b19c4add.jpg",
+  "name" : {
+    "en" : "Nendoroid Six",
+    "ja" : "ねんどろいど シックス (ねんどろいど しっくす)",
+    "ko" : "식스"
+  },
+  "num" : "2146",
+  "price" : 7000,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "LITTLE NIGHTMARES",
+    "ja" : "LITTLE NIGHTMARES-リトルナイトメア-",
+    "ko" : "리틀 나이트메어"
+  }
+}

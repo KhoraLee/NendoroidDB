@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14132,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230320/14132/113096/large/afff068e0c6223b67dbd9423664332bb.jpg",
+  "name" : {
+    "en" : "Nendoroid Ango Sakaguchi",
+    "ja" : "ねんどろいど 坂口安吾 (ねんどろいど さかぐちあんご)",
+    "ko" : "사카구치 안고"
+  },
+  "num" : "2088",
+  "price" : 7000,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Bungo Stray Dogs",
+    "ja" : "文豪ストレイドッグス",
+    "ko" : "문호 스트레이독스"
+  },
+  "set" : 315
+}

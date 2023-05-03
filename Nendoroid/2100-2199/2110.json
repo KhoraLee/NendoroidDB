@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14197,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230331/14197/113774/large/28f926195486775a1a245e91758f1b1b.jpg",
+  "name" : {
+    "en" : "Nendoroid Blaze",
+    "ja" : "ねんどろいど ブレイズ (ねんどろいど ぶれいず)",
+    "ko" : "블레이즈"
+  },
+  "num" : "2110",
+  "price" : 7300,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 216
+}

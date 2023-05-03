@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14247,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230411/14247/114187/large/ad3c9aea6999e83dae89bcbe35663eb3.jpg",
+  "name" : {
+    "en" : "Nendoroid Di Gi Charat",
+    "ja" : "ねんどろいど デ・ジ・キャラット (ねんどろいど で・じ・きゃらっと)",
+    "ko" : "디지캐럿"
+  },
+  "num" : "2128",
+  "price" : 7800,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Reiwa no Di Gi Charat",
+    "ja" : "令和のデ・ジ・キャラット",
+    "ko" : "디지캐럿"
+  }
+}

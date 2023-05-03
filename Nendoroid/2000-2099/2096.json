@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14156,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230324/14156/113342/large/f89f55e9d140d569462a592f02be9399.jpg",
+  "name" : {
+    "en" : "Nendoroid Modeus",
+    "ja" : "ねんどろいど モデウス (ねんどろいど もでうす)",
+    "ko" : "모데우스"
+  },
+  "num" : "2096",
+  "price" : 8900,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Helltaker",
+    "ja" : "Helltaker",
+    "ko" : "헬테이커"
+  },
+  "set" : 262
+}

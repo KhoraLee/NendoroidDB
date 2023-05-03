@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14224,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230405/14224/113929/large/b0f338404137b40c4bd7a09ee2129896.jpg",
+  "name" : {
+    "en" : "Nendoroid Oguri Cap",
+    "ja" : "ねんどろいど オグリキャップ (ねんどろいど おぐりきゃっぷ)",
+    "ko" : "오구리 캡"
+  },
+  "num" : "2101",
+  "price" : 6800,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메: 프리티 더비"
+  },
+  "set" : 193
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14315,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230424/14315/114765/large/299e0348e6fc19cb2009a8fdbb636205.jpg",
+  "name" : {
+    "en" : "Nendoroid Director-kun",
+    "ja" : "ねんどろいど カントクくん (ねんどろいど かんとくくん)",
+    "ko" : "감독군"
+  },
+  "num" : "2126",
+  "price" : 6500,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Insufficient Direction",
+    "ja" : "監督不行届",
+    "ko" : "감독 부적격"
+  }
+}
