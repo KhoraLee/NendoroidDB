@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14428,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230529/14428/115854/large/a2859e4374f08bb376ae82b5625f7af6.jpg",
+  "name" : {
+    "en" : "Nendoroid Mitama",
+    "ja" : "ねんどろいど ミタマ (ねんどろいど みたま)",
+    "ko" : "미타마"
+  },
+  "num" : "2160",
+  "price" : 5700,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "KamiKatsu: Working for God in a Godless World",
+    "ja" : "神無き世界のカミサマ活動",
+    "ko" : "신 없는 세계의 신 활동"
+  }
+}

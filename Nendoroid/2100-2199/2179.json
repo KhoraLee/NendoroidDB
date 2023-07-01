@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14439,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230530/14439/116020/large/f675858bf9f473c68ac950a54c40b279.jpg",
+  "name" : {
+    "en" : "Nendoroid Knuckles",
+    "ja" : "ねんどろいど ナックルズ (ねんどろいど なっくるず)",
+    "ko" : "너클즈"
+  },
+  "num" : "2179",
+  "price" : 6700,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "Sonic the Hedgehog",
+    "ja" : "ソニック・ザ・ヘッジホッグ",
+    "ko" : "소닉 더 헤지혹"
+  },
+  "set" : 53
+}

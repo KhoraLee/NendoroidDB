@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14480,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230613/14480/116374/large/3ae614b464eaf6830197a23229c25ee8.jpg",
+  "name" : {
+    "en" : "Nendoroid Tomo Aizawa",
+    "ja" : "ねんどろいど 相沢智 (ねんどろいど あいざわとも)",
+    "ko" : "아이자와 토모"
+  },
+  "num" : "2119",
+  "price" : 7300,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "Tomo-chan Is a Girl!",
+    "ja" : "トモちゃんは女の子！",
+    "ko" : "토모 짱은 여자아이!"
+  }
+}

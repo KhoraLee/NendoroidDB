@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14479,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230612/14479/116367/large/8dec199388f468602839ad26f5405062.jpg",
+  "name" : {
+    "en" : "Nendoroid Obito Uchiha",
+    "ja" : "ねんどろいど うちはオビト (ねんどろいど うちはおびと)",
+    "ko" : "우치하 오비토"
+  },
+  "num" : "2120",
+  "price" : 7000,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토 질풍전"
+  },
+  "set" : 146
+}

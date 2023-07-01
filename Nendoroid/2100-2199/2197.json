@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14583,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230627/14583/117386/large/65fdd168bd116bc5ece3f36e077c3f1d.jpg",
+  "name" : {
+    "en" : "Nendoroid Rin Shima: School Uniform Ver.",
+    "ja" : "ねんどろいど 志摩リン 制服Ver. (ねんどろいど しまりん せいふくVer.)",
+    "ko" : "시마 린 교복Ver."
+  },
+  "num" : "2197",
+  "price" : 7700,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "Laid-Back Camp",
+    "ja" : "ゆるキャン△",
+    "ko" : "유루캠Δ"
+  },
+  "set" : 328
+}

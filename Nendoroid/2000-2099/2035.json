@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14477,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230612/14477/116337/large/4daa1e9006999964760e24312fe5d113.jpg",
+  "name" : {
+    "en" : "Nendoroid Kotaro Bokuto: The Way of the Ace Ver.",
+    "ja" : "ねんどろいど 木兎光太郎 エースの心得Ver. (ねんどろいど ぼくとこうたろう えーすのこころえVer.)",
+    "ko" : "보쿠토 코타로: 에이스의 마음가짐 ver."
+  },
+  "num" : "2035",
+  "price" : 5600,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 111
+}

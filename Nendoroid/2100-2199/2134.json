@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14342,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230428/14342/114983/large/213b63367ac3dac10a5f8aef241d231c.jpg",
+  "name" : {
+    "en" : "Nendoroid Guts",
+    "ja" : "ねんどろいど ガッツ (ねんどろいど がっつ)",
+    "ko" : "가츠"
+  },
+  "num" : "2134",
+  "price" : 7500,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "Berserk",
+    "ja" : "TVアニメ「ベルセルク」",
+    "ko" : "베르세르크"
+  }
+}

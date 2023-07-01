@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14443,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230601/14443/116135/large/fb04517adc4eaac06edc2c55b3540040.jpg",
+  "name" : {
+    "en" : "Nendoroid Master Chief",
+    "ja" : "ねんどろいど マスターチーフ (ねんどろいど ますたーちーふ)",
+    "ko" : "마스터 치프"
+  },
+  "num" : "2177",
+  "price" : 8400,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "Halo Infinite",
+    "ja" : "Halo Infinite",
+    "ko" : "헤일로 인피니트"
+  },
+  "set" : 324
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14424,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230525/14424/115810/large/3db94c4499c2b37cdf1370a09e47e685.jpg",
+  "name" : {
+    "en" : "Nendoroid Iori Izumi",
+    "ja" : "ねんどろいど 和泉一織 (ねんどろいど いずみいおり)",
+    "ko" : "이오리 이즈미"
+  },
+  "num" : "2171",
+  "price" : 5600,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  },
+  "set" : 176
+}

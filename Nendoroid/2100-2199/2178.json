@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14484,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230613/14484/116412/large/ca75a8e1efc0a7526acef1ed14ae32fb.jpg",
+  "name" : {
+    "en" : "Nendoroid Saichi Sugimoto",
+    "ja" : "ねんどろいど 杉元佐一 (ねんどろいど すぎもとさいち)",
+    "ko" : "스기모토 사이치"
+  },
+  "num" : "2178",
+  "price" : 6600,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "Golden Kamuy",
+    "ja" : "ゴールデンカムイ",
+    "ko" : "골든 카무이"
+  },
+  "set" : 174
+}

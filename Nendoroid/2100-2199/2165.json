@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14449,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230601/14449/116186/large/c046a8ebb284cd2359bc163e264c850c.jpg",
+  "name" : {
+    "en" : "Nendoroid Akira Toya",
+    "ja" : "ねんどろいど 塔矢アキラ (ねんどろいど とうやあきら)",
+    "ko" : "토우야 아키라"
+  },
+  "num" : "2165",
+  "price" : 5800,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "Hikaru no Go",
+    "ja" : "ヒカルの碁",
+    "ko" : "고스트 바둑왕"
+  },
+  "set" : 276
+}

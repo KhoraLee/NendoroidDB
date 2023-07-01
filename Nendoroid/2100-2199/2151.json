@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14370,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230515/14370/115273/large/454e5311ae523862770b6a3f4a5de0f0.jpg",
+  "name" : {
+    "en" : "Nendoroid Rice Shower",
+    "ja" : "ねんどろいど ライスシャワー (ねんどろいど らいすしゃわー)",
+    "ko" : "라이스샤워"
+  },
+  "num" : "2151",
+  "price" : 6800,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메: 프리티 더비"
+  },
+  "set" : 195
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14429,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230529/14429/115861/large/55763345dd2b611224429a74dc76c2e3.jpg",
+  "name" : {
+    "en" : "Nendoroid Iruma Suzuki",
+    "ja" : "ねんどろいど 鈴木入間 (ねんどろいど すずきいるま)",
+    "ko" : "스즈키 이루마"
+  },
+  "num" : "2166",
+  "price" : 6600,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "Welcome to Demon School! Iruma-kun",
+    "ja" : "魔入りました！入間くん",
+    "ko" : "악마에 입문했습니다! 이루마 군"
+  }
+}

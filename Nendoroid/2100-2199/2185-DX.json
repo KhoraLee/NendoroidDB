@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14507,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230616/14507/116646/large/00f080d9116384de9e093bed4743bc1b.jpg",
+  "name" : {
+    "en" : "Nendoroid Yamada Asaemon Sagiri DX",
+    "ja" : "ねんどろいど 山田浅ェ門 佐切 DX (ねんどろいど やまだあさえもん さぎり DX)",
+    "ko" : "야마다 아사에몬 사기리 DX"
+  },
+  "num" : "2185-DX",
+  "price" : 6800,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Hell's Paradise: Jigokuraku",
+    "ja" : "地獄楽",
+    "ko" : "지옥락"
+  },
+  "set" : 327
+}

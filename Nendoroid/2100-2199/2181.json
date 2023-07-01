@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14539,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230620/14539/116944/large/2ef461166699adaab0538440703b3e1d.jpg",
+  "name" : {
+    "en" : "Nendoroid Matsuri Kazamaki",
+    "ja" : "ねんどろいど 風巻祭里 (ねんどろいど かざまきまつり)",
+    "ko" : "카자마키 마츠리"
+  },
+  "num" : "2181",
+  "price" : 7200,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "Ayakashi Triangle",
+    "ja" : "あやかしトライアングル",
+    "ko" : "아야카시 트라이앵글"
+  },
+  "set" : 326
+}

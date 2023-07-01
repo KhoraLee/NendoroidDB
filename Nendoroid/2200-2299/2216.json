@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14580,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230627/14580/117340/large/5b96ef88e44e97bc62a5d49cfc23997e.jpg",
+  "name" : {
+    "en" : "Nendoroid Watson Amelia",
+    "ja" : "ねんどろいど ワトソン・アメリア (ねんどろいど わとそん・あめりあ)",
+    "ko" : "왓슨 아멜리아"
+  },
+  "num" : "2216",
+  "price" : 6600,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  },
+  "set" : 267
+}

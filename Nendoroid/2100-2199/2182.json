@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14540,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230620/14540/116953/large/b234e646998566483ae056231f235fe1.jpg",
+  "name" : {
+    "en" : "Nendoroid Suzu Kanade",
+    "ja" : "ねんどろいど 花奏すず (ねんどろいど かなですず)",
+    "ko" : "카나데 스즈"
+  },
+  "num" : "2182",
+  "price" : 7200,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "Ayakashi Triangle",
+    "ja" : "あやかしトライアングル",
+    "ko" : "아야카시 트라이앵글"
+  },
+  "set" : 326
+}

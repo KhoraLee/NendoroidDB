@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14332,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230426/14332/114889/large/2685e01b427caaeb7ee4a4d91e63d71b.jpg",
+  "name" : {
+    "en" : "Nendoroid Cheshire DX",
+    "ja" : "ねんどろいど チェシャー DX (ねんどろいど ちぇしゃー DX)",
+    "ko" : "체셔 DX"
+  },
+  "num" : "2131-DX",
+  "price" : 9800,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "Azur Lane",
+    "ja" : "アズールレーン",
+    "ko" : "벽람항로"
+  },
+  "set" : 301
+}

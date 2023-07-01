@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14590,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230627/14590/117478/large/3c23b1a9fd8529c16d521bca293e6303.jpg",
+  "name" : {
+    "en" : "Nendoroid Minato Mito",
+    "ja" : "ねんどろいど 三兎湊 (ねんどろいど みとみなと)",
+    "ko" : "미토 미나토"
+  },
+  "num" : "2199",
+  "price" : 6800,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "Therapy Game",
+    "ja" : "セラピーゲーム",
+    "ko" : "테라피 게임"
+  },
+  "set" : 330
+}

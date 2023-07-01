@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14367,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230511/14367/115235/large/ff90c62c854b9ac880e832fcb833f105.jpg",
+  "name" : {
+    "en" : "Nendoroid Madara Uchiha",
+    "ja" : "ねんどろいど うちはマダラ (ねんどろいど うちはまだら)",
+    "ko" : "우치하 마다라"
+  },
+  "num" : "2175",
+  "price" : 7500,
+  "release_date" : [
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토 질풍전"
+  },
+  "set" : 146
+}

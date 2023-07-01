@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14384,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230518/14384/115378/large/4bdf17c05f4e57c8524060b5bc1f9dff.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: School SEKAI Ver.",
+    "ja" : "ねんどろいど 初音ミク 教室のセカイVer. (ねんどろいど はつねみく きょうしつのせかいVer.)",
+    "ko" : "하츠네 미쿠 교실 세카이 Ver."
+  },
+  "num" : "2193",
+  "price" : 7900,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "HATSUNE MIKU: COLORFUL STAGE!",
+    "ja" : "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+    "ko" : "하츠네 미쿠"
+  },
+  "set" : 10
+}

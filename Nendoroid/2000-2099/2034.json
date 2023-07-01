@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14476,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230612/14476/116329/large/370a195934ab7deba363318f608d87df.jpg",
+  "name" : {
+    "en" : "Nendoroid Shoyo Hinata: The Way of the Ace Ver.",
+    "ja" : "ねんどろいど 日向翔陽 エースの心得Ver. (ねんどろいど ひなたしょうよう えーすのこころえVer.)",
+    "ko" : "히나타 쇼요: 에이스의 마음가짐 ver."
+  },
+  "num" : "2034",
+  "price" : 5600,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 111
+}

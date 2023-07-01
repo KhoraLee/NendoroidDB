@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14573,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230626/14573/117285/large/3564e4a53517e92c1028d181e4e2f441.jpg",
+  "name" : {
+    "en" : "Nendoroid Bruce Lee",
+    "ja" : "ねんどろいど ブルース・リー (ねんどろいど ぶるーす・りー)",
+    "ko" : "이소룡"
+  },
+  "num" : "2191",
+  "price" : 5900,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "Bruce Lee",
+    "ja" : "ブルース・リー",
+    "ko" : "이소룡"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14456,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230605/14456/116066/large/5f70e0d8800be0c7f33ff1458ff8a49c.jpg",
+  "name" : {
+    "en" : "Nendoroid Alucard",
+    "ja" : "ねんどろいど アーカード (ねんどろいど あーかーど)",
+    "ko" : "아카드"
+  },
+  "num" : "2149",
+  "price" : 7600,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "HELLSING OVA",
+    "ja" : "ＨＥＬＬＳＩＮＧ　ＯＶＡ",
+    "ko" : "헬싱 OVA"
+  }
+}

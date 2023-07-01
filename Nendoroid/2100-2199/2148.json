@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14326,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230425/14326/114843/large/e664910ecd2097e03c329728593567ce.jpg",
+  "name" : {
+    "en" : "Nendoroid Akane Shinjo (New Order)",
+    "ja" : "ねんどろいど 新条アカネ（ニューオーダー） (ねんどろいど しんじょうあかね（にゅーおーだー）)",
+    "ko" : "신죠 아카네(뉴 오더)"
+  },
+  "num" : "2148",
+  "price" : 7000,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "GRIDMAN UNIVERSE",
+    "ja" : "劇場版『グリッドマン ユニバース』",
+    "ko" : "그리드맨 유니버스"
+  }
+}

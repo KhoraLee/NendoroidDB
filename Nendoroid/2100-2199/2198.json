@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14589,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230627/14589/117472/large/0dbdf7b3c64668d56d3d3dcae62ebf36.jpg",
+  "name" : {
+    "en" : "Nendoroid Shizuma Ikushima",
+    "ja" : "ねんどろいど 生嶋静真 (ねんどろいど いくしましずま)",
+    "ko" : "이쿠시마 시즈마"
+  },
+  "num" : "2198",
+  "price" : 6800,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "Therapy Game",
+    "ja" : "セラピーゲーム",
+    "ko" : "테라피 게임"
+  },
+  "set" : 330
+}

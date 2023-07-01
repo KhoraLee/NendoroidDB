@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14519,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230619/14519/116742/large/c99ec4beba711e87afa5cf838e1d11ed.jpg",
+  "name" : {
+    "en" : "Nendoroid King",
+    "ja" : "ねんどろいど King (ねんどろいど きんぐ)",
+    "ko" : "King"
+  },
+  "num" : "2188",
+  "price" : 6200,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "Tears of Themis",
+    "ja" : "未定事件簿",
+    "ko" : "미해결사건부"
+  },
+  "set" : 321
+}

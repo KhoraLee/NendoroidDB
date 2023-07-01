@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14352,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230509/14352/115098/large/420e0763ff4a7930180ab35ebd2b2f23.jpg",
+  "name" : {
+    "en" : "Nendoroid Berserker/Morgan",
+    "ja" : "ねんどろいど バーサーカー/モルガン (ねんどろいど ばーさーかー/もるがん)",
+    "ko" : "버서커/모르간"
+  },
+  "num" : "2150",
+  "price" : 7900,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 그랜드 오더"
+  },
+  "set" : 2
+}

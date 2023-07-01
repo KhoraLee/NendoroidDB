@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14444,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230601/14444/116130/large/7d07bd88f2bce52b7d3ae529443aae9e.jpg",
+  "name" : {
+    "en" : "Nendoroid Master Chief: Stealth Ops Ver.",
+    "ja" : "ねんどろいど マスターチーフ ステルスオプス Ver. (ねんどろいど ますたーちーふ すてるすおぷす Ver.)",
+    "ko" : "마스터 치프 스텔스 옵스 ver."
+  },
+  "num" : "2177b",
+  "price" : 7999,
+  "release_date" : [
+    "2024/03"
+  ],
+  "series" : {
+    "en" : "Halo Infinite",
+    "ja" : "Halo Infinite",
+    "ko" : "헤일로 인피니트"
+  },
+  "set" : 324
+}

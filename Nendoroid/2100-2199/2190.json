@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14512,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230619/14512/116693/large/531adb53f43eddd2e28b05d000a06bc1.jpg",
+  "name" : {
+    "en" : "Nendoroid Lancer/Mélusine",
+    "ja" : "ねんどろいど ランサー/メリュジーヌ (ねんどろいど らんさー/めりゅじーぬ)",
+    "ko" : "랜서/ 멜뤼진"
+  },
+  "num" : "2190",
+  "price" : 7200,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트/그랜드 오더"
+  },
+  "set" : 2
+}

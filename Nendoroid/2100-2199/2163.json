@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14390,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230519/14390/115473/large/c71843e6c735e230a4f9ea255def00ef.jpg",
+  "name" : {
+    "en" : "Nendoroid Yoshikage Kira",
+    "ja" : "ねんどろいど 吉良吉影 (ねんどろいど きらよしかげ)",
+    "ko" : "키라 요시카게"
+  },
+  "num" : "2163",
+  "price" : 6160,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+    "ja" : "TVアニメ『ジョジョの奇妙な冒険 ダイヤモンドは砕けない』",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 193
+}

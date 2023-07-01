@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14450,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230601/14450/116011/large/f22c9eb0cfcb38d75957b1dd86a30c45.jpg",
+  "name" : {
+    "en" : "Nendoroid Chise Hatori: Season 2 Ver.",
+    "ja" : "ねんどろいど 羽鳥チセ SEASON2 Ver. (ねんどろいど はとりちせ しーずん2 Ver.)",
+    "ko" : "하토리 치세 SEASON2 Ver."
+  },
+  "num" : "2174",
+  "price" : 6800,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "The Ancient Magus' Bride Season 2",
+    "ja" : "魔法使いの嫁 SEASON2",
+    "ko" : "마법사의 신부"
+  },
+  "set" : 140
+}

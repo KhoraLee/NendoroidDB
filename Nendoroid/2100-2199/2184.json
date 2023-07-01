@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14505,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230616/14505/116630/large/e33b4a50670530a578b8a85dcc87327c.jpg",
+  "name" : {
+    "en" : "Nendoroid Gabimaru",
+    "ja" : "ねんどろいど 画眉丸 (ねんどろいど がびまる)",
+    "ko" : "가비마루"
+  },
+  "num" : "2184",
+  "price" : 6500,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Hell's Paradise: Jigokuraku",
+    "ja" : "地獄楽",
+    "ko" : "지옥락"
+  },
+  "set" : 327
+}

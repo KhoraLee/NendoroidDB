@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14545,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230622/14545/117012/large/fbaedf27aa4a318d7068662b1d4319c6.jpg",
+  "name" : {
+    "en" : "Nendoroid Anya Forger: Winter Clothes Ver.",
+    "ja" : "ねんどろいど アーニャ・フォージャー 冬服Ver. (ねんどろいど アーニャ・フォージャー ふゆふくVer.)",
+    "ko" : "아냐 포저 동복Ver."
+  },
+  "num" : "2202",
+  "price" : 6500,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "SPY x FAMILY",
+    "ja" : "SPY×FAMILY",
+    "ko" : "스파이 패밀리"
+  },
+  "set" : 297
+}

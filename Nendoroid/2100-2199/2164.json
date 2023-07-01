@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14409,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230523/14409/115624/large/97a481527b29cf5f65d96cc893ed2a7e.jpg",
+  "name" : {
+    "en" : "Nendoroid Miko Iino",
+    "ja" : "ねんどろいど 伊井野ミコ (ねんどろいど いいのみこ)",
+    "ko" : "미코 이이노"
+  },
+  "num" : "2164",
+  "price" : 6900,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "Kaguya-sama: Love is War - The First Kiss That Never Ends",
+    "ja" : "アニメ「かぐや様は告らせたい-ファーストキッスは終わらない-」",
+    "ko" : "카구야 님은 고백받고 싶어"
+  },
+  "set" : 235
+}

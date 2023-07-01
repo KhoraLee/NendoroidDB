@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14460,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230605/14460/116282/large/6743f45107ca520a78fa090fe8a7a161.jpg",
+  "name" : {
+    "en" : "Nendoroid Demon Hunter",
+    "ja" : "ねんどろいど デーモンハンター (ねんどろいど でーもんはんたー)",
+    "ko" : "악마사냥꾼"
+  },
+  "num" : "2180",
+  "price" : 7900,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Diablo",
+    "ja" : "Diablo",
+    "ko" : "디아블로"
+  },
+  "set" : 325
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14333,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230426/14333/114896/large/b9b3ad559c1cb9bb7bc25b8e4b0621ed.jpg",
+  "name" : {
+    "en" : "Nendoroid Cheshire",
+    "ja" : "ねんどろいど チェシャー (ねんどろいど ちぇしゃー)",
+    "ko" : "체셔"
+  },
+  "num" : "2131",
+  "price" : 8000,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "Azur Lane",
+    "ja" : "アズールレーン",
+    "ko" : "벽람항로"
+  },
+  "set" : 301
+}

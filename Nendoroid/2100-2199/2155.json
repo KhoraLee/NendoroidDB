@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14369,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230511/14369/115254/large/422395054bcdd21025da6f4334e2df46.jpg",
+  "name" : {
+    "en" : "Nendoroid Elishka",
+    "ja" : "ねんどろいど エリシュカ (ねんどろいど えりしゅか)",
+    "ko" : "에리슈카"
+  },
+  "num" : "2155",
+  "price" : 7000,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "BLACK ROCK SHOOTER FRAGMENT",
+    "ja" : "ブラック★ロックシューター FRAGMENT",
+    "ko" : "블랙록슈터"
+  }
+}

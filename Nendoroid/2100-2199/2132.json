@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14350,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230508/14350/115065/large/f62901ccdae4bbd57fbdaafba9d48576.jpg",
+  "name" : {
+    "en" : "Nendoroid Elias Ainsworth: Season 2 Ver.",
+    "ja" : "ねんどろいど エリアス・エインズワース SEASON2 Ver. (ねんどろいど えりあす・えいんずわーす しーずん2 Ver.)",
+    "ko" : "엘리아스 에인스워스 시즌2 Ver."
+  },
+  "num" : "2132",
+  "price" : 7600,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "The Ancient Magus' Bride Season 2",
+    "ja" : "魔法使いの嫁 SEASON2",
+    "ko" : "마법사의 신부"
+  },
+  "set" : 140
+}

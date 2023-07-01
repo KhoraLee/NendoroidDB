@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14194,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230330/14194/113747/large/ebe2578005a4f478cca41fcc607775d3.jpg",
+  "name" : {
+    "en" : "Nendoroid Yotsuba Koiwai: Winter Clothes Ver.",
+    "ja" : "ねんどろいど 小岩井よつば 冬服Ver. (ねんどろいど こいわいよつば ふゆふくVer.)",
+    "ko" : "코이와이 요츠바 동복 Ver."
+  },
+  "num" : "2111",
+  "price" : 6600,
+  "release_date" : [
+    "2023/10"
+  ],
+  "series" : {
+    "en" : "Yotsuba&!",
+    "ja" : "よつばと！",
+    "ko" : "요츠바랑!"
+  },
+  "set" : 203
+}

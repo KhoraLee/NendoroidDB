@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14393,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230522/14393/115488/large/3e5f3fd68ff803bf150e59b5a8be6db3.jpg",
+  "name" : {
+    "en" : "Nendoroid Hansuke Doi",
+    "ja" : "ねんどろいど 土井半助 (ねんどろいど どいはんすけ)",
+    "ko" : "도이 한스케"
+  },
+  "num" : "2157",
+  "price" : 6500,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "Nintama Rantaro",
+    "ja" : "忍たま乱太郎",
+    "ko" : "닌자보이 란타"
+  }
+}

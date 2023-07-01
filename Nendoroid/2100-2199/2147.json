@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14486,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230613/14486/116427/large/83dcc5b979fda0119b5ceae5e0a0bd24.jpg",
+  "name" : {
+    "en" : "Nendoroid Nazuna Nanakusa",
+    "ja" : "ねんどろいど 七草ナズナ (ねんどろいど ななくさなずな)",
+    "ko" : "나나쿠사 나즈나"
+  },
+  "num" : "2147",
+  "price" : 6900,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "Call of the Night",
+    "ja" : "よふかしのうた",
+    "ko" : "철야의 노래"
+  }
+}

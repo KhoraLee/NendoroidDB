@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14518,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230619/14518/116741/large/e5bb0b3d5e312cc34f8dcf7544ed3190.jpg",
+  "name" : {
+    "en" : "Nendoroid Rebecca",
+    "ja" : "ねんどろいど レベッカ (ねんどろいど れべっか)",
+    "ko" : "레베카"
+  },
+  "num" : "2186",
+  "price" : 6700,
+  "release_date" : [
+    "2024/03"
+  ],
+  "series" : {
+    "en" : "Cyberpunk: Edgerunners",
+    "ja" : "サイバーパンク エッジランナーズ",
+    "ko" : "사이버 펑크: 엣지러너"
+  },
+  "set" : 257
+}

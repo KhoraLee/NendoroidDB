@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14462,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230606/14462/116176/large/f1ab8de2b9d62591fbcbfd9ab17702b7.jpg",
+  "name" : {
+    "en" : "Nendoroid Chucky",
+    "ja" : "ねんどろいど チャッキー (ねんどろいど ちゃっきー)",
+    "ko" : "처키"
+  },
+  "num" : "2176",
+  "price" : 8250,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "Child's Play 2",
+    "ja" : "チャイルド・プレイ2",
+    "ko" : "사탄의 인형 2"
+  }
+}

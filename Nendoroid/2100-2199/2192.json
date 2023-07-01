@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14501,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230615/14501/116935/large/cd630c1e59d97b5307e52426f1878c44.jpg",
+  "name" : {
+    "en" : "Nendoroid Fina",
+    "ja" : "ねんどろいど フィナ (ねんどろいど ふぃな)",
+    "ko" : "피나"
+  },
+  "num" : "2192",
+  "price" : 6400,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "Kuma Kuma Kuma Bear Punch!",
+    "ja" : "くまクマ熊ベアーぱーんち！",
+    "ko" : "곰 곰 곰 베어 펀치!"
+  },
+  "set" : 256
+}

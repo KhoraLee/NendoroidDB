@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14445,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230601/14445/115969/large/e2090ad45543fdf1125ae4c8f50c17a5.jpg",
+  "name" : {
+    "en" : "Nendoroid Hyakumantenbara Salome",
+    "ja" : "ねんどろいど 壱百満天原サロメ (ねんどろいど ひゃくまんてんばらさろめ)",
+    "ko" : "햐쿠만텐바라 살로메"
+  },
+  "num" : "2183",
+  "price" : 7700,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "NIJISANJI",
+    "ja" : "にじさんじ",
+    "ko" : "니지산지"
+  },
+  "set" : 262
+}

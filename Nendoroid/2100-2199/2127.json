@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14328,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230425/14328/114936/large/28e5d8c94ba37ec81dee3070c926652b.jpg",
+  "name" : {
+    "en" : "Nendoroid Tails",
+    "ja" : "ねんどろいど テイルス (ねんどろいど ているす)",
+    "ko" : "테일즈"
+  },
+  "num" : "2127",
+  "price" : 6900,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "Sonic the Hedgehog",
+    "ja" : "ソニック・ザ・ヘッジホッグ",
+    "ko" : "소닉 더 헤지혹"
+  },
+  "set" : 53
+}

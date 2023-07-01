@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14569,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230626/14569/117276/large/eb17702d084daf4d2655e0d9da2902d1.jpg",
+  "name" : {
+    "en" : "Nendoroid Narberal Gamma",
+    "ja" : "ねんどろいど ナーベラル・ガンマ (ねんどろいど なーべらる・がんま)",
+    "ko" : "나베랄 감마"
+  },
+  "num" : "2194",
+  "price" : 6800,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "OVERLORD IV",
+    "ja" : "オーバーロードⅣ",
+    "ko" : "오버로드"
+  },
+  "set" : 134
+}

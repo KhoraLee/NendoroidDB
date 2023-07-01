@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14459,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230605/14459/116256/large/9cf3767dd7708e7092076ff25e275d68.jpg",
+  "name" : {
+    "en" : "Nendoroid Wataru Ikusabe",
+    "ja" : "ねんどろいど 戦部ワタル (ねんどろいど いくさべわたる)",
+    "ko" : "이쿠사베 와타루"
+  },
+  "num" : "2158",
+  "price" : 6900,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "Mashin Hero Wataru",
+    "ja" : "魔神英雄伝ワタル",
+    "ko" : "마신영웅전 와타루"
+  }
+}
