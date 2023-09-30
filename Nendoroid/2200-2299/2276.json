@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14994,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230921/14994/121344/large/63cd6b77b3d585cab40d9df41a908bad.jpg",
+  "name" : {
+    "en" : "Nendoroid Dan Heng",
+    "ja" : "ねんどろいど 丹恒 (ねんどろいど たんこう)",
+    "ko" : "단항"
+  },
+  "num" : "2276",
+  "price" : 6900,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Honkai: Star Rail",
+    "ja" : "崩壊：スターレイル",
+    "ko" : "붕괴: 스타레일"
+  },
+  "set" : 178
+}

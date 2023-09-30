@@ -1,9 +1,11 @@
 {
+  "gender" : "M",
   "gsc_productNum" : 14258,
   "image" : "https://images.goodsmile.info/cgm/images/product/20230414/14258/114290/large/ec9c910ecc03db52448c7e63f55ece66.jpg",
   "name" : {
     "en" : "Nendoroid Spain",
-    "ja" : "ねんどろいど スペイン (ねんどろいど すぺいん)"
+    "ja" : "ねんどろいど スペイン (ねんどろいど すぺいん)",
+    "ko" : "스페인"
   },
   "num" : "2136",
   "price" : 6700,
@@ -12,6 +14,8 @@
   ],
   "series" : {
     "en" : "Hetalia World★Stars",
-    "ja" : "アニメ「ヘタリア World★Stars」"
-  }
+    "ja" : "アニメ「ヘタリア World★Stars」",
+    "ko" : "헤타리아"
+  },
+  "set" : 158
 }

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14820,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230818/14820/119674/large/4388440324160329a2354528d4722240.jpg",
+  "name" : {
+    "en" : "Nendoroid Kazuya Miyuki",
+    "ja" : "ねんどろいど 御幸一也 (ねんどろいど みゆきかずや)",
+    "ko" : "미유키 카즈야"
+  },
+  "num" : "2229",
+  "price" : 6800,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "Ace of Diamond Act II",
+    "ja" : "ダイヤのA actⅡ",
+    "ko" : "다이아몬드 에이스 actⅡ"
+  }
+}

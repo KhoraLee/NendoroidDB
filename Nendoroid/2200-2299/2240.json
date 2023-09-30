@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14851,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230823/14851/119934/large/aaf1a6c27ae74d0c204c403ed3f695ed.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuzuki Choco",
+    "ja" : "ねんどろいど 癒月ちょこ (ねんどろいど ゆづきちょこ)",
+    "ko" : "유즈키 초코"
+  },
+  "num" : "2240",
+  "price" : 7900,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  },
+  "set" : 268
+}

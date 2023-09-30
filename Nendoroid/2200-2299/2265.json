@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14836,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230822/14836/120626/large/98016efc35cf9ecdf4c27e436b5f8b45.jpg",
+  "name" : {
+    "en" : "Nendoroid Shiroko Sunaookami",
+    "ja" : "ねんどろいど 砂狼シロコ (ねんどろいど すなおおかみしろこ)",
+    "ko" : "스나오오카미 시로코"
+  },
+  "num" : "2265",
+  "price" : 7900,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "Blue Archive",
+    "ja" : "ブルーアーカイブ -Blue Archive-",
+    "ko" : "블루 아카이브"
+  },
+  "set" : 341
+}

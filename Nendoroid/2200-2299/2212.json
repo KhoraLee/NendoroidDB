@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14718,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230725/14718/118752/large/da3d8fcb0508d85ae88ebc7bd3a9fc4a.jpg",
+  "name" : {
+    "en" : "Nendoroid Bridget",
+    "ja" : "ねんどろいど ブリジット (ねんどろいど ぶりじっと)",
+    "ko" : "브리짓"
+  },
+  "num" : "2212",
+  "price" : 7900,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "GUILTY GEAR™ -STRIVE-",
+    "ja" : "GUILTY GEAR™ -STRIVE-",
+    "ko" : "길티기어"
+  },
+  "set" : 260
+}

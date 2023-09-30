@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14636,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230706/14636/117953/large/6259ee3f2d2bd30052f5bd91d8605346.jpg",
+  "name" : {
+    "en" : "Nendoroid Boxxo",
+    "ja" : "ねんどろいど ハッコン (ねんどろいど はっこん)",
+    "ko" : "핫콘"
+  },
+  "num" : "2221",
+  "price" : 5000,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "Reborn as a Vending Machine, I Now Wander the Dungeon",
+    "ja" : "自動販売機に生まれ変わった俺は迷宮を彷徨う",
+    "ko" : "자동판매기로 다시 태어난 나는 미궁을 방랑한다"
+  }
+}

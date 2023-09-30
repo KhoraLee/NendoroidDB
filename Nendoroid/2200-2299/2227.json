@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14783,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230804/14783/119300/large/e0d9daff709a93da39a31493ab940dbf.jpg",
+  "name" : {
+    "en" : "Nendoroid Chiaki Nanami",
+    "ja" : "ねんどろいど 七海千秋 (ねんどろいど ななみちあき)",
+    "ko" : "나나미 치아키"
+  },
+  "num" : "2227",
+  "price" : 7300,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "Danganronpa 1•2 Reload",
+    "ja" : "ダンガンロンパ1・2 Reload",
+    "ko" : "단간론파"
+  },
+  "set" : 80
+}

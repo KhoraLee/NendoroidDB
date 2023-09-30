@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14961,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230914/14961/121222/large/12b03fcdae8dde143df16886ec7b496a.jpg",
+  "name" : {
+    "en" : "Nendoroid Arona",
+    "ja" : "ねんどろいど アロナ (ねんどろいど あろな)",
+    "ko" : "아로나"
+  },
+  "num" : "2245",
+  "price" : 6700,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "Blue Archive",
+    "ja" : "ブルーアーカイブ -Blue Archive-",
+    "ko" : "블루 아카이브"
+  },
+  "set" : 341
+}

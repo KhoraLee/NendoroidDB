@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14770,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230803/14770/119329/large/41f9c178f93be490b0886549c6285c37.jpg",
+  "name" : {
+    "en" : "Nendoroid Kirakishou",
+    "ja" : "ねんどろいど 雪華綺晶 (ねんどろいど きらきしょう)",
+    "ko" : "키라키쇼"
+  },
+  "num" : "2228",
+  "price" : 6800,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "Rozen Maiden",
+    "ja" : "ローゼンメイデン",
+    "ko" : "로젠 메이든"
+  },
+  "set" : 89
+}

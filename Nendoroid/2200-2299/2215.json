@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14727,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230726/14727/118814/large/1fd64aff71aadd38a599302860d7b938.jpg",
+  "name" : {
+    "en" : "Nendoroid Kenshin Himura: 2023 Ver.",
+    "ja" : "ねんどろいど 緋村剣心 二〇二三Ver. (ねんどろいど ひむらけんしん 二〇二三Ver.)",
+    "ko" : "히무라 켄신 2023Ver."
+  },
+  "num" : "2215",
+  "price" : 6300,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "TV animation \"Rurouni Kenshin - Meiji Swordsman Romantic Tan",
+    "ja" : "TVアニメ「るろうに剣心 ー明治剣客浪漫譚ー」",
+    "ko" : "바람의 검심 -메이지 검객 낭만기-"
+  },
+  "set" : 264
+}

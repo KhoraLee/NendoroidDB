@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14747,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230731/14747/119030/large/b4e4cfc622495f218e1f944793fa9aea.jpg",
+  "name" : {
+    "en" : "Nendoroid Noah Volstaire Wynknight",
+    "ja" : "ねんどろいど ノアボルステア・ウィンナイト (ねんどろいど のあぼるすてあ・うぃんないと)",
+    "ko" : "노아 벌스테어 윈나이트"
+  },
+  "num" : "2224",
+  "price" : 7200,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "Why Raeliana Ended Up at the Duke's Mansion",
+    "ja" : "彼女が公爵邸に行った理由",
+    "ko" : "그녀가 공작저로 가야 했던 사정"
+  }
+}

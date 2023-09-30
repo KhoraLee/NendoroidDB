@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14908,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230831/14908/120532/large/a1b6a9104e009605b06e07abd4597d37.jpg",
+  "name" : {
+    "en" : "Nendoroid Souta Munakata",
+    "ja" : "ねんどろいど 宗像草太 (ねんどろいど むなかたそうた)",
+    "ko" : "무나카타 소타"
+  },
+  "num" : "2237",
+  "price" : 7000,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "Suzume",
+    "ja" : "すずめの戸締まり",
+    "ko" : "스즈메의 문단속"
+  },
+  "set" : 340
+}

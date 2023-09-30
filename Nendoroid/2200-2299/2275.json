@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14999,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230921/14999/121391/large/642a2f63a35a2bfc16e01f4397956435.jpg",
+  "name" : {
+    "en" : "Nendoroid Diavolo",
+    "ja" : "ねんどろいど ディアボロ (ねんどろいど でぃあぼろ)",
+    "ko" : "디아볼로"
+  },
+  "num" : "2275",
+  "price" : 6160,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure: Golden Wind",
+    "ja" : "TVアニメ『ジョジョの奇妙な冒険 黄金の風』",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 193
+}

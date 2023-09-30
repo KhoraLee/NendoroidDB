@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14850,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230823/14850/119932/large/c4be9a542df3e4ff428c26571ccfa2c1.jpg",
+  "name" : {
+    "en" : "Nendoroid Miyo Saimori",
+    "ja" : "ねんどろいど 斎森美世 (ねんどろいど さいもりみよ)",
+    "ko" : "사이모리 미요"
+  },
+  "num" : "2234",
+  "price" : 6800,
+  "release_date" : [
+    "2024/03"
+  ],
+  "series" : {
+    "en" : "My Happy Marriage",
+    "ja" : "わたしの幸せな結婚",
+    "ko" : "나의 행복한 결혼"
+  },
+  "set" : 339
+}

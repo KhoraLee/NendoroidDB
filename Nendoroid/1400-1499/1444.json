@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14789,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230808/14789/119365/large/d1923d54bf9417dda4a0052edd746f43.jpg",
+  "name" : {
+    "en" : "Nendoroid Hyskoa",
+    "ja" : "ねんどろいど ヒソカ (ねんどろいど ひそか)",
+    "ko" : "히소카"
+  },
+  "num" : "1444",
+  "price" : 6200,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "HUNTER x HUNTER",
+    "ja" : "HUNTER×HUNTER",
+    "ko" : "헌터 X 헌터"
+  },
+  "set" : 222
+}

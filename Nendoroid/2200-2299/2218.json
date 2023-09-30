@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14689,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230720/14689/118453/large/bd9f0ff770079809739996d4d551d1f9.jpg",
+  "name" : {
+    "en" : "Nendoroid Muichiro Tokito",
+    "ja" : "ねんどろいど 時透無一郎 (ねんどろいど ときとうむいちろう)",
+    "ko" : "토키토 무이치로"
+  },
+  "num" : "2218",
+  "price" : 6800,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "set" : 224
+}

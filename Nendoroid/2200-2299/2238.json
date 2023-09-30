@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14848,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230823/14848/119917/large/27335b761bc27cdcbd59f83f686da272.jpg",
+  "name" : {
+    "en" : "Nendoroid Toothless",
+    "ja" : "ねんどろいど トゥースレス (ねんどろいど とぅーすれす)",
+    "ko" : "투슬리스"
+  },
+  "num" : "2238",
+  "price" : 8900,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "How to Train Your Dragon",
+    "ja" : "ヒックとドラゴン",
+    "ko" : "드래곤 길들이기"
+  }
+}

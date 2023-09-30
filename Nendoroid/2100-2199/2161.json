@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14639,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230707/14639/117991/large/f4ef52d5e3776895e3a862e2a68a7d30.jpg",
+  "name" : {
+    "en" : "Nendoroid Cheng Xiaoshi",
+    "ja" : "ねんどろいど 程小時(トキ) (ねんどろいど ちょんしゃおしー(とき))",
+    "ko" : "청샤오시"
+  },
+  "num" : "2161",
+  "price" : 7000,
+  "release_date" : [
+    "2023/07",
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "LINK CLICK",
+    "ja" : "時光代理人",
+    "ko" : "시광대리인"
+  },
+  "set" : 329
+}

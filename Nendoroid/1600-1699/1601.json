@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14643,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230707/14643/118022/large/45145e2a68eeee00b66a2e3e7f2629ef.jpg",
+  "name" : {
+    "en" : "Nendoroid Shogo Makishima",
+    "ja" : "ねんどろいど 槙島聖護 (ねんどろいど まきしましょうご)",
+    "ko" : "마키시마 쇼고"
+  },
+  "num" : "1601",
+  "price" : 5800,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "PSYCHO-PASS",
+    "ja" : "PSYCHO-PASS サイコパス",
+    "ko" : "PSYCHO-PASS"
+  },
+  "set" : 81
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14917,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230906/14917/120635/large/f4247597396c03acacfc9baf035487db.jpg",
+  "name" : {
+    "en" : "Nendoroid kson",
+    "ja" : "ねんどろいど kson (ねんどろいど けいそん)",
+    "ko" : "kson"
+  },
+  "num" : "2252",
+  "price" : 7200,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "VShojo",
+    "ja" : "VShojo",
+    "ko" : "VShojo"
+  },
+  "set" : 342
+}

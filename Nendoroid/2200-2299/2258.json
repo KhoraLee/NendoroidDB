@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14988,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230920/14988/121293/large/ba857d9575ff700802df0563e56098b7.jpg",
+  "name" : {
+    "en" : "Nendoroid Nazuna Amemiya",
+    "ja" : "ねんどろいど 飴宮なずな (ねんどろいど あめみやなずな)",
+    "ko" : "아메미야 나즈나"
+  },
+  "num" : "2258",
+  "price" : 7900,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "VShojo",
+    "ja" : "VShojo",
+    "ko" : "VShojo"
+  },
+  "set" : 342
+}

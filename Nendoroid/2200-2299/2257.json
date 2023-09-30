@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14926,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230907/14926/120705/large/25ac0b05f73d782ce52b8b9944afaa9e.jpg",
+  "name" : {
+    "en" : "Nendoroid Ai Hayasaka",
+    "ja" : "ねんどろいど 早坂愛 (ねんどろいど はやさかあい)",
+    "ko" : "하야사카 아이"
+  },
+  "num" : "2257",
+  "price" : 6900,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "Kaguya-sama: Love Is War -The First Kiss That Never Ends-",
+    "ja" : "アニメ「かぐや様は告らせたい-ファーストキッスは終わらない-」",
+    "ko" : "카구야 님은 고백받고 싶어"
+  },
+  "set" : 235
+}

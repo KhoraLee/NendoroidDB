@@ -1,8 +1,10 @@
 {
+  "gender" : "M",
   "gsc_productNum" : 13891,
   "image" : "https://images.goodsmile.info/cgm/images/product/20230126/13891/110864/large/989567825465ec7581e361f5f418739c.jpg",
   "name" : {
-    "ja" : "ねんどろいど Charlie (ねんどろいど ちゃーりー)"
+    "ja" : "ねんどろいど Charlie (ねんどろいど ちゃーりー)",
+    "ko" : "찰리수"
   },
   "num" : "2017",
   "price" : 7900,
@@ -10,6 +12,8 @@
     "2023/05"
   ],
   "series" : {
-    "ja" : "光と夜の恋"
-  }
+    "ja" : "光と夜の恋",
+    "ko" : "광여야지연"
+  },
+  "set" : 316
 }

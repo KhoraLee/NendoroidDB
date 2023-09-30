@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14938,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230911/14938/120855/large/5aa685a6e823c35708747b762d7e6d6d.jpg",
+  "name" : {
+    "en" : "Nendoroid Snoopy",
+    "ja" : "ねんどろいど スヌーピー (ねんどろいど すぬーぴー)",
+    "ko" : "스누피"
+  },
+  "num" : "2200",
+  "price" : 6800,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "PEANUTS",
+    "ja" : "PEANUTS",
+    "ko" : "PEANUTS"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14802,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230810/14802/119488/large/33013ef74df27c46607b0321354c05fd.jpg",
+  "name" : {
+    "en" : "Nendoroid Osborn",
+    "ja" : "ねんどろいど Osborn (ねんどろいど おずぼーん)",
+    "ko" : "샤오이"
+  },
+  "num" : "2074",
+  "price" : 7900,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "Light and Night",
+    "ja" : "光と夜の恋",
+    "ko" : "광여야지연"
+  },
+  "set" : 316
+}

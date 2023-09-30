@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14670,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230718/14670/118292/large/20e7576a323b17e62017d6d4c963c4da.jpg",
+  "name" : {
+    "en" : "Nendoroid Shiori Katase",
+    "ja" : "ねんどろいど 片瀬詩織里 (ねんどろいど かたせしおり)",
+    "ko" : "카타세 시오리"
+  },
+  "num" : "2208",
+  "price" : 6900,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "My Tiny Senpai",
+    "ja" : "うちの会社の小さい先輩の話",
+    "ko" : "우리 회사의 작은 선배 이야기"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14740,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230727/14740/118950/large/25aa2278e3e9bfe0b2a590aff481d441.jpg",
+  "name" : {
+    "en" : "Nendoroid Bendy & Ink Demon",
+    "ja" : "ねんどろいど ベンディー＆インクデーモン (ねんどろいど べんでぃー＆いんくでーもん)",
+    "ko" : "벤디 & 잉크 악마"
+  },
+  "num" : "2223",
+  "price" : 7800,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "Bendy and the Ink Machine",
+    "ja" : "Bendy and the Ink Machine",
+    "ko" : "Bendy and the Ink Machine"
+  }
+}

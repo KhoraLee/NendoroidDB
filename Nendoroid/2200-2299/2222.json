@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14719,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230725/14719/119050/large/e4f92bc8334368e24599c82da4e72127.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Happy 16th Birthday Ver.",
+    "ja" : "ねんどろいど 初音ミク Happy 16th Birthday Ver. (ねんどろいど はつねみく はっぴー 16th ばーすでぃ Ver.)",
+    "ko" : "하츠네 미쿠 Happy 16th Birthday Ver."
+  },
+  "num" : "2222",
+  "price" : 9500,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "보컬로이드"
+  },
+  "set" : 10
+}

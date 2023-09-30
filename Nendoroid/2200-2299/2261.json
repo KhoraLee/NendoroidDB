@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14935,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230908/14935/120823/large/d650fd17249b0ddcd47d2719114dd2b1.jpg",
+  "name" : {
+    "en" : "Nendoroid Kokona Otori",
+    "ja" : "ねんどろいど 鳳ここな (ねんどろいど おおとりここな)",
+    "ko" : "오오토리 코코나"
+  },
+  "num" : "2261",
+  "price" : 6800,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "World Dai Star",
+    "ja" : "ワールドダイスター",
+    "ko" : "월드 다이 스타"
+  }
+}

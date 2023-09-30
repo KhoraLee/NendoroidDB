@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14606,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230703/14606/117638/large/cdaec78d5a1a30c81c53a88f7f07a343.jpg",
+  "name" : {
+    "en" : "Nendoroid Masked Rider",
+    "ja" : "ねんどろいど 仮面ライダー (ねんどろいど かめんらいだー)",
+    "ko" : "가면라이더"
+  },
+  "num" : "2211",
+  "price" : 6900,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "SHIN KAMEN RIDER",
+    "ja" : "シン・仮面ライダー",
+    "ko" : "신 가면라이더"
+  }
+}

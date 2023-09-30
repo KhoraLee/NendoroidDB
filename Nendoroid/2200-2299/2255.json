@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14951,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230912/14951/120940/large/5f3aac00e867859ac093e9c355a271d7.jpg",
+  "name" : {
+    "en" : "Nendoroid Spamton",
+    "ja" : "ねんどろいど スパムトン (ねんどろいど すぱむとん)",
+    "ko" : "스팸톤"
+  },
+  "num" : "2255",
+  "price" : 6100,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "DELTARUNE",
+    "ja" : "DELTARUNE",
+    "ko" : "DELTARUNE"
+  }
+}

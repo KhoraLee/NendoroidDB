@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14907,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230831/14907/120524/large/a45ef361bb138afc9b6b5d51e4d84a3f.jpg",
+  "name" : {
+    "en" : "Nendoroid Suzume Iwato",
+    "ja" : "ねんどろいど 岩戸鈴芽 (ねんどろいど いわとすずめ)",
+    "ko" : "이와토 스즈메"
+  },
+  "num" : "2236",
+  "price" : 7000,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "Suzume",
+    "ja" : "すずめの戸締まり",
+    "ko" : "스즈메의 문단속"
+  },
+  "set" : 340
+}

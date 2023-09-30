@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14819,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230818/14819/119670/large/2a3e9d92423438d14cb9b4ff87052238.jpg",
+  "name" : {
+    "en" : "Nendoroid Yayoi Hozuki",
+    "ja" : "ねんどろいど 寳月夜宵 (ねんどろいど ほうづきやよい)",
+    "ko" : "호우즈키 야요이"
+  },
+  "num" : "2231",
+  "price" : 7400,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "Dark Gathering",
+    "ja" : "ダークギャザリング",
+    "ko" : "다크 개더링"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14671,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230718/14671/118300/large/4ac2fbd0656fcd156acea69d5c5ebcd4.jpg",
+  "name" : {
+    "en" : "Nendoroid Homelander",
+    "ja" : "ねんどろいど ホームランダー (ねんどろいど ほーむらんだー)",
+    "ko" : "홈랜더"
+  },
+  "num" : "2170",
+  "price" : 6800,
+  "release_date" : [
+    "2023/11"
+  ],
+  "series" : {
+    "en" : "THE BOYS™",
+    "ja" : "THE BOYS™",
+    "ko" : "더 보이즈"
+  }
+}

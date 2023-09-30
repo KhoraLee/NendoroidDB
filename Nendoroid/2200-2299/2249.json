@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14829,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230822/14829/119757/large/f84e2a84b3fa85a301e6ef461f19217b.jpg",
+  "name" : {
+    "en" : "Nendoroid Shinigami",
+    "ja" : "ねんどろいど 死に神ちゃん (ねんどろいど しにがみちゃん)",
+    "ko" : "시니가미짱"
+  },
+  "num" : "2249",
+  "price" : 7500,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "Master Detective Archives: RAIN CODE",
+    "ja" : "超探偵事件簿 レインコード",
+    "ko" : "초탐정사건부 레인 코드"
+  }
+}

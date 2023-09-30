@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14728,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230726/14728/118823/large/2a058e67b1f2ebec7629b2e090c5cd72.jpg",
+  "name" : {
+    "en" : "Nendoroid Shoto",
+    "ja" : "ねんどろいど Shoto (ねんどろいど Shoto)",
+    "ko" : "쇼토"
+  },
+  "num" : "2214",
+  "price" : 6800,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "Shoto",
+    "ja" : "Shoto",
+    "ko" : "Shoto"
+  },
+  "set" : 171
+}

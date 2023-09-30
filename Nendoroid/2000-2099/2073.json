@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14801,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230810/14801/119497/large/86b5151d415e1f91f6580e127317240e.jpg",
+  "name" : {
+    "en" : "Nendoroid Sariel",
+    "ja" : "ねんどろいど Sariel (ねんどろいど さりえる)",
+    "ko" : "치스리"
+  },
+  "num" : "2073",
+  "price" : 7900,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Light and Night",
+    "ja" : "光と夜の恋",
+    "ko" : "광여야지연"
+  },
+  "set" : 316
+}

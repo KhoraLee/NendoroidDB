@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14857,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230825/14857/119993/large/1f6265c7496810050ac0ddee08e3d9a7.jpg",
+  "name" : {
+    "en" : "Nendoroid Ginko",
+    "ja" : "ねんどろいど ギンコ (ねんどろいど ぎんこ)",
+    "ko" : "깅코"
+  },
+  "num" : "2246",
+  "price" : 6900,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "Mushishi",
+    "ja" : "蟲師",
+    "ko" : "충사"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14969,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230919/14969/121086/large/50e2a1579c52c343f75210735a2b0b36.jpg",
+  "name" : {
+    "en" : "Nendoroid Kasumi Yoshizawa: Phantom Thief Ver.",
+    "ja" : "ねんどろいど 芳澤かすみ 怪盗服Ver. (ねんどろいど よしざわかすみ かいとうふくVer.)",
+    "ko" : "요시자와 카스미 괴도복Ver."
+  },
+  "num" : "2263",
+  "price" : 6900,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "Persona5 Royal",
+    "ja" : "ペルソナ5 ザ・ロイヤル",
+    "ko" : "페르소나"
+  },
+  "set" : 58
+}

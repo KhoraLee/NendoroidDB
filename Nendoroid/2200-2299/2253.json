@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14967,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230919/14967/121069/large/05c40c6a43db0d5ed54d6ee2497d451f.jpg",
+  "name" : {
+    "en" : "Nendoroid Elma",
+    "ja" : "ねんどろいど エルマ (ねんどろいど えるま)",
+    "ko" : "엘마"
+  },
+  "num" : "2253",
+  "price" : 7500,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "Miss Kobayashi's Dragon Maid",
+    "ja" : "小林さんちのメイドラゴン",
+    "ko" : "코바야시네 메이드래곤"
+  },
+  "set" : 308
+}

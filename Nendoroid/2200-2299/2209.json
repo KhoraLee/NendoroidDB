@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14672,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230719/14672/118316/large/e82813a053470021dd123a5feb426587.jpg",
+  "name" : {
+    "en" : "Nendoroid Kotonoha Katsura",
+    "ja" : "ねんどろいど 桂言葉 (ねんどろいど かつらことのは)",
+    "ko" : "카츠라 코토노하"
+  },
+  "num" : "2209",
+  "price" : 6900,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "School Days",
+    "ja" : "School Days",
+    "ko" : "School Days"
+  },
+  "set" : 338
+}

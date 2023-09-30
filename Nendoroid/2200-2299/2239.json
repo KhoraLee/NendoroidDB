@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14968,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230919/14968/121077/large/45ec95d0e58e4b2a134c59983707b977.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: The Vampire Ver.",
+    "ja" : "ねんどろいど 初音ミク ヴァンパイア Ver. (ねんどろいど はつねみく ゔぁんぱいあ Ver.)",
+    "ko" : "하츠네 미쿠 뱀파이어 Ver."
+  },
+  "num" : "2239",
+  "price" : 7500,
+  "release_date" : [
+    "2024/03"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "보컬로이드"
+  },
+  "set" : 10
+}

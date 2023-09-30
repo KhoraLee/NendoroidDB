@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14695,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230721/14695/118539/large/9ce3ae1061f58c5f7a13f094cd5531d7.jpg",
+  "name" : {
+    "en" : "Nendoroid Austria",
+    "ja" : "ねんどろいど オーストリア (ねんどろいど おーすとりあ)",
+    "ko" : "오스트레일리아"
+  },
+  "num" : "2213",
+  "price" : 6700,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "Hetalia World★Stars",
+    "ja" : "アニメ「ヘタリア World★Stars」",
+    "ko" : "헤타리아"
+  },
+  "set" : 158
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14936,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230908/14936/120830/large/c95fbcf77e092f0607c3747ff4164363.jpg",
+  "name" : {
+    "en" : "Nendoroid Aika Natsukawa",
+    "ja" : "ねんどろいど 夏川愛華 (ねんどろいど なつかわあいか)",
+    "ko" : "나츠카와 아이카"
+  },
+  "num" : "2259",
+  "price" : 6900,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "The Dreaming Boy is a Realist",
+    "ja" : "夢見る男子は現実主義者",
+    "ko" : "꿈꾸는 남자는 현실주의자"
+  }
+}

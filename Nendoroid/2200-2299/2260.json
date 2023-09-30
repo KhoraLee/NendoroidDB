@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14918,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230906/14918/120645/large/fb86dfd5dbe6e8d9c14552ff3cd29a13.jpg",
+  "name" : {
+    "en" : "Nendoroid E.T.",
+    "ja" : "ねんどろいど E.T. (ねんどろいど いーてぃー)",
+    "ko" : "E.T."
+  },
+  "num" : "2260",
+  "price" : 7700,
+  "release_date" : [
+    "2024/03"
+  ],
+  "series" : {
+    "en" : "E.T.",
+    "ja" : "E.T.",
+    "ko" : "E.T."
+  }
+}

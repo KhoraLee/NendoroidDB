@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14937,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230911/14937/121060/large/9347365a6a2b58c53280c2bea49ab442.jpg",
+  "name" : {
+    "en" : "Nendoroid Brian Nightraider",
+    "ja" : "ねんどろいど ブライアン・ナイトレイダー (ねんどろいど ぶらいあん・ないとれいだー)",
+    "ko" : "브라이언 나이트레이더"
+  },
+  "num" : "2270",
+  "price" : 8500,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "THE MARGINAL SERVICE",
+    "ja" : "THE MARGINAL SERVICE",
+    "ko" : "THE MARGINAL SERVICE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14568,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230626/14568/117557/large/a568078bf91a6b5b5061d58505d6702a.jpg",
+  "name" : {
+    "en" : "Nendoroid Nira-chan",
+    "ja" : "ねんどろいど にらちゃん (ねんどろいど にらちゃん)",
+    "ko" : "니라짱"
+  },
+  "num" : "2203",
+  "price" : 6800,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "Zutto Mayonaka De Iinoni",
+    "ja" : "ずっと真夜中でいいのに。",
+    "ko" : "계속 한밤중이면 좋을 텐데"
+  }
+}

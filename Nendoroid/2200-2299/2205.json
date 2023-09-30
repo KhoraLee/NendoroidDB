@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14604,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230703/14604/117618/large/eb011417ad0464e01b5b1f30017ac683.jpg",
+  "name" : {
+    "en" : "Nendoroid Satoru Gojo: Tokyo Jujutsu High School Ver.",
+    "ja" : "ねんどろいど 五条悟 高専Ver. (ねんどろいど ごじょうさとる こうせんVer.)",
+    "ko" : "고죠 사토루 고전Ver."
+  },
+  "num" : "2205",
+  "price" : 5800,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "Jujutsu Kaisen",
+    "ja" : "呪術廻戦",
+    "ko" : "주술회전"
+  },
+  "set" : 254
+}

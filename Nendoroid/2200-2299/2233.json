@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14745,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230730/14745/119007/large/283b5c43948e4ff9799dc24a15243ce4.jpg",
+  "name" : {
+    "en" : "Nendoroid Mitsuki Izumi",
+    "ja" : "ねんどろいど 和泉三月 (ねんどろいど いずみみつき)",
+    "ko" : "이즈미 미츠키"
+  },
+  "num" : "2233",
+  "price" : 5600,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  },
+  "set" : 176
+}

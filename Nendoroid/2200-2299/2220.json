@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14729,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230727/14729/118843/large/3c0d80e1e66971c737f45caed279aa71.jpg",
+  "name" : {
+    "en" : "Nendoroid Anna Yamada",
+    "ja" : "ねんどろいど 山田杏奈 (ねんどろいど やまだあんな)",
+    "ko" : "야마다 안나"
+  },
+  "num" : "2220",
+  "price" : 6500,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "The Dangers in My Heart",
+    "ja" : "僕の心のヤバイやつ",
+    "ko" : "내 마음의 위험한 녀석"
+  }
+}

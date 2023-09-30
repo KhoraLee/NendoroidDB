@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14849,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230823/14849/119922/large/77534f67870870683de57614bf158e5b.jpg",
+  "name" : {
+    "en" : "Nendoroid Kiyoka Kudo",
+    "ja" : "ねんどろいど 久堂清霞 (ねんどろいど くどうきよか)",
+    "ko" : "쿠도 키요카"
+  },
+  "num" : "2235",
+  "price" : 6800,
+  "release_date" : [
+    "2024/03"
+  ],
+  "series" : {
+    "en" : "My Happy Marriage",
+    "ja" : "わたしの幸せな結婚",
+    "ko" : "나의 행복한 결혼"
+  },
+  "set" : 339
+}

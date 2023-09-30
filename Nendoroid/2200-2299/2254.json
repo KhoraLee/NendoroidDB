@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14845,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230823/14845/119892/large/cf7a397bd45fcbddabda7dc8082a7a11.jpg",
+  "name" : {
+    "en" : "Nendoroid Akari Mizunashi",
+    "ja" : "ねんどろいど 水無灯里 (ねんどろいど みずなしあかり)",
+    "ko" : "미즈나시 아카리"
+  },
+  "num" : "2254",
+  "price" : 7200,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "ARIA",
+    "ja" : "ARIA",
+    "ko" : "아리아"
+  }
+}

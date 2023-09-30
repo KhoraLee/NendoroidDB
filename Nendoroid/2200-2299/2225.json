@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14746,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230730/14746/119023/large/ec387663515089d29927502cc0826d0d.jpg",
+  "name" : {
+    "en" : "Nendoroid Kiriko",
+    "ja" : "ねんどろいど キリコ (ねんどろいど きりこ)",
+    "ko" : "키리코"
+  },
+  "num" : "2225",
+  "price" : 9200,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "Overwatch 2",
+    "ja" : "オーバーウォッチ 2",
+    "ko" : "오버워치 2"
+  },
+  "set" : 152
+}

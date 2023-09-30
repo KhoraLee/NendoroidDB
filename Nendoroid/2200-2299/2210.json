@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14673,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230719/14673/118324/large/d855690b85b749d9a81f768af2071e2d.jpg",
+  "name" : {
+    "en" : "Nendoroid Sekai Saionji",
+    "ja" : "ねんどろいど 西園寺世界 (ねんどろいど さいおんじせかい)",
+    "ko" : "사이온지 세카이"
+  },
+  "num" : "2210",
+  "price" : 6900,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "School Days",
+    "ja" : "School Days",
+    "ko" : "School Days"
+  },
+  "set" : 338
+}

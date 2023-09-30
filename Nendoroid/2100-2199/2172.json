@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14690,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230720/14690/118462/large/a5b57d744c6324306f4500f7b6463c9c.jpg",
+  "name" : {
+    "en" : "Nendoroid Shizuku Kuroe",
+    "ja" : "ねんどろいど 黒江雫 (ねんどろいど くろえしずく)",
+    "ko" : "쿠로에 시즈쿠"
+  },
+  "num" : "2172",
+  "price" : 6800,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "My Dress-Up Darling",
+    "ja" : "TVアニメ「その着せ替え人形（ビスク・ドール）は恋をする」",
+    "ko" : "그 비스크 돌은 사랑을 한다"
+  },
+  "set" : 303
+}

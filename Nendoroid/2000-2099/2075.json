@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14803,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230810/14803/119476/large/05e3626daf6388ab1d0c6696b21909cd.jpg",
+  "name" : {
+    "en" : "Nendoroid Evan",
+    "ja" : "ねんどろいど Evan (ねんどろいど えゔぁん)",
+    "ko" : "루천"
+  },
+  "num" : "2075",
+  "price" : 7900,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "Light and Night",
+    "ja" : "光と夜の恋",
+    "ko" : "광여야지연"
+  },
+  "set" : 316
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14890,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230829/14890/120352/large/e6566ff69ab1c11e9808b169d7b79a4c.jpg",
+  "name" : {
+    "en" : "Nendoroid Mitsuri Kanroji",
+    "ja" : "ねんどろいど 甘露寺蜜璃 (ねんどろいど かんろじみつり)",
+    "ko" : "칸로지 미츠리"
+  },
+  "num" : "2217",
+  "price" : 6900,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "set" : 224
+}

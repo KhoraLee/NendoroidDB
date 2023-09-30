@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14955,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230913/14955/120982/large/39469d2f0e309bbf1bfe7a487879a5a2.jpg",
+  "name" : {
+    "en" : "Nendoroid Leorio",
+    "ja" : "ねんどろいど レオリオ (ねんどろいど れおりお)",
+    "ko" : "레오리오"
+  },
+  "num" : "1416",
+  "price" : 6500,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "HUNTER x HUNTER",
+    "ja" : "HUNTER×HUNTER",
+    "ko" : "헌터 X 헌터"
+  },
+  "set" : 222
+}

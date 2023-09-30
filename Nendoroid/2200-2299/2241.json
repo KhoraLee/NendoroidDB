@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14830,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230822/14830/119764/large/dc81b60958d780d98f9cf3fb7b01c21c.jpg",
+  "name" : {
+    "en" : "Nendoroid Dorothy Haze",
+    "ja" : "ねんどろいど ドロシー・ヘイズ (ねんどろいど どろしー・へいず)",
+    "ko" : "도로시 헤이즈"
+  },
+  "num" : "2241",
+  "price" : 6300,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "VA-11 HALL-A: Cyberpunk Bartender Action",
+    "ja" : "VA-11_HALL-A",
+    "ko" : "VA-11 Hall-A"
+  },
+  "set" : 309
+}

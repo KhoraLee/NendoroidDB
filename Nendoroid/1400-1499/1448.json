@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14954,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230913/14954/120950/large/5163bca50b4c8332a96b965735668c38.jpg",
+  "name" : {
+    "en" : "Nendoroid Yellmi",
+    "ja" : "ねんどろいど イルミ (ねんどろいど いるみ)",
+    "ko" : "이르미"
+  },
+  "num" : "1448",
+  "price" : 6200,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "HUNTER x HUNTER",
+    "ja" : "HUNTER×HUNTER",
+    "ko" : "헌터 X 헌터"
+  },
+  "set" : 222
+}

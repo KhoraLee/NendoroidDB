@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14875,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230828/14875/120182/large/369f5085e7fc40a1c1c2ba636fce7c6b.jpg",
+  "name" : {
+    "en" : "Nendoroid Kurumi",
+    "ja" : "ねんどろいど クルミ (ねんどろいど くるみ)",
+    "ko" : "쿠루미"
+  },
+  "num" : "2272",
+  "price" : 6300,
+  "release_date" : [
+    "2024/01"
+  ],
+  "series" : {
+    "en" : "Lycoris Recoil",
+    "ja" : "リコリス・リコイル",
+    "ko" : "리코리스 리코일"
+  },
+  "set" : 306
+}

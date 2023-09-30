@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14640,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230707/14640/118000/large/bb863a5b0e03c6eae4bdfcae24828bea.jpg",
+  "name" : {
+    "en" : "Nendoroid Lu Guang",
+    "ja" : "ねんどろいど 陸光(ヒカル) (ねんどろいど るーぐあん(ひかる))",
+    "ko" : "루광"
+  },
+  "num" : "2162",
+  "price" : 7000,
+  "release_date" : [
+    "2023/07",
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "LINK CLICK",
+    "ja" : "時光代理人",
+    "ko" : "시광대리인"
+  },
+  "set" : 329
+}

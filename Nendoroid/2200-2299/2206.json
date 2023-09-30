@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 14605,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230703/14605/117627/large/9e21e4075ca72b251d30b1bc60047363.jpg",
+  "name" : {
+    "en" : "Nendoroid Suguru Geto: Tokyo Jujutsu High School Ver.",
+    "ja" : "ねんどろいど 夏油傑 高専Ver. (ねんどろいど げとうすぐる こうせんVer.)",
+    "ko" : "게토 스구루 고전Ver."
+  },
+  "num" : "2206",
+  "price" : 5600,
+  "release_date" : [
+    "2023/12"
+  ],
+  "series" : {
+    "en" : "Jujutsu Kaisen",
+    "ja" : "呪術廻戦",
+    "ko" : "주술회전"
+  },
+  "set" : 254
+}
